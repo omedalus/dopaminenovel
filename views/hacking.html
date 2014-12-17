@@ -1,0 +1,949 @@
+<div class="view-hacking">
+  <p>
+    All of the computer hacking (or more appropriately,
+    <a href="http://www.techrepublic.com/blog/it-security/hacker-vs-cracker/">"cracking"</a>)
+    techniques depicted in
+    <i>Dopamine</i> are directly
+    usable in the real world at the time of writing. The resources listed below
+    can offer the interested reader more insight into how these attacks work,
+    how they can be implemented, and how to defend against them.
+  </p>
+  <p>
+    As always, this information is provided solely for entertainment and
+    education purposes. No party affiliated with this text claims
+    any responsibility for any damage to property or persons resulting from
+    the use of this material.
+  </p>
+  <p>
+    Mild spoilers lie ahead.
+  </p>
+
+  <div class="infolist">
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Hacking Basics I: The five stages of cyberattack
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            Hacking, by definition, is the act of getting a system to do
+            something that
+            its legitimate users (or possibly even its own designers)
+            expect it <em>not</em> to do. At it's heart, it's a sophisticated
+            form of con artistry &mdash; and like any good con, it requires
+            preparation
+            and attention to detail to pull off well.
+          </p>
+          <p>
+            A trained hacker executes an attack in
+            <a href="http://www.clrgroup.com/Site/pdf/EthicalHacking.pdf">
+              a well-established industry-standard five-step pattern</a>. It
+            looks like this:
+          </p>
+          <ul>
+            <li>
+              <em>1. Reconnaissance.</em> The hacker will learn about the person
+              or organization they're going to attack. They'll study the
+              personalities of a company's employees and try to discover
+              their motivations, desires, and personal weaknesses. The
+              hacker will later use this knowledge to get
+              someone somewhere within the organization to make a computer-related
+              mistake, or possibly look for mistakes that someone has already
+              made that leave a back door open somewhere.
+            </li>
+            <li>
+              <em>2. Scanning.</em> The hacker uses probing tools to examine the
+              victim's machines. Of particular interest is the make and model
+              of the equipment, and what software it's running. The hacker will
+              research the equipment to look for esoteric details that its
+              users or administrators might have missed &mdash; sometimes,
+              downloading a PDF of a manual from the manufacturer's
+              website can teach the hacker more about a computer or router
+              than the victims themselves know.
+            </li>
+            <li>
+              <em>3. Gaining access.</em> The hacker uses the knowledge gained
+              from the previous steps to get a foothold in the victim's
+              machines. "Access" can mean many things; it could just mean
+              reading a private webpage that only the victim is allowed to see,
+              or it could mean running administrator-level commands on any
+              computer on the victim's network. It all depends on what the
+              hacker's trying to do.
+            </li>
+            <li>
+              <em>4. Maintaining access.</em> Having gained a foothold, the
+              hacker will often install secret back doors to make it much
+              easier to attack the system again later. This takes a lot of
+              pressure off of the hacker. She might have gotten onto the
+              system in the first place only because of a glitch or stroke of
+              luck, but setting up back doors will allow her to come back
+              at a time and situation of her choosing, putting her in a much
+              better position to steal or corrupt data and get away with it
+              scot-free.
+            </li>
+            <li>
+              <em>5. Cleanup.</em> Having completed the infiltration, a good
+              hacker will remove all trace of ever having been there. They'll
+              scrub system logs, delete their own intrusion tools, reactivate
+              any antivirus systems they might have disabled on their way in,
+              and so on. Typically this will result in the victim being
+              completely unable to see how the attack occurred, much less where
+              it came from. A truly skilled hacker will leave the victim
+              unaware that an attack even took place at all.
+            </li>
+          </ul>
+          <p>
+            This formula is so well-established that it's part of the syllabus
+            for <a href="http://www.eccouncil.org/Certification/certified-ethical-hacker">
+              professional hacker training and certification courses</a>.
+            Hackers that deviate from this pattern (such as Danny and his
+            cohort of amateurs) often come to regret it.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Hacking Basics II: The S.T.R.I.D.E. threat model
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            When a hacker gets onto a computer or network, what is she looking
+            to accomplish?
+            The engineers at <a href="http://www.microsoft.com/security/default.aspx">
+              Microsoft</a> have extensive direct experience
+            with hackers and viruses (which isn't necessarily
+            <a href="http://www.thewindowsclub.com/infographic-timeline-history-computer-viruses">
+              a point of pride</a>). To keep the different kind of threats
+            straight, they developed a cyberattack classification system
+            called <a ref="http://en.wikipedia.org/wiki/STRIDE_(security)">"S.T.R.I.D.E."</a>,
+            revolving around the hacker's goals
+            and motives. The elements of the S.T.R.I.D.E. threat model are as follows:
+          </p>
+          <ul>
+            <li>
+              <em>Spoofing</em>: Pretending to be another user (post
+              embarrassing messages from their Twitter, for example).
+            </li>
+            <li>
+              <em>Tampering</em>: Altering data that they're not supposed
+              to be able to touch, such as an account balance.
+            </li>
+            <li>
+              <em>Repudiation</em>: Hide themselves from accountability
+              for their own actions. An example would be a money launderer
+              erasing the bank records of a transfer to his mafia clients,
+              or a burglar erasing the video recordings of his break-in.
+            </li>
+            <li>
+              <em>Information disclosure</em>: Accessing data that the hacker
+              isn't supposed to be allowed to see, such as his boss's emails.
+            </li>
+            <li>
+              <em>Denial of Service (DoS)</em>: Preventing a legitimate user
+              from accessing some online resource, such as when Anonymous
+              takes down a website.
+            </li>
+            <li>
+              <em>Elevation of privilege</em>: When a hacker gives herself
+              increased permissions on a system. For example, the hacker could
+              already have a free trial account on an online game, and use
+              her hacking skills to upgrade her account to a paid level.
+            </li>
+          </ul>
+          <p>
+            Many of these elements work in tandem with one another; for example,
+            a hacker can grant herself sysadmin rights (Elevation of privilege)
+            in order to download an otherwise restricted file (Information
+            disclosure). The purpose of such a threat model, ultimately, is
+            to
+            <a href="http://msdn.microsoft.com/en-us/magazine/cc163519.aspx">
+            help both engineers and hackers remember what the different
+            possibilities for cyberattack are</a>, so that they can continuously
+            brainstorm about potential weaknesses in a system.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Email tracking
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            To learn the IP address of Tungsten's corporate headquarters, Danny's
+            team sends Tina an innocuous-looking email rigged with a
+            <a href="http://en.wikipedia.org/wiki/Web_bug">web bug</a>. The book
+            depicts the tracking image as a large banner across the top of the
+            email, but in practice these are usually completely invisible
+            1-pixel-wide images called
+            <a href="http://skillcrush.com/2012/07/19/tracking-pixel/">
+              tracking pixels</a>.
+          </p>
+          <p>
+            There's nothing inherently malicious or
+            harmful in the use of images in an email, even if those images are
+            loaded from a web server. However, it may be worth bearing in mind
+            that, when your browser warns you that there are images in an
+            email and asks if you'd like to view them, the act of clicking "Yes"
+            could potentially inform the sender that the email has been read
+            (and the IP address that it was read at).
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Differential release analysis
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            Using the tracking image in their email, Danny's team learns about
+            the software that Tina is running on her desktop computer. They
+            immediate set to work looking for news and updates for that
+            software, with particular attention to version numbers and
+            release notes.
+          </p>
+          <p>
+            When hackers find a system running out-of-date programs, they can
+            check the software vendor's website and see what's changed between the
+            old version and the most recent one. Many times, the reason
+            a new version got released is because the old version was found to
+            have some kind of flaw that can expose a security vulnerability. This
+            means that, if hackers know that you're using the old software, they
+            don't need to do any work to find new flaws in it; the flaws are
+            already well-known.
+          </p>
+          <p>
+            <a href="http://resources.avg.com.au/security_risks/how-software-updates-keep-your-computer-mobile-devices-secure/#">
+              This brief video
+            </a> from antivirus research firm AVG for more perspective on
+            the topic. Its moral is clear: always keep your apps and OS up-to-date.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        SSHatter vs. SSH and DenyHosts
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            Every Unix or Linux administrator is surely familiar with
+            <a href="http://en.wikipedia.org/wiki/Secure_Shell">SSH</a>, the remote login
+            system that allows a user or admin to execute remote commands and even
+            <a href="http://www.cyberciti.biz/tips/running-x-window-graphical-application-over-ssh-session.html">
+              perform remote desktop operations</a> with the protection of strong
+            encryption. Exploits have been occasionally found in SSH (sometimes based
+            on new cryptographic discoveries fueled by ever-increasing computing
+            power), but they have
+            tended to be very rare, very specific to a particular configuration or
+            situation, and very hard to use in any meaningful way.
+          </p>
+          <p>
+            There exists a freely available tool called
+            <a href="http://freecode.com/projects/sshatter">SSHatter</a> that's designed
+            to brute-force its way through an SSH login. As described in <i>Dopamine</i>,
+            SSHatter works by attempting to connect to an SSH server with an astonishingly
+            large number of different login/password combinations, with the hope of
+            randomly stumbling across one that works. The only way to
+            practically use SSHatter is with a <a href="http://en.wikipedia.org/wiki/Botnet">
+              botnet</a>, a collection of other people's machines scattered around the Internet,
+            sometimes numbering in the tens of thousands. A hacker typically creates a
+            botnet by writing a virus and spreading it through the web; every machine
+            infected with the virus becomes part of the hacker's botnet, often without
+            the machine's owner knowing it. The hacker can then rent out the botnet
+            for use by his/her hacker friends in
+            executing distributed operations such as SSHatter.
+          </p>
+          <p>
+            Even with a ten-thousand-node botnet, executing a
+            full SSHatter attack can take days; and, even if the attack runs
+            to completion, success rates tend to be low. However, network administrators
+            who might nonetheless be concerned about such an attack should run
+            an Intrusion Prevention System (IPS) called
+            <a href="http://denyhosts.sourceforge.net/">DenyHosts</a>. It's easy
+            to install and runs almost completely transparently. It
+            protected Tungsten's network from Danny's first hacking attempt,
+            and it will protect yours.
+          </p>
+          <p>
+            (Incidentally, the tale about anti-sec's breakin of ImageShack
+            via an alleged flaw in <a href="http://www.openssh.org/">OpenSSH</a>
+            is real-world hacker history. It happened in July 2009.
+            Read about how the drama played out from
+            <a href="http://www.examiner.com/article/what-is-anti-sec-what-happened-to-imageshack-overnight-is-it-coming-to-town">
+              the hype around anti-sec and their manifesto</a>,
+            to <a href="http://isc.sans.org/diary/OpenSSH+Rumors/6742">
+              the spread of rumors about the OpenSSH flaw</a>,
+            to <a href="http://news.techworld.com/security/118941/openssh-flaw-is-a-hoax-warn-researchers/">
+              the ultimate revelation that the entire IT world had just been punked</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Cracking WiFi passwords
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            When the <a href="https://en.wikipedia.org/wiki/IEEE_802.11">IEEE 802.11
+            protocol series</a>
+            &mdash; the electronic transmission standard
+            that would come to be popularly known as Wi-Fi &mdash; first came out,
+            it didn't come with an encryption scheme; anybody with a properly tuned
+            antenna could read all Wi-Fi transmissions in plain text. The
+            <a href="http://www.wi-fi.org/">Wi-Fi Alliance</a> temporarily remedied this
+            situation by introducing a cryptographic protocol called
+            <a href="">Wired Equivalent Privacy (WEP)</a> (a somewhat ironic name in retrospect,
+            but science marches on). Unfortunately, in the early 2000s a series of
+            mathematical analyses of WEP revealed that, by observing a large number of
+            encrypted packets, an eavesdropper could eventually deduce the network
+            password. (The math behind this deduction process is somewhat akin to
+            solving an incredibly large Sudoku.)
+          </p>
+          <p>
+            <a href="http://www.oxid.it/cain.html">Cain and Abel</a> is one of many hacker
+            tools that have been built to exploit WEP's weaknesses. Others include
+            <a href="http://www.aircrack-ng.org/doku.php">Aircrack-ng</a> and the
+            aptly named <a href="http://wepcrack.sourceforge.net/">WEPCrack</a>.
+            They work by capturing encrypted packets from the air and replaying them
+            back onto the network in order to trick the access point (WiFi hotspot)
+            into transmitting replies; by doing this enough times, they're able
+            to collect a large number of encrypted packets. They then run these
+            encrypted packets through a set of algorithms to find patterns in
+            the encrypted data, which allows them to reconstruct the network password.
+          </p>
+          <p>
+            Few consumer devices today still run WEP; almost all have switched over
+            to WPA2. However, as was the case with Tungsten's
+            <a href="http://www.axis.com/products/cam_2130/">old, discontinued
+            PTZ security cameras</a>,
+            it's not uncommon to encounter networks that still
+            have to support legacy devices, which forces them to operate at the lowest
+            common denominator. These are getting rarer as time goes on, but some say
+            it's only a matter of time before some unassailable flaw is found in WPA
+            in turn.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Proximity cards (or RFID tags)
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            Tungsten uses standard contactless smart cards to unlock their
+            doors. These are the
+            <a href="http://www.bristolid.com/Products/Detail.aspx?product=47">
+              now-familiar proximity cards</a> that one can carry
+            in one's wallet and open a door merely by wagging one's butt near
+            a keycard reader.
+          </p>
+          <p>
+            <a href="http://www.databac.com/products/cards/card_technologies/rfid/13_56_mhz_legic.php">
+              Inside a keycard</a> there's a small microchip, and a long wispy coiled-up
+            antenna. The microchip stores encrypted identifying information,
+            which typically comes down to a serial number (a company that issues
+            these cards to its employees can thus track which employee has which card).
+            However, the card does <em>not</em> contain a battery or other power source,
+            so this microchip is unpowered. That's where the antenna comes in.
+          </p>
+          <p>
+            The card reader is actually a relatively powerful transmitter. You can think
+            of it like strong spotlight &mdash; except, instead of glowing white,
+            it glows at a color corresponding to 13.56 MHz. (RFID-based systems
+            work on the same principles, but at 125 kHz).
+            The keycard's antenna catches the waves being emitted by the reader,
+            and uses their energy to power the microchip. Conceptually, this is
+            similar to using a bright lightbulb to power a solar-powered calculator.
+            Once the microchip has power, it can use that very same antenna to
+            transmit its serial number to the reader.
+          </p>
+          <p>
+            A well-designed proximity card system will have the reader and the card
+            exchange pre-approved encryption keys (e.g. PGP keys and certificates verifiable
+            through each other's keychains) and use those encryption keys to
+            encode the transmission of the card's number. Proximity card systems
+            that <em>don't</em> take such measures are vulnerable to
+            <a href="http://proxclone.com/">ProxClone</a>. Quite simply, it's possible
+            (in fact, disturbingly easy)
+            to build an electronic device that radiates EM waves at the same
+            frequency as the proximity card reader, point it at someone's proximity
+            card, and read the card's response; because keycards are responsive even
+            when they're inside someone's wallet, the victim could be on the other end
+            of the room and never know their keycard is being cloned. Later, the hacker
+            transmits that same
+            response back to a <em>real</em> card reader, causing it to think
+            that the person is standing nearby waving their keycard. (See the
+            section on replay attacks, below.)
+          </p>          
+          <p>
+            Naturally, the antenna needs to be very sensitive (and the chip very
+            energy-efficient) to pick up sufficient
+            power to drive the microchip <em>and</em> still have enough milliwatts
+            left over to transmit data back to the reader. These factors contribute
+            to a tiny computing system that, relatively speaking, is rather easy to
+            destroy with a simple power overload &mdash; as Danny demonstrated.
+          </p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Replay attacks
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            A <a href="http://en.wikipedia.org/wiki/Replay_attack">replay attack</a>
+            is a very common and powerful exploitation technique that takes
+            advantage of an improperly implemented 
+            <a href="http://wiki.answers.com/Q/Difference_between_stateless_protocol_and_statefull_protocol">
+              stateless systems</a>. It works by simply watching two system
+            components communicate, recording the conversation, and then
+            going up to one of the components and impersonating the other by
+            playing back its side of the conversation. This can work even against
+            a system that has been built with very strong encryption; the
+            attacker doesn't need to understand the contents of the communications,
+            merely to retransmit them.
+          </p>
+          <p>
+            Satish performed a replay attack at the packet level, but such
+            vulnerabilities
+            can exist at all levels of hardware/software abstraction. In fact,
+            replay attacks still work at the highest level of abstraction: that
+            of the human being. If you've ever snuck into a VIP party or highly
+            exclusive bar by watching the people who were getting in,
+            eavesdropping on what they were saying to the bouncer, and repeating
+            those same words back to him, then you've already performed a
+            successful replay-attack hack.          
+          </p>
+          <p>
+            There are many ways that an engineer can build a system that will be
+            resistant to replay attacks. One of the quickest and easiest ways to
+            do so is to require one or both sides to 
+            <a href="http://stackoverflow.com/questions/10022053/how-does-timestamp-helps-in-preventing-replay-attacks-in-webservices">
+              transmit a timestamp</a> (ideally along with a hash of the timestamp
+            as well as some other mutually secret piece of data). This way, if
+            a server receives a packet with an old timestamp, then it will know
+            that a replay attack is occurring, thus thwarting the hacker's ability
+            to merely blindly retransmit old traffic.
+          </p>
+        </div>
+      </div>
+    </div>    
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Locking SIM cards and cellphones
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            Your phone's <a href="http://en.wikipedia.org/wiki/Subscriber_identity_module">
+              SIM card</a> is a standalone microchip that stores codes that can identify
+            you to cellular service providers. The SIM card works closely with
+            your phone's internal electronics, but it's actually its own tiny independent
+            computer. The cellphone cannot access the SIM card's memory directly; it has
+            to request data from the SIM card as with any separate machine.
+          </p>
+          <p>
+            This means that <a href="http://support.apple.com/kb/ht1316">
+              locking the SIM card</a>
+            is not the same thing as
+            <a href="http://www.imore.com/iphone-101-passcode-lock-iphone">
+              locking the phone</a>.
+            A SIM lock will prevent other people from stealing your SIM card
+            and making calls on it (that you will be billed for), but it will not
+            protect the data on your phone. At best, the phone can remember that it
+            needs to ask the user for a SIM PIN before turning on; however, the phone
+            has no idea what the SIM's correct PIN is. When the user enters a PIN,
+            the phone hands the entered PIN off to the SIM and asks it if it's correct.
+          </p>
+          <p>
+            The difference between a phone lock and a SIM lock has been known to
+            confuse some consumers, so some phone manufacturers (especially for cheaper,
+            more disposable models) have simplified the locking process by just using
+            a SIM lock for both. The problem with this, of course, is that this makes
+            the phone depend on its SIM card to tell it what its password is.
+            As Danny showed, circumventing a locked phone like this is as easy
+            as swapping the SIM card.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Spoofing emails
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            When engineers <a href="http://en.wikipedia.org/wiki/ARPANET">first
+            invented computer networks</a>, email was one of the first applications
+            they thought to create. Various small and easily-built computer-to-computer 
+            messaging protocols competed for popularity through the 1960s and '70s.
+            There was no mind paid to digital security at the time.
+            Computers then were
+            <a href="http://history-computer.com/ModernComputer/Software/Unix.html">
+              large machines taking up the basements
+            </a>
+             of corporate, academic, or military facilities, and
+            pen-and-ink logbooks were used for keeping track of who spent time on them
+            and when. It was a time when engineers were excited that
+            transmitting electronic mail was even <em>possible</em>; a world in which
+            billions of people depended on email for their basic everyday business
+            was still many decades away.
+          </p>
+          <p>
+            In the early 1980s, the various quick-and-dirty electronic message systems
+            were unified into the
+            <a href="http://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol">
+              Simple Mail Transfer Protocol (SMTP)</a>. SMTP was designed to be easy to
+            use and easy to debug &mdash; so easy, in fact, that a human being
+            should be able to 
+            <a href="http://abcdba.com/abcdbamailhowtospoofemailusingsmtp">           
+            type text commands</a> to impersonate one side of an
+            email transfer, with the computer on the other end never knowing that
+            <a href="http://www.youtube.com/watch?v=TjKBRfb-Ueg">
+              it was talking to a human being</a> rather than another machine.
+            This was not a bug; this was a feature.
+          </p>
+          <p>
+            Fast-forwarding to the modern world, this design decision naturally
+            results in some <a href="http://en.wikipedia.org/wiki/Email_spoofing">
+            unforeseen side-effects</a>. Unfortunately,
+            because email was one of the core
+            capabilities for which people bought computers in the first place,
+            SMTP is ubiquitous and thus almost impossible to categorically
+            replace today. 
+          </p>
+          <p>
+            Since the mid-nineties, 
+            <a href="http://www.sendmail.com/pdfs/open_source/installation_and_op_guide.pdf">
+              mail-processing programs</a> have been augmented
+            with various extensions to make up
+            for SMTP's lack of intrinsic security; these include
+            <a href="http://www.fehcom.de/qmail/smtpauth.html">SMTP AUTH</a>,
+            <a href="http://www.dkim.org/">DomainKeys Identified Mail (DKIM)</a>,
+            <a href="http://www.openspf.org/Introduction">Sender Policy Framework (SPF)</a>,
+            and <a href="http://en.wikipedia.org/wiki/E-mail_authentication#Authentication_methods">
+              many others</a>. Unfortunately, a mail server has to be configured
+            to actually <em>use</em> these protocols; the setup process is
+            sometimes difficult and frustrating
+            for the network administrator. Moreover, these systems only work 
+            when they're communicating with another mailserver that also uses 
+            the same system; a chain of email transfers is only as strong
+            as its weakest link.
+          </p>
+          <p>
+            The last decade has seen an extensive crackdown on insecure
+            mailservers.
+            Ten years ago, barely 10% of mailservers had any kind of
+            authentication; today, that value is over 99%. The ones that 
+            don't are called
+            <a href="http://en.wikipedia.org/wiki/Open_mail_relay">open mail
+            relays</a>; they are of particular interest to spammers because
+            they allow a spammer to send email messages with fake
+            FROM addresses. This is why Mike initially
+            balked at the idea of intentionally setting up an open mail relay;
+            the pernicious power of such a system quickly became clear. 
+          </p>
+          <p>
+            (Note that most real mailservers use 
+            <a href="http://en.wikipedia.org/wiki/DNSBL">a DNS-based blacklist</a>,
+            so that they wouldn't even accept a connection from a known
+            open mail relay; this didn't apply in Mike's case because he
+            took a normally legitimate mail relay owned by his school and
+            set it to operate as an open mail relay temporarily. Whether or
+            not he was ever caught for this, and what impact it had on 
+            his grades at <a href="http://bellevuecollege.edu/">
+              Bellevue College</a>, is
+            left to the imagination of the reader.)
+          </p>          
+        </div>
+      </div>
+    </div>    
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Social engineering
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            Computer hacking, fundamentally, is a form of con
+            artistry. Stripped of all of its technical complexity, hacking
+            involves knowing something that the mark doesn't, and using
+            that gap in the mark's awareness against him. Sometimes this
+            mark is many steps removed from the hacker; it could be a user
+            visiting a website, a sysadmin who built a network, or even an
+            engineer who designed an app. But, more often than you might
+            think, the mark is someone with whom the hacker interacts
+            personally, possibly even face-to-face.
+            Some of the best hackers in history have not been technical
+            wizards or cyber-savants. Rather, they've tended to be people
+            who have learned enough details about how some machine works
+            to merely outsmart a common user; and they've combined
+            that knowledge with the skill of smooth-talking or social
+            finesse to get users to put themselves at risk without even
+            knowing it.
+          </p>
+          <p>
+            The poster-child of this approach is the legendary
+            <a href="http://mitnicksecurity.com/">Kevin Mitnick</a>, whose
+            career has largely involved tricking people into giving him
+            information that they thought was innocuous but that he could
+            actually use to break into their data systems. Mitnick was a
+            master at acting as though, wherever he was,
+            <a href="https://www.youtube.com/watch?v=8L76gTaReeg">
+              he belonged there and
+              knew what he was doing
+            </a> &mdash; and he generally found that, when
+            acting with sufficient believability, people would cease
+            questioning <em>him</em> and begin instead to question
+            <em>themselves</em> for doubting him.
+            Mitnick showed time and again
+            that the easiest way to get somebody's password is to merely
+            call them up and ask them for it. "Hi, this is Kevin from IT.
+            We're noticing that your computer appears to be running slower
+            than usual. Don't worry, though; we can optimize your system
+            from down here. Can we have your login information, please?"
+          </p>
+          <p>
+            This works more often than you might imagine. In fact,
+            <a href="http://www.geekwire.com/2013/windows-2/">
+              one of the
+              biggest online scam operations
+            </a>
+            ever documented is occurring at the time of this writing, and it
+            involves random people being called on their phones and told,
+            "We're the Microsoft Windows Support Company, and we've detected
+            viruses on your computer. Please give us remote access so we can
+            remove them." Many people fall for this &mdash; and when they do,
+            they find that these scammers aren't there to <em>remove</em>
+            viruses; they're there to <em>install</em> them.
+          </p>
+          <p>
+            Most of the social engineering in <i>Dopamine</i> is performed by
+            Jason, but Danny finally gets the hang of it when he talks the
+            young, nervous employee at RockBox Security into unwittingly giving
+            Danny full control of his Macintosh workstation. He likewise tries
+            to use disguise and social expectation to grace his way through
+            the <i>Medina Gallante</i>, with a bit less success.
+            Hacking, like any form of conning, is as much art as science.
+          </p>
+        </div>
+      </div>
+    </div>    
+    
+    <div class="infolistitem">
+      <a class="infolistitem-header notready">
+        Reverse shells
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            <em>Coming soon!</em>
+          </p>
+        </div>
+      </div>
+    </div>    
+    
+    <div class="infolistitem">
+      <a class="infolistitem-header notready">
+        Finding 0-day bugs through source code examination
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            <em>Coming soon!</em>
+          </p>
+        </div>
+      </div>
+    </div>    
+    
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Home automation protocols (X10)
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            Anybody who used the web circa 2002 surely remembers popup ads for
+            <a href="http://x10pro-usa.com/x10-home.html">
+              X10 home automation kits</a>. X10 comprises a family of gadgets
+            that communicate with one another directly over a house's
+            power lines (radio frequency versions are available as well).
+            An <a href="http://en.wikipedia.org/wiki/X10_(industry_standard)">
+              X10 device module</a> can be designed to control an
+            appliance. For example, one can
+            <a href="http://www.amazon.com/X10-LM465-PLM03-Powerhouse-Module/dp/B00022OCCI/ref=sr_1_3?s=tv&ie=UTF8&qid=1375889500&sr=1-3">
+              plug a lamp into an X10 device module's socket</a>
+            and the X10 module can turn the lamp on and off,
+            dim it, etc.; an X10 module connected to an
+            <a href="http://www.smarthome.com/solution26.html">
+              air conditioner or heater</a> can regulate a room's temperature.
+            There are even X10 modules for
+              <a href="http://rollertrol.com/home-automation-x10-control-interface-for-motorized-blinds-shades">
+                motorized window blinds</a>.
+          </p>
+          <p>
+            X10 uses <a href="http://iobridge.com/technology/x10-home-automation.html">
+              bridges</a> to convert X10 signals to IP, so that X10-powered
+            devices can communicate on a computer network.
+            This allows a home rigged with X10 modules to be controlled from
+            a computer, just by clicking on buttons in a software application.
+          </p>
+          <p>
+            X10 is designed for convenience and capability, not security.
+            X10 modules don't use any kind of passwords or encryption.
+            It probably therefore comes as no surprise that hackers can easily
+            <a href="http://www.wired.com/threatlevel/2011/08/hacking-home-automation/">
+              take control of X10 modules</a> simply by plugging a device into
+            a wall outlet that happens to be on the same circuit as the
+            X10 module they want to command. If they find X10 bridges
+            operating on a computer network, then sending fake data to the bridge
+            can result in taking control of all of the X10 devices on that
+            bridge's portion of the building power grid.
+          </p>
+          <p>
+            There are <a href="http://www.tomshardware.com/reviews/home-automation-insteon,2308-3.html">
+              many home automation protocols</a>, but X10 remains the most
+            popular and well-known one as of this writing. None, however, have
+            particularly great security characteristics, making it possible for
+            a small hacker team like Danny's to easily subvert the automated appliances
+            of an entire high-security building such as the Medina Gallante.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        "Rubber-hose cryptanalysis"
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            What Danny and Eugene do to Ivan's three bodyguards in the sauna
+            is the oldest and most reliable way to gain access to someone's
+            data: put them in a position in which it's "in their best
+            interest" to give it to you.
+          </p>
+          <p>
+            The industry term
+            <a href="http://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis">
+              "rubber-hose cryptanalysis"</a>
+            (referring to the act of tying someone to a chair and beating them
+            with a rubber hose until they tell you what you want to know)
+            is tongue-in-cheek, but the use of strongarm coercion for someone's
+            data is no laughing matter.
+            Torturing someone to give up their password would not be unheard of
+            in countries like Turkmenistan and other former Soviet republics.
+            Indeed, in Russia there's a common joke about the extremely rapid
+            runtime performance of
+            <a href="http://mgpf.it/2009/03/23/1411.html">
+            "thermorectal cryptanalysis"</a>, which is the practice of cracking
+            a password by finding the guy who knows the password, shoving
+            a soldering iron up his ass, and turning it on; while it might take
+            a supercomputer millennia to break an encryption scheme, this
+            "algorithm" often produces a result in seconds.
+          </p>
+          <p>
+            The Western world is only a hair's breadth better. The United States
+            has
+            <a href="http://news.cnet.com/8301-31921_3-57364330-281/judge-americans-can-be-forced-to-decrypt-their-laptops/">
+              set legal precedent</a>
+            that a person must disclose their passwords to permit
+            police to look for incriminating files. Meanwhile, in Great Britain,
+            this obligation is
+            <a href="http://www.theguardian.com/world/2000/oct/24/qanda">
+              codified into law</a>.
+          </p>
+          <p>
+            Thwarting rubber-hose cryptanalysis involves research into cryptographic
+            <em>deniability</em>. There exist encryption protocols, for example,
+            that can be configured with two different passwords for two different
+            plaintexts. Giving the interrogator one password would unlock some
+            innocuous and uninteresting piece of data, while the "real" password
+            still permits access to the user's real information. These systems
+            are imperfect, however, insofar as an interrogator might still be able to
+            infer that false data has been given; in the case of Danny, Eugene,
+            and the three bodyguards, it would not have been in the bodyguards'
+            interests to give anything but their real information. In almost
+            all cryptosystems, the human user is the most vulnerable
+            point of failure.
+          </p>
+          <p>
+            (It's worth noting that a team of researchers recently developed a
+            particularly innovative approach in an attempt to prevent
+            password disclosure via coercive interrogation. They came up with
+            a technique to <a href="http://www.extremetech.com/extreme/133067-unbreakable-crypto-store-a-30-character-password-in-your-brains-subconscious-memory">
+              store a password in the motor memory of the user's brain</a>.
+            This makes it impossible for the interrogator to get the user to
+            tell them the password, because the user doesn't consciously
+            <em>know</em> his own password. The technique is far from practical,
+            but the researchers have earned worldwide acclaim for their
+            creativity.)
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Man-In-The-Middle (MITM) attacks
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            When Ivan Zheleznov tries to log onto his Estonian bank account,
+            Satish and Mike are able to redirect his Internet connection to a fake
+            mockup of the bank's real website (presumably built by Moshen, because
+            that is, after all, what he does for a living).
+          </p>
+          <p>
+            The intercepting of the connection should come as no surprise, considering
+            that Danny's team has pwned the Gallant's routers at that point. Every
+            packet on every computer in the entire hotel has to travel through these
+            routers at some point, so if a router is compromised then all of the traffic
+            going through it is subject to a 
+            <a href="http://www.veracode.com/security/man-middle-attack">
+            "Man-In-The-Middle" (MITM) attack</a>.
+          </p>
+          <p>What this means for most of us
+            is that a hacker doesn't need to plant a virus on your laptop in order to
+            steal your data. After all, sitting between you and the Internet is your
+            cable or DSL modem/router. If a hacker breaks into your cable modem, 
+            then she can watch everything you send to the Internet, and
+            every response that the Internet (i.e. your websites, chat sessions, etc.)
+            sends back. In fact, she can even alter the incoming and outgoing packets.
+            A computer sitting behind a compromised router is essentially like a
+            disembodied brain that's been placed into a jar and fed a Matrix-like
+            set of electrical stimuli to fool it into believing it's still interacting
+            with the real world &mdash; when in reality, it's completely under the control
+            of an evil mastermind. 
+          </p>
+          <p>
+            Look at your cable or DSL modem/router right now. It's sitting there plugged
+            into your wall, blinking with every packet that it passes between your
+            computer and the Internet. The everyday computer user doesn't realize that
+            this device is a miniature computer in its own right, with its own
+            software and operating system. Your laptop probably has ad blockers, a 
+            personal firewall, and
+            at least two different antivirus programs &mdash; indeed, you probably get
+            a prompt every other day asking you to update your virus definitions.
+            But what about your router? When's the last time you've updated <em>its</em>
+            virus definition file? Have you ever even logged into your router, much
+            less installed any kind of virus protection on it?
+            <a href="http://grahamcluley.com/2014/02/moon-router-worm/">
+            You probably should.</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="infolistitem">
+      <a class="infolistitem-header">
+        Hacking medical implants
+      </a>
+      <div class="infolistitem-content">
+        <div class="infolistitem-collapsed">
+          <p>
+            Just days before the hacker conference
+            <a href="https://www.defcon.org/html/defcon-21/dc-21-index.html">
+              DEF CON 21</a>, the infosec community lost one of its
+            brightest stars. Hacker extraordinaire
+            <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2013/07/29/rip-barnaby-jack-the-hacker-who-wanted-to-save-your-life/">
+              Barnaby Jack</a> passed away in San Francisco. At the time
+            of this writing, the coroner has not released the cause of
+            death, but has ruled out foul play. He was 36 years old.
+          </p>
+          <p>
+            Barnaby Jack was a living legend in the hacking world. He
+            caused a sensation at the Black Hat USA 2010 conference
+            in which he  
+            <a href="http://vimeo.com/13841482">
+              demonstrated "Jackpotting"</a>, the act of using
+            software to
+            <a href="http://www.youtube.com/watch?v=XmR0yvBTbTc">get an ATM to
+              spew out cash like a slot machine</a>.
+          </p>
+          <p>
+            In 2011, Barnaby Jack turned his attention to an implantable
+            insulin pump produced by medical device firm
+            <a href="http://www.medtronic.com/">Medtronic</a>.
+            Because the pump was contained inside the human body, it relied on
+            wireless transmissions
+            from a sensor to determine how much insulin to inject into
+            the patient and when. 
+            <a href="http://threatpost.com/blind-attack-wireless-insulin-pumps-could-deliver-lethal-dose-102711/75808">
+            Barnaby Jack noticed flaws in the
+            communication between the pump and the sensor</a>, and found that
+            he could use those flaws to
+            <a href="http://www.infosecurity-magazine.com/view/21601/barnaby-jack-hacks-diabetes-insulin-pump-live-at-hacker-halted/">
+              build a transmitter</a> that would
+            "compromise any vulnerable device within 300 feet."
+            With the ability to trick the
+            pump into dumping its entire supply of insulin at once into the
+            patient's bloodstream, such an attack could be
+            made lethal.
+          </p>
+          <p>
+            At the DEF CON 21 conference that he never made it to, Barnaby Jack 
+            was slated to demonstrate his latest work: 
+            <a href="http://rt.com/usa/hacker-pacemaker-barnaby-jack-639/">
+              wirelessly hacking pacemakers and implanted defibrillators</a>. 
+            Modern pacemakers have the
+            ability to transmit diagnostic information and receive calibration
+            instructions &mdash; capabilities that provide enormous
+            value to doctors and patients alike. Unfortunately, many of these
+            devices have been built with inadequate security protocols in place,
+            leading to the development of attack techniques that could
+            <a href="https://blogs.akamai.com/2013/07/black-hat-2013-remembering-barnaby-jack.html">
+            literally kill a man with a radio transmission</a>.
+          </p>
+          <p>
+            Some may ask what kind of person would want to figure out how to 
+            do these things. The answer is simple: the kind of person who designs and
+            manufactures these devices. If you make a pacemaker with a potentially
+            lethal security flaw that you didn't know about, and it hits the
+            market, then sooner or later somebody <em>will</em> discover that
+            flaw &mdash; and heaven help both you and your customers if that
+            someone is, say, Anonymous or the Chinese government.
+            Barnaby Jack's employer,
+            <a href="http://www.ioactive.com/">IOActive</a>, is
+            a white-hat security firm that works closely with system manufacturers
+            to fix flaws <em>before</em> they're revealed to the
+            world at large &mdash; because revealed they <em>will</em> be,
+            and if not by a white-hat like IOActive, then by... somebody else.
+          </p>
+        </div>
+      </div>
+    </div>    
+
+  </div>
+
+  <br/>
+  <i>This section is still being edited. Check back for updates!</i>
+</div>

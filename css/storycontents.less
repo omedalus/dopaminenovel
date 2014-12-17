@@ -1,0 +1,135 @@
+.storycontents {
+
+  color: #666;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 24px;
+
+
+  sup, sub {
+    font-size: 10px;
+    line-height: 0;
+  }
+
+  p {
+    margin-bottom: 1.2em;
+  }
+
+  hr {
+    margin-bottom: 2em;
+    margin-top: 2em;
+    width: 50%;
+  }
+  
+  .chapsection {
+    margin-top: 4em;
+  }
+  
+  // Blockquote
+  .prechapter {
+    font-weight: bold;
+    margin-right: 0;
+    padding-right: 0;
+    text-align: right;
+
+    .attrib {
+      font-weight: normal;
+      font-style: italic;
+    }
+  }
+  
+  .underlined {
+    text-decoration: underline;
+  }
+
+  // Drop cap.
+  p:first-child:first-letter { 
+    float: left; color: #903; 
+    font-size: 75px; 
+    line-height: 60px; 
+    padding-top: 4px; 
+    padding-right: 8px; 
+    padding-left: 3px; 
+  }
+
+  // Cap lead.
+  .caplead {
+    font-variant: small-caps;
+  }
+
+  // Cyber text.
+  .computer {
+    color: #060;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  span.computer {
+    font-size: 15px;
+  }
+  
+  pre.computer, .computer.email {
+    padding:  20px 80px 20px 40px;
+  }
+  
+  .cyberchat {
+    .speaker {
+      font-weight: bold;
+    }
+    
+    .message {
+      background: rgba(248, 255, 248, 200); 
+      border: 1px solid #9a9;
+      border-radius: 8px;
+      box-sizing: border-box;
+      margin-bottom: 1em;
+      padding: 8px;
+    }
+  
+    .messagein {
+      margin-right: 200px;
+    }
+    
+    .messageout {
+      margin-left: 200px;
+      text-align: right;
+    }
+  }
+  
+  .formcommentbox {
+    border: 1px solid #9a9;
+  }
+
+  // Thoughts.
+  .think {
+    color: #88a;
+    font-style: italic;
+  }
+  
+  .theend {
+    color: #aaa;
+    font-variant: small-caps;
+    margin-top: 60px;
+    text-align: center;
+  }
+}
+
+// Copyright page.
+.storyspace .copyrightpage {
+  color: #888;
+  font-size: 12px;
+  line-height: 18px;
+  max-width: 40em;
+  margin-bottom: 100px;
+  text-align: left;
+  
+  * {
+    margin-bottom: 20px;
+  }
+  
+  .booktitle-redux {
+    font-size: 16px;
+    font-variant: small-caps;
+  }
+}

@@ -1,0 +1,332 @@
+body {
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 28px;
+  margin: 40px 80px;
+  page-break-before: right;
+}
+
+p {
+  margin-bottom: 1.2em;
+  orphans: 3;
+  widows: 3;
+}
+
+
+sup, sub {
+  font-size: 10px;
+  line-height: 0;
+}
+
+/* Flourishes */
+hr {
+  margin-bottom: 2em;
+  margin-top: 2em;
+  max-width: 50%;
+}
+
+.underlined {
+  text-decoration: underline;
+}
+
+/* Chapters and sections. */
+.actbreak {
+  font-size: 80px;
+  margin-bottom: 2em;
+  margin-top: 1em;
+  padding-top: 2em;
+  page: actbreak;
+  text-align: center;
+}
+
+.chapter {
+}
+
+.chapter .chaptername {
+  font-size: 0px;
+  opacity: 0;
+}
+
+.chapter .chapternumber {
+  font-size: 50px;
+  margin-bottom: 3em;
+  margin-right: 1.5em;
+  margin-top: 1em;
+  text-align: right;
+}
+
+.blankpage {
+  page: blankpage;
+}
+
+.titlepage {
+  text-align: center;
+  page: titlepage;
+}
+.titlepage  .booktitle {
+  color: #7997df;
+  font-size: 120px;
+  font-variant: small-caps;
+  font-weight: bold;
+  line-height: 1em;
+  margin-bottom: .5em;
+  margin-top: 1.5em;
+  xxx-text-shadow: 2px 2px 2px #102041, -1px -1px 1px #102041;
+}
+.titlepage .authorbyline {
+  font-style: italic;
+}
+.titlepage .authorname {
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+/* Copyright */
+.copyrightpage {
+  color: #444;
+  font-size: 14px;
+  margin-top: 6em;
+  max-width: 40em;
+  page: copyrightpage;
+  page-break-before: always;
+  text-align: left;
+  vertical-align: bottom;
+}
+.copyrightpage * {
+  margin-top: 2em;
+}
+.copyrightpage .booktitle-redux {
+  font-variant: small-caps;
+}
+
+
+@page {
+  margin-top: 220px;
+  margin-bottom: 150px;
+  
+  @bottom-right {
+    content: counter(page);
+  }
+
+  @bottom-left {
+    content: "Mikhail Voloshin";
+  }
+
+  @top {
+    content: "Dopamine";
+    font-variant: small-caps;
+  }
+}
+
+@page actbreak {
+  @bottom-right {
+    content: none;
+  }
+  @bottom-left {
+    content: none;
+  }
+  @top {
+    content: none;
+  }
+}
+@page titlepage {
+  @bottom-right {
+    content: none;
+  }
+  @bottom-left {
+    content: none;
+  }
+  @top {
+    content: none;
+  }
+}
+@page copyrightpage {
+  @bottom-right {
+    content: none;
+  }
+  @bottom-left {
+    content: none;
+  }
+  @top {
+    content: none;
+  }
+}
+@page blankpage {
+  @bottom-right {
+    content: none;
+  }
+  @bottom-left {
+    content: none;
+  }
+  @top {
+    content: none;
+  }
+}
+@page tocpage {
+  @bottom-right {
+    content: none;
+  }
+  @bottom-left {
+    content: none;
+  }
+  @top {
+    content: none;
+  }
+}
+
+.blankpage {
+  page-break-before: always;
+}
+
+.titlepage {
+  page-break-before: right;
+}
+
+.tocpage {
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 120px;
+  page: tocpage;
+  page-break-before: always;
+}
+.tocpage ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+.tocpage li {
+  margin: 0;
+  margin-left: 20px;
+}
+.tocpage .toc-actbreak {
+  font-weight: bold;
+  margin-top: 12px;
+}
+
+.actbreak {
+  page-break-before: right;
+  padding-top: 2em;
+}
+
+.chapter {
+  page-break-before: right;
+}
+
+.printonly {
+  display: none;
+}
+
+/* Drop cap. */
+.chapsection p:first-child:first-letter { 
+  color: #903; 
+  float: left; 
+  font-size: 75px; 
+  line-height: 60px; 
+  padding-top: 4px; 
+  padding-right: 8px; 
+  padding-left: 3px; 
+}
+
+/* Cap lead. */
+.caplead {
+  font-variant: small-caps;
+}
+  
+.chapsection {
+  margin-top: 4em;
+}
+
+/* Thoughts. */
+.think {
+  color: #448;
+  font-style: italic;
+}
+
+/* The End. */
+.theend {
+  color: #aaa;
+  font-variant: small-caps;
+  margin-top: 60px;
+  text-align: center;
+}
+
+
+/* Blockquote. */
+.prechapter  {
+  font-weight: bold;
+  margin-right: 0;
+  padding-right: 0;
+  text-align: right;
+}
+
+.prechapter .attrib {
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Computer stuff. */
+.computer {
+  color: #040;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+pre.computer, .computer.email {
+  padding:  20px 80px 20px 40px;
+}
+
+span.computer {
+  font-size: 15px;
+}
+
+.formcommentbox {
+  border: 1px solid #9a9;
+}
+
+.cyberchat .speaker {
+  font-weight: bold;
+}
+  
+.cyberchat  .message {
+  background: rgba(248, 255, 248, 200); 
+  border: 1px solid #9a9;
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin-bottom: 1em;
+  padding: 8px;
+}
+
+.cyberchat  .messagein {
+  margin-right: 200px;
+}
+  
+.cyberchat  .messageout {
+  margin-left: 200px;
+  text-align: right;
+}
+
+/* Media overrides. */
+@media print {
+  body {
+    margin: 0;
+  }
+  pre.computer, .computer.email {
+    padding-left: 10px;
+    padding-right: 0;
+  }
+  
+  .printonly {
+    display: initial;
+  }
+  
+  .tocpage {
+    display: none;
+  }
+}
+
+@media (max-width:799px) {
+  pre.computer, .computer.email {
+    padding-left: 10px;
+    padding-right: 0;
+  }
+}

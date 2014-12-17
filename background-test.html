@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <!-- JQuery -->
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>    
+
+
+    <!-- PaperJS -->
+    <script type="text/javascript" src="thirdparty/paper-full-0.9.21.min.js"></script>
+    <script type="text/paperscript" src="js/background-cyberscene.js" canvas="cyberscene"></script>
+
+
+    <!-- AngularJS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"
+        type="text/javascript"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular-resource.min.js"
+        type="text/javascript"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular-sanitize.min.js"
+        type="text/javascript"></script>
+
+    <script src="js/main.js"></script>
+    <script src="js/chapter-resource.js"></script>
+    <script src="js/story-controller.js"></script>
+
+
+  </head>
+  
+  <style type="text/css">
+body {
+  background: black;
+  color: white;
+  margin: 0;
+}
+
+#cyberscene {
+  left: 0;
+  position: fixed;
+  top: 0;
+  z-index: -9999;
+}
+  </style>
+  
+  <body data-ng-app="dopaminenovel" class="noselect">
+    <canvas id="cyberscene" data-paper-resize="true" data-paper-keepalive="true">
+    </canvas>
+    
+    <div>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+      <p>La la la la</p>
+    </div>
+  </body>
+</html>

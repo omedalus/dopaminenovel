@@ -278,9 +278,9 @@ String.prototype.hashCode = function() {
 
       if (!flash.colorPrefix) {
         var colorChooser = Math.random();
-        if (colorChooser < .6) {
+        if (colorChooser < .8) {
           flash.colorPrefix = 'rgba(120, 120, 0, ';
-        } else if (colorChooser < .8) {
+        } else if (colorChooser < 1) {
           flash.colorPrefix = 'rgba(255, 0, 0, ';
         } else {
           flash.colorPrefix = 'rgba(0, 255, 255, ';

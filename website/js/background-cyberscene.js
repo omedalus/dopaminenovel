@@ -33,7 +33,7 @@ String.prototype.hashCode = function() {
   var Bubbles = [];
   var NUM_BUBBLES = 60;
   var BUBBLE_SIZE = .2;
-  var BUBBLE_DRIFT_RATE_PER_FRAME = .002;
+  var BUBBLE_DRIFT_RATE_PER_FRAME = .001;
   var FLASH_PROBABILITY_PER_FRAME = 0.0005;
   var FLASH_DURATION_FRAMES = 100;
 
@@ -56,7 +56,7 @@ String.prototype.hashCode = function() {
     return retval;
   }
   
-  var yOffs = genOffs(-.5, .5, NUM_BUBBLES);
+  var yOffs = genOffs(-.5, .5 + BUBBLE_SIZE, NUM_BUBBLES);
   var xOffs = genOffs(-1, 1, NUM_BUBBLES);
   var bubbleSizes = genOffs(.2, 1, NUM_BUBBLES);
   var driftSpeeds = genOffs(.2, 1, NUM_BUBBLES);
@@ -100,8 +100,8 @@ String.prototype.hashCode = function() {
       drawingCtx.beginPath();
       drawingCtx.arc(renderX, renderY, radius, 0, 2 * Math.PI, false);
 
-      var renderXextra = renderX - (BubbleObj.viewportScale.x * BUBBLE_SIZE * canvas.width * BubbleObj.objectScale * .7);
-      var renderYextra = renderY - (usingYScale * BUBBLE_SIZE * canvas.height * BubbleObj.objectScale * .7);;
+      var renderXextra = renderX - (BubbleObj.viewportScale.x * BUBBLE_SIZE * canvas.width * BubbleObj.objectScale * .5);
+      var renderYextra = renderY - (usingYScale * BUBBLE_SIZE * canvas.height * BubbleObj.objectScale * .5);;
       
       var gradient = drawingCtx.createRadialGradient(renderXextra, renderYextra, 0, renderX, renderY, radius);
       gradient.addColorStop(0, 'rgba(0, 240, 0, 1)');

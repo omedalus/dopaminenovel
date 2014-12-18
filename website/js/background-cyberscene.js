@@ -1,24 +1,37 @@
-// The following is a PaperScript script, which is not real JavaScript.
-// It uses PaperJS to animate the giant background canvas.
+/**
+ * Renders an animated background of green flashing bubbles and a circuitboard.
+ * Copyright 2014 (C) Mikhail Voloshin. All rights reserved.
+ */
 
-// 3D grid:
-// The viewer's eye is (0, 0, 0).
-// The center of the screen is (0, 0, SCREEN_Z).
-// X coordinate increases to the right.
-// Y coordinate increases upward.
-// Z coordinate increases into the screen, away from the viewer.
+var layers = {};
 
-// The Z coordinate of the pane of the screen.
-var SCREEN_Z = 4096;
+var layerDepths = {
+  BUBBLES: 0,
+  GRID_STATIC: 2,
+  GRID_ANIMATED: 1
+};
 
-var canvas;
-var drawingCtx;
+var animateBubbles;
+var setupCircuitGrid;
+var animateCircuitGrid;
 
-var drawBubbles;
+/**
+ * Add a hashcode method to String so that we can stably generate a stable circuit grid.
+ */
+String.prototype.hashCode = function() {
+  var hash = 0, i, chr, len;
+  if (this.length == 0) return hash;
+  for (i = 0, len = this.length; i < len; i++) {
+    chr   = this.charCodeAt(i);
+    hash  = ((hash << 5) - hash) + chr;
+    hash |= 0; // Convert to 32bit integer
+  }
+  return hash;
+};
 
 (function() {
   var Bubbles = [];
-  var NUM_BUBBLES = 40;
+  var NUM_BUBBLES = 20;
   var BUBBLE_SIZE = .2;
   var BUBBLE_DRIFT_RATE_PER_FRAME = .0005;
   var FLASH_PROBABILITY_PER_FRAME = 0.0005;
@@ -40,12 +53,21 @@ var drawBubbles;
     Bubbles.push(BubbleObj);
   }
 
-  drawBubbles = function() {
+  animateBubbles = function() {
+    var canvas = layers.BUBBLES.canvas;
+    var drawingCtx = layers.BUBBLES.drawingCtx;
+    
+    var yScrollRatio = window.scrollY / $(document).height();
+  
+    drawingCtx.clearRect(0, 0, canvas.width, canvas.height);
+  
     for (var iBubble = 0; iBubble < Bubbles.length; iBubble++) {
       var BubbleObj = Bubbles[iBubble];
  
+      var usingYScale = BubbleObj.viewportScale.y - (yScrollRatio * .2);
+ 
       var renderX = (.5 + BubbleObj.viewportScale.x) * canvas.width;
-      var renderY = (.5 + BubbleObj.viewportScale.y) * canvas.height;
+      var renderY = (.5 + usingYScale) * canvas.height;
 
       var radiusBase = Math.min(canvas.width, canvas.height);
       var radius = radiusBase * .2 * BubbleObj.objectScale;
@@ -54,7 +76,7 @@ var drawBubbles;
       drawingCtx.arc(renderX, renderY, radius, 0, 2 * Math.PI, false);
 
       var renderXextra = (.5 + BubbleObj.viewportScale.x * 1.05) * canvas.width;
-      var renderYextra = (.5 + BubbleObj.viewportScale.y * 1.05) * canvas.height;
+      var renderYextra = (.5 + usingYScale * 1.05) * canvas.height;
       
       var gradient = drawingCtx.createRadialGradient(renderXextra, renderYextra, 0, renderX, renderY, radius);
       gradient.addColorStop(0, 'rgba(0, 240, 0, 1)');
@@ -112,128 +134,85 @@ var drawBubbles;
   };
 })();
 
-var drawGrid;
-
 (function() {
-  var NUM_X = 80;
-  var NUM_Y = 60;
+  var VERTEX_BLOCK_SIZE = 12;
   var FLASH_PROBABILITY_PER_FRAME = 0.00005;
   var FLASH_PROBABILITY_CHANGE_DIR = 0.1;
 
-  var vertices = {};
+  var vertices;
+
+  // Use a date string prefix in lieu of a random function.
+  var today = new Date();
+  var salt = '' + today.getYear() + today.getMonth() + today.getDate();
   
-  for (var y = 0; y < NUM_Y; y++) {
-    for (var x = 0; x < NUM_X; x++) {
-      var vertexObj = {};
-      
-      vertexObj.position = {x: x, y: y};
-      vertexObj.key = '(' + x + ',' + y + ')';
-      vertices[vertexObj.key] = vertexObj;
-      
-      vertexObj.lines = {
-        diagback: Math.random() < .05,
-        back: Math.random() < .4,
-        up: Math.random() < .4,
-        diagfwd: Math.random() < .05
-      };
-      
-      vertexObj.flashing = false;
+  setupCircuitGrid = function() {
+    var canvas = layers.GRID_STATIC.canvas;
+    var drawingCtx = layers.GRID_STATIC.drawingCtx;
+    
+    vertices = {};
+
+    for (var y = 0; y < canvas.height + VERTEX_BLOCK_SIZE; y += VERTEX_BLOCK_SIZE) {
+      for (var x = 0; x < canvas.width + VERTEX_BLOCK_SIZE; x += VERTEX_BLOCK_SIZE) {
+        var vertexObj = {};
+        
+        vertexObj.position = {x: x, y: y};
+        vertexObj.key = '(' + x + ',' + y + ')';
+        vertices[vertexObj.key] = vertexObj;
+        
+        var vxstr = salt + vertexObj.key;
+        
+        vertexObj.lines = {
+          diagback: Math.abs((vxstr + 'diagback').hashCode()) % 20 === 0,
+          back: Math.abs((vxstr + 'back').hashCode()) % 20 < 8,
+          up: Math.abs((vxstr + 'up').hashCode()) % 20 < 8,
+          diagfwd: Math.abs((vxstr + 'diagfwd').hashCode()) % 20 === 0
+        };
+        
+        
+        vertexObj.flashing = false;
+      }
     }
-  }
-  
-  var drawNum = 0;
-  
-  drawGrid = function() {
+
     for (var vxKey in vertices) {
       vertexObj = vertices[vxKey];
       
-      var renderDX = canvas.width / (NUM_X - 1);      
-      var renderDY = canvas.height / (NUM_Y - 1);
-      var renderX = renderDX * vertexObj.position.x;
-      var renderY = renderDY * vertexObj.position.y;
-      
-      if (!vertexObj.flashing) {
-        if (Math.random() < FLASH_PROBABILITY_PER_FRAME) {
-          vertexObj.flashing = true;
-          vertexObj.flashDirection = Math.floor(Math.random() * 4);
-          vertexObj.flashDrawNum = 0;
-        }
-      }
+      var renderX = vertexObj.position.x - (VERTEX_BLOCK_SIZE / 2);
+      var renderY = vertexObj.position.y - (VERTEX_BLOCK_SIZE / 2);
       
       drawingCtx.beginPath();
       
       if (vertexObj.lines.diagback) {
         drawingCtx.moveTo(renderX, renderY);
-        drawingCtx.lineTo(renderX - renderDX, renderY - renderDY);
+        drawingCtx.lineTo(renderX - VERTEX_BLOCK_SIZE, renderY - VERTEX_BLOCK_SIZE);
       }
       
       if (vertexObj.lines.back) {
         drawingCtx.moveTo(renderX, renderY);
-        drawingCtx.lineTo(renderX - renderDX, renderY);
+        drawingCtx.lineTo(renderX - VERTEX_BLOCK_SIZE, renderY);
       }
 
       if (vertexObj.lines.up) {
         drawingCtx.moveTo(renderX, renderY);
-        drawingCtx.lineTo(renderX, renderY - renderDY);
+        drawingCtx.lineTo(renderX, renderY - VERTEX_BLOCK_SIZE);
       }
 
       if (vertexObj.lines.diagfwd) {
         drawingCtx.moveTo(renderX, renderY);
-        drawingCtx.lineTo(renderX + renderDX, renderY - renderDY);
+        drawingCtx.lineTo(renderX + VERTEX_BLOCK_SIZE, renderY - VERTEX_BLOCK_SIZE);
       }
       
-      if (vertexObj.flashing) {
-        drawingCtx.lineWidth = 3;
-        drawingCtx.strokeStyle = 'rgba(20, 60, 0, 1)';      
-      } else {
-        drawingCtx.lineWidth = 2;
-        drawingCtx.strokeStyle = 'rgba(0, 20, 0, 1)';
-      }
-      
-      if (vertexObj.flashing && vertexObj.flashDrawNum !== drawNum) {
-        var nextFlashDir = vertexObj.flashDirection;
-        
-        if (Math.random() < FLASH_PROBABILITY_CHANGE_DIR) {
-          nextFlashDir = Math.floor(Math.random() * 4);
-        }
-        
-        var nextFlashX = vertexObj.position.x;
-        var nextFlashY = vertexObj.position.y;
-        
-        if (nextFlashDir === 0) {
-          nextFlashX--;
-        } else if (nextFlashDir === 1) {
-          nextFlashX++;        
-        } else if (nextFlashDir === 2) {
-          nextFlashY--;
-        } else if (nextFlashDir === 3) {
-          nextFlashY++;
-        }
-
-        var nextVertexObjFlash = vertices['(' + nextFlashX + ',' + nextFlashY + ')'];
-        if (nextVertexObjFlash) {
-          nextVertexObjFlash.flashing = true;
-          nextVertexObjFlash.flashDirection = nextFlashDir;
-          nextVertexObjFlash.flashDrawNum = drawNum;
-        }
-      }
-      
-      if (vertexObj.flashDrawNum != drawNum) {
-        vertexObj.flashing = false;
-      }
-      
+      drawingCtx.lineWidth = 2;
+      drawingCtx.strokeStyle = 'rgba(0, 60, 0, 1)';
+            
       drawingCtx.stroke();
     }
-    
-    drawNum++;
   };
 
 })();
 
 
 function onFrame(event) {
-  drawGrid();
-  drawBubbles();
+  animateBubbles();
 };
 
 ///////////////////////////////////////////////////
@@ -242,21 +221,48 @@ function onFrame(event) {
 var frameTimeout = null;
 
 var tickFrame = function() {
-  canvas.width = window.innerWidth;
-  canvas.height = window.innerHeight;
-  
-  drawingCtx.clearRect(0, 0, canvas.width, canvas.height);
-
   onFrame();
   frameTimeout = setTimeout(tickFrame, 50);
 };
+
+$(window).resize(function() {
+  for (var layerName in layers) {
+    var layer = layers[layerName];
+    var canvas = layer.canvas;
+    
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+  }
+  
+  setupCircuitGrid();
+});
 
 ///////////////////////////////////////////////////
 // Doc ready.
 
 $(document).ready(function() {
-  canvas = document.getElementById('cyberscene');
-  drawingCtx = canvas.getContext('2d');
+  for (var layerName in layerDepths) {
+    var depth = layerDepths[layerName];
+    
+    canvas = document.createElement('canvas');
+    drawingCtx = canvas.getContext('2d');
+
+    layers[layerName] = {
+      canvas: canvas,
+      drawingCtx: drawingCtx
+    };
+
+    document.body.appendChild(canvas);
+
+    canvas.style.background = 'transparent';
+    canvas.style.left = 0;
+    canvas.style.position = 'fixed';
+    canvas.style.top = 0;
+    canvas.style.zIndex = -9999 - depth;
+  }
   
+  layers.GRID_STATIC.canvas.style.background = 'black';
+
+  $(window).resize();  
   tickFrame();
 });

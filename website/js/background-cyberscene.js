@@ -31,24 +31,29 @@ String.prototype.hashCode = function() {
 
 (function() {
   var Bubbles = [];
-  var NUM_BUBBLES = 20;
+  var NUM_BUBBLES = 30;
   var BUBBLE_SIZE = .2;
-  var BUBBLE_DRIFT_RATE_PER_FRAME = .0005;
+  var BUBBLE_DRIFT_RATE_PER_FRAME = .001;
   var FLASH_PROBABILITY_PER_FRAME = 0.0005;
   var FLASH_DURATION_FRAMES = 100;
   
   for (var iBubble = 0; iBubble < NUM_BUBBLES; iBubble++) {
+    var bubbleFactor = iBubble / NUM_BUBBLES;
+
     var BubbleObj = {};
     
     BubbleObj.viewportScale = {
-      x: Math.random() * 2 - 1,
+      x: bubbleFactor * 2 - 1,
       y: Math.random() - .5
     };
     
+    // Just to mix it up a little.
+    BubbleObj.viewportScale.x *= 7;
+    
     BubbleObj.flashProgress = 0;    
-    BubbleObj.drift = Math.random();
+    BubbleObj.drift = bubbleFactor;
 
-    BubbleObj.objectScale = .5 + Math.random();
+    BubbleObj.objectScale = .5 + bubbleFactor;
     
     Bubbles.push(BubbleObj);
   }
@@ -64,13 +69,13 @@ String.prototype.hashCode = function() {
     for (var iBubble = 0; iBubble < Bubbles.length; iBubble++) {
       var BubbleObj = Bubbles[iBubble];
  
-      var usingYScale = BubbleObj.viewportScale.y - (yScrollRatio * .2);
+      var usingYScale = BubbleObj.viewportScale.y - (yScrollRatio * BUBBLE_SIZE);
  
       var renderX = (.5 + BubbleObj.viewportScale.x) * canvas.width;
       var renderY = (.5 + usingYScale) * canvas.height;
 
       var radiusBase = Math.min(canvas.width, canvas.height);
-      var radius = radiusBase * .2 * BubbleObj.objectScale;
+      var radius = radiusBase * BUBBLE_SIZE * BubbleObj.objectScale;
 
       drawingCtx.beginPath();
       drawingCtx.arc(renderX, renderY, radius, 0, 2 * Math.PI, false);
@@ -126,7 +131,8 @@ String.prototype.hashCode = function() {
       }
  
       // Drift.
-      BubbleObj.viewportScale.x += BUBBLE_DRIFT_RATE_PER_FRAME * BubbleObj.drift;
+      var slowDriftWhileFlashing = 1 - (BubbleObj.flashProgress / FLASH_DURATION_FRAMES);
+      BubbleObj.viewportScale.x += BUBBLE_DRIFT_RATE_PER_FRAME * BubbleObj.drift * slowDriftWhileFlashing;
       if (BubbleObj.viewportScale.x > 2) {
         BubbleObj.viewportScale.x -= 3;
       }

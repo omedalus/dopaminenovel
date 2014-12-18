@@ -7,8 +7,7 @@
 
 
     <!-- PaperJS -->
-    <script type="text/javascript" src="thirdparty/paper-full-0.9.21.min.js"></script>
-    <script type="text/paperscript" src="js/background-cyberscene.js" canvas="cyberscene"></script>
+    <script type="text/javascript" src="js/background-cyberscene.js"></script>
 
 
     <!-- AngularJS -->
@@ -28,12 +27,13 @@
   
   <style type="text/css">
 body {
-  background: black;
+  background: blue;
   color: white;
   margin: 0;
 }
 
 #cyberscene {
+  background: black;
   left: 0;
   position: fixed;
   top: 0;
@@ -42,7 +42,7 @@ body {
   </style>
   
   <body data-ng-app="dopaminenovel" class="noselect">
-    <canvas id="cyberscene" data-paper-resize="true" data-paper-keepalive="true">
+    <canvas id="cyberscene">
     </canvas>
     
     <div>

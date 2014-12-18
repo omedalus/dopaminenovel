@@ -9,7 +9,7 @@ Several paces ahead, Zhan quickly chanted arcane syllables. With a hand that sud
 A veritable army of the foul beasts surrounded Krongor, stabbing with their serrated swords. The muscular warrior’s axe cleaved through an orc’s torso in a single blow. Yet no sooner had the foe fallen than one of its comrades advanced to fill its place.
 </p>
 <p>
-Zhan pointed toward the barbarian with splayed fingers and shouted another incantation &mdash; and in an instant, Krongor found himself engulfed in an inferno. In all directions, all Krongor could see was orange tongues of flame. The very air around him set alight, searing his lungs and singing his hair. His skin blistered and charred.
+Zhan pointed toward the barbarian with splayed fingers and shouted another incantation &mdash; and in an instant, Krongor found himself engulfed in an inferno. In all directions, all Krongor could see was orange tongues of flame. The very air around him set alight, searing his lungs and singeing his hair. His skin blistered and charred.
 </p>
 <p>
 And just as quickly as the fire had appeared, it vanished. The cavern was silent, save for the sizzling from the burnt remains of the orcs. Amidst a circle of ashen bodies, Krongor collapsed to his knees in agony. “You idiot!” he growled.

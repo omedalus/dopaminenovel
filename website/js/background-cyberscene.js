@@ -20,47 +20,9 @@ var drawBubbles;
   var Bubbles = [];
   var NUM_BUBBLES = 40;
   var BUBBLE_SIZE = .2;
-  var BUBBLE_DRIFT_RATE_PER_FRAME = .0003;
+  var BUBBLE_DRIFT_RATE_PER_FRAME = .0005;
   var FLASH_PROBABILITY_PER_FRAME = 0.0005;
   var FLASH_DURATION_FRAMES = 100;
-
-  /*
-  
-  var transgreen = new Color(0, .6, 0, .4);
-  var transparent = new Color(0, 0, 0, 0);
-
-  var fillColorGreenBubble = {
-    gradient: {
-      stops: [['green', 0], [transgreen, .2], [transgreen, .3], ['black', .9], [transparent, 1]],
-      radial: true
-    },
-    origin: [0, 0],
-    destination: [50, 0]
-  };
-
-  var fillColorWhiteFlash = {
-    gradient: {
-      stops: [['white', 0], ['white', .4], [transparent, 1]],
-      radial: true
-    },
-    origin: [0, 0],
-    destination: [50, 0]
-  };
-
-  
-  var BubblePath = new Path.Circle({
-    center: [0, 0],
-    radius: 50,
-    fillColor: fillColorGreenBubble
-  });
-  
-  var BubbleWhiteFlashPath = BubblePath.clone();
-  BubbleWhiteFlashPath.fillColor = fillColorWhiteFlash;
-  
-  var BubbleSymbol = new Symbol(BubblePath);
-  var BubbleFlashSymbol = new Symbol(BubbleWhiteFlashPath);
-  
-  */
   
   for (var iBubble = 0; iBubble < NUM_BUBBLES; iBubble++) {
     var BubbleObj = {};
@@ -95,8 +57,8 @@ var drawBubbles;
       var renderYextra = (.5 + BubbleObj.viewportScale.y * 1.05) * canvas.height;
       
       var gradient = drawingCtx.createRadialGradient(renderXextra, renderYextra, 0, renderX, renderY, radius);
-      gradient.addColorStop(0, 'rgba(0, 150, 0, 1)');
-      gradient.addColorStop(.2, 'rgba(0, 120, 0, .6)');
+      gradient.addColorStop(0, 'rgba(0, 240, 0, 1)');
+      gradient.addColorStop(.2, 'rgba(0, 180, 0, .6)');
       gradient.addColorStop(.9, 'rgba(0, 0, 0, .6)');
       gradient.addColorStop(1, 'rgba(0, 0, 0, 0)');
       
@@ -140,15 +102,6 @@ var drawBubbles;
           BubbleObj.flashProgress = 0;
         }
       }
-
-  //var transgreen = new Color(0, .6, 0, .4);
-  //var transparent = new Color(0, 0, 0, 0);
-
-  //var fillColorGreenBubble = {
-    //gradient: {
-      //stops: [['green', 0], [transgreen, .2], [transgreen, .3], ['black', .9], [transparent, 1]],
-      
-      
  
       // Drift.
       BubbleObj.viewportScale.x += BUBBLE_DRIFT_RATE_PER_FRAME * BubbleObj.drift;
@@ -231,7 +184,7 @@ var drawGrid;
       
       if (vertexObj.flashing) {
         drawingCtx.lineWidth = 3;
-        drawingCtx.strokeStyle = 'rgba(20, 40, 0, 1)';      
+        drawingCtx.strokeStyle = 'rgba(20, 60, 0, 1)';      
       } else {
         drawingCtx.lineWidth = 2;
         drawingCtx.strokeStyle = 'rgba(0, 20, 0, 1)';

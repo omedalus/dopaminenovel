@@ -30,6 +30,7 @@ body {
   background: blue;
   color: white;
   margin: 0;
+  text-align: center;
 }
 
 #cyberscene {
@@ -39,13 +40,22 @@ body {
   top: 0;
   z-index: -9999;
 }
+
+.main {
+  width: 960px;
+  margin: auto;
+  background: rgba(0,0,0,.7);
+  border-radius: 20px;
+  border: 3px solid black;
+  box-shadow: 0 0 20px 0 white inset;
+}
   </style>
   
   <body data-ng-app="dopaminenovel" class="noselect">
     <canvas id="cyberscene">
     </canvas>
     
-    <div>
+    <div class="main">
       <p>La la la la</p>
       <p>La la la la</p>
       <p>La la la la</p>

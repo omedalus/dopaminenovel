@@ -31,29 +31,49 @@ String.prototype.hashCode = function() {
 
 (function() {
   var Bubbles = [];
-  var NUM_BUBBLES = 30;
+  var NUM_BUBBLES = 60;
   var BUBBLE_SIZE = .2;
-  var BUBBLE_DRIFT_RATE_PER_FRAME = .001;
+  var BUBBLE_DRIFT_RATE_PER_FRAME = .002;
   var FLASH_PROBABILITY_PER_FRAME = 0.0005;
   var FLASH_DURATION_FRAMES = 100;
+
+  var genOffs = function(minVal, maxVal, numSteps) {
+    var step = (maxVal - minVal) / numSteps;
+  
+    var retval = [];
+    for (var t = minVal; t <= maxVal; t += step) {
+      retval.push(t);
+    }
+
+    // Knuth shuffling algo.
+    for (var i = retval.length - 1; i > 1; i--) {
+      var iShuffle = Math.floor(Math.random() * (i - 1));
+      var placeholder = retval[i];
+      retval[i] = retval[iShuffle];
+      retval[iShuffle] = placeholder;
+    }
+
+    return retval;
+  }
+  
+  var yOffs = genOffs(-.5, .5, NUM_BUBBLES);
+  var xOffs = genOffs(-1, 1, NUM_BUBBLES);
+  var bubbleSizes = genOffs(.2, 1, NUM_BUBBLES);
+  var driftSpeeds = genOffs(.2, 1, NUM_BUBBLES);
   
   for (var iBubble = 0; iBubble < NUM_BUBBLES; iBubble++) {
-    var bubbleFactor = iBubble / NUM_BUBBLES;
-
     var BubbleObj = {};
     
     BubbleObj.viewportScale = {
-      x: bubbleFactor * 2 - 1,
-      y: Math.random() - .5
+      x: xOffs.pop(),
+      y: yOffs.pop()
     };
     
-    // Just to mix it up a little.
-    BubbleObj.viewportScale.x *= 7;
+    console.log(BubbleObj.viewportScale);
     
     BubbleObj.flashProgress = 0;    
-    BubbleObj.drift = bubbleFactor;
-
-    BubbleObj.objectScale = .5 + bubbleFactor;
+    BubbleObj.objectScale = bubbleSizes.pop();
+    BubbleObj.drift = Math.pow(driftSpeeds.pop(), 3); // Power it, otherwise it's too uniform.
     
     Bubbles.push(BubbleObj);
   }
@@ -80,8 +100,8 @@ String.prototype.hashCode = function() {
       drawingCtx.beginPath();
       drawingCtx.arc(renderX, renderY, radius, 0, 2 * Math.PI, false);
 
-      var renderXextra = (.5 + BubbleObj.viewportScale.x * 1.05) * canvas.width;
-      var renderYextra = (.5 + usingYScale * 1.05) * canvas.height;
+      var renderXextra = renderX - (BubbleObj.viewportScale.x * BUBBLE_SIZE * canvas.width * BubbleObj.objectScale * .7);
+      var renderYextra = renderY - (usingYScale * BUBBLE_SIZE * canvas.height * BubbleObj.objectScale * .7);;
       
       var gradient = drawingCtx.createRadialGradient(renderXextra, renderYextra, 0, renderX, renderY, radius);
       gradient.addColorStop(0, 'rgba(0, 240, 0, 1)');
@@ -133,8 +153,8 @@ String.prototype.hashCode = function() {
       // Drift.
       var slowDriftWhileFlashing = 1 - (BubbleObj.flashProgress / FLASH_DURATION_FRAMES);
       BubbleObj.viewportScale.x += BUBBLE_DRIFT_RATE_PER_FRAME * BubbleObj.drift * slowDriftWhileFlashing;
-      if (BubbleObj.viewportScale.x > 2) {
-        BubbleObj.viewportScale.x -= 3;
+      if (BubbleObj.viewportScale.x > 1) {
+        BubbleObj.viewportScale.x -= 2;
       }
     }
   };

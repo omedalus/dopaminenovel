@@ -15,7 +15,7 @@
 @color-cyberforeground: #0af;
 @color-cybershadow: #008;
 @color-cyberhighlight: #fff;
-@color-cybersatin: rgba(40, 40, 80, .6);
+@color-cybersatin: rgba(0, 0, 0, .5);
 @color-cybersatin-shadow: rgba(0, 0, 60, .8);
 @color-cyberlink: #0c0;
 @color-cyberglow: #ff0;
@@ -59,6 +59,10 @@ body {
 header {
   text-align: right;
   margin: 0 0 20px;
+  
+  h2 {
+    float: left;
+  }
 }
 
 a {
@@ -98,7 +102,7 @@ p {
 h1, h2 {
   color: @color-cyberforeground;
   cursor: default;
-  font-family: Krunch;
+  font-family: Research;
   font-size: 64px;
   font-variant: small-caps;
   line-height: 1em;
@@ -336,29 +340,9 @@ article {
   }
 }
 
+
 .social {
-  display: table;
-  height: 100%;
-  margin: 0;
-  position: fixed;
-  right: 0;
   text-align: center;
-  top: 0;
-  width: 50px;
-  z-index: 100;
-
-  .socialcenter {
-    display: table-cell;
-    vertical-align: middle;
-
-    .socialtab {
-      .satin;
-      border-radius: 20px 0 0 20px;
-      border-right: none;
-      display: inline-block;
-      padding: 20px 0;
-    }
-  }
 }
 
 .indented {
@@ -403,7 +387,8 @@ article {
 
   nav {
     .rounded(20px);
-    font-family: Krunch;
+    font-family: Research;
+    font-size: 12px;
     padding-bottom: 20px;
     padding-left: 20px;
 
@@ -425,7 +410,7 @@ article {
     
     .chapteract {
       color: @color-cyberforeground;
-      font-size: 24px;
+      font-size: 18px;
       padding-top: 20px;
       text-shadow: 1px 1px 1px black;
     }

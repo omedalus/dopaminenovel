@@ -1,0 +1,35 @@
+@font-face {
+  font-family: Organo;
+  src: url('/fonts/Organo.ttf');
+}
+
+@font-face {
+  font-family: Hyperion;
+  src: url('/fonts/hyperion.ttf');
+}
+
+@font-face {
+  font-family: Hiruko;
+  src: url('/fonts/HirukoBlackAlternate.ttf');
+}
+
+@font-face {
+  font-family: WeirdScience;
+  src: url('/fonts/weird_science_nbp.ttf');
+}
+
+@font-face {
+  font-family: Brighton;
+  src: url('/fonts/BR_SANS.ttf');
+}
+
+@font-face {
+  font-family: Moonhouse;
+  src: url('/fonts/moonhouse.ttf');
+}
+
+@font-face {
+  font-family: Krunch;
+  src: url('/fonts/krunch_bold.ttf');
+}
+

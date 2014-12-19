@@ -15,8 +15,10 @@
 @color-cyberforeground: #0af;
 @color-cybershadow: #008;
 @color-cyberhighlight: #fff;
-@color-cybersilk: rgba(0, 0, 60, .6);
-@color-cybersilk-shadow: rgba(0, 0, 100, .8);
+@color-cybersatin: rgba(40, 40, 80, .6);
+@color-cybersatin-shadow: rgba(0, 0, 60, .8);
+@color-cyberlink: #0c0;
+@color-cyberglow: #ff0;
 
 
 body {
@@ -60,12 +62,13 @@ header {
 }
 
 a {
-  color: @color-foreground;
+  color: @color-cyberlink;
   font-weight: bold;
   text-decoration: none;
-  text-shadow: 1px 1px 1px @color-shadow;
+  text-shadow: 1px 1px 1px black;
   
   &:hover {
+    color: @color-cyberglow;
     text-decoration: underline;
 
     &.nounderline {
@@ -81,7 +84,6 @@ a {
   &.active {
     color: white;
     text-decoration: none;
-    text-shadow: 1px 1px 1px @color-foreground;
   }
 
   &.notready {
@@ -133,6 +135,10 @@ li {
   margin-bottom: 1em;
 }
 
+strong {
+  color: white;
+}
+
 .page {
   box-sizing: border-box;
   margin: auto;
@@ -140,14 +146,15 @@ li {
   width: 960px;
 }
 
-.silk {
+.satin {
   .rounded(20px);
   border: 4px solid black;
-  background: @color-cybersilk;
+  background: @color-cybersatin;
 }
 
 .main {
-  .silk;
+  .satin;
+  padding: 10px;
   text-align: left;
 }
 
@@ -159,7 +166,7 @@ li {
 }
 
 .main-pullquote {
-  .silk;
+  .satin;
   box-sizing: border-box;
   float: left;
   font-style: italic;
@@ -203,10 +210,15 @@ li {
 
 .promo {
   display: inline-block;
-  margin: 0 10px;
   position: relative;
   vertical-align: top;
   width: 380px;
+  
+  .fb-like, .fb-like-box {
+    background: rgba(0, 0, 40, .6);
+    box-sizing: border-box;
+    margin: 0 10px;
+  }
 }
 
 .readnow {
@@ -284,7 +296,6 @@ nav {
     padding: 0;
     
     li {
-      color: @color-midground;
       display: inline-block;
       margin-right: 20px;
     }
@@ -294,16 +305,13 @@ nav {
 .pagecontents {
   box-sizing: border-box;
   display: inline-block;
-  margin: 0 10px 10px;
+  margin-left: 20px;
   vertical-align: top;
-  width: 530px;
+  width: 490px;
 }
 
 article {
   .rounded(20px);
-  background: @color-background;
-  border: 1px solid @color-foreground;
-  box-shadow: 0 0 10px rgba(0, 0, 0, .8);
   margin-bottom: 20px;
   padding: 0 20px 20px;
 }
@@ -344,19 +352,13 @@ article {
     vertical-align: middle;
 
     .socialtab {
-      background: rgba(200, 200, 200, 0.6);
+      .satin;
       border-radius: 20px 0 0 20px;
-      border: 2px solid #666;
       border-right: none;
-      box-shadow: 0 0 4px rgba(0, 0, 0, .6);
       display: inline-block;
       padding: 20px 0;
     }
   }
-}
-
-.fb-like-box {
-  background-color: white;
 }
 
 .indented {
@@ -401,9 +403,7 @@ article {
 
   nav {
     .rounded(20px);
-    background: @color-background;
-    border: 1px solid @color-foreground;
-    box-shadow: 0 0 10px rgba(0, 0, 0, .8);
+    font-family: Krunch;
     padding-bottom: 20px;
     padding-left: 20px;
 
@@ -424,7 +424,10 @@ article {
     }
     
     .chapteract {
+      color: @color-cyberforeground;
+      font-size: 24px;
       padding-top: 20px;
+      text-shadow: 1px 1px 1px black;
     }
     
     .downloadfulltext {
@@ -459,12 +462,13 @@ article {
   .storyspaceholder {
     display: inline-block;
     margin-left: 20px;
-    width: 760px;
+    width: 720px;
     vertical-align: top;
   }
 
   .storyspace {
     background: white;
+    border: 2px solid black;
     border-radius: 8px;
     margin-bottom: 10px;
     padding: 60px;

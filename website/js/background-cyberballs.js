@@ -69,8 +69,6 @@ String.prototype.hashCode = function() {
       y: yOffs.pop()
     };
     
-    console.log(BubbleObj.viewportScale);
-    
     BubbleObj.flashProgress = 0;    
     BubbleObj.objectScale = bubbleSizes.pop();
     BubbleObj.drift = Math.pow(driftSpeeds.pop(), 3); // Power it, otherwise it's too uniform.

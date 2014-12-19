@@ -53,5 +53,16 @@ dopamineNovelApp.
           });
         }
       };
+    }]).
+    run(['$rootScope', '$timeout', function($rootScope, $timeout) {
+      $rootScope.$on('$locationChangeSuccess', function(ev) {
+        if (typeof FB !== 'undefined' && FB && FB.XFBML) {
+          // Refresh all Facebook widgets after the DOM is done.
+          $timeout(function() {
+            FB.XFBML.parse();
+            console.log('refreshed');
+          });
+        }
+      });
     }]);
 

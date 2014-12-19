@@ -45,12 +45,6 @@ dopamineNovelApp.controller('StoryController', ['$location', '$scope',
       return $location.absUrl();
     }
 
-    $scope.fbApply = function() {
-      if (typeof FB !== 'undefined' && FB && FB.XFBML) {
-        FB.XFBML.parse();
-      }
-    }
-
     $scope.$watch(function() {
       return (!angular.isDefined($routeParams.chapter) || 
           $routeParams.chapter == null) ? null :
@@ -61,8 +55,6 @@ dopamineNovelApp.controller('StoryController', ['$location', '$scope',
       $rootScope.chapter = newValue;
       $rootScope.storymode = isStorymode;
 
-      $scope.fbApply();
-      
       $scope.chapterContents = null;
       if (newValue) {
         ChapterResource.get(newValue).success(function(data) {

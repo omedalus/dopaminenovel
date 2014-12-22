@@ -30,8 +30,9 @@
     <script src="js/chapter-resource.js"></script>
     <script src="js/story-controller.js"></script>
 
-    <!-- Animated background skin -->
+    <!-- Ambient animations -->
     <script type="text/javascript" src="js/background-cyberballs.js"></script>
+    <script type="text/javascript" src="js/holostatic-title.js"></script>
 
     <!-- ShareThis widget -->
     <script type="text/javascript">var switchTo5x=true;</script>
@@ -79,7 +80,8 @@
           Chapter {{chapter}}
         </h2>
 
-        <h1 class="sitename">
+        <h1 class="sitename" id="holostatic-title">
+          <!-- style tag necessary to preload font. It sucks but it works. -->
           <a href="#" target="dopaminenovelwindow">Dopamine</a>
         </h1>
 
@@ -114,16 +116,6 @@
                
           <br/>
           <br/>
-
-          <!-- Facebook Page "Like Box" -->
-          <div class="fb-like-box"
-              data-colorscheme="dark"
-              data-href="https://www.facebook.com/pages/Dopamine/239236939542709"
-              data-width="360"
-              data-show-faces="false"
-              data-header="true"
-              data-stream="true"
-              data-show-border="true"></div>             
         </section>
 
         <section class="pagecontents" data-ng-hide="storymode">
@@ -244,13 +236,25 @@
             
             <div class="fbchaptercomments">
               <div class="fb-comments" data-href="{{fbCommentFrameHref()}}" 
-                  data-width="700" data-numposts="20" data-colorscheme="light"></div>
+                  data-width="700" data-numposts="20" data-colorscheme="dark"></div>
             </div>
           </div>
 
         </section>
-
       </div>
+      
+      <!-- Facebook Page "Like Box" -->
+      <div data-ng-hide="storymode" class="fb-like-box-holder">
+        <div class="fb-like-box"
+            data-colorscheme="dark"
+            data-href="https://www.facebook.com/pages/Dopamine/239236939542709"
+            data-width="900"
+            data-show-faces="false"
+            data-header="true"
+            data-stream="true"
+            data-show-border="true"></div>
+      </div>
+
     </div>
   </body>
 </html>

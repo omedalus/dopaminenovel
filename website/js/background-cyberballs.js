@@ -3,6 +3,8 @@
  * Copyright 2014 (C) Mikhail Voloshin. All rights reserved.
  */
 
+(function() {
+ 
 var layers = {};
 
 var layerDepths = {
@@ -102,8 +104,8 @@ String.prototype.hashCode = function() {
       var renderYextra = renderY - (usingYScale * BUBBLE_SIZE * canvas.height * BubbleObj.objectScale * .5);;
       
       var gradient = drawingCtx.createRadialGradient(renderXextra, renderYextra, 0, renderX, renderY, radius);
-      gradient.addColorStop(0, 'rgba(0, 240, 0, 1)');
-      gradient.addColorStop(.2, 'rgba(0, 180, 0, .6)');
+      gradient.addColorStop(0, 'rgba(60, 160, 100, 1)');
+      gradient.addColorStop(.2, 'rgba(40, 100, 80, .6)');
       gradient.addColorStop(.9, 'rgba(0, 0, 0, .6)');
       gradient.addColorStop(1, 'rgba(0, 0, 0, 0)');
       
@@ -271,7 +273,7 @@ String.prototype.hashCode = function() {
         }
         
         drawingCtx.lineWidth = 2;
-        drawingCtx.strokeStyle = 'rgba(0, 40, 0, 1)';
+        drawingCtx.strokeStyle = 'rgba(20, 40, 30, 1)';
               
         drawingCtx.stroke();
       }
@@ -407,9 +409,11 @@ $(document).ready(function() {
     canvas.style.zIndex = -9999 - depth;
   }
   
-  layers.GRID_STATIC.canvas.style.background = 'black';
+  layers.GRID_STATIC.canvas.style.background = '#111';
   layers.GRID_ANIMATED.canvas.style.opacity = .5;
 
   $(window).resize();  
   tickFrame();
 });
+
+})();

@@ -32,15 +32,15 @@
        id="linearGradient4530">
       <stop
          id="stop4532"
-         style="stop-color:#ffe623;stop-opacity:1;"
+         style="stop-color:#dddddd;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop4534"
-         style="stop-color:#f57807;stop-opacity:1;"
+         style="stop-color:#999999;stop-opacity:1;"
          offset="0.60992908" />
       <stop
          id="stop4536"
-         style="stop-color:#9c4a00;stop-opacity:1;"
+         style="stop-color:#111111;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -135,7 +135,7 @@
          sodipodi:cx="533.2113"
          sodipodi:sides="15"
          id="path5611"
-         style="fill:url(#radialGradient5615);fill-opacity:1;stroke:none"
+         style="fill:url(#radialGradient5615);fill-opacity:1;stroke:black;stroke-opacity:1;stroke-width:3;"
          sodipodi:type="star" />
       <path
          sodipodi:nodetypes="cscccccccccccccccccs"

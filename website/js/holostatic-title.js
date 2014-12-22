@@ -49,10 +49,10 @@ var renderPlain = function() {
   
   drawingCtx.strokeStyle = 'rgba(60, 160, 100, .6)';
   drawingCtx.lineWidth = 8;
-  drawingCtx.strokeText(text, 400, 48);
+  drawingCtx.strokeText(text, 400, 52);
 
   drawingCtx.fillStyle = 'white';
-  drawingCtx.fillText(text, 400, 48);
+  drawingCtx.fillText(text, 400, 51);
   
   return true;
 }

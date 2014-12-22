@@ -10,7 +10,7 @@ var drawingCtx;
 var text;
 
 var animationIntervalMinFrames = 30;
-var animationIntervalMaxFrames = 100;
+var animationIntervalMaxFrames = 150;
 var frameMs = 50;
 
 var animations = [];
@@ -111,6 +111,40 @@ var animGradualVerticalMagnify = function(relFrame) {
 };
 animations.push(animGradualVerticalMagnify);
 
+var animFlashMagnify = function(relFrame) {
+  var magnifyFactor = (relFrame / 30);
+  
+  renderPlain();
+
+  drawingCtx.globalAlpha = 1 - magnifyFactor;
+  drawingCtx.translate(-canvas.width * magnifyFactor / 2, -canvas.height * magnifyFactor / 2);
+  drawingCtx.scale(1 + magnifyFactor, 1 + magnifyFactor);
+  renderPlain();
+
+  return magnifyFactor < 1;
+};
+animations.push(animFlashMagnify);
+
+var animBlockBlank = function(relFrame) {
+  var numFrames = 10;
+  var blockSize = 10;
+  
+  renderPlain();
+  
+  for (var y = 0; y < canvas.height; y += blockSize) {
+    for (var x = 0; x < canvas.width; x += blockSize) {
+      if (Math.random() < .6) {
+        continue;
+      }
+      
+      drawingCtx.clearRect(x, y, blockSize, blockSize);
+    }
+  }
+  
+  return relFrame < numFrames;
+};
+animations.push(animBlockBlank);
+
 var runAnimation;
 (function() {
   var frame = 0;
@@ -124,7 +158,7 @@ var runAnimation;
     canvas.width = canvas.width;
     
     // Create the hovering animation.
-    translateHover(frame);
+    //translateHover(frame);
     
     if (!currentAnim || frame >= frameNextAnimStarts) {
       currentAnim = animations[Math.floor(animations.length * Math.random())];

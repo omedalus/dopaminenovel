@@ -60,7 +60,6 @@ dopamineNovelApp.
           // Refresh all Facebook widgets after the DOM is done.
           $timeout(function() {
             FB.XFBML.parse();
-            console.log('refreshed');
           });
         }
       });

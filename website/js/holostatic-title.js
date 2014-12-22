@@ -51,7 +51,12 @@ var renderPlain = function() {
   drawingCtx.lineWidth = 8;
   drawingCtx.strokeText(text, 400, 52);
 
-  drawingCtx.fillStyle = 'white';
+  drawingCtx.fillStyle = '#fff';
+  
+  if ($(canvas.parentNode).is(':hover')) {
+    drawingCtx.fillStyle = '#ff0';
+  }
+  
   drawingCtx.fillText(text, 400, 51);
   
   return true;

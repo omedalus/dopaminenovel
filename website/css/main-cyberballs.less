@@ -13,7 +13,9 @@
 @color-softgray: #444;
 
 @color-link: #fff;
+@color-linkshadow: #888;
 @color-pagemenulink: #f00;
+@color-pagemenulinkshadow: #800;
 
 @color-cyberforeground: #fff; //#0af;
 @color-cybershadow: #008;
@@ -72,10 +74,11 @@ a {
   color: @color-link;
   font-weight: bold;
   text-decoration: none;
-  text-shadow: 1px 1px 1px black;
+  text-shadow: 1px 1px 1px @color-linkshadow;
   
   li[data-dn-nav-href] & {
     color: @color-pagemenulink;
+    text-shadow: 1px 1px 1px @color-pagemenulinkshadow;
   }
 
   &:hover,

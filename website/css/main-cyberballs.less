@@ -19,11 +19,14 @@
 
 @color-cyberforeground: #fff; //#0af;
 @color-cybershadow: #008;
-@color-cyberhighlight: #ddd;
+@color-cyberhighlight: #bbb;
 @color-cyberoutline: rgba(60, 160, 100, .6);
 @color-cybersatin: rgba(0, 0, 0, .5);
 @color-cybersatin-shadow: rgba(0, 0, 60, .8);
 @color-cyberglow: #ff0;
+
+@color-dimtext: #888;
+@color-dimshadow: #888;
 
 
 body {
@@ -430,7 +433,9 @@ article {
       padding-left: 10px;
     
       &.currentchapter {
-        color: white;
+        color: @color-pagemenulink;
+        cursor: default;
+        text-shadow: 1px 1px 1px @color-pagemenulinkshadow;
 
         &:hover {
           text-decoration: none;
@@ -439,10 +444,10 @@ article {
     }
     
     .chapteract {
-      color: @color-cyberforeground;
+      color: @color-dimtext;
       font-size: 18px;
       padding-top: 20px;
-      text-shadow: 1px 1px 1px black;
+      text-shadow: 1px 1px 1px @color-dimshadow;
     }
     
     .downloadfulltext {

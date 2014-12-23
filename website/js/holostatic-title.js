@@ -10,8 +10,8 @@ var drawingCtx;
 var text;
 
 var animationIntervalMinFrames = 0;
-var animationIntervalMaxFrames = 1;
-var frameMs = 500;
+var animationIntervalMaxFrames = 300;
+var frameMs = 30;
 
 var animations = [];
 
@@ -73,7 +73,7 @@ var translateHover = function(relframe) {
 };
 
 var animGradualHorizontalBleed = function(relFrame) {
-  var lineToDisplace = (relFrame / 20) * canvas.height;
+  var lineToDisplace = (relFrame / 100) * canvas.height;
   var firstLineToDisplace = lineToDisplace;
   var lineIntervals = [];
   for (var i = 0; i < 2 + Math.floor(Math.random() * 5); i++) {
@@ -99,7 +99,7 @@ var animGradualHorizontalBleed = function(relFrame) {
 animations.push(animGradualHorizontalBleed);
 
 var animGradualVerticalMagnify = function(relFrame) {
-  var lineToDisplace = (relFrame / 30) * canvas.width;
+  var lineToDisplace = (relFrame / 100) * canvas.width;
   var blockWidth = 10 + Math.random() * 10;
   
   renderPlain();
@@ -117,7 +117,7 @@ var animGradualVerticalMagnify = function(relFrame) {
 animations.push(animGradualVerticalMagnify);
 
 var animFlashMagnify = function(relFrame) {
-  var magnifyFactor = (relFrame / 30);
+  var magnifyFactor = (relFrame / 100);
   
   renderPlain();
 
@@ -131,10 +131,10 @@ var animFlashMagnify = function(relFrame) {
 animations.push(animFlashMagnify);
 
 var animBlockBlank = function(relFrame) {
-  var numFrames = 50;
+  var numFrames = 100;
   var blockSize = 10;
   
-  var blockOutRatio = 1 - (relFrame / numFrames);
+  var blockOutRatio = 1 - Math.pow(relFrame / numFrames, 3);
   
   renderPlain();
   
@@ -153,7 +153,7 @@ var animBlockBlank = function(relFrame) {
 animations.push(animBlockBlank);
 
 var animGrowStretch = function(relFrame) {
-  var numFrames = 50;
+  var numFrames = 150;
   var xScaleDelta = (.05 * Math.sin(2 * Math.PI * relFrame / numFrames));
   var yScaleDelta = (.05 * Math.sin(3 * Math.PI * relFrame / numFrames));
 
@@ -166,7 +166,7 @@ var animGrowStretch = function(relFrame) {
 animations.push(animGrowStretch);
 
 var animFadeOut = function(relFrame) {
-  var numFrames = 50;
+  var numFrames = 150;
   var deadFrames = 10;
   var halfNumFrames = numFrames / 2;
 
@@ -183,8 +183,6 @@ var animFadeOut = function(relFrame) {
 };
 animations.push(animFadeOut);
 
-
-animations = [animGradualHorizontalBleed];
 
 var runAnimation;
 (function() {

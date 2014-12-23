@@ -27,10 +27,14 @@ var waitForFontToLoad = function(fontName, fnWhenLoaded) {
   fontElem.innerHTML = '___';
   
   var elemWidth;
+  var totalTimeWaited = 0;
+  
   var keepWaiting = function() {
+    totalTimeWaited += frameMs;
+  
     var nowWidth = fontElem.offsetWidth;
     
-    if (elemWidth && elemWidth !== nowWidth) {
+    if ((elemWidth && elemWidth !== nowWidth) || totalTimeWaited > 3000) {
       // The font was something before, but now it's changed. That must mean
       // that it's finished loading.
       document.body.removeChild(fontElem);

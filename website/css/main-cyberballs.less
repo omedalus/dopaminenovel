@@ -3,19 +3,20 @@
 @import 'fonts.css';
 
 @color-action: #b00000;
-@color-action-hover: #f00;
+@color-action-hover: #ff0;
+@color-action-hover-shadow: #880;
 @color-background: #000;
 @color-burst: #fa4;
 @color-burst-border: #000;
-@color-foreground: #bbb;
+@color-foreground: #d0d0d0;
 @color-midground: #5f80a3; 
 @color-shadow: #7997df;
 @color-softgray: #444;
 
 @color-link: #fff;
-@color-linkshadow: #888;
-@color-pagemenulink: #f00;
-@color-pagemenulinkshadow: #800;
+@color-linkshadow: #444;
+@color-currentlink: #f00;
+@color-currentlinkshadow: #600;
 
 @color-cyberforeground: #fff; //#0af;
 @color-cybershadow: #008;
@@ -26,7 +27,10 @@
 @color-cyberglow: #ff0;
 
 @color-dimtext: #888;
-@color-dimshadow: #888;
+@color-dimshadow: #444;
+
+@font-header: inherit;
+@font-title: Research;
 
 
 body {
@@ -78,14 +82,9 @@ a {
   font-weight: bold;
   text-decoration: none;
   text-shadow: 1px 1px 1px @color-linkshadow;
-  
-  li[data-dn-nav-href] & {
-    color: @color-pagemenulink;
-    text-shadow: 1px 1px 1px @color-pagemenulinkshadow;
-  }
-
+    
   &:hover,
-  li[data-dn-nav-href] &:hover {
+  &:hover {
     color: @color-cyberglow;
     text-decoration: underline;
 
@@ -99,11 +98,10 @@ a {
   }
   
   &:active,
-  &.active,
-  li[data-dn-nav-href] &:active,
-  li[data-dn-nav-href] &.active  {
-    color: white;
+  &.active {
+    color: @color-currentlink;
     text-decoration: none;
+    text-shadow: 1px 1px 1px @color-currentlinkshadow;
   }
 
   &.notready {
@@ -118,8 +116,6 @@ p {
 h1, h2 {
   color: @color-cyberforeground;
   cursor: default;
-  font-family: Research;
-  font-size: 64px;
   font-variant: small-caps;
   line-height: 1em;
   margin: 0;
@@ -145,14 +141,16 @@ h1, h2 {
   }
 }
 
+h1 {
+  font-family: @font-title;
+  font-size: 64px;
+}
+
 h2 {
+  font-family: @font-header;
   font-size: 30px;
   margin-top: 20px;
   margin-bottom: 20px;
-}
-
-li {
-  margin-bottom: 1em;
 }
 
 strong {
@@ -204,7 +202,7 @@ strong {
   }
   
   .quotemark {
-    color: @color-cyberhighlight;
+    color: white;
     font-size: 300%;
     margin: 5px;
     text-shadow: 1px 1px @color-cybershadow;
@@ -234,16 +232,16 @@ strong {
 .promo {
   display: inline-block;
   position: relative;
+  text-align: center;  
   vertical-align: top;
   width: 380px;
-  
+
   .fb-like, .fb-like-box {
     background: rgba(0, 0, 40, .6);
     box-sizing: border-box;
-    margin: 0 10px;
+    margin: auto;
   }
 }
-
 
 .fb-like-box-holder {
   margin-top: 40px;
@@ -272,7 +270,7 @@ strong {
 
   .promo:hover & {
     color: @color-action-hover;
-    text-shadow: 1px 1px 1px @color-action;
+    text-shadow: 1px 1px 1px @color-action-hover-shadow;
   }
 
   .readnow-text {
@@ -312,7 +310,7 @@ strong {
 
   &:hover {
     color: @color-action-hover;
-    text-shadow: 1px 1px 1px @color-action;
+    text-shadow: 1px 1px 1px @color-action-hover-shadow;
   }
 
   a {
@@ -323,10 +321,17 @@ strong {
 }
 
 nav {
+  .rounded(10px);
+  background: rgba(255, 0, 0, .2);
+  border: 2px solid #600;
+  font-family: @font-header;
   font-weight: bold;
   font-variant: small-caps;
-  margin-bottom: 10px;
-  
+  margin-bottom: 2em;
+  padding-left: 10px;
+  text-align: center;
+  white-space: nowrap;
+
   ul {
     list-style-type: none;
     margin: 0;
@@ -344,7 +349,7 @@ nav {
   display: inline-block;
   margin-left: 20px;
   vertical-align: top;
-  width: 490px;
+  width: 500px;
 }
 
 article {
@@ -420,12 +425,15 @@ article {
 
   nav {
     .rounded(20px);
-    font-family: Research;
-    font-size: 12px;
+    background: rgba(255, 0, 0, .1);
+    border: 2px solid #400;
+    font-size: 90%;
     padding-bottom: 20px;
     padding-left: 20px;
+    text-align: left;
 
     li {
+      display: block;
       margin-bottom: inherit;
     }
     
@@ -433,9 +441,9 @@ article {
       padding-left: 10px;
     
       &.currentchapter {
-        color: @color-pagemenulink;
+        color: @color-currentlink;
         cursor: default;
-        text-shadow: 1px 1px 1px @color-pagemenulinkshadow;
+        text-shadow: 1px 1px 1px @color-currentlinkshadow;
 
         &:hover {
           text-decoration: none;
@@ -445,7 +453,7 @@ article {
     
     .chapteract {
       color: @color-dimtext;
-      font-size: 18px;
+      font-size: 140%;
       padding-top: 20px;
       text-shadow: 1px 1px 1px @color-dimshadow;
     }

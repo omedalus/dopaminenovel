@@ -57,8 +57,9 @@
 
 </script>
   </head>
+
   
-  <body data-ng-app="dopaminenovel" class="noselect">
+  <body data-ng-app="dopaminenovel">
     <!-- Facebook JavaScript SDK -->
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
@@ -109,13 +110,24 @@
             </a>
           </div>
       
+          <div class="fb-like-box"
+              data-colorscheme="dark"
+              data-href="https://www.facebook.com/pages/Dopamine/239236939542709"
+              data-width="340"
+              data-show-faces="true"
+              data-header="false"
+              data-stream="false"
+              data-show-border="false"></div>
+
           <!-- Facebook Like! button -->
+          <!--
           <div class="fb-like"
               data-colorscheme="dark"
               data-href="https://www.facebook.com/pages/Dopamine/239236939542709"
               data-width="360"
               data-show-faces="true"
               data-send="true"></div>
+              -->
                
           <br/>
           <br/>
@@ -141,7 +153,7 @@
                 <li data-dn-nav-href="story">Story</li>
                 <li data-dn-nav-href="author">Author</li>
                 <li data-dn-nav-href="hacking">Hacking</li>
-                <li data-dn-nav-href="friends">Cross-Promotion</li>
+                <li data-dn-nav-href="friends">Cross-Promo</li>
               </ul>
             </nav>
             <div class="viewholder textselect" data-ng-view>
@@ -249,14 +261,8 @@
       
       <!-- Facebook Page "Like Box" -->
       <div data-ng-hide="storymode" class="fb-like-box-holder">
-        <div class="fb-like-box"
-            data-colorscheme="dark"
-            data-href="https://www.facebook.com/pages/Dopamine/239236939542709"
-            data-width="900"
-            data-show-faces="false"
-            data-header="true"
-            data-stream="true"
-            data-show-border="true"></div>
+      <!--
+            -->
       </div>
 
     </div>

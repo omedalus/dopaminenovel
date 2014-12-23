@@ -395,19 +395,19 @@
   Right now? For real?
 </div>
 
-<div class="message messageout">
+<div class="message messagein">
   YES
 </div>
-<div class="message messageout">
+<div class="message messagein">
   t?
 </div>
-<div class="message messageout">
+<div class="message messagein">
   hello? u there?
 </div>
-<div class="message messageout">
+<div class="message messagein">
   guess not.
 </div>
-<div class="message messageout">
+<div class="message messagein">
   atta girl.
 </div>
 

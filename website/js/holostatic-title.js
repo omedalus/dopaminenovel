@@ -9,9 +9,9 @@ var canvas;
 var drawingCtx;
 var text;
 
-var animationIntervalMinFrames = 30;
-var animationIntervalMaxFrames = 150;
-var frameMs = 50;
+var animationIntervalMinFrames = 0;
+var animationIntervalMaxFrames = 1;
+var frameMs = 500;
 
 var animations = [];
 
@@ -49,7 +49,7 @@ var renderPlain = function() {
   
   drawingCtx.strokeStyle = 'rgba(60, 160, 100, .6)';
   drawingCtx.lineWidth = 8;
-  drawingCtx.strokeText(text, 400, 52);
+  drawingCtx.strokeText(text, 400, 58);
 
   drawingCtx.fillStyle = '#fff';
   
@@ -57,7 +57,7 @@ var renderPlain = function() {
     drawingCtx.fillStyle = '#ff0';
   }
   
-  drawingCtx.fillText(text, 400, 51);
+  drawingCtx.fillText(text, 400, 57);
   
   return true;
 }
@@ -131,14 +131,16 @@ var animFlashMagnify = function(relFrame) {
 animations.push(animFlashMagnify);
 
 var animBlockBlank = function(relFrame) {
-  var numFrames = 10;
+  var numFrames = 50;
   var blockSize = 10;
+  
+  var blockOutRatio = 1 - (relFrame / numFrames);
   
   renderPlain();
   
   for (var y = 0; y < canvas.height; y += blockSize) {
     for (var x = 0; x < canvas.width; x += blockSize) {
-      if (Math.random() < .6) {
+      if (Math.random() < blockOutRatio) {
         continue;
       }
       
@@ -150,10 +152,44 @@ var animBlockBlank = function(relFrame) {
 };
 animations.push(animBlockBlank);
 
+var animGrowStretch = function(relFrame) {
+  var numFrames = 50;
+  var xScaleDelta = (.05 * Math.sin(2 * Math.PI * relFrame / numFrames));
+  var yScaleDelta = (.05 * Math.sin(3 * Math.PI * relFrame / numFrames));
+
+  drawingCtx.translate(-xScaleDelta * canvas.width / 2, -yScaleDelta * canvas.height / 2);
+  drawingCtx.scale(1 + xScaleDelta, 1 + yScaleDelta);
+  renderPlain();
+  
+  return relFrame < numFrames * 3;
+};
+animations.push(animGrowStretch);
+
+var animFadeOut = function(relFrame) {
+  var numFrames = 50;
+  var deadFrames = 10;
+  var halfNumFrames = numFrames / 2;
+
+  if (relFrame < halfNumFrames) {
+    if (Math.random() < .8) {
+      renderPlain();
+    }
+  } else if (relFrame < numFrames) {
+    drawingCtx.globalAlpha = 1 - ((relFrame - halfNumFrames) / halfNumFrames);
+    renderPlain();
+  }
+  
+  return relFrame < numFrames + deadFrames;
+};
+animations.push(animFadeOut);
+
+
+animations = [animGradualHorizontalBleed];
+
 var runAnimation;
 (function() {
   var frame = 0;
-  var frameNextAnimStarts;
+  var frameNextAnimStarts = frame;
     
   var currentAnim;
   var frameCurrentAnimStarted;
@@ -165,18 +201,19 @@ var runAnimation;
     // Create the hovering animation.
     //translateHover(frame);
     
-    if (!currentAnim || frame >= frameNextAnimStarts) {
+    if (!currentAnim && frame >= frameNextAnimStarts) {
       currentAnim = animations[Math.floor(animations.length * Math.random())];
-    
       frameCurrentAnimStarted = frame;
-      frameNextAnimStarts = frame + nextTimeoutPeriod();
     }
 
-    var continueAnimation = currentAnim(frame - frameCurrentAnimStarted);
+    var animToUse = currentAnim || renderPlain;
+    
+    var continueAnimation = animToUse(frame - frameCurrentAnimStarted);
     frame++;
     
     if (!continueAnimation) {
-      currentAnim = renderPlain;
+      currentAnim = null;
+      frameNextAnimStarts = frame + nextTimeoutPeriod();
     }
   
     setTimeout(function() {
@@ -200,10 +237,17 @@ $(document).ready(function() {
   element.innerHTML = '';
   element.appendChild(canvas);
   element.style.textAlign = 'right';
-  canvas.style.opacity = .9;
+  element.style.position = 'relative';
+  element.style.height = '64px';
+  element.style.width = '400px';
   
-  canvas.width = 400;
-  canvas.height = 64;
+  canvas.style.opacity = .9;
+  canvas.style.position = 'absolute';
+  canvas.style.top = '-10px';
+  canvas.style.right = '-50px';
+  
+  canvas.width = 450;
+  canvas.height = 74;
 
   waitForFontToLoad('Research', runAnimation);
 });

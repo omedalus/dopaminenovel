@@ -273,7 +273,7 @@ String.prototype.hashCode = function() {
         }
         
         drawingCtx.lineWidth = 2;
-        drawingCtx.strokeStyle = 'rgba(20, 40, 30, 1)';
+        drawingCtx.strokeStyle = 'rgba(30, 40, 20, 1)';
               
         drawingCtx.stroke();
       }
@@ -409,7 +409,7 @@ $(document).ready(function() {
     canvas.style.zIndex = -9999 - depth;
   }
   
-  layers.GRID_STATIC.canvas.style.background = '#111';
+  layers.GRID_STATIC.canvas.style.background = '#161616';
   layers.GRID_ANIMATED.canvas.style.opacity = .5;
 
   $(window).resize();  

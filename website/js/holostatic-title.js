@@ -52,14 +52,13 @@ var renderPlain = function() {
   drawingCtx.textAlign = 'right';
   
   drawingCtx.strokeStyle = 'rgba(60, 160, 100, .6)';
+  if ($(canvas.parentNode).is(':hover')) {
+    drawingCtx.strokeStyle = 'rgba(60, 160, 100, 1)';
+  }
+
   drawingCtx.lineWidth = 8;
   drawingCtx.strokeText(text, 400, 58);
-
   drawingCtx.fillStyle = '#fff';
-  
-  if ($(canvas.parentNode).is(':hover')) {
-    drawingCtx.fillStyle = '#ff0';
-  }
   
   drawingCtx.fillText(text, 400, 57);
   

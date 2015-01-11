@@ -4,6 +4,8 @@
  */
 
 (function() {
+
+var is_firefox = navigator.userAgent.toLowerCase().indexOf('firefox') > -1;
  
 var layers = {};
 
@@ -162,7 +164,7 @@ String.prototype.hashCode = function() {
 
 (function() {
   var VERTEX_BLOCK_SIZE = 12;
-  var FLASH_COUNT = 200;
+  var FLASH_COUNT = is_firefox ? 10 : 50;
   var FLASH_FRAMES_PER_MOVE = 2;
   var FLASH_DEATH_PROBABILITY_PER_FRAME = .01;
 
@@ -344,7 +346,7 @@ String.prototype.hashCode = function() {
       
       drawingCtx.fillStyle = gradient;
       drawingCtx.fill();
-      
+
       flash.moveProgress++;
       
       if (flash.moveProgress >= FLASH_FRAMES_PER_MOVE) {

@@ -4,6 +4,13 @@
  */
 
 (function() {
+
+var is_firefox = navigator.userAgent.toLowerCase().indexOf('firefox') > -1;
+ 
+var FONT_DECLARATION = 'small-caps bold 64px Research';
+if (is_firefox) {
+  FONT_DECLARATION = 'small-caps bold 50px Research';
+}
  
 var canvas;
 var drawingCtx;
@@ -48,7 +55,7 @@ var waitForFontToLoad = function(fontName, fnWhenLoaded) {
 };
 
 var renderPlain = function() {
-  drawingCtx.font = 'small-caps bold 64px Research';
+  drawingCtx.font = FONT_DECLARATION;
   drawingCtx.textAlign = 'right';
   
   drawingCtx.strokeStyle = 'rgba(60, 160, 100, .6)';
@@ -241,6 +248,7 @@ $(document).ready(function() {
   element.style.position = 'relative';
   element.style.height = '64px';
   element.style.width = '400px';
+  element.style.display = 'inline-block';
   
   canvas.style.opacity = .9;
   canvas.style.position = 'absolute';

@@ -312,10 +312,10 @@ Danny heard a bit of movement on the other side.
 Danny pulled the trigger. 
 </p>
 <p>
-The device gave little indication of firing. The mechanical arms of the high-power relays all clicked simultaneously against their contacts inside the spine of plastic cubes. The pulsed discharge of current from the capacitor bank to the magnetron send a soft low-pitched “<em>bonk!</em>” through the air around it. Lights along the capacitor bank flipped from green to red.
+The device gave little indication of firing. The mechanical arms of the high-power relays all clicked simultaneously against their contacts inside the spine of plastic cubes. The pulsed discharge of current from the capacitor bank to the magnetron sent a soft low-pitched “<em>bonk!</em>” through the air around it. Lights along the capacitor bank flipped from green to red.
 </p>
 <p>
-On the other side of the wall, Danny heard a snapping, cracking sound, followed by a man screaming in shocked frustration and unleashing a long stream of Russian curse words. The man pulled in vain at the door handle on the other side. The door shook slightly but refusing to yield. 
+On the other side of the wall, Danny heard a snapping, cracking sound, followed by a man screaming in shocked frustration and unleashing a long stream of Russian curse words. The man pulled in vain at the door handle on the other side. The door shook slightly but refused to yield. 
 </p>
 <p>
 Danny held his device triumphantly over his shoulder. Its fans whirred to cool it from its recent shot. The capacitor bank began to recharge, emitting a high whine that gradually rose until passing beyond the range of human hearing.

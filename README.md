@@ -1,4 +1,4 @@
 dopaminenovel
 =============
 
-Projects related to my novel, Dopamine (http://dopaminenovel.com)
+Projects related to my novel, <i>Dopamine</i> (http://dopaminenovel.com)

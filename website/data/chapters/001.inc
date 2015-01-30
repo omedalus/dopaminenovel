@@ -58,7 +58,7 @@ Eugene’s gaze followed his trembling finger past silhouettes of gruff drunks. 
 “She’s <em>here</em>?” Eugene grunted. He released his hold on Francisco, who coughed and wheezed as he reclaimed his breath. “<em>That’s</em> who’s muscling in on our area?”
 </p>
 <p>
-“She showed up about two weeks ago,” said Francisco, his voice still raspy. “She’s been using this joint for one of her recruiting grounds.”
+“She showed up about two weeks ago,” said Francisco, his voice still raspy. “She’s been using this joint for a recruiting ground. Been here about half a dozen times. Each time she comes, she gets more people signing up to sell for her.”
 </p>
 <p>
 Eugene squinted. A pink Hello Kitty purse rested on the girl’s lap. “She doesn’t even look old enough to be drinking.”
@@ -79,7 +79,7 @@ Eugene stayed put, watching the girl keenly. Three muscular men shared the empty
 A reply came almost immediately. “<span class="computer">Busy. Picking the music with Rosie for dance recital. Are you having something more important than evening with daughter?</span>”
 </p>
 <p>
-Eugene carefully slipped his way through the crowd toward the back of the bar. He angled the phone’s camera at the Asian girl, waited for some biker to move his enormous head, and snapped a photo. “<span class="computer">In Renton</span>,” he typed beneath the image attachment. “<span class="computer">Take the Tesla, you can be here in 10 minutes.</span>”
+Eugene carefully slipped his way through the crowd toward the back of the bar. He angled the phone’s camera at the Asian girl, waited for some biker to move his enormous head, and snapped a photo. “<span class="computer">In Renton</span>,” he typed beneath the image attachment. “<span class="computer">Just take the Tesla, drive is less than 10 minutes.</span>”
 </p>
 <p>
 He waited for a reply. None came.

@@ -102,8 +102,111 @@ Danny took the hint. As he escaped the room, he heard Jerry resume the presentat
 <span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. Danny gazed at it, mesmerized. It glowed with a shade of red just slightly deeper than the visible spectrum. Infrared. Every object in the universe emitted black-body radiation with a brightness and color determined by its temperature. Danny stared unblinkingly as he tried to compute the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law; the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times 2 times the Planck constant divided by…
 </p>
 <p>
-He was broken out of his reverie by the sensation of his chest vibrating. Two quick buzzes from his cellphone signalled an email that had just come in. He pulled the phone from his pocket and noted the telltale blinking light. Judging by the time, Jerry’s business talk back in the conference room had most likely come to a close ten minutes ago.
+He was broken out of his reverie by the sensation of his chest vibrating. Two quick buzzes from his cellphone signalled an email that had just come in. He pulled the device from his pocket and noted the telltale blinking light. Judging by the time, Jerry’s business Q&amp;A had most likely come to a close several minutes ago.
 </p>
+<p>
+He eyed the email preview.
+</p>
+
+<div class="computer email">
+From: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
+CC: Dorothy Eigen &lt;eigend@corp.verizon.com&gt;<br/>
+Subject: FW: RE: Claymore Communications intellectual property auction<br/>
+(1 Attachment)
+</div>
+
+<p>
+<span class="think">NIN Man?</span> thought Danny. <span class="think">The guy doesn’t waste any time…</span> He expanded the message to see what the spiky-haired investor wanted. 
+</p>
+
+<div class="computer email">
+Danny, could you answer Dorothy's question?<br/>
+Jason<br/>
+<br/>
+---<br/>
+From: Dorothy Eigen &lt;eigend@corp.verizon.com&gt;<br/>
+To: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
+Subject: RE: Claymore Communications intellectual property auction<br/>
+(1 Attachment)
+<br/>
+<br/>
+Thanks for sending this, Jason. I'll give it a deeper look tomorrow, and send my project managers a technical summary if it checks out. One question, though. On slides 7 through 12, the diagrams show an elliptical polarization pattern, but they appear to use different eccentricities and nonuniform angles for the major axis. Is that a misprint, or is there a reason for the discrepancy?<br/>
+<br/>
+Dorothy Eigen<br/>
+Senior Feasibility Engineer<br/>
+Department of Mergers &amp;Acquisitions<br/>
+Verizon Communications
+</div>
+
+<p>
+The email continued with a long chain of forwards and replies by random corporate people. The attachment was the PowerPoint presentation that Danny had just delivered less than half an hour ago.
+</p>
+<p>
+“<span class="computer">Sure</span>,” Danny typed in reply. “<span class="computer">The changing elliptical parameters are very much intentional. We utilize the difference in phase angles as part of the encoding scheme. To circumvent the obvious physical reception problems, we've developed a polyradial antenna design</span>…”
+</p>
+<p>
+He kept typing for several minutes, his thumbs flying on autopilot as they tapped out the intricate details of his work.
+</p>
+<p>
+Yet, as he typed, a nagging question itched at the back of his mind. It was the kind of question he was trained to avoid asking &mdash; it was a business question, and he knew full well to leave business matters to folks like Jerry, to stay out of them for his own good. But Danny wouldn’t have been a lifelong technologist if he wasn’t insatiably curious, often far beyond the bounds of social decorum or, for that matter, common sense. And the question, like the suit Danny was still wearing, was getting awfully scratchy.
+</p>
+<p>
+He saved the email he was composing into his Drafts folder, and replaced it with:
+</p>
+
+<div class="computer email">
+To: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
+Subject: FW: RE: Claymore Communications intellectual property auction<br/>
+<br/>
+Wait, there's something I don't get. You guys freaked out when I was about to make the presentation publicly available on the Claymore website, but now you're forwarding it to technical experts at potential competitors? What am I missing?<br/>
+</div>
+
+<p>
+Danny didn’t have to wait very long for a reply.
+</p>
+
+<div class="computer email">
+From: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
+It's not your concern. Please answer Dorothy's question. It's important and urgent.<br/>
+</div>
+
+<p>
+Danny bristled at being so blantantly relegated to the role of worker-gnome. He went back to Jason’s original email, hoping for clues. Bundled with the forward was a long heavily-indented list of prior emails in reverse chronological order. Danny began scrolling.
+</p>
+
+<div class="computer email">
+From: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
+To: Dorothy Eigen &lt;eigend@corp.verizon.com&gt;<br/>
+(1 Attachment)<br/>
+<br/>
+Dorothy,<br/>
+As per your request, please find the attached presentation describing the details of Claymore's technologies. Included are schematics, flowcharts, and results of initial field trials with proof-of-concept equipment. This should be sufficient for proving that the assets are legitimate and that our initial asking price is justified.</br>
+<br/>
+---<br/>
+To: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
+From: Dorothy Eigen &lt;eigend@corp.verizon.com&gt;<br/>
+<br/>
+Jason,<br/>
+I got a green light from my director and I've cleared it with the budget committee. Verizon will indeed be participating in the auction for Claymore's intellectual property after the company's dissolution, as discussed. However, we'll need detailed technical data about Claymore's inventions in order to set our bidding prices. Given that our mutual nondisclosure agreement covers all proprietary information, I hope you won't see any problem in delivering this information.<br/>
+</div>
+
+<p>
+Danny stared at that message for what must have been several minutes. There were more emails below it, with other Verizon personnel and other members of the Claymore investment group. But, like a program caught in an infinite loop, Danny’s eyes kept reading that message over and over again.
+</p>
+
+
+
+
+
+<br/>
+Danny, could you answer Dorothy's question?
+</br>
+
+
+</div>
+
+
+
 <p>
 
 </p>

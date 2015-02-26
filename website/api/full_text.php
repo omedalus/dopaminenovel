@@ -1,5 +1,9 @@
 <?php
 
+$dev = $_GET['dev'];
+$dirname = $dev == "true" ? "chapters-dev" : "chapters";
+
+
 require_once('act_breaks.php');
 header('Content-Type: text/html; charset=utf-8');
 
@@ -50,7 +54,7 @@ echo <<<EOL
 <div>
 EOL;
 
-$chapter_dir = "../data/chapters/";
+$chapter_dir = "../data/" . $dirname . "/";
 $all_files = scandir($chapter_dir);
 $chapter_files = array_values(preg_grep("/\d+\.inc/", $all_files));
 

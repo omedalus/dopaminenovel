@@ -102,7 +102,7 @@ Danny took the hint. As he escaped the room, he heard Jerry resume the presentat
 <span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. Danny gazed at it, mesmerized. It glowed with a shade of red just slightly deeper than the visible spectrum. Infrared. Every object in the universe emitted black-body radiation with a brightness and color determined by its temperature. Danny stared unblinkingly as he tried to compute the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law; the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times 2 times the Planck constant divided by…
 </p>
 <p>
-He was broken out of his reverie by the sensation of his chest vibrating. Two quick buzzes from his cellphone signalled an email that had just come in. He pulled the device from his pocket and noted the telltale blinking light. Judging by the time, Jerry’s business Q&amp;A had most likely come to a close several minutes ago.
+He was broken out of his trance when his chest started vibrating. Two quick buzzes from his cellphone signalled an email that had just come in. He pulled the device from his pocket and noted the telltale blinking light. Judging by the time, Jerry’s business Q&amp;A had most likely come to a close several minutes ago.
 </p>
 <p>
 He eyed the email preview.
@@ -130,11 +130,11 @@ Subject: RE: Claymore Communications intellectual property auction<br/>
 (1 Attachment)
 <br/>
 <br/>
-Thanks for sending this, Jason. I'll give it a deeper look tomorrow, and send my project managers a technical summary if it checks out. One question, though. On slides 7 through 12, the diagrams show an elliptical polarization pattern, but they appear to use different eccentricities and nonuniform angles for the major axis. Is that a misprint, or is there a reason for the discrepancy?<br/>
+Thanks for sending this, Jason. I'll give it a deeper look tomorrow and send my project managers a technical summary if it checks out. One question, though. On slides 7 through 12, the diagrams show an elliptical polarization pattern, but they appear to use different eccentricities and nonuniform angles for the major axis. Is that a misprint, or is there a reason for the discrepancy?<br/>
 <br/>
 Dorothy Eigen<br/>
 Senior Feasibility Engineer<br/>
-Department of Mergers &amp;Acquisitions<br/>
+Department of Mergers &amp; Acquisitions<br/>
 Verizon Communications
 </div>
 
@@ -148,10 +148,10 @@ The email continued with a long chain of forwards and replies by random corporat
 He kept typing for several minutes, his thumbs flying on autopilot as they tapped out the intricate details of his work.
 </p>
 <p>
-Yet, as he typed, a nagging question itched at the back of his mind. It was the kind of question he was trained to avoid asking &mdash; it was a business question, and he knew full well to leave business matters to folks like Jerry, to stay out of them for his own good. But Danny wouldn’t have been a lifelong technologist if he wasn’t insatiably curious, often far beyond the bounds of social decorum or, for that matter, common sense. And the question, like the suit Danny was still wearing, was getting awfully scratchy.
+But while the background of his mind composed the reply, the foreground tried to reason out a much more complicated puzzle. His reply, after all, was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain, while the puzzle involved understanding and properly responding to social cues. The latter was a much more complicated matter than the former.
 </p>
 <p>
-He saved the email he was composing into his Drafts folder, and replaced it with:
+He saved his unfinished email into his Drafts folder, and replaced it with:
 </p>
 
 <div class="computer email">
@@ -187,178 +187,383 @@ To: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
 From: Dorothy Eigen &lt;eigend@corp.verizon.com&gt;<br/>
 <br/>
 Jason,<br/>
-I got a green light from my director and I've cleared it with the budget committee. Verizon will indeed be participating in the auction for Claymore's intellectual property after the company's dissolution, as discussed. However, we'll need detailed technical data about Claymore's inventions in order to set our bidding prices. Given that our mutual nondisclosure agreement covers all proprietary information, I hope you won't see any problem in delivering this information.<br/>
+I got a green light from my director and I've cleared it with the budget committee. Verizon will indeed be participating in the auction for the company's intellectual property after Claymore's dissolution, as discussed. However, we'll need detailed technical data about Claymore's inventions in order to set our bidding prices. Given that our mutual nondisclosure agreement covers all proprietary information, I hope you won't see any problem in delivering this material.<br/>
 </div>
 
 <p>
-Danny stared at that message for what must have been several minutes. There were more emails below it, with other Verizon personnel and other members of the Claymore investment group. But, like a program caught in an infinite loop, Danny’s eyes kept reading that message over and over again.
+Danny stared at that message for what must have been several minutes. There were more emails below it, with other Verizon personnel and other members of the Claymore investment group. But Danny’s eyes kept reading that message over and over again almost of their own accord, bouncing off the bottom of the screen back to the top like a program caught in an infinite loop.
 </p>
-
-
-
-
-
-<br/>
-Danny, could you answer Dorothy's question?
-</br>
-
-
-</div>
-
-
-
 <p>
-
+Eventually, he was able fight through his bewilderment to type out one short, simple message to the investor from which this email had come.
 </p>
-
-
 
 <div class="computer email">
-From: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
-CC: Dorothy Eigen &lt;eigend@corp.verizon.com&gt;<br/>
-Subject: FW: Claymore Communications intellectual property auction<br/>
+To: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
+Subject: FW: RE: Claymore Communications intellectual property auction<br/>
 <br/>
-Danny, could you answer Dorothy's question?
-</br>
-
-
+&gt; after Claymore's dissolution<br/>
+Um. What?<br/>
 </div>
 
+<p>
+Jason Tuttle’s answer took another several minutes to appear. When it finally did, it came not as an email, but in the form of SMS messages arriving on Danny’s personal cellphone number.
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>
-“Danny…?” came a sudden voice from behind him.
-</p>
-<p>
-Danny twitched back to awareness and turned around to greet his visitor. He found himself alone in the Claymore kitchen with the overweight investor in the Nine Inch Nails shirt. “Hi! Oh… I’m sorry, I didn’t mean to be hiding in here.”
-</p>
-<p>
-“You look like you got distracted by something shiny,” said NIN man.
-</p>
-<p>
-Danny smiled sheepishly. “I did. Um… Is the meeting over? I should get back to the conference room. You guys probably have technical questions for me.”
-</p>
-<p>
-“Relax, Danny,” NIN man said collegially. “I’m glad I found you in here. I was actually hoping I could talk to you about something besides Claymore.”
-</p>
-<p>
-“Oh. Then, uh… How can I help you, Mister… uh…?”
-</p>
-<p>
-“Tuttle. Jason Tuttle. Call me Jason,” the investor said as they shook hands. “First off, I just wanted to tell you face-to-face that I meant what I said in there. That presentation was just excellent. You do great work.”
-</p>
-<p>
-“Thank you,” Danny replied earnestly.
-</p>
-<p>
-“Listen,” said NIN Man. “I’d like to run something by you. I’m putting together a small team for a project I’m working on. I could really use a man like you.”
-</p>
-<p>
-Danny blinked in eager bewilderment. “You want to offer me a job? A… A job outside of Claymore? A job having nothing to do with 4G cellular multiplexing?” Danny noticed his voice rising. He cleared his throat. “I… Uh… I’m honored, Mister… Jason. But I can’t. I’m a Claymore employee. Are you even allowed to be asking me about other work?”
-</p>
-<p>
-“Oh, don’t worry, Danny. You have no obligations to Claymore anymore.”
-</p>
-<p>
-“Of course I do. We’ve got 182 Bugtraq tickets with less than four weeks left to hit ZBB before the next QA handoff…”
-</p>
-<p>
-“You can forget about all of that, Danny. None of it will help Claymore at this point.”
-</p>
-<p>
-“What do you mean?” Danny asked.
-</p>
-<p>
-Jason smiled coyly. “Can you keep a secret?”
-</p>
-<p>
-Danny nodded.
-</p>
-<p>
-“Danny, next week there isn’t going to be any Claymore Communications. We’re pulling the plug.”
-</p>
-<p>
-Danny blinked uncomprehendingly. He heard Jason’s words, but his brain short-circuited while trying to parse the sentence. He muttered, “Does not compute.”
-</p>
-<p>
-Jason said matter-of-factly, “Claymore has never turned a profit, you know.”
-</p>
-<p>
-“Well… Yes, but… We’ve been focused on research…”
-</p>
-<p>
-Jason cocked an eyebrow. “You’ve basically been living off of our generosity.”
-</p>
-<p>
-“That’s only temporary, until we establish a sales pipeline…” Danny insisted.
-</p>
-<p>
-“It’s taken six years already. Who do you think’s been providing your paychecks this whole time? Benevolent gods from the ancient empire of Moneypotamia?”
-</p>
-<p>
-Danny’s throat went dry. “Why now?”
-</p>
-<p>
-“It had to happen eventually, Danny,” Jason said. “The investment group’s been discussing it for months amongst ourselves. We can’t keep our assets locked up in this dead-end project anymore. Enough’s enough.”
-</p>
-<p>
-“I don’t understand…” Danny’s voice was almost a whimper. “What happens now?”
-</p>
-<p>
-“Now we bundle up Claymore's intellectual property,” said Jason, “and sell it to the highest bidder. Someone like AT&amp;T or Verizon or Google. Or the military. It’ll be easy for us to pitch the technology now that we know how it works.” He winked.
-</p>
-<p>
-Danny felt his stomach lurch. “My presentation…?”
-</p>
-<p>
-“Yep. That’s why we needed you to put it together on such short notice. The other investors have the next several weeks booked solid, meeting with senior engineers and CTOs of other companies. And none of it could have happened without that show you just gave us. Really, Danny, you do excellent work.”
-</p>
-<p>
-Danny looked away, his face pale.
-</p>
-<p>
-“I’m sorry I couldn’t break the news a little more, er, ceremoniously,” Jason said. “Nobody outside the investment group knows about this. I’m taking a legal risk in telling you. I hope you’ll accept that fact as a token of trust. The job I need you for is a little, shall we say, sensitive.”
-</p>
-<p>
-Danny rubbed his temples. “Wh&mdash; What about the work I’ve done in the past six years?” he said shakily. “My conference papers, my chip designs, my driver patches…”
-</p>
-<p>
-“Sunken costs, Danny.”
-</p>
-<p>
-He swallowed hard, and stared at Jason bitterly, saying nothing.
-</p>
-<p>
-Jason put a hand on his shoulder. “Hey. Buddy. It’s not personal, alright? Claymore’s implosion is happening. I know it must hurt, but that’s life. At this point, all I can offer you is this new job. Are you interested?”
-</p>
-<p>
-Danny shrugged. His head slumped down in a gesture that was a nod only by default.
-</p>
-<p>
-“You know the bar Noc Noc near Pioneer Square?” Jason asked. “Meet me there tonight. I’ll tell you all about it.”
-</p>
-<p>
+<br/>
+<div class="computer cyberchat">
+  <div class="message messagein">
+    Danny. This is Jason.
+  </div>
+  <div class="message messagein">
+    You weren't supposed to see that.
+  </div>
 </div>
+<br/>
+
+<p>
+Still mostly just feeling confused, Danny engaged in the conversation.
+</p>
+
+<br/>
+<div class="computer cyberchat">
+  <div class="message messageout">
+    Yeah well. I did.
+  </div>
+  <div class="message messagein">
+    I meant to just send you the Verizon engineer's last email.
+  </div>
+  <div class="message messagein">
+    I didn't intend to forward the entire thread.
+  </div>
+  <div class="message messageout">
+    Yeah, I kind of got that.
+  </div>
+  <div class="message messageout">
+    So, um...
+  </div>
+  <div class="message messageout">
+    "Auction?" "Dissolution?"
+  </div>
+  <div class="message messageout">
+    What does all of this mean?
+  </div>
+</div>
+<br/>
+
+<p>
+Even as he typed the question, he realized he was simply fighting his own denial. The revelation hit him like a divide-by-zero interrupt. He knew exactly what it meant.
+</p>
+
+<br/>
+<div class="computer cyberchat">
+  <div class="message messagein">
+    Claymore has never turned a profit, you know.
+  </div>
+</div>
+<br/>
+
+<p>
+Danny swallowed hard.
+</p>
+
+<br/>
+<div class="computer cyberchat">
+  <div class="message messageout">
+    I know.
+  </div>
+  <div class="message messageout">
+    We've been focused on research and development.
+  </div>
+  <div class="message messagein">
+    And that research is valuable. But you haven't managed to productize it.
+  </div>
+  <div class="message messageout">
+    We need more time.
+  </div>
+  <div class="message messagein">
+    You've had six years.
+  </div>
+  <div class="message messagein">
+    You've basically been living off of our generosity for the entire lifetime of the company.
+  </div>
+  <div class="message messagein">
+    Who do you think has been providing the funds that you and all your coworkers' salaries comes from? Benevolent gods from the ancient empire of Moneypotamia?
+  </div>
+  <div class="message messagein">
+    We're investors, Danny. We need a RETURN on our investment. We can't keep waiting indefinitely for some ship that never comes in. We've been discussing this for a long time. We all have other projects with better potential ROI. It had to happen eventually.
+  </div>
+  <div class="message messagein">
+    I'm sorry. I really am.
+  </div>
+</div>
+<br/>
+
+<p>
+Danny found himself wrestling with his phone’s autocorrect much more vigorously. His fingers were trembling.
+</p>
+
+<br/>
+<div class="computer cyberchat">
+  <div class="message messageout">
+    How long?
+  </div>
+  <div class="message messagein">
+    One week.
+  </div>
+  <div class="message messagein">
+    We've already pulled the plug. The operations account has been frozen.
+  </div>
+  <div class="message messagein">
+    Your next paycheck will be your last.
+  </div>
+  <div class="message messageout">
+    So.
+  </div>
+  <div class="message messageout">
+    That's it then.
+  </div>
+  <div class="message messagein">
+    I'm afraid so.
+  </div>
+  <div class="message messageout">
+    And what about all the work I've done in the past six years?
+  </div>
+  <div class="message messageout">
+    Claymore has been MY LIFE, Jersey.
+  </div>
+  <div class="message messageout">
+    Jason. Sorry. Autocorrect.
+  </div>
+  <div class="message messageout">
+    Anyway. I thought that this company would finally be the one that I could ride to the top. I poured everything I had into this. Doesn't any of it count for SOMETHING?
+  </div>
+  <div class="message messageout">
+    My chip designs?
+  </div>
+  <div class="message messageout">
+    My patents?
+  </div>
+  <div class="message messageout">
+    My conference papers?
+  </div>
+  <div class="message messageout">
+    My open-source driver patches?
+  </div>
+  <div class="message messagein">
+    Sunken costs.
+  </div>
+</div>
+<br/>
+
+<p>
+He stared at Jason’s answer. Impotent fury and remorseful self-pity knotted together in his gut. The screen grew watery before his eyes.
+</p>
+
+<br/>
+<div class="computer cyberchat">
+  <div class="message messageout">
+    You used me.
+  </div>
+  <div class="message messageout">
+    You FUCKING USED ME.
+  </div>
+  <div class="message messagein">
+    Danny, this really isn't personal.
+  </div>
+  <div class="message messagein">
+    I know this must hurt. I really do. But it's just business.
+  </div>
+  <div class="message messageout">
+    You had me put that presentation together just so you could use it for putting everything I've ever done for you on the chopping block. Without that presentation, you wouldn't have been able to set up an auction for Claymore's inventions. MY inventions.
+  </div>
+  <div class="message messageout">
+    You tricked me into being my own executioner.
+  </div>
+  <div class="message messageout">
+    You made me render myself obsolete and useless.
+  </div>
+  <div class="message messageout">
+    You and the rest of the investors.
+  </div>
+  <div class="message messageout">
+    And Jerry? Is that why he shooed me out of the room?
+  </div>
+  <div class="message messageout">
+    Does Jerry know? Does everybody know?
+  </div>
+</div>
+<br/>
+
+<p>
+Jason’s reply was slow in coming. 
+</P>
+
+<br/>
+<div class="computer cyberchat">
+  <div class="message messagein">
+    Nobody knows. Nobody's allowed to know outside the investment group. Certainly not the employees.
+  </div>
+  <div class="message messagein">
+    The fact that you know is highly problematic.
+  </div>
+  <div class="message messageout">
+    Oh gosh. Too bad.
+  </div>
+  <div class="message messageout">
+    So, if I was to update Claymore's website right this very minute with this news...
+  </div>
+  <div class="message messagein">
+    Jesus Christ Danny please don't do that.
+  </div>
+  <div class="message messageout">
+    LOL what, you wouldn't like that? I suppose updating my Facebook status would probably not be on your list of favorite things either, right?
+  </div>
+  <div class="message messagein">
+    That's not funny.
+  </div>
+  <div class="message messagein">
+    I could get in an unbelievable amount of trouble for letting this information slip to you.
+  </div>
+  <div class="message messageout">
+    Well I certainly wouldn't want you to get in trouble, now would I?
+  </div>
+  <div class="message messageout">
+    Especially not after you manipulated me into throwing away six years of my life.
+  </div>
+  <div class="message messagein">
+    It's not throwing away! You got paid every month fair and square! You had the means to eat and pay rent for the last six years, right? You give us your brain, we give you money. That's how it works.
+  </div>
+  <div class="message messageout">
+    Fuck. You think this is about MONEY?
+  </div>
+  <div class="message messagein">
+    Is it?
+  </div>
+  <div class="message messagein">
+    Because if it is, I can be persuasive.
+  </div>
+  <div class="message messagein">
+    I can make it profitable for you to just forget this entire conversation. And post nothing on any website or ever mention it to anybody anywhere for at least another week or so.
+  </div>
+  <div class="message messagein">
+    You're obviously going to need some extra cash soon anyway, so it really would be in your best interest.
+  </div>
+  <div class="message messageout">
+    Are you serious?
+  </div>
+  <div class="message messageout">
+    Are you trying to BUY MY SILENCE?
+  </div>
+  <div class="message messageout">
+    LOL! This is fucking great! I've never been bribed before!
+  </div>
+  <div class="message messagein">
+    Please don't use that kind of terminology to describe this arrangement.
+  </div>
+  <div class="message messagein">
+    Do we have a deal?
+  </div>
+  <div class="message messageout">
+    You're a fucking idiot.
+  </div>
+</div>
+<br/>
+
+<p>
+Danny leaned against the wall of Claymore’s kitchen and let himself sink slowly down until he sat on the floor, his head dangling limply between his knees. He had no intention of actually making good on any of his threats about going public with the news of Claymore’s pending demise. There would be no point; there was nothing to be gained. But he did take a tiny bit of solace in making the investor sweat about it for a while.
+</p>
+<p>
+  His cellphone vibrated again in his hand.
+</p>
+
+<br/>
+<div class="computer cyberchat">
+  <div class="message messagein">
+    I know it's not about the money, Danny. I'm sorry for implying that that's all it was.
+  </div>
+  <div class="message messagein">
+    Believe it or not, I've been in your shoes. Not even so long ago. I know firsthand that there are other things at stake. Deeper things.
+  </div>
+  <div class="message messagein">
+    Dignity. Pride. A sense of accomplishment. Being valued.
+  </div>
+  <div class="message messagein">
+    I get it.
+  </div>
+  <div class="message messagein">
+    So here's what I'm thinking.
+  </div>
+  <div class="message messagein">
+    Remember I said how all of us in the investment group each have other projects of our own that we'd like to focus on?
+  </div>
+  <div class="message messagein">
+    I personally have one very hot iron in the fire.
+  </div>
+  <div class="message messagein">
+    It's high-priority for me, it's urgent, and it's EXTREMELY sensitive. I already have personnel selected, but none of my current picks is suitable for the role of engineering lead. In other words, the same role you've expertly proven yourself in for the last six years. Now that I think about it, this unfortunate situation could potentially work out very well for both of us. I could really use a man of your talents.
+  </div>
+</div>
+<br/>
+
+<p>
+Danny sat on the floor and watched the messages roll in. He sighed deeply, and looked around the kitchen. The table, the chair, the coffee pot, the fridge, the OSHA notices, the community corkboard with postings from his coworkers looking for babysitters or carpool partners. In a week, it would be gone. All of it.
+</p>
+<p>
+It certainly wasn’t the first dot-com he’d seen die with a whimper. And, though it stabbed him through the heart to think of it, it probably wouldn’t be the last.
+</p>
+
+<br/>
+<div class="computer cyberchat">
+  <div class="message messagein">
+    Hello? Danny? Are you there?
+  </div>
+  <div class="message messagein">
+    Please say something.
+  </div>
+  <div class="message messageout">
+    Are you offering me a job?
+  </div>
+  <div class="message messageout">
+    You're yanking one job out from under me, and offering me another?
+  </div>
+  <div class="message messagein">
+    Yes.
+  </div>
+  <div class="message messagein">
+    Not so much a job in the sense of W-2s and HR departments and all that. This is more of a one-off consulting project. With cash payment.
+  </div>
+  <div class="message messageout">
+    Instead of a bribe? So basically you still want to shut me up by giving me money, it's just that this way I have to work for it.
+  </div>
+  <div class="message messagein">
+    Basically.
+  </div>
+  <div class="message messageout">
+    You know...
+  </div>
+  <div class="message messageout">
+    Honestly, I don't know why that should make me feel better.
+  </div>
+  <div class="message messageout">
+    But it does.
+  </div>
+  <div class="message messagein">
+    Good. I'm glad.
+  </div>
+  <div class="message messagein">
+    Would you like to hear more?
+  </div>
+  <div class="message messageout">
+    I hate to admit it, but yes.
+  </div>
+  <div class="message messagein">
+    I can't talk about it over email or text.
+  </div>
+  <div class="message messagein">
+    Do you know the bar Noc Noc, near Pioneer Square?
+  </div>
+  <div class="message messagein">
+    Meet me there in half an hour. I'll tell you all about it.
+  </div>
+</div>
+<br/>

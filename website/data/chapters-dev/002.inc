@@ -21,7 +21,7 @@ One attendee actually <em>was</em> wearing a concert T-shirt under his suit jack
 There was no microphone in Danny’s hand, only a laser pointer. No spotlight, only a high-resolution projector hooked to his laptop. No hit rock song, only a PowerPoint presentation describing a 4G cellular multiplexing algorithm by Claymore Communications.
 </p>
 <p>
-Danny’s boss, CEO Jerry Young, was the only other person in the room without a designer watch. He moved deftly to take control. “Folks, I just want to say, before we move on, that Danny and I really appreciate this opportunity to present our technology to you. I’ve worked for a lot of dot-coms where the investors really don’t care about the tech, and it’s nice to see Claymore’s financial contributors showing a genuine interest.” 
+Danny’s boss, Jerry Young, was the only other person in the room without a designer watch. He moved deftly to take control. “Folks, I just want to say, before we move on, that Danny and I really appreciate this opportunity to present our technology to you. I’ve worked for a lot of dot-coms where the investors really don’t care about the tech, and it’s nice to see Claymore’s financial contributors showing a genuine interest.” 
 </p>
 <p>
 “Oh, our pleasure!” said the man in the Nine Inch Nails T-shirt. “Danny’s presentation was amazing, but not as amazing as his technology. What you’ve shown here is an upcoming wireless revolution, and I’m proud to help it come to fruition!” Later that day, NIN Man bought Claymore Communications with his personal funds, and the company went public. Danny cashed in his stock options to buy a downtown penthouse, and spent the next several years building Claymore into the world’s premier data systems provider. He was featured in <em>Time</em> magazine as the face of digital communication in the 21<sup>st</sup> century.
@@ -51,7 +51,7 @@ Danny volunteered to answer on his own behalf. “Sure thing. I can put this up 
 “<i>No!</i>” “<i>Stop!</i>” The room erupted in howls of protest. The assembled one-percenters, eyes wide with alarm, nearly bolted out of their chairs to tackle Danny right there beside the projector screen. Danny stood frozen with his hand halfway to his interior chest pocket, as though he was caught drawing a gun. He blinked dumbly and turned to Jerry for help.
 </p>
 <p>
-Jerry returned Danny’s look with an embarrased half-smile. “The company’s website is maybe not the best place for proprietary technical data, Danny.” To the suddenly skittish investors, he said soothingly, “But we’ll be delighted to email this presentation to each of you as soon as we wrap up.”
+Jerry returned Danny’s look with an embarrassed half-smile. “The company’s website is maybe not the best place for proprietary technical data, Danny.” To the suddenly skittish investors, he said soothingly, “But we’ll be delighted to email this presentation to each of you as soon as we wrap up.”
 </p>
 <p>
 “Please make sure I get a personal copy,” NIN man insisted. “You can reach me at Jason Tuttle at AOL dot com. That’s J, A, S...”
@@ -102,7 +102,7 @@ Danny took the hint. As he escaped the room, he heard Jerry resume the presentat
 <span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. Danny gazed at it, mesmerized. It glowed with a shade of red just slightly deeper than the visible spectrum. Infrared. Every object in the universe emitted black-body radiation with a brightness and color determined by its temperature. Danny stared unblinkingly as he tried to compute the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law; the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times 2 times the Planck constant divided by…
 </p>
 <p>
-He was broken out of his trance when his chest started vibrating. Two quick buzzes from his cellphone signalled an email that had just come in. He pulled the device from his pocket and noted the telltale blinking light. Judging by the time, Jerry’s business Q&amp;A had most likely come to a close several minutes ago.
+He was broken out of his trance when his chest started vibrating. Two quick buzzes from his cellphone signaled an email that had just come in. He pulled the device from his pocket and noted the telltale blinking light. Judging by the time, Jerry’s business Q&amp;A had most likely come to a close several minutes ago.
 </p>
 <p>
 He eyed the email preview.
@@ -171,7 +171,7 @@ It's not your concern. Please answer Dorothy's question. It's important and urge
 </div>
 
 <p>
-Danny bristled at being so blantantly relegated to the role of worker-gnome. He went back to Jason’s original email, hoping for clues. Bundled with the forward was a long heavily-indented list of prior emails in reverse chronological order. Danny began scrolling.
+Danny bristled at being so blatantly relegated to the role of worker-gnome. He went back to Jason’s original email, hoping for clues. Bundled with the forward was a long heavily-indented list of prior emails in reverse chronological order. Danny began scrolling.
 </p>
 
 <div class="computer email">
@@ -194,7 +194,7 @@ I got a green light from my director and I've cleared it with the budget committ
 Danny stared at that message for what must have been several minutes. There were more emails below it, with other Verizon personnel and other members of the Claymore investment group. But Danny’s eyes kept reading that message over and over again almost of their own accord, bouncing off the bottom of the screen back to the top like a program caught in an infinite loop.
 </p>
 <p>
-Eventually, he was able fight through his bewilderment to type out one short, simple message to the investor from which this email had come.
+Eventually, he was able fight to through his bewilderment to type out one short, simple message to the investor from which this email had come.
 </p>
 
 <div class="computer email">
@@ -287,7 +287,7 @@ Danny swallowed hard.
     You've basically been living off of our generosity for the entire lifetime of the company.
   </div>
   <div class="message messagein">
-    Who do you think has been providing the funds that you and all your coworkers' salaries comes from? Benevolent gods from the ancient empire of Moneypotamia?
+    Who do you think has been providing the funds that you and all your coworkers' salaries come from? Benevolent gods from the ancient empire of Moneypotamia?
   </div>
   <div class="message messagein">
     We're investors, Danny. We need a RETURN on our investment. We can't keep waiting indefinitely for some ship that never comes in. We've been discussing this for a long time. We all have other projects with better potential ROI. It had to happen eventually.

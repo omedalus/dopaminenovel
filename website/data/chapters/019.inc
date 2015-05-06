@@ -205,85 +205,43 @@ Danny collected his HERF gun, carefully examining the power cables from which th
 “So, I’ll call you tomorrow to discuss the consortium?” Jason asked.
 </p>
 <p>
-Danny froze with his hand on the door handle. “Uh… what’s there to discuss?”
+Danny froze with his hand on the door handle. “What’s there to discuss?”
 </p>
 <p>
 “I really would like to find out who they are,” said Jason. “I’ll pay you for the additional labor, of course.”
 </p>
 <p>
-Danny slumped back into his seat with an intense frown, avoiding eye contact. “I… I don’t think so, Jason.”
+Danny slumped back into his seat with an intense frown, avoiding eye contact. “I… I don’t think so. I don’t want to do this anymore, alright?”
 </p>
 <p>
 “Why not?” Jason asked innocently.
 </p>
 <p>
-Danny’s shoulders hunched and his head lowered in a subconscious effort to hide, his body obeying some kind of ancient reptilian instinct to retract his head and flippers inside his shell. “I don’t want to do this anymore, alright?”
-</p>
-<p>
-Jason’s eyes narrowed. “Danny, just what the hell are you so upset about?”
-</p>
-<p>
-Danny asked morosely, “Why did you hire me?”
-</p>
-<p>
-Jason hesitated for a few seconds. “What do you mean? To get inside information on Tungsten, obviously.”
-</p>
-<p>
-Danny shook his head. “That’s not what I mean. Why did you hire <em>me</em>?”
-</p>
-<p>
-Jason simply stared at him.
-</p>
-<p>
-“I’m not a hacker, Jason,” Danny insisted. “I’m an engineer. I’m a builder, not a breaker. All this cloak-and-dagger confrontation bullshit isn’t what I do. <em>This</em> is what I do…” He held up his HERF gun. “<em>This</em> is what I do…” He held up his cellphone. “You’re getting the picture, right? I don’t do <em>this</em>…” He fished Eugene’s hacked Pantech out of his pocket. “…And I sure as shit don’t do <em>this</em>…” He turned his shoulder to display the gauze dressing over his bullet wound. “You knew from the very beginning that you needed a hacker. Not an engineer, but specifically a hacker. And yet you hired me anyway.”
-</p>
-<p>
-“I needed someone smart who could do the job,” Jason countered. 
-</p>
-<p>
-“And you thought <em>I</em> was the right guy for it?” Danny fired back. “Bullshit. This is Seattle, Jason. There’s dozens of top-notch hacker outfits you could’ve hired, both legal and illegal. IOActive. Leviathan Security. The Ghetto Hackers. The Schmoo Group. Some of the shadier members of Agora. There’s literally a thousand people in this city that would’ve done a better job at this than me, for a lower price.”
+“I’m not a hacker, Jason,” Danny insisted. “This is Seattle. There’s dozens of top-notch hacker outfits you could’ve hired, both legal and illegal. IOActive. Leviathan Security. The Ghetto Hackers. The Schmoo Group. Some of the shadier members of Agora. There’s literally a thousand people in this city that would’ve done a better job at this than me, for a lower price.”
 </p>
 <p>
 “Danny, I don’t have any inroads to folks like that,” Jason defended. “It’s not like I can just type ‘Seattle hackers’ into Google and get contact information for…”
 </p>
 <p>
-“Yes, you can,” Danny interrupted.
+“Yes, you can,” Danny interrupted. “You can do <em>exactly</em> that. Try it.”
 </p>
 <p>
 “Right. And I’m supposed to just work with some random guy off the Internet who happens to be a semi-professional criminal?”
 </p>
 <p>
-Danny glared at him. “For a <em>criminal</em> activity? Yes, Jason! That’s <em>exactly</em> what you’re supposed to do!”
+Danny glared at him. “For a <em>criminal</em> activity? Yes.”
 </p>
 <p>
-Jason shook his head. “Look, I needed someone I could trust, alright? Someone who I knew would be on my side. Someone who…”
+“I needed someone smart who could do the job,” Jason countered. 
 </p>
 <p>
-Danny cut him off accusatorially. “Someone who would do this job because he had nowhere else to turn, right? Because you just got done taking the company he’s poured his blood, sweat, and tears into for the last six years and decided to make it go Poof! No more! All gone! ‘So what are you going to do now?’ Right? ‘Oh, well, gosh, Danny, I’ve coincidentally got this little side-project…’”
-</p>
-<p>
-“Danny, you make it sound like I’d had some kind of grand master plan this whole time,” Jason said defensively. “It wasn’t like that. At all. It was more… More, um…”
-</p>
-<p>
-“Opportunistic?” Danny offered bitterly.
-</p>
-<p>
-Jason looked away, saying nothing.
-</p>
-<p>
-“It wasn’t so much a diabolical mastermind plot as it was seizing an opening, wasn’t it?” Danny said. “You knew that hacking Tungsten would help you in this little hostile takeover quest of yours, if only you could find someone to do it for you. And you knew that I’d be lost and desperate once you and your fellow investor buddies got done shredding Claymore. And there you were &mdash; you found yourself with a square peg in one hand and a round hole in the other…”
-</p>
-<p>
-“Yes, Danny! Business is opportunistic! Good fucking morning,” Jason fired back. “But you know what? You <em>were</em> the opportunity. And you still are. I hired you <em>because</em> I could use you. Because I believed you could get the job done. What exactly is so wrong with that? You’re a man who takes pride in his work, right? Well, look at the work you’ve done tonight, Danny! You faced challenges beyond anything I’d foreseen, and you persevered in ways I never would have expected. You have nothing to feel right now but pride.”
-</p>
-<p>
-“Pride? <em>Pride?</em>” Danny repeated shrilly. “You think I should feel <em>pride?</em> Jason, all I feel right now is regret! Regret for meeting you, regret for agreeing to any of this, regret for being in this car right now. I never want to do anything like this <em>ever again</em>. I wish I didn’t do it at all in the first place. I wish I could erase the memories of it that are playing in an infinite loop in my head right now &mdash; all these… these horrific scenes of… of… Fuck! I wish I could rewind back to yesterday afternoon, when you came up to me after my Claymore presentation, and just told you, ‘No, thanks.’ And in some alternate universe, in which I actually did that like I should’ve, I’ve spent all night tonight updating my LinkedIn profile and fiddling with my resume and flipping through job openings on Craigslist, and right now I’d be staying up late re-playing Skyrim because I know I don’t have work tomorrow. <em>That’s</em> where I’m supposed to be. <em>That’s</em> my life. <em>That’s</em> my home universe. But instead, I’m <em>here</em>. And <em>here</em>, I’ve spent the night… in…”
+“And you thought <em>I</em> was the right guy for it?” Danny fired back. “I’m an engineer. I’m a builder, not a breaker. All this cloak-and-dagger confrontation bullshit isn’t what I do. <em>This</em> is what I do…” He held up his HERF gun. “<em>This</em> is what I do…” He held up his cellphone. “I don’t do <em>this</em>…” He fished Eugene’s hacked Pantech out of his pocket. “…And I sure as shit don’t do <em>this</em>…” He turned his shoulder to display the gauze dressing over his bullet wound. “You think I want to keep working with you? Are you <em>kidding me</em>? Right now, all I want is to rewind back to yesterday afternoon, when you offered me this little project, just so I could tell you, ‘No, thanks.’ And in some alternate universe, in which I actually did that like I should’ve, I’ve spent all night tonight updating my LinkedIn profile and fiddling with my resume and flipping through job openings on Craigslist, and right now I’d be staying up late re-playing Skyrim because I know I don’t have work tomorrow. <em>That’s</em> where I’m supposed to be. <em>That’s</em> my life. <em>That’s</em> my home universe. But instead, I’m <em>here</em>. And <em>here</em>, I’ve spent the night… in…”
 </p>
 <p>
 He looked down at himself, at his shirtless torso and his wounded hand. He felt his shoulder throbbing. He took a long, slow, deep breath. 
 </p>
 <p>
-“I’m sorry, Jason.” He popped the car door open. “You want to continue this insanity and go digging up dirt on this consortium or whatever? You’ll have to do it without me. Find some other pet cybermonkey to sick on your business rivals. I’m done.”
+“I’m sorry, Jason.” He popped the car door open. “You want to continue this insanity and go digging up dirt on this consortium or whatever? You’ll have to do it without me. Find some other pet cybermonkey to sic on your business rivals. I’m done.”
 </p>
 </div>
 

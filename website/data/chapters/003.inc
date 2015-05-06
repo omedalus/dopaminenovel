@@ -1,6 +1,6 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Noc Noc was adorned with grinning gargoyles</span> and occult symbols. Twisted mannequins stood in corners, as though the Medusa sculpture by the door had turned mutant patrons to plastic. Young men and women with assorted bits of metal in their skin sipped colorful drinks to the buzzing, beeping background music.
+<span class="caplead">Mercury was adorned with grinning gargoyles</span> and occult symbols. Twisted mannequins stood in corners, as though the Medusa sculpture by the door had turned mutant patrons to plastic. Young men and women with assorted bits of metal in their skin sipped colorful drinks to the buzzing, beeping background music.
 </p>
 <p>
 Danny walked in carrying a Claymore tote bag full of electronic junk, with thick wires and plastic pipes protruding from the top. He spotted Jason Tuttle alone at a table.

@@ -2,10 +2,7 @@
 <p>
 <span class="caplead">
 Hernando Mejía wasn’t legally allowed</span>
- to be here. He spoke no English, and he had no papers. He wasn’t stupid; he knew to keep his head down and his mouth shut.
-</p>
-<p>
-Stoically, he rubbed a Windex-coated cloth against the interior of the windows of the lower west wing of the Medina Gallante.
+ to be here. He spoke no English, and he had no papers. He wasn’t stupid; he knew to keep his head down and his mouth shut. Stoically, he rubbed a Windex-coated cloth against the interior of the windows of the lower west wing of the Medina Gallante.
 </p>
 <p>
 He saw motion outside.
@@ -14,16 +11,13 @@ He saw motion outside.
 From the wide stone steps leading down to the hotel’s wharf, a man’s head ascended into the light. A small Bluetooth device sat nestled in his ear, beneath a yellow safety helmet. He wore coveralls and a toolbelt, and carried a toolbox and a large long complex-looking device. He could’ve been a plumber or an electrician.
 </p>
 <p>
-The man climbed the steps and proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. After 9:00 P.M., the doors needed a key to open from the outside. If the man had any legitimate business out on the wharf, he would’ve known that.
-</p>
-<p>
-The man knocked on the glass, waved to Mejía, and said something in English. Mejía could hear him speaking, but he understood nothing. Mejía tried to reply in Spanish. The man simply shook his head and shrugged.
+The man climbed the steps and proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. After 9:00 P.M., the doors needed a key to open from the outside. The man knocked on the glass, waved to Mejía, and said something in English. Mejía tried to reply in Spanish, but the man simply shook his head and shrugged.
 </p>
 <p>
 Mejía weighed his options. His instincts told him to be wary. Paranoia was a virtue.
 </p>
 <p>
-That same sense of paranoia, however, also told Mejía that his best option was always to comply. If this man was indeed simply a locked-out maintenance worker, refusal to let him in could result in being reported to management. And job loss. And ICE.
+That same paranoia, however, also told Mejía that, if this man was indeed simply a locked-out maintenance worker, refusal to let him in could result in being reported to management. And job loss. And ICE.
 </p>
 <p>
 Mejía opened the door.
@@ -59,7 +53,7 @@ Leffert shook her head. She closed the refrigerator door and marched out from th
 <em>Bistro</em> opened out to a wide hallway that led to the elevators and lobby. Velvet ropes swooped out from the doorway, past a black easel listing the day’s specials in handwritten multi-colored chalk.
 </p>
 <p>
-An electrician, complete with blue coveralls and a yellow helmet, stood waiting. He was studying the host’s lectern, where a spiral-bound notepad and a glossy, crayon-marked paper chart enabled Luke to keep track of reservation times and seating arrangements.
+An electrician, evident by his blue coveralls and yellow helmet, stood waiting. He was studying the host’s lectern, where a spiral-bound notepad and a glossy, crayon-marked paper chart enabled Luke to keep track of reservations and seating arrangements.
 </p>
 <p>
 “Can I help you?” Leffert asked pointedly.
@@ -124,7 +118,7 @@ Leffert rolled her eyes and tapped in her password.
 “I didn’t break anything, did I?” said the electrician. “I was just checking the electrical connection. Nothing I was doing should’ve touched the computer’s software…”
 </p>
 <p>
-“Relax,” Leffert said. “It’s just some kind of maintenance crap. Probably didn’t even have anything to do with you. Did you find the issue?”
+“Relax,” Leffert said. “It’s just some kind of system update crap. Probably didn’t even have anything to do with you. Did you find the issue?”
 </p>
 <p>
 He shook his head. “I need to keep looking. The fault’s not here. Your system’s fine.”
@@ -209,10 +203,10 @@ Without any warning, a pair of headlights materialized behind him.
 A loud, high-pitched whooping sound broke the quiet night, and the van was suddenly lit up by the spastic red and blue flashes of a police cruiser’s lightbar. 
 </p>
 <p>
-Moshen gulped and pulled gently onto the shoulder between the road and the foliage. The van’s tires crunched against fine gravel as it eased to a halt. He watched the police lights blink frenetically in his mirrors. Seconds felt like hours. He rolled down his window and waited.
+Moshen gulped and pulled gently onto the shoulder between the road and the foliage. The van’s tires crunched against fine gravel as it eased to a halt. He watched the police lights blink frenetically in his mirrors, and waited.
 </p>
 <p>
-A bright white light suddenly shone through the driver’s side window.
+A bright white light suddenly shone through the driver’s side window. Moshen rolled down his window.
 </p>
 <p>
 “Claymore Communications,” said a gravelly male voice.
@@ -230,7 +224,7 @@ Sergey blinked, and attempted a friendly, professional smile.
 “What brings you boys to the neighborhood?” the policeman said slowly. He panned his light across Eugene and Leo in the back seat. They kept stoic poker-faces.
 </p>
 <p>
-“We’re on a troubleshooting call,” Moshen answered. “From the Medina Gallante hotel. They’re having some computer glitches.”
+“We’re on a troubleshooting call,” Moshen answered. “For the Medina Gallante hotel.”
 </p>
 <p>
 The policeman angled his flashlight to see into the rear of the van, past the back seat. The beam illuminated computer cables and server racks.
@@ -266,16 +260,10 @@ Tina replied, “I’m the night shift manager. Is everything alright, Officer?�
 “Absolutely!” said Tina. “We’re having serious problems with our computer systems. We need them here right away.”
 </p>
 <p>
-“They don’t look right,” said the policeman. “The driver’s not registered to the vehicle. His tax records say he does computer work, but there’s nothing on file tying him specifically to this Claymore Communications company. Dispatch says nobody’s answering Claymore’s phone right now, so we can’t confirm with the registrant. The driver’s name is Moshen Chan. Can you vouch for him?”
+“They don’t look right,” said the policeman. “The driver’s not registered to the vehicle. His tax records say he does computer work, but there’s nothing on file tying him specifically to this Claymore Communications company. Dispatch says nobody’s answering Claymore’s phone right now, so we can’t confirm with the registrant. There are three additional persons in the vehicle. There’s something off about them. They don’t look like computer folks to me. I can have Dispatch send a car out to you guys to keep an eye on these boys, just in case.”
 </p>
 <p>
-“Yes,” said Tina. “Little guy, big glasses. We’ve worked with him before.”
-</p>
-<p>
-“There are three additional persons in the vehicle,” the policeman said. “There’s something off about them. They sure as hell don’t look like computer folks. I can have Dispatch send a car out to you guys to keep an eye on these boys, just in case.”
-</p>
-<p>
-“Oh, no, Officer. That really won’t be necessary,” Tina assured. “We wouldn’t want to upset our guests by implying there’s some kind of issue that requires police presence.”
+“Oh, no, Officer. That really won’t be necessary,” Tina assured. “We wouldn’t want to upset our guests with a police presence.”
 </p>
 <p>
 “We’ll send plainclothes,” the cop suggested. “They’ll blend right in with the civilian population. It’d be no trouble.”
@@ -491,10 +479,10 @@ From around the other side of the van, the deep voice of Sergey rumbled. “Can 
 Mike’s voice buzzed in the earpiece. “Yes. Up the back stairs &mdash; it connects to the hotel’s rear maintenance corridor.”
 </p>
 <p>
-With an approving nod, Danny grabbed his HERF gun and his toolbox. “Then let’s get moving.”
+Danny grabbed his HERF gun and his toolbox. “Then let’s get moving.”
 </p>
 <p>
-The Russians emerged from behind the van, marching into view in their battle dressing. Roger stared slackjawed as they appeared, and instinctively backed away slowly.
+The Russians emerged from behind the van, marching into view in their battle dressing. Roger stared slackjawed as they appeared, and instinctively backed away.
 </p>
 <p>
 Danny began to lead them to the garage’s rear stairwell.
@@ -599,7 +587,7 @@ When she was finally inside the office, she saw Karl and Arnie and the rest of h
 And standing several feet from them, ensuring their silence, was a man with black IOTV body armor, a full-faced helmet, and a highly accessorized M4 rifle.
 </p>
 <p>
-The intruder who had opened the door closed it behind her. He stepped into her view, and pointed a MAC-10 at her torso. He was an enormous behemoth of a man, with substantial bulk under his combat suit. A black riot shield was strapped to his left arm. Through the visor of his helmet, she saw that his eyes were determined and professional.
+The intruder who had opened the door closed it behind her. He stepped into her view, and pointed a MAC-10 at her torso. He was a behemoth of a man, with substantial bulk under his combat suit. A black riot shield was strapped to his left arm. Through the visor of his helmet, she saw that his eyes were determined and professional.
 </p>
 <p>
 This was not a mere robbery. This was some kind of full-scale military operation.
@@ -620,16 +608,16 @@ Her fellow guards had all been rendered helpless. The hotel kept eight security 
 She took a deep breath. She began to lower her arms. But as she brought them down, she simultaneously began bending her knees into a crouch.
 </p>
 <p>
-Her babies would always know that their mommy died fighting for what’s right. For their entire lives, that knowledge would give them strength and guidance in times of trouble. For a gift like that to give to her children, she was willing to pay the cost.
+Her babies would always know that their mommy died fighting for what’s right. For their entire lives, that knowledge would give them strength and guidance. For a gift like that to give to her children, she was willing to pay the cost.
 </p>
 <p>
 She lunged for the security console.
 </p>
 <p>
-On the desk was a 9-1-1 hotline &mdash; a bright yellow telephone handset that connected directly to the Bellevue PD automatically just by being picked up. The police department’s 9-1-1 system would begin recording the call immediately, ensuring that somebody would hear her last words. She grabbed the corded handset and dove underneath the desk.
+On the desk was a 9-1-1 hotline &mdash; a bright yellow telephone that connected directly to the Bellevue PD automatically just by being picked up. The police department’s phone system would begin recording the call immediately, ensuring that somebody would hear her last words. She grabbed the corded handset and dove beneath the desk.
 </p>
 <p>
-“Medina Gallante hotel under foreign military attack!” she screamed into the yellow telephone. She spoke as fast as she could, trying to squeeze out as much information as possible before getting riddled with bullets. “Private security incapacitated! Attackers equipped with automatic rifles and combat armor…”
+“Medina Gallante hotel under foreign military attack!” she screamed. She spoke as fast as she could, trying to squeeze out as much information as possible before getting riddled with bullets. “Private security incapacitated! Attackers equipped with automatic rifles and combat armor…”
 </p>
 <p>
 Her voice trailed off. She hadn’t expected to survive long enough to say more than half a dozen words. There were no blasts of gunfire, no bullets flying.
@@ -653,10 +641,10 @@ Torres looked back and forth at the three invaders, confused.
 The man who had snuck up behind her wore a light ballistic vest and a bowl-shaped open-faced helmet, and carried a silver snubnose .44 Magnum.
 </p>
 <p>
-“I have good news and bad news for you,” he said. “We’re not here to hurt you. We just need you out of the way. That is the good news. But the bad news is, that phone was cut off before we even got here.”
+“I have good news and bad news for you,” he said. “We’re not here to hurt you. We just need you out of the way. But that phone was cut off before we even got here.”
 </p>
 <p>
-The yellow handset vibrated in her hand. “Hey. Ms., um, Torres, was it?” It was a woman’s voice &mdash; the same voice as the one on her radio. Torres looked at the handset in utter bewilderment. “I’m… I’m really, really sorry.”
+The yellow handset vibrated in her hand. “Hey. Ms., um, Torres, was it?” It was a woman’s voice &mdash; the same voice as the one on her radio. Torres looked at the handset in bewilderment. “I’m… I’m really, really sorry.”
 </p>
 <p>
 “Who the hell are you people?” Torres hissed.
@@ -983,7 +971,7 @@ Danny looked around. No twelve-year-old girl was anywhere to be seen.
 He did, however, see Ivan Zheleznov.
 </p>
 <p>
-The man descended the spiral staircase like a gray hawk swooping down on a field mouse. He wore a fine three-piece suit and slicked-back silver hair. Despite being the oldest and physically weakest man in the room, the force of his presence imposed a greater degree of intimidation, a greater sense of immediate peril, than any of his bodyguards.
+The man descended the spiral staircase like a gray hawk swooping down on a field mouse. He wore a fine three-piece suit and slicked-back silver hair. Despite being the oldest and physically weakest man in the room, his presence imposed a greater sense of immediate peril than any of his bodyguards.
 </p>
 <p>
 “You come to fixing the air, yes?” he said loudly to Danny in a dry, gravelly, impatient voice.
@@ -998,304 +986,64 @@ He found the thermostat on the wall. Danny walked up to it and lingered for seve
 “The thermostat looks fine. I think there’s a loose heating element somewhere near the sensor,” Danny bluffed. “I’ll need to check your ducts.”
 </p>
 <p>
-He scanned the walls, and found an air vent near the ceiling. He marched toward it with as much bravado as he could muster, and pulled a chair over to the wall so he could stand on it for a closer look. The vent was about two feet wide and a foot tall. The frosty air blasted him in the face as he looked inside the vent’s faceplate, blowing around his helmet and across his ears.
-</p>
-<p>
-Holding his head level with the opening, he turned to check the view of the room. He could see most of the open downstairs area of the penthouse. This vent would serve him well.
+He scanned the walls, and found an air vent near the ceiling. He marched toward it with as much bravado as he could muster, and pulled a chair over to the wall so he could stand on it for a closer look. The vent was about two feet wide and a foot tall. The frosty air blasted him in the face as he looked inside the vent’s faceplate, blowing around his helmet and across his ears. Holding his head level with the opening, he turned to check the view of the room. He could see most of the open downstairs area of the penthouse. This vent would serve him well.
 </p>
 <p>
 With the help of a screwdriver from his toolbelt, he removed the grating over the opening. He spent several moments pretending to examine the dark interior of the air shaft.
 </p>
 <p>
-“It, uh, looks like the ventorical airfoil router is jammed,” he said.
+“It, uh, looks like the ventorical airfoil router is jammed,” he said. He turned to study the expressions of the Russians, trying to gauge their reactions. They remained emotionless, showing no response save for their desire for him finish his efforts.
 </p>
 <p>
-He turned to study the expressions of the Russians, trying to gauge their reactions. They remained emotionless, showing no response save for their desire for him finish his efforts.
+The rest of his work would have to be done by sleight-of-hand.
 </p>
 <p>
-The rest of his work would have to be done sleight-of-hand.
+Danny picked up his toolbox and brought it up to the vent. The opening was big enough for him to rest the toolbox partway in the air duct, allowing him to use the red metal container to obscure his hands from the watchful eyes of Ivan and his men. Danny cracked the lid open and rummaged noisily through the box’s contents. Metallic echoes reflected back at him in the flowing air.
 </p>
 <p>
-Danny picked up his toolbox and brought it up to the vent. The opening was big enough for him to rest the toolbox partway in the air duct, allowing him to use the red metal
+From inside the toolbox, he inconspicuously fished out a small black device, roughly the size and shape of a pack of cigarettes. On one edge of the object, behind a lens the size of a dime, a camera iris expanded and contracted with a soft whir as it tried to accommodate the light levels of the room. Using his body to hide his actions, Danny wadded up a ball of Sticky Tack putty and used it to affix the wireless camera inside the air vent.
 </p>
 <p>
-container to obscure his hands from the watchful eyes of Ivan and his men. Danny cracked the lid open and dug noisily through the box’s contents. Metallic echoes of rummaging reflected back at him in the flowing air.
+Trusting the rattle of the cold, windy air to obscure his voice from the Russians, Danny murmured, “Mike, how’s the angle?”
 </p>
 <p>
-From inside the toolbox, he inconspicuously fished out a cellphone. It was a rather small, underpowered model, but it had what he needed: a camera. Working inside the cold, windy air duct, he covertly woke the device from sleep mode.
+From his Bluetooth earpiece, Mike’s voice replied in tinny tones. “Right now all we can see is you, but it should be good enough for situational awareness once you’re out of there.”
 </p>
 <p>
-Using his body to hide his actions, he wadded up a ball of Sticky Tack putty and used it to affix the cellphone to the inside of the air vent, making sure to angle the device’s camera to let it see out over the entire room.
+Danny said under his breath, “Every second I’m here is a second too long. Satish, prepare to cut the air in five.” He gave the Sticky Tack one last gentle tug to make sure the camera was affixed securely, and took a deep breath. In one quick motion, he pulled his toolbox out of the vent and put the faceplate back over the opening, praying that he was fast enough to keep the Russians from seeing what he had installed behind it. He screwed the grate into place. His fingers shivered as he worked, but not from the cold. He couldn’t quite get the threads on the screws to align.
 </p>
 <p>
-From his Bluetooth earpiece, Mike’s voice spoke in tinny tones. “I know you can’t talk right now, Danny,” Mike said. “Just wanted to let you know that we’re seeing a stream from the in-room cam. Right now all we can see is you, but once you’re out of there it should be good enough for situational awareness.”
+As fiddled with the cover, the wind blowing from the air vent abruptly died. A quiet stillness fell upon the room. The men and women on the balcony peeked their heads in, wondering if the repairman was finished.
 </p>
 <p>
-He pulled out his toolbox, reattached the faceplate, and climbed down from the chair. The men looked at him expectantly.
+“There we go,” said Danny as he climbed down from the chair. “Well, it appears my work here is done. Have a good day, gentlemen.” He gave Ivan a courteous nod. The balcony people began to file back inside.
 </p>
 <p>
-“Just as I thought. There’s a jam in the central overflow valve,” he said with as much credibility as he could feign. “It’s down in the HVAC room. I can’t fix it from here.” The men said nothing. “I’ll… uh… get right on it.”
+Danny’s instincts urged him to sprint out of the room, but he forced himself to maintain a professional demeanor. With toolbox in hand, he walked calmly toward the large cedarwood doors that stood between him and the penthouse anteroom. 
 </p>
 <p>
-With toolbox in hand, he practically sprinted through the cedarwood doors out to the penthouse anteroom. Courtesy of Satish, the elevator was already waiting for him. Danny said nothing to his team during the brief muzak-accompanied elevator ride down to the lobby floor. He walked briskly and silently through the opulent lobby, past the bank of elevators
+And he had almost reached it before he heard a sound behind him.
 </p>
 <p>
-and through the door marked “HOTEL STAFF ONLY” into the drab white fluorescent-lit maintenance hallway. He found the plain door marked “SECURITY,” darted through it, and leaned on it heavily as he closed it behind him.
+The sound was a metallic creak. It was followed by a clanking crash, and a series of dull thunks.
 </p>
 <p>
-Sergey stepped away from the rope-bound captives and approached him. “Well?”
+He turned around.
 </p>
 <p>
-Danny let out a long, nervous breath. “Well.”
+The rectangular air vent stood exposed and uncovered in the wall, revealing a naked wad of Sticky Tack putty inside the shaft. On the floor beneath it, the faceplate lay upon the carpeting, beside a few loose screws. Near it was the small black wireless spycam.
 </p>
 <p>
-The office served as a holding cell not only for the Gallante’s security staff, but also for a trio of sweaty, pink-skinned Russians clad in nothing but white towels and fresh bruises. Danny set his toolbox down next to his HERF gun, which stood propped against the wall in a nearby corner, sipping power from an electrical socket.
+For one silent second, both Danny and Ivan stared dumbly at the pile, saying nothing.
 </p>
 <p>
-“Did you see my Rosie?” Sergey asked.
+Danny bolted for the door as Ivan shouted orders to his men. Danny’s fingers reached for the handle, but before they made contact he was pulled backward by his shirt and hair. A wiry, muscular arm curled around his neck like a python, and he felt himself getting turned around and shoved back into the room. Someone behind him kicked him forward, toward the grey figure of Ivan Zheleznov.
 </p>
 <p>
-“No,” Danny replied, “but I know they’re holding her on the second floor of the suite. On the main floor I counted ten soldiers. There may be more upstairs.”
-</p>
-<p>
-Sergey looked down somberly. “Too many,” he said.
-</p>
-<p>
-Eugene, from across the room, snorted with derision. “Against the three of us, Seryozha? It is not fair. Those poor fuckers. Almost I feel bad for them.”
-</p>
-<p>
-Sergey shook his head. He spoke to Eugene in a tone that conveyed a complex mixture of apprehension, determination, and love. “<em>Molodoi kazyol!</em> Battles can go wrong, nephew. Risking myself is okay, I am fine with. But risking you? Risking Rosie? Risking Leo? That is only a path we take if we have no other options.”
-</p>
-<p>
-“So what is the plan, then?” Eugene insisted.
-</p>
-<p>
-Sergey pointed to Danny.
-</p>
-<p>
-Danny looked down and said nothing. His head pounded sorely. He felt tired and dehydrated &mdash; almost like he was hung over.
-</p>
-<p>
-Sergey stepped closer to him, about to say something.
-</p>
-<p>
-Danny raised his hand to silently ask Sergey for some space and patience.
-</p>
-<p>
-Speaking softly into the Bluetooth headset, Danny said, “Jason, are you there?”
-</p>
-<p>
-Jason’s voice said in a businesslike tone, “I’m here, Danny.”
-</p>
-<p>
-“How’s our little show coming?”
-</p>
-<p>
-“It’s done,” Jason said.
-</p>
-<p>
-“What about my hacker crew?” Danny asked. “Mike? Satish? Moshen? Hell, Roger, even? Are we ready to go?”
-</p>
-<p>
-Satish said, “Yes, Danny. We’ve set their room temperature back to normal so it looks like repairs were a success. Next step is all yours.”
-</p>
-<p>
-With a deep breath to bolster his confidence, Danny rose from his chair.
-</p>
-<p>
-“Okay, then,” he said. “Here’s what’s going to happen. I’m going to come back down to the docks and join Jason in the boat. I’ll deliver the presentation from our command center there. Sergey’s crew will move into ready positions outside the Presidential Suite, and one of them will drop off our little Tupperware box just outside the door. We’ll watch the video feed from the cellphone in the air vent, and we’ll use it to gauge their reaction. If it works, they’ll turn over Sergey’s daughter peacefully, and Sergey will be there to claim her. If it doesn’t, it’ll at least give Sergey’s crew a tactical advantage.”
-</p>
-<p>
-He picked up the toolbox and was about to hand it to Sergey with a litany of instructions.
-</p>
-<p>
-Mike interrupted him. “Hey, um, Danny?” the large scruffy man’s voice said over the earpiece. “About that vent cam…”
-</p>
-<p>
-“Yeah?” Danny asked. “What about it?”
-</p>
-<p>
-“Have you tried to look at it?”
-</p>
-<p>
-“No, Mike. I’ve been a little busy,” Danny replied.
-</p>
-<p>
-“Maybe you should,” Mike said.
-</p>
-<p>
-A chill ran down Danny’s spine. “Why?…” He reached for the cellphone in his pocket to access the video feed.
-</p>
-<p>
-He got a <span class="computer">Server not found</span> error.
-</p>
-<p>
-He gulped.
-</p>
-<p>
-“I can’t get to it…,” Danny said slowly.
-</p>
-<p>
-Mike said, “Neither can the rest of us.”
-</p>
-<p>
-Danny stared dumbly at the small screen in his hands. “You’ve got to be kidding me…”
-</p>
-<p>
-Natalie’s voice came in. “It was after you put the cover back on the vent, Danny,” she said. “Mike and I think the phone might have come loose from the Sticky Tack. A minute after you left the room, the whole image kind of turned over and went dark, and then a second later the connection died. …”
-</p>
-<p>
-Danny cut her off. “Fuuuuuuuuck!” he groaned. “Oh fucking hell no!”
-</p>
-<p>
-Mike said, “Relax, Danny. It’s just a slight setback…”
-</p>
-<p>
-“Setback? Mike… Mike, this is not a ‘setback’! This is a fucking disaster! That video feed is crucial to the rest of the operation! Without any awareness of what’s going on in that room, we’re completely stuck! We can’t negotiate for the release of Sergey’s daughter, and we can’t expect Sergey’s team to launch an effective assault if negotiations fail. Everything we’ve done up to now was for the sole purpose of setting up that camera feed, and everything we do from this point forward depends on it!”
-</p>
-<p>
-Mike said simply, “Well, Danny, we don’t have it.”
-</p>
-<p>
-With a blank look in his eyes, Danny unclasped the helmet and pulled it off his head, mindlessly letting it fall to the ground. He walked over to a nearby wall and began gently banging his forehead against it, mumbling, “One stupid fucking piece of Sticky Tack…”
-</p>
-<p>
-Tina’s voice chimed across the air. “Danny… Danny, hey… Are you okay?”
-</p>
-<p>
-“Tina. No. No, I’m not okay,” he said, almost whimpering. “I’m a fucking retard. I don’t know why I ever thought I could pull this off. This whole plan is as good as done, and all of this risk was for absolutely nothing, and there’s no way we’re going to get Sergey’s daughter back, and Sergey’s going to literally &mdash; <em>literally</em> &mdash; rip my head off and probably part of my spine dangling along with it, and I fucking deserve it because I’m a goddamned fucking loser that can’t do anything right…”
-</p>
-<p>
-Jason said, “Danny, this is a really bad time for another breakdown.”
-</p>
-<p>
-The earpiece overheard Moshen and Roger in the parking garage below. “Does he get all emo like this a lot?” asked Roger. Moshen answered, “Second time in as many days.” Roger said sardonically, “Way to pick a winner, Tina.”
-</p>
-<p>
-Danny tilted his head and reached one hand to his ear, intending to yank out the Bluetooth headset and throw it to the ground so that he could wallow in the misery of his defeat alone.
-</p>
-<p>
-He was stopped by the thud of Sergey’s heavy hand on his shoulder.
-</p>
-<p>
-Danny expected that hand to pull him away from the wall and beat him to a bloody pulp. Danny didn’t even bother to flinch.
-</p>
-<p>
-Instead, the hand merely gave him a mild shake to get his attention. “Hey. Daniel.” Beneath the visor of his helmet, Sergey’s eyes were warm and sympathetic. Gently, he said, “I not going to rip your head off, okay?”
-</p>
-<p>
-“You’re not?” Danny said with a very quiet, froggy voice.
-</p>
-<p>
-“I know you could have slipped out of this many times now,” said Sergey. “I know you are helping me because you are <em>choosing</em> do to it. I am grateful. You are good man, Daniel. After everything that has happened in a last few days, you should know: you have my faith.”
-</p>
-<p>
-Danny said meekly, “Well, what if your faith is misplaced?”
-</p>
-<p>
-Sergey’s eyes twinkled with the hint of a smile. “You know something, Daniel? You think too much.”
-</p>
-<p>
-Satish’s Indian-accented voice piped up on the channel. “Danny,” Satish said. “I want to tell you something. You <em>don’t</em> have my faith.”
-</p>
-<p>
-“Thanks a whole hell of a lot, Satish.”
-</p>
-<p>
-“I don’t mean that in a bad way,” Satish replied.
-</p>
-<p>
-“There’s a not-bad way to mean that?”
-</p>
-<p>
-“Danny, I never rely on faith,” said Satish. “I base my judgments on results. And I’ve seen you be a non-stop fuck-up. But you know what? You’re a <em>robust</em> fuck-up. You always find a way to recover from your failures. And I’m seeing now that that’s much more important than not having failures in the first place. I used to think that nobody should ever do anything unless they can do it perfectly &mdash; but I see now that that’s just a formula for never doing anything at all. It’s less important to have a flawless system than to have one that’s self-correcting and fault-tolerant. If a system operates in a way that allows it to adapt organically, then it’s going to be more reliable than one that operates rigidly based on a preprogrammed script.
-</p>
-<p>
-“Several hours ago you were telling me right here in my office that you’re going to start acting like a man. A man is a dynamic system, Danny. When his plans don’t work, a man doesn’t crash like a badly written computer application. A man recovers. A man reboots, marks the faulty lines of code, and keeps going.”
-</p>
-<p>
-Danny took a deep breath and nodded. “Adapt organically…” he echoed.
-</p>
-<p>
-The voice that answered Danny on the headset was Tina’s. “Danny,” she said. “Do you remember what I said to you back in the Rite Aid? Biological systems always find a way to make things work. And that brain of yours is one incredibly powerful biological system. It will self-correct. It will adapt. It will persevere. That’s how the system works. That’s how <em>you</em> work. You can’t not succeed. You don’t work that way. So you don’t need Sergey’s faith or Satish’s faith or mine or anyone else’s. The faith you need is your own.”
-</p>
-<p>
-Danny stared blankly ahead for several moments, weighing their words, analyzing them and carefully pondering their implications &mdash; until it dawned on him that doing so defeated the purpose.
-</p>
-<p>
-“You’re right,” he said. He grabbed the toolbox from the floor. “I’ll be back in a minute,” he told Sergey’s team.
-</p>
-<p>
-And with a Zen-like calm, he strode out the door, into the maintenance hallway.
-</p>
-<p>
-Mike said to him over the air, “Danny, where are you going?”
-</p>
-<p>
-Danny walked down the plain white maintenance corridor. “I’m self-correcting,” he said. He opened the door marked “HOTEL STAFF ONLY”, walked out into the luxurious lobby, and stepped into the elevator to the Presidential Suite.
-</p>
-<p>
-“Tina was right,” he said as he stood in the rising elevator, toolbox in hand. “I’ll either come up with a way for us to not need the cellphone in the vent, or a way to put it back into position.”
-</p>
-<p>
-“How?” Mike pressed.
-</p>
-<p>
-Danny replied lightly, “Dunno yet. But you know what? I bet I’ll think of something.”
-</p>
-<p>
-The elevator arrived at the penthouse. Danny walked across the lavish antechamber toward the cedarwood doors, and knocked.
-</p>
-<p>
-After a few seconds, the large doors swung open. The same aggressive-looking man greeted Danny at the door. Ivan stood next to him.
-</p>
-<p>
-“You come back,” Ivan said. “We thought you might.”
-</p>
-<p>
-Danny smiled genially. “Hi folks, sorry to bother you again. We think we fixed the problem. I’d like to verify, though.”
-</p>
-<p>
-He stepped calmly into the room. He noticed that the air in the room had returned to a civilized, pleasant temperature, with no draft blowing.
-</p>
-<p>
-He also noticed that the mercenaries that had previously been out on the balcony had returned indoors. The women stood awkwardly in one corner, looking nervously away. The video game on the immense TV was paused, and its erstwhile players stood at attention in the sunken living room.
-</p>
-<p>
-The men were all looking directly at Danny.
-</p>
-<p>
-He pretended not to be unnerved by the focused attention. He walked toward the sunken living room on his way to the vent, the eyes of the hired guns following him keenly as he moved through the room. The doors closed behind him.
-</p>
-<p>
-He saw the vent. Its faceplate had been removed. The grating lay on the floor beneath the opening.
-</p>
-<p>
-He froze and stared at it, perplexed. Surely he had put the grating back on the vent before leaving?
-</p>
-<p>
-From very close behind him, he heard Ivan say, “Looking for this?”
-</p>
-<p>
-Danny turned around slowly.
-</p>
-<p>
-Ivan stood before him, his eyes blank with a chill so deep that Danny felt frostbite in his bones. In his creasy, mottled hands, he held the small, underpowered cellphone. The wad of Sticky Tack putty was still stuck to its case.
-</p>
-<p>
-“I…,” Danny stuttered. “No, no! I… Uh, what’s that? I’ve never seen that before…”
-</p>
-<p>
-The lithe, aggressive-looking man stood next to Ivan. He pulled a small black semi-automatic from his pocket, and pressed it to Danny’s chest.
-</p>
-<p>
-Danny felt his heart beat against the barrel.
+The lithe, aggressive-looking man who had greeted Danny at the door earlier now stood next to Ivan. He pulled a small black semi-automatic from his pocket, and pressed it to Danny’s chest. Danny felt his heart beat against the barrel. The mercenary slowly walked Danny down the steps of the sunken living room, where Danny found himself surrounded by Ivan’s men.
 </p>
 <p>
 In the Bluetooth earpiece, Mike said, “Danny! Danny, what’s happening?”
-</p>
-<p>
-Danny backed up slowly, minding the steps as he descended backwards into the sunken living room. The mercenaries around the room drew their handguns in smooth, silent motions.
 </p>
 <p>
 Ivan hissed at him, “Do you thinking we are amateurs?”
@@ -1337,7 +1085,7 @@ In the earpiece, Satish said, “X10 packet injection check, receiver firmware m
 In the suite, Danny glared at Ivan defiantly, saying nothing.
 </p>
 <p>
-Ivan leaned toward him. “Ah, so quiet! You having no last words before fun begin?”
+Ivan leaned toward him. “Ah, so quiet! You having no last words?”
 </p>
 <p>
 Slowly, a wry, diabolical smile crept onto Danny’s face. His eyes twinkled with Machiavellian anticipation.

@@ -7,7 +7,7 @@
 
 <div class="chapsection">
 <p>
-<span class="caplead">Peanut shells crunched under the soles</span> of Eugene’s designer sneakers. He leaned against the carving-pocked bar, careful to avoid dipping the elbow of his custom-fit leather jacket into something sticky and unnamable. Around him, tattooed men with large bellies and larger beards swigged Jack Daniels and bragged about the horsepower of their “hogs” beneath the blare of the jukebox.
+<span class="caplead">Peanut shells crunched under the soles</span> of Eugene’s designer sneakers. He leaned against the carving-pocked bar, careful to avoid dipping the elbow of his custom-fit leather jacket into something sticky and unnameable. Around him, tattooed men with large bellies and larger beards swigged Jack Daniels and bragged about the horsepower of their “hogs” beneath the blare of the jukebox.
 </p>
 <p>
 “I didn’t mean to make trouble, Eugene,” a young, thin man said with a gulp.
@@ -22,7 +22,7 @@ Eugene clapped a hand firmly on his shoulder. It could have been a gesture of fr
 Eugene slid his hand up toward the man’s neck. “Do you think Sergey and I aren’t <em>painfully</em> aware of that, Francisco? How much is the street price for loyalty?”
 </p>
 <p>
-“I... like selling for you, Eugene,” Francisco stammered. “You and Sergey, you always treat me good. It’s just that...”
+“I... like selling for you, Eugene,” Francisco stammered. “You and Sergey, you always treat me good. It’s just...”
 </p>
 <p>
 “This new supplier’s product is <em>so</em> much better, right?”
@@ -52,7 +52,7 @@ Eugene’s fingers closed around Francisco’s throat. He looked into his redden
 Gasping, Francisco honked out through his squeezed larynx, “See for yourself, chief!” He reached out with one thin arm and pointed toward the back of the bar.
 </p>
 <p>
-Eugene’s gaze followed his trembling finger past silhouettes of gruff drunks. Near the pool table in the back, the crowd simply stopped, like a sea held back by an invisible dam. There, on a tall bar stool, sat a young Asian woman drinking a fluorescent cocktail. Eugene couldn’t make out details, but, amid all the black t-shirts and grease-stained jeans, her sleek white dress and gladiator stilettos stuck out like a Viagra in a bag of molly.
+Eugene’s gaze followed his trembling finger past silhouettes of gruff drunks. Near the pool table in the back, the crowd simply stopped, like a sea held back by an invisible dam. There, on a tall bar stool, sat a young Asian woman drinking a fluorescent cocktail. Eugene couldn’t make out details, but, amid all the denim vests and grease-stained jeans, her sleek white dress and gladiator stilettos stuck out like a Viagra in a bag of molly.
 </p>
 <p>
 “She’s <em>here</em>?” Eugene grunted. He released his hold on Francisco, who coughed and wheezed as he reclaimed his breath. “<em>That’s</em> who’s muscling in on our area?”
@@ -70,7 +70,7 @@ Eugene squinted. A pink Hello Kitty purse rested on the girl’s lap. “She doe
 Eugene smacked him hard upside the head. “Get the fuck out of here, Francisco. Go. Leave town. If Sergey or I ever see you again, you’re a dead man.”
 </p>
 <p>
-Sparing not a moment, the youth pushed himself away from the bar and scuttled through the crowd, making a hasty exit through the door.
+Sparing not a moment, the youth pushed himself away from the bar and scuttled hastily to the door.
 </p>
 <p>
 Eugene stayed put, watching the girl keenly. Three muscular men shared the empty area with her &mdash; one by her side, the other two absorbed in a game of pool. He pulled out his cellphone. “<span class="computer">Sergey</span>,” he typed. “<span class="computer">Get down here. You have to see this.</span>”
@@ -136,10 +136,10 @@ The stoic bodyguard advanced. “You’re threatening my boss, buddy. Your conve
 Julie Yen laughed raucously. “Oh, Eugene! Dear obsolete, useless Eugene! What would be the point of explaining anything? You wouldn’t understand a word I told you.”
 </p>
 <p>
-Eugene noticed that the occasional click of colliding billiard balls behind him had ceased. The two pool players were no longer engrossed in their game. He realized that could mean only one thing: they must be standing right...
+Eugene noticed that the occasional click of colliding billiard balls behind him had ceased. The two pool players were no longer engrossed in their game. He realized that could mean only one thing: they must be standing right…
 </p>
 <p>
-He ducked down into a squat, spinning and kicking out as he dropped. His leg made contact with an ankle. He crooked his knee, sweeping out the foot of one of the men behind him. The would-be assailant fell backward, knocking his head against the pool table as he tumbled. Eugene rose from his squat to deliver his fallen opponent a swift stomp on the chest. Ribs cracked beneath his heel.
+He ducked down into a squat, spinning and kicking out as he dropped. His leg made contact with an ankle. He crooked his knee, sweeping the foot of one of the men behind him. The would-be assailant fell backward, knocking his head against the pool table as he tumbled. Eugene rose from his squat to deliver his fallen opponent a swift stomp on the chest. Ribs cracked beneath his heel.
 </p>
 <p>
 He turned to the other pool player just in time to see a cue swinging at his face. He leaned into the arc of the swing, grabbed the stick, and spun with its momentum, turning his back toward its wielder. An elbow jab made contact with the attacker’s gut hard enough to sink him to his knees, but the man’s grip on the stick remained firm. Eugene wrestled the cue downward against the floor and pushed until it cracked in two. He grabbed the thicker end and rammed the butt against his attacker’s temple. The kneeling man reeled and collapsed.
@@ -148,10 +148,10 @@ He turned to the other pool player just in time to see a cue swinging at his fac
 The bodyguard at Julie’s side approached the melee, reaching out to grapple Eugene with elephant-trunk arms. Eugene quickly scanned the large man’s posture for weaknesses.
 </p>
 <p>
-A pair of hairy, thick-fingered hands appeared beneath the bodyguard’s armpits. They snaked up over his shoulders and joined behind the man’s head, locking his arms in a full nelson. The guard, taken by surprise, struggled to break free from the large figure that had just appeared behind him.
+A pair of hairy, thick-fingered hands appeared beneath the bodyguard’s armpits. They snaked up over his shoulders and joined behind the man’s head, locking his arms in a full nelson. The guard, taken by surprise, struggled to break free from the large unseen figure behind him.
 </p>
 <p>
-Eugene wasted no time. With the broken pool cue still in his hands, he thrust the cracked end into a patch of vulnerable flesh just below the guard’s ribs. The splintered wood tore through cloth, skin, and muscle, and when Eugene released the stick it remained lodged in his torso. The bodyguard emitted a long, powerless grunt and sank to the floor, his blood running down the pool cue. The bartender and patrons looked away furtively as the wounded man crawled toward the exit; they were savvy enough to see and hear nothing.
+Eugene wasted no time. With the broken pool cue still in his hands, he thrust the cracked end into a patch of vulnerable flesh just below the guard’s ribs. The splintered wood tore through cloth, skin, and muscle, and when Eugene released the stick it remained lodged in his torso. The bodyguard emitted a long, powerless grunt and sank to the floor, his blood running down the pool cue. The bartender and patrons looked away furtively as the wounded man crawled toward an exit; they were savvy enough to see and hear nothing.
 </p>
 <p>
 With the bodyguard fallen, Eugene saw the round, rugged face and the massive, middle-aged form of the man who had come to his aid.
@@ -163,18 +163,18 @@ With the bodyguard fallen, Eugene saw the round, rugged face and the massive, mi
 Sergey smirked warmly at him. “Where’s this princess that’s causing so much fuss?”
 </p>
 <p>
-The two of them spotted Julie cowering by the back wall, crouching in her couture footwear. She held her barstool in both hands, jabbing it at them like a lion-tamer and screaming, “Fuck off, you freaks!” There was no place for her to run.
+The two of them spotted Julie cowering by the back wall, crouching in her couture footwear. She held her barstool in both hands, jabbing it at them like a lion-tamer. There was no place for her to run.
 </p>
 <p>
 Sergey regarded her with a frown. “She’s very young.” 
 </p>
 <p>
-“And high as the moon,” Eugene added. “Apparently she manufactures it by herself.”
+“And high as the moon,” Eugene added. “Apparently she manufactures it herself.”
 </p>
 <p>
-Sergey nodded. “I’ve heard these rumors. Think they have any truth to them?”
+Sergey nodded. “I’ve heard these rumors. Think they have any truth?”
 </p>
 <p>
-“She says we wouldn’t understand the truth,” Eugene said as he and Sergey slowly closed in on her. “But I think she’ll have plenty of time to explain it to us.”
+“She says we wouldn’t understand the truth,” Eugene said as he and Sergey slowly closed in on her. “But she’ll have plenty of time to explain it to us.”
 </p>
 </div>

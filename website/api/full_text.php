@@ -18,6 +18,9 @@ echo <<<EOL
   <base href="http://dopaminenovel.com" target="_self" />
   <link rel="stylesheet" type="text/css" href="css/fulltext.css" />
 
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="http://dopaminenovel.com/favicons/favicon.ico?v=3" />
+
 </head>
 <body>
 

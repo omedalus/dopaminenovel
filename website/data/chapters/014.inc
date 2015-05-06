@@ -288,7 +288,7 @@ Tina couldn’t see the screen. “You want to share?” she asked suggestively.
 Tina shook her head in bewilderment. “This is so fucking unreal. The guy who held me at gunpoint has a Facebook account? And friends with birthdays and weddings?”
 </p>
 <p>
-“Seems like it. Oh hey, this could be good. Check this out. ‘To: Eugene Mukhayev. From: Wells Fargo Online. Wells Fargo Online Statement Ready to View.”
+“Seems like it. Oh hey, this could be good. Check this out. ‘To: Eugene Mukhayev. From: Wells Fargo Online. Wells Fargo Online Statement Ready to View.’”
 </p>
 <p>
 Tina laughed incredulously. “No way! You can see his bank statements?”

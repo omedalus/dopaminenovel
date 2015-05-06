@@ -9,25 +9,19 @@ Danny vaguely recognized the rhythm.
 His eyes opened slowly. The shadows cast by the sun through his bedroom window hinted at an hour well past noon.
 </p>
 <p>
-When he tried to sit up by propping himself on his elbows, he felt the long, stinging lance of pain across his upper back. He reached around to feel the shoulder wound, and remembered that his hand was still sensitive from the burn. His injuries served as unwelcome yet unavoidable reminders of the horrors of the previous twenty-four hours.
+When he tried to sit up by propping himself on his elbows, he felt the long, stinging lance of pain across his upper back. He reached around to feel the shoulder wound, and remembered that his hand was still sensitive from the burn. His injuries served as unavoidable reminders of the horrors of the previous twenty-four hours.
 </p>
 <p>
-He also saw a trail of thin claw-marks dug lightly in his skin from his chest to his abdomen. He smiled with satisfaction. Not everything about the previous day had been so bad after all.
+He also saw a trail of thin claw-marks dug lightly in his skin from his chest to his abdomen. He smiled. Not everything about the previous day had been so bad after all.
 </p>
 <p>
 <em>Thump thump! Thump-thump thump, thump-thump thump…</em>
 </p>
 <p>
-The thumping was only slightly harder than sock-clad footsteps. The beats underscored the muted notes of cheerful, vibrant music, played with the volume turned low but nonetheless clearly audible through the wall:
+He recognized the rhythmic sound as sock-clad footsteps. The beats underscored the muted notes of cheerful, vibrant music, played with the volume turned low but nonetheless audible through the wall.
 </p>
 <p>
-“<em>What a feeling! (thump-thump, thump thump, thump-thump) Here’s believing! (thump-thump, thump thump, thump-thump) I can have it all, now I’m dancing for my life…</em>”
-</p>
-<p>
-He slowly stood up and dressed himself in his blue pajamas. He took his time, realizing with calm relief that he no longer had a job to worry about showing up late for, and for the time being he was financially secure. Most importantly, he had a brilliant and beautiful young woman in his house playing <em>Dance Dance Revolution</em> in the next room.
-</p>
-<p>
-With a goofy, blissful grin on his face, he headed out to join her.
+He slowly stood up and dressed himself in his pajamas. He took his time. He no longer had a job to worry about showing up late for. Most importantly, he had a brilliant and beautiful young woman in his house playing <em>Dance Dance Revolution</em> in the next room. With a goofy grin on his face, he headed out to join her.
 </p>
 <p>
 The moment he opened the bedroom door, he was hit by an instant and overpowering wave of revulsion and fear. His throat constricted. Images flashed before his eyes of the man with the acid-burned face, of the psychotic Asian girl dying in a pool of blood and chemicals, of hiding under the desk with Jason while being stalked like game…
@@ -36,10 +30,7 @@ The moment he opened the bedroom door, he was hit by an instant and overpowering
 The stench of acetone and kerosene wafted through the open door, filling his nostrils and stinging his eyes.
 </p>
 <p>
-For a moment he lost strength in his legs. He listed to one side, and grabbed a hold of his computer desk to regain his balance. 
-</p>
-<p>
-He took a few deep breaths. The fumes were actually quite thin. They’d have been entirely inoffensive, in fact, had it not been for his experiences the previous night. The memories of those events weren’t even a full day old yet &mdash; their proximity could still be measured in mere hours. How many hours, he couldn’t exactly say. Propping himself against the doorframe, he leaned out to take a look at the stove. The clock read 00:00.
+For a moment he lost strength in his legs. He listed to one side, and grabbed a hold of his computer desk to regain his balance. Those memories weren’t even a full day old yet &mdash; their proximity could still be measured in mere hours. How many hours, he couldn’t exactly say. Propping himself against the doorframe, he leaned out to take a look at the stove. The clock read 00:00.
 </p>
 <p>
 The kitchen still contained the cluttered trappings of an impromptu biochemical laboratory. Salt, sugar, and amino acid powder still lay spilt across the floor, and wires still protruded from behind the stove. Near the sink, however, he saw several new items: metal buckets with stirring rods alongside bottles of nail polish remover, industrial-strength drain cleaner, and heating oil.
@@ -51,10 +42,10 @@ From somewhere on his opposite side, the music and the thumping had stopped.
 “If you see your shadow,” said Tina, “do we get six weeks more winter?”
 </p>
 <p>
-Danny turned to see her watching him from the living room as he leaned out from the bedroom doorway. She wore the previous day’s clothes and a cheerful smile. 
+Danny turned to see her watching him from the living room as he leaned out from the bedroom doorway. She wore the previous day’s clothes. 
 </p>
 <p>
-“Good morning,” he said with a froggy voice as he emerged from the bedroom. He stretched his arms and ribs, his joints popping with the motion. “Or afternoon. How long was I out?”
+“Good morning,” he said with a froggy voice as he emerged. He stretched his arms and ribs, his joints popping with the motion. “Or afternoon. How long was I out?”
 </p>
 <p>
 “All day,” said Tina. “It’s almost three. I figured I’d let you sleep.”
@@ -75,10 +66,10 @@ He bobbed his head toward the kitchen. “So… I happen to be absolutely starvi
 “Aww, darn. And here I was looking forward to a nice hearty meal of bacteria stew. How’s the broth doing, anyway?”
 </p>
 <p>
-Her mouth formed a boastful grin and opened to answer, but she stopped herself, visibly forcing herself to rein in her pride. Instead, she pointed to the stove and said with bridled excitement, “See for yourself.” 
+Her mouth formed a boastful grin. She pointed to the stove and said with barely bridled excitement, “See for yourself.” 
 </p>
 <p>
-He followed her gesture and looked at the pot. The plastic wrap clung loosely to the lid, evidently having been peeled off and reapplied several times. Curious, Danny approached the stove. As he removed the lid from the pot, he noticed that the sweet, salty smell of the broth had been completely overtaken by a much stronger odor &mdash; the fetid stink of brackish swamp water, heavy with the acrid stench of decay. Inside the pot, the broth was a rancid yellowish-brown soup, thick with fatty blobs of viscous slime and stringy with strands of brown, grainy, congealed particles floating in the ooze.
+He followed her gesture and looked at the pot. Curious, Danny approached the stove. As he removed the lid, he noticed that the sweet, salty smell of the broth had been completely overtaken by a much stronger odor &mdash; the fetid stink of brackish swamp water, heavy with the acrid stench of decay. Inside the pot, the broth was a rancid yellowish-brown soup, thick with fatty blobs of viscous slime and strands of brown, grainy, congealed particles floating in the ooze.
 </p>
 <p>
 “Looks delicious,” Danny said while suppressing a gag. He put the lid back on.
@@ -87,10 +78,10 @@ He followed her gesture and looked at the pot. The plastic wrap clung loosely to
 “Pretty incredible, right?” said Tina. She bounced toward the kitchen and stood behind the granite counter. “It’s in an exponential growth phase. As long as there are still nutrients, in a perfect broth the bacteria can double their population every half hour.”
 </p>
 <p>
-Danny nodded, and worked the math. “So after ten hours, they’d double twenty times. Two to the twentieth is a million and change. So that tiny speck you started with has multiplied by a factor of over a million by now. That’s… a lot.”
+Danny worked the math. “So after ten hours, they’d double twenty times. Two to the twentieth is a million and change. So that tiny speck you started with has multiplied by a factor of over a million by now. That’s… a lot.”
 </p>
 <p>
-“That’s biology!” Tina said, trying to refrain from grinning like a fool, and failing.
+“That’s biology!” Tina said.
 </p>
 <p>
 Danny chuckled at her. “You’re kind of proud of yourself right now, aren’t you?”
@@ -111,7 +102,7 @@ She wrapped her arms around his pajama-clad waist. Her bright, joyful eyes looke
 “What do you mean?” she said softly.
 </p>
 <p>
-“Well, I mean, breeding bacteria is good and all,” said Danny, “but let’s not forget that the whole point of having these germs is to use them to extract the… you know… the… the drug. Because otherwise, it’s just plain old <em>E. coli</em>, right? And that would mean that, this whole time, we’ve been getting used by shady corporate assholes and chased around by the Russian mob for something you can get by accident at the nearest Taco Bell. So, when will we get to test it? When will we get to know?”
+“Well, I mean, breeding bacteria is good and all,” said Danny, “but the whole point of these germs is the… you know… the… the drug. Because if we can’t extract it, it’s just plain old <em>E. coli</em>, right? And that would mean that, this whole time, we’ve been getting used by shady corporate assholes and chased around by the Russian mob for something you can get by accident at the nearest Taco Bell. So, when will we get to test it? When will we get to know?”
 </p>
 <p>
 She tilted her head toward the kitchen counter and said, “We already do.”

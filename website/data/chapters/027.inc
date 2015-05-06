@@ -153,22 +153,16 @@ Moshen’s disembodied voice replied, “I’m parked on some random side-street
 “Great,” Danny said. “How are you feeling? Confident? Pumped?”
 </p>
 <p>
-Moshen said, “Um...”
+Moshen said, “Um…”
 </p>
 <p>
-On a tree-lined residential road somewhere in Seattle’s eastern suburbs, a boxy gray van marked “Claymore Communications” stood on the curb. Moshen sat in the driver’s seat, speaking into a Bluetooth earpiece tucked beside the frame of his thick glasses. His scrawny arms hung loosely from the steering wheel.
-</p>
-<p>
-To his right, Sergey Mukhayev stared broodingly through the windshield, his hulking form breathing tensely as he gazed into the night. Behind them, Leo adjusted the suppressor on his handgun while Eugene idly twirled a razor-sharp butterfly knife with deadly dexterity.
+On a tree-lined residential road somewhere in Seattle’s eastern suburbs, a boxy gray van marked “Claymore Communications” stood on the curb. Moshen sat in the driver’s seat, his scrawny arms hanging loosely from the steering wheel. To his right, Sergey Mukhayev stared brooding out the windshield, his hulking form breathing tensely as he gazed into the night. Behind them, Leo adjusted the suppressor on his handgun while Eugene idly twirled a razor-sharp butterfly knife with deadly dexterity.
 </p>
 <p>
 “I… can’t complain…” Moshen said carefully. “Why do I have to do the driving, anyway?”
 </p>
 <p>
-“Because,” said Danny. “When you enter Medina, you <em>will</em> be pulled over. It’s guaranteed. The cops will take the driver’s license of whoever’s behind the wheel. And if Sergey or any of his group is in the driver’s seat, we run the risk of them getting snatched by the long arm of the law.”
-</p>
-<p>
-Moshen murmured, “Heh. You said ‘snatch.’”
+“Because,” said Danny. “When you enter Medina, you <em>will</em> be pulled over. It’s guaranteed. And the less facetime that Sergey or his crew have with the cops, the better.”
 </p>
 <p>
 Danny switched his focus to Tina. Her dark hair framed her face in the corner of the screen. Her small, discrete nose stud glinted in the light of his kitchen. Dance music played indistinctly in the background. “Tina. Status?”

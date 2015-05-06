@@ -165,7 +165,7 @@ Passinsky was still standing in the sunken living room, doing his best to avoid 
 Passinsky nodded. He reached into his pocket, and produced the small translucent vial.
 </p>
 <p>
-Ivan reached out and took the container of <em>E. coli</em> in his coarse hand. He held it in his palm and chuckled, looking eye to eye with the drawn smiley face on the vial’s side. “Such a small thing,” he said. “Yet a cause of so much fuss.”
+Ivan reached out and took the container of <em>E. coli</em> in his coarse hand. He held it in his palm and chuckled, looking eye to eye with the smiley face on the vial’s side. “Such a small thing,” he said. “Yet a cause of so much fuss.”
 </p>
 <p>
 “It is the product of years of research,” said Passinsky.

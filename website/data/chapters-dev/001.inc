@@ -16,13 +16,13 @@
 Eugene clapped a hand firmly on his shoulder. It could have been a gesture of friendship, but it wasn’t. “You cheat us, and think this wouldn’t make trouble?” Eugene said sweetly. He spoke fluidly, but his hard consonants and throaty vowels betrayed his Russian origins. 
 </p>
 <p>
-“It’s not just me!” the fellow said shakily. “Jimmy jumped last week, and Martinez...”
+“It’s not just me!” the fellow said shakily. “Jimmy jumped last week, and Martinez…”
 </p>
 <p>
 Eugene slid his hand up toward the man’s neck. “Do you think Sergey and I aren’t <em>painfully</em> aware of that, Francisco? How much is the street price for loyalty?”
 </p>
 <p>
-“I... like selling for you, Eugene,” Francisco stammered. “You and Sergey, you always treat me good. It’s just...”
+“I… like selling for you, Eugene,” Francisco stammered. “You and Sergey, you always treat me good. It’s just…”
 </p>
 <p>
 “This new supplier’s product is <em>so</em> much better, right?”

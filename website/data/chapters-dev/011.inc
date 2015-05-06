@@ -123,7 +123,7 @@ She didn’t make it to the door. A cold leather-gloved hand clamped firmly arou
 “You said we’re done here!” She tried to pull her wrist back. He wouldn’t release her.
 </p>
 <p>
-“We are done <em>here</em>,” repeated the man. “But… I have more use for you...”
+“We are done <em>here</em>,” repeated the man. “But… I have more use for you…”
 </p>
 <p>
 Tina felt her stomach lurch. “Fuck you, <em>no</em>!” she screamed, and fought against his grip with all her might. But he was far too strong. 

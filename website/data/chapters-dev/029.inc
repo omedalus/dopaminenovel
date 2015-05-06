@@ -179,7 +179,7 @@ HOLY SHIT NEAT!<br/>
 FAKE AND GAY get a life homo. theres no way thats real. do u know what it wuld mean if it was? im in ur town. u want me to believe its real show me in person or gtfo.<br/>
 <strong>irsi_isund 14 minutes ago</strong><br/>
 <br/>
-...me gusta!<br/>
+me gusta!<br/>
 <strong>youcancallmegoddess 16 minutes ago</strong><br/>
 <br/>
 Yo bro bring that shit to Philly, stat!<br/>

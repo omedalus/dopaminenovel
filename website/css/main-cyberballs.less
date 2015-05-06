@@ -18,7 +18,7 @@
 @color-currentlink: #f00;
 @color-currentlinkshadow: #600;
 
-@color-cyberforeground: #fff; //#0af;
+@color-cyberforeground: #fff;
 @color-cybershadow: #008;
 @color-cyberhighlight: #bbb;
 @color-cyberoutline: rgba(60, 160, 100, .6);
@@ -228,12 +228,21 @@ strong {
 
 .bookshot {
   .rounded(20px);
-  background-image: url('/img/kat-book-mock.jpg');
-  background-size: cover;
+  background-image: url('/img/CoverPhoto-II-1.png');
+  background-size: 100%;
   box-shadow: 0 0 20px black inset, 0 0 10px rgba(0, 0, 0, .8);
-  height: 380px;
+  height: 500px;
   width: 380px;
+
+ -webkit-transition: background-position 2s, background-size 2s;
+  transition: background-position 2s, background-size 2s;
 }
+
+.bookshot:hover {
+  background-position: -80px -160px;
+  background-size: 140%;
+}
+
 
 .promo {
   display: inline-block;

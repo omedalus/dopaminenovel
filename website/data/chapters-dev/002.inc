@@ -1,24 +1,24 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The sound of applause reminded Danny</span> of this one time in an alternate universe. His band was playing their most popular set before an adoring throng of pink-haired girls and slim-hipped guys. Power chords soared above their wild screams as he pulled the microphone away from his lips and spread his arms to embrace the spotlight. His life was a hedonistic montage of groupies, hard drugs, and wealth beyond imagination.
+<span class="caplead">The applause reminded Danny</span> of this one time in an alternate universe. His band played before an adoring throng of pink-haired girls and slim-hipped guys. His electric guitar screamed in ecstasy beneath his motion-blurred fingers, gushing chords like liquid lightning into the air of the arena. The song finished, and he spread his arms to embrace the spotlight as the crowd below worshipped him with cries of adulation.
 </p>
 <p>
 Unfortunately, that never actually happened.
 </p>
 <p>
-<span class="think">The applause should be louder than this</span>, thought Danny. <span class="think">I gave a great performance here. They should be whistling and screaming and throwing their underwear at me.</span>
+<span class="think">The applause should be louder than this</span>, thought Danny. <span class="think">I gave a great performance here. They should be whistling and cheering and throwing their underwear at me.</span>
 </p>
 <p>
 Danny looked around and decided it’s best if they didn’t.
 </p>
 <p>
-The light smattering of polite, professional clapping came from about two dozen 50-something men. In place of tattoos and piercings were hair plugs and porcelain dental veneers. What should have been a dark stadium glittering with cellphone flashes was instead a bland conference room awash in the sickly pale light of cheap fluorescent bulbs. About half of the audience were wearing gray suits, like Danny. The rest were in khakis and polos, doubtlessly planning to get back to their sailboats or golf courses right after the meeting was over.
+The light smattering of polite, professional clapping came from about two dozen 50-something men. In place of tattoos and piercings were hair plugs and dental veneers. What should have been a dark stadium glittering with cellphone flashes was instead a bland conference room awash in the sickly pale light of fluorescent bulbs. About half of the audience were wearing gray suits, like Danny. The rest were in khakis and polos, doubtlessly planning to get back to their sailboats or golf courses right after the meeting.
 </p>
 <p>
-One attendee actually <em>was</em> wearing a concert T-shirt under his suit jacket &mdash; a <em>Nine Inch Nails World Tour</em> XL tucked into pleated suit-pants, spread over a belly that had apparently gone decades without being subjected to a sit-up. The thinning remnants of his salt-and-pepper hair were gelled upward into what would’ve been a fashionable spikey fauxhawk on a man half his age.
+One attendee actually <em>was</em> wearing a concert T-shirt under his suit jacket &mdash; a <em>Nine Inch Nails World Tour</em> XL tucked into pleated pants, spread over a belly that had apparently gone decades without being subjected to a sit-up. The thinning remnants of his salt-and-pepper hair were gelled upward into what would’ve been a fashionable fauxhawk on a man half his age.
 </p>
 <p>
-There was no microphone in Danny’s hand, only a laser pointer. No spotlight, only a high-resolution projector hooked to his laptop. No hit rock song, only a PowerPoint presentation describing a 4G cellular multiplexing algorithm by Claymore Communications.
+There was no microphone in Danny’s hand, only a laser pointer. No spotlight, only a high-resolution projector. No hit rock song, only a PowerPoint presentation describing a 4G cellular multiplexing algorithm by Claymore Communications.
 </p>
 <p>
 Danny’s boss, Jerry Young, stepped deftly to the center of the room. “Folks, I just want to say, before we move on, that Danny and I really appreciate this opportunity to present our technology to you. It’s great to see Claymore’s financial contributors showing a genuine interest in the technical aspects of the company.” 
@@ -57,7 +57,7 @@ Jerry returned Danny’s look with an embarrassed half-smile. “The company’s
 “Please make sure I get a personal copy,” NIN man insisted. “You can reach me at Jason Tuttle at AOL dot com. That’s J, A, S...”
 </p>
 <p>
-Jerry quieted him down with a reassuring wave of his hand. “You’ll get one, Jason. You’ll all get one. And I’ll make sure you also get Danny’s contact info in case any of you have further technical questions.” Everyone in the room mumbled a thanks at Jerry &mdash; everyone except Danny.
+Jerry quieted him down with a reassuring wave of his hand. “You’ll get one, Jason. You’ll all get one. And I’ll make sure you also get Danny’s contact info in case any of you have further technical questions.”
 </p>
 <p>
 And just like that, Jerry Young took the room. He launched his own set of PowerPoint slides, discussing things like potential partnership strategies and market penetration projections. Danny stood aside so that the big boys could play.
@@ -145,7 +145,7 @@ The email continued with a long chain of forwards and replies by random corporat
 “<span class="computer">Sure</span>,” Danny typed in reply. “<span class="computer">Put simply, we utilize the phase angle deltas as part of the encoding scheme. To solve the obvious physical reception problems, we’ve developed a polyradial antenna design</span>…”
 </p>
 <p>
-He kept typing for a few minutes, his thumbs flying on autopilot as they tapped out the intricate details of his work.
+He kept writing for a few minutes, his thumbs flying on autopilot as they tapped out the intricate details of his work.
 </p>
 <p>
 But while the background of his mind composed the reply, the foreground tried to reason out a much more complicated puzzle. His reply, after all, was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain, while the puzzle involved understanding and properly responding to social cues. The latter was a much more complicated matter than the former.
@@ -158,7 +158,7 @@ He saved his unfinished email into his Drafts folder, and replaced it with:
 To: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
 Subject: FW: RE: Claymore Communications intellectual property auction<br/>
 <br/>
-Wait. You emailed my presentation to an engineer in Verizon's Mergers and Acquisitions department? I don't get it. You guys freaked out when I was about to make the presentation publicly available on the Claymore website, but now you're forwarding it to technical experts at potential competitors? What am I missing?<br/>
+Wait, can you explain something to me please? You emailed my presentation to an engineer in Verizon's Mergers and Acquisitions department? I don't get it. You guys freaked out when I tried to post the presentation on the Claymore website because you didn't want it publicly available. But now you're forwarding it to technical experts at potential competitors? What am I missing?<br/>
 </div>
 
 <p>
@@ -180,21 +180,21 @@ To: Dorothy Eigen &lt;eigend@corp.verizon.com&gt;<br/>
 (1 Attachment)<br/>
 <br/>
 Dorothy,<br/>
-As per your request, please find the attached presentation describing the details of Claymore's technologies. Included are schematics, flowcharts, and results of initial field trials with proof-of-concept equipment. This should be sufficient for proving that the assets are legitimate and that our initial asking price is justified.</br>
+Per your request, please find the attached presentation of Claymore's technologies. Included are schematics, flowcharts, and results of initial field trials. This should be sufficient for proving that our asking price is justified.</br>
 <br/>
 ---<br/>
 To: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
 From: Dorothy Eigen &lt;eigend@corp.verizon.com&gt;<br/>
 <br/>
 Jason,<br/>
-I got a green light from my director. Verizon will indeed be participating in the auction for the company's intellectual property after Claymore's dissolution, as discussed. However, we'll need detailed technical data about Claymore's inventions in order to set our bidding prices. Given that our mutual nondisclosure agreement covers all proprietary information, I hope you won't see any problem in delivering this material.<br/>
+I got a green light from my director. Verizon will join the auction for the company's intellectual property after Claymore's dissolution, as discussed. However, we'll need detailed technical data about Claymore's inventions in order to set our bidding prices. Our mutual nondisclosure agreement covers all proprietary information, so I hope you won't see any problem in delivering this material.<br/>
 </div>
 
 <p>
-Danny stared at that message for what must have been several minutes. There were more emails below it, with other Verizon personnel and other members of the Claymore investment group. But Danny’s eyes kept reading that message over and over again almost of their own accord, bouncing off the bottom of the screen back to the top like a program caught in an infinite loop.
+Danny stared at that email. There were more below it, with other Verizon personnel and other members of the Claymore investment group. But Danny’s eyes kept reading that message over and over again, bouncing off the bottom of the screen back to the top like a program caught in an infinite loop.
 </p>
 <p>
-Eventually, he was able fight to through his bewilderment to type out one short, simple message.
+Eventually, he fought through his bewilderment to write one short, simple question.
 </p>
 
 <div class="computer email">
@@ -206,7 +206,7 @@ Um. What?<br/>
 </div>
 
 <p>
-Jason Tuttle’s answer took another several minutes to appear. When it finally did, it came not as an email, but in the form of SMS messages arriving on Danny’s personal cellphone number.
+Jason Tuttle’s answer appeared several minutes later. It came not as an email, but as a text message arriving on Danny’s personal cellphone number.
 </p>
 
 <br/>
@@ -221,7 +221,7 @@ Jason Tuttle’s answer took another several minutes to appear. When it finally 
 <br/>
 
 <p>
-Still mostly just feeling confused, Danny engaged in the conversation.
+Still mostly just feeling confused, Danny responded.
 </p>
 
 <br/>
@@ -236,7 +236,7 @@ Still mostly just feeling confused, Danny engaged in the conversation.
     I didn't intend to forward the entire thread.
   </div>
   <div class="message messageout">
-    Yeah, I kind of got that.
+    I kind of got that.
   </div>
   <div class="message messagein">
     All of those communications are highly confidential. There could be serious legal and financial consequences from the divulgence of that material.
@@ -251,6 +251,7 @@ Still mostly just feeling confused, Danny engaged in the conversation.
     Alright?
   </div>
 </div>
+<br/>
 
 <p>
 For a second Danny thought about composing an explanation about why Gödel’s Incompleteness Theorem makes it technically impossible for any information-processing system, including a human mind, to operate properly under the premise of not having a piece of information that it does in fact have. But there was a much bigger issue to address.
@@ -271,7 +272,7 @@ For a second Danny thought about composing an explanation about why Gödel’s I
 <br/>
 
 <p>
-Even as he typed the question, he realized he was simply fighting his own denial. The revelation hit him like a divide-by-zero interrupt. He knew exactly what it meant.
+Even as he typed the question, he realized he was simply fighting his own denial. He knew exactly what it meant.
 </p>
 
 <br/>
@@ -310,7 +311,7 @@ Danny swallowed hard.
     You've basically been living off of our generosity for the entire lifetime of the company.
   </div>
   <div class="message messagein">
-    Who do you think has been providing the funds that your salary comes from? Benevolent gods from the ancient empire of Moneypotamia?
+    Who do you think provides the funds that your salary comes from? Benevolent gods from the ancient empire of Moneypotamia?
   </div>
   <div class="message messagein">
     We're investors, Danny. We need a RETURN on our investment. We can't keep waiting indefinitely for some ship that never comes in. We've been discussing this for a long time. We all have other projects with better potential ROI. It had to happen eventually.
@@ -319,7 +320,7 @@ Danny swallowed hard.
 <br/>
 
 <p>
-Danny found himself wrestling with his phone’s autocorrect much more vigorously as his fingers began to tremble.
+Danny found himself wrestling with his phone’s autocorrect as his fingers began to tremble.
 </p>
 
 <br/>
@@ -448,6 +449,7 @@ Jason’s reply was slow in coming.
     The rest of the investment board could sue me for the full value of the sale.
   </div>
 </div>
+<br/>
 
 <p>
 Danny let out a cold, bitter laugh.
@@ -534,7 +536,7 @@ Danny leaned against the wall of Claymore’s kitchen and let himself sink slowl
 <br/>
 
 <p>
-Danny sat on the floor and watched the messages roll in. He sighed deeply, and looked around the kitchen. The table, the chair, the coffee pot, the fridge, the OSHA notices, the community corkboard with postings from his coworkers looking for babysitters or carpool partners. In a week, it would be gone. All of it.
+Danny sat on the floor and watched the messages roll in. He sighed deeply, and looked around the kitchen. The table, the coffee pot, the fridge, the OSHA notices, the community corkboard with postings from his coworkers looking for babysitters or carpool partners. In a week, it would be gone. All of it.
 </p>
 <p>
 It certainly wasn’t the first dot-com he’d seen die with a whimper. And, though it stabbed him through the heart to think of it, it probably wouldn’t be the last.
@@ -582,13 +584,13 @@ It certainly wasn’t the first dot-com he’d seen die with a whimper. And, tho
     I hate to admit it, but yes.
   </div>
   <div class="message messagein">
-    I can't talk about it over email or text.
+    I can't talk about it over email or text or phone. Too traceable.
   </div>
   <div class="message messagein">
     Do you know the Mercury club on Capitol Hill?
   </div>
   <div class="message messagein">
-    Meet me there in half an hour. I'll tell you all about it.
+    Meet me there in an hour. I'll tell you all about it.
   </div>
 </div>
 <br/>

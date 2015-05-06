@@ -395,7 +395,7 @@ Danny stepped toward her. He placed the Pantech into her hand, the skin of their
 “Danny, look at this…” she said, fascinated.
 </p>
 <p>
-He moved his face next to hers. Together, they stared intently at the vial of translucent brown slime. The smiley face drawn on the side of the vial stared back at them.
+He moved his face next to hers. Together, they stared intently at the vial of translucent brown slime. The smiley face sticker on the side of the vial stared back at them.
 </p>
 <p>
 “What am I supposed to be seeing?” he asked.

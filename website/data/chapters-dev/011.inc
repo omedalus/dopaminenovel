@@ -1,6 +1,6 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Inside the ultra low freezer</span> were half a dozen rack shelves. On each shelf were half a dozen long, deep boxes made of metal and Styrofoam, built to slide out like drawers. Inside each box were two dozen vials, each no bigger than a finger. And one of these vials was the one that the man with the gun was looking for.
+<span class="caplead">Inside the ultra low freezer</span> were half a dozen rack shelves. On each shelf were a dozen long, deep boxes made of metal and Styrofoam, built to slide out like drawers. Inside each box were two dozen vials, each no bigger than a finger. And one of these vials was the one that the man with the gun was looking for.
 </p>
 <p>
 “I n-need you b-be more s-piffic,” Tina said through a shivering jaw as she closed the massive metal door yet again.
@@ -18,7 +18,7 @@ Ignoring her, the man tapped his Bluetooth headset and fiddled with his cellphon
 “Is everything okay?” she asked.
 </p>
 <p>
-“My partner isn’t answering,” he said. Catching himself, he added, “But this is not your business. Where is that fucking tube?”
+“My partner isn’t answering,” he said. “But this is not your business. Where is that fucking tube?”
 </p>
 <p>
 “I have no idea,” Tina said. “Look, there’s hundreds of vials in deep-freeze. They all look exactly the same. I have no clue how the lab staff keeps track of which one goes where. How did you expect to know which vial’s the right one, anyway?”
@@ -39,7 +39,7 @@ The man rolled his eyes. “Just start dumping boxes out onto the floor.”
 The man nodded. “That would be very bad. See, I knew you would be useful!”
 </p>
 <p>
-“No. I’m not. I really can’t help you. I’m sorry,” she insisted. “Please. I don’t know what’s in this vial that’s so special to you. I’m just the receptionist, okay? Tungsten does <em>not</em> pay me enough for this. How about I just walk out of here, I’ll get my purse from the front, I’ll drive away, go home, and we’ll both say none of this ever happened? I’m not going to call the cops, I’m not going to remember your face, I’m not going to have any idea about you or Julie or about anything. Okay? Please, I swear to God, I want nothing to do with this.” 
+“No. I’m not. I’m just the receptionist, okay?” she insisted. “Please. Tungsten does <em>not</em> pay me enough for this. How about I just walk out of here, I’ll get my purse from the front, I’ll drive away, go home, and we’ll both say none of this ever happened? I’m not going to call the cops, I’m not going to remember your face, I’m not going to have any idea about you or Julie or about anything. Okay? Please, I swear to God, I want nothing to do with this.” 
 </p>
 <p>
 “I have better idea,” he said dismissively. “How about you shut the hell up and get back to looking for that tube?”
@@ -57,34 +57,22 @@ The freezer was attached to a monitoring terminal, a small ancient dirty beige c
 “My jacket? Lady, this is Italian custom-made lambskin leather.”
 </p>
 <p>
-“So that’s a no, then?” Tina glanced back and forth from the freezer to the terminal. Her body began preemptively shivering as she pulled the gloves back onto her hands. A yank of the handle released the cryogenic storage unit’s seal, and she again found herself standing in a pale cloud of stabbing cold mist. The freezer’s loud pumps whirred with effort to keep the interior frigid in spite of the open door. The monitoring terminal’s temperature readout fluctuated by a few tenths of a degree. Tina quickly reached for a case of vials and began pulling it from its rack shelf as quickly as her shaking hands would allow.
+“So that’s a no, then?” Tina glanced back and forth from the freezer to the terminal. Her body began preemptively shivering as she pulled the gloves back onto her hands. A yank of the handle released the cryogenic storage unit’s seal, and she again found herself standing in a pale cloud of stabbing cold mist. The freezer’s loud pumps whirred to keep the interior frigid in spite of the open door. The monitoring terminal’s temperature readout fluctuated by a few tenths of a degree. Tina quickly reached for a case of vials and began pulling it from its rack shelf as quickly as her shaking hands would allow.
 </p>
 <p>
- From the corner of her eye, she noticed a change on the terminal screen. Beneath the temperature readout, the monitor now displayed, “<span class="computer">GREELEY, JAMES N</span>”. It was the name of one of the geneticists.
+From the corner of her eye, she noticed a change on the terminal screen. Beneath the temperature readout, the monitor now displayed, “<span class="computer">GREELEY, JAMES N</span>”. It was the name of one of the geneticists.
 </p>
 <p>
-With a hopeful gasp, she slid the box back into its position on the rack. On the screen, the name disappeared.
-</p>
-<p>
-She tentatively pulled another box halfway out. On the monitoring terminal, green blocky text said, “<span class="computer">LEVIN, SHANA</span>”. Another one of the researchers.
-</p>
-<p>
-Tina pushed the box back into place and let out a whimper of relief.
+With a hopeful gasp, she slid the box back into its position on the rack. On the screen, the name disappeared. She tentatively pulled another box halfway out. On the monitoring terminal, green blocky text said, “<span class="computer">LEVIN, SHANA</span>”. Another one of the researchers. Tina pushed the box back into place and let out a whimper of relief.
 </p>
 <p>
 “What the hell are you doing?” the man grunted. “Wasting time?”
 </p>
 <p>
-“The boxes are labeled electronically!” Tina said as she pulled out more cases one at a time. “They’re organized by staff assignment!” She worked her way systematically across the rows, keeping her eyes on the monitoring terminal as names appeared and disappeared on the screen. There seemed to be no order dictating which boxes were assigned to which researchers &mdash; many researchers had multiple boxes, spread seemingly at random inside the storage unit. But after a minute of perseverance, gritting her teeth against the cold, Tina finally pulled a case that caused the monitor to display, “<span class="computer">YEN, JULIE</span>”.
+“The boxes are labeled electronically!” Tina said as she drew out more cases one at a time. “They’re organized by staff assignment!” She worked her way systematically across the rows, keeping her eyes on the monitoring terminal as names appeared and disappeared on the screen. After a minute of perseverance, gritting her teeth against the cold, Tina finally pulled a case that caused the monitor to display, “<span class="computer">YEN, JULIE</span>”.
 </p>
 <p>
-Tina wasted no time in taking the box out of the freezer. She set it down on a nearby desk and slammed the freezer shut to keep the painfully frigid air from spilling out. She popped the lid open and looked at the vials inside.
-</p>
-<p>
-One of the vials had visibly less frost on its cap than the others. It had clearly been withdrawn from the box much more frequently than the rest.
-</p>
-<p>
-Tina carefully drew the tube out of its slot. It was less than two inches long with a conical bottom, filled with a pale brown substance that looked frozen solid. It bore no label, but a small smiley face was drawn with a black felt-tip pen on its translucent round surface. She let out a long, shaky, cathartic sigh.
+Tina wasted no time in taking the box out of the freezer. She set it down on a nearby desk and slammed the freezer shut. She popped the lid open and looked at the vials inside. One of the vials had visibly less frost on its cap than the others. It had clearly been withdrawn from the box much more frequently than the rest. Tina carefully drew the tube out of its slot. It was less than two inches long with a conical bottom, filled with a pale brown substance that looked frozen solid. In place of a label, it bore a tattered yellow smiley face sticker affixed on its translucent round surface.
 </p>
 <p>
 The Russian perked up as he saw her place the tube down on the desk and pull off the thermal gloves.
@@ -129,7 +117,7 @@ She didn’t make it to the door. A cold leather-gloved hand clamped firmly arou
 Tina felt her stomach lurch. “Fuck you, <em>no</em>!” she screamed, and fought against his grip with all her might. But he was far too strong. 
 </p>
 <p>
-He yanked her back into the room with a forceful pull and released her, letting her momentum carry her a few stumbling steps away from him. He once again stood between her and the door. He didn’t bother pointing the gun at her. 
+He yanked her back into the room and released her, letting her momentum carry her a few stumbling steps away from him. He once again stood between her and the door.
 </p>
 <p>
 “Relax,” he said in a commanding tone. “Do not assume things. I’ve done this before &mdash; I know what you are worrying about. But lady, I am a professional. I don’t mix business with pleasure. Besides, I get hotter pieces of ass than you any time I want. Your body is of no interest to me.”

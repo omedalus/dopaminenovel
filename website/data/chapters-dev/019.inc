@@ -241,7 +241,7 @@ Danny glared at him. “For a <em>criminal</em> activity? Yes.”
 He looked down at himself, at his shirtless torso and his wounded hand. He felt his shoulder throbbing. He took a long, slow, deep breath. 
 </p>
 <p>
-“I’m sorry, Jason.” He popped the car door open. “You want to continue this insanity and go digging up dirt on this consortium or whatever? You’ll have to do it without me. Find some other pet cybermonkey to sick on your business rivals. I’m done.”
+“I’m sorry, Jason.” He popped the car door open. “You want to continue this insanity and go digging up dirt on this consortium or whatever? You’ll have to do it without me. Find some other pet cybermonkey to sic on your business rivals. I’m done.”
 </p>
 </div>
 

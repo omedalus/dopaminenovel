@@ -12,25 +12,25 @@ Unfortunately, that never actually happened.
 Danny looked around and decided it’s best if they didn’t.
 </p>
 <p>
-The applause was polite and professional. It came from about two dozen 50-something men in a small conference room. In place of tattoos and piercings were hair plugs and porcelain dental veneers. About half were wearing gray suits, like Danny. The rest were in khakis and polos, doubtlessly planning to get back to their sailboats or golf courses right after the meeting let out.
+The light smattering of polite, professional clapping came from about two dozen 50-something men. In place of tattoos and piercings were hair plugs and porcelain dental veneers. What should have been a dark stadium glittering with cellphone flashes was instead a bland conference room awash in the sickly pale light of cheap fluorescent bulbs. About half of the audience were wearing gray suits, like Danny. The rest were in khakis and polos, doubtlessly planning to get back to their sailboats or golf courses right after the meeting was over.
 </p>
 <p>
-One attendee actually <em>was</em> wearing a concert T-shirt under his suit jacket &mdash; a <em>Nine Inch Nails World Tour</em> XL tucked into pleated suit-pants, spread over a belly that had apparently gone decades without being subjected to a sit-up. The thinning remnants of his salt-and-pepper hair were gelled upward into what would’ve been a hip, groovy spike ’do on a man half his age.
+One attendee actually <em>was</em> wearing a concert T-shirt under his suit jacket &mdash; a <em>Nine Inch Nails World Tour</em> XL tucked into pleated suit-pants, spread over a belly that had apparently gone decades without being subjected to a sit-up. The thinning remnants of his salt-and-pepper hair were gelled upward into what would’ve been a fashionable spikey fauxhawk on a man half his age.
 </p>
 <p>
 There was no microphone in Danny’s hand, only a laser pointer. No spotlight, only a high-resolution projector hooked to his laptop. No hit rock song, only a PowerPoint presentation describing a 4G cellular multiplexing algorithm by Claymore Communications.
 </p>
 <p>
-Danny’s boss, Jerry Young, was the only other person in the room without a designer watch. He moved deftly to take control. “Folks, I just want to say, before we move on, that Danny and I really appreciate this opportunity to present our technology to you. I’ve worked for a lot of dot-coms where the investors really don’t care about the tech, and it’s nice to see Claymore’s financial contributors showing a genuine interest.” 
+Danny’s boss, Jerry Young, stepped deftly to the center of the room. “Folks, I just want to say, before we move on, that Danny and I really appreciate this opportunity to present our technology to you. It’s great to see Claymore’s financial contributors showing a genuine interest in the technical aspects of the company.” 
 </p>
 <p>
-“Oh, our pleasure!” said the man in the Nine Inch Nails T-shirt. “Danny’s presentation was amazing, but not as amazing as his technology. What you’ve shown here is an upcoming wireless revolution, and I’m proud to help it come to fruition!” Later that day, NIN Man bought Claymore Communications with his personal funds, and the company went public. Danny cashed in his stock options to buy a downtown penthouse, and spent the next several years building Claymore into the world’s premier data systems provider. He was featured in <em>Time</em> magazine as the face of digital communication in the 21<sup>st</sup> century.
+“Oh, our pleasure!” said the man in the Nine Inch Nails T-shirt. “Danny’s presentation was amazing, but what’s even more exciting his technology. What you’ve shown here is an upcoming wireless revolution, and I’m proud to help it come to fruition!” Later that day, NIN Man would buy Claymore Communications with his personal funds, and the company would go public. Danny would cash in his stock options to buy a downtown penthouse, and spend the next several years building Claymore into the world’s premier data systems provider. He would be featured in <em>Time</em> magazine as the face of digital communication in the 21<sup>st</sup> century.
 </p>
 <p>
-That never actually happened, either.
+Only, that never actually happened, either.
 </p>
 <p>
-Instead, the man in the Nine Inch Nails T-shirt said cheerfully, “We’re just glad you could set up this meeting for us! Your man Danny here really seems to know his material.”
+Instead, the man in the Nine Inch Nails T-shirt said cheerfully, “We’re just glad you could set up this meeting for us! Your man Danny here really seems to know his stuff.”
 </p>
 <p>
 Jerry beamed. “Yes, Danny’s been a great asset to the company. He’s been Claymore’s lead engineer for… How long, Danny? Five years now?”
@@ -39,16 +39,16 @@ Jerry beamed. “Yes, Danny’s been a great asset to the company. He’s been C
 “Six,” Danny said.
 </p>
 <p>
-“Six years,” Jerry repeated. “He ran the Naval Base Kitsap project last year almost single-handedly. He’s personally responsible for most of the firmware designs you guys saw here tonight. And you should see him bust a move on <em>Dance Dance Revolution</em>!” The investors laughed on cue.
+“Six years,” Jerry repeated. “Last year, he almost single-handedly ran the Naval Base Kitsap project. He’s personally responsible for most of the firmware designs you guys saw here tonight. And you should see him bust a move on <em>Dance Dance Revolution</em>!” The investors laughed on cue.
 </p>
 <p>
 “Do you think it would it be possible,” NIN man asked with gratuitous politeness, “for Danny’s slides to be available after we finish here?”
 </p>
 <p>
-Danny volunteered to answer on his own behalf. “Sure thing. I can put this up on the Claymore website right now…” His hand moved inside his suit jacket toward his cellphone.
+Danny answered on his own behalf. “Sure thing. I can put this up on the Claymore website right now…” His hand moved inside his suit jacket toward his cellphone.
 </p>
 <p>
-“<i>No!</i>” “<i>Stop!</i>” The room erupted in howls of protest. The assembled one-percenters, eyes wide with alarm, nearly bolted out of their chairs to tackle Danny right there beside the projector screen. Danny stood frozen with his hand halfway to his interior chest pocket, as though he was caught drawing a gun. He blinked dumbly and turned to Jerry for help.
+The room erupted in murmurs of protest and clearing of throats. The assembled one-percenters exchanged nervous glances with one another and inched forward in their seats, their heads shaking and their hands darting out in blocking motions. Danny stood frozen with his hand halfway to his interior chest pocket, as though he was caught drawing a gun. He blinked dumbly and turned to Jerry for help.
 </p>
 <p>
 Jerry returned Danny’s look with an embarrassed half-smile. “The company’s website is maybe not the best place for proprietary technical data, Danny.” To the suddenly skittish investors, he said soothingly, “But we’ll be delighted to email this presentation to each of you as soon as we wrap up.”
@@ -57,13 +57,13 @@ Jerry returned Danny’s look with an embarrassed half-smile. “The company’s
 “Please make sure I get a personal copy,” NIN man insisted. “You can reach me at Jason Tuttle at AOL dot com. That’s J, A, S...”
 </p>
 <p>
-Jerry quieted him down with a reassuring wave of his hand. “You’ll get one, Jason. You’ll all get one. And I’ll make sure you also get Danny’s contact info in case any of you have further technical questions.” Everyone in the room, including NIN Man, mumbled a thanks at Jerry &mdash; everyone except Danny.
+Jerry quieted him down with a reassuring wave of his hand. “You’ll get one, Jason. You’ll all get one. And I’ll make sure you also get Danny’s contact info in case any of you have further technical questions.” Everyone in the room mumbled a thanks at Jerry &mdash; everyone except Danny.
 </p>
 <p>
-From there, Jerry Young took the room. He launched his own set of PowerPoint slides, discussing things like potential partnership strategies and market penetration projections. Danny stood aside so that the big boys could play.
+And just like that, Jerry Young took the room. He launched his own set of PowerPoint slides, discussing things like potential partnership strategies and market penetration projections. Danny stood aside so that the big boys could play.
 </p>
 <p>
-In some alternate universe Danny had gone to get an MBA after finishing his master’s degree. He moved to New York and quickly climbed the ladder at a multinational holding company, and eventually became a manager of a tech-heavy hedge fund. He dated models, dined at fine restaurants, and lit cigars with burning hundred-dollar bills. By night he donned a cape and cowl and prowled the rooftops fighting crime.
+In some alternate universe Danny would have gone to get an MBA after finishing his master’s degree. He’d have moved to New York and quickly climbed the ladder at a multinational holding company, eventually becoming a manager of a tech-heavy hedge fund. He’d date models, dine at fine restaurants, and light cigars with burning hundred-dollar bills. By night he’d don a cape and cowl and prowl the rooftops fighting crime.
 </p>
 <p>
 In the real world, during his last trip to New York he’d managed to drop his cellphone onto a set of subway tracks. In reality, New York sucked.
@@ -102,7 +102,7 @@ Danny took the hint. As he escaped the room, he heard Jerry resume the presentat
 <span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. Danny gazed at it, mesmerized. It glowed with a shade of red just slightly deeper than the visible spectrum. Infrared. Every object in the universe emitted black-body radiation with a brightness and color determined by its temperature. Danny stared unblinkingly as he tried to compute the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law; the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times 2 times the Planck constant divided by…
 </p>
 <p>
-He was broken out of his trance when his chest started vibrating. Two quick buzzes from his cellphone signaled an email that had just come in. He pulled the device from his pocket and noted the telltale blinking light. Judging by the time, Jerry’s business Q&amp;A had most likely come to a close several minutes ago.
+A vibration on his chest broke his trance. Two quick buzzes from his cellphone signaled an incoming email. He pulled the device from his pocket and noted the telltale blinking light. Judging by the time, Jerry’s business Q&amp;A had come to a close several minutes ago. The investors had probably cleared out by now and were already driving their Beamers and Lexi home.
 </p>
 <p>
 He eyed the email preview.
@@ -130,7 +130,7 @@ Subject: RE: Claymore Communications intellectual property auction<br/>
 (1 Attachment)
 <br/>
 <br/>
-Thanks for sending this, Jason. I'll give it a deeper look tomorrow and send my project managers a technical summary if it checks out. One question, though. On slides 7 through 12, the diagrams show an elliptical polarization pattern, but they appear to use different eccentricities and nonuniform angles for the major axis. Is that a misprint, or is there a reason for the discrepancy?<br/>
+Thanks for sending this, Jason. I'll give it a deeper look tomorrow. One question, though. On slides 7 through 12, the diagrams show an elliptical polarization pattern, but they appear to use different eccentricities and nonuniform angles for the major axis. Is that a misprint, or is there a reason for the discrepancy?<br/>
 <br/>
 Dorothy Eigen<br/>
 Senior Feasibility Engineer<br/>
@@ -142,10 +142,10 @@ Verizon Communications
 The email continued with a long chain of forwards and replies by random corporate people. The attachment was the PowerPoint presentation that Danny had just delivered less than half an hour ago.
 </p>
 <p>
-“<span class="computer">Sure</span>,” Danny typed in reply. “<span class="computer">The changing elliptical parameters are very much intentional. We utilize the difference in phase angles as part of the encoding scheme. To circumvent the obvious physical reception problems, we've developed a polyradial antenna design</span>…”
+“<span class="computer">Sure</span>,” Danny typed in reply. “<span class="computer">Put simply, we utilize the phase angle deltas as part of the encoding scheme. To solve the obvious physical reception problems, we’ve developed a polyradial antenna design</span>…”
 </p>
 <p>
-He kept typing for several minutes, his thumbs flying on autopilot as they tapped out the intricate details of his work.
+He kept typing for a few minutes, his thumbs flying on autopilot as they tapped out the intricate details of his work.
 </p>
 <p>
 But while the background of his mind composed the reply, the foreground tried to reason out a much more complicated puzzle. His reply, after all, was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain, while the puzzle involved understanding and properly responding to social cues. The latter was a much more complicated matter than the former.
@@ -158,7 +158,7 @@ He saved his unfinished email into his Drafts folder, and replaced it with:
 To: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
 Subject: FW: RE: Claymore Communications intellectual property auction<br/>
 <br/>
-Wait, there's something I don't get. You guys freaked out when I was about to make the presentation publicly available on the Claymore website, but now you're forwarding it to technical experts at potential competitors? What am I missing?<br/>
+Wait. You emailed my presentation to an engineer in Verizon's Mergers and Acquisitions department? I don't get it. You guys freaked out when I was about to make the presentation publicly available on the Claymore website, but now you're forwarding it to technical experts at potential competitors? What am I missing?<br/>
 </div>
 
 <p>
@@ -171,7 +171,7 @@ It's not your concern. Please answer Dorothy's question. It's important and urge
 </div>
 
 <p>
-Danny bristled at being so blatantly relegated to the role of worker-gnome. He went back to Jason’s original email, hoping for clues. Bundled with the forward was a long heavily-indented list of prior emails in reverse chronological order. Danny began scrolling.
+Danny cringed at being so blatantly relegated to the role of worker-gnome. He went back to Jason’s original email, hoping for clues. Bundled with the forward was a long heavily-indented list of prior emails in reverse chronological order. Danny began scrolling.
 </p>
 
 <div class="computer email">
@@ -187,14 +187,14 @@ To: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>
 From: Dorothy Eigen &lt;eigend@corp.verizon.com&gt;<br/>
 <br/>
 Jason,<br/>
-I got a green light from my director and I've cleared it with the budget committee. Verizon will indeed be participating in the auction for the company's intellectual property after Claymore's dissolution, as discussed. However, we'll need detailed technical data about Claymore's inventions in order to set our bidding prices. Given that our mutual nondisclosure agreement covers all proprietary information, I hope you won't see any problem in delivering this material.<br/>
+I got a green light from my director. Verizon will indeed be participating in the auction for the company's intellectual property after Claymore's dissolution, as discussed. However, we'll need detailed technical data about Claymore's inventions in order to set our bidding prices. Given that our mutual nondisclosure agreement covers all proprietary information, I hope you won't see any problem in delivering this material.<br/>
 </div>
 
 <p>
 Danny stared at that message for what must have been several minutes. There were more emails below it, with other Verizon personnel and other members of the Claymore investment group. But Danny’s eyes kept reading that message over and over again almost of their own accord, bouncing off the bottom of the screen back to the top like a program caught in an infinite loop.
 </p>
 <p>
-Eventually, he was able fight to through his bewilderment to type out one short, simple message to the investor from which this email had come.
+Eventually, he was able fight to through his bewilderment to type out one short, simple message.
 </p>
 
 <div class="computer email">
@@ -230,7 +230,7 @@ Still mostly just feeling confused, Danny engaged in the conversation.
     Yeah well. I did.
   </div>
   <div class="message messagein">
-    I meant to just send you the Verizon engineer's last email.
+    I meant to just send you Verizon's last email.
   </div>
   <div class="message messagein">
     I didn't intend to forward the entire thread.
@@ -238,6 +238,26 @@ Still mostly just feeling confused, Danny engaged in the conversation.
   <div class="message messageout">
     Yeah, I kind of got that.
   </div>
+  <div class="message messagein">
+    All of those communications are highly confidential. There could be serious legal and financial consequences from the divulgence of that material.
+  </div>
+  <div class="message messageout">
+    Consequences for me? Or for you?
+  </div>
+  <div class="message messagein">
+    Just delete the thread and pretend you didn't see it, alright?
+  </div>
+  <div class="message messagein">
+    Alright?
+  </div>
+</div>
+
+<p>
+For a second Danny thought about composing an explanation about why Gödel’s Incompleteness Theorem makes it technically impossible for any information-processing system, including a human mind, to operate properly under the premise of not having a piece of information that it does in fact have. But there was a much bigger issue to address.
+</p>
+
+<br/>
+<div class="computer cyberchat">
   <div class="message messageout">
     So, um...
   </div>
@@ -256,6 +276,9 @@ Even as he typed the question, he realized he was simply fighting his own denial
 
 <br/>
 <div class="computer cyberchat">
+  <div class="message messagein">
+    The investment board made a decision recently.
+  </div>
   <div class="message messagein">
     Claymore has never turned a profit, you know.
   </div>
@@ -287,19 +310,16 @@ Danny swallowed hard.
     You've basically been living off of our generosity for the entire lifetime of the company.
   </div>
   <div class="message messagein">
-    Who do you think has been providing the funds that you and all your coworkers' salaries come from? Benevolent gods from the ancient empire of Moneypotamia?
+    Who do you think has been providing the funds that your salary comes from? Benevolent gods from the ancient empire of Moneypotamia?
   </div>
   <div class="message messagein">
     We're investors, Danny. We need a RETURN on our investment. We can't keep waiting indefinitely for some ship that never comes in. We've been discussing this for a long time. We all have other projects with better potential ROI. It had to happen eventually.
-  </div>
-  <div class="message messagein">
-    I'm sorry. I really am.
   </div>
 </div>
 <br/>
 
 <p>
-Danny found himself wrestling with his phone’s autocorrect much more vigorously. His fingers were trembling.
+Danny found himself wrestling with his phone’s autocorrect much more vigorously as his fingers began to tremble.
 </p>
 
 <br/>
@@ -311,7 +331,7 @@ Danny found himself wrestling with his phone’s autocorrect much more vigorousl
     One week.
   </div>
   <div class="message messagein">
-    We've already pulled the plug. The operations account has been frozen.
+    We've already pulled the plug. The operations account is already frozen.
   </div>
   <div class="message messagein">
     Your next paycheck will be your last.
@@ -374,7 +394,7 @@ He stared at Jason’s answer. Impotent fury and remorseful self-pity knotted to
     I know this must hurt. I really do. But it's just business.
   </div>
   <div class="message messageout">
-    You had me put that presentation together just so you could use it for putting everything I've ever done for you on the chopping block. Without that presentation, you wouldn't have been able to set up an auction for Claymore's inventions. MY inventions.
+    You had me put that presentation together just so you could use it for laying everything I've ever done for you on the chopping block. Without that presentation, you wouldn't have been able to set up an auction for Claymore's inventions. MY inventions.
   </div>
   <div class="message messageout">
     You tricked me into being my own executioner.
@@ -424,8 +444,19 @@ Jason’s reply was slow in coming.
   <div class="message messagein">
     I could get in an unbelievable amount of trouble for letting this information slip to you.
   </div>
+  <div class="message messagein">
+    The rest of the investment board could sue me for the full value of the sale.
+  </div>
+</div>
+
+<p>
+Danny let out a cold, bitter laugh.
+</p>
+
+<br/>
+<div class="computer cyberchat">
   <div class="message messageout">
-    Well I certainly wouldn't want you to get in trouble, now would I?
+    Well I certainly wouldn't want THAT to happen, now would I?
   </div>
   <div class="message messageout">
     Especially not after you manipulated me into throwing away six years of my life.
@@ -443,7 +474,7 @@ Jason’s reply was slow in coming.
     Because if it is, I can be persuasive.
   </div>
   <div class="message messagein">
-    I can make it profitable for you to just forget this entire conversation. And post nothing on any website or ever mention it to anybody anywhere for at least another week or so.
+    I can make it profitable for you to just forget this entire conversation.
   </div>
   <div class="message messagein">
     You're obviously going to need some extra cash soon anyway, so it really would be in your best interest.
@@ -470,10 +501,7 @@ Jason’s reply was slow in coming.
 <br/>
 
 <p>
-Danny leaned against the wall of Claymore’s kitchen and let himself sink slowly down until he sat on the floor, his head dangling limply between his knees. He had no intention of actually making good on any of his threats about going public with the news of Claymore’s pending demise. There would be no point; there was nothing to be gained. But he did take a tiny bit of solace in making the investor sweat about it for a while.
-</p>
-<p>
-  His cellphone vibrated again in his hand.
+Danny leaned against the wall of Claymore’s kitchen and let himself sink slowly down until he sat on the floor, his head dangling limply between his knees. A silent minute passed. His cellphone vibrated again in his hand.
 </p>
 
 <br/>
@@ -548,9 +576,6 @@ It certainly wasn’t the first dot-com he’d seen die with a whimper. And, tho
     But it does.
   </div>
   <div class="message messagein">
-    Good. I'm glad.
-  </div>
-  <div class="message messagein">
     Would you like to hear more?
   </div>
   <div class="message messageout">
@@ -560,7 +585,7 @@ It certainly wasn’t the first dot-com he’d seen die with a whimper. And, tho
     I can't talk about it over email or text.
   </div>
   <div class="message messagein">
-    Do you know the bar Noc Noc, near Pioneer Square?
+    Do you know the Mercury club on Capitol Hill?
   </div>
   <div class="message messagein">
     Meet me there in half an hour. I'll tell you all about it.

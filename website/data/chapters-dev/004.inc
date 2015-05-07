@@ -57,7 +57,7 @@ Mike turned back to Jason. “Are you telling me that you talked me into helping
 Jason shrugged. “Wizards can’t cast healing spells, dude. Everybody knows that.”
 </p>
 <p>
-“Mike, quit being such a munchkin!” Satish railed. “It doesn’t make any sense for wizards to heal! Wizard and priest spells operate on completely different principles. Wizards throw lightning bolts and fireballs. Priests manipulate life energies. It’s a big difference!”
+“Mike, quit being such a munchkin!” Satish railed. “It doesn’t make any sense for wizards to heal! Wizard and priest spells operate on completely incompatible principles. Wizards throw lightning bolts and fireballs. Priests manipulate life energies. It’s a big difference!”
 </p>
 <p>
 A low, frustrated noise came out of Mike’s throat. “Stupid freaking wizards…”

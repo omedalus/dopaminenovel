@@ -145,13 +145,10 @@ The email continued with a long chain of forwards and replies by random corporat
 “<span class="computer">Sure</span>,” Danny typed in reply. “<span class="computer">Put simply, we utilize the phase angle deltas as part of the encoding scheme. To solve the obvious physical reception problems, we’ve developed a polyradial antenna design</span>…”
 </p>
 <p>
-He kept writing for a few minutes, his thumbs flying on autopilot as they tapped out the intricate details of his work.
+His fingers abruptly froze over the virtual keys. A nagging conundrum pestered him from the back of his mind, distracting him from NIN Man’s question. The email thread, after all, was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain. The conundrum, on the other hand, involved understanding and properly responding to social cues. The latter was a much more complicated matter than the former.
 </p>
 <p>
-But while the background of his mind composed the reply, the foreground tried to reason out a much more complicated puzzle. His reply, after all, was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain, while the puzzle involved understanding and properly responding to social cues. The latter was a much more complicated matter than the former.
-</p>
-<p>
-He saved his unfinished email into his Drafts folder, and replaced it with:
+Danny deleted his reply-in-progress replaced it with:
 </p>
 
 <div class="computer email">

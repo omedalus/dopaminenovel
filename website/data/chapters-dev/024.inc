@@ -117,7 +117,7 @@ He slid reluctantly out of her embrace and leaned down to examine them closely. 
 “I did some shopping this morning while you were asleep,” said Tina. She moved one of the metal buckets aside. Behind it, amongst the bottles of kerosene and acetone, was a large plastic jar of powdered glutamate. “I picked that up from Super Supplements. Everything else I found at Home Depot.”
 </p>
 <p>
-“And then you just mixed everything together and, bam, cocaine?” Danny asked. The interior of one bucket was lined with a greasy brown residue, and stank of kerosene. The other, which emitted a faint hint of the stinging odor of acetone, bore a yellowish-white rocky crust that clung to the inside of the bucket like crystals of frost on a winter morning. 
+“And then you just mixed everything together and, bam, cocaine?” Danny asked. The interior of one bucket was lined with a greasy brown residue, and stank of kerosene. The other, which stung with the smell of acetone, bore a yellowish-white rocky crust that clung to the inside of the bucket like crystals of frost on a winter morning. 
 </p>
 <p>
 “There’s several steps to it, obviously,” said Tina. “But those <em>E. coli</em> have the same cocaine synthesis pathway as the coca plant, so I just figured it’d be the same process as extracting it from coca leaves.”
@@ -162,7 +162,7 @@ Danny paused long enough to ask, “Tried what?” He resumed kissing his way do
 Danny pulled back slightly and shook his head. “Me? No. No way. Have you?”
 </p>
 <p>
-“Eh, I’ve indulged,” she said, her fingertips running softly along the back of his neck. “But I think my clubbing days are long behind me.”
+“Eh, I’ve indulged,” she said, her fingertips running softly along the back of his neck. “But I think my clubbing days are behind me.”
 </p>
 <p>
 He took her head in his hand and turned it to one side to gain access to an earlobe. “What does it feel like?” he whispered between nibbles.
@@ -204,10 +204,7 @@ There was nobody outside.
 “What the hell?” Danny mumbled. Confused, he unbolted the door, turned the knob, and began pulling it open. “Hello!…?”
 </p>
 <p>
-An immense dark blur spun out quickly from beside the door, just beyond the view of the peephole. In an instant, it hurled itself through the doorway. It was the size and shape of a large, muscular man.
-</p>
-<p>
-The whirling momentum of its entry thrust the door back against Danny. Unprepared for the burst of explosive force, Danny caught the corner of the door square in his chest. He fell backward, landing hard on the smooth wood floor. The pain and shock forced a loud grunt out of him.
+An immense dark blur spun out quickly from beside the door, just beyond the view of the peephole. In an instant, it hurled itself through the doorway. The whirling momentum of the figure’s entry thrust the door back against Danny. Unprepared for the burst of explosive force, Danny caught the corner of the door square in his chest. He fell backward, landing hard on the smooth wood floor. The pain and shock forced a loud grunt out of him.
 </p>
 <p>
 Hurt and stunned, with his ribs and tailbone smarting from the impacts, he looked up to try to comprehend what had just happened. 
@@ -228,10 +225,7 @@ From somewhere far away, Tina screamed. There was some kind of rummaging commoti
 Sergey’s gaze momentarily broke away from Danny. The Russian looked toward Tina and said dismissively, “Put that down. You will only hurt yourself.”
 </p>
 <p>
-In the brief second of Sergey’s invasion, Tina had fled around the counter into the kitchen. She stood holding a large, sharp knife with both hands, pointing it at Sergey with as much courage and menace as she could muster.
-</p>
-<p>
-Unfortunately, this was not a lot.
+In the brief second of Sergey’s invasion, Tina had fled around the counter into the kitchen. She stood holding a large, sharp knife with both hands, pointing it at Sergey with as much courage and menace as she could muster. Unfortunately, this was not a lot.
 </p>
 <p>
 The hulking Russian ignored her. He towered over Danny like an enraged colossus and snarled, “Get up!”
@@ -258,7 +252,7 @@ He shoved him against the nearest wall and pinned him there. Danny tried to yelp
 “You…” the Russian seethed. “It is all you! I am up in this ass because of you!”
 </p>
 <p>
-Danny’s vision grew watery and distorted as tears of pain and terror began welling in his eyes. “I… I’m sorry!” he squeezed out, his voice sounding disturbing to himself through his constrained larynx. “It was just a job…”
+Danny’s vision grew watery and distorted as tears of pain and terror welled in his eyes. “I… I’m sorry!” he squeezed out, his voice sounding disturbing to himself through his constrained larynx. “It was just a job…”
 </p>
 <p>
 Sergey looked at Danny with an expression typically used for things stuck to the bottom of a shoe.
@@ -270,13 +264,7 @@ Sergey looked at Danny with an expression typically used for things stuck to the
 The paw around Danny’s neck was pinching critical vascular anatomy. No matter how hard his arteries throbbed, the flow of blood to his brain began to dwindle. His vision started to fade &mdash; colors dimmed, and the world seemed to flatten. Sergey’s voice sounded like it came from an echoing distance, growing steadily quieter.
 </p>
 <p>
- “I have no more contact with my men because of you. I have no army, no telephones, no cash flow. I have only one thing now. One thing. One thing I am left with.”
-</p>
-<p>
-Sergey shoved the end of the silencer against Danny’s chest.
-</p>
-<p>
-“You,” Sergey spat out. “I have you. And you do not look like much. But I know you are one clever, sneaky, slippery little shit. And, God willing, maybe that will be enough.”
+ “I have no more contact with my men because of you. I have no army, no telephones, no cash flow. I have only one thing now. One thing. One thing I am left with.” Sergey shoved the end of the silencer against Danny’s chest. “You. I have you. And you do not look like much. But I know you are one clever, sneaky, slippery little shit. And, God willing, maybe that will be enough.”
 </p>
 <p>
 “What do you want from me?” Danny whispered, barely conscious. He could feel the silenced muzzle pressing into his ribs. It was shaking.
@@ -330,13 +318,10 @@ Sergey snarled, “It doesn’t work like what?”
 Without thinking, Danny asked, “So she’s just cutting class?”
 </p>
 <p>
-As soon as he had said it, he flinched. He expected a fist to the temple and a loud Russian-accented lecture about how Sergey’s little angel was the sweetest, most well-behaved cherub in all of God’s Creation.
+As soon as he had said it, he flinched. He expected a fist to the temple and a loud Russian-accented lecture about how Sergey’s precious little angel was the sweetest, most well-behaved cherub in all of God’s Creation.
 </p>
 <p>
-Instead, what he heard was a stifled, pained chuckle.
-</p>
-<p>
-“I take it you have raised a daughter?” said Sergey, with what Danny swore was a hint of a smile.
+Instead, what he heard was a stifled, pained chuckle. “I take it you have raised a daughter?” said Sergey, with what Danny swore was a hint of a smile.
 </p>
 <p>
 Danny shook his head.
@@ -348,10 +333,10 @@ Danny shook his head.
 “So, why do you think this time is different?” asked Danny.
 </p>
 <p>
-Sergey bowed his head. “There is a man in the city today,” he said darkly. “An old business colleague of mine. Things went very bad between us many years ago. And in this business, when things go bad…” He absentmindedly rubbed the cross around his neck.
+Sergey bowed his head. “There is a man in the city today,” he said darkly. “Old business colleague. Things went very bad between us many years ago. And in this business, when things go bad…” He absentmindedly rubbed the cross around his neck.
 </p>
 <p>
-“I see…,” Danny said, wincing as ominous comprehension dawned.
+“I see…,” Danny said, wincing.
 </p>
 <p>
 Quietly and emptily, more to himself than to Danny, the large Russian whispered, “She doesn’t deserve to suffer for my sins.”
@@ -375,13 +360,7 @@ She glanced between the two of them. “Sorry. It’s nothing. Never mind.”
 Sergey focused on her. “You have heard about him?”
 </p>
 <p>
-Tina remained silent for several seconds, thinking. She stared intently at Sergey, studying his face and body language. Finally, she said, “Is he from Saint Petersburg?”
-</p>
-<p>
-Sergey’s eyes widened. “Yes…”
-</p>
-<p>
-“Super rich, right?” she said. “Owns companies all over the world?”
+Tina remained silent for several seconds, thinking. She stared intently at Sergey, studying his face and body language. Finally, she said, “Is he from Saint Petersburg? Super rich, right? Owns companies all over the world?”
 </p>
 <p>
 “Yes!” said Sergey. “You know this man?”
@@ -441,7 +420,7 @@ Danny struggled against his pull. “Jesus, no! Sergey, that’s suicide!”
 “It should,” replied Danny. “Let me put it in perspective for you. This hotel is in the Medina neighborhood &mdash; one of the richest districts in the country, and all the money is from technology. Bill Gates’s house is there. Jeff Bezos &mdash; the guy who created Amazon &mdash; <em>his</em> house is there. You know what the security in this neighborhood is like? They have marine radar systems watching every single building along the shoreline to call out the coast guard if so much as a floating beach ball gets within 500 feet of anyone’s property. They have cameras on every street corner that use image recognition software to read the license plate of every car that drives through the neighborhood &mdash; any car that isn’t registered to a Medina resident gets pulled over by police before it can get to the next intersection. If Fort Knox was rebuilt as a 21st-century residential neighborhood, it would be Medina, Washington.
 </p>
 <p>
-“And this is just what it’s like on <em>public</em> property. Inside that hotel, there’s going to be world-class physical security systems, full-time guards on staff, and hotlines to a SWAT team. If you go in with guns blazing, you’ll be mowed down before you make it through the lobby.”
+“And this is just what it’s like on <em>public</em> property. Inside that hotel, there’s going to be world-class physical security systems, full-time guards on staff, hotlines to SWAT teams, you name it. If you go in with guns blazing, you’ll be mowed down before you make it through the lobby.”
 </p>
 <p>
 “So what do you suggest?” asked Sergey.
@@ -479,7 +458,7 @@ Danny shook his head. “No… Look, the process by which people build things is
 </pre>
 
 <p>
-He scanned the results, dismissing most of them, investigating others. He altered the words used in the search query several times. He tried the Wayback Machine, the public result clips of LexisNexis, and a dozen different business blogs. After several minutes of searching, he found what he was looking for. Buried in a tech entrepreneur newsletter from several years prior, there appeared a short, indistinct blurb.
+He scanned the results, dismissing most of them, investigating others. He altered the words used in the search query several times. He tried the Wayback Machine, the public result clips of LexisNexis, and a dozen different business blogs. After many silent minutes of searching, he found what he was looking for. Buried in a tech entrepreneur newsletter from several years prior, there appeared a short, indistinct blurb.
 </p>
 
 <div class="computer email">
@@ -525,7 +504,7 @@ Sergey watched Danny work the phone, and narrowed his eyes. “What is strange c
 An older woman’s voice greeted the line. “RockBox Digital Security. How may I direct your call?”
 </p>
 <p>
-Hesitantly, Danny said, “Hi there. This is Danny, from the Medina Gallante contract. Listen, I was just chatting with an engineer of yours a few minutes ago, and I was supposed to call him back but I don’t have his direct line. He was helping me out through a real jam, and I’m kind of stuck without him.”
+Danny took a deep breath and closed his eyes. In a tone of friendly familiarity, he said, “Hi there. This is Danny, from the Medina Gallante contract. Listen, I was just chatting with an engineer of yours a few minutes ago, and I was supposed to call him back but I don’t have his direct line. He was helping me out through a real jam, and I’m kind of stuck without him.”
 </p>
 <p>
 “What was his name, sir?” said the voice.

@@ -169,12 +169,12 @@ The two of them spotted Julie cowering by the back wall, crouching in her coutur
 Sergey regarded her with a frown. “She’s very young.” 
 </p>
 <p>
-“And high as the moon,” Eugene added. “Apparently she manufactures it herself.”
+“And high as the moon,” Eugene added. “Apparently she manufactures it herself.” Her Hello Kitty purse lay near his feet &mdash; the girl had tossed it during the scuffle. Eugene squatted down and casually walked his fingers into the purse’s open top to spread it wide enough to peek inside. Amidst mascara and lipstick and a sandwich bag full of powdered cocaine, there was a plain white keycard. It bore a stylized letter <em>W</em> and the inscription, <em>Tungsten Medical Technologies</em>.
 </p>
 <p>
 Sergey nodded. “I’ve heard these rumors. Think they have any truth?”
 </p>
 <p>
-“She says we wouldn’t understand the truth,” Eugene said as he and Sergey slowly closed in on her. “But she’ll have plenty of time to explain it to us.”
+Eugene stood back up and looked at the cowering young woman. “She says we wouldn’t understand the truth,” he said as he and Sergey slowly closed in on her. “But she’ll have plenty of time to explain it to us.”
 </p>
 </div>

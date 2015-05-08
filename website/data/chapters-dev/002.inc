@@ -21,7 +21,7 @@ One attendee actually <em>was</em> wearing a concert T-shirt under his suit jack
 There was no microphone in Danny’s hand, only a laser pointer. No spotlight, only a high-resolution projector. No hit rock song, only a PowerPoint presentation describing a 4G cellular multiplexing algorithm by Claymore Communications.
 </p>
 <p>
-Danny’s boss, Jerry Young, stepped deftly to the center of the room. “Folks, I just want to say, before we move on, that Danny and I really appreciate this opportunity to present our technology to you. It’s great to see Claymore’s financial contributors showing a genuine interest in the technical aspects of the company.” 
+Danny’s boss, Brent Thurston, stepped deftly to the center of the room. “Folks, I just want to say, before we move on, that Danny and I really appreciate this opportunity to present our technology to you. It’s great to see Claymore’s financial contributors showing a genuine interest in the technical aspects of the company.” 
 </p>
 <p>
 “Oh, our pleasure!” said the man in the Nine Inch Nails T-shirt. “Danny’s presentation was amazing, but what’s even more exciting his technology. What you’ve shown here is an upcoming wireless revolution, and I’m proud to help it come to fruition!” Later that day, NIN Man would buy Claymore Communications with his personal funds, and the company would go public. Danny would cash in his stock options to buy a downtown penthouse, and spend the next several years building Claymore into the world’s premier data systems provider. He would be featured in <em>Time</em> magazine as the face of digital communication in the 21<sup>st</sup> century.
@@ -33,13 +33,13 @@ Only, that never actually happened, either.
 Instead, the man in the Nine Inch Nails T-shirt said cheerfully, “We’re just glad you could set up this meeting for us! Your man Danny here really seems to know his stuff.”
 </p>
 <p>
-Jerry beamed. “Yes, Danny’s been a great asset to the company. He’s been Claymore’s lead engineer for… How long, Danny? Five years now?”
+Brent beamed. “Yes, Danny’s been a great asset to the company. He’s been Claymore’s lead engineer for… How long, Danny? Five years now?”
 </p>
 <p>
 “Six,” Danny said.
 </p>
 <p>
-“Six years,” Jerry repeated. “Last year, he almost single-handedly ran the Naval Base Kitsap project. He’s personally responsible for most of the firmware designs you guys saw here tonight. And you should see him bust a move on <em>Dance Dance Revolution</em>!” The investors laughed on cue.
+“Six years,” Brent repeated. “Last year, he almost single-handedly ran the Naval Base Kitsap project. He’s personally responsible for most of the firmware designs you guys saw here tonight. And you should see him bust a move on <em>Dance Dance Revolution</em>!” The investors laughed on cue.
 </p>
 <p>
 “Do you think it would it be possible,” NIN man asked with gratuitous politeness, “for Danny’s slides to be available after we finish here?”
@@ -48,22 +48,22 @@ Jerry beamed. “Yes, Danny’s been a great asset to the company. He’s been C
 Danny answered on his own behalf. “Sure thing. I can put this up on the Claymore website right now…” His hand moved inside his suit jacket toward his cellphone.
 </p>
 <p>
-The room erupted in murmurs of protest and clearing of throats. The assembled one-percenters exchanged nervous glances with one another and inched forward in their seats, their heads shaking and their hands darting out in blocking motions. Danny stood frozen with his hand halfway to his interior chest pocket, as though he was caught drawing a gun. He blinked dumbly and turned to Jerry for help.
+The room erupted in murmurs of protest and clearing of throats. The assembled one-percenters exchanged nervous glances with one another and inched forward in their seats, their heads shaking and their hands darting out in blocking motions. Danny stood frozen with his hand halfway to his interior chest pocket, as though he was caught drawing a gun. He blinked dumbly and turned to Brent for help.
 </p>
 <p>
-Jerry returned Danny’s look with an embarrassed half-smile. “The company’s website is maybe not the best place for proprietary technical data, Danny.” To the suddenly skittish investors, he said soothingly, “But we’ll be delighted to email this presentation to each of you as soon as we wrap up.”
+Brent returned Danny’s look with an embarrassed half-smile. “The company’s website is maybe not the best place for proprietary technical data, Danny.” To the suddenly skittish investors, he said soothingly, “But we’ll be delighted to email this presentation to each of you as soon as we wrap up.”
 </p>
 <p>
 “Please make sure I get a personal copy,” NIN man insisted. “You can reach me at Jason Tuttle at AOL dot com. That’s J, A, S...”
 </p>
 <p>
-Jerry quieted him down with a reassuring wave of his hand. “You’ll get one, Jason. You’ll all get one. And I’ll make sure you also get Danny’s contact info in case any of you have further technical questions.”
+Brent quieted him down with a reassuring wave of his hand. “You’ll get one, Jason. You’ll all get one. And I’ll make sure you also get Danny’s contact info in case any of you have further technical questions.”
 </p>
 <p>
-And just like that, Jerry Young took the room. He launched his own set of PowerPoint slides, discussing things like potential partnership strategies and market penetration projections. Danny stood aside so that the big boys could play.
+And just like that, Brent Thurston took the room. He launched his own set of PowerPoint slides, discussing things like potential partnership strategies and market penetration projections. Danny stood aside so that the big boys could play.
 </p>
 <p>
-In some alternate universe Danny would have gone on to get an MBA after finishing his master’s degree. He’d have moved to New York and quickly climbed the ladder at a multinational holding company, eventually becoming a manager of a tech-heavy hedge fund. He’d date models, dine at fine restaurants, and light cigars with burning hundred-dollar bills. By night he’d don a cape and cowl and prowl the rooftops fighting crime.
+In some alternate universe Danny would have gotten an MBA after finishing his master’s degree. He’d have moved to New York and quickly climbed the ladder at a multinational holding company, eventually becoming a manager of a tech-heavy hedge fund. He’d date models, dine at fine restaurants, and light cigars with burning hundred-dollar bills. By night he’d don a cape and cowl and prowl the rooftops fighting crime.
 </p>
 <p>
 In the real world, during his last trip to New York he’d managed to drop his cellphone onto a set of subway tracks. In reality, New York sucked.
@@ -78,16 +78,16 @@ Reality sucked.
 <span class="think">Crap! I didn't say that out loud, did I?</span>
 </p>
 <p>
-The words had escaped under his breath. All eyes turned to Danny. Jerry’s jaw hung open, mortified.
+The words had escaped under his breath. All eyes turned to Danny. Brent’s jaw hung open, mortified.
 </p>
 <p>
 “I… sorry,” Danny said. “I was just… My mind was somewhere else.”
 </p>
 <p>
-Jerry stepped in diplomatically. “Danny’s been working hard lately to put this presentation together for you guys. He stayed up late last night giving it a final polish. He could probably use some coffee. Right, Danny?”
+Brent stepped in diplomatically. “Danny’s been working hard lately to put this presentation together for you guys. He stayed up late last night giving it a final polish. He could probably use some coffee. Right, Danny?”
 </p>
 <p>
-Danny took the hint. As he escaped the room, he heard Jerry resume the presentation.
+Danny took the hint. As he escaped the room, he heard Brent resume the presentation.
 </p>
 <p>
 <span class="think">Reality sucks?</span>
@@ -102,7 +102,7 @@ Danny took the hint. As he escaped the room, he heard Jerry resume the presentat
 <span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. Danny gazed at it, mesmerized. It glowed with a shade of red just slightly deeper than the visible spectrum. Infrared. Every object in the universe emitted black-body radiation with a brightness and color determined by its temperature. Danny stared unblinkingly as he tried to compute the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law; the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times 2 times the Planck constant divided by…
 </p>
 <p>
-A vibration on his chest broke his trance. Two quick buzzes from his cellphone signaled an incoming email. He pulled the device from his pocket and noted the telltale blinking light. Judging by the time, Jerry’s business Q&amp;A had come to a close several minutes ago. The investors had probably cleared out by now and were already driving their Beamers and Lexi home.
+A vibration on his chest broke his trance. Two quick buzzes from his cellphone signaled an incoming email. He pulled the device from his pocket and noted the telltale blinking light. Judging by the time, Brent’s business Q&amp;A had come to a close several minutes ago. The investors had probably cleared out by now and were already driving their Beamers and Lexi home.
 </p>
 <p>
 He eyed the email preview.
@@ -404,10 +404,10 @@ He stared at Jason’s answer. Impotent fury and remorseful self-pity knotted to
     You and the rest of the investors.
   </div>
   <div class="message messageout">
-    And Jerry? Is that why he shooed me out of the room?
+    And Brent? Is that why he shooed me out of the room?
   </div>
   <div class="message messageout">
-    Does Jerry know? Does everybody know?
+    Does Brent know? Does everybody know?
   </div>
 </div>
 <br/>

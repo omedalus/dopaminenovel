@@ -24,16 +24,7 @@ He recognized the rhythmic sound as sock-clad footsteps. The beats underscored t
 He slowly stood up and dressed himself in his pajamas. He took his time. He no longer had a job to worry about showing up late for. Most importantly, he had a brilliant and beautiful young woman in his house playing <em>Dance Dance Revolution</em> in the next room. With a goofy grin on his face, he headed out to join her.
 </p>
 <p>
-The moment he opened the bedroom door, he was hit by an instant and overpowering wave of revulsion and fear. His throat constricted. Images flashed before his eyes of the man with the acid-burned face, of the psychotic Asian girl dying in a pool of blood and chemicals, of hiding under the desk with Jason while being stalked like game…
-</p>
-<p>
-The stench of acetone and kerosene wafted through the open door, filling his nostrils and stinging his eyes.
-</p>
-<p>
-For a moment he lost strength in his legs. He listed to one side, and grabbed a hold of his computer desk to regain his balance. Those memories weren’t even a full day old yet &mdash; their proximity could still be measured in mere hours. How many hours, he couldn’t exactly say. Propping himself against the doorframe, he leaned out to take a look at the stove. The clock read 00:00.
-</p>
-<p>
-The kitchen still contained the cluttered trappings of an impromptu biochemical laboratory. Salt, sugar, and amino acid powder still lay spilt across the floor, and wires still protruded from behind the stove. Near the sink, however, he saw several new items: metal buckets with stirring rods alongside bottles of nail polish remover, industrial-strength drain cleaner, and heating oil.
+The moment he opened the bedroom door, the stench of acetone and kerosene wafted through the open door, filling his nostrils and stinging his eyes. The kitchen still contained the cluttered trappings of an impromptu biochemical laboratory. Salt, sugar, and amino acid powder still lay spilt across the floor, and wires still protruded from behind the stove. Near the sink, however, he saw several new items: metal buckets with stirring rods alongside bottles of nail polish remover, industrial-strength drain cleaner, and heating oil.
 </p>
 <p>
 From somewhere on his opposite side, the music and the thumping had stopped.
@@ -75,7 +66,7 @@ He followed her gesture and looked at the pot. Curious, Danny approached the sto
 “Looks delicious,” Danny said while suppressing a gag. He put the lid back on.
 </p>
 <p>
-“Pretty incredible, right?” said Tina. She bounced toward the kitchen and stood behind the granite counter. “It’s in an exponential growth phase. As long as there are still nutrients, in a perfect broth the bacteria can double their population every half hour.”
+Tina bounced toward the kitchen and stood behind the granite counter. “It’s in an exponential growth phase. As long as there are still nutrients, in a perfect broth the bacteria can double their population every half hour.”
 </p>
 <p>
 Danny worked the math. “So after ten hours, they’d double twenty times. Two to the twentieth is a million and change. So that tiny speck you started with has multiplied by a factor of over a million by now. That’s… a lot.”
@@ -87,7 +78,7 @@ Danny worked the math. “So after ten hours, they’d double twenty times. Two 
 Danny chuckled at her. “You’re kind of proud of yourself right now, aren’t you?”
 </p>
 <p>
-“Well, I damn well should be!” she replied. “Considering how amazing I am and everything!” She lifted her head theatrically high and splayed her black-nailed fingers toward her face to emphasize her sheer fabulousness. “Seriously! I’ve been stuck behind a reception desk for almost two years, when the whole time what I’m really meant to be doing is <em>this</em>, this right here. What’s got two thumbs, and can incubate transgenic bacteria?” She pointed both of her thumbs at herself. “This girl!”
+“Well, I damn well should be!” she replied. “Considering how amazing I am and everything! Seriously! I’ve been stuck behind a reception desk for almost two years, when the whole time what I’m really meant to be doing is <em>this</em>, this right here. Behold my awesome powers!” She lifted her head theatrically high and splayed her black-nailed fingers toward her face to emphasize her sheer fabulousness.
 </p>
 <p>
 Danny, laughing warmly and unable to take her eyes off of her, walked away from the foul-smelling pot and came around to join her on the opposite side of the kitchen counter.
@@ -114,25 +105,7 @@ Danny followed her gaze. Between the scattered glassware and plastic bags and nu
 He slid reluctantly out of her embrace and leaned down to examine them closely. “Whoa…” he gasped, mindful to prevent his breath from disturbing the delicate rails.
 </p>
 <p>
-“I did some shopping this morning while you were asleep,” said Tina. She moved one of the metal buckets aside. Behind it, amongst the bottles of kerosene and acetone, was a large plastic jar of powdered glutamate. “I picked that up from Super Supplements. Everything else I found at Home Depot.”
-</p>
-<p>
-“And then you just mixed everything together and, bam, cocaine?” Danny asked. The interior of one bucket was lined with a greasy brown residue, and stank of kerosene. The other, which stung with the smell of acetone, bore a yellowish-white rocky crust that clung to the inside of the bucket like crystals of frost on a winter morning. 
-</p>
-<p>
-“There’s several steps to it, obviously,” said Tina. “But those <em>E. coli</em> have the same cocaine synthesis pathway as the coca plant, so I just figured it’d be the same process as extracting it from coca leaves.”
-</p>
-<p>
-“Which you happen to know off the top of your head?” Danny asked, mostly joking.
-</p>
-<p>
-Tina shrugged. “The Internet knows it. The Internet knows everything!”
-</p>
-<p>
-Danny laughed uncomfortably. “Yes… and now the Internet knows you looked up instructions for how to make cocaine, and then went to Home Depot and bought the ingredients. ISP records and credit card receipts can tell a colorful tale.”
-</p>
-<p>
-She crossed her arms and smirked. “Not in this case,” she said smugly. “I did my browsing at the Seattle Online Coffee Company over a double tall skinny latte. And all my payments were in cash.”
+“I did some shopping this morning while you were asleep,” said Tina. She moved one of the metal buckets aside. Behind it, amongst the bottles of kerosene and acetone, was a large plastic jar of powdered glutamate. “I picked that up from Super Supplements. Everything else I found at Home Depot. I paid for everything with cash, so there’s no trail &mdash; you know, just in case the DEA can scan credit card records and flag anybody buying just the right combination of chemicals. I guess hanging out with you freaky hacker guys is teaching me a thing or two.”
 </p>
 <p>
 He turned away from the fresh narcotics on the counter and returned his full attention to the beautiful girl by his side. “You know something?” he said with a devilish grin.

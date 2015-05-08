@@ -6,13 +6,13 @@
 Unfortunately, that never actually happened.
 </p>
 <p>
-<span class="think">The applause should be louder than this</span>, thought Danny. <span class="think">I gave a great performance here. They should be whistling and cheering and throwing their underwear at me.</span>
+<span class="think">It should be louder than this</span>, thought Danny. <span class="think">I gave a great performance here. They should be whistling and howling and throwing their underwear at me.</span>
 </p>
 <p>
 Danny looked around and decided it’s best if they didn’t.
 </p>
 <p>
-The light smattering of polite, professional clapping came from about two dozen 50-something men. In place of tattoos and piercings were hair plugs and dental veneers. What should have been a dark stadium glittering with cellphone flashes was instead a bland conference room awash in the sickly pale light of fluorescent bulbs. About half of the audience were wearing gray suits, like Danny. The rest were in khakis and polos, doubtlessly planning to get back to their sailboats or golf courses right after the meeting.
+The light smattering of polite, professional applause came from about two dozen 50-something men. In place of tattoos and piercings were hair plugs and dental veneers. What should have been a dark stadium glittering with cellphone flashes was instead a bland conference room awash in the sickly pale light of fluorescent bulbs. About half of the audience were wearing gray suits, like Danny. The rest were in khakis and polos, doubtlessly planning to get back to their sailboats or golf courses right after the meeting.
 </p>
 <p>
 One attendee actually <em>was</em> wearing a concert T-shirt under his suit jacket &mdash; a <em>Nine Inch Nails World Tour</em> XL tucked into pleated pants, spread over a belly that had apparently gone decades without being subjected to a sit-up. The thinning remnants of his salt-and-pepper hair were gelled upward into what would’ve been a fashionable fauxhawk on a man half his age.
@@ -63,7 +63,7 @@ Jerry quieted him down with a reassuring wave of his hand. “You’ll get one, 
 And just like that, Jerry Young took the room. He launched his own set of PowerPoint slides, discussing things like potential partnership strategies and market penetration projections. Danny stood aside so that the big boys could play.
 </p>
 <p>
-In some alternate universe Danny would have gone to get an MBA after finishing his master’s degree. He’d have moved to New York and quickly climbed the ladder at a multinational holding company, eventually becoming a manager of a tech-heavy hedge fund. He’d date models, dine at fine restaurants, and light cigars with burning hundred-dollar bills. By night he’d don a cape and cowl and prowl the rooftops fighting crime.
+In some alternate universe Danny would have gone on to get an MBA after finishing his master’s degree. He’d have moved to New York and quickly climbed the ladder at a multinational holding company, eventually becoming a manager of a tech-heavy hedge fund. He’d date models, dine at fine restaurants, and light cigars with burning hundred-dollar bills. By night he’d don a cape and cowl and prowl the rooftops fighting crime.
 </p>
 <p>
 In the real world, during his last trip to New York he’d managed to drop his cellphone onto a set of subway tracks. In reality, New York sucked.
@@ -148,7 +148,7 @@ The email continued with a long chain of forwards and replies by random corporat
 His fingers abruptly froze over the virtual keys. A nagging conundrum pestered him from the back of his mind, distracting him from NIN Man’s question. The email thread, after all, was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain. The conundrum, on the other hand, involved understanding and properly responding to social cues. The latter was a much more complicated matter than the former.
 </p>
 <p>
-Danny deleted his reply-in-progress replaced it with:
+Danny deleted his reply-in-progress and replaced it with:
 </p>
 
 <div class="computer email">

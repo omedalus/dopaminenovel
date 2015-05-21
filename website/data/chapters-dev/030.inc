@@ -21,37 +21,34 @@ And walked.
 He had no idea how much time had passed. He wore no watch, and his dead cellphone wouldn’t tell him the hour. Cars zoomed by in both directions along the suburban road, paying him no mind. He walked past gas stations, past strip malls, past houses and apartment buildings, past busy highway overpasses and ghostly-quiet four-way intersections whose stoplight signals changed color for nobody. 
 </p>
 <p>
-Danny heard the hum of a small engine approaching from behind. He ignored it at first, as he had with the dozens of other cars that had driven past him. But when he heard the engine slowing down, he turned around.
+Danny heard the hum of an engine approaching from behind. He ignored it at first, as he had with the dozens of other cars that had driven past him. But when he heard the engine slowing down, he turned around.
 </p>
 <p>
-He saw a sporty yellow motorcycle.
+Tina waved at him through the windows of Natalie’s borrowed car. Her eyes filled with happiness and relief.
 </p>
 <p>
-Roger pulled up beside Danny, and met his gaze through the visor of his helmet.
+“Danny!” she said as she pulled up beside him. “You’re going the wrong way!”
 </p>
 <p>
-“Hey genius,” said Roger. “You’re going the wrong way.”
-</p>
-<p>
-“My cellphone’s dead,” Danny mumbled. “I have no GPS.”
+Danny climbed into the passenger seat. “My cellphone’s dead. I have no GPS.”
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">In the cabin of Jason’s yacht,</span> Rosie and Moshen sat next to one another on the wide leather bench by the highly lacquered table. They had cleared out a space amongst the laptops and electronics, and filled it with markers and pencils and blank pieces of paper from Jason’s <em>Dungeons &amp; Dragons</em> kit. Moshen kept the young girl distracted by flipping through the illustrated rulebooks and teaching her how to draw pictures of dragons, orcs, and fairies, of knights and priests and wizards.
+<span class="caplead">In the cabin of Jason’s yacht,</span> Rosie and Moshen sat next to one another on the wide leather bench by the highly lacquered table. They had cleared out a space among the laptops and electronics, and filled it with markers and pencils and blank pieces of paper from Jason’s <em>Dungeons &amp; Dragons</em> kit. Moshen kept the girl distracted by flipping through the illustrated rulebooks and teaching her how to draw pictures of dragons, orcs, and fairies, of knights and priests and wizards.
 </p>
 <p>
-The table was littered with loose pages of such images. Rosie’s pictures were stylized and cartoonish, but showed a distinct eye for movement and action. They all portrayed violent moments of fierce combat. Each of her scenes featured a mighty, barrel-chested knight. In one, he was single-handedly slaying an army of orcs. In another, he was rescuing a princess trapped in a tower. In a third, he was hanging from the claw of a soaring dragon. The knight wore dark armor and carried a large rectangular shield.
+The table was littered with loose pages of such images. Rosie’s pictures were stylized and cartoonish, but showed a distinct eye for movement and action. They all portrayed fierce, violent combat. Each of her scenes featured a mighty, barrel-chested knight. In one, he was single-handedly slaying an army of orcs. In another, he was rescuing a princess trapped in a tower. In a third, he was hanging from the claw of a soaring dragon. The knight wore dark armor and carried a large rectangular shield.
 </p>
 <p>
-On the screen behind them, the conference call had stayed active. Mike, Natalie, and Tina remained telepresent. 
+On the screen behind them, the conference call had stayed active. Mike and Natalie remained telepresent. 
 </p>
 <p>
-All eyes, both physical and digital, turned towards the cabin stairs as Danny, Roger, and Jason descended from the deck.
+All eyes turned towards the cabin stairs as Danny, Tina, and Jason descended from the deck.
 </p>
 <p>
-Rosie, seeing them climbing down the steps, erupted in a joyous, expectant smile. Once the three men descended, her smile lingered briefly, then sank into a perplexed frown.
+Rosie, seeing them climbing down the steps, erupted in a joyous, expectant smile. Once the three of them descended, her smile lingered briefly, then sank into a perplexed frown.
 </p>
 <p>
 “Where’s my Dad?” she asked nervously.
@@ -81,7 +78,7 @@ The cabin responded with silence. On the deck above, the child’s hysterical so
 “What’s going to happen to her,” Danny asked, his stomach lurching.
 </p>
 <p>
-Several more moments of silence passed. Tina finally broke it. “She has no other family. We asked her while waiting for you. She has nowhere to go.”
+Several more moments of silence passed. Tina finally broke it. “She has no other family. We asked her while we were waiting for you. She has nowhere to go.”
 </p>
 <p>
 “Sergey was adamant that she doesn’t end up in foster care,” said Danny, his head spinning. “You remember, right? In my bedroom? He said a girl her age would never…”
@@ -99,7 +96,7 @@ Tina gently began, “Danny, you didn’t…”
 He cut her off. “<em>Because of me,</em> those were his last words.”
 </p>
 <p>
-Natalie intervened. “Danny, listen to me. It’s natural to feel guilty over something like this. Possibly even indebted. But, Danny, you couldn’t have known. What happened wasn’t your fault. Feelings of remorse are unnecessary right now.”
+Natalie intervened via the screen. “Danny, listen to me. It’s natural to feel guilty over something like this. Possibly even indebted. But, Danny, you couldn’t have known. What happened wasn’t your fault. Feelings of remorse are unnecessary right now.”
 </p>
 <p>
 He listened to the child’s cries on the moonlit deck above. He replied to Natalie, “What <em>should</em> I be feeling right now, then?”
@@ -114,7 +111,7 @@ Danny emitted a hollow, humorless, sorrowful chuckle. “The things I choose to 
 The sobbing outside began to soften. Jason’s voice could be heard offering soothing, indistinct words.
 </p>
 <p>
-Danny looked at Tina’s screen, and locked eyes with her image. “Remember what we talked about back in the Rite Aid, Tina?”
+Danny looked at Tina and locked eyes with her. “Remember what we talked about back in the Rite Aid, Tina?”
 </p>
 <p>
 Tina nodded. “Of course I do, Danny. You talked about how you believed you had an unclaimed destiny of greatness. How you’re supposed to create something amazing that would shape the whole world. Something like that, yes?”

@@ -30,7 +30,7 @@ Tina waved at him through the windows of Natalie’s borrowed car. Her eyes fill
 “Danny!” she said as she pulled up beside him. “You’re going the wrong way!”
 </p>
 <p>
-Danny climbed into the passenger seat. “My cellphone’s dead. I have no GPS.”
+Danny climbed into the passenger seat. “My cellphone’s dead,” he said with a self-deprecating smile. He was elated to see her. “I have no GPS.”
 </p>
 </div>
 

@@ -12,10 +12,10 @@ Danny sat in the passenger’s seat, staring at his laptop. His Claymore tote ba
 Inside Tungsten’s building, dozens of computers transmitted signals to each other through rapid electromagnetic vibrations. At its heart, the process was no more complex than blinking lights &mdash; but only someone like Danny would think of them as “lights”. Most people would think of them as antennas, and would say they were emitting radio waves. But for Danny, when it came to things like light bulbs or WiFi transceivers or Naval radar systems, the difference was literally in the eye of the beholder. They all worked by sending out photons, and whether the receiving antenna was a thin strand of copper wire inside a computer’s network card or a rhodopsin protein in a rod cell in his retina, the underlying physical principles were invariant.
 </p>
 <p>
-Danny surveyed the office building. There were trees planted beside it &mdash; pines, arranged by professional landscapers into neat woodchip-lined rows. Danny had chosen to park near these trees intentionally, to stay out of sight. But the trees obscured visible and invisible light alike. 
+Danny surveyed the office building. There were trees planted beside it &mdash; pines arranged by professional landscapers into neat woodchip-lined rows. Danny had chosen to park near these trees intentionally, to stay out of sight. But the trees obscured visible and invisible light alike. 
 </p>
 <p>
-“Move the car over there, where the trees are thinner,” Danny said while pointing. “We’ll still be mostly hidden from view, but we might get a better signal.”
+“Move the car over there, where the trees are thinner,” Danny said while pointing. 
 </p>
 <p>
 Pine trees were living things, and their green needles were filled with water. As each electromagnetic wave passed by, the polarized water molecules would bounce and jostle, sapping the wave’s energy. The trees might as well have been clouds of fog. 
@@ -27,13 +27,10 @@ Jason nodded and complied. The SUV lumbered quietly forward. “The lights are o
 “Not sure,” said Danny. “I think so, but I can’t really see.”
 </p>
 <p>
-The light that unaided human eyes could see had frequencies ranging from 400 to 790 terahertz, corresponding to colors from red to bluish violet. The lights coming from the Tungsten building had frequencies near 2.45 gigahertz. Human beings who talked about such things, like Danny, didn’t call it “color.” They instead used words like “channel” or “band”. And in place of names like “red”, they used the term “microwave”.
+Unaided human eyes could see light frequencies ranging from 400 to 790 terahertz, corresponding to colors from red to bluish violet. The lights coming from the Tungsten building had frequencies near 2.45 gigahertz. Human beings who talked about such things, like Danny, didn’t call it “color.” They instead used words like “channel” or “band”. And in place of names like “red”, they used the term “microwave”.
 </p>
 <p>
-“Better?” asked Jason.
-</p>
-<p>
-“I think so,” Danny answered, focused on his computer screen. “The RSSI from three of the APs just jumped when we moved the car. They’re running WEP over 802.11b. I think these are the droids we’re looking for.”
+“That’s better,” Danny said, focused on his computer screen. “The RSSI from three of the APs just jumped. They’re running WEP over 802.11b. It’s a grossly outdated protocol, just like the message board said. I think these are the droids we’re looking for.”
 </p>
 <p>
 “So you’re in?” asked Jason.
@@ -45,13 +42,7 @@ The light that unaided human eyes could see had frequencies ranging from 400 to 
 “You mean your friends Cain and Abel? Plural, right? Who?” Jason asked, confused.
 </p>
 <p>
-“No, Cain & Abel,” Danny corrected. “It’s an application written by an Italian hacker named Massimiliano Montoro. It’s a, um, ‘password recovery toolkit’,” Danny said with air-quotes and a smirk. “You know, in case you, uh, ever lose the key to your own network.”
-</p>
-<p>
-Jason laughed. “Right. Does it actually work?”
-</p>
-<p>
-“See for yourself!” Danny said. He whisked his fingers across his laptop, navigating through an elaborate maze of buttons and drop-down menus. “Passive Scan… Capture to File… Packet Injection ARP Requests… and… Go!”
+“No, Cain & Abel,” Danny corrected. “It’s an application written by an Italian hacker named Massimiliano Montoro. It’s a, um, ‘password recovery toolkit’,” Danny said with air-quotes and a smirk. “You know, in case you, uh, ever lose the key to your own network. Or… something. So let’s see what it can do here…” He whisked his fingers across his laptop, navigating through an elaborate maze of buttons and drop-down menus. “Passive Scan… Capture to File… Packet Injection ARP Requests… and… Go!”
 </p>
 <p>
 “<em>Now</em> you’re in?” asked Jason.
@@ -63,7 +54,7 @@ Jason laughed. “Right. Does it actually work?”
 Danny stared out at the Tungsten building, past the trees.
 </p>
 <p>
-If Danny could see into the microwave spectrum, he would see a dazzling symphony of light. The building’s walls would be mostly transparent, with the various computers inside emitting rapid flashes of light like fireflies in a giant jar. As the flickering of each computer ceased, a certain designated device &mdash; an access point, or WiFi hotspot in popular parlance &mdash; would light up in response to the darkness. The access point was the choreographer of this luminous dance, its pattern of flashes telling the other devices which one of them should transmit next. One after another, these machines illuminated the night with pure, glowing data.
+If Danny could see into the microwave spectrum, he would see a dazzling symphony of light. The building’s walls would be mostly transparent, with the various computers inside emitting rapid flashes of light like fireflies in a jar. As the flickering of each computer ceased, a certain designated device &mdash; an access point, or WiFi hotspot in popular parlance &mdash; would light up in response to the darkness. The access point was the choreographer of this luminous dance, its pattern of flashes telling the other devices which one of them should transmit next. One after another, these machines illuminated the night with pure, glowing data.
 </p>
 <p>
 Danny couldn’t see it with his eyes, but he could visualize it clearly. It was beautiful.
@@ -96,10 +87,10 @@ Satish entered the conversation. “Do you want to see their camera feeds?”
 “Yes!” Danny said. “You have their video streams?”
 </p>
 <p>
-“I have everything,” said Satish. “I’m doing a promiscuous packet sniff. I’m seeing an MPEG-4 stream inside a HTTP session. Look at port 80 on 192.168.2.57,” said Satish.
+“I have everything,” said Satish. “I’m doing a promiscuous packet sniff. I’m seeing an MPEG-4 stream inside a HTTP session. Look at port 80 on 192.168.2.57.”
 </p>
 <p>
-Danny entered the numbers. His screen filled with a video feed of the driveway just in front of the Tungsten building, pixilated and choppy with occasional blocky digital glitches. A narrow ribbon of text ran along the bottom, showing the current date, time, and information about the camera. A rectangle labeled “PTZ” contained buttons with icons of arrows and magnifying glasses. Danny played with them and found that he could move the camera &mdash; pan, tilt, and zoom.
+Danny entered the numbers. His screen filled with a video feed of the driveway just in front of the Tungsten building, pixelated and choppy with blocky digital glitches. A narrow ribbon of text ran along the bottom, showing the current date, time, and information about the camera. A rectangle labeled “PTZ” contained buttons with icons of arrows and magnifying glasses. Danny played with them and found that he could move the camera &mdash; pan, tilt, and zoom.
 </p>
 <p>
 “Niiiii<em>iii</em>ce!” Danny sang.
@@ -111,10 +102,7 @@ Danny entered the numbers. His screen filled with a video feed of the driveway j
 “I’m seeing a bunch of HTTP servers, too, Danny,” said Mike. “Besides the one Satish found. Same subnet. Dot-84, dot-91, dot-95…”
 </p>
 <p>
-Danny brought up each one. They were all video feeds from security cameras. 
-</p>
-<p>
-He saw office hallways. He saw conference rooms and cubicles with whiteboards covered with chemical formulas. He saw laboratories full of beakers, refrigerators, centrifuges, and measurement instruments. He saw a large warehouse-like storage room filled with scientific and medical equipment. 
+Danny brought up each one. They were all video feeds from security cameras.  He saw office hallways. He saw conference rooms and cubicles with whiteboards covered with chemical formulas. He saw laboratories full of beakers, refrigerators, centrifuges, and measurement instruments. He saw a large warehouse-like storage room filled with scientific and medical equipment. 
 </p>
 <p>
 He saw the reception area. Somebody was there.
@@ -126,10 +114,7 @@ He saw the reception area. Somebody was there.
 The screen showed an angled overhead view of a young woman at the reception desk. She wore a black knit cardigan over a simple white button-down shirt. Her unkempt black hair fell just below her chin. A small nose stud glinted in the light.
 </p>
 <p>
-What Danny noticed most, though, was her posture and poise &mdash; or rather, her complete lack thereof.
-</p>
-<p>
-She slouched as she tapped away at her keyboard, her shoulders slumped and her spine crooked. The timing of her keystrokes made it obvious that she was chatting with someone online, feeling no need to appear like she was still working. Her hair was unkempt not because she was trying to artificially make it look naturally beautiful, but because it was, in fact, the natural state of her hair after a very long work shift. 
+What Danny noticed most, though, was her posture and poise &mdash; or rather, her complete lack thereof. She slouched as she tapped away at her keyboard, her shoulders slumped and her spine crooked. The timing of her keystrokes made it obvious that she was chatting with someone online, feeling no need to appear like she was still working. Her hair was unkempt not because she was trying to artificially make it look naturally beautiful, but because it was, in fact, the natural state of her hair after a very long work shift. 
 </p>
 <p>
 Danny smiled. Her hair looked beautiful anyway.
@@ -153,7 +138,7 @@ The camera panned left, then down, centering on the girl.
 “What? I’m just trying to get a better look at Tungsten’s personnel here. It’s vital reconnaissance work!”
 </p>
 <p>
-Jason, somewhat confused, leaned over and took a look at Danny’s screen. “Oh,” he said. “That’s Christina. Their office admin.”
+Jason, somewhat confused, leaned over and looked at Danny’s screen. “Oh,” he said. “That’s Christina. Their office admin.”
 </p>
 <p>
 The video feed zoomed in on the girl’s chest. Her shirt and cardigan took up the entire screen.
@@ -333,10 +318,10 @@ The stillness of the night was broken by the soft sound of tires on pavement.
 A sound that came, oddly, with no corresponding engine rumble.
 </p>
 <p>
-A gleaming white Tesla Roadster drove up the street adjoining the office complexes. It moved eerily quietly, its all-electric power train making almost no noise.
+A gleaming white Tesla Roadster made its way up the street adjoining the office complexes.
 </p>
 <p>
-Several cars had already driven by. What made Danny and Jason notice this one, besides its stylishness and the unusual soundless way it moved, was that it slowed down and turned in to the Tungsten parking lot.
+Several cars had already driven by. What made Danny and Jason notice this one, besides its stylishness and the unusual, eerily quiet way it moved, was that it slowed down and turned in to the Tungsten parking lot.
 </p>
 <p>
 Through the pine trees, they could see the Roadster pull to a stop just in front of Tungsten’s entrance. Two male figures emerged. They stood outside talking in the light pouring from the lobby.
@@ -360,22 +345,22 @@ Danny and Jason hid behind the black Navigator. “What’s going on?” asked D
 Danny re-opened his laptop and brought up the video feed.
 </p>
 <p>
-The two men stood in front of their electric sports car, talking. They wore dark jackets and black leather gloves. They had athletic, muscular bodies, and hard faces that looked like they were comfortable and familiar with danger. They had slim cellphones with Bluetooth wireless headsets, which they set up and put into their ears as Danny watched.
+The two men in dark jackets and black leather gloves stood in front of their electric sports car, talking. They had athletic, muscular bodies, and hard faces that looked like they were comfortable and familiar with danger. They had slim cellphones with Bluetooth wireless headsets, which they set up and put into their ears.
 </p>
 <p>
 And they had guns.
 </p>
 <p>
-One carried a thin black semiautomatic handgun. The other had a small silver revolver with a short, squat barrel with a disproportionately large opening. They held the firearms in their hands casually, nonchalantly, gesturing with them as they talked. 
+One carried a thin black semiautomatic handgun; the other, a short silver revolver with a disproportionately large opening. The men held the firearms in their hands nonchalantly, casually gesturing with them as they talked. 
 </p>
 <p>
-With a nod, the one with the small silver revolver tucked his gun into a jacket pocket. He opened the Roadster’s door and retrieved an object from inside. Danny zoomed in on the object in the man’s hands. It was a woman’s purse &mdash; a large red and black bag. The man pulled a keycard out of it, threw the purse back into the car, and walked to the entrance of the Tungsten headquarters. A green light popped on above the door’s keycard reader. The man passed the keycard to his partner and entered the building.
+With a nod, the one with the revolver tucked his gun into a jacket pocket. He opened the Roadster’s door and retrieved an object from inside. Danny zoomed in on the man’s hands. It was a woman’s handbag &mdash; a Hello Kitty purse. The man pulled a keycard out of it, threw the purse back into the car, and walked out of frame. Danny zoomed back out, following the man’s movement to the entrance of the Tungsten headquarters. A green light popped on above the door’s keycard reader. The man handed the keycard to his partner and entered the building.
 </p>
 <p>
-The one with the semiautomatic remained out front, standing beside the front doors. He pulled back the slide on his weapon and deftly screwed a long black silencer onto the end of the barrel. With the silencer firmly installed, he pushed a clip into the gun’s handgrip and released the slide with a quick pull. The slide snapped forward. He took off his jacket and draped it over his hand, concealing the weapon. He crooked his arm casually at his side, looking like he was innocently holding his jacket, and leaned against the wall as though he was idly waiting for someone.
+The other man remained out front, standing beside the front doors. He pulled back the slide on his weapon and deftly screwed a long black silencer onto the end of the barrel. With the silencer firmly installed, he pushed a clip into the gun’s handgrip and released the slide, causing it to snap forward. He took off his jacket and draped it over his hand, concealing the weapon. Crooking his arm casually at his side, he leaned against the wall as though idly waiting for someone.
 </p>
 <p>
-The man with the small silver revolver walked slowly but confidently through the lobby. He opened the interior door and proceeded into the unlit hallway beyond.
+The man with the small revolver strode confidently through the lobby. He opened the interior door and proceeded into the unlit hallway beyond.
 </p>
 <p>
 Danny quickly checked the lobby’s camera feed. The receptionist was gone; her iPhone sat charging on her desk. “Guys. The girl. Christina,” Danny reminded them. “Does anyone see where she is?” 
@@ -387,7 +372,7 @@ Mike replied, “Check the main office camera.”
 Danny punched the corresponding URL into his browser. The video feed showed an office bullpen. The lights were off for the night, but the room was still illuminated by screensavers and the power lights of office equipment. The desks were mostly messes of computers, papers, and laboratory apparatuses. White lab coats hung from the backs of curvy ergonomic chairs. Whiteboards filled with diagrams and equations lined the walls.
 </p>
 <p>
-Christina’s head, with her dark neck-length unkempt hair, poked out above a computer monitor. She stooped over a desk, digging through its drawers.
+Christina’s head, with her dark mass of hair, poked out above a computer monitor. She stooped over a desk, digging through its drawers.
 </p>
 <p>
 In the darkened hallway beyond the bullpen, a shadow moved.

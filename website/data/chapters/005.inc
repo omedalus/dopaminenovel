@@ -207,10 +207,10 @@ With the box’s tape finally undone, Roger flipped open the top and reached ins
 The man in the white coat asked, “Is that the big fancy hard drive you’ve been promising us?”
 </p>
 <p>
-Roger nodded excitedly as he examined the equipment. “It’s a ten-terabyte RAID. I think I can expand it to forty in a year. Think this’ll be enough storage space for you lab monkeys?”
+Roger nodded excitedly as he examined the equipment. “It’s a forty-terabyte RAID. Think this’ll be enough storage space for you lab monkeys?”
 </p>
 <p>
-The trim-bearded biologist smiled. “How soon can you connect it to the network?” 
+The trim-bearded biologist nodded. “How soon can you connect it to the network?” 
 </p>
 <p>
 Roger stood up with the device in his hands. “I’ll set up the NAS this afternoon. But whether any of your weird-ass mad scientist toys can talk to it or not… Well, that’s up to Don here, right?”
@@ -222,10 +222,7 @@ The heavy-set man gave a salute-like gesture. “I’ll get my boys setting up N
 The biologist added with a chuckle, “Forty terabytes. Try not to fill it up with pictures of your girlfriends, Roger, okay?”
 </p>
 <p>
-Roger enthusiastically replied, “Oh! Speaking of…!”
-</p>
-<p>
-He set the RAID down on a corner of Tina’s desk, and pulled out his cellphone. He tapped its screen a few times and said, “This is the little hottie from the beach last night.”
+Roger enthusiastically replied, “Oh! Speaking of…!” He set the RAID down on a corner of Tina’s desk, and pulled out his cellphone. He tapped its screen a few times and said, “This is the little hottie from the beach last night.”
 </p>
 <p>
 The other two men gathered around the small screen and gave approving nods. “She’s a knockout, alright,” said the equipment technician. “What’s her name?”

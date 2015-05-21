@@ -305,19 +305,13 @@ The Asian kid let out a deep, cathartic sigh, and slowly pulled back onto the ro
 
 <div class="chapsection">
 <p>
-<span class="caplead">Danny watched the van</span> roll through the gate. He leaned against a concrete pillar in the hotel’s garage level, illuminated by jaundiced fluorescent lamps. The vehicle drove to a secluded corner of the underground parking structure.
+<span class="caplead">Danny watched the van</span> roll through the gate toward a secluded corner. He leaned against a concrete pillar in the hotel’s underground garage, illuminated by jaundiced fluorescent lamps.
 </p>
 <p>
-Moshen cut the engine, hopped out, and came around to open the rear doors. Danny was greeted by the familiar sight of Claymore’s field installation equipment and on-site troubleshooting tools. A spectrum analyzer, a portable power supply, and a short Yagi antenna jutted out from the disheveled pile of electronics. In the past six years, he’d taken this van to more trade shows and vendor demonstrations than he’d care to remember. With Claymore now closed and its assets pending sell-off, this mission to the Medina Gallante would be this van’s last expedition.
+Moshen cut the engine, hopped out, and came around to open the rear doors. Danny was greeted by the familiar sight of Claymore’s field installation equipment and on-site troubleshooting tools. A spectrum analyzer, a portable power supply, and a short Yagi antenna jutted out from the disheveled pile of electronics. In the past six years, he’d taken this van to more trade shows and vendor demonstrations than he cared to remember. With Claymore now closed and its assets pending sell-off, this mission to the Medina Gallante was to be this van’s last expedition.
 </p>
 <p>
-The van rocked gently on its suspension as Sergey stepped out. The side door slid open, and Eugene and Leo emerged.
-</p>
-<p>
-Danny put the red toolbox on the ground.
-</p>
-<p>
-“First, let’s get you guys on comms,” he said. He opened the box. Inside, mixed in among some decoy hammers and screwdrivers, were several fully charged cellphones and Bluetooth headsets. He handed the communication gear out to the Russians, and after a few iterations of, “Testing, testing… Can you hear me now…?”, he confirmed that they were all joined to the conference call.
+The van rocked gently on its suspension as Sergey stepped out. The side door slid open, and Eugene and Leo emerged. They each fiddled with Bluetooth earbuds. On his own piece, Danny overheard the chatter as Tina joined them to the conference call.
 </p>
 <p>
 Moshen walked away to stand watch. The three Russians came around to the back of the van and dug through the piles of cables and electronics.
@@ -326,13 +320,10 @@ Moshen walked away to stand watch. The three Russians came around to the back of
 Buried beneath the boxes lay a mobile armory.
 </p>
 <p>
-Sergey extracted a vest of grayish-black body armor, long and bulky with hard, blocky plates. He donned it over his clothes and fastened its buckles. Onto his head he pulled a heavy-looking full-faced black helmet with a thick clear visor. He strapped a tall black rectangular shield to his left arm, large enough to cover his body from knees to face, with a wide transparent window embedded near the top to allow for vision. In his right hand he held a MAC-10, complete with suppressor, folding stock, laser sight, and extended magazine.
+Sergey extracted a vest of grayish body armor, long and bulky with hard, blocky plates. He donned it over his clothes and fastened its buckles. Onto his head he pulled a heavy-looking full-faced helmet with a thick visor. He strapped a tall black rectangular shield to his left arm, large enough to cover his body from knees to face, with a wide transparent window embedded near the top to allow for vision. In his right hand he held a MAC-10, complete with suppressor, folding stock, laser sight, and extended magazine. He looked like a tank on two legs.
 </p>
 <p>
-He looked like a tank on two legs.
-</p>
-<p>
-Leo, the gunman who had shot Danny in the shoulder twenty-four hours ago, wrapped himself in a ballistic vest and helmet like the ones on Sergey. Instead of the shield and MAC-10, though, Leo opted for a spiny black multi-component rifle with enough switches and levers to rival a church organ. It was about as long as a man’s arm, and looked so complex that it seemed like it could suddenly unfold into a thirty-foot-tall anthropomorphic alien robot at any moment. A sophisticated scope ran along its top. A ridged hollow tube, about as big as a cardboard paper towel roll, hung beneath its barrel. The precision engineering of the many modular interlocking pieces astounded Danny; looking at the weapon, it was clear to him that the people who developed that firearm knew as much about alloys and ballistics as he knew about computers and electronics.
+Leo, the gunman who had shot Danny in the shoulder twenty-four hours ago, wrapped himself in a ballistic vest and helmet like the ones on Sergey. Instead of the shield and MAC-10, though, Leo opted for a spiny black multi-component rifle with enough switches and levers to rival a church organ. A sophisticated scope ran along its top. A ridged hollow tube, about as big as a cardboard paper towel roll, hung beneath its barrel. The precision engineering of the many modular interlocking pieces astounded Danny; looking at it, it was clear to him that the people who developed that firearm knew as much about alloys and ballistics as he knew about computers and electronics.
 </p>
 <p>
 “What the hell is that?” Danny couldn’t help asking.
@@ -344,25 +335,25 @@ Leo, the gunman who had shot Danny in the shoulder twenty-four hours ago, wrappe
 “A grenade launcher? Guys, that was not part of the plan!”
 </p>
 <p>
-“You stay with computer stuff,” said Leo. “Leave the fighting stuff to us. You don’t tell us how to do our job, we won’t tell you how to do yours. Deal?”
+“You stay with computer stuff,” said Leo. “Leave the fighting stuff to us. You don’t tell us how to do our job, we won’t tell you how to do yours.”
 </p>
 <p>
 “Does your job involve picking out pieces of Sergey’s daughter from piles of gibs and putting her back together with duct tape?” said Danny.
 </p>
 <p>
-Leo rolled his eyes and scoffed, “Idiot.” The Russian gunman reached into the van and pulled out a black rubber cylinder, rounded on one side. It was shaped like a bullet, but about the size of a pill bottle. “We use this,” he said, holding the object up in front of Danny.
+Leo rolled his eyes and scoffed, “Idiot.” The Russian gunman reached into the van and pulled out a black rubber cylinder, rounded on one side. It was shaped like a bullet, but the size of a pill bottle. “We use this,” he said.
 </p>
 <p>
 “What is it?” Danny asked.
 </p>
 <p>
-Leo grinned. “It is how you make an entrance.”
+Sergey grinned. “It is how you make an entrance.”
 </p>
 <p>
-Sergey laughed lightly. “It is forty-millimeter spin-stabilized flash grenade. You do not want to be looking at it when it goes off.”
+Leo laughed lightly. “It is forty-millimeter spin-stabilized flash grenade. You do not want to be looking at it when it goes off.”
 </p>
 <p>
-Leo smiled, shook his head, and said mirthfully, “Nooooo, you really, really don’t!” The two seemed to share an inside joke of some kind &mdash; a recollection, perhaps, of battles past.
+Sergey smiled, shook his head, and said mirthfully, “Nooooo, you really, really don’t!” The two seemed to share an inside joke of some kind &mdash; a recollection, perhaps, of battles past.
 </p>
 <p>
 A few feet away, Eugene practiced turning, twisting, and kicking in his gear. He opted for a thinner, lighter ballistic vest and a bowl-shaped open-faced helmet, affording him fast, easy movement.
@@ -371,70 +362,31 @@ A few feet away, Eugene practiced turning, twisting, and kicking in his gear. He
 Sergey passed him a bigger helmet, with side coverage and a faceplate like the kind he and Leo wore.
 </p>
 <p>
-Eugene scoffed at it. “Uncle, that thing is useless! You wear that, you have no idea what’s happening around you. Look…!” He walked up to Sergey, reached his hands out on either side of Sergey’s fully encased head, and began snapping his fingers on alternate sides. “Over here! No, over here! Over here! …See? Nothing.”
+Eugene scoffed at it. “Uncle, that thing is useless! You wear that, you have no idea what’s happening around you. Look…!” He reached his hands out on either side of Sergey’s fully encased head, and began snapping his fingers on alternate sides. “Over here! No, over here! Over here! …See? Nothing.”
 </p>
 <p>
-Sergey mumbled, “Over here, smartass,” and swung his MAC-10 out at Eugene’s unprotected cheekbone, quick enough to startle him but slow enough to not do any real harm. Eugene ducked to avoid the pistol-whipping, and reached up to seize Sergey’s elbow and wrist. Sergey found his arm trapped in a leveraged limb-lock that would’ve sent the gun clattering to the floor if Eugene applied any more force. Sergey responded with a shield-bash, smacking the black polymer bubble against Eugene’s body and sending him stumbling several feet backwards.
+Sergey mumbled, “Over here, smartass,” and swung his MAC-10 out at Eugene’s unprotected cheekbone, quick enough to startle him but softly enough to do no harm. Eugene ducked to avoid the pistol-whipping, and reached up to seize Sergey’s elbow and wrist. Sergey found his arm trapped in a limb-lock that would’ve sent the gun clattering to the floor if Eugene applied any more force. Sergey responded with a shield-bash, smacking the black polymer bubble against Eugene’s body and making him stumble several feet backwards.
 </p>
 <p>
 The two men laughed, and spoke to one another in Russian with warm, familial tones.
 </p>
 <p>
-As they talked and checked their gear, a low rumble arose from somewhere amongst the concrete pillars of the garage. A lone headlight shone from the gate at the entrance.
+Danny’s attention was pulled away by the sound of Satish’s voice in his earpiece. “Danny, are you there?” 
 </p>
 <p>
-Danny heard the rapid footsteps of Moshen’s sneakers. “Guys! Someone's coming!”
-</p>
-<p>
-The Bluetooth headset in Danny’s ear chirped with Natalie’s voice. “It’s Roger. I can see him on camera.” The gate swung gently open, courtesy of a packet sent by Satish.
-</p>
-<p>
-A yellow sportsbike rounded the bend of the garage, bearing a tall, sinewy young man. It rolled to a stop next to the van, on the opposite side from the Russians. The driver toed the kickstand to the ground and killed the throaty hum of the motorcycle’s engine. He dismounted and pulled off his helmet.
-</p>
-<p>
-“Roger, I presume?” Danny said in a cordial tone.
-</p>
-<p>
-Roger gave him an acknowledging grunt, and reached into one of the bike’s saddlebags. He pulled out the sealed Pyrex bowl. “Here’s your shit.”
-</p>
-<p>
-Danny took the glass vessel. “Thanks, man,” he said earnestly. He laid his HERF gun on the ground and knelt down to stash the bowl deep inside the large toolbox.
-</p>
-<p>
-“Hey, is that the EMP rifle?” Roger asked. “I seriously can’t believe you actually built one of those. Are those blue things on the end capacitors? What kind of range can you get on it? Can I try it?”
-</p>
-<p>
-Danny looked up to see Roger staring at the HERF gun with eyes filled with wonder. His fingers wiggled slightly in the hope of getting to touch the device. Danny couldn’t help but smile. He picked up the gun as he stood back up. “You see,” he said to Roger, pointing proudly to a small assembly connected to the spine of relays, “the real magic is in the DC voltage amplifier circuit. It’s a tradeoff against current, but the ultracaps pump out current to spare, so…”
-</p>
-<p>
-Roger nodded excitedly, like a child being told exactly what the tooth fairy does with all those molars. “Right! I get it,” he said. “At least, um, I think I do. I mean, I mostly just do net admin stuff. Is electrical engineering hard to learn?”
-</p>
-<p>
-Danny beamed at him kindly. “Well…”
-</p>
-<p>
-His attention was pulled away by the sound of Satish’s voice in his earpiece. “Danny, are you there?”
-</p>
-<p>
-Danny turned away from Roger. His face hardened as his concentration returned. “Yeah, Satish. What’s up?”
+Danny turned away, his face hard with concentration. “Yeah, Satish. What’s up?”
 </p>
 <p>
 “I have good news and bad news. Good news: I’ve been able to find several X10/IP bridges, and I can detect IP-encapsulated X10 packets all over the network.”
 </p>
 <p>
-“That’s <em>very</em> good news,” said Danny. “What’s the bad news?”
+“That’s <em>spectacular</em> news,” said Danny. “What’s the bad news?”
 </p>
 <p>
 “There’s a huge number of X10 controllers in the building,” said Satish, “and I can’t tell which ones correspond to the Presidential penthouse. Mike and I were studying it for the last few minutes, and we can’t come up with a good approach except for divide-and-conquer.”
 </p>
 <p>
-“I’ll get you some additional manpower,” said Danny. “Moshen!”
-</p>
-<p>
-“Yeah?” Moshen asked, still dazed.
-</p>
-<p>
-“You’re on the conference call,” he said. “This X10 issue that Satish is talking about. Can you help?”
+“I’ll get you some additional manpower,” said Danny. “Moshen!” The Asian kid, standing watch nearby, swiveled toward Danny. “You’re on the conference call. This X10 issue that Satish is talking about. Can you help?”
 </p>
 <p>
 Moshen hesitated. “Uh… What’s an X10?”
@@ -443,31 +395,25 @@ Moshen hesitated. “Uh… What’s an X10?”
 “Home automation,” Danny explained. “It’s a language spoken by electronic appliances around the house. Lights, heating, air conditioning, entertainment systems, that kind of thing. The Gallante has its rooms wired with X10 devices, and Satish and Mike need a hand figuring out which ones are in the Presidential Suite. Can you help?”
 </p>
 <p>
-Moshen recoiled. “I just build websites, Danny. I mean, I can try…”
+Moshen recoiled. “I just build websites, man. I mean, I can try…”
 </p>
 <p>
-Danny sighed, and went to the back of the van to dig a laptop out of the electronics. “Roger?” he asked.
+Danny went to the back of the van to dig a laptop out of the electronics. “Wireshark,” Danny said briskly as he dusted off the old computer. “tcpdump. nmap. netcat. dd.”
 </p>
 <p>
-“Yeah?” Roger replied uncertainly.
-</p>
-<p>
-“Wireshark,” Danny said briskly as he dusted off the old computer. “tcpdump. nmap. netcat. dd.”
-</p>
-<p>
-“Network probing tools,” said Roger. “What about them?”
+“Those are network probing tools, right?” asked Moshen.
 </p>
 <p>
 “Can you use them?” he asked, booting up the laptop.
 </p>
 <p>
-“Well, yeah…” said Roger. “Why? What do you…?”
+“Um…” said Moshen.
 </p>
 <p>
-Danny shoved the laptop into Roger’s hands. “Congratulations, you’ve just been drafted. Satish and Mike will get you caught up. Tina, can you link him to the voice bridge?”
+Danny shoved the laptop into his hands. “Learn. Fast.”
 </p>
 <p>
-Roger took the laptop with an uncertain shrug. He set it on the hood of the van and got to typing.
+Moshen took the computer with an uncertain shrug. He set it on the hood of the van and got to typing.
 </p>
 <p>
 From around the other side of the van, the deep voice of Sergey rumbled. “Can we get moving yet? It is getting hot in this suit.”
@@ -479,19 +425,13 @@ From around the other side of the van, the deep voice of Sergey rumbled. “Can 
 Mike’s voice buzzed in the earpiece. “Yes. Up the back stairs &mdash; it connects to the hotel’s rear maintenance corridor.”
 </p>
 <p>
-Danny grabbed his HERF gun and his toolbox. “Then let’s get moving.”
-</p>
-<p>
-The Russians emerged from behind the van, marching into view in their battle dressing. Roger stared slackjawed as they appeared, and instinctively backed away.
-</p>
-<p>
-Danny began to lead them to the garage’s rear stairwell.
+Danny grabbed his HERF gun and his toolbox, and began walking toward the garage’s rear stairwell. “Guys. Let’s get moving.”
 </p>
 <p>
 Eugene called out, “Hey, hold on! Almost done here…” He knelt over a backpack and a large spool of black nylon rope. He was in the process of cutting two- and three-foot lengths of cord with a serrated blade and putting them into the backpack.
 </p>
 <p>
-Roger said wide-eyed, “Do I even want to know what that’s for?”
+Danny muttered, “Do I even want to know what that’s for?”
 </p>
 <p>
 “The rope?” said Eugene. “It’s for many things.” He finished the last of the cuts, then hurriedly stuffed the rest of the spool into the backpack and slung it over his shoulder. “But first,” he added, “it’s for making a few inconvenient people go away.”
@@ -836,7 +776,7 @@ The man simply chuckled. He leaned against the glass from the outside, calmly sa
 Tina’s voice replied on the line, “Tungsten placed the reservation, yes. But they didn’t pay. They gave us an International Bank Account Number corresponding to a private investment fund in Estonia. The IBAN begins with EENN BB24, and ends with 5177. Is this account associated with you?”
 </p>
 <p>
-“Yes, yes, yes,” Ivan mumbed, his breath hissing through his teeth. “Is payroll account for Consortium operations. How in Devil you get this bank number?”
+“Yes, yes, yes,” Ivan mumbled, his breath hissing through his teeth. “Is payroll account for Consortium operations. How in Devil you get this bank number?”
 </p>
 <p>
 “We attempted to bill that account, sir, but the charge wouldn’t go through.”
@@ -878,13 +818,7 @@ Politely, Tina said, “We’re terribly sorry for the malfunction of your air c
 “Please wait while I try to reach them,” said Tina. “In the meantime, do you have a computer with you? Can you access your account online? There may be additional information available on the bank’s website.”
 </p>
 <p>
-Beneath grumbled Russian curses, Ivan tapped on a laptop keyboard.
-</p>
-<p>
-The Russian curses suddenly grew much louder.
-</p>
-<p>
-“I get mistake!” Ivan barked into the phone.
+Beneath grumbled Russian curses, Ivan tapped on a laptop keyboard. The Russian curses suddenly grew much louder. “I get mistake!” Ivan barked into the phone.
 </p>
 <p>
 “You made a mistake?” Tina asked.
@@ -896,10 +830,7 @@ The Russian curses suddenly grew much louder.
 “You mean an error message, sir?” Tina suggested.
 </p>
 <p>
-“Yes. Yes, Internet giving me error message. It saying, ‘The site’s security certificate is not trusted,’” he read awkwardly and haltingly, putting stresses on incorrect syllables. “‘You attempted to reach salajane.grazhdopank.ee, but the server presented a certificate
-</p>
-<p>
-issued by an entity that is not trusted by your computer’s operating system…’ What this is? I never see before!”
+“Yes. Yes, Internet giving me error message. It saying, ‘The site’s security certificate is not trusted,’” he read awkwardly and haltingly, putting stresses on incorrect syllables. “‘You attempted to reach salajane.grazhdopank.ee, but the server presented a certificate issued by an entity that is not trusted by your computer’s operating system…’ What this is? I never see before!”
 </p>
 <p>
 “We’ve been having problems with our Internet connectivity throughout the hotel today,” Tina explained. “We’re terribly sorry for the inconvenience. At the bottom of the error message you should see a button labeled, ‘Proceed anyway’. Click that, and it will dismiss the error and allow you to connect to your bank’s website.”
@@ -959,16 +890,10 @@ Danny walked slowly across the room. He shook his head and arms limply to try to
 There was shouting in Russian from inside the room. After a few long moments, a lithe, aggressive-looking man opened the door. He wordlessly bobbed his head to the side, motioning for Danny to come in.
 </p>
 <p>
-The air in the suite was irritatingly cold. A fierce draft blew through the room, strong enough to make hair wave and clothes billow. The balcony’s French doors had been opened wide in an attempt to let out the cold.
+The air in the suite was irritatingly cold. A fierce draft blew through the room, strong enough to make hair wave and clothes billow. The balcony’s French doors had been opened wide in an attempt to let out the cold. On the balcony, a few leather-jacketed men and barely-dressed women smoked and chatted in the outdoor air. Inside, a small group played <em>Call of Duty</em> on an enormous wall-mounted plasma TV in a sunken living room. On the dirty-looking glass coffee table, somebody had suspiciously thrown a hotel towel over a large crystalline bowl to conceal its contents. Several other men merely stood around in a small kitchen area or by a wide spiral staircase, eyeing Danny suspiciously. He saw no weapons out in the open, but he had no doubt they were very close at hand.
 </p>
 <p>
-On the balcony, a few leather-jacketed men and barely-dressed women smoked and chatted in the outdoor air. Inside, a small group played <em>Call of Duty</em> on an enormous wall-mounted plasma TV in a sunken living room. On the dirty-looking glass coffee table, somebody had suspiciously thrown a hotel towel over a large crystalline bowl to conceal its contents. Several other men merely stood around in a small kitchen area or by a wide spiral staircase, eyeing Danny suspiciously. He saw no weapons out in the open, but he had no doubt they were very close at hand.
-</p>
-<p>
-Danny looked around. No twelve-year-old girl was anywhere to be seen.
-</p>
-<p>
-He did, however, see Ivan Zheleznov.
+Danny looked around. No twelve-year-old girl was anywhere to be seen. He did, however, see Ivan Zheleznov.
 </p>
 <p>
 The man descended the spiral staircase like a gray hawk swooping down on a field mouse. He wore a fine three-piece suit and slicked-back silver hair. Despite being the oldest and physically weakest man in the room, his presence imposed a greater sense of immediate peril than any of his bodyguards.
@@ -977,13 +902,7 @@ The man descended the spiral staircase like a gray hawk swooping down on a field
 “You come to fixing the air, yes?” he said loudly to Danny in a dry, gravelly, impatient voice.
 </p>
 <p>
-“Yes,” said Danny. He scanned the room carefully, memorizing the topology and mentally counting the mercenaries.
-</p>
-<p>
-He found the thermostat on the wall. Danny walked up to it and lingered for several seconds, pretending to study it and tapping at its unresponsive controls.
-</p>
-<p>
-“The thermostat looks fine. I think there’s a loose heating element somewhere near the sensor,” Danny bluffed. “I’ll need to check your ducts.”
+“Yes,” said Danny. He scanned the room carefully, memorizing the topology and mentally counting the mercenaries. He found the thermostat on the wall, walked up to it, and pretended to fiddle with it for a few seconds. “The thermostat looks fine. I think there’s a loose heating element somewhere near the sensor,” Danny bluffed. “I’ll need to check your ducts.”
 </p>
 <p>
 He scanned the walls, and found an air vent near the ceiling. He marched toward it with as much bravado as he could muster, and pulled a chair over to the wall so he could stand on it for a closer look. The vent was about two feet wide and a foot tall. The frosty air blasted him in the face as he looked inside the vent’s faceplate, blowing around his helmet and across his ears. Holding his head level with the opening, he turned to check the view of the room. He could see most of the open downstairs area of the penthouse. This vent would serve him well.
@@ -992,7 +911,7 @@ He scanned the walls, and found an air vent near the ceiling. He marched toward 
 With the help of a screwdriver from his toolbelt, he removed the grating over the opening. He spent several moments pretending to examine the dark interior of the air shaft.
 </p>
 <p>
-“It, uh, looks like the ventorical airfoil router is jammed,” he said. He turned to study the expressions of the Russians, trying to gauge their reactions. They remained emotionless, showing no response save for their desire for him finish his efforts.
+“It, uh, looks like the ventorical airfoil router is jammed,” he said. He turned to study the expressions of the Russians, trying to gauge their reactions. They remained emotionless.
 </p>
 <p>
 The rest of his work would have to be done by sleight-of-hand.
@@ -1013,25 +932,25 @@ From his Bluetooth earpiece, Mike’s voice replied in tinny tones. “Right now
 Danny said under his breath, “Every second I’m here is a second too long. Satish, prepare to cut the air in five.” He gave the Sticky Tack one last gentle tug to make sure the camera was affixed securely, and took a deep breath. In one quick motion, he pulled his toolbox out of the vent and put the faceplate back over the opening, praying that he was fast enough to keep the Russians from seeing what he had installed behind it. He screwed the grate into place. His fingers shivered as he worked, but not from the cold. He couldn’t quite get the threads on the screws to align.
 </p>
 <p>
-As fiddled with the cover, the wind blowing from the air vent abruptly died. A quiet stillness fell upon the room. The men and women on the balcony peeked their heads in, wondering if the repairman was finished.
+As he fiddled with the cover, the wind blowing from the air vent abruptly died. A quiet stillness fell upon the room. The men and women on the balcony peeked their heads in, wondering if the repairman was finished.
 </p>
 <p>
-“There we go,” said Danny as he climbed down from the chair. “Well, it appears my work here is done. Have a good day, gentlemen.” He gave Ivan a courteous nod. The balcony people began to file back inside.
+“There we go,” said Danny as he climbed down from the chair. “Well, it appears my work here is done. Have a good day, gentlemen.” He gave Ivan a courteous nod. The balconyfolk began to file back inside.
 </p>
 <p>
-Danny’s instincts urged him to sprint out of the room, but he forced himself to maintain a professional demeanor. With toolbox in hand, he walked calmly toward the large cedarwood doors that stood between him and the penthouse anteroom. 
+Danny’s instincts urged him to sprint out of the room, but he forced himself to maintain a professional facade. With toolbox in hand, he walked calmly toward the large cedarwood doors that stood between him and the penthouse anteroom. 
 </p>
 <p>
 And he had almost reached it before he heard a sound behind him.
 </p>
 <p>
-The sound was a metallic creak. It was followed by a clanking crash, and a series of dull thunks.
+The sound was a metallic creak. It was followed by a clanking crash.
 </p>
 <p>
 He turned around.
 </p>
 <p>
-The rectangular air vent stood exposed and uncovered in the wall, revealing a naked wad of Sticky Tack putty inside the shaft. On the floor beneath it, the faceplate lay upon the carpeting, beside a few loose screws. Near it was the small black wireless spycam.
+The rectangular air vent gaped exposed and uncovered in the wall, revealing a naked wad of Sticky Tack putty inside the shaft. On the floor beneath it, the faceplate lay upon the carpeting, beside a few loose screws. Near it was the small black wireless spycam.
 </p>
 <p>
 For one silent second, both Danny and Ivan stared dumbly at the pile, saying nothing.
@@ -1040,7 +959,7 @@ For one silent second, both Danny and Ivan stared dumbly at the pile, saying not
 Danny bolted for the door as Ivan shouted orders to his men. Danny’s fingers reached for the handle, but before they made contact he was pulled backward by his shirt and hair. A wiry, muscular arm curled around his neck like a python, and he felt himself getting turned around and shoved back into the room. Someone behind him kicked him forward, toward the grey figure of Ivan Zheleznov.
 </p>
 <p>
-The lithe, aggressive-looking man who had greeted Danny at the door earlier now stood next to Ivan. He pulled a small black semi-automatic from his pocket, and pressed it to Danny’s chest. Danny felt his heart beat against the barrel. The mercenary slowly walked Danny down the steps of the sunken living room, where Danny found himself surrounded by Ivan’s men.
+The lithe, aggressive-looking man who had greeted Danny at the door earlier now stood next to Ivan. He pulled a small black semi-automatic from his pocket, and pressed it to Danny’s chest. Danny felt his heart beat against the barrel. The mercenary slowly walked Danny down the steps of the sunken living room, where Danny found himself surrounded by Ivan’s men. The video game on the large television was paused &mdash; and while the digital images of gunmen stood frozen on the screen, real ones pointed their weapons at him from all directions.
 </p>
 <p>
 In the Bluetooth earpiece, Mike said, “Danny! Danny, what’s happening?”
@@ -1055,25 +974,25 @@ Ivan hissed at him, “Do you thinking we are amateurs?”
 “A video camera bug in a air vent,” Ivan scoffed. “Is insult to the intelligence.”
 </p>
 <p>
-Danny squared his shoulders. With a sudden bravado, he said forcefully, “I’m only here for the girl. Hand her over and no harm will come to you.”
+Danny squared his shoulders. He gulped hard, knowing that a convincing feint of bravado would be his only chance of survival. “I’m only here for the girl,” he said with as much strength as he could conjure. “Hand her over and no harm will come to you.”
 </p>
 <p>
 Ivan burst out laughing. “No harm come to me?” The mercenaries joined Ivan in laughter.
 </p>
 <p>
-In the earpiece, Danny heard his team panicking. “Bail him out! Bail him out right now!” said Mike. Sergey replied, “We are not anywhere nearby. Eugene is needing time to get into position.”
+In the earpiece, Danny heard his team panicking. “Sergey! Bail him out! Bail him out right now!” said Mike. Sergey replied, “We are not anywhere nearby. Eugene is needing time to get into position. He must stall.”
 </p>
 <p>
-Danny looked Ivan in the eye and stood his ground. “We’re willing to negotiate.”
+Danny stood his ground before Ivan, and said, “We’re willing to negotiate.”
 </p>
 <p>
-Still chuckling, Ivan said, “Yes, I sure you are. You working for Sergey. I know this already. It is surprising, really. This…” He gestured with the cellphone. “This not style of Sergey. Sergey, he more like, ‘Rahhhh! March! Go!’ Punch, kick, boom boom boom. You understand? This, this is more thinking, more like the chess. Sergey was never man for the chess before. Not man for the poker, either. He more like man for, um, for the boxing, yes? For the wrestling. Maybe he learning something as he getting older. Is too bad having to end working together like this.”
+Still chuckling, Ivan said, “Yes, I sure you are. You working for Sergey. I know this already. It is surprising, really. This…” He gestured with the spycam. “This not style of Sergey. Sergey, he more like, ‘Rahhhh! March! Go!’ Punch, kick, boom boom boom. You understand? This, this is more thinking, more like the chess. Sergey was never man for the chess before. Not man for the poker, either. He more like man for, um, for the boxing, yes? For the wrestling. Maybe he learning something as he getting older. Is too bad having to end working together like this.”
 </p>
 <p>
-The Bluetooth headset buzzed with the voices of Danny’s cohorts. “We can’t just sit here! They’re going to shoot him in there!” Tina insisted. Mike replied, “There’s only one thing we can do. Satish! Roger! Have we finished isolating the X10 controllers?”
+The Bluetooth headset buzzed with the voices of Danny’s cohorts. “We can’t just sit here! They’re going to shoot him in there!” Tina insisted. Mike replied, “There’s only one thing we can do. Satish! Moshen! Have we finished isolating the X10 controllers?”
 </p>
 <p>
-With the gun still pressed to his chest, Danny said to Ivan, “So, are you ready to start making a deal?”
+Danny knew what his team was trying to do. With the gun still pressed to his chest, Danny mumbled, “I didn’t intend to be in the room for this. But I guess it doesn’t matter right now, does it?” He looked at Ivan defiantly and said, “So, are you ready to start making a deal?”
 </p>
 <p>
 Ivan smirked. “<em>Deal</em>? Here making ‘deal’. We killing you soon, but not right now. First we having with you a little ‘conversation’. This man here, he is expert at having ‘conversations’ like this.” Ivan gestured to the lithe man holding the gun at Danny’s ribs. The man gave a shark-like grin and grunted happily. “You will telling us everything about where is Sergey and how you working with him. Then, when you done telling us, we finally letting you die. That is ‘deal’, understand?”

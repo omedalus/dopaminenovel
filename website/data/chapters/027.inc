@@ -108,7 +108,7 @@ Mike was the first to respond. “I’m ready to start poking through their netw
 “Thank you, Mike,” Danny said. “Are you sure you’re feeling up for this?”
 </p>
 <p>
-Mike nodded his large furry head. “What else am I going to do, just lie here? They want to hold me for two days for monitoring. Do you have any idea how boring it is to be stuck in a hospital bed?”
+Mike nodded his large furry head. “What else am I going to do, just lie here? They want to hold me for two more days for monitoring. Do you have any idea how boring it is to be stuck in a hospital bed?”
 </p>
 <p>
 Moshen’s voice chimed in over the conference call. “ ‘Nat-Nat’? You call her ‘Nat-Nat’? What does she call you? ‘Snugglewumpus’?”
@@ -117,13 +117,7 @@ Moshen’s voice chimed in over the conference call. “ ‘Nat-Nat’? You call
 Natalie giggled. “Oooh! Snugglewumpus! I like that one! My Snugglewumpus…”
 </p>
 <p>
-Mike cooed back, “I could see myself as your Snugglewumpus…”
-</p>
-<p>
-Moshen replied with a throaty, “Ewwwwwww…” so heartfelt that his icon almost looked like it cringed.
-</p>
-<p>
-Mike and Natalie ignored him and started making out on camera.
+Mike cooed back, “I could see myself as your Snugglewumpus!” The two of them started making out on camera.
 </p>
 <p>
 Danny grabbed a mouse on the lacquered table and hid their window. “Satish. Speaking of that back door, how’s our trojan coming?”
@@ -138,13 +132,7 @@ Danny checked his DropBox account on one of the laptops on the table. A new exec
 “It still needs to be delivered by hand, Danny,” Satish warned. “Physically. You know what that means.”
 </p>
 <p>
-Danny nodded, and plugged his data stick into the USB port of the laptop. “It means,” he said while copying files, “that I’m going to be checking out the Gallante’s fine dining establishments.”
-</p>
-<p>
-“Exactly,” said Satish.
-</p>
-<p>
-With the files transferred to his data stick, Danny turned his attention to the small motionless icon. “Moshen, what about you? What's your status?”
+Danny nodded, and plugged his data stick into the USB port of the laptop. “It means,” he said while copying files, “that I’m going to be checking out the Gallante’s fine dining establishments.” With the files transferred to his data stick, Danny turned his attention to the small motionless icon. “Moshen, what about you? What's your status?”
 </p>
 <p>
 Moshen’s disembodied voice replied, “I’m parked on some random side-street about five miles away.”
@@ -165,73 +153,16 @@ On a tree-lined residential road somewhere in Seattle’s eastern suburbs, a box
 “Because,” said Danny. “When you enter Medina, you <em>will</em> be pulled over. It’s guaranteed. And the less facetime that Sergey or his crew have with the cops, the better.”
 </p>
 <p>
-Danny switched his focus to Tina. Her dark hair framed her face in the corner of the screen. Her small, discrete nose stud glinted in the light of his kitchen. Dance music played indistinctly in the background. “Tina. Status?”
+Danny switched his focus to Tina. Her dark hair framed her face as she looked downward, tinkering with objects offscreen. Her small nose stud glinted in the light of his kitchen. “Tina. Status?”
 </p>
 <p>
-She replied with an eager, energized smile. “Production and distribution are going according to plan, Danny. I’m finishing the last batch right now.”
+She replied with a tired half-smile, “I’ve been Betty Crockering all day. FYI, I’d never eat in this house ever again if I were you.”
 </p>
 <p>
-Danny nodded. “Excellent. You found someone to make the rounds?”
+“I have a job for you during this operation,” Danny said. “It’s a job you’re best prepared for out of all of us, and it’s critical to the mission’s success.”
 </p>
 <p>
-Tina looked away awkwardly. “Yeah.” Her smile suddenly looked a little forced.
-</p>
-<p>
-“Now, this friend of yours,” Danny continued, “is coming by motorcycle, right? That’s critical. ‘Cuz, remember, every street in Medina has cameras hooked to automated image recognition software. This evening I hopped onto the ACM Digital Library and looked up the research papers that the image recognition algorithms are based on, and it turns out they have a couple of known failure modes. If you’re on a motorcycle, and your license plate isn’t immediately visible, then the software will mistake it for a bicycle. So tell your friend to keep his plate covered all the way through Medina, alright?”
-</p>
-<p>
-Tina’s eyes tracked something in Danny’s living room, outside the view of the camera. “Uh-huh…,” she said woodenly. “No problem.”
-</p>
-<p>
-Danny finally noticed something amiss with her expression. He listened carefully to the dance music in the background. He heard soft thumping accompanying the beats. He cranked up the volume. From somewhere beyond the camera’s view, a dance song finished. The voice of an early twentysomething man called out, “Bam! Nailed it! Yo T, come over here and check out my score!”
-</p>
-<p>
-Danny raised an eyebrow. “Um, Tina...? Is there a dance party at my place that I wasn’t invited to?”
-</p>
-<p>
-Tina answered sheepishly, “That’s just my, um, friend.”
-</p>
-<p>
-The young man’s voice howled, “Oh shit! T, is that him? Is that the guy?”
-</p>
-<p>
-Footsteps scrambled. The remote laptop got picked up and swiveled. Tina’s face was replaced by a young man with spiky hair and narrow glasses. Danny recognized him from the Facebook profile back at the B&amp;O Espresso. It was rot13er &mdash; Roger Tanner, Tungsten’s system administrator. “Dude!” he said. “You’re the guy who broke my network!”
-</p>
-<p>
-“Dude,” Danny echoed back flatly. “You’re the guy who had a set of machines with known WEP vulnerabilities and didn’t think to isolate them on a firewalled subnet.”
-</p>
-<p>
-“Yeah yeah, whatever,” said Roger. “Tell you what: how about you teach me how to make an EMP zap-gun like you’ve got and we’ll call it even?”
-</p>
-<p>
-Tina said insistently, “Roger, now is not the time to be a dick.”
-</p>
-<p>
-Roger replied breezily, “Give me a break, T. This guy wants me to ride through a neighborhood crawling with po-po, carrying enough goodies to put me away for so long that, by the time I get out, I’ll be, like, his age. Why the fuck should I stick my neck out for him?”
-</p>
-<p>
-In a voice cold but confident, Tina answered, “Because, Roger. You’re the one that tracked Danny down and gave his info to Drippy. You’re the reason Sergey found us here. You’re why we’re in this whole new level of mess right now.”
-</p>
-<p>
-Roger held up his palms defensively. “Hey! I was just trying to solve the break-in, alright? I didn’t realize at the time that he’s, like, your new boyfriend or whatever. How the hell was I supposed to know?”
-</p>
-<p>
-“You weren’t, and nobody faults you for it,” Tina said with diplomatic steadiness. “But, Roger, most people &mdash; you know, ones who <em>aren’t</em> narcissistic pieces of shit &mdash; would nonetheless still feel a little guilty. Now, I realize your ‘factory setting’ is to believe you’re the center of the universe and can do no wrong. But if there’s any part of you that is even dimly aware of the fact that there are other human beings in this world and that your actions affect them, then you’ll stop being such a snot and do what you can to set things right.”
-</p>
-<p>
-For several seconds, Roger merely scowled. Finally, he let out a sigh and zipped his riding jacket up to the neck. “Just give me the package, T,” he mumbled grudgingly.
-</p>
-<p>
-The camera image was momentarily taken up by a Pyrex bowl, sealed with a lid. Though its transparent surface was dirty with water stains and encrusted powder, faint bits of glassware could be seen inside. The bowl passed from Tina’s black-manicured hands to Roger’s riding-gloved ones. The sound of boots across hardwood floors and the opening and closing of a house door marked Roger’s departure. 
-</p>
-<p>
-Tina’s face reappeared on the screen. 
-</p>
-<p>
-“Tina, I have a job for you during this operation,” Danny said. “It’s a job you’re best prepared for out of all of us, and it’s critical to the mission’s success.”
-</p>
-<p>
-“Sure, what do you need?” she replied.
+“As long as it gets me out of the kitchen,” she replied. “What do you need?”
 </p>
 <p>
 “You’re not going to like it.” He hesitated for a few moments.
@@ -261,10 +192,16 @@ Danny replied, “Communications officer.”
 “…You’ll be answering phones,” Danny said.
 </p>
 <p>
-She stared at him with a gaze so cold that her image almost began frosting the screen. “I hate you so much right now,” she said.
+She glared at him with a gaze so cold that her image almost began frosting the screen.
 </p>
 <p>
-He looked away meekly. “I… I know…”
+“…You know, because… Your day job…” Danny stammered.
+</p>
+<p>
+“I hate you so much right now,” she said.
+</p>
+<p>
+He looked away sheepishly. “I… I know…”
 </p>
 <p>
 Without warning, the low rumble of the yacht’s engines cut out. Footsteps sounded from above. Through the portholes, Danny could see Jason walking along the deck, dragging ropes to secure the yacht to the dock.

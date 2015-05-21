@@ -117,9 +117,6 @@ Beside each message, the device displayed familiar faces.
 “<span class="computer">Sure!</span>” Moshen replied. “<span class="computer">See you there.</span>” Moshen still made a decent living with his web design work. He couldn’t rightly be thought of as a “kid” anymore; he was married now, and would soon probably have kids of his own. In his spare time, he penned a popular online comic. It was about kung fu.
 </p>
 <p>
-“<span class="computer">Ok.</span>” That was the entirety of the response from Roger. He was still a narcissistic dickhead, but he’d maintained a genuine friendship with Tina over the years, and had at times proven himself capable of surprising loyalty. He was now the age Daniel had been when they’d first met. He was working as the lead developer at a tech startup; his career had largely consisted of a long chain of short-lived dot-coms, each one getting outpaced by new technologies. He had a certain air of melancholy detachment, and in rare candid moments spoke about feeling obsolete and useless. Danny offered his own mentorship, but he knew that coming to terms with it was ultimately something Roger had to do for himself.
-</p>
-<p>
 Finally, Danny found the litany of texts from Rosie.
 </p>
 <p>

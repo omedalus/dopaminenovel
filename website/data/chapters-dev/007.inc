@@ -254,158 +254,76 @@
 <div class="message messageout">
   I don't know how to break this curse.
 </div>
-
-<div class="message messagein">
-  why don’t u do something about it t?
-</div>
-<div class="message messagein">
-  get yourself onto a research project maybe?
-</div>
-
 <div class="message messageout">
-  You mean like the one where Drippy saws my head open and sticks probes in my brain? 
-</div>
-<div class="message messageout">
-  They don’t take me seriously enough here to even consider the possibility of me doing real research.
+  Dammit Nat. Hold on. Something weird.
 </div>
 
 <div class="message messagein">
-  well, t, from their point of view, why should they?
-</div>
-<div class="message messagein">
-  you are their office admin. that’s your role. you play it willingly. they have no reason to think of you as anything else.
-</div>
-<div class="message messagein">
-  they don’t see inside you. they don’t know what your capable of. all they see is a receptionist. 
-</div>
-<div class="message messagein">
-  they won’t give you a chance because you haven’t shown what you can do, and you haven’t shown what you can do because they haven’t given you a chance to.
+  ??
 </div>
 
 <div class="message messageout">
-  Yep. FML.
+  brb
+</div>
+<div class="message messageout">
+  Ok back.
+</div>
+<div class="message messageout">
+  I'm NOT losing it. The cameras ARE fucked up.
 </div>
 
 <div class="message messagein">
-  dont you see? it's a spell.
+  whats going on t?
 </div>
 
 <div class="message messageout">
-  It’s a freakin curse.
-</div>
-
-<div class="message messagein">
-  you have to break it, t.
-</div>
-
-<div class="message messageout">
-  Yeah I know. I just wish I could prove myself to them.
-</div>
-
-<div class="message messagein">
-  start by proving yourself to yourself.
-</div>
-
-<div class="message messageout">
-  You say that like it’s so easy. Like my life is just full of opportunities to
+  I heard the camera making motor noises. So I look at it, and I see it's turning around back and forth going all crazy inside its little dome thingie.
 </div>
 <div class="message messageout">
-  actually
+  I drag my chair over and stand on it and give the dome a whack, and it stops.
 </div>
 <div class="message messageout">
-  heh...
+  But I can see through the glass wall into the main hallway. And there's a couple more cameras in the hallway, and one of them is just past the lobby doors, just a couple yards away. And while I'm standing on my chair, I can see that THAT one is doing it too.
+</div>
+<div class="message messageout">
+  So I go into the hall and find another chair and drag it over and whack THAT camera too. BUT.
+</div>
+<div class="message messageout">
+  While I'm dragging the chair over, I can see that the camera at the OTHER end of the hall is ALSO going nuts.
+</div>
+<div class="message messageout">
+  Nat.
+</div>
+<div class="message messageout">
+  EVERY CAMERA IN THE BUILDING IS SPINNING AROUND.
 </div>
 
 <div class="message messagein">
-  ?
+  that aint right.
 </div>
 
 <div class="message messageout">
-  You remember that slutty intern I’ve complained about? 
-</div>
-<div class="message messageout">
-  She disappeared a few days ago.
-</div>
-<div class="message messageout">
-  I spent all afternoon trying to track her down. Nobody’s heard anything from her.
-</div>
-<div class="message messageout">
-  She totally fubarred some super-important assignment, and Drippy’s freaking out about it.
-</div>
-<div class="message messageout">
-  It’s kindasorta why I’m stuck here tonight in the first place. To handle her firing paperwork.
-</div>
-<div class="message messageout">
-  But...
-</div>
-<div class="message messageout">
-  Wouldn’t it be awesome if I single-handedly retraced her steps and set everything right? 
-</div>
-<div class="message messageout">
-  It’d be like, whoa! Christina Giordano! By day: abused office admin. By night: Molecular biologist slash superhero!
-</div>
-<div class="message messageout">
-  Tun tata tuuuuuun!
+  I KNOW RIGHT!?
 </div>
 
 <div class="message messagein">
-  what kind of assignment is it?
+  they ever do this before?
 </div>
 
 <div class="message messageout">
-  Don’t know. Drippy didn’t say. But I bet I can find out. I’m sure her desk is full of all sorts of interesting info.
-</div>
-
-<div class="message messagein">
-  her desk? do u have access to it?
-</div>
-<div class="message messagein">
-  would anyone notice if you poked thru it?
-</div>
-
-<div class="message messageout">
-  I can get to her desk no problem. It’s in the big open office bullpen area.
+  No!
 </div>
 <div class="message messageout">
-  Nobody would notice. I’m alone here tonight.
+  I don't know what's going on.
 </div>
 <div class="message messageout">
-  There’s cameras everywhere, but Drippy told me to track her down at all costs, so I have a perfectly good reason to dig through her desk. 
-</div>
-
-<div class="message messagein">
-  so i don’t get why you haven’t already gone and done it.
-</div>
-
-<div class="message messageout">
-  Oh shit.
+  All I know is, when I whack them, it seems to fix it.
 </div>
 <div class="message messageout">
-  You think I should? Really?
+  I better go around to the rest of the cameras and take care of it.
 </div>
-
-<div class="message messagein">
-  t, for fucks sake stop talking to me and go show them what you’re made of! :)
-</div>
-
 <div class="message messageout">
-  Right now? For real?
-</div>
-
-<div class="message messagein">
-  YES
-</div>
-<div class="message messagein">
-  t?
-</div>
-<div class="message messagein">
-  hello? u there?
-</div>
-<div class="message messagein">
-  guess not.
-</div>
-<div class="message messagein">
-  atta girl.
+  Nat, I'll catch you later.
 </div>
 
 </div>

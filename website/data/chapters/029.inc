@@ -6,13 +6,7 @@
 Danny chuckled.
 </p>
 <p>
-Ivan gave a quick command to the man pressing the gun into Danny’s ribs. In a rapid strike, the sinewy, shark-toothed soldier bashed the butt of his handgun against the side of Danny’s head. The blow sent Danny reeling sideways, momentarily rendering him too dizzy to see straight. The toolbox rattled in his grasp as he struggled to stay on his feet.
-</p>
-<p>
-But though he stumbled, he did not fall. And though his brain felt like it jostled within his skull and the side of his face felt warm and sticky with a trickle of blood, he did not scream.
-</p>
-<p>
-Instead, he simply kept chuckling.
+Ivan gave a quick command to the man pressing the gun into Danny’s ribs. In a rapid strike, the sinewy, shark-toothed soldier bashed the butt of his handgun against the side of Danny’s head. The blow sent Danny reeling sideways, momentarily rendering him too dizzy to see straight. The toolbox rattled in his grasp as he struggled to stay on his feet. But though he stumbled, he did not fall. And though his brain felt like it jostled within his skull and the side of his face felt warm and sticky with a trickle of blood, he did not scream.
 </p>
 <p>
 Ivan stepped toward him and leaned into his face. “You think you funny man, huh?”
@@ -21,14 +15,13 @@ Ivan stepped toward him and leaned into his face. “You think you funny man, hu
 “I think the joke’s on you,” Danny replied.
 </p>
 <p>
-
-Ivan snorted at him derisively. “Who are you? You are some kind of computer hacker man? You make trick with Interpol investigation on telephone, yes? It was something to do with you, I know. You think you so smart and sneaky, don’t you?”
+Ivan snorted. “Who are you? You are some kind of computer hacker man? You make trick with Interpol investigation on telephone, yes? It was something to do with you, I know. You think you so smart and sneaky, don’t you?”
 </p>
 <p>
 Danny shook his head in condescending pity. “You have no idea what you’re up against.”
 </p>
 <p>
-“You acting very brave, is taking big balls for such weak man in such unfortunate position,” Ivan leered into his face. “But I not afraid of you or your little tricks.”
+“You acting very brave, is taking big balls for such weak man,” Ivan leered into his face. “But I not afraid of you or your little tricks.”
 </p>
 <p>
 Danny kept eye contact with him and said, in a voice cold as steel, “You should be.”
@@ -139,38 +132,35 @@ The screen filled with a collage of images: a printing press, a flint-lock firea
 On the television screen, the collage of inventions dimmed away.
 </p>
 <p>
-In its place appeared a YouTube video page. The frame showed the t-shirted torso of a young man sitting at a desk in a dark room, with a laptop on one side and a metal bucket on the other. His face was hidden behind a pale mask bearing the smug, self-satisfied countenance of Guy Fawkes, the subversive mascot of the Anonymous hacker collective. The video’s uploader handle identified him as “<span class="computer">grieferator</span>”. The video’s title, “<span class="computer">Got a present from rot13er!</span>,” stretched across the top of the screen.
+In its place appeared a YouTube video page. The frame showed the t-shirted torso of a young man sitting at a desk in a dark room, with a laptop on one side and a metal bucket on the other. His face was hidden behind a pale mask bearing the smug, self-satisfied countenance of Guy Fawkes, the subversive mascot of the Anonymous hacker collective. The video’s uploader handle identified him as “<span class="computer">Majestic Madness</span>”. The video’s title, “<span class="computer">Got a present from a stranger!</span>,” stretched across the top of the screen.
 </p>
 <p>
-“So, check this crazy shit,” he said from behind the mustachioed mask. His energetic voice sounded in its late teens or early twenties. “My man rot13er dropped by this afternoon. He came over, said he’s making some deliveries, wants to spread some goodies around, right? So we hang out a little, drink a beer, talk about girls. You know, whatever. And then he pulls out this…”
+“So, check this crazy shit,” he said from behind the mustachioed mask. His energetic voice sounded in its late teens or early twenties. “There’s this dude I know from the Maker meetup group. Older dude, like around 40. He DMed me this afternoon. He goes, ‘Let’s meet in private. There’s a message I need to get out.’ And at first I’m like, ‘Man, we’re not friends. We just see each other around. Stop being weird.’ But then he gets all real with me and says, ‘I know you’re with Anon. And what I’ve got is going to be relevant to your interests.’ So I’m like, alright, you’ve got my attention, I’ll take a chance. I invite him down to my lair. Well, he shows up like ten minutes later, together with a girl. And they bring <em>this</em>…”
 </p>
 <p>
 The Fawkes-faced young man held up a goo-filled Eppendorf vial in front of the camera, making it fill the entire frame before putting it back down.
 </p>
 <p>
-“So, obviously I’m like, ‘What’s that?’ He says, ‘It’s the next logical step for hackers. Hacking <em>computers</em> is retro. This is <em>bio</em>-hacking. This is hacking DNA.’ Well, at this point he’s got my attention, right? Turns out, the stuff in this tube is alive. It’s a micro-organism. Bacteria. And he gives me super detailed step-by-step instructions for how to grow it &mdash; like sea monkeys, kinda. He walks me through it. Says some girl from work taught him all about it. So we whip up a batch &mdash; it’s right here…” The pointy visage of Guy Fawkes gestured toward the bucket to his side. “…and he gives me a bunch of empty test tubes just like this and says, ‘Spread this stuff out to as many people as you possibly can, and do it <em>fast</em>.’ And I’m like, ‘Sure, man, rot13er. For you, no problem. But, like, what the hell is this stuff?
-</p>
-<p>
-Why’s it so important?’ And he points to the bucket and reaches into his bag and he says, ‘This… makes this…’”
+“So, obviously I’m like, ‘What’s that?’ He says, ‘It’s the next logical step for hackers. Hacking <em>computers</em> is retro. This is <em>bio</em>-hacking. This is hacking DNA.’ Turns out, the stuff in this tube is alive. It’s a micro-organism. Bacteria. And the girl gives me super detailed step-by-step instructions for how to grow it &mdash; like sea monkeys, kinda. She walks me through it. So we whip up a batch &mdash; it’s right here…” The pointy visage of Guy Fawkes gestured toward the bucket to his side. “…and he gives me a bunch of empty test tubes just like this and says, ‘Spread this stuff out to as many people as you possibly can, and do it <em>fast</em>.’ And I’m like, ‘What the hell is this stuff? Why’s it so important?’ So, he says nothing, he reaches into his bag, and he pulls out…”
 </p>
 <p>
 The young man suddenly threw onto the desk a cellophane-wrapped brick of white powder.
 </p>
 <p>
-“Now, that, ladies and gentlemen, is exactly what it looks like. And rot13er had like a dozen of them. That’s right, folks. This little tube of snot right here literally makes coke by the kilo.
+“Now, that, ladies and gentlemen, is exactly what it looks like. And this dude had like a dozen of them. That’s right, folks. This little tube of snot right here literally makes coke by the kilo.
 </p>
 <p>
 “This is a straight-up game-changer, folks. You’re witnessing drug history in the making. This goop here turns the entire cocaine industry into a do-it-yourself project. Raising this stuff is so simple it’s sick. It’s easier than cooking your own meth. It’s easier than growing your own pot. It’s easier than brewing your own beer. And the results are so fucking good, you’d have to have your own island in Latin America to get anything even close.
 </p>
 <p>
-“So, I’m calling out all my bros and sisters in the 206. rot13er wants this spread far and wide, and I couldn’t agree more. Get your butts over here to Casa Majestic. I’ll give you your own vial and show you what’s what. rot13er gave it to me, now I’m gonna give it to you. And then tomorrow you guys give it to others. And they’ll give it to others too. This shit’s about to go viral &mdash; pun intended. Even if you don’t indulge in the white stuff yourself, getting in on action like this is too good an opportunity to miss. The revolution’s already started, it’s up to you to be part of it. See you soon, guys. This is Majestic Madness, over and out.”
+“So, I’m calling out all my bros and sisters in the 206. This dude wants this spread far and wide, and I couldn’t agree more. Get your butts over here to Casa Majestic. I’ll give you your own vial and show you what’s what. This dude gave it to me, now I’m gonna give it to you. And then tomorrow you guys give it to others. And they’ll give it to others too. This shit’s about to go viral &mdash; pun intended. Even if you don’t indulge in the white stuff yourself, getting in on action like this is too good an opportunity to miss. The revolution’s already started, it’s up to you to be part of it. See you soon, guys. This is Majestic Madness, over and out.”
 </p>
 <p>
 Underneath the video, the comments section of the page was abuzz with activity. The video had only been up for a few hours, and the comment count was already well into the quadruple digits.
 </p>
 
 <div class="computer email">
-@irsi_isund fool, I got the whole PiMPHaxx crew at my house right now. we'll know by morning. come on over see for yurself, send me ur cell # and wel'll meet f2f. don't blame you for being skepticle, but this is the real deal.<br/>
+@irsi_isund fool, I got the whole PiMPHaxx crew at my house right now. we'll know by morning. come on over see for yurself, send me ur cell # and wel'll meet f2f. don't blame you for being skeptic, but this is the real deal.<br/>
 <strong>majesticmadness 8 minutes ago</strong><br/>
 <br/>
 HOLY SHIT NEAT!<br/>
@@ -1105,10 +1095,10 @@ Into the headset, he said, “Jason. The whole lake is going to be swarming with
 Jason paused for a moment. “What about you, Danny? And, uh, not that I care, but what about Sergey?”
 </p>
 <p>
-“Set a course for the Kirkland Marina, Jason. It’s only a few miles away. We’ll get there on foot.”
+“Set course for the Kirkland Marina, Jason. It’s only a few miles away. We’ll get there on foot.”
 </p>
 <p>
-A stiff wind began to blow through the room. Air rushed in from the balcony doorway. On the deck outside, brass shell casings clinked in a downdraft. The helicopter roared somewhere high overhead.
+A stiff wind began to blow through the room. Air rushed in from the balcony doorway. On the deck outside, brass shell casings clinked in a downdraft. The helicopter thumped somewhere high overhead.
 </p>
 <p>
 Tina’s voice said, “Danny… What do you think you’re doing?”

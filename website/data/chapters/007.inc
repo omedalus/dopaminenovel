@@ -91,9 +91,6 @@
   hmm. t, you know ur never supposed to succumb to anger. Remember all energy u put out comes back to u threefold. Which is why ur stuck at work late tonight. 
 </div>  
 <div class="message messagein">
-  the Rule Of Three is a core wiccan tenet. u shudnt trifle with stuff like that.
-</div>
-<div class="message messagein">
   but just between u and me... 
 </div>
 <div class="message messagein">
@@ -101,7 +98,7 @@
 </div>
 
 <div class="message messageout">
-  I’m pretty sure I’m stuck here late not because of mystical energy but because of the security cameras...
+  I’m pretty sure I’m stuck here late not because of Wiccan mysticism but because of the security cameras
 </div>
 <div class="message messageout">
   ohshit! Shitshitshit!
@@ -110,7 +107,7 @@
   I swear I just heard one move. 
 </div>
 <div class="message messageout">
-  I think it’s pointed at me. It’s in a black glass dome on the ceiling but you can kinda see the lens if you look real hard.
+  I think it’s pointed at me. It’s in a black glass dome on the ceiling but you can kinda see it when it turns.
 </div>
 <div class="message messageout">
   I think it’s checking out my boobs.
@@ -123,13 +120,13 @@
   yes. :)
 </div>
 <div class="message messagein">
-  anyway, im serious about the Rule of Three, t. I know u dont believe in it, but you really are shaped by the energy you put out. I see it work all the time.
+  im serious about the Rule of Three, t. I know u dont believe in it, but I see it work all the time.
 </div>
 <div class="message messagein">
-  for example. i have this one patient whos seeing me for ptsd. 
+  for example. I have this one patient whos seeing me for ptsd. 
 </div>
 <div class="message messagein">
-  his last doc had him on luvox, but it made him nauseous and dizzy. so he switched to lexapro, which he didnt respond to. then they tried klonopin, but he got suicidally depressed.
+  his last doc had him on luvox, but it made him nauseous. So he switched to lexapro, which he didnt respond to. Then they tried klonopin, but he got suicidally depressed.
 </div>
 <div class="message messagein">
   so when i got him, you know what i gave him?
@@ -157,7 +154,7 @@
 </div>
 
 <div class="message messagein">
-  yes! a protection charm. for courage when confronted by evil spirits.
+  yes! for courage.
 </div>
 <div class="message messagein">
   i told him to wear the bracelet all day, and i taught him a spell to recite whenever he feels his anxiety coming back.
@@ -171,27 +168,24 @@
 </div>
 
 <div class="message messagein">
-   not really :)
+  not really :)
 </div>
 <div class="message messagein">
   but it helped him a lot.
 </div>
 
 <div class="message messageout">
-  ”Dear Swedish Medical Center Ethics Committee. My treatment methodology involved a magic bracelet...” ;)
+  "Dear Swedish Medical Center Ethics Committee. My treatment methodology involved a magickal bracelet..."
 </div>
 
 <div class="message messagein">
-  you think THATs the strangest thing theyve heard? :)
+  you think THATS the strangest thing theyve heard? :)
 </div>
 <div class="message messagein">
-  anyway, the magick comes not from the bracelet, but from the mind of the wearer. the mullein merely acts as a focal point for the wearer to channel their own innate capacity for self-healing.
+  anyway, the magick comes not from the bracelet, but from the mind of the wearer. the mullein is just a lens for the wearer to focus their own innate power for self-healing.
 </div>
 <div class="message messagein">
-  part of the healing ritual involves making sure that the beneficiary KNOWS its a healing ritual.
-</div>
-<div class="message messagein">
-  if it helps to understand it, you can think of it as the placebo effect. but the very fact that the placebo effect even works at all, ever, is sort of my entire point.
+  think of the placebo effect. Its "imaginary" but the results are real.
 </div>
 
 <div class="message messageout">
@@ -199,10 +193,10 @@
 </div>
 
 <div class="message messagein">
-  or self-fulfilling prophecy. call it what you will. either way, it really works.
+  or self-fulfilling prophecy. call it what you will.
 </div>
 <div class="message messagein">
-  its the process of taking something in your mind, that you imagine, and using the power of your mind to manifest your imagination in the real world.
+  its taking something in your mind, that you imagine, and making your imagination manifest in the real world.
 </div>
 <div class="message messagein">
   and THAT, dear t, is magick. ;)
@@ -215,10 +209,10 @@
   So then, O Wizened Witch-Woman.
 </div>
 <div class="message messageout">
-  What kind of magick can I use to improve this total shit-show of a situation I’ve got here?
+  What kind of magick can I use to improve this total shit-show I’ve got here?
 </div>
 <div class="message messageout">
-  I mean, right now, here’s the potion for my life: take one part romantic failure, two parts professional failure, stir them in a crucible made of tungsten, and choke it down when it’s cold and bitter.
+  I mean, here’s the potion for my life right now: take one part romantic failure, two parts professional failure, stir them in a crucible made of tungsten, and choke it down when it’s cold and bitter.
 </div>
 
 <div class="message messagein">
@@ -227,35 +221,38 @@
 <div class="message messagein">
   sorry things suck for you so much right now, t
 </div>
-<div class="message messagein">
-  for what its worth, u should know that you are fortunate in that your trap is of your own creation. i say that not to assign you guilt or blame but to remind you that you have the power to dismantle it.
-</div>
-<div class="message messagein">
-  for example, when it comes to dating, you can learn to recognize loser manchild jerks and stop wasting time on them. you need to find someone a little more mature 
-</div>
 
 <div class="message messageout">
-  Got anyone in mind? 
+  Got a prescription for me, maybe?
 </div>
 
 <div class="message messagein">
-  how about one of the scientists? 
+  u already know what i think.
+</div>
+<div class="message messagein">
+  hook up with one of the scientists to make roger jealous :P
 </div>
 
 <div class="message messageout">
   How about no more dating guys from the office? 
 </div>
 <div class="message messageout">
-  Besides, they’re all dipshits. Everybody here sucks. I get zero respect here. ZERO. 
+  They’re all dipshits. Everybody here sucks. I get zero respect here. ZERO. 
 </div>
 <div class="message messageout">
-  I try to talk shop with the scientists sometimes, and they just humor me. Like, “Aww how cute! The Xerox girl is trying to use big words!”
+  I try to talk shop with the lab monkeys sometimes, and they just humor me. Like, “Aww how cute! The Xerox girl is trying to use big words!”
 </div>
 <div class="message messageout">
-  Fuck, they don’t know me! They don’t know that I know this shit. They don't know I was on track to be one of them back in college, before by dad got sick and I had to go help my mom take care of him.
+  Fuck, they don’t know me! They don’t know that I know this shit. They don't know I was on track to be one of them back in college, before by dad got sick.
 </div>
 <div class="message messageout">
-  They never even fucking ask.
+  They never even think to ask.
+</div>
+<div class="message messageout">
+  And I don't know how I can convince them.
+</div>
+<div class="message messageout">
+  I don't know how to break this curse.
 </div>
 
 <div class="message messagein">

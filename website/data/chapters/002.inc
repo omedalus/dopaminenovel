@@ -21,7 +21,7 @@ One attendee actually <em>was</em> wearing a concert T-shirt under his suit jack
 There was no microphone in Danny’s hand, only a laser pointer. No spotlight, only a high-resolution projector. No hit rock song, only a PowerPoint presentation describing a 4G cellular multiplexing algorithm by Claymore Communications.
 </p>
 <p>
-Danny’s boss, Brent Thurston, stepped deftly to the center of the room. “Folks, I just want to say, before we move on, that Danny and I really appreciate this opportunity to present our technology to you. It’s great to see Claymore’s financial contributors showing a genuine interest in the technical aspects of the company.” 
+Danny’s boss, Brent Thurston, stepped deftly to the center of the room. “That’ll conclude the technical portion of this meeting. And folks, I just want to say before we move on, that Danny and I really appreciate this opportunity to present this work to you. It’s great to see Claymore’s financial contributors showing a genuine interest in the engineering efforts of the company.” 
 </p>
 <p>
 “Oh, our pleasure!” said the man in the Nine Inch Nails T-shirt. “Danny’s presentation was amazing, but what’s even more exciting his technology. What you’ve shown here is an upcoming wireless revolution, and I’m proud to help it come to fruition!” Later that day, NIN Man would buy Claymore Communications with his personal funds, and the company would go public. Danny would cash in his stock options to buy a downtown penthouse, and spend the next several years building Claymore into the world’s premier data systems provider. He would be featured in <em>Time</em> magazine as the face of digital communication in the 21<sup>st</sup> century.

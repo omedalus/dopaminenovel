@@ -249,10 +249,7 @@ The wiry man said nothing. He merely gazed at Danny with a menacing grin.
 Danny returned his stare with one of calm expectancy. With the man’s gun pointed at his chest, Danny spread his arms out and gave a slight shrug. “Well?”
 </p>
 <p>
-The man’s thin brows twitched into a furrow. From somewhere beneath the sadistic grin, the man’s face bore a look of confusion.
-</p>
-<p>
-He didn’t shoot. Instead, he looked quizzically at Ivan.
+The man’s thin brows twitched into a furrow. He looked quizzically at Ivan.
 </p>
 <p>
 Ivan yelled something in Russian at him.
@@ -261,13 +258,10 @@ Ivan yelled something in Russian at him.
 One of the other mercenaries in the room reluctantly spoke up. He said something in a hesitant, cautious tone.
 </p>
 <p>
-Ivan erupted in a torrent of sharp words. He railed at the hesitant speaker and at the other men in the room. His nostrils flared and spittle flew from his lips as he yelled.
+Ivan erupted in a torrent of sharp words. He railed at the hesitant speaker and at the other men in the room. His nostrils flared and spittle flew from his lips.
 </p>
 <p>
-In an instant, by an order from Ivan, a few of the men turned their guns away from Danny. They pointed them instead at the man who had spoken out.
-</p>
-<p>
-Taken by surprise, the man raised his arms and said something quick and apologetic.
+In an instant, by an order from Ivan, a few of the men turned their guns away from Danny. They pointed them instead at the man who had spoken out. Taken by surprise, the man raised his arms and said something quick and apologetic.
 </p>
 <p>
 Another man in the group said something to one of the bodyguards holding their guns on the speaker. The two began to argue. Their guns swung to point at one another.
@@ -276,7 +270,7 @@ Another man in the group said something to one of the bodyguards holding their g
 There was more arguing, more shouting, more tense discussion and hasty negotiation. More guns pivoted away from Danny and turned to bear down on each others’ wielders.
 </p>
 <p>
-Ivan screamed hoarsely to restore order. He was ignored.
+Ivan screamed hoarsely. He was ignored.
 </p>
 <p>
 Outside, beyond the scuffle, the doors to the suite’s balcony hung open. There, amidst the cool night air, a faint hint of motion caught Danny’s attention. In the moonlit darkness, a long, thin black cord of nylon rope dropped onto the balcony floor from somewhere above, so silent and discreet that the arguing mercenaries failed to notice. The outline of a man’s helmeted head, suspended upside down, peeked surreptitiously from the top of the doorway. It slowly descended, followed by the man’s shoulders.
@@ -825,13 +819,7 @@ At some point when Danny felt himself beginning to turn blue, Sergey finally rel
 Danny waved a greeting to the young girl, but met Sergey’s eyes with a look of deep concern. “Sergey, listen… There are cops in the building. They arrested Leo. They’ll be all over the place soon.”
 </p>
 <p>
-Sergey’s expression darkened. “Leo got arrested?”
-</p>
-<p>
-Danny nodded somberly.
-</p>
-<p>
-“Where is Eugene?” asked the Russian. “He is downstairs, yes?”
+Sergey’s expression darkened. “Where is Eugene? He is downstairs, yes?”
 </p>
 <p>
 Danny shook his head. “I didn’t see him. And he’s not responding on his Bluetooth.”

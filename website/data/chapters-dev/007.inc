@@ -33,7 +33,7 @@
 </div>  
 
 <div class="message messageout">
-  No. Haven’t really focused. I made a big mistake called icanhascheezburger. 
+  No. Haven't really focused. I made a big mistake called icanhascheezburger. 
 </div>
 <div class="message messageout">
   And cuteoverload. 
@@ -50,7 +50,7 @@
   Yeah. 
 </div>
 <div class="message messageout">
-  I was like, I don’t waaaaaaaant to print any more forms tonight. I know, I’ll cheer myself up by looking at funny pictures of cats on the internets. OMG KITTIES! 
+  I was like, I don't waaaaaaaant to print any more forms tonight. I know, I'll cheer myself up by looking at funny pictures on the internets. OMG KITTIES! 
 </div>
 <div class="message messageout">
   KITTIES KITTIES EVERYWHERE!
@@ -81,10 +81,7 @@
 </div>  
 
 <div class="message messageout">
-  It was really more a lecture about me behaving myself with Roger. Drippy disapproved of me giving Roger a close look at my iPhone earlier today.
-</div>
-<div class="message messageout">
-  At high velocity.
+  It was really more about me behaving myself with Roger. Drippy disapproved of me giving Roger a close look at my iPhone at high velocity.
 </div>
 
 <div class="message messagein">
@@ -98,7 +95,7 @@
 </div>
 
 <div class="message messageout">
-  I’m pretty sure I’m stuck here late not because of Wiccan mysticism but because of the security cameras
+  I'm pretty sure I'm stuck here late not because of Wiccan mysticism but because of the security cameras
 </div>
 <div class="message messageout">
   ohshit! Shitshitshit!
@@ -107,10 +104,10 @@
   I swear I just heard one move. 
 </div>
 <div class="message messageout">
-  I think it’s pointed at me. It’s in a black glass dome on the ceiling but you can kinda see it when it turns.
+  I think it's pointed at me. It's in a black glass dome on the ceiling but you can kinda see it when it turns.
 </div>
 <div class="message messageout">
-  I think it’s checking out my boobs.
+  I think it's checking out my boobs.
 </div>
 <div class="message messageout">
   Am I losing it?
@@ -129,7 +126,7 @@
   his last doc had him on luvox, but it made him nauseous. So he switched to lexapro, which he didnt respond to. Then they tried klonopin, but he got suicidally depressed.
 </div>
 <div class="message messagein">
-  so when i got him, you know what i gave him?
+  so when they assigned him to me, you know what i gave him?
 </div>
 <div class="message messagein">
   mullein!
@@ -150,7 +147,7 @@
 </div>
 
 <div class="message messageout">
-  Let me guess. It’s a charm, right? 
+  Let me guess. It's a charm, right? 
 </div>
 
 <div class="message messagein">
@@ -175,11 +172,11 @@
 </div>
 
 <div class="message messageout">
-  "Dear Swedish Medical Center Ethics Committee. My treatment methodology involved a magickal bracelet..."
+  "Dear Swedish Medical Center Ethics Committee. My treatment methodology involved a magical bracelet..."
 </div>
 
 <div class="message messagein">
-  you think THATS the strangest thing theyve heard? :)
+  you think THATS the strangest thing theyve ever heard? :)
 </div>
 <div class="message messagein">
   anyway, the magick comes not from the bracelet, but from the mind of the wearer. the mullein is just a lens for the wearer to focus their own innate power for self-healing.
@@ -203,16 +200,53 @@
 </div>
 
 <div class="message messageout">
-  :)
+  Ok, speaking of things you imagine actually being real.
+</div>
+<div class="message messageout">
+  That camera totally moved again.
+</div>
+<div class="message messageout">
+  I swear I'm not seeing things!
+</div>
+
+<div class="message messagein">
+  ok ok i believe u :)
+</div>
+<div class="message messagein">
+  is it unusual? Maybe they adjust themselves at night or something.
+</div>
+
+<div class="message messageout">
+  I... honestly don't know?
+</div>
+<div class="message messageout">
+  I've worked late before but I've never really paid attention.
+</div>
+
+<div class="message messagein">
+  and your paying attention to the camera now
+</div>
+<div class="message messagein">
+  distracting yourself with some totally unimportant unrelated matter
+</div>
+<div class="message messagein">
+  instead of dealing head-on with your real issues at work. 
+</div>
+<div class="message messagein">
+  if you didnt hate it when i analyze you, I MIGHT call this a classic example of deflection... ;)
+</div>
+
+<div class="message messageout">
+  You suck, Nat. :)
 </div>
 <div class="message messageout">
   So then, O Wizened Witch-Woman.
 </div>
 <div class="message messageout">
-  What kind of magick can I use to improve this total shit-show I’ve got here?
+  What kind of magick can I use to improve this total shit-show I've got here?
 </div>
 <div class="message messageout">
-  I mean, here’s the potion for my life right now: take one part romantic failure, two parts professional failure, stir them in a crucible made of tungsten, and choke it down when it’s cold and bitter.
+  I mean, here's the potion for my life right now: take one part romantic failure, two parts professional failure, stir them in a crucible made of tungsten, and choke it down when it's cold and bitter.
 </div>
 
 <div class="message messagein">
@@ -237,13 +271,13 @@
   How about no more dating guys from the office? 
 </div>
 <div class="message messageout">
-  They’re all dipshits. Everybody here sucks. I get zero respect here. ZERO. 
+  They're all dipshits. Everybody here sucks. I get zero respect here. ZERO. 
 </div>
 <div class="message messageout">
   I try to talk shop with the lab monkeys sometimes, and they just humor me. Like, “Aww how cute! The Xerox girl is trying to use big words!”
 </div>
 <div class="message messageout">
-  Fuck, they don’t know me! They don’t know that I know this shit. They don't know I was on track to be one of them back in college, before by dad got sick.
+  Fuck, they don't know me! They don't know that I know this shit. They don't know I was on track to be one of them back in college, before my dad got sick.
 </div>
 <div class="message messageout">
   They never even think to ask.
@@ -252,10 +286,10 @@
   And I don't know how I can convince them.
 </div>
 <div class="message messageout">
-  I don't know how to break this curse.
+  It's like I'm under some sort of hex, and I don't know how to break it.
 </div>
 <div class="message messageout">
-  Dammit Nat. Hold on. Something weird.
+  Dammit Nat. Hold on. Now THIS is weird.
 </div>
 
 <div class="message messagein">
@@ -277,19 +311,19 @@
 </div>
 
 <div class="message messageout">
-  I heard the camera making motor noises. So I look at it, and I see it's turning around back and forth going all crazy inside its little dome thingie.
+  The camera was turning around back and forth going all crazy inside its little dome thingie.
 </div>
 <div class="message messageout">
-  I drag my chair over and stand on it and give the dome a whack, and it stops.
+  I drag my chair over and stand on it and smack the dome, and it stops.
 </div>
 <div class="message messageout">
-  But I can see through the glass wall into the main hallway. And there's a couple more cameras in the hallway, and one of them is just past the lobby doors, just a couple yards away. And while I'm standing on my chair, I can see that THAT one is doing it too.
+  But I can see through the glass wall into the main hallway, there's a couple more cameras in the hallway, and one of them is just past the lobby doors, just a couple yards away. And while I'm standing on my chair, I can see that THAT one is doing it too.
 </div>
 <div class="message messageout">
   So I go into the hall and find another chair and drag it over and whack THAT camera too. BUT.
 </div>
 <div class="message messageout">
-  While I'm dragging the chair over, I can see that the camera at the OTHER end of the hall is ALSO going nuts.
+  While I'm dragging the chair over, I see that the camera at the OTHER end of the hall is ALSO going nuts.
 </div>
 <div class="message messageout">
   Nat.
@@ -299,23 +333,23 @@
 </div>
 
 <div class="message messagein">
-  that aint right.
+  ok, that aint right.
 </div>
 
 <div class="message messageout">
   I KNOW RIGHT!?
 </div>
-
-<div class="message messagein">
-  they ever do this before?
-</div>
-
-<div class="message messageout">
-  No!
-</div>
 <div class="message messageout">
   I don't know what's going on.
 </div>
+<div class="message messageout">
+  It's kinda freaking me out.
+</div>
+
+<div class="message messagein">
+  im sure its just a glitch. 
+</div>
+
 <div class="message messageout">
   All I know is, when I whack them, it seems to fix it.
 </div>

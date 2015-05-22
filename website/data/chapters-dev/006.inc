@@ -6,7 +6,7 @@
 Moshen gave a forceful flick on the touchpad. “Done! And now… we wait!”
 </p>
 <p>
-Danny’s team sat at a cluster of tables at the B&amp;O Espresso, between walls lined with brass clocks and framed vintage posters. The B&amp;O made an ideal base of operations &mdash; it had power outlets, free WiFi access, and a menu of quadruple-shot chocolate lattes. Danny was already sugared and caffeinated to the point of nausea.
+Danny’s team sat at a cluster of tables at the B&amp;O Espresso, between walls lined with brass clocks and framed vintage posters. The B&amp;O made an ideal base of operations &mdash; it had power outlets, free Wi-Fi access, and a menu of quadruple-shot chocolate lattes. Danny was already sugared and caffeinated to the point of nausea.
 </p>
 <p>
  “What’d I miss?” asked Jason as he returned to the table, sliding his cellphone into his pocket. Mike and Satish sat with their respective laptops open, reading online manuals.

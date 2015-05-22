@@ -180,7 +180,7 @@ Guys, I'm a bioengineering PhD student and to everyone saying this is bullshit, 
 </div>
 
 <p>
-Danny nodded smugly. “And it’s not just on YouTube, you know. It’s on Twitter, it’s on IRC, it’s being sent around on text messages. People are contacting each other and cloning that bacterial strain as we speak. It grows quickly, easily, and reliably &mdash; that is, after all, what you created it for. There’s probably about three dozen copies of that precious vial of yours floating around the city by now. In two days, there’ll be a thousand. In a week, there’ll be hundreds of thousands all across the country. You’ve created a living thing here, Ivan &mdash; in more ways than one. And do you know what a living thing does, by definition? It multiplies.
+Danny nodded smugly. “And it’s not just on YouTube, you know. It’s on Twitter, it’s on IRC, it’s being sent around on text messages. People are contacting each other and cloning that bacterial strain as we speak. It grows quickly, easily, and reliably &mdash; that is, after all, what you created it for. There’s a hundred copies of that precious vial of yours floating around the city by now. In two days, there’ll be a thousand. In a week, there’ll be hundreds of thousands all across the country. You’ve created a living thing here, Ivan &mdash; in more ways than one. And do you know what a living thing does, by definition? It multiplies.
 </p>
 <p>
 “So, Ivan, the question you need to ask yourself is: What will this do to the market value of cocaine? Your single most profitable product? The only product that keeps your entire empire in the black? Well, you’re a businessman. You do the math.”
@@ -198,31 +198,22 @@ Danny gave him a sweet, innocent smile. The weak pressure of the old man’s wri
 “Isn’t that what you wanted, Ivan? You set out to create a technology that you could use to liberate yourself from Columbian drug cartels. Well, guess what? Now that you’ve created it, that exact same technology can be used just as easily by anyone else to liberate themselves from <em>you</em>.
 </p>
 <p>
-“The truth is, Ivan, you should be proud of yourself. I truly mean that, without any sarcasm or snide insinuation. Oh sure, as a businessman, this might be an unmitigated disaster, of course. But as a technologist… As a technologist, Ivan, what you’ve done is what people like me dream of doing for our entire lives. You’ve changed the world. In fact, you’ve changed it so thoroughly that you no longer even have a place in it. You’ve pushed the world so far forward that it’s left you behind. You stand here now completely spent, having given to the world everything you have to offer. And now, all your talents, all your strength, all your efforts, everything that has enabled you to achieve this triumph &mdash; all of it, specifically because you’ve achieved it, is now useless. Obsolete and useless.
+“The truth is, Ivan, you should be proud of yourself. I truly mean that, without any sarcasm or snide insinuation. Oh sure, as a businessman, this might be an unmitigated disaster, of course. But as a technologist… As a technologist, Ivan, what you’ve done is what people like me dream of doing for our entire lives. You’ve changed the world. In fact, you’ve changed it so thoroughly that you no longer even have a place in it. You’ve pushed the world so far forward that it’s left you behind. You stand here now completely spent, having given to the world everything you have to offer. And now, all your talents, all your strength, all your efforts, everything that has enabled you to achieve this triumph &mdash; all of it, specifically <em>because</em> you’ve achieved it, is now useless. Obsolete and useless.
 </p>
 <p>
-“And you know what the real irony of your situation is? Finding yourself obsolete and useless? That’s <em>not</em> defeat. It’s the exact opposite: it’s how you know your mission’s been accomplished. It’s how you know you’ve achieved your own goals.
-</p>
-<p>
-“Take it from me. You know what I was doing twenty-four hours ago? I was crying &mdash; literally crying! &mdash; about how fast the world had moved past me. I was overwhelmed by the impossibility of staying relevant in a field in which the very nature of your work is to make yourself obsolete &mdash; in which, by definition, the better you do, the more irrelevant you become. But you know what? That’s exactly the point! Becoming obsolete and useless isn’t a hallmark of failure; it’s the pinnacle of victory. When you’ve used yourself up… When you’ve rendered yourself pointless by your own hand… When you feel your knees buckle from fatigue and you collapse, exhausted and weak and old, onto the dusty path along which you’ve been pushing the world, and you watch it roll away from you, propelled forward by the momentum you had spent your life imparting to it with all the passion and stamina that you could muster, and you watch the world recede toward the horizon carrying the next generation onward to a future you’ve made possible and yet you will never see… …Then! <em>Then</em> is when you can finally release your breath, when you can let your head drop down into the dirt with tears in your eyes and a smile on your lips, when you can finally rest; because <em>then</em> is when you know that you’ve succeeded.
+“And you know what the real irony of your situation is? Finding yourself obsolete and useless? That’s <em>not</em> defeat. It’s the exact opposite: it’s how you know your mission’s been accomplished. It’s how you know you’ve achieved your own goals. Becoming obsolete and useless isn’t a hallmark of failure; it’s the pinnacle of victory. When you’ve used yourself up… When you’ve rendered yourself pointless by your own hand… When you feel your knees buckle from fatigue and you collapse, exhausted and weak and old, onto the dusty path along which you’ve been pushing the world, and you watch it roll away from you, propelled forward by the momentum you had spent your life imparting to it with all the passion and stamina that you could muster, and you watch the world recede toward the horizon carrying the next generation onward to a future you’ve made possible and yet you will never see… …Then! <em>Then</em> is when you can finally release your breath, when you can let your head drop down into the dirt with tears in your eyes and a smile on your lips, when you can finally rest; because <em>then</em> is when you know that you’ve succeeded.
 </p>
 <p>
 “And, Ivan? You’ve succeeded.”
 </p>
 <p>
-On the television screen beside them, a map of the Seattle metropolis appeared. It was sprinkled with a few dozen tiny copies of the picture of the Eppendorf vial. The icons were packed into clusters in the University District, on Capitol Hill, in Belltown, in Pioneer Square &mdash; all high-density neighborhoods of young, technologically savvy urban professionals. A new vial icon popped onto the display in Fremont, then another on Beacon Hill, then another, then another. The map gradually zoomed out. Slowly, the icons began peppering West Seattle, then Lynnwood, then Burien, then Bellevue, then Redmond &mdash; and as Danny and Ivan and all the men and women in the room watched the screen, the little Eppendorf vials spread ever outward.
+On the television screen beside them, a map of the Seattle metropolis appeared. It was sprinkled with dozens of tiny pictures of the Eppendorf vial. The icons were packed into clusters in the University District, on Capitol Hill, in Belltown, in Pioneer Square &mdash; all high-density neighborhoods of young, technologically savvy urban professionals. A new vial icon popped onto the display in Fremont, then another on Beacon Hill, then another, then another. The map gradually zoomed out. Slowly, the icons began peppering West Seattle, then Lynnwood, then Burien, then Bellevue, then Redmond &mdash; and as Danny and Ivan and all the men and women in the room watched the screen, the little Eppendorf vials spread ever outward.
 </p>
 <p>
 The screen faded to black, momentarily casting the room into darkness. Then, just as suddenly as they had gone out, the suite’s recessed overhead lights flicked back to life. Ivan and his entourage blinked uncomfortably as their pupils adjusted.
 </p>
 <p>
-With a confused and disoriented tone, one of the mercenaries mumbled something in Russian to a few of his colleagues standing nearby. One of them gave a brief reply.
-</p>
-<p>
-Ivan furiously shouted something at both of them.
-</p>
-<p>
-The men in the room looked silently back and forth between Ivan and each other. After a moment of tense stillness, one of them began asking Ivan a question. Ivan answered him with vicious screaming.
+With a confused and disoriented tone, one of the mercenaries mumbled something in Russian to a few of his colleagues standing nearby. One of them gave a brief reply. Ivan furiously shouted something at both of them. The men in the room looked silently back and forth between Ivan and each other. After a moment of tense stillness, one of them began asking Ivan a question. Ivan answered him with vicious screaming.
 </p>
 <p>
 Danny calmly watched their interactions.
@@ -231,28 +222,25 @@ Danny calmly watched their interactions.
 Ivan glared at him. Coldly, he hissed, “You will regret what you have done! If all of this… these ‘tricks’ of yours… are for making me scared, making me feel weak, you making the big mistake. If you thinking I would letting this… letting this crime against me… if I…”
 </p>
 <p>
-Danny interrupted the Russian as he grasped for English words. “Actually, Ivan, I really don’t care what you think. These ‘tricks’ of mine, as you say… This presentation you just saw… Do you think <em>you</em> were the target audience? Do you think it was for <em>your</em> benefit? None of this was for you.” Danny slowly swept his arm around the room to gesture at the mercenaries and prostitutes of Ivan’s entourage. “It was for them.”
+Danny interrupted the Russian as he grasped for English words. “Actually, Ivan, I really don’t care what you think. These ‘tricks’ of mine, as you say… This presentation you just saw… Do you think <em>you</em> were the target audience? None of this was for you.” Danny slowly swept his arm around the room to gesture at the mercenaries and prostitutes of Ivan’s entourage. “It was for them.”
 </p>
 <p>
-They all looked back at Danny with expressions that spread across a wide spectrum, from contempt to curiosity to simply being impressed by his gall. Some were clearly doing nothing more than waiting for Ivan to give the order to open fire, while others were eager to see what the evidently insane nerd would say or do next.
+They all looked back at Danny with expressions that spread across a wide spectrum, from contempt to curiosity to simply being impressed by his gall.
 </p>
 <p>
-“What do you think, ladies and gentlemen?” Danny said to them in a voice of confidence and authority. “Do you think this guy is going to be a stable employer for much longer? Do you think he’ll still be able to take you on private jets to luxury hotels around the world a month from now? Hook you up with an endless supply of corporate perks? Pay for your health insurance package and a nice pension plan? Because, if you ask me, your prospects with this guy don’t look too promising.”
+“What do you think, ladies and gentlemen?” Danny said to them. “Do you think this guy is going to be a stable employer for much longer? Do you think he’ll still be able to take you on private jets to luxury hotels around the world a month from now? Hook you up with an endless supply of corporate perks? Pay for your health insurance and a nice pension plan? If you ask me, your prospects with this guy don’t look promising.”
 </p>
 <p>
 Danny whispered into his Bluetooth headset. By his command, the television flipped back to the website of Ivan’s Estonian bank, displaying his payroll account.
 </p>
 <p>
-“Now, as it so happens, I have an alternate proposal for all of you,” Danny continued. “You see the balance shown on that screen? Ivan might not think that’s a lot, but… Well, I know I sure as hell wouldn’t mind having that much in ‘pocket change’. And Ivan might brag about his houses and jets and yachts now, but very soon he’s going to regard a wad of cash like this as nothing but a fond memory. So Ivan’s opinion is irrelevant. I didn’t come here to negotiate with him. I came here to negotiate with <em>you</em>.
+“Now, as it so happens, I have an alternate proposal for all of you,” Danny continued. “You see the balance shown on that screen? Ivan might not think that’s a lot, but… Well, I know I sure wouldn’t mind having that much in ‘pocket change’. And Ivan might brag about his houses and jets and yachts now, but very soon he’s going to regard a wad of cash like this as nothing but a fond memory. So Ivan’s opinion is irrelevant. I didn’t come here to negotiate with him. I came here to negotiate with <em>you</em>.
 </p>
 <p>
-“So, here’s my deal. You guys will bring Sergey’s daughter to me, unharmed. I will leave with her. None of you will follow us. And as soon as she and I are away from this hotel, my colleagues and I will take the money in this account and divide it up between each of you equally. We’ll transfer it to your own personal bank accounts directly, the moment she and I are at a safe distance.
+“So, here’s my deal. You guys bring Sergey’s daughter to me, unharmed. I will leave with her. None of you will follow us. And as soon as she and I are away from this hotel, my colleagues and I will take the money in this account and divide it up between each of you equally. We’ll transfer it to your own personal bank accounts directly, the moment she and I are at a safe distance. Count how many of you are in this room. Look at the numbers on the screen. Do the math.
 </p>
 <p>
-“Count how many of you are in this room. Look at the numbers on the screen. Do the math.
-</p>
-<p>
-“And as you consider my offer, bear something in mind. Each of you will only receive this money if both the girl and I walk out of here alive. If any one of you chooses to shoot me, you will not only be losing the cash for yourself; you will also be losing the cash for every one of your colleagues. Look around you. Decide whether or not that seems like a good idea.” Danny chose a soldier at random, looked him in the eye, and asked “What do you think?” He pivoted toward another and repeated, “What do <em>you</em> think?” He turned to face the lithe man with the shark-like smile holding the gun to him. “What about you?”
+“And as you consider my offer, bear something in mind. Each of you will only receive this money if both the girl and I walk out of here alive. If any one of you chooses to shoot me, you will not only be losing the cash for yourself; you will also be losing the cash for every one of your colleagues. Look around you. Decide whether or not that seems like a good idea.” Danny chose a soldier at random, looked him in the eye, and asked “What do you think?” He pivoted toward another and repeated, “What do <em>you</em> think?” He turned to face the lithe man holding the gun to him. “What about you?”
 </p>
 <p>
 The wiry man said nothing. He merely gazed at Danny with a menacing grin.

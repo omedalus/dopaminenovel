@@ -1,39 +1,6 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Ammonia. NH<sub>4</sub>OH.</span> The bottle was laboratory grade, but it was identical to the stuff sold at every grocery and drug store.
-</p>
-<p>
-Acetone. (CH<sub>3</sub>)<sub>2</sub>CO. Nail polish remover. A powerful solvent and a cleaning agent.
-</p>
-<p>
-Hydrochloric acid. HCl. This bottle came from a supplier called The SCIENCE Company, but the stuff was commonly sold at hardware stores as drain cleaner under the trade name “muriatic acid”.
-</p>
-<p>
-All of the chemicals that Tina found on Julie’s desk were common sights around Tungsten. Julie’s computer was locked and password-protected, but the chemicals she kept around were plain to see. The substances were remarkable, ironically, for how unremarkable they were. The only thing that made them interesting was the fact that Julie had a cache of them. In the dark office bullpen, the reflections of the screensavers of nearby monitors danced on their cylindrical glass contours.
-</p>
-<p>
-Tina opened the top drawer. What she found there made way, way more sense.
-</p>
-<p>
-In the top drawer of Julie’s desk, Tina found white powder. It sat on a square glass plate, fused into rocky chunks, next to a razorblade and a two-inch-long diagonal-cut segment of a plastic drinking straw. Portions of the rocks were chopped up and drawn into thin white lines.
-</p>
-<p>
-Tina nearly laughed out loud. It totally figured.
-</p>
-<p>
-Tina herself was no stranger to coke. It was something served at parties among a cadre of trusted friends, preferably physically attractive ones eager to enjoy a little stimulation. She hadn’t indulged since college, but in the right social contexts she still felt an occasional craving.
-</p>
-<p>
-But for Julie to keep a supply of it at work, cut and drawn and ready for snorting, indicated a serious problem. Tina thought about how intense the intern’s cocaine habit must be if she was brazenly keeping a ready stash right in her desk at work. She pictured Julie surreptitiously sliding open her top drawer and sneaking bumps throughout the workday.
-</p>
-<p>
-Tina roller her eyes and slid the drawer shut.
-</p>
-<p>
-In the periphery of her vision, something moved. 
-</p>
-<p>
-Tina swore she saw a shadow glide across the adjoining hallway. If Tina hadn’t looked up from Julie’s desk at that exact moment, she would have missed it entirely. 
+<span class="caplead">In the periphery of her vision</span>, something moved. Tina swore she saw a shadow glide across the adjoining hallway. If Tina hadn’t looked down from the last camera at that exact moment, she would have missed it entirely. 
 </p>
 <p>
 Yet the corridor was dark. A split second later, she saw nothing.
@@ -45,7 +12,7 @@ She walked from the bullpen and peeked down the hallway. A slight amount of ligh
 Tina walked to the bend in the hallway. She saw light pouring from the doorway to the cold-storage room, where Tungsten kept samples of <em>E. coli</em> bacteria in suspended animation. She heard someone in there, rummaging through glassware.
 </p>
 <p>
-Tina walked uncertainly toward the lit room. The hum of whirring HVAC machinery and the sound of clinking glassware grew louder as she approached. The room’s door was open, and a chilly breeze poured from it.
+Tina walked uncertainly toward the lit room. The hum of whirring HVAC machinery and the sound of clinking glassware grew louder as she approached. The door was open, and a chilly breeze poured from it.
 </p>
 <p>
 She peeked inside. The door to the deep-freeze unit was open. Amidst the cold fog pouring out onto the floor, Tina could see a pair of black sneakers under the door, and could hear someone rifling through the test tubes filled with frozen <em>E. coli</em> samples inside.

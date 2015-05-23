@@ -4,17 +4,13 @@
 
 <div class="message messagein">
   <div class="speaker">witchdoctor82</div> 
-  hey lady!
+  hey lady! Whatchya up to?
 </div>  
 
 <div class="message messageout">
   <div class="speaker">tinacious_g</div> 
   O HAI!
 </div>
-
-<div class="message messagein">
-  HI2U2! Whatchya up to?
-</div>  
 
 <div class="message messageout">
   IM IN MY LOBBY HATING MY LIFE
@@ -85,7 +81,7 @@
 </div>
 
 <div class="message messagein">
-  hmm. t, you know ur never supposed to succumb to anger. Remember all energy u put out comes back to u threefold. Which is why ur stuck at work late tonight. 
+  hmm. t, you know u should never succumb to anger. Remember all energy u put out comes back to u threefold. Which is why ur stuck at work late tonight. 
 </div>  
 <div class="message messagein">
   but just between u and me... 

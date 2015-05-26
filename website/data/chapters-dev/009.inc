@@ -6,7 +6,7 @@
 Yet the corridor was dark. A split second later, she saw nothing.
 </p>
 <p>
-She walked from the bullpen and peeked down the hallway. A slight amount of light and noise was coming from around a corner.
+She walked from the bullpen and peeked down the hallway. Faint noises came from around a corner.
 </p>
 <p>
 Tina walked to the bend in the hallway. She saw light pouring from the doorway to the cold-storage room, where Tungsten kept samples of <em>E. coli</em> bacteria in suspended animation. She heard someone in there, rummaging through glassware.
@@ -15,16 +15,16 @@ Tina walked to the bend in the hallway. She saw light pouring from the doorway t
 Tina walked uncertainly toward the lit room. The hum of whirring HVAC machinery and the sound of clinking glassware grew louder as she approached. The door was open, and a chilly breeze poured from it.
 </p>
 <p>
-She peeked inside. The door to the deep-freeze unit was open. Amidst the cold fog pouring out onto the floor, Tina could see a pair of black sneakers under the door, and could hear someone rifling through the test tubes filled with frozen <em>E. coli</em> samples inside.
+She peeked inside. The door to the deep-freeze unit was open. Amidst the cold fog pouring out onto the floor, Tina could see a pair of black sneakers under the door, and could hear someone rifling through test tubes.
 </p>
 <p>
 Tina watched for just a moment too long.
 </p>
 <p>
-The black gloved fingers of a man’s hand wrapped around the edge of the steel door and pulled it shut. The room got slightly quieter as the massive door’s rubber gasket muffled the hum of the deep-freezer’s cooling pumps.
+The man’s gloved fingers wrapped around the edge of the steel door and pushed it shut. The room got slightly quieter as the massive door’s rubber gasket muffled the hum of the deep-freezer’s cooling pumps.
 </p>
 <p>
-She saw the man standing there, breathing into his gloved hands to recover from the cold. He wasn’t one of the scientists. He was muscular and athletic, in jeans and a dark jacket. He was in his late twenties or early thirties, and sported dark crew-cut hair. A Bluetooth earpiece sat in his ear. His expression was hard and resolute, and something about his face and posture hinted to her that he was no stranger to physical violence.
+She saw the man standing there, breathing into his gloves to recover from the cold. He wasn’t one of the scientists. He was muscular and athletic, in jeans and a dark jacket. He was in his late twenties or early thirties, and sported dark crew-cut hair. A Bluetooth earpiece sat in his ear. His expression was hard and resolute, and something about his face and posture hinted to her that he was no stranger to violence.
 </p>
 <p>
 He saw her.
@@ -33,19 +33,16 @@ He saw her.
 They looked at each other tensely.
 </p>
 <p>
-Tina had left her iPhone in her purse at her desk. Her first instinct told her to sprint back to her lobby, call the police, and get the hell out of the building. Except she couldn’t, because he was staring at her.
+Tina had left her iPhone charging at her desk. Her first instinct told her to sprint back to her lobby, call the police, and get the hell out of the building. Except she couldn’t, because he was staring at her. The only thing she could think to do was to run her receptionist program. “Hi. Can I help you?”
 </p>
 <p>
-She stepped out from behind the door. The only thing she could think to say to him was her receptionist program. “Hi. Can I help you?”
+He replied in a foreign accent. The same accent, albeit much lighter, as Dr. Passinsky’s. Russian. “I’m from the courier service. I’m here to pick up a delivery for urgent shipment tomorrow. Has to arrive first thing in the morning. Sorry to bother you.”
 </p>
 <p>
-He replied to her in a foreign accent. The same accent, albeit much lighter, as Dr. Passinsky’s. Russian. “I’m from the courier service. I’m here to pick up a delivery for urgent shipment tomorrow. Has to arrive first thing in the morning. Sorry to bother you.”
+As he spoke, he gazed at her like a wolf at a rabbit. Tina felt an intense tightness in her chest. “I’m supposed to sign visitors in at the front desk,” she said tentatively.
 </p>
 <p>
-As he spoke, he gazed at her like a wolf at a rabbit. Tina felt an intense tightness in her chest, a mortal intimidation that froze her in place. “I’m supposed to sign visitors in at the front desk,” she said tentatively.
-</p>
-<p>
-“Not necessary,” said the man, his eyes boring a hole through her. “I belong here. I have the keycard.” 
+“Not necessary,” said the man, his eyes boring a hole through her. “I belong here. I have a keycard.” 
 </p>
 <p>
 She stood immobile in the doorway, forcing herself to remain calm. “Well. Then. Good luck with the delivery. I’ll just go back to my desk now and finish my work. Okay?”
@@ -66,13 +63,13 @@ She resisted the urge to breathe a sigh of relief. She’d pretend to believe hi
 “You know what?” the man said suddenly. “I change my mind.”
 </p>
 <p>
-With a quick, soundless motion, the man reached into his jacket, pulled out a gun, and pointed it at Tina. The gun was a small silver revolver, barely larger than his hand. The barrel was short and stubby, but its barrel looked wide enough to stick a finger into. 
+With a quick, soundless motion, the man reached into his jacket, pulled out a gun, and pointed it at Tina. The stubby silver revolver was barely larger than his hand, but its barrel looked wide enough to stick a finger into. 
 </p>
 <p>
-“Get in here, young lady,” he commanded. With a practiced flick of his thumb, managing to keep the squat barrel perfectly still, he cocked the revolver’s hammer back. It made a faint click.
+“Get in here, young lady,” he commanded. With a practiced flick of his thumb, managing to keep the squat barrel perfectly still, he cocked the revolver’s hammer back. It made a faint click, a tiny sound that somehow managed to ring louder than all of the machinery in the room.
 </p>
 <p>
-She stepped into the room.
+She stepped through the doorway.
 </p>
 <p>
 “Good girl,” he said as he carefully uncocked the hammer. “Now come over here.” 
@@ -105,29 +102,78 @@ She reluctantly grabbed the handle of the deep-freezer’s massive metal door an
 
 <div class="chapsection">
 <p>
-<span class="caplead">Satish smacked the cellphone</span> out of Mike’s hand before he could dial 9-1-1. “No cops!” he commanded.
+<span class="caplead">Satish smacked the cellphone</span> out of Mike’s hand with “<span class="computer">91</span>” on the dialer. “No cops!” he commanded.
 </p>
 <p>
-“We have to, Satish!” said Mike. “Look at this crazy shit. What, are we just going to sit here? We have to call the cops!”
+“We have to, Satish!” said Mike. “Look at this crazy shit. We <em>have</em> to call the police!”
 </p>
 <p>
-“Yeah, right,” Satish mocked. “And tell them what, exactly? ‘Oh, hi, me and my Dungeons and Dragons buddies were just out here hacking into this company, when we saw some scary stuff going on through their video feed that we happened to crack.’ Have you forgotten that what we’re doing out here is illegal too?”
+“Yeah, right,” Satish mocked. “And tell them what, exactly? ‘Oh, hi, me and my Dungeons and Dragons buddies were just casually hacking into this company, when we saw some scary stuff going on through their video feeds that we happened to hijack.’ Have you forgotten that what we’re doing here is illegal too?”
 </p>
 <p>
 “You’re being paranoid,” said Mike.
 </p>
 <p>
-“No, I’m being <em>real</em>,” Satish fired back. “We’re not playing some video game here, Mike! We don’t get to screw up. We don’t get to undo. We don’t get save-points. If we get hauled off in the back of a squad car, we don’t get to see some menu screen saying, ‘Mission Failed. Retry Level?’ And if there’s something we didn’t consider, some factor that we don’t account for and didn’t even know we’re <em>supposed</em> to account for, we’re all completely fucked, permanently, forever. There’s no Control-Z, there’s no Reload. We don’t get to say, ‘Okay well next time we just won’t do that,’ because there won’t <em>be</em> a next time.”
+“No, I’m erring on the side of caution,” Satish insisted. “Let’s just mind our own fucking business. There’s no point in risking our own necks.”
 </p>
 <p>
-“All I’m talking about here is calling the cops,” said Mike.
+“So, we just sit here watching on our laptops like a bunch of useless dumbasses?” Mike shot back.
 </p>
 <p>
-“And all <em>I’m</em> talking about,” Satish countered, “is erring on the side of caution. I’m talking about minding our own fucking business.”
+“Maybe you haven’t noticed, but this team <em>is</em> a bunch of useless dumbasses!” said Satish. “And, you know, with an idiot like Danny in charge, it’s not even really a surprise. The guy hand-holds you through a bunch of script kiddie attacks, and then kisses your butts and tells you that you’re all awesome brilliant hackers. That’s fine, up to the point at which a stupid mistake can get you in real trouble &mdash; fines and jail for you, deportation for me. And we’re at that point now. So let’s just let this… this whatever-is-going-on-here, let’s just sit here, let it blow over, and resume the operation when everything’s nice and quiet again.”
 </p>
 <p>
-Jason and Danny were watching the events in the cold-storage room on Danny’s laptop. They could hear Satish’s and Mike’s conversation from outside the car through the open window. “He’s talking about unknown unknowns,” Jason said to them with a slow nod. “And minimization of risk profile.” Jason looked at the laptop screen with a puckered frown. “He’s right. No cops. There’s too much at stake for us.”
+Mike shook his head. “Let it ‘blow over’? But that girl in there is&mdash;!” 
 </p>
+<p>
+“She’s not our fucking problem!” Satish insisted. 
+</p>
+<p>
+Outside the car, Jason and Danny were staring at Danny’s laptop, watching the events in the cold-storage room unfold. The strained voices of the two men arguing reached them through the open car window. With his gaze fixed on the image of the dark-haired young woman held at gunpoint, Danny said to them in a low, grave voice, “She <em>is</em>. She <em>is</em> our problem. This is all our fault.”
+</p>
+<p>
+“What are you going on about, Danny?” Satish said as he rolled his eyes. 
+</p>
+<p>
+“We tricked her into leaving her desk,” Danny said slowly. His eyes were wide, his face pale in the light of his laptop screen. “We separated her from her computer and her phone. We created the window of opportunity for those guys to enter the building, and we deprived her of the means to call for help. <em>We</em> did this. This is on <em>us</em>.”
+</p>
+<p>
+“On <em>us</em>?” said Satish. “No, Danny. On <em>you</em>. That camera trick was <em>your</em> idea!”
+</p>
+<p>
+Mike angrily barked at Satish, “Hey man, it was <em>you</em> who said we can’t proceed if she’s at her desk!” 
+</p>
+<p>
+“And you agreed!” Satish retorted. “So if anything, you’re just&mdash;”
+</p>
+<p>
+“Guys, stop…!” Danny said, not so much as a command but as a plea. He looked back and forth between them and the screen. The girl in the video feed stood before the giant refrigerator, shivering. “God. Satish is right. Jason put <em>me</em> in charge…”
+</p>
+<p>
+Jason interjected, “Whoa, Danny! I hired you to extract <em>data</em>. This project wasn’t supposed to involve…” He pointed at the man on the screen, who kept his small silver revolver trained unwaveringly on the girl. “…<em>that</em>.”
+</p>
+<p>
+Danny handed Jason the laptop and leaned back against the car, his hands at his temples. “But everything Satish has said is true,” he said, his throat suddenly dry and hoarse. “I <em>don’t</em> know what I’m doing. I’m way out of my league here. I can put on a show of confidence, play at being a ’Leet Hacker Dude as long as I’m around people who don’t know any better. I can act important. Make myself feel significant. Pretend that I’m not past my prime, that I’m not steadily getting more and more irrelevant year after year, with one failed dot-com project after another. I can fake it pretty darn well, can’t I? And that’s perfectly good enough if there’s no actual shit hitting the fan. But when there’s the real possibility of someone getting hurt because of me… The real possibility of that girl getting…” He covered his face with his hands. “My God, what have I done?”
+</p>
+<p style="color:red; font-style: italic">Left off here</p>
+
+
+
+
+“And you agreed!”
+
+“And you agreed!” Satish retorted. “So if anything, you’re just&mdash;”
+</p>
+
+
+
+
+
+
+
+
+
+
 <p>
 Mike shook his head. “But that girl in there is&mdash;” 
 </p>
@@ -135,16 +181,28 @@ Mike shook his head. “But that girl in there is&mdash;”
 “Is not our fucking problem!” Satish insisted. 
 </p>
 <p>
-“So what do you suggest we do?” demanded Mike.
+Jason and Danny were staring at Danny’s laptop, watching the events in the cold-storage room unfold. The strained voices of the two men arguing reached them through the open car window.
+</p>
+
+
+
+
+
+<p>
+“What do you suggest we do?” demanded Mike.
 </p>
 <p>
 “Nothing,” said Satish dismissively. “There’s nothing we <em>can</em> do. Not without risking our own necks.”
 </p>
 <p>
-“So, what?” Mike shot back. “We just sit here watching on our laptops like a bunch of useless shitballs?”
+“So, we just sit here watching on our laptops like a bunch of useless shitballs?” Mike shot back.
 </p>
 <p>
-“Uh, maybe you haven’t noticed, but this team <em>is</em> a bunch of useless shitballs,” said Satish. “And, you know, with a stupid asshole like Danny in charge, it’s not even really a surprise. The guy hand-holds you through a bunch of script kiddie attacks, and then sucks your dicks and tells you you’re all awesome brilliant hackers. And that’s fine, up to the point at which being a dumbass can get you in real trouble &mdash; fines and jail for you, deportation for me. And we’re at that point now. So, yes, Mike, all we do is we sit here. Because the alternative is taking a chance of completely fucking up the entire rest of your life. And it’s all because you don’t want to feel like a ‘useless shitball’? Boo fucking hoo. There’s worse things in this world than feeling useless.”
+“Maybe you haven’t noticed, but this team <em>is</em> a bunch of useless shitballs,” said Satish. “And, you know, with a stupid asshole like Danny in charge, it’s not even really a surprise. The guy hand-holds you through a bunch of script kiddie attacks, and then sucks your dicks and tells you that you’re all awesome brilliant hackers. That’s fine, up to the point at which being a dumbass can get you in real trouble &mdash; fines and jail for you, deportation for me. And we’re at that point now. So, yes, Mike, all we do is we sit here. 
+
+
+
+Because the alternative is taking a chance of completely fucking up the entire rest of your life. And it’s all because you don’t want to feel like a ‘useless shitball’? Boo fucking hoo. There’s worse things in this world than feeling useless.”
 </p>
 <p>
 Danny heard Satish’s voice through the car window. Satish’s words hit Danny like a claw around his throat. He shoved his laptop aside on the asphalt and stood up, dizzy, choking, his mind swirling with rage and hate. Hate at the world, hate at himself, hate at his past, hate at his present, hate at his thousands of unrealized could-have-beens.
@@ -206,6 +264,10 @@ Danny noticed Mike and Moshen poking their heads out the door of the Navigator. 
 <p>
 He looked at his laptop. At the Tungsten building. At the men in his team.
 </p>
+
+
+
+
 <p>
 “Guys, we’re still here to do a job,” he said to them. “And instead of bailing out, I think we can use this situation as an opportunity. We’re here to steal Tungsten’s secrets, right? Well, those two guys don’t look like they’re here for the girl. They’re here for something else. Something in that freezer. And whatever it is, it’s obviously valuable. I say we take it.”
 </p>

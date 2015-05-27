@@ -150,7 +150,7 @@
   yes! for courage.
 </div>
 <div class="message messagein">
-  i told him to wear the bracelet all day, and i taught him a spell to recite whenever he feels his anxiety coming back.
+  i told him to wear the bracelet all day, and i taught him an incantation to recite whenever he feels his anxiety coming back.
 </div>
 
 <div class="message messageout">
@@ -220,7 +220,7 @@
 </div>
 
 <div class="message messagein">
-  and your paying attention to the camera now
+  and youre paying attention to the camera now
 </div>
 <div class="message messagein">
   distracting yourself with some totally unimportant unrelated matter
@@ -239,7 +239,7 @@
   So then, O Wizened Witch-Woman.
 </div>
 <div class="message messageout">
-  What kind of magick can I use to improve this total shit-show I've got here?
+  What kind of spell can I use to improve this total shit-show I've got here?
 </div>
 <div class="message messageout">
   I mean, here's the potion for my life right now: take one part romantic failure, two parts professional failure, stir them in a crucible made of tungsten, and choke it down when it's cold and bitter.
@@ -273,19 +273,13 @@
   I try to talk shop with the lab monkeys sometimes, and they just humor me. Like, “Aww how cute! The Xerox girl is trying to use big words!”
 </div>
 <div class="message messageout">
-  Fuck, they don't know me! They don't know that I know this shit. They don't know I was on track to be one of them back in college, before my dad got sick.
+  Fuck, they don't know me! They don't know that I do in fact know this shit.
 </div>
 <div class="message messageout">
-  They never even think to ask.
+  And all I want is for them to just give me a
 </div>
 <div class="message messageout">
-  And I don't know how I can convince them.
-</div>
-<div class="message messageout">
-  It's like I'm under some sort of hex, and I don't know how to break it.
-</div>
-<div class="message messageout">
-  Dammit Nat. Hold on. Now THIS is weird.
+  Dammit hold on. Now THIS is weird.
 </div>
 
 <div class="message messagein">

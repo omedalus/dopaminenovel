@@ -212,6 +212,7 @@ Mike stared at his screen in confusion. “Not yet, Danny. I’m seeing somethin
 <p>
 “Weird how?” Danny asked.
 </p>
+<p>
 “Well, it’s really messed up,” he said. “See… Some of those machines in there… I don’t… I’m not sure I’m reading this right… They’re on the Ethernet segment, but…” 
 </p>
 <p>

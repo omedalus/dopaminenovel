@@ -54,7 +54,6 @@ echo <<<EOL
   </div>
 </div>
 
-<div>
 EOL;
 
 $chapter_dir = "../data/" . $dirname . "/";

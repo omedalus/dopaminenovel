@@ -177,7 +177,7 @@ To: Dorothy Eigen &lt;eigend@corp.verizon.com&gt;<br/>
 (1 Attachment)<br/>
 <br/>
 Dorothy,<br/>
-Per your request, please find the attached presentation of Claymore's technologies. Included are schematics, flowcharts, and results of initial field trials. This should be sufficient for proving that our asking price is justified.</br>
+Per your request, please find the attached presentation of Claymore's technologies. Included are schematics, flowcharts, and results of initial field trials. This should be sufficient for proving that our asking price is justified.<br/>
 <br/>
 ---<br/>
 To: Jason Tuttle &lt;jason.tuttle@aol.com&gt;<br/>

@@ -212,6 +212,7 @@ Mike stared at his screen in confusion. “Not yet, Danny. I’m seeing somethin
 <p>
 “Weird how?” Danny asked.
 </p>
+<p>
 “Well, it’s really messed up,” he said. “See… Some of those machines in there… I don’t… I’m not sure I’m reading this right… They’re on the Ethernet segment, but…” 
 </p>
 <p>
@@ -221,37 +222,31 @@ Mike stared at his screen in confusion. “Not yet, Danny. I’m seeing somethin
 “They’re not using IP,” Mike replied hesitantly.
 </p>
 <p>
-“Heh. Don’t be ridiculous,” said Danny. “Everything uses IP.” He noticed a quizzical expression on Jason’s face. “IP is the digital language of the Internet,” he explained. “Has been for twenty years. Mike, if they’re not using IP, how are they talking to one another?”
+“Heh. Don’t be ridiculous,” said Danny. “Everything uses IP.” He noticed a quizzical expression from Jason. “IP is the digital language of the Internet,” he explained. “Has been for twenty years. Mike, if they’re not using IP, how are they talking to one another?”
 </p>
 <p>
-“It’s… I…,” said Mike. “I think they’re…”
+“It’s…,” said Mike. “I think they’re…”
 </p>
 <p>
-Satish’s voice chimed in. “Novell Netware,” he said. “Raw Netware packets directly on the 802.3 frame.”
+Satish chimed in. “Novell Netware,” he said. “Raw Netware packets directly on the 802.3 frame. I’ve been trying to decode them with WireShark. I thought it was a parsing error this whole time.”
 </p>
 <p>
-“Are you serious?” asked Danny
-</p>
-<p>
-“I’ve been trying to decode them with WireShark,” said Satish. “I thought it was a parsing error this whole time.”
-</p>
-<p>
-Danny felt bewildered. “Novell hasn’t used that protocol since the mid nineties. Shit, I haven’t heard anybody mention it since I was in college.”
+“Are you serious?” Danny asked. “Novell hasn’t used that protocol since the mid nineties. Shit, I haven’t heard anybody mention it since I was in college.”
 </p>
 <p>
 Mike said. “Yeah! I’m seeing something called DECnet Routing Protocol. Danny, what is this shit?”
 </p>
 <p>
-Danny shook his head. “It’s ancient…” He turned his attention back to his laptop, which still showed the camera feed from the now empty lobby. He took control of some of the cameras that Moshen wasn’t spinning at the moment, and used them to study the equipment in the building.
+Danny shook his head. “It’s ancient…” 
 </p>
 <p>
-He brought up a video feed in a room with large steel refrigerators along the walls. One of the refrigerators had a massive metal door with a special lever-like handle. A computer sat on a desk next to it, beige with black trim. A small CRT monitor was built into its body, showing a screen of blocky green text. The clunky keyboard was two inches thick and looked heavy enough to use as a bludgeoning weapon. 
+On his laptop, he found a camera that Moshen wasn’t spinning at the moment. He brought up a video feed in a room with large steel refrigerators along the walls. One of the refrigerators had a massive metal door with a special lever-like handle. A computer sat next to it, beige with black trim. A small CRT monitor was built into its body, showing a screen of blocky green text. The clunky keyboard was two inches thick and looked heavy enough to use as a bludgeoning weapon. 
 </p>
 <p>
 Danny recognized it. It was a relic. An honest-to-God DEC VT100 terminal. It wasn’t even a real computer. Digital Equipment Corporation, or DEC, discontinued those machines when Danny was in junior high. 
 </p>
 <p>
-DEC itself, even for Danny, was barely even a memory anymore. After forty years as a multi-billion-dollar trendsetter for every aspect of the computer industry, DEC finally went defunct in 1998, unable to compete against the low-cost Intel x86-based Windows PCs flooding the market. DEC was bought out by Compaq, who manufactured the very machines that had caused DEC’s demise. Compaq, in turn, was bought out by Hewlett-Packard in 2002. There was a time when DEC terminals were as common as telephones &mdash; yet Danny realized that, today, even the most computer-savvy twentysomethings had never even heard of them.
+DEC itself, even for Danny, was barely even a memory anymore. After forty years as a multi-billion-dollar industry leader, DEC finally went defunct in 1998, unable to compete against the low-cost Intel x86-based Windows PCs flooding the market. DEC was bought out by Compaq, who manufactured the very machines that had caused DEC’s demise. Compaq, in turn, was bought out by Hewlett-Packard in 2002. There was a time when DEC terminals were as common as telephones &mdash; yet Danny realized that, today, even the most computer-savvy twentysomethings had never even heard of them.
 </p>
 <p>
 He switched to a camera in the cramped warehouse-like storeroom. In the light of the weak yellow lamps, Danny could make out  computers scattered among the rest of the unused equipment. He saw the curvy purple case of an SGI O2+ workstation. He saw a black NeXT cube. He saw equipment by Solaris. By Sun Microsystems. By Amiga. By Tandy.

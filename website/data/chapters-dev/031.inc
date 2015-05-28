@@ -1,15 +1,18 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Seattle’s downtown skyline glinted</span> brightly in the warm sunlight of a clear summer day. Tall buildings rose above the shoreline, their windows shimmering with reflections of surf and sky. They towered above parks where children and dogs played; above markets raucous with bustling tourists and busking musicians; above sparkling blue waters teeming with yachts and freighters. The ribbon of urban expanse ran between Elliott Bay on one side and Lake Washington on the other. The blue Olympic Mountains crowned the western horizon, the gray Cascades and the enormous sleeping volcano of Mount Rainier lined the east. Tucked amidst majesty of geological proportions, the man-made spires jutted upward from low-lying gray urban periphery like immense gemstones from rock &mdash; the obsidian shard of the Columbia Tower, the waterfall mesa of sandstone and sapphire at 1201 Third, the bizarre white alien stalagmite of the Space Needle. Seattle wasn’t merely adorned with jewels; she was made of them. She was the Emerald City.
+<span class="caplead">Seattle’s downtown skyline glinted</span> brightly in the warm sunlight of a clear summer day. Tall buildings rose above the shoreline, their windows shimmering with reflections of surf and sky. They towered above parks where children and dogs played; above markets raucous with tourists and musicians; above sparkling blue waters teeming with yachts and freighters. The ribbon of urban expanse ran between Elliott Bay on one side and Lake Washington on the other. The blue Olympic Mountains crowned the western horizon, the gray Cascades and the enormous sleeping volcano of Mount Rainier lined the east. Tucked amidst majesty of geological proportions, the man-made spires jutted upward from low-lying gray urban periphery like immense gemstones from rock &mdash; the obsidian shard of the Columbia Tower, the waterfall mesa of sandstone and sapphire at 1201 Third, the bizarre white alien stalagmite of the Space Needle. Seattle wasn’t merely adorned with jewels; she was made of them. She was the Emerald City.
 </p>
 <p>
-“Now, I know what you’re thinking,” said the throaty, energetic voice of a young man freshly in his twenties. “The nutrient requirements for a eukaryote are way too complex to maintain in a consumer device. Fortunately, we don’t need the organism to survive the manufacturing process. Each cell only lives long enough to differentiate and then grow its respective components &mdash; photoemission tubes, conductor channels, phosphor beads, whatever. The cell creates these structures out of semi-rigid nonliving materials like keratin and lignin. They remain intact even after the cell dies. Like wood, or coral.”
+“I just want to say, before we move on,” said the throaty, energetic voice of a young man freshly in his twenties, “that we both really appreciate this opportunity to present this work to you.”
 </p>
 <p>
 On an upper floor of a soaring corporate tower, at the end of a long marble-floored lobby, there stood a pair of wide glass double doors. Frosted upon their surface were the words, “Tuttle Investment Partners.”
 </p>
 <p>
-In the Tuttle office’s anteroom, beside the reception desk, stood a museum-like pedestal lined with red felt. Upon it, the ramshackle HERF gun prototype, built out of PVC and held together by Velcro and karabiners, sat inside a glass case, like some kind of curious historical artifact from a by-gone era. Which it was.
+In the Tuttle office’s anteroom, beside the reception desk, stood a museum-like pedestal lined with red felt. Upon it, the ramshackle HERF gun prototype, built out of PVC and held together by Velcro and karabiners, sat inside a glass case, like some kind of curious historical relic from a bygone era. Which it was.
+</p>
+<p>
+“We’re both techies, you know? I’m all about nanomaterials, and my partner’s a biomachinist. We’re science dudes, not money dudes. But when we talk to most venture capital people, they ask us about partnership strategies and market penetration projections. So, like, it’s great to see potential financial contributors showing a genuine interest in our engineering efforts.”
 </p>
 <p>
 Video display monitors, barely thicker than paper, hung from the ceiling of the reception area. The monitors showed proud videos of Tuttle projects. One presented a focused young woman carefully measuring the electrical current flowing through an organic-looking fractal assembly. One displayed an aging paraplegic playing the piano with a hand built of polymer and silicon. One had a Navy admiral demonstrating an unmanned aquatic scouting robot darting through the water with a dolphin-like tail.
@@ -18,61 +21,31 @@ Video display monitors, barely thicker than paper, hung from the ceiling of the 
 And another displayed a title screen announcing, “Tuttle Investment Partners is a proud sponsor of the Mukhayev Memorial Foundation.” Talking heads gave closed-captioned testimonials about overcoming drug addiction.
 </p>
 <p>
-A woman’s voice spoke. It was mature and confident, well-educated and self-assured. “I’m noticing that your photoemission tube is remarkably similar to the ommatidium of an insect eye. In fact, if I’m not mistaken, are those supposed to be pigment cells at the top?”
+A woman’s voice spoke. It was an older voice, well-educated and self-assured. “It’s our pleasure to hear your ideas. We succeed financially by making informed investments, and that means understanding the science behind proposals to judge whether or not they’re promising.”
 </p>
 <p>
-“They are!” the young man announced. “You’re absolutely right: we based our pixels on a compound eye design. We figured, if an insect eye can <em>receive</em> directional light rays, just run it in reverse and you can use the same structure to <em>project</em> them. Think of an insect’s eye as a sampling device for one spatial point in a 5D light field, right? Lay them out on a 2D grid and use them as phototransmitters, and what do you get? A lenticular display that renders a full three-dimensional image autostereoscopically from any point in a 120-degree viewing cone. And <em>that</em> is the whole point of this project! What we’re proposing is a standard free-viewing 3D 12K television screen &mdash; but it’s one that’s <em>grown in a vat</em> rather than assembled in a factory. And, now, naturally, we can’t get very far without venture capital &mdash; that is, obviously, why we’re here &mdash; but we’re hoping that Tuttle Investment Partners can see the potential of this proposal.”
+“And… Do…” The young voice stammered nervously. “Do you think we sound promising?”
 </p>
 <p>
-The woman’s voice said, “So, I understand why you’re working with eukaryotes. You need these cells to differentiate into some extremely complex, precisely positioned structures. But this is one hell of a chimera you’re proposing. Your progenitor organism is a species of algae, right? A diatom? And you’re talking about taking that diatom and throwing in genes from ferns, from fungi, from at least three or four different phyla of animal. Now, obviously, you know that natural genomes &mdash; especially eukaryotic ones &mdash; have evolved extensive mechanisms to protect themselves against exogenous DNA. And you’re not only talking about having them express a protein or two, but actually exhibit entirely new morphologies. Isn’t that going to be, you know… hard?”
-</p>
-<p>
-“Well, we’re not really doing anything that hasn’t been done before,” the young man assured. “The differentiation and expression processes can be reliably controlled through pretty standard cellular multiplexing techniques. I mean, you’re right &mdash; we’re porting entire anabolic pathways. But we’re basing our work on some solid precedents…”
-</p>
-<p>
-The speaker stood in a small corporate conference room just beyond the reception hall. Behind him, a large presentation screen displayed a rotating protein structure. He was tall and charismatic, and brimmed with infectious excitement as he discussed his work.
+The speaker stood in a small corporate conference room just beyond the reception hall. He was tall and charismatic, and brimmed with infectious excitement. Behind him, a large presentation screen displayed a rotating protein structure. Words along the top of the diagram read, “Photomodulated Differention: A New Approach To Cellular Multiplexing.”
 </p>
 <p>
 His partner, a slightly older student with a heavy-set body and a shy demeanor, stood quietly on the opposite side of the screen.
 </p>
 <p>
-“See, we found an excellent research paper,” the charismatic presenter continued. “It was from about twelve, thirteen years ago, something like that. Co-authored by researchers named Passinksy and Yen. We can forward it to you if you like.”
-</p>
-<p>
-The woman chuckled. “That won’t be necessary.”
-</p>
-<p>
-The heavy-set partner slapped his palm against his forehead.
-</p>
-<p>
-The young man persisted, “It’s pretty old by now, but it’s really an interesting read. Apparently they were part of the benzoylmethylecgonine project at Tungsten Medical Technologies…”
-</p>
-<p>
-The heavy-set partner stepped toward the young man and quickly whispered something into his ear.
-</p>
-<p>
-The presenter’s eyes went wide and his cheeks reddened with embarrassment.
-</p>
-<p>
-The woman said bemusedly, “I am quite familiar with the research of Tungsten Medical Technologies.”
+The woman chuckled. “We’ll see.”
 </p>
 <p>
 The voice belonged to Tina. She sat at a small conference table, watching the presentation and taking notes. She wore a crisp, conservative business dress. The march of time had chiseled the contours of her face into a firm visage of competence and confidence, smart and strong and feminine. She radiated a kind of mature beauty only expressed in those who have rightfully earned it.
 </p>
 <p>
-The presenter, still fumbling from the revelation just whispered to him by his heavy-set partner, said with awe, “<em>You’re</em> the ‘T. Giordano’ who…?”
-</p>
-<p>
-“…Who submitted the Tungsten papers for posthumous publication, yes,” Tina said with a smirk.
-</p>
-<p>
-As the young man stammered uncomfortably, Tina turned to her side and said jokingly, “Looks like this guy doesn’t know his audience too well. That’s a critical presentation failure, isn’t it? What do you think, Dan? Is that a deal-breaker?”
+As the two young men fidgeted before their presentation, Tina turned to her side and said jokingly, “What do you think, Dan? Should we continue hearing these guys out, or are they a waste of our time?”
 </p>
 <p>
 Daniel sat at the table beside her, wearing a timeless gray business suit. The color of his clothes matched the tone of his hair, which had receded high above his forehead to form a salt-and-pepper crown. The hair he had lost from the top of his head, he made up for with a neatly trimmed beard, dark with flecks of silver around his chin.
 </p>
 <p>
-“Eh. I say cut him some slack,” he said, the creases at the corners of his mouth and eyes deepening as he smiled. “I remember giving a presentation to an investor group myself a long time ago, and I didn’t know that one of my audience members was affiliated with Tungsten Medical, either. Of course, back then, the term ‘cellular multiplexing’ meant something completely different.”
+“Eh. I say cut him some slack,” he said, the creases at the corners of his mouth and eyes deepening as he smiled. “I remember giving a presentation to an investor group myself a long time ago, and it went pretty terribly. Of course, back then, the term ‘cellular multiplexing’ meant something completely different.”
 </p>
 <p>
 A device in Daniel’s hand suddenly buzzed with a gentle, quiet vibration. Daniel glanced down at the screen. A pop-up window bore the words, “<span class="computer">Rosie: 8 unread messages (22 unread total).</span>”
@@ -186,7 +159,7 @@ A shrewd smile crept onto Daniel’s face. “I didn’t say that, did I?”
 Relief washed over the two young men. They exchanged enthusiastic looks.
 </p>
 <p>
-“Listen,” said Daniel. “You kids have a lot of very, very hard work ahead of you. But Tuttle Investment Partners might be able to help you out.” He gave them a warm smile. “Let me forward you some work I did back in the ‘90s. My master’s thesis was on thermal dissipation in 3D VLSI design. If you don’t want your first prototype to explode in a ball of fire, I’d recommend giving it a good careful read.”
+“Listen,” said Daniel. “You kids have a lot of very, very hard work ahead of you. But Tuttle Investment Partners might be able to help you out. No promises yet. But we’ll talk more soon.” He gave them a warm smile.
 </p>
 <p>
 The two young men had complex expressions on their faces, showing equal parts happiness, excitement, and fear. “Thank you,” the presenter said to him.

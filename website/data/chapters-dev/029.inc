@@ -6,7 +6,7 @@
 Danny chuckled.
 </p>
 <p>
-Ivan gave a quick command to the man pressing the gun into Danny’s ribs. In a rapid strike, the sinewy, shark-toothed soldier bashed the butt of his handgun against the side of Danny’s head. The blow sent Danny reeling sideways, momentarily rendering him too dizzy to see straight. The toolbox rattled in his grasp as he struggled to stay on his feet. But though he stumbled, he did not fall. And though his brain felt like it jostled within his skull and the side of his face felt warm and sticky with a trickle of blood, he did not scream.
+In a rapid strike, the sinewy, shark-toothed soldier bashed the butt of his handgun against Danny’s cheekbone. The blow sent Danny reeling sideways. The toolbox rattled in his grasp. But though he stumbled, he did not fall. And though the side of his face felt warm and sticky with a trickle of blood, he did not scream.
 </p>
 <p>
 Ivan stepped toward him and leaned into his face. “You think you funny man, huh?”
@@ -15,13 +15,7 @@ Ivan stepped toward him and leaned into his face. “You think you funny man, hu
 “I think the joke’s on you,” Danny replied.
 </p>
 <p>
-Ivan snorted. “Who are you? You are some kind of computer hacker man? You make trick with Interpol investigation on telephone, yes? It was something to do with you, I know. You think you so smart and sneaky, don’t you?”
-</p>
-<p>
-Danny shook his head in condescending pity. “You have no idea what you’re up against.”
-</p>
-<p>
-“You acting very brave, is taking big balls for such weak man,” Ivan leered into his face. “But I not afraid of you or your little tricks.”
+Ivan snorted. “Who are you? You are some kind of computer hacker man? You make trick with Interpol investigation on telephone, yes? It was something to do with you, I know. You think you so smart and sneaky, don’t you? But I not afraid of you or your little tricks.”
 </p>
 <p>
 Danny kept eye contact with him and said, in a voice cold as steel, “You should be.”
@@ -30,10 +24,10 @@ Danny kept eye contact with him and said, in a voice cold as steel, “You shoul
 Ivan turned around dismissively and began saying a few words in Russian to the men around him.
 </p>
 <p>
-Danny quickly interrupted him. “Don’t bother!” he shouted confidently to the mercenaries. “Don’t bother listening to him. He’s finished. As of right now, he has no money and no power. He’s not your boss anymore. He’s about to become nothing but a poor, penniless old man.”
+Danny quickly interrupted him. “Don’t bother!” he shouted confidently to the mercenaries. “Don’t bother listening to him. He’s finished. As of right now, he has no money and no power. He’s not your boss anymore. He’s nothing but a poor, penniless old man.”
 </p>
 <p>
-The Russian kingpin stared at Danny through narrowed, wrinkly eyes. “You are such idiot,” he hissed. “You think that is all my money?” He pointed at the screen showing the bank balance. “That is the pocket change for me! That is one weekend gambling in Monaco! I have given away as a gift more than that! I owning four houses, two ships, and private jet plane, each one being worth more than that! You think you stealing this one account from me will be making me ‘penniless’? You are so stupid it is pathetic!”
+The Russian kingpin stared at Danny through narrowed, wrinkly eyes. “You are such idiot,” he hissed. “You think that is all my money?” He pointed at the screen showing the bank balance. “That is the pocket change for me! That is one weekend gambling in Monaco! I have given away as a gift more than that! I owning mansion, two ships, and private jet plane, each one being worth more than that! You think you stealing this one account from me will be making me ‘penniless’? You are so stupid it is pathetic!”
 </p>
 <p>
 “No,” Danny said slowly. “I’m not talking about the account. What I am talking about, Ivan, is your business ventures.”
@@ -51,43 +45,31 @@ On the Bluetooth earpiece, Jason replied, “Survive now. Thank me later.”
 Ivan sneered at the screen. “What in Devil is that?”
 </p>
 <p>
-“You know what this is, Ivan,” said Danny. “And so do your men. This is how much of your gross revenue comes from your various operations. A little bit from prostitution.” He bobbed his bloodied head at the women in the suite, a few of whom had wandered toward the living room out of curiosity when the bank account was displayed. “A little bit from arms trading.” He swept his free hand to gesture at the guns pointed at him from all angles. “But the vast majority of your total income comes, of course, from drugs. And among drugs, your single highest-grossing product happens to be cocaine.”
+“You know what this is, Ivan,” said Danny. “And so do your men. This is how much of your gross revenue comes from your various operations. A little bit from prostitution. A little bit from arms trading. But the vast majority of your total income comes, of course, from drugs. And among drugs, your single highest-grossing product happens to be cocaine.
 </p>
 <p>
-Ivan stared at Danny in angry bewilderment. “Who giving you this information?” he demanded. “Where coming from these numbers?”
+“So, bearing in mind that your entire aggregated portfolio is only cash-flow positive because of cocaine,” Danny continued, “it appears that you, sir, have made…” He paused, which gave Jason a cue. The screen cut to a photograph of a test tube filled with pale brown goo, overlaid on top of the stylized “W” that served as the logo for Tungsten Medical Technologies. “…a very, very poor investment decision.”
 </p>
 <p>
-In Danny’s ear, Jason quietly interjected, “From my ass.” Danny resisted laughing, and ignored Ivan’s question. It didn’t matter if the numbers were accurate or not.
-</p>
-<p>
-“So, bearing in mind that your entire aggregated portfolio is only cash-flow positive because of cocaine,” Danny continued, “it appears that you, sir, have made…” He paused, which gave Jason a cue. The screen cut to a photograph of a test tube filled with pale brown goo, overlaid on top of the stylized “W”, the chemical symbol for the element tungsten, that served as the logo for Tungsten Medical Technologies. “…a very, very poor investment decision.”
-</p>
-<p>
-“Yes, Tungsten company. You know so little,” Ivan scoffed. “You call Tungsten bad investment because of big debts to old investors? I call it best investment I ever make. Tungsten finish their job very, very good. Now I have no use for anymore. Their old investors can have them, I no more caring.” He slowly and proudly reached into his chest pocket and produced the small translucent smiley-faced Eppendorf vial. He held it smugly before him between his thumb and forefinger. “I have everything from them I needed.”
+“Yes, Tungsten company. You know so little,” Ivan scoffed. “You call Tungsten bad investment because of big debts to old investors? I call it best investment I ever make. Tungsten finish their job very, very good. Now I have no use for anymore. Their old investors can have them, I no more caring.” He slowly and proudly reached into his chest pocket and produced the small translucent smiley-faced Eppendorf vial. He held it smugly before him. “I have everything from them I needed.”
 </p>
 <p>
 Danny let the old Russian relish his self-satisfaction for a moment before saying to him, “There’s something I’d like to show you. It’s inside this toolbox I’m carrying here. May I open it?”
 </p>
 <p>
-Ivan spoke a few gruff words of Russian to a nearby bodyguard. The man marched up to Danny and yanked the metal box from his grasp. He set it down on the glass coffee table, keeping Danny close by. Ivan backed a good distance away, and the man cautiously unbuckled the clasps of the toolbox’s lid.
+Ivan spoke a few gruff words of Russian to a nearby bodyguard. The man marched up to Danny and yanked the metal box from his grasp. He set it down on the glass coffee table, keeping Danny close by. Ivan backed a good distance away, and the man cautiously unbuckled the clasps of the toolbox’s lid, and reached within.
 </p>
 <p>
-Under Danny’s instruction, the man retrieved the Tupperware bowl with the frosted sides.
+Slowly, the bodyguard drew from the box a small translucent Eppendorf vial filled with pale brown goo.
 </p>
 <p>
-He carefully opened it, and gazed within.
-</p>
-<p>
-Slowly, the bodyguard drew from the bowl a small translucent Eppendorf vial filled with pale brown goo.
-</p>
-<p>
-The other men crowded in to take a closer look. Their eyes shifted between the vial in Ivan’s hand and the one held by their comrade. The mercenaries spoke in quiet, wary tones to one another. One of the others reached for the small plastic container.
+The other men crowded in to take a closer look. Their eyes shifted between the vial in Ivan’s hand and the one held by their comrade. The mercenaries spoke in quiet, wary tones to one another. One of the others reached for the toolbox.
 </p>
 <p>
 “Go ahead,” Danny said pleasantly. “Pass them around. I brought enough for everybody.”
 </p>
 <p>
-The second man put his hand into the Tupperware container, and pulled out another identical Eppendorf vial.
+The second man put his hand into the toolbox, and pulled out another identical Eppendorf vial.
 </p>
 <p>
 And another.
@@ -96,10 +78,10 @@ And another.
 And another.
 </p>
 <p>
-The proud, self-satisfied smirk on Ivan’s face slowly sank as he watched his men &mdash; and the women too &mdash; milling around the Tupperware bowl. One by one, they each picked up and studied their very own replicas of Ivan’s priceless tube.
+The proud, self-satisfied smirk on Ivan’s face slowly sank as he watched his men &mdash; and the women too &mdash; milling around the toolbox. One by one, they each picked up and studied their very own replicas of Ivan’s priceless tube.
 </p>
 <p>
-“Bullshit! You full of bullshit!” Ivan spat. “You filling the cylinders with water from dirty toilet, and you pretending it is same thing as this one? You are sneaky piece of shit, hacker man! But we are not stupid. Those tubes you brought, they not real.”
+“Bullshit! You full of bullshit!” Ivan spat. “You filling with water from dirty toilet, and you pretending it is same thing as this one? You are sneaky piece of shit, hacker man! But we are not stupid. Those tubes you brought, they not real.”
 </p>
 <p>
 For a moment, Danny said nothing. The image on the television screen flipped to a carefully arranged photograph of the kitchen in Danny’s own house. The pot filled with lysogeny broth sat prominently in the foreground, angled from the top to show its slimy, clumpy, rotting-looking contents. Next to it stood bottles of kerosene and acetone, alongside bowls and buckets encrusted on the inside with cocaine extraction by-products.
@@ -108,22 +90,22 @@ For a moment, Danny said nothing. The image on the television screen flipped to 
 “They’re completely real. You know they are,” Danny said firmly. “They’re cloned directly from that batch you’re holding in your hand. That’s why you had Tungsten create this bacterium in the first place, after all &mdash; to produce a source of cocaine that’s portable, durable, and easily replaced. Well, guess what, Ivan? You wanted ‘easily replaced’? You got it.
 </p>
 <p>
-“You see, you’re a trader, Ivan. A businessman. You think in terms of investments, rates of return, buy low, sell high, yaddah yaddah. You saw this genetic engineering project as a chance to establish vertical integration &mdash; a way to control your entire supply chain, without having to depend on third-party manufacturers in South America. It was a good idea, really &mdash; it would’ve allowed you to have lower margins than any other cocaine distributor in the entire world.
+“You see, you’re a trader, Ivan. A businessman. You think in terms of investments, rates of return, buy low, sell high, yaddah yaddah. You saw this genetic engineering project as a chance to establish vertical integration &mdash; a way to control your entire supply chain, without having to depend on manufacturers in South America. It was a good idea, really &mdash; it would’ve allowed you to have lower margins than any other cocaine distributor in the entire world.
 </p>
 <p>
 “But, Ivan, you’ve clearly never invested in technology before. And that is where, as a businessman, you might have wanted to think a little harder. Take it from me, Ivan. I’ve been in the tech industry my entire life. I’ve seen how it works from the inside out. From a business point of view, it has certain aspects that are, shall we say, counterintuitive.
 </p>
 <p>
-“There’s a word for what you’ve done, Ivan. It’s called a ‘disruptive innovation’. It’s a creation whose very existence completely changes the marketplace &mdash; and once it’s created, the world is never the same.”
+“There’s a name for what you’ve done, Ivan. It’s called ‘disruptive innovation’. It’s a creation whose very existence completely changes the marketplace &mdash; and once it’s created, the world is never the same.”
 </p>
 <p>
-The screen filled with a collage of images: a printing press, a flint-lock firearm, a light bulb, a Model T Ford, an airplane, a nuclear explosion, an IBM mainframe computer, an iPhone. The photograph of the Eppendorf vial with the Tungsten logo floated to a corner.
+The screen filled with a collage of images: a printing press, a flint-lock firearm, a light bulb, a Model T Ford, an airplane, a nuclear explosion, an IBM mainframe computer, an iPhone. The photograph of the Eppendorf vial with the Tungsten logo floated in a corner.
 </p>
 <p>
 “Here’s the thing about working in technology,” Danny said. “You never know where your own place will be in the new world order that you yourself usher in. To create a new technology, you have to become an expert in the tech leading up to it &mdash; but then, when you build something that surpasses the contemporary state of the art, you make your own expertise obsolete. The skills that you spend your entire life honing &mdash; and you, along with them &mdash; are rendered defunct by your own hand.
 </p>
 <p>
-“And you might think that you, as the innovator, might have some kind of natural position of merit, some kind of intrinsic value. But you’d be wrong. Instead, you find yourself at a competitive disadvantage against younger, fresher minds &mdash; minds that are uncluttered by knowledge of the derelict systems that you had to learn in order to replace; minds that are unhindered by the assumptions of what is and isn’t possible that you yourself helped overturn; minds that are born into a world that took you decades of struggle to forge. The youth that follow will only know the world you have made for them; they will never know the world you came from. The pinnacle of your achievements, the greatest heights to which you can climb, will for them be merely their starting point; they will take for granted your lifetime of work without ever understanding that there was a world before it. They’ll use your own accomplishments to leave you in the dust. The world moves on &mdash; and it does so because you <em>make</em> it move on. Because, as a technologist, that’s the whole point.
+“And you might think that you, as the innovator, might have some kind of natural position of merit, some kind of intrinsic value. But you’d be wrong. Instead, you find yourself at a competitive disadvantage against younger, fresher minds &mdash; minds that are uncluttered by knowledge of the derelict systems that you had to learn in order to replace; minds that are unhindered by the assumptions of what is and isn’t possible that you yourself helped overturn; minds that are born into a world that took you decades to forge. The youth that follow will only know the world you have made for them; they will never know the world you came from. The pinnacle of your achievements, the greatest heights to which you can climb, will for them be merely their starting point. They will take for granted your lifetime of work without ever understanding that there was a world before it. They’ll use your own accomplishments to leave you in the dust. The world moves on &mdash; and it does so because you <em>make</em> it move on. Because, as a technologist, that’s the whole point.
 </p>
 <p>
 “Now, Ivan, would you like to see what the youth of today are doing with your accomplishments right this very minute? Take a look. You might find this… inspirational.”
@@ -408,7 +390,7 @@ He saw, looking back into his eyes, the helmet-covered face of Sergey Mukhayev. 
 And he heard Sergey’s voice, through the helmet, through the gunfire, through the ringing, yell, “<em>Go!</em>”
 </p>
 <p>
-Danny tried to say something. He found his throat too dry and constricted to speak. When he opened his mouth, his temples felt like they were being squeezed in a vise.
+Danny tried to say something. When he opened his mouth, his temples felt like they were being squeezed in a vise.
 </p>
 <p>
 At the doorway, Leo suddenly shouted something in Russian and began backing away from the entrance. Inside the suite, Ivan’s men were slowly closing in on him, using furniture and the room’s geometry to give them cover. They moved along opposite walls, trying to flank him. Leo turned rapidly back and forth to spray them with suppression fire, littering the ground with spent shell casings in his efforts to hold them back. But every time he turned toward one man, another would use the opening to advance steadily on his position.

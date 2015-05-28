@@ -171,7 +171,7 @@ Danny took it with an evil gleam in his eye, and examined it carefully. “I bet
 Tina shrugged.
 </p>
 <p>
-“Well it’s not. This is a Pantech. AT&amp;T sells them as part of a GoPhone package &mdash;where you can pay cash up front and your name never shows up on any phone records. In other words, this is a disposable phone. And it’s a good one for the price, really. Supports MMS, BlueTooth, email, web browsing, GPS …”
+“Well it’s not. This is a Pantech. AT&amp;T sells them as part of a GoPhone package &mdash;where you can pay cash up front and your name never shows up on any phone records. In other words, this is a disposable phone. And it’s a good one for the price, really. Supports MMS, BlueTooth, email, web browsing, GPS…”
 </p>
 <p>
 “So what can you do with it?” Tina said, skeptical but eager.
@@ -719,10 +719,7 @@ The voice made a few statements.
 The voice issued a gruff response. Then, after a pause, it said something else.
 </p>
 <p>
-Tina looked up at Danny. She slowly pulled the phone away from her ear and extended it out to him.
-</p>
-<p>
-“He wants to talk to you,” she whispered.
+Tina looked up at Danny. She slowly pulled the phone away from her ear and extended it out to him. “He wants to talk to you,” she whispered.
 </p>
 <p>
 Danny blinked. “Wait, what? To <em>me</em>?”

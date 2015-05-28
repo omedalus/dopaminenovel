@@ -84,10 +84,10 @@ Satish asked, “Do you want to see their camera feeds?”
 “Yes!” Danny said. “You have video streams?”
 </p>
 <p>
-“I have everything,” said Satish. “I’m doing a promiscuous packet sniff. I’m seeing an MPEG-4 stream inside a HTTP session. Look at port 80 on 192.168.2.57.”
+“I have everything,” said Satish. “I’m doing a promiscuous packet sniff. Look at port 80 on 192.168.2.57. I’m seeing an MPEG-4 stream inside a HTTP session.” Despite years of experience working alongside Indian engineers and normally having no trouble parsing the accents of the subcontinent, Danny had never quite gotten used to the pronunciation of “H” as “hatch”.
 </p>
 <p>
-Danny entered the numbers. His screen filled with a picture of the driveway just in front of the Tungsten building, pixelated and choppy. A narrow ribbon of text ran along the bottom, showing the current date, time, and information about the camera. A rectangle labeled “PTZ” contained icons of arrows and magnifying glasses. Danny clicked on them and found that he could move the camera &mdash; pan, tilt, and zoom. “Niiiii<em>iii</em>ce!” Danny sang.
+Upon entering the numbers, Danny’s screen filled with a picture of the driveway just in front of the Tungsten building, pixelated and choppy. A narrow ribbon of text ran along the bottom, showing the current date, time, and information about the camera. A rectangle labeled “PTZ” contained icons of arrows and magnifying glasses. Danny clicked on them and found that he could move the camera &mdash; pan, tilt, and zoom. “Niiiii<em>iii</em>ce!” Danny sang.
 </p>
 <p>
 “I’m seeing user activity,” said Satish. “There’s a chat session, and there’s a FireFox browser making requests to stuffonmycat.com. I’m pretty sure someone’s still in the building.”

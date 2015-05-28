@@ -42,7 +42,7 @@ Unaided human eyes could see light frequencies ranging from 430 to 790 terahertz
 “You mean your friend<em>s</em> Cain and Abel? Plural, right? Who?” Jason asked.
 </p>
 <p>
-“No, Cain & Abel,” Danny corrected. “It’s an application written by an Italian hacker named Massimiliano Montoro. It’s a, um, ‘password recovery toolkit’,” Danny said with air-quotes and a smirk. “You know, in case you, uh, ever lose the key to your own network. Or… something. So let’s see what it can do here…” He whisked his fingers across his laptop, navigating through an elaborate maze of buttons and drop-down menus. “Passive Scan… Capture to File… Packet Injection ARP Requests… and… Go!”
+“No, Cain & Abel. It’s an application you can download from the web. It’s a, um, ‘password recovery toolkit’,” Danny said with air-quotes and a smirk. “You know, in case you, uh, ever lose the key to your own network. Or… something. So let’s see what it can do here…” He whisked his fingers across his laptop, navigating through an elaborate maze of buttons and drop-down menus. “Passive Scan… Capture to File… Packet Injection ARP Requests… and… Go!”
 </p>
 <p>
 “<em>Now</em> you’re in?” asked Jason.

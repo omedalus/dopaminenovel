@@ -46,7 +46,7 @@ He managed to duck down and catch it before it crashed on his kitchen tile. When
 “Fill the pot with hot water,” she instructed, “and pre-heat the oven to 450.” She put the paper on the counter and began writing, her mind sharply focused.
 </p>
 <p>
-Danny did as told. When he went to prepare the oven, he saw the clock above the stove. The time was 3:17am.
+Danny did as told. When he went to prepare the oven, he saw the clock above the stove. The time was 2:17am.
 </p>
 <p>
 His exhaustion returned to him like a lead shawl suddenly draped upon his shoulders. For a few moments, he barely felt strong enough to stand. He put the pot into the sink and began filling it, leaning heavily against the counter with both hands. With unfocused vision, he watched the hot water rise against the stainless steel, swirling and sloshing and effervescing. 

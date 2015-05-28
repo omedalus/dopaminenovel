@@ -112,7 +112,7 @@ To continue, type an administrator password, and then click Yes.
 </pre>
 
 <p>
-Leffert rolled her eyes and tapped in her password.
+Leffert rolled her eyes and tapped her password.
 </p>
 <p>
 “I didn’t break anything, did I?” said the electrician. “I was just checking the electrical connection. Nothing I was doing should’ve touched the computer’s software…”
@@ -133,182 +133,25 @@ He shook his head. “I need to keep looking. The fault’s not here. Your syste
 
 <div class="chapsection">
 <p>
-<span class="caplead">
-Moshen Chan sat in the driver’s seat</span> of the Claymore Communications van, with a small platoon of Russian mafia thugs in the front and a cache of paramilitary armament buried beneath cellular transmission equipment in the back, wishing he could be at home writing some JavaScript code instead.
+<span class="caplead">Danny watched the old Claymore Communications van</span> roll through the gate toward a secluded corner of the hotel’s underground garage. He leaned against a concrete pillar, illuminated by jaundiced fluorescent lamps. “Did anyone see them enter?” he asked.
 </p>
 <p>
-Satish’s Indian-accented voice chimed within Moshen’s earpiece. “I’ve got their billing systems under my control.”
+“Negative,” Satish’s Indian-accented voice replied inside his earpiece. “Our virus went from the restaurant’s sale terminal to the hotel’s billing system, and from there to the security office. We control the cameras. And the garage gate, obviously. See?” 
 </p>
 <p>
-Moshen asked, “Where’s Jason and Danny?”
+Danny watched the parking barrier’s arm rise and drop several times. “Hello to you too!” he said with a slight chuckle as he waved back. “What about doors?”
 </p>
 <p>
-Tina answered. “I’ve got them on a sidebar call. They’re discussing something about a slideshow.”
+“All ours,” Satish answered. “And the elevators. Mike is working on telephone landlines…”
 </p>
 <p>
-Satish announced, “Mike, I’m about to take over their security office. If they notice, they’ll probably signal for help. So I’m holding off until you take over their communications. How are you coming on that PSTN gateway?”
-</p>
-<p>
-“I’ll tell you in a second,” Mike answered. Five silent minutes later, he said, “I think I got it. Routing phone calls to Tina…”
+Mike’s voice interjected, “PSTN secured! Routing all phone calls to Tina…”
 </p>
 <p>
 “Yay,” Tina said with a level of enthusiasm usually reserved for dental exams.
 </p>
 <p>
-With his keyboard clattering in the background, Satish said, “Okay. I’m taking control of their security office.”
-</p>
-<p>
-Mike announced, “Camera feeds coming online.” In the muffled background, he and Natalie strategized about which of them would watch which camera.
-</p>
-<p>
-“Now, find a camera pointing at the parking entrance and watch it,” Satish instructed. “From the security controls, I should be able to open the gate to the underground garage. Can you guys see it moving?”
-</p>
-<p>
-Natalie announced, “I see it!”
-</p>
-<p>
-“Okay then,” said Satish. “Tina, can you get Danny and Jason for us?”
-</p>
-<p>
-Jason’s voice arrived on the call in mid-sentence. “…where I’d get transaction counts and real-time sales figures like that.”
-</p>
-<p>
-Danny replied to him, “Well, see, that’s just it. They don’t have to be real. Just believable. Remember, the goal is immediate psychological impact…”
-</p>
-<p>
-Tina interrupted. “Hey Danny. I’ve patched you guys back into the main conference.”
-</p>
-<p>
-“What’s our status?” he asked.
-</p>
-<p>
-Satish said to him, “We own their billing systems, their security center, and their telephone lines.”
-</p>
-<p>
-“Sweet,” Danny said slowly. “Then the next step is inserting the strike team. Moshen, you there?”
-</p>
-<p>
-Moshen broke his silence. “Yeah.” He took a deep breath. “On our way.”
-</p>
-<p>
-He started the ignition. The van rumbled to life, its headlights casting long cones of light down the still street. Large tires gripped the pavement as they slowly rolled out from the shoulder and onto the road. With his eyes moving in a twitchy, paranoid scanning pattern, Moshen guided the van along the quiet Bellevue streets into Medina, Washington.
-</p>
-<p>
-If it wasn’t for the notification on the van’s GPS display, Moshen would never have known he’d just crossed into one of the wealthiest towns in the nation. Unlike the ostentatious palaces of Beverly Hills or the Hamptons, with their Corinthian columns and monogrammed wrought-iron gates, the houses of Medina were mostly simply large specimens of the kind of nondescript homes found in any upper-middle-class neighborhood. On one side of the simple suburban two-lane road, a descending slope overlooked roofs sprinkled between moonlit treetops. On the other, tall bushes obscured long driveways winding upwards beyond the greenery.
-</p>
-<p>
-Without any warning, a pair of headlights materialized behind him.
-</p>
-<p>
-A loud, high-pitched whooping sound broke the quiet night, and the van was suddenly lit up by the spastic red and blue flashes of a police cruiser’s lightbar. 
-</p>
-<p>
-Moshen gulped and pulled gently onto the shoulder between the road and the foliage. The van’s tires crunched against fine gravel as it eased to a halt. He watched the police lights blink frenetically in his mirrors, and waited.
-</p>
-<p>
-A bright white light suddenly shone through the driver’s side window. Moshen rolled down his window.
-</p>
-<p>
-“Claymore Communications,” said a gravelly male voice.
-</p>
-<p>
-“Yes, sir,” said Moshen.
-</p>
-<p>
-The policeman waved his torch away from Moshen’s eyes, and swooped its bright circle onto Sergey in the passenger seat.
-</p>
-<p>
-Sergey blinked, and attempted a friendly, professional smile.
-</p>
-<p>
-“What brings you boys to the neighborhood?” the policeman said slowly. He panned his light across Eugene and Leo in the back seat. They kept stoic poker-faces.
-</p>
-<p>
-“We’re on a troubleshooting call,” Moshen answered. “For the Medina Gallante hotel.”
-</p>
-<p>
-The policeman angled his flashlight to see into the rear of the van, past the back seat. The beam illuminated computer cables and server racks.
-</p>
-<p>
-He turned his attention back to Moshen. “License, registration, and insurance.”
-</p>
-<p>
-Moshen fished the paperwork out of his wallet and the van’s glove compartment. “Was I doing something wrong, Officer?”
-</p>
-<p>
-The cop took the papers and turned around unceremoniously. “Maybe you were, maybe you weren’t.” His boots on the gravel receded beat by beat toward the squad car.
-</p>
-<p>
-Moshen leaned back in the driver’s seat and tried to relax. Minutes passed.
-</p>
-<p>
-He heard a ringback tone in his Bluetooth earpiece.
-</p>
-<p>
-Tina’s chipper voice said, “You’ve reached the Medina Gallante! How may I direct your call?”
-</p>
-<p>
-The policeman’s voice responded, “This is Lieutenant Wight, with the Bellevue PD. Can I speak to someone in charge?”
-</p>
-<p>
-Tina replied, “I’m the night shift manager. Is everything alright, Officer?”
-</p>
-<p>
-“I just stopped a company wagon en route to your destination. Markings ‘Claymore Communications.’ They got any legitimate business over there?”
-</p>
-<p>
-“Absolutely!” said Tina. “We’re having serious problems with our computer systems. We need them here right away.”
-</p>
-<p>
-“They don’t look right,” said the policeman. “The driver’s not registered to the vehicle. His tax records say he does computer work, but there’s nothing on file tying him specifically to this Claymore Communications company. Dispatch says nobody’s answering Claymore’s phone right now, so we can’t confirm with the registrant. There are three additional persons in the vehicle. There’s something off about them. They don’t look like computer folks to me. I can have Dispatch send a car out to you guys to keep an eye on these boys, just in case.”
-</p>
-<p>
-“Oh, no, Officer. That really won’t be necessary,” Tina assured. “We wouldn’t want to upset our guests with a police presence.”
-</p>
-<p>
-“We’ll send plainclothes,” the cop suggested. “They’ll blend right in with the civilian population. It’d be no trouble.”
-</p>
-<p>
-“No, really, don’t,” Tina insisted. “Please, we need those Claymore engineers here quickly. We’re losing revenue.”
-</p>
-<p>
-“Engineers. Right.” The policeman gave a noncommittal grunt. “Over and out.”
-</p>
-<p>
-Moshen glanced at his passengers. They looked like enormous wolves, with snarling fangs and bristling fur, wearing stickers on their chests saying, “Hello, My Name Is <span class="underlined">_Sheep_</span>!”
-</p>
-<p>
-Outside, the policeman’s footsteps slowly approached.
-</p>
-<p>
-“Guys!” Moshen said to the Russians. “Quick! Act like nerds!”
-</p>
-<p>
-Sergey raised an eyebrow. “What?”
-</p>
-<p>
-“<em>Act like nerds!</em>”
-</p>
-<p>
-Eugene and Leo looked at one another dumbly for a moment. Then, Leo tentatively said, “I like computers…?” Eugene replied, “I <em>love</em> computers.” Leo answered, “Me too! I love computers so much!” “Computers are best! I can’t computer enough!” “Oh man, you should see this computer I computered the other night. It had the hottest circuits…”
-</p>
-<p>
-Sergey, for his part, merely sat in the passenger seat, quietly picking his nose.
-</p>
-<p>
-The policeman returned just long enough to hand Moshen back his cards. He muttered a perfunctory, “Drive safe,” and ambled back to his cruiser.
-</p>
-<p>
-The Asian kid let out a deep, cathartic sigh, and slowly pulled back onto the road.
-</p>
-</div>
-
-<div class="chapsection">
-<p>
-<span class="caplead">Danny watched the van</span> roll through the gate toward a secluded corner. He leaned against a concrete pillar in the hotel’s underground garage, illuminated by jaundiced fluorescent lamps.
-</p>
-<p>
-Moshen cut the engine, hopped out, and came around to open the rear doors. Danny was greeted by the familiar sight of Claymore’s field installation equipment and on-site troubleshooting tools. A spectrum analyzer, a portable power supply, and a short Yagi antenna jutted out from the disheveled pile of electronics. In the past six years, he’d taken this van to more trade shows and vendor demonstrations than he cared to remember. With Claymore now closed and its assets pending sell-off, this mission to the Medina Gallante was to be this van’s last expedition.
+Moshen cut the engine, hopped out, and came around to open the rear doors of the van. Danny was greeted by the familiar sight of Claymore’s field installation equipment and on-site troubleshooting tools. A spectrum analyzer, a portable power supply, and a short Yagi antenna jutted out from the disheveled pile of electronics. In the past six years, he’d taken this van to more trade shows and vendor demonstrations than he cared to remember. With Claymore now closed and its assets pending sell-off, this mission to the Medina Gallante was to be this van’s last expedition.
 </p>
 <p>
 The van rocked gently on its suspension as Sergey stepped out. The side door slid open, and Eugene and Leo emerged. They each fiddled with Bluetooth earbuds. On his own piece, Danny overheard the chatter as Tina joined them to the conference call.

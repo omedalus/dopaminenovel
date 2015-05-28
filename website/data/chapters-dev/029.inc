@@ -594,10 +594,10 @@ Danny heard the distinctive beep and squelch tone of a trunked digital radio sys
 “Dispatch, come in, over,” said the man.
 </p>
 <p>
-A speech-like warble came from his radio unit in reply.
+A warble came from his radio unit in reply.
 </p>
 <p>
-“This is Detective Macintyre, with Detective Santello, on plainclothes patrol at the Medina Gallante hotel. Responding to a request by Officer Wight after a routine Medina traffic stop of a company van carrying suspicious persons. Dispatch, we’ve got a situation here…”
+“This is Detective Macintyre, with Detective Santello, on plainclothes investigation at the Medina Gallante hotel. We picked up a company van marked ‘Claymore Communications’ on the Medina neighborhood camera system, and gave it a routine tail. Dispatch, we’ve got a situation here…”
 </p>
 <p>
 Leo interrupted. “I need a bandage,” he hissed quietly through his teeth.

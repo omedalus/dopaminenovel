@@ -1,9 +1,9 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The morning sun shone</span> through Venetian blinds, casting long parallel lines of orange light upon a disheveled bed. The stripes of daylight highlighted the contours of the blanket in sharp relief, tracing out the lithe, slim bodies of sleeping lovers that lay beneath. A pillow supported the slender arm of a young woman, her French-manicured hand dangling over the edge, the crook of her elbow nestling a head that sported tussled locks of blond hair. 
+<span class="caplead">The morning sun shone</span> through Venetian blinds, casting long parallel lines of orange upon a disheveled bed. The stripes of daylight highlighted the contours of the blanket in sharp relief, tracing out the lithe, slim bodies of sleeping lovers that lay beneath. A pillow supported the slender arm of a young woman, her French-manicured hand dangling over the edge, the crook of her elbow nestling a head that sported tussled locks of blond hair. 
 </p>
 <p>
-On the red brick walls, the morning light drew horizontal ribbons through a <em>TRON: Legacy</em> poster, a stolen “No U Turn” sign, and a shelf filled with toys &mdash; magnetic Buckyballs, a metal Slinky, and a menagerie of vinyl dolls all bearing the bubbly round creepy-cute look of designer KidRobot figurines.
+On the red brick walls, the morning light drew ribbons through a <em>TRON: Legacy</em> poster, a stolen “No U Turn” sign, and a shelf filled with toys &mdash; magnetic Buckyballs, a metal Slinky, and a menagerie of vinyl dolls all bearing the bubbly round creepy-cute look of designer KidRobot figurines.
 </p>
 <p>
 From the floor somewhere near the bed, beneath a giant tangled mess of laptops, headphones, and dirty laundry, there came a faint blue glow, accompanied by an insistent buzzing. 

@@ -369,40 +369,28 @@ And when it went off, Danny was looking at it.
 <span class="caplead">There was a crushing sensation</span> as his body was slammed against a wall of solid sound. In a single instant, a hundred invisible fists punched him in the throat, the sternum, the ears, the eyes, and the gut all at once. The very air around him was trying to squeeze the life out of him.
 </p>
 <p>
-And then, there was no gunfire. There were no men and women scrambling and screaming and diving to the floor, no bullets slicing through the air. There was no air, and there was no floor. There was no gravity, no up or down or sideways.
+And then, there was no gunfire. There were no men and women scrambling and screaming and diving to the floor, no bullets slicing through the air. There was no air, and there was no floor. There was no gravity, no up or down or sideways. There was only the pale void &mdash; directionless, infinite, all-consuming. It was dark with an overwhelming invisible whiteness. It was silent with the cacophonous ringing of a single high, whining tone, pure and unyielding.
 </p>
 <p>
-There was only the pale void &mdash; directionless, infinite, all-consuming. It was dark with an overwhelming invisible whiteness. It was silent with the cacophonous ringing of a single high, whining tone, pure and unyielding.
+Danny couldn’t tell how long he spent floating in that emptiness, blind and deaf and unable to balance. He knew it could only have been a few seconds at most, but within that senseless expanse, time didn’t pass. The flash grenade was a nonlethal munition, but it was unmistakably a weapon &mdash; an energy weapon. It was a perfectly crafted attack against the human body’s sensory systems, exploiting overflow vulnerabilities in its acoustic and electromagnetic transduction machinery. And in that moment, Danny realized that he now knew exactly what it was like to be an electronic device getting hit by a pulse from his HERF gun.
 </p>
 <p>
-Danny couldn’t tell how long he spent floating in that emptiness, blind and deaf and unable to balance. He knew it could only have been a few seconds at most, but within that senseless expanse, time didn’t pass.
-</p>
-<p>
-His nimble mind mused idly about photons and quantum-leaping electrons, about atmospheric pressure differentials and frequency discrimination and Fourier transforms. He thought about Tina &mdash; somehow, it gave him comfort to know that, even if he couldn’t explain what was happening to him, she could. She would be able to tell him that the flash was designed to instantly burn through the entire active supply of photosensitive pigments in his retinal cells, making sight physiologically impossible until his rods and cones replenished their rhodopsin and photopsin proteins. She would tell him that the ringing in his ears was coming from damaged stereocilia fibers that got rattled to the point of breaking; and that the sudden silence was the result of a protective mechanism called the “stapedius reflex”, which caused the tiny bones in his middle ears to tense up into a tight huddle to prevent them from conducting any more potentially harmful sound to his inner ear.
-</p>
-<p>
-The flash grenade was a nonlethal munition, but it was unmistakably a weapon &mdash; an energy weapon. It was a perfectly crafted attack against the human body’s sensory systems, exploiting overflow vulnerabilities in its acoustic and electromagnetic transduction machinery.
-</p>
-<p>
-Danny suddenly realized that he now knew exactly what it was like to be an electronic device getting hit by a pulse from his HERF gun.
-</p>
-<p>
-Formless ripples danced in the periphery of the white nothingness. The vague visual impression of motion began to return, far ahead of the ability to discern what exactly was moving. Shimmering ghosts started to coalesce into shadows, forming distinct regions of light and darkness. Colors and hues, pale and washed-out at first, slowly re-saturated in the milky emptiness before Danny’s eyes.
+Formless ripples eventually danced in the periphery of the white nothingness. The vague visual impression of motion began to return, far ahead of the ability to discern what exactly was moving. Shimmering ghosts started to coalesce into shadows, forming distinct regions of light and darkness. Colors and hues, pale and washed-out at first, slowly re-saturated in the milky emptiness before Danny’s eyes.
 </p>
 <p>
 He saw a large, dark shape rushing at him out of the snowy void.
 </p>
 <p>
-Danny tried to dodge the oncoming blur, but he was too unbalanced to turn and move. Before he could choose a direction of escape, the shadow was upon him.
+Danny tried to dodge the oncoming blur, but he was too unbalanced. Before he could even move, the shadow was upon him.
 </p>
 <p>
-He felt his body suddenly pressed against a thick, bulky, muscular torso clad in plate-reinforced bulletproof padding, like the chest of a charging bull dressed for battle. A strong, meaty arm snaked around his ribcage and grabbed him under his armpit. The dark figure pulled Danny off of his unsteady feet and began dragging him across the unseen room. Danny reflexively mounted a confused, disoriented protest, but his struggles against the massive figure were weak and ineffectual. His heels swept along the floor as the shadow hauled him bodily to a destination unknown.
+He felt his body suddenly pressed against a thick, bulky, muscular torso clad in plate-reinforced bulletproof padding, like the chest of a charging bull dressed for battle. A strong, meaty arm snaked around his ribcage and grabbed him under his armpit. The dark figure pulled him off of his unsteady feet and began dragging him across the unseen room. Danny reflexively mounted a confused, disoriented protest, but his struggles against the massive figure were weak and ineffectual. His heels swept along the floor as the shadow hauled him bodily to destination unknown.
 </p>
 <p>
 Beneath the steady tone in his ears, he heard the faint tinny chatter of many voices. Their vocalizations sounded more like buzzing than like speech, but he was able to infer their words. They were calling his name. “Danny! Danny, are you okay?” “Danny, talk to us!” “Jesus Christ, Danny, what's going on?” He felt their vibrations directly on the skin of his ear, and realized that they were coming from his Bluetooth headset.
 </p>
 <p>
-From the other side of the dark figure, there came high-pitched plinks of bullets ricocheting off of reinforced polymer, sounding soft and muted in Danny’s ears. Somewhere off to his flank, the periodic <em>rat-tat-tat!</em> of fully-automatic gunfire cracked through the air, low and muffled as though heard from underwater. As the large figure dragged him through the room, the bursts grew closer. His nostrils filled with the acrid, metallic smell of burnt gunpowder.
+From the other side of the dark figure, there came high-pitched plinks of bullets ricocheting off of reinforced polymer, sounding soft and muted in Danny’s ears. Somewhere off to his flank, the periodic <em>rat-tat-tat!</em> of fully-automatic gunfire cracked through the air, low and muffled as though heard from underwater. As the large figure dragged him through the room, the bursts grew closer. Danny’s nostrils filled with the acrid, metallic smell of burnt gunpowder.
 </p>
 <p>
 The texture of the light and shadows around him changed abruptly just as he regained the ability to see lines and forms. He recognized the rectangular shape and rich brown color of the cedar door as it passed by. A silhouette of an armored and helmeted fighter crouched beside it; through fuzzy, spotty vision, Danny could see him taking careful aim into the suite with a highly accessorized rifle.
@@ -417,7 +405,7 @@ The dark figure set Danny on his feet. Danny steadied himself and looked up.
 He saw, looking back into his eyes, the helmet-covered face of Sergey Mukhayev. The large armor-clad man pushed Danny toward the door to the emergency stairwell, underneath a glowing red “Exit” sign.
 </p>
 <p>
-And he heard Sergey’s voice, through the helmet, through the gunfire, through the ringing, yell, “Go!”
+And he heard Sergey’s voice, through the helmet, through the gunfire, through the ringing, yell, “<em>Go!</em>”
 </p>
 <p>
 Danny tried to say something. He found his throat too dry and constricted to speak. When he opened his mouth, his temples felt like they were being squeezed in a vise.

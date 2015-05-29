@@ -87,7 +87,7 @@ Tina stared at him incredulously. “You’re saying the mob is in a ‘position
 “A Best Alternative To a Negotiated Agreement,” Jason answered. “It’s your fallback strategy. Believe me, this stuff I know. I may be out of my league when it comes to tech, but they do teach us something in business school, after all.”
 </p>
 <p>
-We’re not dealing with a business here!,” Tina cried. “We’re dealing with the mob!”
+“We’re not dealing with a business here!” Tina cried. “We’re dealing with the mob!”
 </p>
 <p>
 Jason smiled. “What do you think the mob is?” 
@@ -105,13 +105,13 @@ Danny, standing nearby, smiled a wide grin. “I know a thing or two about them.
 Jason looked at the small screen, perplexed. Slowly, his eyes went wide as understanding dawned. Satish and Moshen looked over excitedly. Mike craned his neck to look at the phone. Jason showed the screen to the men. Hoots and high-fives were exchanged. Danny let out a peal of maniacal laughter.
 </p>
 <p>
-“Guys, a lot of the emails are in Russian,” said Danny. “Could you guys run them through an online translator?”
+“A lot of the emails are in Russian,” said Danny. “Could you guys run them through an online translator?”
 </p>
 <p>
 Moshen took the phone. “No problem, Danny,” he said, and twirled back to his laptop.
 </p>
 <p>
-Jason nodded approvingly. “Listen, guys, we’ve got them by the balls and they don’t even know it. We have everything they want, <em>and</em> we have leverage to make sure they play fair. Now, Christina, I can get you out of this. Do you trust me?”
+Jason nodded approvingly. “Listen, guys, we’ve got them by the balls and they don’t even know it. Now, Christina, I can get you out of this. Do you trust me?”
 </p>
 <p>
 “I don’t have much choice, do I?” she replied.
@@ -129,7 +129,7 @@ She shot him a look of suspicion so hot it could’ve ignited his gelled gray ha
 She grudgingly pulled the vial out of her purse and put it in his palm. Jason’s fingers curled firmly around it like the fronds of a carnivorous plant. 
 </p>
 <p>
-With focused determination, Jason turned to face his team. “Moshen. What do the emails say anything about this Julie Yen girl?” he asked.
+With focused determination, Jason turned to face his team. “Moshen. What do the emails say about this Julie Yen girl?” he asked.
 </p>
 <p>
 “They don’t say anything about any Julie Yen by name,” Moshen answered. “But I’ve learned about six different ways in Russian to say, ‘Oriental whore.’”

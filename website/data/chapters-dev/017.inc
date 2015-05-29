@@ -16,31 +16,31 @@ Jason shrugged. “The best lies are based on truth.”
 Danny mumbled disapprovingly.
 </p>
 <p>
-The office from which they came was propped on unpainted I-beams above the factory floor. In the space beneath the office lay a naked mattress with a few blankets. An adjacent wall bore large metal double doors.
+The office catwalk was propped on unpainted I-beams above the factory floor. In the space beneath it lay a naked mattress with a few blankets. An adjacent wall bore large metal double doors.
 </p>
 <p>
 Julie Yen stood in the opposite corner. She eyed the two men apprehensively.
 </p>
 <p>
-“Julie,” Jason said reassuringly from across the room. “Are you okay?”
+“Julie,” Jason said from across the room. “Are you okay?”
 </p>
 <p>
-“What do you want?” the Asian girl grumbled.
+“What do you want?” she grumbled.
 </p>
 <p>
 “Relax,” said Jason. “We’re friends. We’re not going to hurt you.” He navigated across the mess of packing peanuts and torn cardboard littering the floor.
 </p>
 <p>
-“I’ve heard that a lot lately,” she said despondently. Her voice was slow, sad, and tired.
+“I’ve heard that a lot lately,” she said. Her voice was slow, sad, and tired.
 </p>
 <p>
-Following Jason toward the girl, Danny stepped over hoses and electrical cables that snaked across the floor underneath the mess. He stopped frequently to examine the fascinating equipment around him.
+Following Jason toward the girl, Danny stepped over hoses and electrical cables that snaked underneath the mess. He stopped frequently to examine the fascinating equipment around him.
 </p>
 <p>
-Near the center of the room was a glass vat, cylindrical and about two feet tall, sitting atop a three-foot base covered with dials and lights and meters, bearing readouts for temperature, pressure, salinity, and pH. Glass pipes led into the vat through a complex system of hoses and valves. It looked as though an office water cooler and a cappuccino machine had a baby, and that baby grew up aboard a nuclear submarine. The water inside it was hazy and silty like ocean brine. 
+Near the center of the room was a glass vat, cylindrical and about two feet tall, sitting atop a three-foot base covered with dials and lights and meters, bearing readouts for temperature, pressure, salinity, and pH. Glass pipes led into the vat through a complex system of hoses and valves. It looked as though an office water cooler and a cappuccino machine had a baby, and that baby grew up aboard a nuclear submarine. The water inside was hazy and silty like ocean brine. 
 </p>
 <p>
-Next to the vat sat a large pyramidal stack of plastic gallon-sized jars, just like the powdered diet supplements from the Rite-Aid earlier that night. Each one had a purple label on the front reading “L-Glutamine”.
+Near the vat sat a pyramidal stack of plastic gallon-sized jars, just like the powdered diet supplements from the Rite-Aid earlier that night. Each one had a purple label reading “L-Glutamine”.
 </p>
 <p>
 The back wall was lined with blue and black 55-gallon drums, alongside pumping equipment and large plastic tubs. Each barrel bore the label “Kerosene” or “Acetone,” and a color-coded diamond of red, blue, yellow, and white to indicate hazard ratings.
@@ -49,7 +49,7 @@ The back wall was lined with blue and black 55-gallon drums, alongside pumping e
 On a large gray metal table next to the drums, sitting alone near bulbous glass equipment, was a plain glass bottle filled with clear liquid. The bottle was small, barely larger than a soda can. Its top was curved like a bell, and its neck was sealed with a rubber-lined glass stopper. Next to the bottle, on the silvery steel tabletop, lay black rubber gloves and a pair of eye goggles. The bottle bore no label.
 </p>
 <p>
-Danny reached his hand toward the bottle. He wanted to turn it around and see if maybe there was some kind of engraving on the other side, or to shake it and see if the liquid inside would bubble.
+Danny reached his hand toward the bottle.
 </p>
 <p>
 “I wouldn’t touch that if I were you,” Julie’s voice said from the other side of the room.
@@ -538,7 +538,7 @@ Julie looked up at him. She tried to smile, but the corners of her mouth twitche
 Jason smiled and said, “Oh, really…?” His head slowly swiveled to look at Danny.
 </p>
 <p>
-Danny was standing next to the cylindrical vat in the center of the room, crouching low enough to gaze closely at the cloudy water. 
+Danny was crouching next to the cylindrical vat in the center of the room, gazing at the cloudy water. 
 </p>
 <p>
 “Periscope down, ensign!” Danny said to nobody in particular. “Helmsman, begin descent to 500 feet!” He pushed down on a protrusion, announcing, “Aye aye, captain!” He reached an arm around to the other side of the cylindrical water tank, and made kicking motions with two fingers. “Dive team! Dive team, do you copy?” Placing his other hand partly over his mouth, he made heavy breathing noises, reporting between breaths, “Aye, captain! No sign of the treasure yet…!”
@@ -556,22 +556,22 @@ Jason sighed. “Yeah. Your drugs,” he said, and with a grunt he stood up from
 
 <div class="chapsection">
 <p>
-<span class="caplead">Captain Danny was guiding his submarine</span> through the treacherous Vat Sea when he and his crew suddenly encountered an enormous and terrifying sea monster. From Captain Danny’s perspective, the creature looked like a horizontally stretched, distorted human face looking straight at him, almost like that of a young Asian female as seen through the lens-warping effect of a water-filled cylinder.
+<span class="caplead">Captain Danny was guiding his submarine</span> through the treacherous Vat Sea when his crew encountered an enormous sea monster. From Captain Danny’s perspective, the creature looked like a horizontally stretched human face looking straight at him, almost like that of a young Asian female as seen through the lens-warping effect of a water-filled cylinder.
 </p>
 <p>
 “Do you mind?” said the aquatic beast through its overly large mouth. “I set the environment for optimal growth conditions. It’d be nice if you didn’t screw it up.”
 </p>
 <p>
-Danny stood up from his crouching perspective and looked at Julie over the top of the vat. She regained normal human proportions. “Sorry. It’s been a seriously crazy day. I could really use some sleep.”
+Danny stood up and looked at Julie over the top of the vat. She regained normal human proportions. “Sorry. It’s been a seriously crazy day. I could really use some sleep.”
 </p>
 <p>
-“Heh, I know something white and powdery that can fix that,” she said with a conspiratorial smirk. “Let’s see if your guy comes through upstairs.” She was still carrying the vial. Danny saw her put it in the pocket of her sweatpants.
+“Heh, I know something white and powdery that can fix that,” she said with a conspiratorial smirk.
 </p>
 <p>
 “I don’t do drugs,” Danny asserted. “I hate the idea of fucking with my brain.”
 </p>
 <p>
-Julie laughed at him. “You fuck with your brain all the time anyway and you don’t even know it. You eat food, right? Well, amino acids in your food get converted to neurotransmitters, and carbohydrates affect your cortisol levels. So does exercise, which also releases endorphins. And you, uh, breathe air, right? Do you know what different oxygen concentrations do to your neurochemistry? Or sunlight, which triggers your body to make melanin and vitamin D, which have mood-altering effects. You spend time outside in the sun, right?” She looked him over. “Okay, bad example.”
+Julie laughed at him. “You fuck with your brain all the time and you don’t even know it. Amino acids in your food get metabolized into neurotransmitters, and carbohydrates affect your cortisol levels. So does exercise, which also releases endorphins. And you, uh, breathe air, right? Do you know what different oxygen concentrations do to your neurochemistry? Or sunlight, which triggers your body to make melanin and vitamin D, which have mood-altering effects. You spend time outside in the sun, right?” She looked him over. “Okay, bad example.”
 </p>
 <p>
 “Yeah, but that’s all natural,” said Danny.
@@ -580,22 +580,22 @@ Julie laughed at him. “You fuck with your brain all the time anyway and you do
 “So’s cocaine,” Julie replied. “It comes from a plant. Plants are natural.”
 </p>
 <p>
-Danny pointed to the steel barrels of kerosene and acetone at the back of the room. “Natural? You use <em>that</em> to extract it into a powder.”
+Danny pointed to the barrels of chemicals at the back of the room. “Natural? You use <em>that</em> to extract it into a powder.”
 </p>
 <p>
 “You cook your food, don’t you?” the girl retorted.
 </p>
 <p>
-Danny gave her a sheepish smile. “Me? I usually just microwave stuff that comes out of my freezer.”
+“Me? I usually just microwave stuff that comes out of my freezer.”
 </p>
 <p>
-“Real natural, homeboy,” Julie teased. “Besides, the very concept of agriculture itself &mdash; controlling your own food supply by intentionally raising plants and animals for the express purpose of eating them. <em>That’s</em> natural? Not to mention selectively breeding the fattest cows, the juiciest apples, and the hardiest grains for the last twenty thousand years. People get all up in arms about genetically modified organisms nowadays, as if we haven’t been genetically modifying our food since the Neolithic Revolution.”
+“Real natural, homeboy,” Julie teased. “Besides, the very concept of agriculture itself &mdash; controlling your own food supply by intentionally raising plants and animals for the express purpose of eating them. <em>That’s</em> natural? Not to mention selectively breeding the fattest cows, the juiciest apples, and the hardiest grains for the last twenty thousand years. People get all cranky about genetically modified organisms, as if we haven’t been genetically modifying things since the Neolithic Revolution.”
 </p>
 <p>
-“Isn’t there a difference of degrees,” Danny said. “I mean, isn’t there a line somewhere between growing your own plants on a farm, and directly manipulating the genome of a laboratory bacterium?”
+“Isn’t there a difference of degrees?” Danny said. “I mean, isn’t there a line somewhere between growing your own plants on a farm, and directly manipulating the genome of a laboratory bacterium?”
 </p>
 <p>
-“I don’t think there is,” said Julie. “Look, every single organism on Earth alters the world around it in order to increase its own survivability. It’s part of the <em>definition</em> of life. Exploiting and manipulating other organisms is fair play. The game of life has no referees. Every living thing tries to win by changing the rules. Humans just happen to be very, very good at it. Beavers make a dam and bees make a hive. Humans make bridges and cities and airplanes and pesticides. Controlling nature <em>is</em> our nature &mdash; it’s what we’ve evolved to be good at. Like everything else on this planet, we’re here to change the world in our own image. That’s how living things live. That’s how life works.”
+“I don’t think there is,” said Julie. “Look, every single organism on Earth alters the world around it in order to increase its own survivability. It’s part of the <em>definition</em> of life. Exploiting and manipulating other organisms is fair play. The game of life has no rules. Every living thing tries to win by tilting the playing field to its favor. Humans just happen to be very, very good at it. Beavers make dams and bees make hives. Humans make cities and airplanes and pesticides. Controlling nature <em>is</em> our nature &mdash; it’s what we’ve evolved to be good at. Like everything else on this planet, we’re here to change the world in our own image. That’s how living things live. That’s how life works.”
 </p>
 <p>
 “Do you mean that in a biochemical sense, or a philosophical one?” Danny asked.

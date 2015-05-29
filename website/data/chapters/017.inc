@@ -118,7 +118,7 @@ Danny gave a slow and emphatic nod.
 Jason approached them, carefully making his way past the equipment. “What’s all this stuff for?” he asked the girl, gesturing at the blue barrels of kerosene.
 </p>
 <p>
-“It’s high-volume alkaloid extraction and stabilization,” Julie said, annoyed. “I’ve already explained it a hundred times…” After a pause, she added. “Oh, right. You’re not with the Russians.” In a lackluster tone, she asked, “Can I see the sample?”
+“It’s high-volume alkaloid extraction and stabilization,” Julie said, annoyed. “I’ve already explained it a hundred times…” In a lackluster tone, she asked, “Can I see the sample?”
 </p>
 <p>
 Jason cautiously passed the Eppendorf tube into her hand.
@@ -127,16 +127,10 @@ Jason cautiously passed the Eppendorf tube into her hand.
 She studied it, turning the vial up and down several times and holding it up to her eyes. “It’s biofilming,” she said. “That’s good. It’s supposed to.”
 </p>
 <p>
-“Is it okay?” asked Jason. “It’s not, like, spoiled or rotten or anything?”
-</p>
-<p>
-“It’s <em>E. coli</em>. It <em>is</em> rot,” she replied. 
-</p>
-<p>
 “Can you incubate it?” asked Jason.
 </p>
 <p>
-“You’d like that, wouldn’t you?” said Julie, while looking pointedly at the water-cooler-like vat. “Everybody would. And then the second I finish a batch, the Russians will just take it all and put a bullet through my head.”
+“You’d like that, wouldn’t you?” said Julie. “Everybody would. And then the second I finish a batch, the Russians will just take it all and put a bullet through my head.”
 </p>
 <p>
 “I might be able to talk them into letting you go,” Jason offered.
@@ -178,37 +172,31 @@ Julie pointed to the pyramid of large plastic jars near the cylindrical vat in t
 Jason remained expressionless. “That L-Glutamine stuff…” he said, eyeing the purple labels on the jars. “Is it hard to get?”
 </p>
 <p>
-Julie looked at Jason with a face usually directed at the kid in class who eats his paste. “It’s <em>glutamine</em>.”
-</p>
-<p>
-Jason shrugged.
-</p>
-<p>
-Julie rolled her eyes. “It’s forty bucks a pound at any GNC store. Even cheaper if you buy in bulk. And it converts to cocaine at almost 100% yield by mole. So you’re basically making cocaine at ninety bucks a kilo.”
+Julie looked at Jason with a face usually directed at the kid in class who eats his paste. “It’s <em>glutamine</em>. It’s forty bucks a pound at any GNC store. Even cheaper if you buy in bulk. And it converts to cocaine at almost 100% yield by mole. So you’re basically making cocaine at ninety bucks a kilo.”
 </p>
 <p>
 Jason let a smile break through his poker face. “So, you incubate the germs in that vial, then you pour in that glutamine stuff, and then suddenly you have cocaine?”
 </p>
 <p>
-“More or less,” said Julie, her voice tired and lifeless. “I mean, there’s a little more to it. You have to give it time to let the enzymes process the glutamine, but after that you can process it just like leaves from a coca plant. Mix it with kerosene, grind it into a paste, separate with acetone, blah blah blah. The process kills the bacteria, so you need to keep a pure mother broth around. But in a nutshell, yeah.”
+“More or less,” said Julie, her voice tired and morose. “I mean, there’s a little more to it. You have to give it time to let the enzymes act on the glutamine, but after that you can process it just like leaves from a coca plant. Mix it with kerosene, grind it into a paste, separate with acetone, blah blah blah. The process kills the bacteria, so you need to keep a pure mother broth around. But in a nutshell, yeah.”
 </p>
 <p>
 Danny listened on, partially fascinated and partially shocked. “Wait, let me get this straight. This whole night, this whole hacking mission, I’ve been chasing after some kind of germ that’s been injected with the gene for cocaine?”
 </p>
 <p>
-“There is no ‘gene for cocaine’. Cocaine isn’t a protein,” Julie said condescendingly. “It’s a crystalline tropane alkaloid. Do you have any idea how complicated its biosynthesis process is?”
+“There is no ‘gene for cocaine’. Cocaine isn’t a protein,” she said condescendingly. “It’s a crystalline tropane alkaloid. Do you have any idea how complicated its biosynthesis process is?”
 </p>
 <p>
 “Umm… no?” Danny replied.
 </p>
 <p>
-“Look, cellular machinery can’t create cocaine through normal gene expression,” said Julie in a morose drone. “But cellular machinery <em>can</em> create enzymes to catalyze the conversion of precursors &mdash; in this case, glutamine. That’s what happens in the <em>Erythroxylon coca</em> &mdash; the coca plant. There’s about sixteen steps in the natural biosynthesis of the benzoylmethylecgonine tropane alkaloid. Those steps are catalyzed by about two dozen enzymes, six of which consist of multiple peptide chains and two of which are themselves synthesized by other enzymes… The point is, unlike cocaine, enzymes <em>are</em> proteins. Enzymes <em>do</em> have genetic encodings. Which means…”
+“Look, cellular machinery can’t create cocaine through normal gene expression,” said Julie. “But cellular machinery <em>can</em> create enzymes to catalyze the conversion of precursors &mdash; in this case, glutamine. That’s what happens in the <em>Erythroxylon coca</em> &mdash; the coca plant. There’s about sixteen steps in the natural biosynthesis of the benzoylmethylecgonine tropane alkaloid. Those steps are catalyzed by about two dozen enzymes, six of which consist of multiple peptide chains and two of which are themselves synthesized by other enzymes… The point is, unlike cocaine, enzymes <em>are</em> proteins. Enzymes <em>do</em> have genetic encodings. Which means…”
 </p>
 <p>
-She left the pause pregnant, hoping that the implication would be obvious to the two men. Instead, they both stared at her blankly.
+She left the pause pregnant, hoping that the implication would be obvious. Instead, the two men stared at her blankly.
 </p>
 <p>
-Julie rolled her eyes. “…Which means,” she concluded for them, “that we can sequence those genes in the coca plant, and then splice them into a strain of <em>E. coli</em> for mass production. So the <em>E. coli</em> thinks they’re part of its own genome, and manufactures them as if they’re part of its normal repertoire of proteins. Got it?”
+Julie rolled her eyes. “…Which means that we can sequence those genes in the coca plant, and then splice them into a strain of <em>E. coli</em> for mass production. So the <em>E. coli</em> thinks they’re part of its own genome, and manufactures them as if they’re part of its normal repertoire of proteins. Got it?”
 </p>
 <p>
 Danny nodded brightly. “Yeah!”
@@ -217,13 +205,13 @@ Danny nodded brightly. “Yeah!”
 Julie eyed him skeptically. “You don’t get it, do you?”
 </p>
 <p>
- “No, I do!” Danny declared gleefully. “It’s just like a DLL hijacking attack!”
+“No, I do!” Danny declared gleefully. “It’s just like a DLL hijacking attack!”
 </p>
 <p>
 Julie stared at him.
 </p>
 <p>
-“It’s how a lot of computer viruses work,” Danny explained. “They copy a virus-riddled file into a specific place somewhere on your filesystem, so that the computer thinks that the file is part of some other application. When you run that application, the computer runs the virus along with the rest of the application’s code.” 
+“It’s how a lot of computer viruses work,” Danny explained. “They copy a virus-riddled file into a specific place somewhere on your filesystem, so that the computer thinks that the file is a normal part of some application. When you run that application, the computer runs the virus along with the rest of the application’s code.” 
 </p>
 <p>
 Jason stared at the girl with a slightly combative expression. “Hmm. So, you successfully gene-spliced a coca plant into a laboratory germ in order to create a cocaine-producing bio-machine.”
@@ -256,13 +244,13 @@ Jason stared at the girl with a slightly combative expression. “Hmm. So, you s
 “I think it does,” Julie said defensively.
 </p>
 <p>
-“It answers how Tungsten created it,” said Jason. “It doesn’t answer how <em>you</em> ended up with it. Look, I don’t know much about science, but I do know plenty about manpower and personnel management. The kind of engineering effort you’re describing would take years, even for a team of a dozen or more world-class researchers. You did <em>not</em> create it on your own as some intern summer project.”
+“It answers how <em>Tungsten</em> created it,” said Jason. “It doesn’t answer how <em>you</em> ended up with it. Look, I don’t know much about science, but I do know plenty about manpower and personnel management. The kind of engineering effort you’re describing would take years, even for a team of a dozen or more world-class researchers. You did <em>not</em> create it on your own as some intern summer project.”
 </p>
 <p>
 “I’m a key member of the research staff!” Julie said defiantly.
 </p>
 <p>
-“You’re a college sophomore,” said Jason coldly.
+“You’re a college sophomore,” Jason retorted.
 </p>
 <p>
 “They couldn’t have finished it without me!” she protested.
@@ -271,19 +259,19 @@ Jason stared at the girl with a slightly combative expression. “Hmm. So, you s
 “Right. They needed <em>you</em> to sequence the coca plant genome,” Jason said sardonically. “They needed <em>you</em> to splice the genes into the <em>E. coli</em> strain. They needed <em>you</em> to figure out how to cultivate and process it.”
 </p>
 <p>
-“God, shut the fuck up!” Julie yelled, her lip quivering. She rose from her folding chair and stormed back to the naked mattress beneath the overhanging office, where she sat back down in a huff. “You don’t even know, alright?”
+“God, shut the fuck up!” Julie yelled, her lip quivering. She stormed back to the naked mattress beneath the overhanging office, where she sat back down in a huff. “You don’t even know, alright?”
 </p>
 <p>
 “So tell me, then,” Jason coaxed. “Tell me how it all went down.”
 </p>
 <p>
-Julie looked down wistfully and picked idly at a loose thread in the mattress. She paused for a long time, then quietly said, “Everything sucks,” her voice raspy with the beginnings of a sob.
+Julie looked down wistfully and picked idly at a loose thread in the mattress. “Everything sucks,” she said quietly.
 </p>
 <p>
-Jason came over to sit down next to her on the mattress. 
+Jason sat down beside her. 
 </p>
 <p>
-The girl sighed. “Creating cocaine-producing <em>E. coli</em> wasn’t just some kind of side-project at Tungsten. It’s the whole point of the company. It’s all they’ve been doing for about two years. This vial right here is everything they’ve been working for.”
+The girl sighed. “Creating cocaine-producing <em>E. coli</em> wasn’t just some side-project. It’s the whole point of Tungsten. It’s all they’ve been doing for about two years. This vial is everything they’ve been working for.”
 </p>
 <p>
 “And they entrusted it to their intern?” asked Jason.
@@ -322,10 +310,10 @@ Julie blinked at him and shrugged dismissively. “Anyway. So, you have to fool 
 “It’s mostly done by robots,” said Julie. “But the robots turn up a lot of false positives, so you have to follow up with more tests by hand. It’s super annoying and boring.”
 </p>
 <p>
-Jason smiled widely. “Oh! Yes. I get it now.”
+Jason smiled widely. “Yes. I get it now.”
 </p>
 <p>
-Julie made a meek, resigned noise.
+Julie made a meek noise.
 </p>
 <p>
 “That’s exactly the kind of task,” said Jason, “that they’d give an intern.”
@@ -340,13 +328,13 @@ Julie made a meek, resigned noise.
 “Hundreds of thousands,” Julie corrected. “Hell, maybe millions.”
 </p>
 <p>
-Jason continued, “…And you were the first one to see that one of these batches was a success.”
+Jason continued, “…And you were the first one to spot a success.”
 </p>
 <p>
-“It was my job to check on them,” she said irritably. “The other scientists couldn’t be bothered with something so mundane. So, yeah, when one of the batches finally produced an <em>E. coli</em> strain that was expressing all the genes in the cocaine biosynthesis pathway, I was the first to see it.”
+“It was my job to check on them,” she said. “The other scientists couldn’t be bothered with something so mundane. So, yeah, when one of the batches finally produced an <em>E. coli</em> strain that was expressing all the genes in the cocaine biosynthesis pathway, I was the first to see it.”
 </p>
 <p>
-“And you were supposed to call in the senior researchers upon seeing a success,” Jason surmised. “But instead, you just…”
+“And you were supposed to call in the senior researchers,” Jason surmised. “But instead, you just…”
 </p>
 <p>
 “Yeah,” said Julie. “I just… you know…”
@@ -358,28 +346,28 @@ Jason continued, “…And you were the first one to see that one of these batch
 Julie nodded. “They started to realize that something was out of place. Damned if I know how. Sensor data from the robot, maybe? Anyway, they didn’t call me out on it. They were just starting to suspect me after a couple weeks. But by then I’d already started making my own batches and dealing. And then I found out that I was on Sergey’s turf… And the rest of the story is…”
 </p>
 <p>
-Jason looked around the room, at the naked mattress and the unwashed, pajama-clad Asian girl. “Yeah.”
+Jason looked around the room, at the naked mattress and the unwashed, pajama-clad girl. “Yeah.”
 </p>
 <p>
 Julie let herself roll backward onto the mattress. She turned her face away from Jason and curled up on her side into a fetal position, the Eppendorf tube held between the palms of her small hands.
 </p>
 <p>
-Jason watched her in silence for a few long moments as she lay there, motionless except for her breathing. Danny, for his part, wandered over to the vat in the middle of the room to examine its elaborate plumbing systems. 
+Jason watched her in silence. Danny, for his part, wandered over to the vat in the middle of the room to examine its elaborate plumbing systems. 
 </p>
 <p>
 Quietly, Jason asked her, “Are you okay?”
 </p>
 <p>
-“No!” she answered from her fetal position. “No, I’m fucking not okay! God, I don’t understand why everything has to be so fucking hard!” She began to sob. “Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final and break the curve, and they go, ‘How could you miss those three percent?’ I work so fucking hard, just to feel the slightest shred of pride and accomplishment, and all I ever get is disappointment. All I want is just to be able to enjoy the feeling of knowing that I did <em>something</em> right for once in my life. <em>Anything</em>. Is that really so fucking much? I figured all I needed was one single score, just do one single goddamned thing, so I could show everybody that I can measure up. Just to prove to the world, ‘Look at me, fuckers! I win! I don’t care what you say! I <em>am</em> good enough!’ Except… Except I’m obviously not.”
+“No!” she answered. “No, I’m fucking not okay! God, I don’t understand why everything has to be so fucking hard!” She began to sob. “Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final and break the curve, and they go, ‘How could you miss those three percent?’ I work so fucking hard, just to feel the slightest shred of pride and accomplishment, and all I ever get is disappointment. All I want is just to be able to enjoy the feeling of knowing that I did <em>something</em> right for once in my life. <em>Anything</em>. I figured all I needed was one big score, just do one single goddamned thing, so I could show everybody that I can measure up. Just to prove to the world, ‘Look at me, fuckers! I win! I don’t care what you say! I <em>am</em> good enough!’ Except… Except I’m obviously not.”
 </p>
 <p>
-Jason reached out to try to pat her reassuringly on the shoulder. 
+Jason reached out to pat her reassuringly on the shoulder. 
 </p>
 <p>
 Her voice thin and weak, she asked, “Can you please get me some coke now?”
 </p>
 <p>
-He paused for a second, and said, “Okay, Julie. I’ll go upstairs and talk to Rex and see what I can do.”
+He paused for a second, and said, “Okay, Julie. I’ll see what I can do.”
 </p>
 <p>
 “Thank you,” she whimpered, still not moving from her fetal position.
@@ -388,10 +376,10 @@ He paused for a second, and said, “Okay, Julie. I’ll go upstairs and talk to
 “But first, I want you to explain one more thing to me.”
 </p>
 <p>
-She sat back up and shot him an irritated glare. “Oh fuck, come on! I’ve told you everything! What the hell else do you want to know?”
+She sat back up and shot him a furious glare. “Oh fuck, come on! I’ve told you everything! What the hell else do you want to know?”
 </p>
 <p>
-Jason gave her a steely gaze. “You’ve told me the how, but not the why. You said Tungsten was working full-time to develop this organic cocaine dispenser. But why would they do that? From a business perspective, that doesn’t make any sense. The end product is illegal to sell. What was Tungsten’s market strategy?”
+“You’ve told me the how, but not the why. You said Tungsten was working full-time to develop this organic cocaine dispenser. But why would they do that? From a business perspective, that doesn’t make any sense. The end product is illegal to sell. What was Tungsten’s market strategy?”
 </p>
 <p>
 “You mean like how to make money off of it?” asked Julie. “Fuck if I know. I was just on the science end of things. Who cares, anyway?”

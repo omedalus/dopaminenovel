@@ -72,7 +72,7 @@ With a quick, soundless motion, the man reached into his jacket, pulled out a gu
 She stepped through the doorway.
 </p>
 <p>
-“Good girl,” he said as he carefully uncocked the hammer. “Now come over here.” 
+“Good girl,” he said. “Now come over here.” 
 </p>
 <p>
 He backed away several feet, keeping the gun trained on her as she walked toward the deep-freezer.

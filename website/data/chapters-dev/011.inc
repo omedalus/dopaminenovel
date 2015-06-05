@@ -1,15 +1,12 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Inside the ultra low freezer</span> were half a dozen rack shelves. On each shelf were a dozen long, deep boxes made of metal and Styrofoam, built to slide out like drawers. Inside each box were two dozen vials, each no bigger than a finger. And one of these vials was the one that the man with the gun was looking for.
+<span class="caplead">“I n-need you b-be more s-piffic,”</span> Tina said through a shivering jaw as she closed the massive metal door yet again. Inside the ultra low freezer were half a dozen rack shelves. On each shelf were a dozen long, deep cases made of metal and Styrofoam, built to slide out like drawers. Inside each case were two dozen vials, each no bigger than a finger. And one of these vials was the one that the man with the gun wanted.
 </p>
 <p>
-“I n-need you b-be more s-piffic,” Tina said through a shivering jaw as she closed the massive metal door yet again.
+He sat on a desk between her and the exit. “I already told you. It’s a small clear plastic snap-top tube with a cone-shaped bottom.” He kept his revolver pointed at her absentmindedly, his attention divided between her and his cellphone.
 </p>
 <p>
-The man sat on a desk between her and the exit. “I already told you. It’s a small clear plastic snap-top tube with a cone-shaped bottom.” He kept his revolver pointed at her absentmindedly, his attention divided between her and his cellphone.
-</p>
-<p>
-“You just described <em>every</em> vial in there,” she said as she peeled off the thick black acrylic gloves that protected her fingers from frostbite.
+“You just described <em>every</em> vial in there,” she said. She breathed into the thick black acrylic gloves that protected her fingers from frostbite.
 </p>
 <p>
 Ignoring her, the man tapped his Bluetooth headset and fiddled with his cellphone. “<em>Allyo? Allyo, Leonya? Gdye ti, durak?</em>”
@@ -21,11 +18,28 @@ Ignoring her, the man tapped his Bluetooth headset and fiddled with his cellphon
 “My partner isn’t answering,” he said. “But this is not your business. Where is that fucking tube?”
 </p>
 <p>
-“I have no idea,” Tina said. “Look, there’s hundreds of vials in deep-freeze. They all look exactly the same. I have no clue how the lab staff keeps track of which one goes where. How did you expect to know which vial’s the right one, anyway?”
+“I have no idea,” Tina said. “Look, all these vials look exactly the same. How did you expect to know which one’s the right one?”
 </p>
 <p>
-While still poking at his phone, he replied, “There is a smiley face on the side.”
+While still poking at his phone, he replied, “There is sticker on the side.”
 </p>
+<p>
+“They <em>all</em> have a sticker on the side,” she insisted. “That’s how they’re labeled.”
+</p>
+<p>
+Suddenly, the man looked up from his phone with a furious glare. His face terrified Tina even more than the gun. “Figure it out!” he growled. “Be useful! You know what happens if you are not useful?”
+</p>
+<p>
+Tina shivered, but not from the cold.
+</p>
+<p>
+On a metal table in the center of the room stood a row of cases from the deep-freezer. Their hinged tops gaped open, revealing grids of empty circular holes in their Styrofoam interiors. Beside them lay a pile of discarded snap-top test tubes, approaching two hundred in number. The tiny plastic vials were rimmed with frost that was slowly melting into clear round puddles on the tabletop. Within their translucent walls was a pasty yellowish-brown goop in varying states of thaw. Each tube bore a rectangular white label along its side, with handwritten letters and numbers to indicate sample identifiers.
+</p>
+
+
+
+
+
 <p>
 “The only way I can find that is by checking each vial one by one,” Tina said weakly.
 </p>

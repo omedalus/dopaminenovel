@@ -268,13 +268,13 @@ Tina stared at the jerry-rigged contraption, her eyes gleaming. “I have to go 
 By the time Danny finished his makeshift thermostat, Tina had already taken the pot out of the oven. The kitchen sink was plugged and filled with a watery slurry of ice from his freezer. Tina held the hot vessel with oven mitts and gently rocked and rotated it in the ice bath. She mindfully held the lid down, careful to prevent it from sliding off and exposing the broth to the open air.
 </p>
 <p>
-Danny entered the kitchen wearing thick gray electrical gloves, carrying his medley of connected electronic components. He laid his thermostat down on the counter &mdash; the white breadboard sprouting silver and black growths, the severed thermometer tip on the end of two several-foot-long lines, the translucent blue power relay with protruding red wires with yellow-capped tips. “Are you done with the stove?” he asked.
+Danny entered the kitchen wearing thick gray electrical gloves, carrying his medley of connected electronic components. He laid his thermostat down on the counter &mdash; the breadboard sprouting silver and black growths, the severed thermometer tip on the end of two long lines, the translucent blue power relay with protruding red wires with yellow-capped tips. “Are you done with the stove?” he asked.
 </p>
 <p>
 “All yours,” said Tina.
 </p>
 <p>
-He walked up to the stove, grabbed it with both hands, and pulled. The stove slid hesitantly from its space along the wall, scraping against the floor tiles. The lanky engineer was able to shimmy it out of its home, just far enough to expose the thick black cord that plugged the stove into the house’s 220VAC circuit. He pulled the large round plug out of the wall, causing the stove’s clock to go dead.
+He walked up to the stove, grabbed it with both hands, and pulled. The stove slid hesitantly from its space along the wall, scraping against the floor tiles. The lanky engineer was able to shimmy it out of its home, just far enough to expose the black cord that plugged the stove into the house’s 220VAC circuit. He pulled the large round plug out of the wall, causing the stove’s clock to go dead.
 </p>
 <p>
 He then produced his X-ACTO knife and slashed open the stove’s power cable. He slid the blade slowly down the rubber insulation until he had formed a slit almost a foot long. Multicolored wires and metallic coating protruded from the gash.
@@ -283,7 +283,7 @@ He then produced his X-ACTO knife and slashed open the stove’s power cable. He
 “Is that safe?” Tina asked.
 </p>
 <p>
-“Not in the slightest,” said Danny. He severed and stripped one of the multicolored wires, and spliced its ends with the two yellow-capped red lines of the power relay. He sealed his work with generous helpings of duct tape, the sticky gray ribbon making stretchy noises as it came off the roll. When he was finished, the breadboard and power supply lay on the floor beside the displaced stove, electrically implanted into its power cord. Gingerly, he plugged the appliance back into the wall. Much to his relief, nothing caught fire. The stove came back to life, its clock blinking 00:00.
+“Not in the slightest,” said Danny. He severed and stripped one of the multicolored wires, and spliced its ends with the power relay. He sealed his work with generous helpings of duct tape, the sticky gray ribbon making stretchy noises as it came off the roll. When he was finished, the breadboard and power supply lay on the floor beside the displaced stove, electrically implanted into its power cord. Gingerly, he plugged the appliance back into the wall. Much to his relief, nothing caught fire. The stove came back to life, its clock blinking 00:00.
 </p>
 <p>
 “Not bad,” Tina said with a smirk. She lifted the two-gallon pot, carried it to the stove, and set it on the largest burner.

@@ -37,7 +37,7 @@ Near the vat sat a pyramidal stack of plastic gallon-sized jars, just like the p
 The back wall was lined with blue and black 55-gallon drums, alongside pumping equipment and large plastic tubs. Each barrel bore the label “Kerosene” or “Acetone,” and a color-coded diamond of red, blue, yellow, and white to indicate hazard ratings.
 </p>
 <p>
-On a large gray metal table next to the drums, sitting alone near bulbous glass equipment, was a plain glass bottle filled with clear liquid. The bottle was small, barely larger than a soda can. Its top was curved like a bell, and its neck was sealed with a rubber-lined glass stopper. Next to the bottle, on the silvery steel tabletop, lay black rubber gloves and a pair of eye goggles. The bottle bore no label.
+On a large gray metal table next to the drums, sitting alone near bulbous glass equipment, was a plain glass bottle filled with clear liquid. Its top was curved like a bell, and its neck was sealed with a rubber-lined glass stopper. Next to the bottle, on the silvery steel tabletop, lay black rubber gloves and a pair of eye goggles. The bottle bore no label.
 </p>
 <p>
 Danny reached his hand toward it.

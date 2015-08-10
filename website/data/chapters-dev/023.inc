@@ -90,7 +90,7 @@ Passinsky crinkled his tall forehead. “Oh really?”
 “The evidence says otherwise,” said Passinsky.
 </p>
 <p>
-Sergey rolled his eyes and chuckled contemptuously. “<em>Evidence</em>? You have no evidence on me, you old ass.” His own voice came off as slow, shrewd, and somewhat snide, with exaggerated “o” sounds and hardened consonants. He had spent most of his life in Saint Petersburg, on the cold, humid shores of the Baltic Sea. It was a worldly metropolis &mdash; a city of art and theatre, of literature and music, and of crime and corruption so brazen that it made Prohibition-era Chicago look like the Smurfs’ Village. Sergey’s subtle accent conveyed cleverness, rugged resilience, and an attitude toward authority that could not be properly described in polite company.
+Sergey rolled his eyes and chuckled contemptuously. “<em>Evidence</em>? You have no evidence on me, you old ass.” His own voice came off as slow, shrewd, and somewhat snide, with exaggerated “o” sounds and hardened consonants. He had spent most of his life in Saint Petersburg, on the cold, humid shores of the Baltic Sea. It was a worldly metropolis &mdash; a city of art and theatre, of literature and music, and of crime and corruption so brazen that it would have made Prohibition-era Chicago look like the Smurfs’ Village. Sergey’s subtle accent conveyed cleverness, rugged resilience, and an attitude toward authority that could not be properly described in polite company.
 </p>
 <p>
 The old man’s face showed profound irritation. He reached into the manila envelope he carried, and withdrew a sheet of paper to lay on the table. Upon the paper was a printed screenshot of a security camera recording, with text indicating the timestamp. It showed Eugene, clad in his now-destroyed Italian leather jacket, standing in a brightly lit room filled with glassware, refrigerators, and scientific equipment. He was holding a young woman at gunpoint with one of those tiny snubnose .44 Magnum hand-cannons of which he was so fond.
@@ -279,13 +279,13 @@ Passinsky flinched but remained seated. His face displayed, if anything, no more
 “He killed Sveta! And Vadik!” Sergey spat. He leaned on the table, his hands still curled around its edges, his knuckles turning white. “His men broke into my home! They gassed me and electrocuted me with cattle prods! They tied me down and forced me to watch! Do you know what he did to them? Do you know!?”
 </p>
 <p>
-“I know what kind of man my boss is,” Passinsky replied placidly.
+Passinsky took a slow, calm sip of his tea, saying nothing. He set his cup carefully back down on the table. Finally, he replied, “I know what kind of man my boss is.”
 </p>
 <p>
 Sergey suddenly looked away and hissed, “Your boss…! Ivan is your boss…!” He stood and gasped for air, his eyes wide with panic. “You run Tungsten and Ivan is your boss…”
 </p>
 <p>
-Passinsky nodded affirmatively. “Yes. He’s the man that wires my paychecks. He created a fictitious investment consortium to launder the money, but he’s the consortium’s sole member. Tungsten is his company.”
+Passinsky nodded affirmatively. “Yes. He’s the man that wires my paychecks. He created a fictitious investment consortium to move funds into the United States, but he’s the consortium’s sole member. Tungsten is his company.”
 </p>
 <p>
 “Tungsten is his company…” Sergey repeated. 

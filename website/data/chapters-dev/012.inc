@@ -99,7 +99,7 @@ She stood close enough to hear several tinny voices in the man’s cellphone. �
 While the voices chattered, Tina spotted movement behind the Russian, around the bend in the hallway. A large scruffy man, overweight but agile, moved slowly through the darkness. He appeared to be holding a weapon of some kind. He saw her looking at him, and brought a finger up to his lips.
 </p>
 <p>
-“Listen,” Tina said to the geeky guy in the lab coat. “I am aware of the present need for communication practices whose levels of complexity are high enough to avoid adverse consequences with non-native personnel in proximity. And while I’m uncertain about the exact cause of your organization’s presence in this facility, it’s clear to me that your relationship to law enforcement suffers from a complete lack of existence. Now, are you aware of the presence of clandestine personnel to the posterior of the non-native agent?”
+“Listen,” Tina said to the geeky guy in the lab coat. “I am aware of the present need for complex communication protocols, owing to the proximity of non-native personnel. And while I’m uncertain about the exact cause of your organization’s presence in this facility, it’s clear to me that your relationship to law enforcement suffers from a complete lack of existence. Now, are you aware of the presence of clandestine personnel to the posterior of the non-native agent?”
 </p>
 <p>
 “Affirmative,” the man responded. “That would be Agent Bravo. He’s on standby pending physical altercation. However, that would be a scenario best avoided.”
@@ -192,7 +192,7 @@ So he was caught completely off-guard when the lug wrench smashed against the ba
 As the Russian reeled in pain, Danny swung his machine like a baseball bat at the man’s torso. The heavy pack of blue ultracapacitors hit the Russian in the chest with a hollow thud, knocking the air out of his lungs and sending him stumbling sideways. The Eppendorf tube fell to the carpeted floor.
 </p>
 <p>
-Danny tried to scramble for the vial, but to his surprise he found himself hopelessly winded from the attack. He took a few panting, breathless steps. The world spun around him.
+Danny tried to scramble for the vial, but to his surprise he found himself hopelessly winded from the attack. He took a few panting, breathless steps.
 </p>
 <p>
 Tina dashed for it. She plucked the tube from the floor and put it in her pocket.
@@ -240,7 +240,7 @@ Mike swayed sideways and stood uneasily, looking blankly off to the side.
 “Mike!” Danny shouted.
 </p>
 <p>
-Slowly, Mike pulled himself up to his full height and looked down at the Russian with a completely uncomprehending face. A disturbing moan, like a soft foghorn, began to emanate from his mouth as blood poured from his nose and seeped down into his scraggly moustache and beard. His eyes were glazed and empty. 
+Slowly, Mike pulled himself up to his full height and looked down at the Russian with a completely uncomprehending face. His eyes were glazed and empty. 
 </p>
 <p>
 Mike absentmindedly let go of the lug wrench. It dropped to the floor. Slowly, very slowly, he took a step toward the Russian and began an uncontrolled lurch forward.

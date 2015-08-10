@@ -232,7 +232,7 @@ Satish rolled his eyes. “And getting involved in a drug war is your idea of �
 Satish scoffed, “Are you talking about that Russian guy? You feel like you need to be a hero on behalf of a drug lord? Need I remind you, he’s ‘making his way’ by smuggling and selling cocaine.”
 </p>
 <p>
-Danny laughed lightly. “Do you know what cocaine does, Satish? Biochemically, that is? It gives you a feeling of accomplishment. Just straight-up gives it to you. It’s no wonder so many people love the stuff so much, enough to keep guys like Sergey in business. Who needs to <em>actually</em> pursue dreams or achieve goals or strive for self-actualization, when you can just get the resulting pride and satisfaction directly in powder form?
+Danny laughed lightly. “Do you know what cocaine does, Satish? Biochemically, that is? It gives you a feeling of accomplishment. Just straight-up <em>gives</em> it to you. It’s no wonder so many people love the stuff so much, enough to keep guys like Sergey in business. Who needs to <em>actually</em> pursue dreams or achieve goals, when you can just get the resulting pride and satisfaction directly in powder form?
 </p>
 <p>
 “It’s a fake feeling, of course. You can’t outsmart your own mind. You yourself know perfectly well whether or not you’ve achieved your own goals, because you’re the one that defines those goals in the first place.

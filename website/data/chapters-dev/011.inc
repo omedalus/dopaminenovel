@@ -66,7 +66,7 @@ The man watched her stack the tubes into precise organized lines on the table. W
 The man shrugged dismissively. “Who cares about putting back?”
 </p>
 <p>
-“What do you mean?” Tina asked, bewildered, as she worked. I have to put them back or else they’ll die. The brown stuff in the vials is bacteria frozen in glycerol. They’re living things. They can’t live in the suspension. The glycerol protects them from ice when they get frozen, but they need water and food. If they come out of suspended animation in the glycerol, they’ll…”
+“What do you mean?” Tina asked, bewildered, as she worked. “I <em>have</em> to put them back or else they’ll die. The brown stuff in the vials is bacteria frozen in glycerol. They’re living things. They can’t live in the suspension. The glycerol protects them from ice when they get frozen, but they need water and food. If they come out of suspended animation in the glycerol, they’ll…”
 </p>
 <p>
 She glanced up at him for a moment. She looked back and forth between the freezer, her precise little row of test tubes, and his gun.
@@ -75,10 +75,10 @@ She glanced up at him for a moment. She looked back and forth between the freeze
 “You know what?” she said. “Fuck it.”
 </p>
 <p>
-She stepped toward the cryogenic storage unit, but didn’t touch the door. Instead, she slid her body against the side of the machine’s massive bulk, toward the wall. Behind the freezer, where chill gave way to heat as the compressor pushed thermal energy uphill against its natural gradient, a thick black cable ran to a heavy power plug. Tina reached down behind the machine, welcoming the warm air from the condenser fans blasting up her arm, and grabbed the plug. It took a hard yank to dislodge it from its wall socket. The moment it came loose, the refrigeration machinery fell silent.
+She stepped toward the cryogenic storage unit, but didn’t touch the door. Instead, she slid her body against the side of the machine’s massive bulk, toward the wall. Behind the freezer, beneath the thrumming compressor pumps and the long winding condenser coils, was a thick black cable that ran to a heavy power plug. Tina reached down behind the machine, welcoming the warm air from the condenser fans blasting up her arm, and grabbed the plug. It took a hard yank to dislodge it from its wall socket. The moment it came loose, the refrigeration machinery fell silent.
 </p>
 <p>
-Back near the door, the screen of the monitoring terminal lit up in a panicking flurry of bright green all-caps warning messages. Tina grabbed the freezer’s door handle one last time and pulled it wide open, letting the unit’s cold air spill freely out into the room. She stood back far enough to avoid the draft, and silently watched the terminal as its temperature readout climbed.
+Back near the door, the monitoring terminal lit up in a panicking flurry of bright green all-caps alert messages. Tina grabbed the freezer’s door handle one last time and pulled it wide open, letting the unit’s cold air spill freely out into the room. She stood back far enough to avoid the draft, and silently watched the terminal as its temperature readout climbed.
 </p>
 <p>
 It wasn’t long before the cases could be comfortably touched with bare hands. She grabbed them two at a time, pulled them from their slippery racks, and set them on the table. Melting frost dripped down their sides to form small puddles on the tabletop. She opened their lids and pulled out vial after vial, giving each label a quick examination before tossing it down into a discard pile.
@@ -87,13 +87,7 @@ It wasn’t long before the cases could be comfortably touched with bare hands. 
 There was one vial that bore visibly less frost on its cap than the others &mdash; it had clearly been withdrawn from its box often. When Tina drew it out, she knew immediately that it was the one that the Russian had come for. Like all the others, it was less than two inches long with a conical bottom, filled with a pale brown substance that looked frozen solid. But in place of a label, it bore a tattered yellow smiley face sticker affixed on its translucent round surface.
 </p>
 <p>
-The Russian perked up as he saw her place the tube down on the table.
-</p>
-<p>
-“Here. Take it,” she said.
-</p>
-<p>
-The Russian eagerly stepped forward. He slid his cellphone into his jacket pocket and picked up the tube with the tips of his fingers. 
+The Russian perked up as he saw her place it down on the table. He slid his cellphone into his jacket pocket, stepped forward eagerly, and picked up the tube with the tips of his gloved fingers. 
 </p>
 <p>
 “Are we done here?” Tina asked.
@@ -237,10 +231,10 @@ For a split second, she was too disoriented to move. The shock of the explosion 
 And suddenly she couldn’t.
 </p>
 <p>
-While she had been dazed by the blast, the Russian had regained control of the weapon. He hadn’t shot her with it. Instead, he slammed the butt of the revolver high into her abdomen, just below her sternum.
+While she had been dazed by the blast, the Russian had regained control of the weapon. He hadn’t shot her with it. Instead, he slammed the butt high into her abdomen, just below her sternum.
 </p>
 <p>
-She grabbed her chest with both hands, gasping desperately for air, writhing and twisting her body, trying hopelessly to get her breathing to work again. She heaved her shoulders up and down to get a shallow current of oxygen into her quickly acidifying bloodstream. Her clenching throat emitted an unnatural, high-pitched wheezing sound with every inhale.
+She grabbed her chest with both hands, gasping desperately for air, writhing and twisting her body, unable to understand why her lungs suddenly refused the simple autonomic instruction to just <em>inhale</em>. She heaved her shoulders up and down to get a shallow current of oxygen into her quickly acidifying bloodstream. Her clenching throat emitted an unnatural, high-pitched wheeze.
 </p>
 <p>
 After several terrifying seconds, she felt her breath gradually return.

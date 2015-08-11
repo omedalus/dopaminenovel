@@ -213,16 +213,16 @@ Danny waited tensely in the dim hallway outside the stockroom door. “Is he com
 “Not yet,” said Moshen. “Good news is you have an extra second or two. Bad news is, that’s because he’s reloading. Can you do something about his keycard?”
 </p>
 <p>
-Danny took a deep breath and said, “I sure as hell hope so.” He put the end of his device up against the wall, just under the button that would open the large metal stockroom door. The wall, he reckoned, was made of six inches’ worth of drywall, wood, and foam insulation &mdash; all of which was almost completely transparent to microwaves. He listened for movement on the other side.
+Danny took a deep breath and said, “I sure as hell hope so.” He put the end of his device up against the wall, just under the button that would unlock the large metal stockroom door. The wall, he reckoned, was made of six inches’ worth of drywall, wood, and foam insulation &mdash; all of which was almost completely transparent to microwaves. He listened for movement on the other side.
 </p>
 <p>
  “Now!” yelled Moshen.
 </p>
 <p>
-Danny pulled the trigger. The relays all clicked simultaneously against their contacts inside the spine of plastic cubes. The pulsed discharge of current from the capacitor bank to the magnetron sent a soft low-pitched “<em>bonk!</em>” through the air around it. Lights along the capacitor bank flipped from green to red.
+Danny pulled the trigger. Current discharged from the capacitor bank to the magnetron, sending a soft low-pitched “<em>bonk!</em>” through the air around it. Lights flipped from green to red.
 </p>
 <p>
-On the other side of the wall, Danny heard a snapping, cracking sound, followed by a man screaming in shocked frustration and unleashing a long stream of Russian curse words. The man pulled in vain at the door handle on the other side. The door shook slightly but refused to yield. 
+On the other side of the wall, Danny heard a snapping sound, followed by a man screaming in shocked frustration and unleashing a long stream of Russian curse words. The man pulled in vain at the door handle on the other side. The door shook slightly but refused to yield. 
 </p>
 <p>
 Danny held his device triumphantly over his shoulder. Its fans whirred to cool it from its recent shot. The capacitor bank began to recharge, emitting its characteristic rising whine.
@@ -243,10 +243,10 @@ Danny turned to look.
 All that remained of the small square window was a few jagged shards. The man drew his gun up to the shot-out window. The end of the silencer came to rest upon a crag of broken glass. The man looked down the sights and took aim.
 </p>
 <p>
-Danny felt the world recede in slow motion. The accelerating thumping of his own pulse drowned out all other sound in his ears.
+Danny felt the world recede in slow motion. The accelerating thump of his own pulse drowned out all other sound in his ears.
 </p>
 <p>
-He propelled himself away from the door, holding onto his unwieldy weapon over his shoulder and letting its mass swing down along his back. He only needed to take seven or eight sprinting steps to make it to an intersection in the hallway, but in those steps he felt like he was frozen in mid-air. A bullet zinged past him &mdash; Danny saw nothing, but felt the air crack against his skin in the projectile’s wake. He twisted his torso to expose only his side, rather than his back, to the gunfire. Another bullet zoomed by, so close he could feel its heat against his back, across his left shoulder blade.
+He propelled himself away from the door with all the power his legs could offer. He only needed to take seven or eight sprinting steps to make it to an intersection in the hallway, but in those steps he felt like he was frozen in mid-air. A bullet zinged past him &mdash; Danny saw nothing, but felt the air crack against his skin in the projectile’s wake. He twisted his torso to expose only his side, rather than his back, to the gunfire. Another bullet zoomed by, so close he could feel its heat against his back, across his left shoulder blade.
 </p>
 <p>
 The adjoining corridor drew nearer. He leaped and rolled into the hallway, his weapon smacking against the floor as he pushed his body away from the line of fire. A bullet hit the floor near his feet. He took several crouching, stumbling steps deeper into the hallway as another bullet hit the wall near him, leaving a dusty crater. 
@@ -288,7 +288,7 @@ On the conference call, Jason asked, “Are you guys okay?”
 “I was thinking about that, Danny,” said Jason. “You might want to grab a lab coat, if you see one around. And a facemask. That way, you’ll &mdash;” 
 </p>
 <p>
-His words were muffled by a low, thundering boom that resounded through the building. The echoes of a distant explosion rumbled down Tungsten’s corridors, permeating the walls and flooding the rooms like a thick clear syrup of long, wide sound waves.
+His words were muffled by a low, thundering boom that resounded through the building. The echoes of a distant explosion rumbled down Tungsten’s corridors, permeating the walls and flooding the rooms like a thick clear syrup of sound.
 </p>
 <p>
 “Camera crew!” Danny gasped. “What the hell was that?”
@@ -312,7 +312,6 @@ Danny gasped. “Is she…”
 Danny gulped, and exchanged a nod of affirmation with Mike. The two men set off down the hallway.
 </p>
 <p>
-The fingers of Danny’s left hand very subtly twitched, subconsciously reaching for Control-S on a nonexistent keyboard. As Danny proceeded with Mike through the dim corridors, he caught himself glancing into rooms craving the sight of a prominently placed typewriter like in <em>Resident Evil</em>, or a pink audiocassette like in <em>Grand Theft Auto: Vice City</em>, or perhaps just a glowing red square like in <em>Silent Hill 2</em>. But he knew that, on this level, he would find no save-points.
+Danny’s fingers twitched very subtly, subconsciously reaching for Control-S on a nonexistent keyboard. As Danny proceeded with Mike through the dim corridors, he caught himself glancing into rooms craving the sight of a prominently placed typewriter like in <em>Resident Evil</em>, or a pink audiocassette like in <em>Grand Theft Auto: Vice City</em>, or perhaps just a glowing red square like in <em>Silent Hill 2</em>. But he knew that, on this level, he would find no save-points.
 </p>
-<p>
 </div>

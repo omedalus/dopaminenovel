@@ -159,16 +159,10 @@ Daniel took a few awkward steps into the dressing room, avoiding looking in her 
 Rosie flicked her hand manically at the clothes rack. “Just… just fix it! Please?”
 </p>
 <p>
-The rack only held one garment: a one-piece jumpsuit custom-fitted to conform to Rosie’s flesh like a second skin. Like a scuba suit, it left only the head and hands exposed.
+The rack only held one garment: a one-piece jumpsuit. It was made from a material that felt to the touch like something between cellophane and polyester. A flexible column of gray opaque plates ran down the spine and across the shoulders. The plates bore jacks for data and power, as well as elaborate heatsink structures &mdash; heatsinks that would only work properly when in direct full-surface contact with naked flesh. Like a scuba suit, it left only the head and hands exposed. Unlike a scuba suit, it was completely transparent.
 </p>
 <p>
-Unlike a scuba suit, it was completely transparent.
-</p>
-<p>
-It was made from a material that felt to the touch like something between cellophane and polyester. A flexible column of gray opaque plates ran down the spine and across the shoulders. The plates bore jacks for data and power, as well as elaborate heatsink structures &mdash; heatsinks that would only work properly when in direct full-surface contact with naked flesh. At certain angles of light, the glint of microscopically thin metallic fibers could be seen weaving through the clear material.
-</p>
-<p>
-Daniel pressed a power button on the spine. From neck to toe, the jumpsuit immediately turned solid black. Bars of color appeared down one thigh, indicating battery level, temperature, storage capacity, and CPU and memory utilization. Blocky gray text materialized line by line across the suit’s abdomen, distorted by the curvature of the display fabric.
+Daniel pressed a power button on the spine. From neck to toe, the jumpsuit immediately turned solid black. Bars of color appeared down one thigh, denoting battery level, temperature, storage capacity, and CPU and memory utilization. Blocky gray text materialized line by line across the suit’s abdomen, distorted by the curvature of the display fabric.
 </p>
 
 <pre class="computer">
@@ -196,19 +190,7 @@ Daniel raised a hand and motioned for her to calm down, and studied the reams of
 
 <div class="chapsection">
 <p>
-<span class="caplead">Daniel got the suit working</span> about two hours before showtime. Rosie began pulling it on before Daniel could even complete a power cycle. “God! Thank you! You’re the best, Dan!”
-</p>
-<p>
-“You know, Rosie, you’d be fine even without the suit,” Daniel said, facing away while she slipped into the transparent material. “You’re incredibly talented. Your performance will stand on its own merits.”
-</p>
-<p>
-“You’d think so, wouldn’t you?” she said. “But the truth is, talent is cheap. All talent gets you is a job playing background music of an HBO miniseries. And in the meantime, there’s a thousand turdhole pop-groups that can’t hit two chords, that are booked solid for years.” She ran her hands up along her legs to squeeze out pockets of air. “Talent alone gets you nowhere. I mean, fuck, Dan. I’m almost 25. You know what the 27 Club is, right? Jimi Hendrix. Jim Morrison. Amy Winehouse. Kurt Cobain. Janis Choplin. Tricia Ferrel. A real performer is supposed to be dead at 27. I’m 24, and where am I? Everything I’ve done up to now has been coffee houses and indie festivals. If I don’t break out tonight, I’ll wind up playing bar mitzvahs and high school reunions until the day I die. Which will probably be 27 anyway, because I’d rather just shoot myself.” 
-</p>
-<p>
-She rolled her shoulders to straighten the plates on her back. One of her lackeys zipped her up from behind.
-</p>
-<p>
-“So I ask myself,” she continued, flexing her limbs inside the suit to smooth out any kinks and wrinkles, “what else can I do? What can I bring to the audience that nobody else in the world can give them?” She patted her sides. “This. I can give them this. Yeah, it’s just a gimmick, but fuck it. I’ll take any advantage I can get.”
+<span class="caplead">Daniel got the suit working</span> about half an hour before showtime. Rosie began pulling it on before he could even complete a power cycle. “Yes! Thank you! You’re the best, Dan!” she squealed as she rolled her shoulders to straighten the plates on her back. One of her lackeys zipped her up from behind. She flexed her limbs to smooth out any kinks and wrinkles, and barked orders to her bandmates to prepare various filters and sequences. 
 </p>
 <p>
 The suit, now operational, responded to her movements with iridescent ripples that shimmered across her skin like waves upon an ocean of fluid energy. Flicks of her wrist and ankles sent ribbons of light spinning like whirlwinds upon her body. Shining upon her swaying form, swirls of ethereal color complemented her motions. She looked immaterial, transcendent, detached from physical reality; like a being that belonged to a different plane of existence &mdash; one purer, more celestial, more proximate to God.
@@ -229,7 +211,7 @@ He stepped toward her and wrapped her protectively in his arms. “Shhh… It’
 “I wasn’t saying it to be supportive,” Danny replied. “I was being sympathetic.”
 </p>
 <p>
-She pulled a few inches away and looked up with her mascara-rimmed eyes to scrutinize his face for meaning. “I don’t follow…”
+She pulled a few inches away and looked up with her mascara-rimmed eyes. “I don’t follow…”
 </p>
 <p>
 “Think about it,” he said. “If you do poorly out there, it won’t really affect anything. You’ll continue performing in obscurity, booking coffee shops and indie festivals. Your life will go on as is, and this becomes just some random night when nothing noteworthy happened, and the achievement of your dreams will forever be simply some hypothetical alternate reality.”
@@ -244,7 +226,7 @@ He smiled at her warmly. “Damn straight you will, Rosie! And that means everyt
 She nodded briskly. With a choked voice that betrayed her efforts to look brave, she said, “So, what can I do about it?”
 </p>
 <p>
-“What can you <em>do</em> about it?” Daniel repeated with a kind laugh. “<em>Embrace it!</em> Rosie, in a few short hours, that arena out there is going to be filled with adoring fans all dying to feel your magic. The world is waiting &mdash; craving, aching &mdash; to be shown what you’re made of. And if it consumes you in the process &mdash; if you’re burned away in the flame of your own ignition &mdash; then that’s how you know you’ve lived your destiny. Now get out there, and make it happen!”
+“What can you <em>do</em> about it?” Daniel repeated with a kind laugh. “<em>Embrace it!</em> Rosie, that arena out there is about to be filled with adoring fans all dying to feel your magic! The world is waiting &mdash; craving, aching &mdash; to be shown what you’re made of. And if it consumes you in the process &mdash; if you’re burned away in the flame of your own ignition &mdash; then that’s how you know you’ve lived your destiny. Now get out there, and make it happen!”
 </p>
 </div>
 

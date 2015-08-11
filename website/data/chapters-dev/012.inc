@@ -516,7 +516,7 @@ A low “ploink!” sounded from the back of the car as a bullet chipped out a c
 “It’s a gun. How hard can it be? It’s a point-and-click interface.”
 </p>
 <p>
-Tina shoved the revolver into his hand, happy to get the evil little thing away from her. “Careful with it. It’s got a hell of a recoil.”
+Tina shoved the revolver into his hand, happy to get the evil little thing away from her. “Careful with it. It’s got a hell of a kick.”
 </p>
 <p>
 A bullet shattered the SUV’s right taillight.

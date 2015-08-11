@@ -3,10 +3,10 @@
 <span class="caplead">Krongor’s battleaxe split the orc’s skull</span> in half, spraying the cavern wall with black ichor as the creature fell lifeless at the barbarian’s feet. 
 </p>
 <p>
-Several paces ahead, Zhan quickly chanted arcane syllables. With a hand that suddenly glowed white, the wizard grabbed a nearby orc by the arm. Arcs of lightning surged through its body as its vibrato screams echoed through the cavern. The air filled with the stench of ozone and burning hair. The monster fell backward, twitching but lifeless.
+Several paces ahead, Zhan quickly chanted arcane syllables. With a hand that suddenly glowed white, the wizard grabbed a nearby orc. Arcs of lightning surged through its body as its vibrato screams echoed through the cavern. The air filled with the stench of ozone and burning hair. The monster fell backward, twitching but lifeless.
 </p>
 <p>
-A veritable army of the foul beasts surrounded Krongor, stabbing with their serrated swords. The muscular warrior’s axe cleaved through an orc’s torso in a single blow. Yet no sooner had the foe fallen than one of its comrades advanced to fill its place.
+A veritable army of the foul beasts surrounded Krongor, stabbing with their serrated swords. The warrior’s axe cleaved through an orc’s torso in a single blow. Yet no sooner had the foe fallen than one of its comrades advanced to fill its place.
 </p>
 <p>
 Zhan pointed toward the barbarian with splayed fingers and shouted another incantation &mdash; and in an instant, Krongor found himself engulfed in an inferno. In all directions, all Krongor could see was orange tongues of flame. The very air around him set alight, searing his lungs and singeing his hair. His skin blistered and charred.
@@ -33,10 +33,10 @@ There was some dispute over whether or not that actually happened.
 “I don’t care what you think I said before!” insisted Satish, a short, stout Indian man. “I’m telling you now, he has no healing spells.”
 </p>
 <p>
-Satish sat at the head of a highly lacquered table, on a leather bench that wrapped along the walls of a yacht’s cabin. The table consumed half of the space in the wood-paneled room. Through round portholes, the water of Lake Washington glistened in the midday sun.
+Satish sat at the head of a highly lacquered table, on a leather bench that wrapped along the walls of a yacht’s wood-paneled cabin. Through round portholes, the water of Lake Washington glistened in the midday sun.
 </p>
 <p>
-The shiny table held a disorganized pile of books, dice, and Cheetos. At the center, atop a plastic sheet with a hexagonal grid and dry-erase marker lines, stood two-inch painted pewter figurines – one mighty axe-wielding barbarian, one wizard, and several orc figures lying face-down.
+The table held a disorganized pile of books, dice, and Cheetos. At the center, atop a plastic sheet with a hexagonal grid and dry-erase marker lines, stood two-inch painted pewter figurines – one mighty axe-wielding barbarian, one wizard, and several orc figures lying face-down.
 </p>
 <p>
 “This is bullshit!” Mike fired back, waving a handful of papers. He was dark-haired and tall, well-muscled but too fat and scruffy to show definition. “When we were in Salavina, I remember Zhan going to the Temple of Eir and learning a healing spell from the High Priestess.” He turned to his side. “Didn’t you?”

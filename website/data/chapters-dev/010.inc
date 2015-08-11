@@ -3,7 +3,7 @@
 <span class="caplead">The black Lincoln Navigator</span> wound awkwardly around Tungsten’s parking lot towards the building’s entrance, driving slowly and weaving back and forth. The man standing by the door studied the oddly-moving SUV apprehensively as it approached.
 </p>
 <p>
-The car came to a stop far from the entrance. The driver-side window rolled down, revealing a middle-aged man with gelled gray hair, illuminated by the light pouring through the glass doors of Tungsten’s brightly-lit lobby.
+The car came to a stop far from the entrance. The driver-side window rolled down, revealing a middle-aged man with gelled gray hair.
 </p>
 <p>
 Jason’s head drooped weakly. His mouth hung open and his eyes didn’t focus. He tried to speak, but all that came out was a raspy whisper.

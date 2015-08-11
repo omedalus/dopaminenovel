@@ -48,7 +48,7 @@ Brent beamed. “Yes, Danny’s been a great asset to the company. He’s been C
 Danny answered on his own behalf. “Sure thing. I can put this up on the Claymore website right now…” His hand moved inside his suit jacket toward his cellphone.
 </p>
 <p>
-The room erupted in murmurs of protest and clearing of throats. The assembled one-percenters exchanged nervous glances with one another and inched forward in their seats, their heads shaking and their hands darting out in blocking motions. Danny stood frozen with his hand halfway to his interior chest pocket, as though he was caught drawing a gun. He blinked dumbly and turned to Brent for help.
+The room erupted in murmurs of protest and clearing of throats. The assembled one-percenters exchanged nervous glances with one another and inched forward in their seats. Danny stood frozen with his hand halfway to his interior chest pocket, as though he was caught drawing a gun. He blinked dumbly and turned to Brent for help.
 </p>
 <p>
 Brent returned Danny’s look with an embarrassed half-smile. “The company’s website is maybe not the best place for proprietary technical data, Danny.” To the suddenly skittish investors, he said soothingly, “But we’ll be delighted to email this presentation to each of you as soon as we wrap up.”

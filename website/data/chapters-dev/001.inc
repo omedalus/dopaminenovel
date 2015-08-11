@@ -34,13 +34,13 @@ Francisco’s lips trembled. “Her staple is better than your samplers, chief,�
 Eugene’s eyes narrowed. “What <em>is</em> the point, Francisco?”
 </p>
 <p>
-Through a dry mouth, he murmured, “She charges a fifth of your prices.”</p>
+He murmured, “She charges a fifth of your prices.”</p>
 <p>
 Eugene leaned in, pulling Francisco’s face to his ear. “I’m sorry. I don’t think I heard you right. You said she’s undercutting us by a <em>fifth</em>?”</p>
 <p>
-“Undercutting you <em>to</em> a fifth. What you sell for a grand, she sells for two hundred. They say she makes it locally, chief. She can, like, grow it in a tub of saltwater or something. Like with pot. Some kind of hy-<em>dro</em>-ponic…”</p>
+“Undercutting you <em>to</em> a fifth. What you sell for a grand, she sells for two hundred. They say she makes it locally, chief. She can grow it in a tub of saltwater or something. Like with pot. Some kind of hy-<em>dro</em>-ponic…”</p>
 <p>
-Eugene rolled his eyes. “Francisco, how did you get to be a salesman without knowing shit about your product? Coca is not like hemp. Each bush has very little usable material. A kilogram of coca leaves will only yield five grams of blow. Farms need to harvest acres of crop just to break even. You would know this if you were not an idiot.”
+Eugene rolled his eyes. “Francisco, how did you get to be a salesman without knowing shit about your product? Coca is not like hemp. A kilogram of coca leaves will only yield five grams of blow. Farms need to harvest acres of crop just to break even. You would know this if you were not an idiot.”
 </p>
 <p>
 “Look, I don’t know how it works, chief,” Francisco pleaded. “I’m just saying what I heard. Look at her prices, though. It checks out, right? She’s got no import costs. No cartel dues. No <em>Federales</em> bribes. Maybe she knows something you don’t.”
@@ -85,7 +85,7 @@ Eugene carefully slipped his way through the crowd toward the back of the bar. H
 He waited for a reply. None came.
 </p>
 <p>
-Before him, the girl sat and drank, texting furiously on her cell, saying nothing to her three large companions. Her foot wagged cheerfully like a dog’s tail. Occasionally she would reach a hand into her Hello Kitty purse and withdraw it carefully, one manicured fingernail held upturned like a spoon, carrying a small scoop of fine white powder that promptly disappeared up her nose.
+Before him, the girl sat and drank, texting furiously on her cell, saying nothing to her three large companions. Occasionally she would reach a hand into her Hello Kitty purse and withdraw it carefully, one manicured fingernail held upturned like a spoon, carrying a small scoop of fine white powder that promptly disappeared up her nose.
 </p>
 <p>
 Eugene glanced at his phone. Still no word from Sergey. With a grimace, he rolled his shoulders, cracked his knuckles, and strode forward.
@@ -136,7 +136,7 @@ The stoic bodyguard advanced. “You’re threatening my boss, buddy. Your conve
 Julie Yen laughed raucously. “Oh, Eugene! Dear obsolete, useless Eugene! What would be the point of explaining anything? You wouldn’t understand a word I told you.”
 </p>
 <p>
-Eugene noticed that the occasional click of colliding billiard balls behind him had ceased. The two pool players were no longer engrossed in their game. He realized that could mean only one thing: they must be standing right…
+Eugene noticed that the occasional click of colliding billiard balls behind him had ceased. He realized that could mean only one thing: the two men who had been playing pool must be standing right…
 </p>
 <p>
 He ducked down into a squat, spinning and kicking out as he dropped. His leg made contact with an ankle. He crooked his knee, sweeping the foot of one of the men behind him. The would-be assailant fell backward, knocking his head against the pool table as he tumbled. Eugene rose from his squat to deliver his fallen opponent a swift stomp on the chest. Ribs cracked beneath his heel.

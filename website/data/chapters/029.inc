@@ -336,7 +336,7 @@ But Danny didn’t actually see or hear them land. For, in the instant that it t
 It had come from the underslung M203 projectile launcher of Leo’s rifle. It was black with a rubbery surface, shaped like a bullet but about the size of a pill bottle.
 </p>
 <p>
-Its pyrotechnic formula was designed to throw no shrapnel and spout no flame. Instead, for a few quick milliseconds, it shone with six million candelas of light and rang out with a single acoustic shockwave of 170 decibels. For one imperceptible fraction of a second, it burned twice as bright as the sun and boomed louder than the roar of a jet engine.
+Its pyrotechnic formula was designed to throw no shrapnel and spout no flame. Instead, for a few quick milliseconds, it shone with six million candelas of light and rang out with a single acoustic shockwave of 170 decibels. For one infinitessimal instant, it burned twice as bright as the sun and boomed louder than the roar of a jet engine.
 </p>
 <p>
 It was a 40-millimeter spin-stabilized flash grenade.

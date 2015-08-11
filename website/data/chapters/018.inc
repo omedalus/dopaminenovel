@@ -456,7 +456,7 @@ With as much strength as her small arms could muster, Julie yanked the lever tha
 The men in the alley shouted and dove for cover, Deshaun behind the exterior stairwell and the two Russians behind their BMW. Julie crouched in the doorway, using the large metal doors as a shield, steering the MAC-10 with both hands. The rattle of her gun was answered by the matching report of the black man’s identical firearm and the sporadic bangs of Eugene’s revolver.
 </p>
 <p>
-The gap in the doors put the exterior stairwell directly in Julie’s line of fire. Her bullets made high-pitched plinks as they grazed off of the iron railing, zinging through wide gaps in the struts between the steps. The African-American guard, seeing that the stairs would offer him very little protection, aimed around the side of the railing and fired back.
+The gap in the doors put the exterior stairwell directly in Julie’s line of fire. Her bullets made high-pitched plinks as they grazed off of the iron railing, zinging through wide gaps in the struts between the steps. The African-American guard aimed around the side of the railing and fired back.
 </p>
 <p>
 Julie dropped to the ground just in time. The spray of hollow-point bullets from Deshaun’s gun had been meant for Julie’s head, but instead hit the narrowly opened door behind her. They squashed against the inside of the metal door, pushing against it and bouncing idly away as flat little mushrooms of lead that ricocheted into the factory. The door behind Julie began to swing wide open from the kinetic energy of the deadly projectiles.
@@ -693,13 +693,7 @@ Danny wriggled awkwardly in the cramped space, trying to extricate himself from 
 He lifted the modified HERF gun and placed its tip, with the two exposed ends of wire, against the flammable cotton heap. After giving the circuitry one last visual inspection, he pulled the trigger.
 </p>
 <p>
-Along the top of the PVC tube, the stegosaurus-like spine of small translucent plastic boxes clicked as the relays all closed their contact arms in unison. The eight-pack of baby blue ultracapacitors discharged, sending their stockpile of pent-up electrical energy shooting through a flyback transformer and down the cable.
-</p>
-<p>
-The gap between the exposed wires flashed with a bright blue spark &mdash; accompanied by a cracking, zapping buzz.
-</p>
-<p>
-Danny cursed himself for forgetting one key characteristic of pulsed-current open-air spark gaps: they’re <em>loud</em>. 
+The gap between the exposed wires flashed with a bright blue spark &mdash; accompanied by a cracking, zapping buzz. Danny cursed himself for forgetting one key characteristic of pulsed-current open-air spark gaps: they’re <em>loud</em>. 
 </p>
 <p>
 Eugene responded to the noise by firing his handgun. It was much louder. 

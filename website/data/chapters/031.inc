@@ -1,6 +1,6 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Seattle’s downtown skyline glinted</span> in the warm sunlight of a clear summer day. Tall buildings rose above the shoreline, their windows shimmering with reflections of surf and sky. They towered above parks where children and dogs played; above markets raucous with tourists and musicians; above sparkling blue waters teeming with yachts and freighters. The blue Olympic Mountains crowned the western horizon, the gray Cascades and the enormous sleeping volcano of Mount Rainier lined the east. Tucked amidst majesty of geological proportions, the man-made spires jutted upward from low-lying gray urban periphery like immense gemstones from rock &mdash; the obsidian shard of the Columbia Center, the waterfall mesa of sandstone and sapphire at 1201 Third, the bizarre white alien stalagmite of the Space Needle. Seattle wasn’t merely adorned with jewels; she was made of them. She was the Emerald City.
+<span class="caplead">Seattle’s downtown skyline glinted</span> in clear summer daylight. Tall buildings rose above the shoreline, their windows shimmering with reflections of surf and sky. They towered above parks where children and dogs played; above markets raucous with tourists and musicians; above sparkling blue waters teeming with yachts and freighters. The blue Olympic Mountains crowned the western horizon, the gray Cascades and the enormous sleeping volcano of Mount Rainier lined the east. Tucked amidst majesty of geological proportions, the man-made spires jutted upward from low-lying gray urban periphery like immense gemstones &mdash; the obsidian shard of the Columbia Center, the waterfall mesa of sandstone and sapphire at 1201 Third, the bizarre white alien stalagmite of the Space Needle. Seattle wasn’t merely adorned with jewels; she was made of them. She was the Emerald City.
 </p>
 <p>
 “I just want to say, before we move on,” said the throaty, energetic voice of a young man freshly in his twenties, “that we both really appreciate this opportunity to present this work to you.”
@@ -27,7 +27,7 @@ A woman’s voice spoke. It was an older voice, well-educated and self-assured. 
 “And… Do…” The young voice stammered nervously. “Do you think we sound promising?”
 </p>
 <p>
-The speaker stood in a small corporate conference room just beyond the reception hall. He was tall and charismatic, and brimmed with infectious excitement. His partner, a slightly older student with a heavy-set body and a shy demeanor, stood quietly at his side. Behind them, a large screen displayed a rotating protein structure with numerical readouts and a bulleted list of molecular properties. Words along the top of the diagram read, “Nanotube-Modulated Pluripotentiation: A New Approach To Cellular Multiplexing.”
+The speaker stood in a small corporate conference room just beyond the reception hall. He was tall and charismatic, and brimmed with infectious excitement. His partner, a slightly older student with a heavy-set body and a shy demeanor, stood quietly at his side. Behind them, a large screen displayed a rotating protein structure with numerical readouts and a bulleted list of molecular properties. Words along the top of the diagram read, “Pluripotentiated Nanofacturing: A New Application For Cellular Multiplexing.”
 </p>
 <p>
 The woman chuckled. “We’ll see.”
@@ -36,10 +36,10 @@ The woman chuckled. “We’ll see.”
 The woman was Tina. She sat at a small conference table, watching the presentation and taking notes. She wore a crisp, conservative business dress. The march of time had chiseled the contours of her face into a firm visage of competence and confidence, smart and strong and feminine. She radiated a kind of mature beauty only expressed in those who have rightfully earned it.
 </p>
 <p>
-As the two young men fidgeted before their presentation, Tina turned to her side and said jokingly, “What do you think, Dan? Should we continue hearing these guys out, or are they a waste of our time?”
+As the two young men fidgeted before their presentation, Tina turned to her side and said jokingly, “What do you think? Should we continue hearing these guys out, or are they a waste of our time?”
 </p>
 <p>
-Daniel sat at the table beside her, wearing a timeless gray business suit. The color of his clothes matched the tone of his hair, which had receded high above his forehead to form a salt-and-pepper crown. The hair he had lost from the top of his head, he made up for with a neatly trimmed beard, dark with flecks of silver around his chin.
+Daniel sat at the table beside her, wearing a timeless gray business suit. The color of his clothes matched the tone of his hair, which had receded high above his forehead to form a salt-and-pepper crown. The hair he had lost from the top of his head, he made up for with a neatly trimmed beard, dark and flecked with silver.
 </p>
 <p>
 “Eh. I say cut them some slack,” he said, the creases at the corners of his mouth and eyes deepening as he smiled. “I remember giving a presentation to an investor group myself a long time ago, and it went pretty terribly.”
@@ -81,10 +81,10 @@ Beside each message, the device displayed familiar faces.
 “<span class="computer">Dude! Your 50th birthday? We wouldn’t miss it for the world! Count us in 110%!</span>” announced one message, beside a picture of Mike and Natalie. They’d been married for almost a decade. Their youngest child had just entered pre-school. Natalie had her own clinical practice. Mike worked as a network administrator for REI’s corporate offices. In their free time, they made costumes and crafts for the Washington Midsummer Renaissance Faire. They were ridiculously happy.
 </p>
 <p>
-“<span class="computer">Wow, 50!!!! I vaguely remember it. :) I’ve got venue, catering, and entertainment all lined up. It’ll be a gala! Get plenty of rest the night before. You’re going to need it, old man! Welcome to the other side of the hill!</span>” The message was from Jason, whom Daniel hadn’t seen much of lately. Jason’s health was faltering &mdash; he was fighting an aggressive case of pancreatic cancer. His oncology clinicians routinely programmed new strains of custom-built viruses to attack the cancerous cells, but the cells kept evolving new mutations to resist the virotherapy. Despite the arms race being waged within his bloodstream, Jason’s spirits were quite high, and his friendship with Danny and the projects of Tuttle Investment Partners brought him fulfillment.
+“<span class="computer">Wow, 50!!!! I vaguely remember it. :) I’ve got venue, catering, and entertainment all lined up. It’ll be a gala! Get plenty of rest the night before. You’re going to need it, old man! Welcome to the other side of the hill!</span>” The message was from Jason, whom Daniel hadn’t seen much of lately. Jason’s health was faltering &mdash; he was fighting an aggressive case of pancreatic cancer. His oncology clinicians routinely programmed new strains of custom-built viruses to attack the cancerous cells, but the tumor kept evolving new mutations to resist the virotherapy. Despite the arms race being waged within his bloodstream, Jason’s spirits were quite high, and his friendship with Danny and the projects of Tuttle Investment Partners brought him fulfillment.
 </p>
 <p>
-“<span class="computer">Daniel. It would be my pleasure to see you again, old friend,</span>” wrote Satish. “<span class="computer">My wife and daughters have not seen America yet, and it was very kind and thoughtful of you to include them in the invitation. It’s a long flight from Mumbai, but we’ll make it happen.</span>”
+“<span class="computer">Daniel. It would be my pleasure to see you again, old friend,</span>” wrote Satish. “<span class="computer">My wife and daughters have not seen America yet, and it was very thoughtful of you to include them in the invitation. It’s a long flight from Mumbai, but we’ll make it happen.</span>”
 </p>
 <p>
 “<span class="computer">Sure! See you there!</span>” Moshen replied. Moshen still made a decent living with his web design work. He couldn’t rightly be thought of as a “kid” anymore; he was married now, and would soon probably have kids of his own. In his spare time, he penned a popular online comic. It was about kung fu.

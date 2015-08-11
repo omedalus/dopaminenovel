@@ -3,10 +3,10 @@
 <span class="caplead">The black Lincoln Navigator</span> wound awkwardly around Tungsten’s parking lot towards the building’s entrance, driving slowly and weaving back and forth. The man standing by the door studied the oddly-moving SUV apprehensively as it approached.
 </p>
 <p>
-The car came to a stop far from the entrance. The driver-side window rolled down, revealing a middle-aged man with gelled gray hair, illuminated by the light pouring through the glass doors of Tungsten’s brightly-lit lobby.
+The car came to a stop far from the entrance. The driver-side window rolled down, revealing a middle-aged man with gelled gray hair.
 </p>
 <p>
-Jason looked weak and profoundly unwell. His head drooped, his mouth hung open, his eyes didn’t focus. He tried to speak, but all that came out was a raspy whisper.
+Jason’s head drooped weakly. His mouth hung open and his eyes didn’t focus. He tried to speak, but all that came out was a raspy whisper.
 </p>
 <p>
 The man at the entrance said something into his Bluetooth headset and then barked at him, “What do you want?”
@@ -174,7 +174,7 @@ Moshen replied, “He’s nodding Yes, Danny. He’s holding the lug wrench in o
 Danny cursed under his breath. “Guys, I’m going in,” he said as he walked to the entrance. “Satish, the front door, please.”
 </p>
 <p>
-The green light popped on above the card reader. Danny entered the building and hustled down the corridors toward the stockroom, keeping his cellphone pressed to his ear while carrying his contraption. Moshen’s voice guided him through the dark, unfamiliar office hallways, past rooms of strange apparatuses and doors marked with ominous warnings and hazard symbols. Even at night, Tungsten was far from still. The long empty corridors carried the whirring of robotic machinery, the faint hum of ventilation ducts, the bubbling of distillation systems. The building itself felt oddly like a living thing. 
+The green light popped on above the card reader. Danny entered the building and hustled down the corridors toward the stockroom, keeping his cellphone pressed to his ear while carrying his contraption. Moshen’s voice guided him through the dark, unfamiliar office hallways, past rooms of strange apparatuses and doors marked with ominous warnings and hazard symbols.
 </p>
 <p>
 Jason’s voice came across the air. “I’m in position, Danny.”

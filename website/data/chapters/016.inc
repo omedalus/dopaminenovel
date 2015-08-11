@@ -6,13 +6,13 @@
 And one day, an unscrupulous lord of the neighboring Byzantine Empire cast his covetous eyes toward the city and its troves of wealth. 
 </p>
 <p>
-Many times through its history had this city known war, and never had it fallen. Yet it wasn’t the city’s marble walls that thwarted its foes. Rather, the city’s enemies invariably met their end through the surgically precise work of a small corps of elite spies. This inscrutable team of cunning warriors, wielding information itself as a weapon, was capable of bringing armies to their knees without ever letting loose a single ballista bolt. 
+Many times through its history had this city known war, and never had it fallen. The city’s marble walls were strong, but the city’s true defenses rested in a unique weapon: a small corps of elite spies. This cunning team of subversive warriors was capable of bringing armies to their knees without ever letting loose a single ballista bolt. 
 </p>
 <p>
-And so it came to pass one night that the city’s watchmen saw the face of the distant westward mountains aglow with the speckled lights of thousands of campfires. The next day, the dust of many tens of thousands of marching boots clouded the sun over the land’s fertile fields and the rumbling crescendo of their advancing footfall shook the gilding of the city’s temples. The wooden forms of great siege engines crested the gentle bluffs near the city’s gates and trebuchets were unpacked upon hilltops. An immense army of iron-helmed soldiers stood menacingly in the thick dusty air around the city walls beneath the tall angular shapes of towering war machines. This army’s General, the Byzantine lord, called out and demanded unconditional surrender.
+And so it came to pass one night that the city’s watchmen saw the face of the distant westward mountains aglow with the speckled lights of thousands of campfires. The next day, the dust of many tens of thousands of marching boots clouded the sun over the land’s fertile fields, and the rumbling crescendo of their advancing footfall shook the gilding of the city’s temples. The wooden forms of great siege engines crested the gentle bluffs near the gates, and trebuchets were unpacked upon hilltops. An immense army of iron-helmed soldiers stood menacingly in the thick dusty air around the city walls beneath the tall angular shapes of towering war machines. This army’s General, the Byzantine lord, called out and demanded unconditional surrender.
 </p>
 <p>
-The city replied by letting fly a hail of soft-tipped arrows, each gull bearing a note telling the invaders to go home and save themselves.
+In response, a city herald shouted to the invaders to go home and save themselves.
 </p>
 <p>
 The Byzantine General vowed to attack at dawn, and withdrew to his bivouac to plan the assault.
@@ -30,7 +30,7 @@ The spies also learned that the Byzantine General didn’t trust his lieutenants
 Yet he also knew that the city’s spies would try to exploit his paranoia. He knew that they would try to convince him that a loyal legion had turned treacherous, thus tricking him into butchering his own men over a lie.
 </p>
 <p>
-The Byzantine General sat in his tent, deep in thought, devising a battle plan unlike any in the history of war. The plan would have to account for every contingency, including flaws in the plan itself and for mistakes or misinterpretations among his lieutenants. It would have to keep working even over a network of pages that could be hijacked at any point. It would have to function even in the face of internal sabotage, yet remain resilient against a false alarm. And above all else, it had to end in victory.
+The Byzantine General sat in his tent, deep in thought, devising a battle plan unlike any in the history of war. It would have to keep working even over a network of pages that could be hijacked at any point. It would have to function even in the face of internal sabotage, yet remain resilient against a false alarm. And above all else, it had to end in victory.
 </p>
 <p>
 He sat in his tent, deep in thought.
@@ -45,7 +45,7 @@ Fortunately, the Byzantine General had read the solutions put forth by Lamport, 
 “Wait, <em>what</em>?” said Jason.
 </p>
 <p>
-“Yeah, I know,” said Danny. “A recursive voting system sounds seriously inefficient, right? But it’s really not that bad, because you can distribute the recursion. The runtime is actually a mere O-of-n-log-n if it’s done right. And with public-key encryption and a good certificate revocation scheme, you can have linear runtime and tolerance against an arbitrary number of traitors. Pretty cool, huh?”
+“Yeah, I know,” said Danny. “A recursive voting system sounds seriously inefficient, right? But you can distribute the recursion! The runtime is actually a mere O-of-n-log-n. And with public-key encryption and a good certificate revocation scheme, you can have linear runtime and tolerance against an arbitrary number of traitors. Pretty cool, huh?”
 </p>
 <p>
 Jason shook his head. “I think you lost me somewhere between ‘trebuchet’ and ‘algorithm’.”

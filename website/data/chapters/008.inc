@@ -18,7 +18,7 @@ There were pine trees planted beside the office building, arranged in neat woodc
 “Move the car over there, where the trees are thinner,” Danny said while pointing. 
 </p>
 <p>
-Pine trees were living things, and their green needles were filled with water. As each electromagnetic wave passed by, the polarized water molecules would bounce and jostle, sapping the wave’s energy. The trees might as well have been clouds of fog. 
+Pine trees were living things, and their green needles were filled with water. They might as well have been clouds of fog. 
 </p>
 <p>
 The SUV lumbered quietly forward. “The lights are on in their lobby,” Jason said as their angle of view shifted. “And there’s still a car in their parking lot. Is someone in there?”

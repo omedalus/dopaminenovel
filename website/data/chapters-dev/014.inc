@@ -332,19 +332,7 @@ The eFITNESS Power Gym Team
 </pre>
 
 <p>
-“See that?” Danny said. “All it takes is one.”
-</p>
-<p>
-“Holy. Fucking. Shit,” said Tina.
-</p>
-<p>
-“Now, think those credentials will work on his Wells Fargo account?” asked Danny as he resumed working on the cellphone.
-</p>
-<p>
-Tina stood silently in anticipation.
-</p>
-<p>
-“Copy… paste… and…” Danny again turned the screen toward Tina. 
+“See that?” Danny said. “All it takes is one. Now, think those credentials will work on his Wells Fargo account? Copy… paste… and…” Danny again turned the screen toward Tina. 
 </p>
 <p>
 The screen showed a Wells Fargo account management web page. Below the title banner and greeting text was a list of several bank account numbers with summaries, each one showing a six-figure balance. Buttons on the page offered the ability to view transaction histories, pay bills, perform wire transfers, request loans, and generally wreak havoc.
@@ -440,7 +428,7 @@ The pale brown goo had congealed into a hard resin that clung to the paper clip 
 “You can tell what mood they’re in?”
 </p>
 <p>
-Tina pinched the crusty grain between the thumb and forefinger of her gloved hand. Holding the pinch, she used her other hand to roll off the glove, turning it inside out as it came off. She maintained the pinch the whole time, and when she got to the thumb and forefinger, she gave the latex glove several twists and knotted it off near the base of the digits. The yellowish flake remained sealed in the glove’s inverted surface.
+Tina pinched the grain between the thumb and forefinger of her gloved hand. She used her other hand to roll off the glove, turning it inside out, holding the pinch the whole time. When it was finally off she gave the latex several twists and knotted it off near the base of the digits. The yellowish flake remained sealed in the glove’s inverted surface.
 </p>
 <p>
 “They’ve locked themselves into a biofilm,” Tina said. 
@@ -449,13 +437,13 @@ Tina pinched the crusty grain between the thumb and forefinger of her gloved han
 Danny shrugged dumbly.
 </p>
 <p>
-“It’s like they’re circling their wagons,” she said. “It’s a cooperative emergency defense mechanism. A lot of strains of bacteria, when they feel like they’re in danger, they start to exude this thick mix of starches and proteins. A bacterium starts cranking this stuff out when it senses it’s dying. When nearby bacteria feel their neighbors spewing this stuff, they start to spew it too, so the entire colony hides inside a massive layer of sticky crust. It’s like they make a little fort. It makes it pretty much impossible for predators or antibiotics to physically reach the bacterial colony. And once they’re inside, they go into a natural suspended animation. They basically shut down all their life processes except for the barest essentials, and sit there and wait for the threat to pass.”
+“It’s like they’re circling their wagons,” she said. “It’s a cooperative emergency defense mechanism. A lot of strains of bacteria, when they feel like they’re in danger, they start to exude this thick mix of starches and proteins. A bacterium starts cranking this stuff out when it senses it’s dying. When nearby bacteria feel their neighbors spewing this stuff, they start to spew it too, so the entire colony hides inside a massive layer of sticky crust. It’s like they make a little fort. And once they’re inside, they go into a natural suspended animation. They basically shut down all their life processes except for the barest essentials, and sit there and wait for the threat to pass.”
 </p>
 <p>
-“So that crusty stuff is a panic room for germs?” said Danny.
+“That crusty stuff is a panic room for germs?” said Danny.
 </p>
 <p>
-“Yeah, exactly,” said Tina. “They must’ve started forming it as soon as they came out of the freezer and woke up to find themselves in glycerol solution.”
+“Exactly,” said Tina. “They must’ve started forming it when they came out of the freezer and woke up to find themselves in glycerol solution.”
 </p>
 <p>
 “So what’s it mean for us?”
@@ -467,43 +455,25 @@ Danny shrugged dumbly.
 “How long can they stay like that?” Danny asked.
 </p>
 <p>
-“Oh, once they lock themselves inside a plaque like this, they can stay there for a pretty damn long time. The trick becomes waking them up and convincing them it’s safe to come out.”
+“Oh, once they lock themselves inside a plaque like this, they can stay there for pretty damn long. The trick is waking them up and convincing them it’s safe to come out.”
 </p>
 <p>
 “Can that be done?”
 </p>
 <p>
-Tina looked around and grinned. “You might be amazed at what you can do with a few groceries from your local Rite Aid.”
+Tina looked around, taking stock of the drugstore. With a gleam in her eye, she said, “Let’s see what I can do!” She put the tied-off latex glove and the rubbing alcohol into the shopping basket, and scanned the shelves of the First Aid aisle. She found a cheap digital oral thermometer and added it to her cache. “We’re going to make us some lysogeny broth. See if you can find a Pyrex bowl. At least a quart. With a lid. And grab a measuring cup. And an oven mitt. If we’re lucky, Nat might find us an autoclave at the hospital. If not, we’ll just take our chances with her stove. Lord knows it’s never been used for cooking.”
 </p>
 <p>
-She put the tied-off latex glove and the rubbing alcohol into the shopping basket, and scanned the shelves of the First Aid aisle. She found a cheap digital oral thermometer and added it to her cache.
+“Uh… Sure! Yes! Okay!” Danny replied. He sensed that something technical was happening, but it was so far outside of his domain of expertise that he felt like a total layman. He hadn’t felt like that in a very, very long time. He found himself liking it. Or more specifically, liking being made to feel this way. Or more specifically still, being made to feel this way by her. He set out toward the kitchenware section and gathered Tina’s spell components.
 </p>
 <p>
-She turned to Danny with determined animation. “We’re going to make us some lysogeny broth.”
-</p>
-<p>
-“Uh, okay,” he replied dumbly.
-</p>
-<p>
-“See if you can find a Pyrex bowl in the kitchenware section. At least a quart. With a lid. And grab a measuring cup while you’re there. And an oven mitt.”
-</p>
-<p>
-Danny seemed bewildered. “What’s all that for?”
-</p>
-<p>
-“If we’re lucky,” Tina answered, “Nat might find us an autoclave at the hospital. If not, we’ll just take our chances with her stove. Lord knows it’s never been used for cooking.”
-</p>
-<p>
-Danny didn’t bother asking what an autoclave was. He shrugged and began wandering the store looking for the kitchen section and picking out the items she needed, obeying Tina’s commands without any real understanding about why. He felt disoriented, out of his element, and just a little bit intellectually jealous.
-</p>
-<p>
-He found her in a nearby aisle, and dropped his materials into the basket. “What else do we need for this soup you want to make?”
+When he finished, he found her in a nearby aisle. He dropped his materials into her basket. “What else do we need for this soup recipe?”
 </p>
 <p>
 “Lysogeny broth,” she corrected. “We’ll need salt, tryptone, and yeast extract.”
 </p>
 <p>
-“You’ve done this before, haven’t you?” he asked with a grin.
+“You’ve done this before, haven’t you?” he asked.
 </p>
 <p>
 Tina blushed. “It’s easier than it looks. The trick with biology is that these things <em>want</em> to work by themselves. Living things are self-correcting. It’s called homeostasis. If you have a biological process and something goes wrong, it usually breaks in a way that compensates for the damage.”
@@ -515,16 +485,10 @@ Tina blushed. “It’s easier than it looks. The trick with biology is that the
 “Yeah. In nature, everything’s built that way,” said Tina. “Left to its own devices, biological systems always find a way to make things work. Life’s a lot less fragile than most people think. Humans have been building machines for about five thousand years. Cellular life has been self-replicating for about three and a half billion. It’s probably doing something right.”
 </p>
 <p>
-Danny felt both inspired and intimidated. “So, what were those other ingredients again?” he asked, deflecting his attention to the task at hand.
+Danny felt both inspired and intimidated. “So, those other ingredients…” he said, deflecting his attention to the task at hand. “I know what table salt is. The other two… Um, is there a Lab Chemicals aisle here?”
 </p>
 <p>
-“Table salt, tryptone, and yeast extract.”
-</p>
-<p>
-“I know what table salt is. The other two… Um, is there a Lab Chemicals aisle here?”
-</p>
-<p>
-“They’re just fancy names for bacteria food,” said Tina. “Lysogeny broth is just a mixture of fairly common stuff that happens to be super nutritious for a growing young bacterial colony. Yeast extract is rich in glutamates for building new proteins, and nucleotides to give the bacteria raw materials for replicating their DNA so they can multiply. And the other stuff, tryptone, that’s just a big pile of amino acids that come from the breakdown of dairy proteins… Whaaat?” she suddenly asked him self-consciously.
+“They’re just fancy names for bacteria food,” said Tina. “Lysogeny broth is a mixture of fairly common stuff that happens to be super nutritious for a growing young bacterial colony. Yeast extract is rich in glutamates for building new proteins, and nucleotides to give the bacteria raw materials for replicating their DNA. And the other stuff, tryptone, that’s just a big pile of amino acids that come from the breakdown of dairy proteins… Whaaat?” she suddenly asked him self-consciously.
 </p>
 <p>
 “What what?” Danny asked, bewildered.
@@ -533,34 +497,16 @@ Danny felt both inspired and intimidated. “So, what were those other ingredien
 “You’re looking at me like you want to say something,” she said.
 </p>
 <p>
-“Heh, it’s nothing. I’m just… impressed.”
-</p>
-<p>
-She met his gaze again with a look that cut his breath short &mdash; her unkempt black hair falling around her face, her dark eyes looking mischievously at him. Her tiny nose stud glinted in the bright fluorescent light. 
-</p>
-<p>
-“You… You really think I’m good at this stuff, don’t you,” she said to him. 
-</p>
-<p>
-He noticed the slight quiver in her lower lip underneath her smile.
-</p>
-<p>
-Danny’s mind instantly offered up a thousand different things to say to her in response. Every single one of them sounded wrong.
-</p>
-<p>
-The awkward silence between them grew unbearable. “So. Amino acids, right?” he said abruptly. 
+“Heh, it’s nothing. I’m just… impressed.” She met his gaze again with a look that cut his breath short &mdash; her unkempt black hair falling around her face, her dark eyes looking mischievously at him. Her tiny nose stud glinted in the bright fluorescent light. “So. Amino acids, right?” he said abruptly. 
 </p>
 <p>
 “Yeah…” she said.
 </p>
 <p>
-“I have an idea. Follow me.”
+“I have an idea. Follow me.” He led Tina to the Diet Supplements aisle. There, amidst white bottles filled with pills of calcium and zinc and vitamins, were tubs of powdered bodybuilding formulas, with names like “Cyto Gainer”, “Muscle Milk”, and “Amino Fuel”.
 </p>
 <p>
-He led Tina to the Diet Supplements aisle. There, amidst white bottles filled with pills of calcium and zinc and vitamins, were tubs of powdered bodybuilding formulas, with names like “Cyto Gainer”, “Muscle Milk”, and “Amino Fuel”.
-</p>
-<p>
-Tina’s whole face lit up at the sight. “Danny, you’re a freakin’ genius!” Tina gleefully reached up to pull down a tub labeled “Complete Casein”. “Ohhhhhhhh man, they are going to love this shit!” she said as she read the nutritional information on the back. She took the vial in one hand and wiggled it toward the tub in the other, saying, “Right, little guys? You want some casein? Some nice tasty casein? Yes you do! Oh yes you do! And maybe some B-complex gel-caps? Yeah? Good little <em>E. coli</em>!”
+Tina nodded gleefully. “Danny, you’re a freakin’ genius!” She picked up a tub labeled “Complete Casein”. “Ohhhhhhhh man, they are going to love this shit!” she said as she read the nutritional information on the back. She took the vial in one hand and wiggled it toward the tub, saying, “Right, little guys? You want some casein? Some nice tasty casein? Yes you do! Oh yes you do! And maybe some B-complex gel-caps? Yeah? Good little <em>E. coli</em>!”
 </p>
 <p>
 Danny smiled warmly at her antics.
@@ -569,7 +515,7 @@ Danny smiled warmly at her antics.
 “Sterilization is going to be really tricky, though,” Tina mentioned pensively. “There’s all different kinds of bacteria around us all the time &mdash; in the air, in the water, everywhere. If any random bacterium gets into the lysogeny broth, it’ll multiply in there along with our <em>E. coli</em> strain, and it’ll compete for the broth’s nutrients. Normally, when people do this in a lab, the <em>E. coli</em> is intentionally given resistance to some specific antibiotic, and the lysogeny broth is infused with that antibiotic, so only our strain can survive in there. We can’t do that here because we don’t know what antibiotic these guys were bred to be resistant against, if any. But if we’re lucky…”
 </p>
 <p>
-He listened to her talk, reeling with admiration. She stood there in the aisle, shopping basket in one hand, purse in the other. Hair dark and haphazard. A small, unassuming stud glinting on the side of her nose. And a gleam of competent determination in her eyes.
+He listened to her talk, reeling with admiration. She stood in the aisle, shopping basket in one hand, purse in the other. Hair dark and haphazard. A small, unassuming stud glinting on the side of her nose. And a gleam of competent determination in her eyes.
 </p>
 <p>
 She paused for a moment. “Hey Danny.”
@@ -593,7 +539,7 @@ He mustered up his deepest reserves of confidence, leaned toward her, and said s
 He reached his hand out and placed it on the smooth curve of her waist to pull her closer. She eagerly pressed her body against his. The feel of her toned midsection hit his veins like a shot of opium, sending his head spinning in blissful delirium. He drew his lips down toward hers. She reciprocated, reaching up to slide her hand across the back of his neck, and guided his face down to meet hers.
 </p>
 <p>
-He watched himself kissing her in an out-of-body experience, the camera of his eye circling around them. The music on the speaker system of the Rite Aid serenaded them with the guitar-backed strains of punk-pop love ballad. Bystanders started applauding. The credits rolled, and they lived happily ever after.
+He watched himself kissing her in an out-of-body experience, the camera of his eye circling around them. The Rite Aid’s muzak became a punk-pop love ballad. Bystanders started applauding. The credits rolled, and they lived happily ever after.
 </p>
 <p>
 None of that happened.
@@ -659,7 +605,7 @@ The blood left Tina’s face. As the phone continued ringing, she just stood the
 Finally, she decided to press a button. The music stopped.
 </p>
 <p>
-Slowly, robotically, she brought the phone up to her ear, and trembled out, “Hello?”
+Slowly, she brought the phone up to her ear and trembled out, “Hello?”
 </p>
 <p>
 Danny could only barely hear the other side of the conversation. He could make out a male voice with a foreign accent.
@@ -677,7 +623,7 @@ The voice said something in response.
 The voice spoke again.
 </p>
 <p>
- “Yes, I still have it,” she said. “But it’s been thawed out, and…”
+ “Yes, I still have it,” she said. “But it’s thawed out, and…”
 </p>
 <p>
 The voice cut her off. 
@@ -701,13 +647,13 @@ The voice barked something at her.
 The voice grumbled.
 </p>
 <p>
-“What? No! I can’t …” Tina insisted. The voice responded. As it talked, Tina gasped and began to cry. “No! Please, you don’t have to…” The voice kept talking. “No!” Tina choked on a scream. 
+“What? No! I can’t…” Tina insisted. The voice responded. As it talked, Tina gasped and began to cry. “No! Please, you don’t have to…”
 </p>
 <p>
 The voice said something.
 </p>
 <p>
-“…I understand,” Tina whimpered.
+Tina choked on a scream. “…I understand,” she whimpered.
 </p>
 <p>
 The voice made a few statements.
@@ -722,7 +668,7 @@ The voice issued a gruff response. Then, after a pause, it said something else.
 Tina looked up at Danny. She slowly pulled the phone away from her ear and extended it out to him. “He wants to talk to you,” she whispered.
 </p>
 <p>
-Danny blinked. “Wait, what? To <em>me</em>?”
+Danny blinked. “To <em>me</em>?”
 </p>
 <p>
 Tina nodded slowly, her eyes blank.
@@ -737,7 +683,7 @@ Tina nodded slowly, her eyes blank.
 Danny took the phone from her. “…Hello?”
 </p>
 <p>
-The voice, deep and resonant with a Russian accent, said, “I understand you are responsible for interrupting our operation and damaging my men’s equipment.”
+The voice, deep and resonant, said, “I understand you are responsible for interrupting our operation and damaging my men’s equipment.”
 </p>
 <p>
 Danny took in a sharp, aggressive breath. “What do you want?” he said tensely.

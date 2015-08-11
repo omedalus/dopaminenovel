@@ -1,30 +1,24 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The black Lincoln Navigator</span> wound awkwardly around Tungsten’s parking lot towards the building’s entrance, driving slowly and weaving back and forth. The man standing by the door studied the oddly-moving SUV apprehensively as it approached.
+<span class="caplead">The black Lincoln Navigator</span> wound awkwardly around Tungsten’s parking lot, driving slowly and weaving back and forth. The man standing by the door studied the oddly-moving SUV apprehensively as it approached, and said something into his Bluetooth headset.
 </p>
 <p>
-The car came to a stop far from the entrance. The driver-side window rolled down, revealing a middle-aged man with gelled gray hair.
+The car came to a stop near the entrance. The driver-side window rolled down, revealing a middle-aged man with gelled gray hair.
 </p>
 <p>
-Jason’s head drooped weakly. His mouth hung open and his eyes didn’t focus. He tried to speak, but all that came out was a raspy whisper.
+Jason’s head drooped weakly. His mouth hung open and his eyes didn’t focus. He said in a slow, raspy whisper, “Is this the Weisenbaum Clinic?”
 </p>
 <p>
-The man at the entrance said something into his Bluetooth headset and then barked at him, “What do you want?”
+The man made a shooing motion with his free hand. “No. Go away.”
 </p>
 <p>
-Jason made an effort to speak louder. “Is this the Weisenbaum Clinic?” he asked slowly in a hoarse, nasal voice.
-</p>
-<p>
-The man made a brushing motion with his free hand. “No. Go away.”
-</p>
-<p>
-“It’s supposed to be right here,” Jason whined. “I see the big ‘W’ on the door.”
+“It’s supposed to be right here,” Jason whined, his voice hoarse and nasal. “I see the big ‘W’ on the door.”
 </p>
 <p>
 “This isn’t a clinic,” the man barked.
 </p>
 <p>
-“Please, it’s very important,” Jason said, drawing out and enunciating each word. “I have an urgent medical condition. I need to go see…” His speech degenerated into a series of wheezes and coughs. “Please, I just need the address. Can you…” He coughed and wheezed again. “Can you come closer please? It hurts for me to talk so loud.”
+“Please, it’s very important,” Jason said, drawing out and enunciating each word. “I have an urgent medical condition. I need to go see…” His speech degenerated into a series of wheezes and coughs. “Please, I just need the address. Can you… Can you come closer please? It hurts for me to talk so loud.”
 </p>
 <p>
 With an exasperated sigh, the man took a few steps toward the SUV.
@@ -39,7 +33,7 @@ The man glared at him. “If I do, will you go away?”
 “Yes.”
 </p>
 <p>
-The man said something in Russian into his headset, his tone of annoyance crossing the language barrier. He reached into his pocket and pulled out his cellphone. “Okay, give me the number,” he grumbled.
+The man said something in Russian into his headset, his tone of annoyance crossing the language barrier. He reached into his pocket and pulled out his cellphone. “Okay, give me the number.”
 </p>
 <p>
 “Four two five,” Jason said slowly, “Eight six five… Eight six five two? No, wait, eight six five three…”

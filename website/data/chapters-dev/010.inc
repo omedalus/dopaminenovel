@@ -114,16 +114,16 @@ The conference call carried the sound of a door opening. “I’m in the stockro
 Danny caught himself nibbling on his fingernails. “Jason. Come back here and get to the loading dock. Quickly. Where are you?”
 </p>
 <p>
-“Down the street,” said Jason’s voice. “There’s bullet holes in my car. The repairs are coming out of your pay.” Danny saw headlights on the road beyond the parking lot. Jason’s SUV came back into view and proceeded back towards the Tungsten building.
+“Down the street,” said Jason’s voice. “There’s bullet holes in my car. The repairs are coming out of your pay.” 
 </p>
 <p>
 “Mike!” said Moshen. “I see the guy coming up to the stockroom door!”
 </p>
 <p>
-Danny watched Jason’s SUV roll past the parking lot toward the back of the building. “Jason’s not in position yet,” Danny said into the cellphone. “Mike, can you keep him busy in the stockroom for a few seconds?”
+Danny saw headlights on the road beyond the parking lot. Jason’s SUV came back into view and proceeded back towards the Tungsten building. “Jason’s not in position yet,” Danny said into the cellphone. “Mike, can you keep the guy busy?”
 </p>
 <p>
-Danny heard Mike grunting and straining. The sound was followed by a few popping, clacking shots from the silenced handgun.
+Danny heard Mike grunting and straining. The sound was followed by a few popping, clacking shots from the handgun.
 </p>
 <p>
 “Holy shit!” yelled Danny. “Mike! Mike, are you alright? What’s happening?”
@@ -150,7 +150,7 @@ Moshen replied, “He’s nodding Yes, Danny. He’s holding the lug wrench in o
 “He shot it out of his hand!”
 </p>
 <p>
-Danny cursed under his breath. “Guys, I’m going in,” he said as he walked to the entrance. “Satish, the front door, please.”
+Danny cursed under his breath. “Guys, I’m going in. Satish, the front door, please.”
 </p>
 <p>
 The green light popped on above the card reader. Danny entered the building and hustled down the corridors toward the stockroom, keeping his cellphone pressed to his ear while carrying his contraption. Moshen’s voice guided him through the dark, unfamiliar office hallways, past rooms of strange apparatuses and doors marked with ominous warnings and hazard symbols.
@@ -189,7 +189,7 @@ Mike whispered into the call, “Moshen. You said he’s about thirty feet away 
 “Yeah well,” said Mike, “let’s see if it makes a good projectile weapon.”
 </p>
 <p>
-Both through the cellphone and through the door in front of him, Danny heard Mike give a mighty grunt, followed by a crashing noise and the “<em>pop-clack!</em>” of the silenced semiautomatic. On the far side of the stockroom, the metal bar on the fire door released its latch as Mike body-checked his way through the exit. 
+Both through the cellphone and through the door in front of him, Danny heard Mike give a mighty grunt, followed by a crashing noise and the “<em>pop-clack!</em>” of the semiautomatic. On the far side of the stockroom, the metal bar on the fire door released its latch as Mike body-checked his way through the exit. 
 </p>
 <p>
 Jason’s voice announced, “Mike, you’re okay!” It sounded distant and slightly echoing. Jason’s voice was being picked up both by his own cellphone and by Mike’s.
@@ -198,40 +198,28 @@ Jason’s voice announced, “Mike, you’re okay!” It sounded distant and sli
 “Punch it!” yelled Mike.
 </p>
 <p>
- Danny heard a crunching thud as Jason backed his SUV up against the fire exit. Jason had positioned his car about three feet away from the door, and had been waiting to see Mike run out. The moment Mike cleared the door, Jason slammed the back of his car against it and engaged the parking brake. The fire door opened outward, so the SUV served as a very large, very expensive, very effective doorstop.
+ Danny heard a crunching thud as Jason backed his SUV up against the fire exit. Jason had positioned his car about three feet away outside the door, and had been waiting to see Mike run out. The moment Mike cleared the exit, Jason slammed the back of his car against it and engaged the parking brake. The fire door opened outward, so the SUV served as a very large, very expensive, very effective doorstop.
 </p>
 <p>
 “Good job, Mike,” said Danny. “Now make your way around the outside of the building, get back in through the front doors, and come on back here.”
 </p>
 <p>
-“On my way,” said Mike. 
-</p>
-<p>
 From inside the stockroom, Danny could hear the man throwing himself against the fire exit in a useless attempt to push away the SUV. The “<em>pop-clack!</em>” of the gun sounded a few times, then silence.
 </p>
 <p>
-Danny waited tensely in the dim hallway outside the stockroom door. “Is he coming back this way yet?” he asked.
+Danny waited tensely in the dim hallway outside the stockroom door. “Is he coming back this way yet?” he asked. “As soon as he realizes the fire exit’s blocked, he’s going to try to get out the way he came. But he’ll need to use his keycard to open the door from that side.”
 </p>
 <p>
-“Not yet,” said Moshen. “Good news is you have an extra second or two. Bad news is, that’s because he’s reloading. Get ready.”
+“Not yet,” said Moshen. “Good news is you have an extra second or two. Bad news is, that’s because he’s reloading. Can you do something about his keycard?”
 </p>
 <p>
-Danny took a deep breath and put the end of his device up against the wall, just under the button that would open the large metal stockroom door. The machine’s small red and green indicator LEDs looked like Christmas-tree lights in the unlit hallway.
-</p>
-<p>
-“He’s coming up to the door…” said Moshen.
-</p>
-<p>
-Danny heard a bit of movement on the other side. The wall, he reckoned, was made of six inches’ worth of drywall, wood, and foam insulation &mdash; all of which was almost completely transparent to microwaves.
+Danny took a deep breath and said, “I sure as hell hope so.” He put the end of his device up against the wall, just under the button that would open the large metal stockroom door. The wall, he reckoned, was made of six inches’ worth of drywall, wood, and foam insulation &mdash; all of which was almost completely transparent to microwaves. He listened for movement on the other side.
 </p>
 <p>
  “Now!” yelled Moshen.
 </p>
 <p>
-Danny pulled the trigger. 
-</p>
-<p>
-The mechanical arms of the high-power relays all clicked simultaneously against their contacts inside the spine of plastic cubes. The pulsed discharge of current from the capacitor bank to the magnetron sent a soft low-pitched “<em>bonk!</em>” through the air around it. Lights along the capacitor bank flipped from green to red.
+Danny pulled the trigger. The relays all clicked simultaneously against their contacts inside the spine of plastic cubes. The pulsed discharge of current from the capacitor bank to the magnetron sent a soft low-pitched “<em>bonk!</em>” through the air around it. Lights along the capacitor bank flipped from green to red.
 </p>
 <p>
 On the other side of the wall, Danny heard a snapping, cracking sound, followed by a man screaming in shocked frustration and unleashing a long stream of Russian curse words. The man pulled in vain at the door handle on the other side. The door shook slightly but refused to yield. 

@@ -87,28 +87,28 @@ It wasn’t long before the cases could be comfortably touched with bare hands. 
 There was one vial that bore visibly less frost on its cap than the others &mdash; it had clearly been withdrawn from its box often. Tina drew it out, and knew immediately that it was the one that the Russian had come for. In place of a label, this vial had a tattered yellow smiley face sticker affixed on its translucent surface.
 </p>
 <p>
-The Russian perked up as he saw her place it down on the table. He slid his cellphone into his jacket pocket, stepped forward eagerly, and picked up the tube with the tips of his gloved fingers. 
+The Russian perked up as he saw her lay it on the table. He slid his cellphone into his pocket, stepped forward eagerly, and picked up the tube with the tips of his gloved fingers. 
 </p>
 <p>
 “Are we done here?” Tina asked.
 </p>
 <p>
-The man held the vial up in front of his face, examining it with delight. His grin echoed the smile on the round yellow sticker. “Yes. I think we are.”
+The man held the vial in front of his face. His grin echoed the smile on the round yellow sticker. “Yes. I think we are.”
 </p>
 <p>
 “Good,” she said, already halfway to the door.
 </p>
 <p>
-She didn’t make. A cold leather-gloved hand clamped firmly around her wrist and jerked her back. “Not so fast, young lady.”
+She didn’t make. A leather-gloved hand clamped around her wrist and jerked her back. “Not so fast, young lady.”
 </p>
 <p>
 “No! Let me go!” she demanded.
 </p>
 <p>
-“You’re really quite useful, you know,” he said.
+“You’re quite useful, you know,” he said.
 </p>
 <p>
-“You said we’re done here!” She struggled to pull her hand back, to no avail. He held her wrist firmly with his left hand, balancing both his gun and the vial in his right.
+“You said we’re done here!” She struggled, but to no avail. He held her wrist firmly with his left hand, balancing both his gun and the vial in his right.
 </p>
 <p>
 “We are done <em>here</em>,” repeated the man. “But… I have more use for you…”

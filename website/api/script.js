@@ -92,6 +92,7 @@ $(document).ready(function() {
       
       paragraph.addClass('highlighted');
       paragraph.parents().addClass('highlighted');
+      paragraph.find('*').addClass('highlighted');
       
       numWordsHighlighted += parseInt(paragraph.attr('data-paragraph-wordcount'));
       
@@ -99,7 +100,7 @@ $(document).ready(function() {
     }
     
     $('*').css('display', 'none');
-    $('.highlighted, .highlighted br').css('display', '');
+    $('.highlighted').css('display', '');
     $(window).scrollTop(0);
   }
   

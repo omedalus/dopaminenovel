@@ -912,22 +912,22 @@ Sergey pulled his MAC-10 away from the man’s neck and threw him gruffly back d
 “Know what?” Danny asked.
 </p>
 <p>
-“Ivan!” Sergey roared. “He is here somewhere! I saw him slink away during fighting like a pathetic rat! He is here, and by God I swear he will pay, once and for all!” He walked up to Danny and stood uncomfortably close to him. With his eyes melting into pleading sorrow, he said to him in a hoarse voice, “Help me, Daniel. Help me to stop this man from getting away. Help me make this wretched curse I have lived under to finally end.”
+“Ivan!” Sergey roared. “He is here somewhere! I saw him slink away during fighting like a pathetic rat! He is here, and by God I swear he will pay, once and for all!” He walked up to Danny and stood uncomfortably close to him. With his eyes melting into pleading sorrow, he said in a hoarse voice, “Help me, Daniel. Help me to stop this man. Help me make this wretched curse I have lived under to finally end.”
 </p>
 <p>
-Danny shrugged helplessly, unsure of what Sergey expected for him to be able to do. “Which way did you see him go?”
+“Which way did you see him go?” Danny asked.
 </p>
 <p>
 Sergey pointed with his gun toward the cedarwood doors that opened out to the antechamber.
 </p>
 <p>
-Danny stood and pondered. “Well, he couldn’t have gone far. We control the elevator, so he couldn’t have taken it out of this suite. So he must’ve taken the stairs. My team’s been watching the video feeds, and they haven’t seen him step out onto any of the floors, nor into the maintenance corridor on the ground level, nor the parking garage below that. So he took the stairs, but he didn’t go down. The only place left to go is up. To the…”
+Danny stood and pondered. “Well, he couldn’t have gone far. We control the elevator, so he must’ve taken the stairs. My team’s been watching the video feeds, and they haven’t seen him step out onto any of the floors, nor into the maintenance corridor on the ground level, nor the parking garage below that. The only other place where the stairs go, is <em>up</em>. To the…”
 </p>
 <p>
 He was interrupted by a slowly growing noise coming from the open balcony doorway: a distant, rapid thumping.
 </p>
 <p>
-Sergey darted through the balcony’s French doors and looked toward the source of the sound. In the southwestern sky, floating through the air high above the calm waters of Lake Washington, a dot of light drifted gently in a straight line toward the Medina Gallante. A helicopter.
+Sergey darted through the balcony doors and looked toward the sound. In the southwestern sky, high above the waters of Lake Washington, a dot of light drifted gently in a straight line toward the Medina Gallante. A helicopter.
 </p>
 <p>
 It was close enough for Sergey to make out its shape, to see the blurred circle of its whirling blades. It was not a SWAT helicopter, nor a news chopper, nor a medevac. It was tiny, barely larger than a car, clearly with very little lift or fuel capacity &mdash; suited solely for transporting a single high-paying chartered passenger for a trip to Sea-Tac Airport.

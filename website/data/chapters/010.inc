@@ -1,30 +1,24 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The black Lincoln Navigator</span> wound awkwardly around Tungsten’s parking lot towards the building’s entrance, driving slowly and weaving back and forth. The man standing by the door studied the oddly-moving SUV apprehensively as it approached.
+<span class="caplead">The black Lincoln Navigator</span> wound awkwardly around Tungsten’s parking lot, driving slowly and weaving back and forth. The man standing by the door studied the oddly-moving SUV apprehensively, and said something into his Bluetooth headset.
 </p>
 <p>
-The car came to a stop far from the entrance. The driver-side window rolled down, revealing a middle-aged man with gelled gray hair.
+The car came to a stop near the entrance. The driver-side window rolled down, revealing a middle-aged man with gelled gray hair.
 </p>
 <p>
-Jason’s head drooped weakly. His mouth hung open and his eyes didn’t focus. He tried to speak, but all that came out was a raspy whisper.
+Jason’s head drooped weakly. His mouth hung open and his eyes didn’t focus. He said in a slow, raspy whisper, “Is this the Weisenbaum Clinic?”
 </p>
 <p>
-The man at the entrance said something into his Bluetooth headset and then barked at him, “What do you want?”
+The man made a shooing motion with his free hand. “No. Go away.”
 </p>
 <p>
-Jason made an effort to speak louder. “Is this the Weisenbaum Clinic?” he asked slowly in a hoarse, nasal voice.
-</p>
-<p>
-The man made a brushing motion with his free hand. “No. Go away.”
-</p>
-<p>
-“It’s supposed to be right here,” Jason whined. “I see the big ‘W’ on the door.”
+“It’s supposed to be right here,” Jason whined, his voice hoarse and nasal. “I see the big ‘W’ on the door.”
 </p>
 <p>
 “This isn’t a clinic,” the man barked.
 </p>
 <p>
-“Please, it’s very important,” Jason said, drawing out and enunciating each word. “I have an urgent medical condition. I need to go see…” His speech degenerated into a series of wheezes and coughs. “Please, I just need the address. Can you…” He coughed and wheezed again. “Can you come closer please? It hurts for me to talk so loud.”
+“Please, it’s very important,” Jason said, drawing out and enunciating each word. “I have an urgent medical condition. I need to go see…” His speech degenerated into a series of wheezes and coughs. “Please, I just need the address. Can you… Can you come closer please? It hurts for me to talk so loud.”
 </p>
 <p>
 With an exasperated sigh, the man took a few steps toward the SUV.
@@ -39,7 +33,7 @@ The man glared at him. “If I do, will you go away?”
 “Yes.”
 </p>
 <p>
-The man said something in Russian into his headset, his tone of annoyance crossing the language barrier. He reached into his pocket and pulled out his cellphone. “Okay, give me the number,” he grumbled.
+The man said something in Russian into his headset, his tone of annoyance crossing the language barrier. He reached into his pocket and pulled out his cellphone. “Okay, give me the number.”
 </p>
 <p>
 “Four two five,” Jason said slowly, “Eight six five… Eight six five two? No, wait, eight six five three…”
@@ -48,34 +42,28 @@ The man said something in Russian into his headset, his tone of annoyance crossi
 “Eight six five eight six five two?” said the man as he punched in the sequence.
 </p>
 <p>
-“No, sorry, eight six five is just the first part. I was just repeating it to make sure you got it. Four two five, eight six five…”
-</p>
-<p>
-“Four two five, eight six five…” repeated the man as he dialed.
-</p>
-<p>
-“Right. Four two… Oh, you know what? I’m sorry. That’s my daughter’s number. The one to the clinic is four two five, eight five three… Wait, eight five or eight six…?”
+“No, eight six five is just the first part. I was just repeating it to make sure you got it. Four two five, eight six five… Four two… Oh, you know what? I’m sorry. That’s my daughter’s number. The one to the clinic is four two five, eight five three… Wait, eight five or eight six…?”
 </p>
 <p>
 The man growled in frustration. 
 </p>
 <p>
-He was spending so much concentration trying to dial Jason’s number that he didn’t notice the green light pop on above the keycard reader on the big glass doors behind him.
+He was spending so much concentration trying to dial Jason’s number that he didn’t notice the green light pop on above the keycard reader behind him.
 </p>
 <p>
 Nor did he notice Mike tiptoeing his way along the wall, making his way silently toward the entrance.
 </p>
 <p>
-Until Mike finally ducked through the door.
+Until Mike finally ducked through the big glass door.
 </p>
 <p>
-The whole area in front of the entrance was illuminated by the light coming from the lobby. Mike had to step into the light in order to pass through the large glass doors. His shadow swept across the man and the black SUV.
+The whole area illuminated by the light coming from the lobby. Mike had to step into the light in order to pass through the large glass doors. His shadow swept across the man and the black SUV.
 </p>
 <p>
 Danny cursed silently. He should’ve anticipated that. He hadn’t.
 </p>
 <p>
-“What the fuck!” the man said. He turned his head just in time to see Mike heading into the hallway on the other side of the lobby.
+“What the fuck!” the man said. He turned his head just in time to see Mike heading into the hallway.
 </p>
 <p>
 That’s when the man’s cellphone exploded.
@@ -84,13 +72,10 @@ That’s when the man’s cellphone exploded.
 The phone jumped in his hand with a loud “<em>crack!</em>” A shower of white sparks burst somewhere within, spilling out from the sides and from the seams around the buttons. Arcs of electricity flashed across its face. The man yelped and dropped it to the ground.
 </p>
 <p>
-Jason slammed on the gas. The SUV’s tires squealed in place before hurling the car forward. Jason steered a twisting, zigzagging pattern back out to the street.
+Jason slammed on the gas. The SUV’s tires squealed in place before hurling the car forward. He steered a twisting, zigzagging pattern back out to the street.
 </p>
 <p>
-The man’s head swiveled rapidly between the car and the building entrance. Turning his face toward the car, he let his jacket fall to the ground and drew the long barrel of the silenced semiautomatic handgun up to shoulder height. He held the gun with both hands and took aim. 
-</p>
-<p>
-He pulled the trigger several times. The gun didn’t make a “<em>bang!</em>” It did, however, make a popping noise, together with the clacking sound of interlocking spring-loaded metal parts snapping into place, like a very large stapler. Even with the silencer, the report from the firearm was quite loud.
+The man’s head swiveled rapidly from the building to the car. He let his jacket fall to the ground and drew the long barrel of the silenced semiautomatic handgun up to shoulder height. He held the gun with both hands, took aim, and pulled the trigger several times. The gun didn’t make a “<em>bang!</em>” It did, however, make a distinct popping noise, together with the loud “<em>clack!</em>” of interlocking spring-loaded metal parts snapping into place.
 </p>
 <p>
 “Fuck!” screamed Jason into the hands-free conference call in progress on his cellphone. A bullet glanced off of the rear driver’s side window, leaving a deep scar in the glass, just as Jason cleared the parking lot. The car lurched as he made a sharp turn onto the street, bolting away from the building.
@@ -102,7 +87,7 @@ Having lost Jason’s SUV, the man turned toward the Tungsten entrance. He thrus
 “He’s heading in,” said Moshen on the conference call.
 </p>
 <p>
-Danny crouched behind the corner of the Tungsten building, out of sight from the main entrance. Beside him, his contraption whined faintly with a rising high-pitched tone, its tiny lights glowing red. “Mike, he’s coming for you,” Danny said into his cellphone. “Make sure he follows you to the stockroom. Moshen, keep him safe.”
+Danny crouched behind the corner of the Tungsten building, out of sight from the entrance. Beside him, his contraption whined faintly with a rising high-pitched tone, its tiny lights glowing red. “Mike, he’s coming for you,” Danny said into his cellphone. “Make sure he follows you to the stockroom. Moshen, keep him safe.”
 </p>
 <p>
 “Aye aye,” said Moshen. “Mike, Satish has you on camera, and I’ve got the guy after you. He’s in a hallway about fifty feet behind you.”
@@ -126,25 +111,19 @@ Moshen added, “He’s walking slowly down the hall toward you with his gun dra
 The conference call carried the sound of a door opening. “I’m in the stockroom,” said Mike. 
 </p>
 <p>
-Danny caught himself nibbling on his fingernails. “Jason. Where are you?”
+Danny caught himself nibbling on his fingernails. “Jason. Come back here and get to the loading dock. Quickly. Where are you?”
 </p>
 <p>
-“Down the street,” said Jason’s voice. “There’s bullet holes in my car. The repairs are coming out of your pay.”
-</p>
-<p>
-“Come back here,” said Danny. “Quickly. Get to the loading dock.”
-</p>
-<p>
-Danny saw headlights on the road beyond the parking lot. Jason’s SUV came back into view and proceeded back towards the Tungsten building.
+“Down the street,” said Jason’s voice. “There’s bullet holes in my car. The repairs are coming out of your pay.” 
 </p>
 <p>
 “Mike!” said Moshen. “I see the guy coming up to the stockroom door!”
 </p>
 <p>
-Danny watched Jason’s SUV roll past the parking lot toward the back of the building. “Jason’s not in position yet,” Danny said into the cellphone. “Mike, can you keep him busy in the stockroom for a few seconds?”
+Danny saw headlights on the road beyond the parking lot. Jason’s SUV came back into view and proceeded back towards the Tungsten building. “Jason’s not in position yet,” Danny said into the cellphone. “Mike, can you keep the guy busy?”
 </p>
 <p>
-Danny heard Mike grunting and straining. The sound was followed by a few popping, clacking shots from the silenced handgun.
+Danny heard Mike grunting and straining. The sound was followed by a few popping, clacking shots from the handgun.
 </p>
 <p>
 “Holy shit!” yelled Danny. “Mike! Mike, are you alright? What’s happening?”
@@ -171,7 +150,7 @@ Moshen replied, “He’s nodding Yes, Danny. He’s holding the lug wrench in o
 “He shot it out of his hand!”
 </p>
 <p>
-Danny cursed under his breath. “Guys, I’m going in,” he said as he walked to the entrance. “Satish, the front door, please.”
+Danny cursed under his breath. “Guys, I’m going in. Satish, the front door, please.”
 </p>
 <p>
 The green light popped on above the card reader. Danny entered the building and hustled down the corridors toward the stockroom, keeping his cellphone pressed to his ear while carrying his contraption. Moshen’s voice guided him through the dark, unfamiliar office hallways, past rooms of strange apparatuses and doors marked with ominous warnings and hazard symbols.
@@ -210,7 +189,7 @@ Mike whispered into the call, “Moshen. You said he’s about thirty feet away 
 “Yeah well,” said Mike, “let’s see if it makes a good projectile weapon.”
 </p>
 <p>
-Both through the cellphone and through the door in front of him, Danny heard Mike give a mighty grunt, followed by a crashing noise and the “<em>pop-clack!</em>” of the silenced semiautomatic. On the far side of the stockroom, the metal bar on the fire door released its latch as Mike body-checked his way through the exit. 
+Both through the cellphone and through the door in front of him, Danny heard Mike give a mighty grunt, followed by a crashing noise and the “<em>pop-clack!</em>” of the semiautomatic. On the far side of the stockroom, the metal bar on the fire door released its latch as Mike body-checked his way through the exit. 
 </p>
 <p>
 Jason’s voice announced, “Mike, you’re okay!” It sounded distant and slightly echoing. Jason’s voice was being picked up both by his own cellphone and by Mike’s.
@@ -219,43 +198,31 @@ Jason’s voice announced, “Mike, you’re okay!” It sounded distant and sli
 “Punch it!” yelled Mike.
 </p>
 <p>
- Danny heard a crunching thud as Jason backed his SUV up against the fire exit. Jason had positioned his car about three feet away from the door, and had been waiting to see Mike run out. The moment Mike cleared the door, Jason slammed the back of his car against it and engaged the parking brake. The fire door opened outward, so the SUV served as a very large, very expensive, very effective doorstop.
+ Danny heard a crunching thud as Jason backed his SUV up against the fire exit. Jason had positioned his car about three feet away outside the door, and had been waiting to see Mike run out. The moment Mike cleared the exit, Jason slammed the back of his car against it and engaged the parking brake. The fire door opened outward, so the SUV served as a very large, very expensive, very effective doorstop.
 </p>
 <p>
 “Good job, Mike,” said Danny. “Now make your way around the outside of the building, get back in through the front doors, and come on back here.”
 </p>
 <p>
-“On my way,” said Mike. 
-</p>
-<p>
 From inside the stockroom, Danny could hear the man throwing himself against the fire exit in a useless attempt to push away the SUV. The “<em>pop-clack!</em>” of the gun sounded a few times, then silence.
 </p>
 <p>
-Danny waited tensely in the dim hallway outside the stockroom door. “Is he coming back this way yet?” he asked.
+Danny waited tensely in the dim hallway outside the stockroom door. “Is he coming back this way yet?” he asked. “As soon as he realizes the fire exit’s blocked, he’s going to try to get out the way he came. But he’ll need to use his keycard to open the door from that side.”
 </p>
 <p>
-“Not yet,” said Moshen. “Good news is you have an extra second or two. Bad news is, that’s because he’s reloading. Get ready.”
+“Not yet,” said Moshen. “Good news is you have an extra second or two. Bad news is, that’s because he’s reloading. Can you do something about his keycard?”
 </p>
 <p>
-Danny took a deep breath and put the end of his device up against the wall, just under the button that would open the large metal stockroom door. The machine’s small red and green indicator LEDs looked like Christmas-tree lights in the unlit hallway.
-</p>
-<p>
-“He’s coming up to the door…” said Moshen.
-</p>
-<p>
-Danny heard a bit of movement on the other side. The wall, he reckoned, was made of six inches’ worth of drywall, wood, and foam insulation &mdash; all of which was almost completely transparent to microwaves.
+Danny took a deep breath and said, “I sure as hell hope so.” He put the end of his device up against the wall, just under the button that would unlock the large metal stockroom door. The wall, he reckoned, was made of six inches’ worth of drywall, wood, and foam insulation &mdash; all of which was almost completely transparent to microwaves. He listened for movement on the other side.
 </p>
 <p>
  “Now!” yelled Moshen.
 </p>
 <p>
-Danny pulled the trigger. 
+Danny pulled the trigger. Current discharged from the capacitor bank to the magnetron, sending a soft low-pitched “<em>bonk!</em>” through the air around it. Lights flipped from green to red.
 </p>
 <p>
-The mechanical arms of the high-power relays all clicked simultaneously against their contacts inside the spine of plastic cubes. The pulsed discharge of current from the capacitor bank to the magnetron sent a soft low-pitched “<em>bonk!</em>” through the air around it. Lights along the capacitor bank flipped from green to red.
-</p>
-<p>
-On the other side of the wall, Danny heard a snapping, cracking sound, followed by a man screaming in shocked frustration and unleashing a long stream of Russian curse words. The man pulled in vain at the door handle on the other side. The door shook slightly but refused to yield. 
+On the other side of the wall, Danny heard a snapping sound, followed by a man screaming in shocked frustration and unleashing a long stream of Russian curse words. The man pulled in vain at the door handle on the other side. The door shook slightly but refused to yield. 
 </p>
 <p>
 Danny held his device triumphantly over his shoulder. Its fans whirred to cool it from its recent shot. The capacitor bank began to recharge, emitting its characteristic rising whine.
@@ -276,10 +243,10 @@ Danny turned to look.
 All that remained of the small square window was a few jagged shards. The man drew his gun up to the shot-out window. The end of the silencer came to rest upon a crag of broken glass. The man looked down the sights and took aim.
 </p>
 <p>
-Danny felt the world recede in slow motion. The accelerating thumping of his own pulse drowned out all other sound in his ears.
+Danny felt the world recede in slow motion. The accelerating thump of his own pulse drowned out all other sound in his ears.
 </p>
 <p>
-He propelled himself away from the door, holding onto his unwieldy weapon over his shoulder and letting its mass swing down along his back. He only needed to take seven or eight sprinting steps to make it to an intersection in the hallway, but in those steps he felt like he was frozen in mid-air. A bullet zinged past him &mdash; Danny saw nothing, but felt the air crack against his skin in the projectile’s wake. He twisted his torso to expose only his side, rather than his back, to the gunfire. Another bullet zoomed by, so close he could feel its heat against his back, across his left shoulder blade.
+He propelled himself away from the door with all the power his legs could offer. He only needed to take seven or eight sprinting steps to make it to an intersection in the hallway, but in those steps he felt like he was frozen in mid-air. A bullet zinged past him &mdash; Danny saw nothing, but felt the air crack against his skin in the projectile’s wake. He twisted his torso to expose only his side, rather than his back, to the gunfire. Another bullet zoomed by, so close he could feel its heat against his back, across his left shoulder blade.
 </p>
 <p>
 The adjoining corridor drew nearer. He leaped and rolled into the hallway, his weapon smacking against the floor as he pushed his body away from the line of fire. A bullet hit the floor near his feet. He took several crouching, stumbling steps deeper into the hallway as another bullet hit the wall near him, leaving a dusty crater. 
@@ -321,7 +288,7 @@ On the conference call, Jason asked, “Are you guys okay?”
 “I was thinking about that, Danny,” said Jason. “You might want to grab a lab coat, if you see one around. And a facemask. That way, you’ll &mdash;” 
 </p>
 <p>
-His words were muffled by a low, thundering boom that resounded through the building. The echoes of a distant explosion rumbled down Tungsten’s corridors, permeating the walls and flooding the rooms like a thick clear syrup of long, wide sound waves.
+His words were muffled by a low, thundering boom that resounded through the building. The echoes of a distant explosion rumbled down Tungsten’s corridors, permeating the walls and flooding the rooms like a thick clear syrup of sound.
 </p>
 <p>
 “Camera crew!” Danny gasped. “What the hell was that?”
@@ -345,7 +312,6 @@ Danny gasped. “Is she…”
 Danny gulped, and exchanged a nod of affirmation with Mike. The two men set off down the hallway.
 </p>
 <p>
-The fingers of Danny’s left hand very subtly twitched, subconsciously reaching for Control-S on a nonexistent keyboard. As Danny proceeded with Mike through the dim corridors, he caught himself glancing into rooms craving the sight of a prominently placed typewriter like in <em>Resident Evil</em>, or a pink audiocassette like in <em>Grand Theft Auto: Vice City</em>, or perhaps just a glowing red square like in <em>Silent Hill 2</em>. But he knew that, on this level, he would find no save-points.
+Danny’s fingers twitched very subtly, subconsciously reaching for Control-S on a nonexistent keyboard. As Danny proceeded with Mike through the dim corridors, he caught himself glancing into rooms craving the sight of a prominently placed typewriter like in <em>Resident Evil</em>, or a pink audiocassette like in <em>Grand Theft Auto: Vice City</em>, or perhaps just a glowing red square like in <em>Silent Hill 2</em>. But he knew that, on this level, he would find no save-points.
 </p>
-<p>
 </div>

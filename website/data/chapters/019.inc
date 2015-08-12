@@ -1,16 +1,10 @@
 <div class="chapsection">
 <p>
 <span class="caplead">
-The fabric upholstery pressed against</span> Danny’s naked back, leaving a grid of tiny square crosshatches in his skin. The rough polyester seatbelt cut awkwardly across his chest. His wounded shoulder throbbed painfully beneath its gauze dressing, and his hand still stung from being cut and burned. 
+The fabric upholstery pressed against</span> Danny’s naked back, leaving a grid of tiny square crosshatches in his skin. His wounded shoulder throbbed painfully beneath its gauze dressing, and his hand still stung from being cut and burned. 
 </p>
 <p>
-The two men had not exchanged a single word. Danny stared wordlessly out the open window. He breathed the fresh night air deeply &mdash; he couldn’t stand his own stench of chemicals, sweat, and blood.
-</p>
-<p>
-The trip was not silent, however. The middle-aged financier spent the time on his cellphone, speaking frantically into his Bluetooth headset. The conversations were brief and cheerful. They went along the lines of, “Hello, Mr. Cartwright…” “Ms. Yonath…” “Mr. Chew…” “Yes, everything’s just fine! Listen, I’m afraid I won’t be able to provide you with a sample after all… Yes, unfortunately the prototype is inaccessible. But … Yes, we’re absolutely still on…” 
-</p>
-<p>
-Those were the ones that Danny could understand. The rest were in fluent German, French, and Mandarin.
+The two men had not exchanged a single word. The trip was not silent, however. The middle-aged financier spent the time on his cellphone, speaking frantically into his Bluetooth headset. The conversations were brief and cheerful. They went along the lines of, “Hello, Mr. Cartwright…” “Ms. Yonath…” “Mr. Chew…” “Yes, everything’s just fine! Listen, I’m afraid I won’t be able to provide you with a sample after all… Yes, unfortunately the prototype is inaccessible. But … Yes, we’re absolutely still on…” Those were the ones that Danny could understand. The rest were in fluent German, French, and Mandarin.
 </p>
 <p>
 Eventually, the conversations ended. The silence was even less palatable than the chatter. 
@@ -19,19 +13,13 @@ Eventually, the conversations ended. The silence was even less palatable than th
 Jason finally said something. “So, I’m dropping you off at your house, I guess?”
 </p>
 <p>
-“Yeah.”
-</p>
-<p>
-To the right, the red brick tenements of the waterfront rolled by quickly as the tall forms of art deco skyscrapers drifted slowly in the background. To the left, the quiet waters of Elliott Bay sparkled silver in the starlight, rimmed by the low black silhouette of Alki Beach on the opposite shore, beneath the Olympic Mountains somewhere far beyond.
-</p>
-<p>
-Danny looked at the clock above the car’s radio, counting the minutes until he would get home. “Who are you talking to, anyway?” he asked. “It’s two o’clock in the morning.”
+“Yeah.” Danny looked at the clock above the car’s radio. “Who are you talking to, anyway?” he asked. “It’s two o’clock in the morning.”
 </p>
 <p>
 “It’s five p.m. in Singapore.”
 </p>
 <p>
-They drove on, the air in the car thick with the lingering smell of nail polish remover and jet fuel.
+Danny turned to stare out the open window. He breathed the fresh night air deeply &mdash; he couldn’t stand his own stench of chemicals, sweat, and blood.
 </p>
 <p>
 “We still don’t know who owns Tungsten,” Jason said.
@@ -46,28 +34,25 @@ They drove on, the air in the car thick with the lingering smell of nail polish 
 “So what?” Danny dismissed.
 </p>
 <p>
-“We should find out,” Jason said, trying to sound nonchalant.
+“I’ve got some deals in the works,” Jason said. “Some info would really help.”
 </p>
 <p>
 Danny shrank in his seat. “I don’t think so.”
 </p>
 <p>
-After a pause, Jason said, “I’ve got some deals in the works. That little bit of info would really help.”
+Jason paused, clearly choosing his words carefully. “None of it was supposed to happen like this, Danny.” 
 </p>
 <p>
-Danny continued staring out the window. After long wordless minutes, he finally said, “Computer hacking isn’t supposed to result in me having to fight for my life.”
+“Computer hacking isn’t supposed to result in me running for my life,” Danny replied.
 </p>
 <p>
-“I know,” said Jason. “None of it was supposed to happen like this, Danny. I’m sorry.” 
+“I know,” said Jason. “I’m sorry.” 
 </p>
 <p>
-Danny still refused to look at him. “You owe me more than an apology. You owe me an explanation.”
+“You owe me more than an apology. You owe me an explanation.”
 </p>
 <p>
-Jason stared forward, watching the road, saying nothing.
-</p>
-<p>
-After several minutes, Jason finally broke the silence. “I spent twenty years as Tungsten’s COO. I was your age when I took that position. Your age. Think about it. Before that, I was their Senior Vice President of Operations. And before <em>that</em>, I was the head of their Accounts Payable. I spent my whole life at that company. I took a sales position with them right out of college. They paid for my MBA. Thirty-five years, Danny. I’ve been with them for thirty-five years. You’re upset about the six years you sank into Claymore Communications, right? Well, that’s a blink of an eye. I was with Tungsten for about as long as you’ve been alive. That company outlasted my marriage, Danny. I’ve known that company for longer than I’ve known my ex-wife. Longer than my children.”
+Jason stared forward, watching the road. After several minutes, he finally broke the silence. “I spent twenty years as Tungsten’s COO. I was your age when I took that position. Before that, I was their Senior Vice President of Operations. And before <em>that</em>, I was the head of their Accounts Payable. I spent my whole life at that company. I took a sales position with them right out of college. They paid for my MBA. Thirty-five years, Danny. I’ve been with them for thirty-five years. You’re upset about the six years you sank into Claymore Communications, right? Well, I was with Tungsten for about as long as you’ve been alive. That company outlasted my marriage, Danny. I’ve known that company for longer than I’ve known my ex-wife. Longer than my children.”
 </p>
 <p>
 “Yeah, and now you’re bitter that they canned you,” Danny concluded. “And you just want to stick it to them by stealing their core project. Right?”
@@ -79,10 +64,10 @@ Jason shook his head and smiled sadly. “That’s not it at all, Danny. I hold 
 Danny stared at him questioningly.
 </p>
 <p>
-“Look, Tungsten had been an internationally successful reseller of high-end medical equipment since the seventies, right?” said Jason. “Its core business model was <em>sales</em>. Sales in the seventies and eighties. It was a different world back then, Danny. A world of business cards and Rolodexes and fax machines. Power ties and shoulder pads and expense lunches and bookings at Radisson Inns all over the country. Tungsten’s lifeblood was mail-order catalogs, cold-calls, and conference presentations. All the stuff that used to make business, business.
+“Look, Tungsten was a reseller of high-end medical equipment since the seventies, right?” said Jason. “Its core business model was <em>sales</em>. Sales in the seventies and eighties. It was a different world back then, Danny. A world of business cards and Rolodexes and fax machines and power ties. Tungsten’s lifeblood was mail-order catalogs, cold-calls, and conference presentations. All the stuff that used to make business, business.
 </p>
 <p>
-“And then, while I was COO, the Internet came. First email, then chat rooms, then the World Wide Web, then search engines and eBay and PayPal and AdSense… and then it was game over. I watched Tungsten waste away and die under my watch. I was helpless to stop it. Look, I’m all about adapting to the times and sailing with the winds of change and all that corporate boardroom jazz. I was happy to learn about all this new ‘Information Age’ stuff, to see if I could help fit it into Tungsten’s business model. And I did learn a lot about digital technology, enough to know my way around the dot-com world as an investor and venture capitalist. But as for Tungsten, there was nothing I could do to keep it afloat. Not as COO. I managed its operations, and it withered and died in my arms. The world moves fast, Danny. You know that as well as anyone does.”
+“And then, while I was COO, the Internet came. First email, then chat rooms, then the World Wide Web, then search engines and eBay and AdSense… and then it was game over. I watched Tungsten waste away and die under my watch. I was helpless to stop it. Look, I’m all about adapting to the times and sailing with the winds of change and all that corporate boardroom jazz. I was happy to learn about all this new ‘Information Age’ stuff. And I <em>did</em> learn a lot &mdash; enough to know my way around the dot-com world as an investor and venture capitalist. But with Tungsten, there was nothing I could do to keep it afloat. Not as COO. I managed its operations, and it withered and died in my arms. The world moves fast, Danny. You know that as well as anyone does.”
 </p>
 <p>
 Danny began to relax. “So you’re not in it for revenge. And you keep talking about your severance package and your dot-com investment stuff, so I assume you’re not in it for the money. So what are you doing all this for?”
@@ -94,34 +79,28 @@ Danny began to relax. “So you’re not in it for revenge. And you keep talking
 Danny said nothing.
 </p>
 <p>
-“My marriage fell apart, Danny. My kids hate me now. I haven’t talked to my ex-wife in years. And through the divorce and everything, it was all okay because… I mean, it wasn’t <em>okay</em>, obviously, but… at least I always had my work. I always had Tungsten. And I watched Tungsten collapse out from under me. I spent my lifetime building it, and it died on my watch. And now I need to find a way to <em>undo</em> that. To prove to the world that I can make something work after all &mdash; especially something I’ve poured my whole life into. I need to prove that I can do <em>something</em> that doesn’t end in disaster and disappointment. That I’m not…” He cut himself off before finishing the sentence.
+“My marriage fell apart, Danny. My kids hate me now. I haven’t talked to my ex-wife in years. And through the divorce and everything, it was all okay because… I mean, it wasn’t <em>okay</em>, obviously, but… at least I always had my work. I spent my lifetime building Tungsten, and it died on my watch. And now I need to find a way to <em>undo</em> that. To prove that I can make it work after all &mdash; the thing I’ve poured my whole life into. I need to prove that I can do <em>something</em> that doesn’t end in disaster and disappointment. That I’m not…” He cut himself off before finishing the sentence.
 </p>
 <p>
 Danny asked, “How does stealing their intellectual property help anything?”
 </p>
 <p>
-“It all has to do with a little problem with Tungsten’s paperwork,” said Jason, “that presents me with an interesting opportunity.”
+“It all has to do with a little problem with Tungsten’s paperwork,” said Jason, “that presents me with an interesting opportunity.” He hesitated before elaborating. “Danny, I was always totally honest when it came to Tungsten’s accounts. I swear to that. I never cooked the books. I never did any insider trading. Never. But… near the end there, with Tungsten circling the drain, I guess I just stopped caring… And I’ll admit I… got sloppy.”
 </p>
 <p>
-“What kind of problem?”
+Danny said nothing. He didn’t need to.
 </p>
 <p>
-Jason hesitated before answering. “Danny, I was always totally honest when it came to Tungsten’s accounts. I swear to that. I never cooked the books. I never performed or aided any insider trading. I never did anything to compromise myself or the company. Never. But… near the end there, with Tungsten circling the drain, I’ll admit I did make a few moves that, um, could be considered controversial. I never lied, but I wasn’t always exactly forthcoming with the truth…”
+“Tungsten never formally declared bankruptcy,” Jason explained. “We never actually filed Chapter 11. We <em>started</em> the paperwork, of course. But I… never finished it. Now, most of our creditors, they just <em>assumed</em> that the filing went through, and, well… I never corrected them. So, they wrote off their investments in Tungsten as capital losses. When the creditors listed those writeoffs in their year-end tax filings, we treated that as <em>ipso facto</em> forgiveness of the debt, and cleared the balances from our ledgers. But both the write-offs and the debt forgiveness were based on misunderstandings &mdash; arguably <em>willful</em> misunderstandings &mdash; and neither would hold up in a court of law.”
 </p>
 <p>
-“Go on,” Danny coaxed.
+“So, what you mean is…”
 </p>
 <p>
-“Tungsten never formally declared bankruptcy. We never actually filed Chapter 11. We <em>started</em> the paperwork, of course. But I… never finished it. Now, most of our creditors, they just <em>assumed</em> that the filing went through, and, well… I never corrected them. So, they wrote off their investments in Tungsten as capital losses. When the creditors wrote off those losses in their year-end tax filings, we treated that as <em>ipso facto</em> forgiveness of the debt, and cleared the balances from our ledgers. But both the write-offs and the debt forgiveness were based on misunderstandings &mdash; arguably <em>willful</em> misunderstandings &mdash; and neither would hold up in a court of law.”
+“What I mean,” said Jason, “is that Tungsten is carrying almost a hundred million dollars in unsettled debt, with compounding interest. When this Eastern European consortium bought that company, they unknowingly bought a bottomless money pit.”
 </p>
 <p>
-“So, what you mean is…” said Danny.
-</p>
-<p>
-“What I mean,” explained Jason, “is that Tungsten is carrying almost a hundred million dollars in unsettled debt, with compounding interest. When this Eastern European consortium bought that company, they unknowingly bought a bottomless money pit.”
-</p>
-<p>
-“So, then, who are all these people you’re calling now?”
+“Then who are all these people you’re calling now?” Danny asked.
 </p>
 <p>
 “They’re some of our old creditors,” said Jason. “I’ve been in contact with them. Several weeks ago, I casually informed them about Tungsten’s lack of legally filed bankruptcy paperwork. They found the news very troubling.”
@@ -166,19 +145,19 @@ Jason shrugged. “It is what it is,” he said distantly.
 “…into the ground,” Danny finished.
 </p>
 <p>
-A glare of anger flashed momentarily across Jason’s face. He looked at Danny with furious eyes, and opened his mouth to say something. But in a blink, the middle-aged man pushed the rage away, and turned to gaze emptily at the road ahead. He nodded humbly, and squared his jaw as his face hardened into an expression of distant determination. “Yeah. I did,” he said, his voice low. “But not this time. Not this time.” 
+An angry glare flashed momentarily across Jason’s face. But in a blink, the middle-aged man pushed the rage away, and turned to gaze emptily at the road ahead. He nodded humbly, and squared his jaw as his face hardened into an expression of distant determination. “Not this time,” he said. “Not <em>this</em> time.” 
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">The sight of his flat little house</span> made Danny giddy with relief. The red pickup truck worked its way, Pac Man-like, through the grid of streets in the University District, until it finally came to park on the curb outside Danny’s front yard. The one-story structure, with its blue siding and brown roof and white door and attached two-car garage, had never looked so inviting. In his mind, Danny was already heading to his bedroom.
+<span class="caplead">The sight of his house</span> made Danny giddy with relief. The red pickup truck worked its way, Pac Man-like, through the grid of streets in the University District, until it finally came to park on the curb outside Danny’s front yard. The one-story structure, with its blue siding and brown roof and white door and attached two-car garage, had never looked so inviting. In his mind, Danny was already heading to his bedroom.
 </p>
 <p>
 “I’ll send your payment by PayPal tomorrow,” Jason said with a tired voice.
 </p>
 <p>
-Danny collected his HERF gun, carefully examining the power cables from which the magnetron dangled. “My payment?” he said absentmindedly. 
+Danny collected his HERF gun, carefully examining the torn power cables. “My payment?” he said absentmindedly. 
 </p>
 <p>
 “For your services tonight,” Jason said. “You’ve sure as hell earned it.”
@@ -196,13 +175,13 @@ Danny froze with his hand on the door handle. “What’s there to discuss?”
 “I really would like to find out who they are,” said Jason. “I’ll pay you for the additional labor, of course.”
 </p>
 <p>
-Danny slumped back into his seat with an intense frown, avoiding eye contact. “I… I don’t think so. I don’t want to do this anymore, alright?”
+Danny slumped back into his seat with an intense frown. “I don’t want to do this anymore, alright?”
 </p>
 <p>
-“Why not?” Jason asked innocently.
+“But Danny, I <em>need</em> you…” Jason insisted.
 </p>
 <p>
-“I’m not a hacker, Jason,” Danny insisted. “This is Seattle. There’s dozens of top-notch hacker outfits you could’ve hired, both legal and illegal. IOActive. Leviathan Security. The Ghetto Hackers. The Schmoo Group. Some of the shadier members of Agora. There’s literally a thousand people in this city that would’ve done a better job at this than me, for a lower price.”
+“I’m not a hacker, Jason,” Danny replied. “This is Seattle. There’s dozens of top-notch hacker outfits you could hire, both legal and illegal. IOActive. Leviathan Security. The Ghetto Hackers. The Schmoo Group. There’s literally a thousand people in this city that would do a better job at this than me, for a lower price.”
 </p>
 <p>
 “Danny, I don’t have any inroads to folks like that,” Jason defended. “It’s not like I can just type ‘Seattle hackers’ into Google and get contact information for…”
@@ -217,10 +196,10 @@ Danny slumped back into his seat with an intense frown, avoiding eye contact. �
 Danny glared at him. “For a <em>criminal</em> activity? Yes.”
 </p>
 <p>
-“I needed someone smart who could do the job,” Jason countered. 
+“I need someone smart who could do the job,” Jason countered. 
 </p>
 <p>
-“And you thought <em>I</em> was the right guy for it?” Danny fired back. “I’m an engineer. I’m a builder, not a breaker. All this cloak-and-dagger confrontation bullshit isn’t what I do. <em>This</em> is what I do…” He held up his HERF gun. “<em>This</em> is what I do…” He held up his cellphone. “I don’t do <em>this</em>…” He fished Eugene’s hacked Pantech out of his pocket. “…And I sure as shit don’t do <em>this</em>…” He turned his shoulder to display the gauze dressing over his bullet wound. “You think I want to keep working with you? Are you <em>kidding me</em>? Right now, all I want is to rewind back to yesterday afternoon, when you offered me this little project, just so I could tell you, ‘No, thanks.’ And in that alternate universe, I’ve spent all night tonight updating my LinkedIn profile and fiddling with my resume and flipping through job openings on Craigslist, and right now I’m staying up late re-playing Skyrim because I know I don’t have work tomorrow. <em>That’s</em> where I’m supposed to be. <em>That’s</em> my life. <em>That’s</em> my home universe. But instead, I’m <em>here</em>. And <em>here</em>, I’ve spent the night… in…”
+“And you thought <em>I</em> would be the right guy for it?” Danny fired back. “I’m an engineer. I’m a builder, not a breaker. All this cloak-and-dagger confrontation bullshit isn’t what I do. <em>This</em> is what I do…” He held up his HERF gun. “<em>This</em> is what I do…” He held up his cellphone. “I don’t do <em>this</em>…” He fished Eugene’s hacked Pantech out of his pocket. “…And I sure as shit don’t do <em>this</em>…” He turned his shoulder to display the gauze dressing over his bullet wound. “You think I want to keep working with you? Are you <em>kidding me</em>? Right now, all I want is to rewind back to yesterday afternoon, when you offered me this little project, just so I could tell you, ‘No, thanks.’ And in that alternate universe, I’ve spent all night tonight updating my LinkedIn profile and fiddling with my resume and flipping through job openings on Craigslist, and right now I’m staying up late re-playing Skyrim because I know I don’t have work tomorrow. <em>That’s</em> where I’m supposed to be. <em>That’s</em> my life. <em>That’s</em> my home universe. But instead, I’m <em>here</em>. And <em>here</em>, I’ve spent the night… in…”
 </p>
 <p>
 He looked down at himself, at his shirtless torso and his wounded hand. He felt his shoulder throbbing. He took a long, slow, deep breath. 
@@ -232,7 +211,7 @@ He looked down at himself, at his shirtless torso and his wounded hand. He felt 
 
 <div class="chapsection">
 <p>
-<span class="caplead">Beeping sounds chirped outside </span>Danny’s front door as he punched in his keycode. The digital lock pinged and the deadbolt slid away under the pull of a solenoid. In the dark, the door’s insulation foam swished softly against the stone tiles in the entryway. Tired hiking-booted feet dragged themselves inside. Motion sensors detected a human-sized infrared blob, and the main room’s lights gently came to life to welcome Danny’s return.
+<span class="caplead">Staccato beeps sounded outside </span>Danny’s front door as he punched in his keycode. The digital lock chirped and the deadbolt slid away under the pull of a solenoid. In the dark, the door’s insulation foam swished softly against the stone tiles in the entryway. Tired hiking-booted feet dragged themselves inside. Motion sensors detected a human-sized infrared blob, and the main room’s lights gently came to life to welcome Danny’s return.
 </p>
 <p>
 Danny’s home was spacious but simple. His foyer, kitchen, and living room formed one continuous L-shaped expanse which wrapped around his bedroom and bathroom. Ahead of him, the large kitchen was demarked by a granite-topped peninsula counter. To his side, the living room contained his black leather sofa, his carefully arranged surround-sound speakers, and an enormous entertainment system built to house a large LED TV and countless different kinds of gaming consoles both modern and vintage. A myriad of remotes and game controllers lay scattered on the coffee table, beside a metal arcade-style <em>Dance Dance Revolution</em> mat that lay nestled in the gray carpet. Soft spiraling tracks around the furniture marked the latest trip by the Roomba that sat resting in its recharging station.
@@ -241,13 +220,13 @@ Danny’s home was spacious but simple. His foyer, kitchen, and living room form
 Danny’s first destination was through another door in the foyer, which led to his attached garage. Half of the space inside was dedicated to his Toyota Prius and his washer and dryer. The other half Danny had built into a digital electronics workshop. A solder-stained workbench formed the heart of his home laboratory, ringed by an oscilloscope, a logic analyzer, a naked computer with attached EEPROM burner, a box of Arduino boards, a whiteboard covered with equations and diagrams, and a wall full of small Plexiglas drawers holding assorted breadboard components. 
 </p>
 <p>
-He laid the HERF gun on his workbench and loosened the wires that he had severed during the fight in the factory. He prepared some shrink-wrap insulation for the red and black cables respectively, and heated up a soldering iron. With his hand still smarting from its injuries, with his torso still naked except for the gauze wrapping on his shoulder, with his brain still reeling from the fumes and the blood loss and the exhaustion, he nonetheless tended carefully to the beloved patient on his workbench. The surgery only took a minute. A few gentle dabs of solder, a few hoarse blasts from a heat gun to seal the insulation, and the high-voltage device was restored to operational status. 
+He laid the HERF gun on his workbench, prepared some heat-shrink insulation for the severed cables, and heated up a soldering iron. With his hand still smarting from its injuries, with his torso still naked except for the gauze wrapping on his shoulder, with his brain still reeling from the fumes and the blood loss and the exhaustion, he nonetheless tended carefully to the beloved patient on his workbench. The surgery only took a minute. A few gentle dabs of solder and some hoarse blasts from a heat gun, and the high-voltage device was restored to operational status. 
 </p>
 <p>
-Before going back into the house, Danny found a spare power cable and plugged the HERF gun into the wall. The lights in the garage dimmed. He left the device to feed for the night.
+Before going back into the house, Danny found a spare power outlet and plugged the HERF gun into the wall. The lights in the garage dimmed. He left the device to feed for the night.
 </p>
 <p>
-He shuffled zombie-like to the bathroom, determined to cleanse himself of the stink of jet fuel and nail polish remover and soot and sweat and blood. His shower was very long and very hot. The trials and horrors of the day dissolved down the drain, and he stepped out of the shower clean and new and freshly baptized. He found his home first-aid kit and clumsily reapplied his shoulder dressing with the help of the bathroom mirrors, and treated his hand with bandages and salve. He dressed himself in blue linen pajamas, turned off the lights, and stumbled to his bedroom. He let himself fall face-first onto his bed, closed his eyes, and wrapped his blankets around his body.
+He shuffled zombie-like to the bathroom, determined to cleanse himself of the stink of jet fuel and nail polish remover and soot and sweat and blood. His shower was very long and very hot. The horrors of the day dissolved down the drain, and he stepped out of the shower freshly baptized. He found his home first-aid kit and clumsily reapplied his shoulder dressing with the help of the bathroom mirrors, and treated his hand with bandages and salve. He dressed himself in blue linen pajamas, turned off the lights, and stumbled to his bedroom. He let himself fall face-first onto his bed, closed his eyes, and wrapped his blankets around his body.
 </p>
 <p>
 The doorbell rang.

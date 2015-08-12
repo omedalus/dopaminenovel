@@ -1,9 +1,9 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The pincer arm slid along the BioTek Microplate Stacker’s</span> sleek white body, holding a clear rectangular plate. The plate’s surface was pitted with a grid of a hundred small round wells, like a carton for hummingbird eggs. Each well contained a bubble of pale yellowish-brown fluid beneath a plastic seal. The Stacker gently handed the plate off to a Synergy Microplate Reader, which drew it into a dark slot. Its payload deposited, the Stacker rose softly toward a vertical tower of identical plates, its pincers rotating to grab the next set of samples.
+<span class="caplead">The pincer arm slid along the BioTek Microplate Stacker’s</span> sleek white body, holding a clear rectangular plate. The plate’s surface was pitted with a grid of a hundred small round wells, each one filled with pale yellowish-brown fluid. The Stacker gently handed the plate off to a Synergy Microplate Reader, which drew it into a dark slot. Its payload deposited, the Stacker rose softly toward a vertical tower of identical plates, its pincers rotating to grab the next set of samples.
 </p>
 <p>
-Tina Giordano batted a lock of her unkempt dark hair out of her eyes and focused on a computer terminal beside the Reader. Laboratory robots whirred softly around her as she studied the console. Robotic arms loaded plates onto centrifuges. Automated pipettes trickled thin streams of fluid like udders of a small mechanical cow. Gantries and belts carried plates among devices that heated the samples; cooled them; titrated fluids into them; aspirated fluids away; sealed them beneath plastic film; and affixed them with printed labels. With their smooth plastic contours and modular mechanical assembies, the machines reminded Tina of mutant Xerox office printers.
+Tina Giordano batted a lock of her unkempt dark hair out of her eyes and focused on a computer terminal beside the Reader. Laboratory robots whirred softly around her as she studied the console. Centrifuges spun. Pipettes trickled thin streams of fluid. Gantries and belts carried plates among devices that heated the samples; cooled them; titrated them; aspirated them; sealed them beneath plastic film; and affixed them with printed labels. With their smooth plastic contours and modular mechanical assembies, the machines reminded Tina of mutant Xerox office printers.
 </p>
 <p>
 On the far side of the laboratory, two white-coated figures, a man and a woman, stood beside a whiteboard. Both were older than Tina by at least two decades. Over the gentle humming and clicking of the machinery, she could hear them talking in somber, flustered tones.
@@ -162,7 +162,7 @@ Yes, Christina. This is very acceptable.<br/>
 It wasn’t exactly an Employee of the Year award, but Tina knew it was the closest thing to praise that she was likely to get.
 </p>
 <p>
-The rest of the emails were pure spam. Several solicitations from some web design company called Prismatic Creations cluttered her inbox, each with a big colorful logo plastered across the top of the message. They gave some spiel about updating Tungsten’s “corporate identity” to give the company a fresh look-and-feel to better resonate with today’s competitive blah blah blah. She opened a few of them to make sure there wasn’t anything important that she was missing, and then deleted them all without a second thought.
+The rest of the emails were pure spam. Several solicitations from some web design company called Prismatic Creations cluttered her inbox, each with a big colorful logo plastered across the top of the message. They gave some spiel about updating Tungsten’s “corporate identity” to give the company a fresh look-and-feel to better resonate with today’s competitive blah blah blah. After reading one, she deleted them without a second thought.
 </p>
 <p>
 With her inbox clear, she un-minimized her Facebook window. Her friend Natalie had posted some photos of a homemade dreamcatcher that she’d apparently woven from her own hair. Tina gave her scrollwheel a few flicks, and quickly sank into a status-update-reading trance. Seconds or hours drifted mindlessly by.

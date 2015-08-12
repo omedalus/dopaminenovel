@@ -42,34 +42,28 @@ As the two young men fidgeted before their presentation, Tina turned to her side
 Daniel sat at the table beside her, wearing a timeless gray business suit. The color of his clothes matched the tone of his hair, which had receded high above his forehead to form a salt-and-pepper crown. The hair he had lost from the top of his head, he made up for with a neatly trimmed beard, dark and flecked with silver.
 </p>
 <p>
-“Eh. I say cut them some slack,” he said, the creases at the corners of his mouth and eyes deepening as he smiled. “I remember giving a presentation to an investor group myself a long time ago, and it went pretty terribly.”
+“Eh. I say cut them some slack,” he said, the creases at the corners of his mouth and eyes deepening as he smiled. “I remember giving a presentation to an investor group myself a long time ago, and it was a… stressful experience.” He gave her a wink. “Of course, back then, the term ‘cellular multiplexing’ meant something completely different.”
 </p>
 <p>
-She winked at him and said, “Hey, it wasn’t <em>all</em> bad!”
+A device on Daniel’s wrist suddenly buzzed with a gentle vibration. Daniel glanced down at the screen. A pop-up window bore the words, “<span class="computer">Rosie: 6 unread messages (10 unread total).</span>”
 </p>
 <p>
-With a twinkle in his eyes, he replied, “I do suppose I made the best of it. Of course, back then, the term ‘cellular multiplexing’ meant something completely different.”
-</p>
-<p>
-A device on Daniel’s wrist suddenly buzzed with a gentle, quiet vibration. Daniel glanced down at the screen. A pop-up window bore the words, “<span class="computer">Rosie: 6 unread messages (10 unread total).</span>”
-</p>
-<p>
-One side of the pop-up was dominated by a cropped square image of Rosie’s face. She used her glamor shot for her profile picture, which meant that every time she called or messaged, he saw her pressing her fingers erotically against her glossy purple lips, looking sensuously upward with mascara-rimmed eyes below a mane of iridescent platinum hair. The image made him feel awfully awkward every time. He flicked the pop-up away.
+One side of the pop-up was dominated by a cropped square image of Rosie’s face. She used her glamor shot for her profile picture, which meant that every time she messaged, he saw her pressing her fingers erotically against her glossy purple lips, looking sensuously upward with mascara-rimmed eyes below a mane of iridescent platinum hair. The image made him feel awfully awkward every time. He flicked the pop-up away.
 </p>
 <p>
 “On a more serious note, I do have concerns,” Daniel said. “For starters, there’s heat buildup. You’ve got powered components placed microns apart. And your substrate is organic, which means it’s flammable. Tina, what do you think? Is there some cellular mechanism these kids could use to interweave some kind of metallic rodlike structures?”
 </p>
 <p>
-Tina thought for a moment. “Would silica work? There’s a type of protozoan called ‘radiolaria’ that grow long, thin, spiny biosilicate skeletons. Maybe they could integrate part of its genome.”
+Tina thought for a moment. “Would silica work? There’s a type of protozoan called ‘radiolaria’ that grow thin, spiny biosilicate skeletons. Maybe they could integrate part of its genome.”
 </p>
 <p>
-Daniel nodded thoughtfully. “Silica might work. Could we infuse it with…”
+Daniel nodded thoughtfully. “Silica might work. Could we infuse it with…?”
 </p>
 <p>
 His device buzzed again. “<span class="computer">Rosie: 7 unread messages (11 unread total).</span>”
 </p>
 <p>
-He looked up at the two young hopeful engineers. Their faces were anxious and self-conscious. “Gentlemen,” Daniel said apologetically. “I hate to be rude, but…” He turned away in his chair and focused his attention on his device.
+He looked up at the two young hopeful engineers. Their faces were anxious and self-conscious. “Gentlemen,” Daniel said apologetically. “I hate to be rude, but…” He turned away in his chair and focused on his device.
 </p>
 <p>
 He maneuvered to the fresh pile of messages in his Inbox. The texts from Rosie weren’t at the top of his queue. Instead, he first had to flip through several messages that fell under a heading titled, “<span class="computer">HALF-CENTURY BIRTHDAY BLOWOUT!!11!one!</span>”
@@ -81,13 +75,13 @@ Beside each message, the device displayed familiar faces.
 “<span class="computer">Dude! Your 50th birthday? We wouldn’t miss it for the world! Count us in 110%!</span>” announced one message, beside a picture of Mike and Natalie. They’d been married for almost a decade. Their youngest child had just entered pre-school. Natalie had her own clinical practice. Mike worked as a network administrator for REI’s corporate offices. In their free time, they made costumes and crafts for the Washington Midsummer Renaissance Faire. They were ridiculously happy.
 </p>
 <p>
-“<span class="computer">Wow, 50!!!! I vaguely remember it. :) I’ve got venue, catering, and entertainment all lined up. It’ll be a gala! Get plenty of rest the night before. You’re going to need it, old man! Welcome to the other side of the hill!</span>” The message was from Jason, whom Daniel hadn’t seen much of lately. Jason’s health was faltering &mdash; he was fighting an aggressive case of pancreatic cancer. His oncology clinicians routinely programmed new strains of custom-built viruses to attack the cancerous cells, but the tumor kept evolving new mutations to resist the virotherapy. Despite the arms race being waged within his bloodstream, Jason’s spirits were quite high, and his friendship with Danny and the projects of Tuttle Investment Partners brought him fulfillment.
+“<span class="computer">Wow, 50!!!! I vaguely remember it. :) I’ve got venue, catering, and entertainment all lined up. It’ll be a gala! Get plenty of rest the night before. You’re going to need it, old man! Welcome to the other side of the hill!</span>” The message was from Jason, whom Daniel hadn’t seen much of lately. Jason’s health was faltering &mdash; no technology could stop the march of time, and his age was beginning to take its toll. Nonetheless, Jason’s spirits were quite high, and his friendship with Danny and the projects of Tuttle Investment Partners brought him fulfillment.
 </p>
 <p>
 “<span class="computer">Daniel. It would be my pleasure to see you again, old friend,</span>” wrote Satish. “<span class="computer">My wife and daughters have not seen America yet, and it was very thoughtful of you to include them in the invitation. It’s a long flight from Mumbai, but we’ll make it happen.</span>”
 </p>
 <p>
-“<span class="computer">Sure! See you there!</span>” Moshen replied. Moshen still made a decent living with his web design work. He couldn’t rightly be thought of as a “kid” anymore; he was married now, and would soon probably have kids of his own. In his spare time, he penned a popular online comic. It was about kung fu.
+“<span class="computer">Sure! See you there!</span>” Moshen replied. Moshen still made a decent living with his web design work. He was married now, and would soon probably have kids of his own. In his spare time, he penned a popular online comic. It was about kung fu.
 </p>
 <p>
 Finally, Danny found the litany of texts from Rosie.
@@ -153,7 +147,7 @@ He answered over his shoulder, “Tech support.”
 “Dan! Thank fucking Jesus!” She turned around, pivoting in place with perfect poise. She briskly padded barefoot across the disheveled room, moving effortlessly with a dancer’s grace.
 </p>
 <p>
-Her beefy boy-toy watched her with rapture in his eyes. Daniel knew that look. He’d seen it on every gentleman-caller Rosie had ever brought home. Whoever this fellow was, he was already hopelessly, agonizingly in love with her. After tonight, he’d never see her again.
+Her beefy boy-toy watched her with rapture in his eyes. Daniel knew that look. He’d seen it on every gentleman-caller Rosie had ever brought home. Whoever this fellow was, he was already hopelessly, agonizingly in love. After tonight, he’d probably never see her again.
 </p>
 <p>
 “It’s over here!” she called from somewhere inside the cluttered chamber. Several young men and women puttered around, examining instruments and equipment. One lean geeky-looking guy sat in front of a clothing rack. Rosie looked down at him and shooed him with her hands, saying, “Ksssst! Scat!” The guy scurried out of his chair.
@@ -165,19 +159,10 @@ Daniel took a few awkward steps into the dressing room, avoiding looking in her 
 Rosie flicked her hand manically at the clothes rack. “Just… just fix it! Please?”
 </p>
 <p>
-The rack only held one garment. On a hanging scaffold, with arms outstretched and legs pulled straight, was Rosie’s suit. The outfit was a one-piece jumpsuit custom-fitted to conform to Rosie’s flesh like a second skin. Like a scuba suit, it left only the head and hands exposed.
+The rack only held one garment: a one-piece jumpsuit. It was made from a material that felt to the touch like something between cellophane and polyester. A flexible column of gray opaque plates ran down the spine and across the shoulders. The plates bore jacks for data and power, as well as elaborate heatsink structures &mdash; heatsinks that would only work properly when in direct full-surface contact with naked flesh. Like a scuba suit, it left only the head and hands exposed. Unlike a scuba suit, it was completely transparent.
 </p>
 <p>
-Unlike a scuba suit, it was completely transparent.
-</p>
-<p>
-It was made from a material that felt to the touch like something between cellophane and polyester. A flexible column of gray opaque plates ran down the spine and across the shoulders. The plates bore jacks for data and power, as well as elaborate heatsink structures &mdash; heatsinks that would only work properly when in direct full-surface contact with naked flesh. At certain angles of light, the glint of microscopically thin metallic fibers could be seen weaving through the clear material.
-</p>
-<p>
-Daniel pressed a power button on the spine. 
-</p>
-<p>
-From neck to toe, the jumpsuit immediately turned solid black. Bars of color appeared down one thigh, indicating battery level, temperature, storage capacity, and CPU and memory utilization. Blocky gray text materialized line by line across the suit’s breast, distorted by the curvature of the display fabric.
+Daniel pressed a power button on the spine. From neck to toe, the jumpsuit immediately turned solid black. Bars of color appeared down one thigh, denoting battery level, temperature, storage capacity, and CPU and memory utilization. Blocky gray text materialized line by line across the suit’s abdomen, distorted by the curvature of the display fabric.
 </p>
 
 <pre class="computer">
@@ -193,34 +178,19 @@ Setting localhost.......................[ OK ]
 </pre>
 
 <p>
-The text cascaded in gray sheets down the suit, warping and bending along the shape of the garment. When it hit the navel, it began scrolling.
+The waterfall of text suddenly spat out: “<span class="computer">Segmentation fault (core dumped)</span>”. The suit performed no further theatrics.
 </p>
 <p>
-After several moments, the waterfall of text suddenly spat out: “<span class="computer">Segmentation fault (core dumped)</span>”. The suit performed no further theatrics.
+“See?” Rosie whined. She stood at a nearby closet, slipping into a bathrobe. “That’s all it does!”
 </p>
 <p>
-“See?” Rosie whined. She stood at a nearby closet, slipping into a bathrobe. “That’s all it does! It gets to that, and then it just stops like a little bitch…”
-</p>
-<p>
-Daniel raised a hand and motioned for her to calm down, and studied the reams of text on the suit’s surface. After about twenty seconds, he let out a slight chuckle. “Well, duh,” he said, staring at stack trace listings and hexadecimal pointer values. “Here’s your problem…”
+Daniel raised a hand and motioned for her to calm down, and studied the reams of text on the suit’s surface. After about twenty seconds, he let out a slight chuckle. “Well, duh. Here’s your problem…”
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">Daniel got the suit working</span> about two hours before showtime. Rosie began pulling it on before Daniel could even complete a power cycle. “God! Thank you! You’re the best, Dan!”
-</p>
-<p>
-“You know, Rosie, you’d be fine even without the suit,” Daniel said, facing away while Rosie slipped her naked body into the transparent material. “You’re incredibly talented. Your performance will stand on its own merits.”
-</p>
-<p>
-“You’d think so, wouldn’t you?” she said. “But the truth is, talent is cheap. All talent gets you is a job playing background music of an HBO miniseries. And in the meantime, there’s a thousand turdhole pop-groups that can’t hit two chords, that are booked solid for years.” She ran her hands up along her legs to squeeze out pockets of air. “Talent alone gets you nowhere. I mean, fuck, Dan. I’m almost 25. You know what the 27 Club is, right? Jimi Hendrix. Jim Morrison. Amy Winehouse. Kurt Cobain. Janis Choplin. Tricia Ferrel. A real performer is supposed to be dead at 27. I’m 24, and where am I? Everything I’ve done up to now has been coffee houses and indie festivals. If I don’t break out tonight, I’ll wind up playing bar mitzvahs and high school reunions until the day I die. Which will probably be 27 anyway, because I’d rather just shoot myself.” 
-</p>
-<p>
-She rolled her shoulders to straighten the plates on her back. One of her lackeys zipped her up from behind.
-</p>
-<p>
-“So I ask myself,” she continued, flexing her limbs inside the suit to smooth out any kinks and wrinkles, “what else can I do? What can I bring to the audience that nobody else in the world can give them?” She patted her sides. “This. I can give them this. Yeah, it’s just a gimmick, but fuck it. I’ll take any advantage I can get.”
+<span class="caplead">Daniel got the suit working</span> about half an hour before showtime. Rosie began pulling it on before he could even complete a power cycle. “Yes! Thank you! You’re the best, Dan!” she squealed as she rolled her shoulders to straighten the plates on her back. One of her lackeys zipped her up from behind. She flexed her limbs to smooth out any kinks and wrinkles, and barked orders to her bandmates to prepare various filters and sequences. 
 </p>
 <p>
 The suit, now operational, responded to her movements with iridescent ripples that shimmered across her skin like waves upon an ocean of fluid energy. Flicks of her wrist and ankles sent ribbons of light spinning like whirlwinds upon her body. Shining upon her swaying form, swirls of ethereal color complemented her motions. She looked immaterial, transcendent, detached from physical reality; like a being that belonged to a different plane of existence &mdash; one purer, more celestial, more proximate to God.
@@ -232,7 +202,7 @@ She dismissed her pit crew and told her band to go prep the stage for soundcheck
 At the sound of the door closing, her bossiness and bravado disappeared like an extinguished candle flame. Where once stood a brash diva, there remained only a frightened, watery-eyed little girl. “Dan…” she said with a quavering voice.
 </p>
 <p>
-He stepped toward her and wrapped her protectively in his arms. She pushed her head meekly against his suit-clad chest and let herself relax. “Shhh… It’s alright, Rosie,” he said as he gently kissed the top of her platinum-haired scalp. Her show-ready hair tasted like melted plastic. “It’s alright to be afraid. I would be too. You’re going to do great out there.”
+He stepped toward her and wrapped her protectively in his arms. “Shhh… It’s alright, Rosie,” he said as he gently kissed the top of her platinum-haired scalp. Her show-ready hair tasted like melted plastic. “It’s alright to be afraid. I would be too. You’re going to do great out there.”
 </p>
 <p>
 “Thanks,” she said nervously. “Everybody’s telling me that. I’ll do my best.”
@@ -241,7 +211,7 @@ He stepped toward her and wrapped her protectively in his arms. She pushed her h
 “I wasn’t saying it to be supportive,” Danny replied. “I was being sympathetic.”
 </p>
 <p>
-She pulled a few inches away and looked up with her mascara-rimmed eyes to scrutinize his face for meaning. “I don’t follow…”
+She pulled a few inches away and looked up with her mascara-rimmed eyes. “I don’t follow…”
 </p>
 <p>
 “Think about it,” he said. “If you do poorly out there, it won’t really affect anything. You’ll continue performing in obscurity, booking coffee shops and indie festivals. Your life will go on as is, and this becomes just some random night when nothing noteworthy happened, and the achievement of your dreams will forever be simply some hypothetical alternate reality.”
@@ -256,16 +226,16 @@ He smiled at her warmly. “Damn straight you will, Rosie! And that means everyt
 She nodded briskly. With a choked voice that betrayed her efforts to look brave, she said, “So, what can I do about it?”
 </p>
 <p>
-“What can you <em>do</em> about it?” Daniel repeated with a kind laugh. “<em>Embrace it!</em> Rosie, in a few short hours, that arena out there is going to be filled with adoring fans all dying to feel your magic. The world is waiting &mdash; craving, aching &mdash; to be shown what you’re made of. And if it consumes you in the process &mdash; if you’re burned away in the flame of your own ignition &mdash; then that’s how you know you’ve lived your destiny. Now get out there, and make it happen!”
+“What can you <em>do</em> about it?” Daniel repeated with a kind laugh. “<em>Embrace it!</em> Rosie, that arena out there is about to be filled with adoring fans all dying to feel your magic! The world is waiting &mdash; craving, aching &mdash; to be shown what you’re made of. And if it consumes you in the process &mdash; if you’re burned away in the flame of your own ignition &mdash; then that’s how you know you’ve lived your destiny. Now get out there, and make it happen!”
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">Daniel sat beside Tina</span> in the VIP booth, above a chattering crowd of tattooed teenagers and twentysomethings slowly growing more inebriated. On the stage, Rosie’s bandmates stood tense and anxious. It was fifteen minutes past showtime.
+<span class="caplead">Daniel sat beside Tina</span> in the VIP booth, above a chattering crowd of tattooed teenagers and twentysomethings slowly growing more inebriated. On the stage, Rosie’s bandmates stood tense and anxious.
 </p>
 <p>
-Suddenly, the lights cut out, and the crowd began to howl and cheer. The delicate chords of an intricate harmony echoed from the lightless depths of the stage.
+Suddenly, the lights cut out, and the crowd began to howl and cheer. Delicate chords swelled from the lightless depths of the stage.
 </p>
 <p>
 A glowing figure appeared, dancing through the darkness like an angel across the void of space. It looked not human, but something beyond humanity &mdash; an incarnation of ingenuity and sensuality, an embodiment of mind and spirit. She was a creature born of technology and biology, a unity between mankind’s origin and destination wrapped in song and motion. She was a being for whom the worlds of the natural and the designed, the human and the divine, had no boundaries. For her, the limitless reaches of imagination would be manifest in physical reality.

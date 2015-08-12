@@ -1,12 +1,12 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Pill Hill, as the locals called it</span>, was not a welcoming neighborhood. Home to four sprawling interwoven hospital complexes and the state bloodbank, First Hill squeezed an entire city’s worth of state-of-the-art medical care into a single square mile of steeply sloped one-way streets and jumbled overpasses. Amongst the hospitals sat crumbling brick condominiums and tiny turn-of-the-century houses, with unmowed lawns littered with broken tricycles, bars on the windows and multiple deadbolts on the front doors. Within these homes resided the kinds of people who took comfort in living near a state-subsidized intensive care unit or methadone dispensary or STD clinic.
+<span class="caplead">The locals called it “Pill Hill”.</span> Home to four sprawling hospitals and the state bloodbank, First Hill squeezed an entire city’s worth of medical care into a single square mile of steeply sloped one-way streets. Beneath jumbled overpasses, there sat crumbling condominiums and tiny turn-of-the-century houses, with bars on the windows and multiple deadbolts on the front doors. Within many of these homes resided the kinds of people who took comfort in living near a state-subsidized methadone dispensary or STD clinic.
 </p>
 <p>
-A bullet-riddled Lincoln Navigator parked in an unenforced tow-away zone in front of a dilapidated apartment building did not look out of place.
+A bullet-riddled Lincoln Navigator parked in an unenforced tow-away zone did not look out of place.
 </p>
 <p>
-“Has the bleeding stopped?” Natalie asked crisply upon opening her door and looking up at Mike’s broken face.  She wore a purple UW School of Medicine sweatshirt, drawstring pants, and the demeanor of a battlefield commander.
+“Has the bleeding stopped?” Natalie Rosenbaum asked upon opening her door. She was slightly taller than Tina, but considerably more girthy. She wore a purple UW School of Medicine sweatshirt, drawstring pants, and the demeanor of a battlefield commander.
 </p>
 <p>
 “Mostly,” said Tina. “We couldn’t keep his nose pinched because of the swelling.” Mike’s nose looked like a red bulbous prosthetic glued onto his face.
@@ -15,7 +15,7 @@ A bullet-riddled Lincoln Navigator parked in an unenforced tow-away zone in fron
 Tina led the men inside. Jason and Satish helped Mike walk in, with Moshen and Danny following. 
 </p>
 <p>
-Natalie’s apartment was an unholy catastrophe. It was strewn with medical books and pizza cartons and candles, and smelled of bong water and cat litter and dirty socks. Notebooks and crusty paper plates littered her coffee table next to her MacBook Pro. Above her plasma TV, on an unpainted wooden shelf nailed into the wall, sat an authentic human skull, between psychiatry textbooks on one side and racks of herbs and jewelry on the other. A small dead snake was stuffed and mounted crawling out of the skull’s right eye socket, its forked tongue sticking out inquisitively.
+Natalie’s apartment was an unholy catastrophe. It was strewn with medical books and pizza cartons and candles, and smelled of cat litter and dirty socks. Notebooks and crusty paper plates littered her coffee table next to her MacBook Pro. Above her TV, on an unpainted wooden shelf nailed into the wall, sat an authentic human skull, between psychiatry textbooks on one side and racks of herbs and jewelry on the other. A small dead snake was stuffed and mounted crawling out of the skull’s right eye socket, its forked tongue sticking out inquisitively.
 </p>
 <p>
 “Come here. Sit down,” Natalie ordered Mike. 
@@ -27,13 +27,13 @@ With an annoyed meow, a small furry gray blur scurried away as the crew of stran
 Natalie cleared off some space on her couch, sweeping aside a Pepsi bottle, a stuffed Grover doll, and a clump of twigs bundled in a knotted silk handkerchief. Mike sat down in a daze, the whole couch shifting under his weight. Natalie quickly took a look at the back of his head.
 </p>
 <p>
-Back by the doorway, Moshen started sniffling and sneezing furiously. “Oh God damn it, you have a cat, don’t you?” he said through congested sinuses.
+Back by the doorway, Moshen started sniffling and sneezing furiously. “Oh God damn it, you have a cat, don’t you?”
 </p>
 <p>
-“There’s Benadryl in the bathroom,” Natalie said to him over her shoulder.
+“There’s Benadryl in the bathroom,” Natalie said over her shoulder.
 </p>
 <p>
-Moshen eyed the piles of dirty laundry and beaded jewelry he’d have to cross to reach the bathroom. He didn’t dare peek inside the bathroom itself.
+Moshen eyed the piles of laundry and beaded jewelry he’d have to cross to reach the bathroom. He didn’t dare peek inside the bathroom itself.
 </p>
 <p>
 Jason suggested, “Why don’t you head back down to the car, Moshen? All your laptops and things are still in there.”
@@ -57,7 +57,7 @@ Jason suggested, “Why don’t you head back down to the car, Moshen? All your 
 Jason tossed Satish the keys to the SUV, and the two men turned around and left the apartment. Moshen’s sneezes receded down the hallway outside.
 </p>
 <p>
-Back at the couch in the living room, Natalie gave Mike a pair of Tylenol and a glass of water. “Here, swallow these if you can.” She lifted the glass up to his mouth. Mike managed to comply.
+Back at the couch, Natalie gave Mike a pair of Tylenol and a glass of water. “Here, swallow these if you can.” She lifted the glass up to his mouth. Mike managed to comply.
 </p>
 <p>
 She sat next to him and examined his eyes, then dropped her hand down to his wrist and felt his pulse. His hands were much bigger than hers. “Has he been having seizures?” she asked Tina.
@@ -108,7 +108,7 @@ Natalie’s eyes lit up and a wide smile overtook her face. She threw her head b
 Jason asked with worry, “What’s going on? What’s so funny?”
 </p>
 <p>
-Natalie kept laughing. “That’s brilliant!” she said.
+Natalie kept laughing. “That’s brilliant!”
 </p>
 <p>
 “Is he going to be okay?” asked Jason. “Is he brain-damaged?”
@@ -120,13 +120,13 @@ Natalie kept laughing. “That’s brilliant!” she said.
 Mike smiled.
 </p>
 <p>
-Still holding the ice pack in place with one hand, she squeezed his hand reassuringly with the other and said in a soft, kind tone, “Listen. My name is Doctor Natalie Rosenbaum. This is my apartment. You’re safe here. I know you’re hurt, I know you’re scared, but you’re going to be okay.”
+Still holding the ice pack in place with one hand, she squeezed his arm reassuringly with the other and said in a soft, kind tone, “Listen. My name is Doctor Natalie Rosenbaum. This is my apartment. You’re safe here. I know you’re hurt, I know you’re scared, but you’re going to be okay.”
 </p>
 <p>
 He nodded slowly.
 </p>
 <p>
-“Listen to me. I want you to close your eyes,” she said to him gently and methodically, “and inhale slowly through your mouth.” He followed along. “Hold your breath in… Good… And then slowly let it out. Focus on relaxing. Focus on the feel of my hand. Breathe in… This is a safe place. Nothing bad will happen to you here. And out…”
+“Listen to me. I want you to close your eyes,” she said to him gently and methodically, “and inhale slowly through your mouth. Hold your breath in… Good… And then slowly let it out. Focus on relaxing. Focus on the feel of my hand. Breathe in… This is a safe place. Nothing bad will happen to you here. And out…”
 </p>
 <p>
 After a few repetitions, Mike opened his eyes. They were wet.
@@ -159,7 +159,7 @@ Mike looked blankly over Natalie’s shoulder and said, “I haven’t forgotten
 “Forgotten what, Mike?” she asked.
 </p>
 <p>
-“That I can die.”
+“That I’m going to die.”
 </p>
 <p>
 “You’re not going to die, Mike,” Natalie said reassuringly.
@@ -204,10 +204,10 @@ Natalie turned her head and followed Mike’s gaze. He was looking at the shelf 
 Natalie hoisted her bulky body back up to standing and navigated across her living room. “Benedict,” she said as she walked, “is the Catholic patron saint of students and scholars. He’s the one who codified the rules that all monks should live by. You’ve heard that monks take vows of celibacy, silence, and poverty, right? Do you know why?”
 </p>
 <p>
-“To avoid sin through temptation,” answered Mike.  
+“To avoid sin through temptation,” answered Mike.
 </p>
 <p>
-Natalie grinned. She took the skull from the shelf and headed back to the couch. “It’s actually deeper than that. The main purpose of the Rules of Saint Benedict is to remove the ego from the study of the divine. They’re designed to get a monk’s mind out of its own way.”
+Natalie smiled. She took the skull from the shelf and headed back to the couch. “It’s actually deeper than that. The main purpose of the Rules of Saint Benedict is to remove the ego from the study of the divine. They’re designed to get a monk’s mind out of its own way.”
 </p>
 <p>
 She cleared off some room for herself on the couch and sat down next to Mike.
@@ -228,7 +228,7 @@ She cleared off some room for herself on the couch and sat down next to Mike.
 Natalie giggled.
 </p>
 <p>
-There was no joy in Mike’s face or tone. Slowly, he reached toward Natalie and took the skull from her hands. He held it before his face and gazed deeply into its eye sockets.
+There was no joy in Mike’s face or tone. Slowly, he reached toward Natalie and took the skull from her hands. He held it before his face and gazed into its eye sockets.
 </p>
 <p>
 “I tried to kill a man tonight,” he said emptily.
@@ -249,7 +249,7 @@ Jason added, “Yeah, Mike. You did the right thing.”
 Mike said nothing. In the quiet tension, Natalie scooted closer and put an arm around him. He leaned into the hug, welcoming the contact.
 </p>
 <p>
- “Did I?” Mike finally replied. “Did I really? Because it doesn’t feel like it. I don’t feel righteous. I don’t feel like I won. Where’s my gold pieces? Where’s my experience points? Where’s that sense of accomplishment? You know… You know that feeling you get when you beat a big boss in a video game? It’s like this little burst of stuff that your brain squirts out, telling you, ‘Yay! You win! Good job! Whatever you just did, keep doing it!’ You know what I’m talking about?”
+“Did I?” Mike finally replied. “Did I really? Because it doesn’t feel like it. I don’t feel righteous. I don’t feel like I won. Where’s my gold pieces? Where’s my experience points? Where’s that sense of accomplishment? You know… You know that feeling you get when you beat a big boss in a video game? It’s like this little burst of stuff that your brain squirts out, telling you, ‘Yay! You win! Good job! Whatever you just did, keep doing it!’ You know what I’m talking about?”
 </p>
 <p>
 Natalie answered, “Heh, yes. That stuff is called dopamine.”
@@ -258,7 +258,7 @@ Natalie answered, “Heh, yes. That stuff is called dopamine.”
 “Well, I’m not getting it,” said Mike. “I’m trying to make myself feel it, but it’s just not working. You know, I wish I really could honest-to-God convince myself that this is all just some D&amp;D campaign. Because if it’s all just fantasy then I can handle it. If it’s fantasy then it’s all fun and exciting and what I just did was epic and I should be proud of myself. But if it’s not, then…”
 </p>
 <p>
-Natalie clapped her hand on Mike’s thigh. “Okay Mike, listen up,” she said with optimism, looking warmly into his eyes. “I’m going to take you to Swedish. They’ll take care of your nose, and they’ll give you a CT scan. I’m going to help you through this. I’ll personally make sure you’re okay. Now, I’m going to be right back &mdash; I need to go change and then we’ll head on out.”
+Natalie clapped her hand on Mike’s thigh. “Okay Mike, listen up,” she said with optimism, looking warmly into his eyes. “I’m going to take you to Swedish. They’ll take care of your nose, and they’ll give you a CT scan. I’m going to help you through this. I’ll personally make sure you’re okay. Now, I’m going to be right back &mdash; I need to go change and then we’ll head out.”
 </p>
 <p>
 She stood up from the couch and glided cheerfully toward her bedroom door.
@@ -273,10 +273,10 @@ As she passed by, Tina heard her humming.
 Natalie responded in a sing-song whisper, “T, you failed to mention over the phone that this guy is <em>fucking awesooooome</em>!”
 </p>
 <p>
-She proceeded into the bedroom and began to rummage through her closet for something suitable for leaving the house. 
+She proceeded into the bedroom and rummaged through her closet for something suitable for leaving the house. 
 </p>
 <p>
-Tina followed her friend. From the unkempt pile of blankets and pillows on the bed, a pair of feline eyes watched her as she entered.
+Tina followed her friend. From the pile of blankets and pillows on the bed, a pair of feline eyes watched her as she entered.
 </p>
 <p>
 She closed the bedroom door behind her. 

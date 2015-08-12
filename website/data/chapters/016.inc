@@ -174,7 +174,7 @@ Dunno what all the craziness is all about, I just taked to Eugene on the fone an
 </div>
 
 <p>
-Fake. This X D guy was just some random name from the Russians’ distribution list. The Russians responded to this news with….
+Fake. This X D guy was just some random name from the Russians’ distribution list. The Russians responded with….
 </p>
 
 <div class="computer email">

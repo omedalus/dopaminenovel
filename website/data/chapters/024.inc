@@ -159,7 +159,7 @@ Kissing continued, vigorous and passionate. Fingers glided through hair and brus
 The doorbell rang.
 </p>
 <p>
-Danny and Tina looked at the door simultaneously, then looked at each other with matching quizzical expressions.
+Danny and Tina looked at the door simultaneously, then at each other with matching quizzical expressions.
 </p>
 <p>
 “Did you order pizza or something?” Danny asked her.
@@ -168,25 +168,25 @@ Danny and Tina looked at the door simultaneously, then looked at each other with
 Tina shook her head.
 </p>
 <p>
-Perplexed, Danny headed toward the door. “That’s too bad,” he said nonchalantly as he crossed the room. “I really am famished.” He looked through the peephole.
+Danny headed toward the door. “That’s too bad. I really am famished.” He looked through the peephole.
 </p>
 <p>
 There was nobody outside.
 </p>
 <p>
-“What the hell?” Danny mumbled. Confused, he unbolted the door, turned the knob, and began pulling it open. “Hello!…?”
+“What the hell?” Danny mumbled. Confused, he unbolted the door, turned the knob, and began pulling it open. “Hello…?”
 </p>
 <p>
-An immense dark blur spun out quickly from beside the door, just beyond the view of the peephole. In an instant, it hurled itself through the doorway. The whirling momentum of the figure’s entry thrust the door back against Danny. Unprepared for the burst of explosive force, Danny caught the corner of the door square in his chest. He fell backward, landing hard on the smooth wood floor. The pain and shock forced a loud grunt out of him.
+An immense dark blur spun out quickly from beside the door, just beyond the view of the peephole. In an instant, it hurled through the doorway. The figure’s momentum thrust the door back against Danny. He fell backward, landing hard on the smooth wood floor.
 </p>
 <p>
 Hurt and stunned, with his ribs and tailbone smarting from the impacts, he looked up to try to comprehend what had just happened. 
 </p>
 <p>
-What he saw, from the vantage point of his hardwood floor, was the long black barrel of a silencer-equipped handgun pointed straight into his face. And on the other side of that gun, darkened to a near silhouette in the light from the doorway, towered the massive shape of Sergey Mukhayev.
+What he saw, from the vantage point of his hardwood floor, was the long black barrel of a handgun pointed straight into his face. And on the other side of that gun, darkened to a silhouette in the light from the doorway, towered the massive shape of Sergey Mukhayev.
 </p>
 <p>
-Danny found himself unable to breathe. His throat constricted to the point of nausea. With spastic motions of his elbows and feet, he scurried backwards, away from the door.
+Danny found himself unable to breathe. His throat constricted to the point of nausea. With spastic motions of his elbows and feet, he scurried backwards.
 </p>
 <p>
 Sergey followed him as he tried to clumsily scuttle his way along the hardwood floor. The drug lord matched the pace of Danny’s flailing motions with his own slow, relentless footfall, advancing unstoppably like a stone golem. He kept the gun pointed squarely between Danny’s eyes as he marched into his home. Without taking his gaze off of Danny, the large Russian kicked the front door of the house closed behind him. 

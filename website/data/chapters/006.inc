@@ -267,38 +267,28 @@ Danny peeked at the screen over Mike’s shoulder. “His username is ‘rot13er
 Mike and Moshen set to work alongside Danny. Satish sat silently nearby, eyeing the whole endeavor with grudging interest.
 </p>
 <p>
-After several minutes, Mike piped up. “Danny! I found something!” he said excitedly. “It’s an online tech-support forum for a company called OmniVision. They make security cameras. Check this out…”
+After several minutes, Mike piped up. “Danny! I found something! It’s an online tech-support forum for a company called OmniVision. They make security cameras. Check this out…”
 </p>
 <p>
 
 <div class="computer email">
-User: rot13er<br/>
-Member, active 1 day<br/>
-<br/>
+User: rot13er (Member, active 1 day)<br/>
 Do you guys have a software upgrade for the OmniVision Sightbulb-1200 PTZ to give it WPA support? My company has about 30 of these cameras, installed ten years ago. We have a few wireless access points to connect them to the corporate LAN, but I have to run these APs with WEP because the cameras don’t speak WPA.<br/>
 ---<br/>
 <br/>
-User: David Swan<br/>
-OmniVision Support Engineer<br/>
-<br/>
-I'm sorry to inform you that we discontinued support for the Sightbulb series about four years ago. I advise replacing your Sightbulb cameras with our Clarity line. I would be happy to let our sales department know about your needs.<br/>
+User: David Swan (OmniVision Support Engineer)<br/>
+I'm sorry to inform you that we discontinued support for the Sightbulb series about four years ago. I advise replacing your Sightbulb cameras with our Clarity line. I'd be happy to pass you along to our sales department.<br/>
 ---<br/>
 <br/>
 User: rot13er<br/>
-Member, active 1 day<br/>
-<br/>
 My company's not going to go pay you for 30 new cameras. Don't you guys have a firmware patch I can install?<br/>
 ---<br/>
 <br/>
 User: David Swan<br/>
-OmniVision Support Engineer<br/>
-<br/>
-Unfortunately, the Sightbulb cameras were designed and manufactured before WEP's weaknesses were discovered. We understand your concerns, but we deemed in technically infeasible to migrate the Sightbulb-1200 to WPA.<br/>
+Unfortunately, the Sightbulbs were manufactured before WEP's weaknesses were discovered. We understand your concerns, but it was technically infeasible to migrate the Sightbulb-1200 to WPA.<br/>
 ---<br/>
 <br/>
 User: rot13er<br/>
-Member, active 1 day<br/>
-<br/>
 Are you serious? WEP is worthless. I might as well not even be running encryption at all. Thanks for nothing.<br/>
 </div>
 

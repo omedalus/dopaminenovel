@@ -84,6 +84,8 @@ $(document).ready(function() {
   };
 
   var highlightParagraphs = function(iparagraph, numWordsToHighlight) {
+    $('.highlighted').removeClass('highlighted');
+
     var numWordsHighlighted = 0;
     while (numWordsHighlighted < numWordsToHighlight) {
       var paragraph = $('[data-paragraph-number=' + iparagraph + ']');

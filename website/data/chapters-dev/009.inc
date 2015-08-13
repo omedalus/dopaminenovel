@@ -21,7 +21,7 @@ He saw her.
 Tina had left her iPhone charging at her desk. Her first instinct told her to sprint back to her lobby, call the police, and get the hell out of the building. Except she couldn’t, because her eyes were now locked onto hers. The only thing she could think to do was to run her receptionist program. “Hi. Can I help you?”
 </p>
 <p>
-He replied in a foreign accent. The same accent, albeit much lighter, as Dr. Passinsky’s. Russian. “I’m from the courier service. I’m here to pick up a delivery for urgent shipment tomorrow. Has to arrive first thing in the morning. Sorry to bother you.”
+He replied in a foreign accent. The same accent as Dr. Passinsky’s: Russian. “I’m from the courier service. I’m here to pick up delivery for urgent shipment tomorrow. Has to arrive first thing in the morning.”
 </p>
 <p>
 He gazed at her like a wolf at a rabbit. Tina felt a crushing tightness in her chest. “I’m supposed to sign visitors in at the front desk,” she said tentatively.

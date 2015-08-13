@@ -102,7 +102,7 @@ Jason tried to keep up. “Is there anything I could be doing?” he asked.
 <span class="caplead">Danny nibbled on his nails</span>, his eyes affixed nervously to Mike’s screen.
 </p>
 <p>
-“Nothing’s getting through!” growled Mike. His large body hunched over his laptop, his thick fingers banging hard on the keyboard. “The SYN packets are just disappearing!”
+“Nothing’s getting through!” growled Mike. His body hunched over his laptop, fingers banging on the keyboard. “The SYN packets are just disappearing!”
 </p>
 <p>
 “Did Tungsten go offline?” asked Danny. “Or did we?”

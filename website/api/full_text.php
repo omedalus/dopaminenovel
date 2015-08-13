@@ -17,14 +17,14 @@ echo <<<EOL
   <script src="thirdparty/jquery-1.10.2.min.js"></script>
   <script src="thirdparty/underscore-min.js"></script>
 
-  <script src="script.js"></script>
+  <script src="api/script.js"></script>
 
   <title>Dopamine</title>
 
   <link rel="stylesheet" type="text/css" href="css/fulltext.css" />
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="http://dopaminenovel.com/favicons/favicon.ico?v=3" />
+  <link rel="shortcut icon" href="favicons/favicon.ico?v=3" />
 
 </head>
 <body>

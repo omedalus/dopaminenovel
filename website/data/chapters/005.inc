@@ -18,7 +18,7 @@ On the far side of the laboratory, two white-coated figures, a man and a woman, 
 “This is different. I think he’s honest-to-God scared.”
 </p>
 <p>
-“Of what? Funding?”
+“Of what? Losing our funding?”
 </p>
 <p>
 “I think so,” he said. “He told the Consortium that we’d have results by now. They’re coming to see for themselves.”
@@ -51,31 +51,28 @@ Tina jumped, and looked up apologetically from the console.
 The woman stared at her with suspicion. “What are you doing at that workstation?”
 </p>
 <p>
-For a moment, Tina began to sheepishly back away from the computer. But with a look at the screen, she decided to stand her ground. “Your reporter. You’re using gfp, right? Why wouldn’t you just use a selectable marker? CAT is standard for <em>E. coli</em>, isn’t it?”
+Her accusatory tone almost made Tina back sheepishly away from the computer. But a final glance at the screen gave her reason to stand her ground. “Your reporter. You’re using gfp, right? Why wouldn’t you just use a selectable marker? CAT is standard for <em>E. coli</em>, isn’t it?”
 </p>
 <p>
 The man mumbled, “The mother strain is already immune to chloramphenicol, Tina.”
 </p>
 <p>
-“We already explained our design strategy to Passinsky,” the woman said. “We’re not going to explain it to <em>you</em>.”
-</p>
-<p>
-Tina looked at the plastic plates being passed back and forth by the robotic arms. “I just… I have a question,” she said innocently. “If you’re using gfp as a reporter, then that means you’re testing these assays for fluorescence, right?”
+Tina looked at the plastic plates being handled by the robotic arms. “I just… I have a question,” she said innocently. “If you’re using gfp as a reporter, then that means you’re testing these assays for fluorescence, right?”
 </p>
 <p>
 The woman rolled her eyes. “Yes, Tina. That’s what <em>green fluorescence protein</em> means.”
 </p>
 <p>
-“So this microplate reader right here…” She pointed at the device. “Every time it gets a new plate, it shines a specific color of light on it, and uses very sensitive camera-type things below each well to check whether or not each assay is, like, ‘reflecting’ some other color of light back, so to speak. Right?”
+“So this microplate reader… It shines a specific color of light on a plate of samples, and uses very sensitive camera-type things to check whether or not each assay is, like, ‘reflecting’, so to speak, some other color of light. Right?”
 </p>
 <p>
-The woman said sarcastically, “That <em>is</em> how fluorescence reading works.”
+“That <em>is</em> how fluorescence reading works,” the woman replied sardonically.
 </p>
 <p>
 “Thanks. So, then, can you please explain to me…” She grabbed an empty plate off of one of the machines and waved it in front of her face, looking at the two scientists through the clear plastic. “…why the hell you guys would use <em>transparent microplates</em>?”
 </p>
 <p>
-The man shrugged. “The clear ones are cheap, Tina. We had a huge supply of them down in the stockroom.”
+The man shrugged. “The clear ones are cheap. We had a huge supply of them down in the stockroom.”
 </p>
 <p>
 “Are they cheap enough to make it worth redoing a whole month of automated runs?” Tina retorted. “Because, if the plate is completely see-through, then light can shine from one well to another. Which means that, if one well is fluorescing really strongly, then the reader will pick up a little bit of light <em>in all of the wells next to it</em>, too.”
@@ -90,7 +87,7 @@ The man’s eyes widened. “Well-to-well crosstalk!”
 The man facepalmed. “False positives. Tons and tons of false positives. Of course. We didn’t even think of something so basic…”
 </p>
 <p>
-“Instead of reporting uptake in <em>one</em> sample,” said Tina, “the reader will report uptake in <em>nine</em> of them. So what you get is way more…”
+“Instead of reporting uptake in <em>one</em> sample,” said Tina, “the reader will report uptake in <em>nine</em> of them. So what you get is…”
 </p>
 <p>
 The woman interrupted her, “What you get is way above your pay grade, Tina. You’re not even authorized to be in this lab.”
@@ -102,16 +99,16 @@ Tina’s jaw dropped. “Really?”
 The man said, “Tina, this <em>is</em> a restricted area. We work with scheduled substances here, not to mention volatile chemicals and potentially dangerous microorganisms…”
 </p>
 <p>
-Tina replied, “I’m fully aware of what you work with here. I’m the one that mails out the OSHA forms, remember? And I know all your safety protocols because I’m the one that prints your memos…”
+Tina shot him a look. “I’m fully aware of what you work with here. I’m the one that mails out the OSHA forms, remember? And I know all your safety protocols because I’m the one that prints your memos…”
 </p>
 <p>
-The woman sneered, “That’s great, but you’re not a scientist.”
+The woman sneered, “That’s great, but mailing forms and printing memos doesn’t make you a scientist.”
 </p>
 <p>
-The man nodded. “You really should be back at the front desk, Tina.”
+The man nodded. “You really should be back at the front desk.”
 </p>
 <p>
-Tina’s eyes drifted between the two microbiologists, the console, and the animated laboratory equipment around her. Ultimately, her gaze sank to the floor. Wordlessly, she shuffled out of the room.
+Tina’s gaze traveled from the two microbiologists, to the console, to the laboratory equipment, and finally to the floor. Biting her lip, she shuffled out of the room.
 </p>
 <p>
 “Oh, and, Tina?” the man called out just as she reached the doorway. “Could you please put in a thousand-unit rush order for 96-well microplates in polystyrene carbon black? Thanks.”

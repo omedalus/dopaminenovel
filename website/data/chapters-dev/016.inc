@@ -100,18 +100,18 @@ Hey guys. Lost my phone. Sorry. Burn the number.
 </div>
 
 <p>
-That email had been real. Eugene had sent it about a half hour prior. It was delivered to a long list of recipients, many with Spanish names, many just initials, and a few with ridiculous monikers like “4 Shizzy” or “Wheel Bone” or “Booty Fresh”.
+That email had been real. Eugene had sent it about a half hour prior. It was delivered to a long list of recipients, many with Spanish names, many just initials, and a few with monikers like “4 Shizzy” or “Wheel Bone” or “Booty Fresh”.
 </p>
 
 <div class="computer email">
 From: Eugene &lt;eugene@pash.ly&gt;<br/>
 Subject: Phone NOT burned. WTF?<br/>
 
-Guys, I DID NOT send that last email. My phone is fine. Who the F sent that email? If it was one of you guys, you are in big trouble.
+Guys, I DID NOT send that last email. My phone is fine. Who sent that? If it was one of you, you are in big trouble.
 </div>
 
 <p>
-That had been the first of the forged email messages, sent to the same distribution list as Eugene’s original real one. 
+That had been the first of the forged emails, sent to the same distribution list as Eugene’s real one. 
 </p>
 <p>
 “Why would you tell them that?” Jason had asked when the hacker crew sent it out.

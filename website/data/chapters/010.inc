@@ -294,7 +294,7 @@ His words were muffled by a low, thundering boom that resounded through the buil
 “Camera crew!” Danny gasped. “What the hell was that?”
 </p>
 <p>
-Moshen replied slowly, “That was the other guy’s gun.”
+Moshen replied, “That was the other guy’s gun.”
 </p>
 <p>
 “The one that’s pointed at the girl?” Danny asked with renewed panic.
@@ -306,12 +306,12 @@ Moshen replied slowly, “That was the other guy’s gun.”
 Danny gasped. “Is she…”
 </p>
 <p>
-“Get your butts over there fast,” Moshen directed.
+“Get your butts over there,” Moshen directed.
 </p>
 <p>
 Danny gulped, and exchanged a nod of affirmation with Mike. The two men set off down the hallway.
 </p>
 <p>
-Danny’s fingers twitched very subtly, subconsciously reaching for Control-S on a nonexistent keyboard. As Danny proceeded with Mike through the dim corridors, he caught himself glancing into rooms craving the sight of a prominently placed typewriter like in <em>Resident Evil</em>, or a pink audiocassette like in <em>Grand Theft Auto: Vice City</em>, or perhaps just a glowing red square like in <em>Silent Hill 2</em>. But he knew that, on this level, he would find no save-points.
+Danny’s fingers twitched, subconsciously reaching for Control-S on a nonexistent keyboard. As Danny proceeded with Mike through the dim corridors, he caught himself glancing into rooms craving the sight of a prominently placed typewriter like in <em>Resident Evil</em>, or a pink audiocassette like in <em>Grand Theft Auto: Vice City</em>, or perhaps just a glowing red square like in <em>Silent Hill 2</em>. But he knew that, on this level, he would find no save-points.
 </p>
 </div>

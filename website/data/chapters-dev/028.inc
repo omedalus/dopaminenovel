@@ -11,7 +11,7 @@ He saw motion outside.
 From the wide stone steps leading down to the hotel’s wharf, a man’s head ascended into the light. A small Bluetooth device sat nestled in his ear, beneath a yellow safety helmet. He wore coveralls and a toolbelt, and carried a toolbox and a large long complex-looking device. He could’ve been a plumber or an electrician.
 </p>
 <p>
-The man climbed the steps and proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. After 9:00 P.M., the doors needed a key to open from the outside. The man knocked on the glass, waved to Mejía, and said something in English. Mejía tried to reply in Spanish, but the man simply shook his head and shrugged.
+The man proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. After 9:00 P.M., the doors needed a key to open from the outside. The man knocked on the glass, waved to Mejía, and said something in English. Mejía tried to reply in Spanish, but the man simply shrugged.
 </p>
 <p>
 Mejía weighed his options. His instincts told him to be wary. Paranoia was a virtue.
@@ -23,7 +23,7 @@ That same paranoia, however, also told Mejía that, if this man was indeed simpl
 Mejía opened the door.
 </p>
 <p>
-The man picked up his equipment and entered the building. He babbled something in English. Mejía simply gave him a thumbs-up and a plastic smile. Eventually, the man stopped talking, and walked off into the wide wood and marble halls of the hotel.
+The man picked up his equipment and entered the building. He babbled something in English. Mejía simply gave him a thumbs-up. The man stopped talking and walked off into the wide wood and marble halls of the hotel.
 </p>
 <p>
 Mejía returned to work.
@@ -65,31 +65,31 @@ The man looked slightly disoriented. “I… was just noticing that you don’t 
 “No, we don’t,” Leffert said.
 </p>
 <p>
-“But you do have a computer, yes?” he asked.
+“But you do have a computer, yes?”
 </p>
 <p>
 “Yeah, a Point-Of-Sale system,” Leffert answered.
 </p>
 <p>
-The man stood up straight, held up a bizarre plastic contraption, and said confidently, “Well, see, I’m trying to isolate an intermittent ground fault somewhere along this column of the building. I need to go through all the appliances on this circuit until I can find the one that’s causing the issue.”
+The man said, “Well, see, I’m trying to isolate an intermittent ground fault somewhere along this column of the building. I need to go through all the appliances on this circuit until I can find what’s causing the issue.”
 </p>
 <p>
 Leffert raised an eyebrow. “An intermittent ground fault?”
 </p>
 <p>
-The man nodded. “Yes, ma’am. It’s a situation in which some appliance somewhere isn’t properly insulated. It could be very dangerous. I just need to rule out your computer as a possible source…”
+He nodded. “Yes, ma’am. It’s when some appliance somewhere isn’t properly insulated. It could be very dangerous. I just need to rule out your computer as a possible source…”
 </p>
 <p>
 Leffert rubbed her temples. “How long will it take?”
 </p>
 <p>
-“Two minutes, tops. I just need to get behind the computer and check its power cord.”
+“Two minutes, tops. I just need to check the computer’s power cord.”
 </p>
 <p>
-“Fine, get to it,” Leffert replied. “Luke, take him to the POS, please.”
+“Fine, get to it,” Leffert replied. “Luke, take him to the POS.”
 </p>
 <p>
-Luke escorted the electrician to the window between the kitchen and the serving area. There, on a shelf jutting out from the wall, sat the restaurant’s Point-Of-Sale computer. Its touch-sensitive screen showed multicolored blocks that the servers could press to enter orders. The electrician nudged the computer to access its rear workings.
+Luke escorted the electrician to the window between the kitchen and the serving area. There, on a shelf jutting from the wall, sat the restaurant’s Point-Of-Sale computer. Its touch-sensitive screen showed multicolored blocks that the servers could press to enter orders. The electrician nudged the computer to access its rear workings.
 </p>
 <p>
 Leffert had scarcely gotten halfway back to the kitchen before Luke came running. “Hey, Lynette! It’s asking for your password!”
@@ -98,7 +98,7 @@ Leffert had scarcely gotten halfway back to the kitchen before Luke came running
 The electrician stood sheepishly next to the POS computer. “I’m so sorry! I must’ve bumped something!”
 </p>
 <p>
-Leffert looked at the POS touch-screen. It had gone dim, and in its center sat a large window with a big orange warning icon and the text:
+Leffert looked at the POS touch-screen. It presented a large window with a big orange warning icon and the text:
 </p>
 <pre class="computer">
 <strong>Do you want to allow the following program from an 
@@ -112,16 +112,10 @@ To continue, type an administrator password, and then click Yes.
 </pre>
 
 <p>
-Leffert rolled her eyes and tapped her password.
+Leffert rolled her eyes and tapped her password. “It’s just some kind of system update crap,” Leffert said. “Probably didn’t even have anything to do with you. Did you find the issue?”
 </p>
 <p>
-“I didn’t break anything, did I?” said the electrician. “I was just checking the electrical connection. Nothing I was doing should’ve touched the computer’s software…”
-</p>
-<p>
-“Relax,” Leffert said. “It’s just some kind of system update crap. Probably didn’t even have anything to do with you. Did you find the issue?”
-</p>
-<p>
-He shook his head. “I need to keep looking. The fault’s not here. Your system’s fine.”
+He shook his head. “No, the fault’s not here. Your system’s fine.”
 </p>
 <p>
 “Good. You need anything else from me?” Leffert said with a tired shrug.
@@ -136,10 +130,10 @@ He shook his head. “I need to keep looking. The fault’s not here. Your syste
 <span class="caplead">Danny watched the old Claymore Communications van</span> roll through the gate toward a secluded corner of the hotel’s underground garage. He leaned against a concrete pillar, illuminated by jaundiced fluorescent lamps. “Did anyone see them enter?” he asked.
 </p>
 <p>
-“Negative,” Satish’s Indian-accented voice replied inside his earpiece. “Our virus went from the restaurant’s sale terminal to the hotel’s billing system, and from there to the security office. We control the cameras. And the garage gate, obviously. See?” 
+“Negative,” Satish replied inside his earpiece. “Our virus went from the restaurant’s sale terminal to the hotel’s billing system, and from there to the security office. We control the cameras. And the garage gate, obviously.?” 
 </p>
 <p>
-Danny watched the parking barrier’s arm rise and drop several times. “Hello to you too!” he said with a slight chuckle as he waved back. “What about doors?”
+Danny watched the parking barrier’s arm drop back down after the van finished passing. “And the doors?”
 </p>
 <p>
 “All ours,” Satish answered. “And the elevators. Mike is working on telephone landlines…”
@@ -484,28 +478,28 @@ The storyteller pantomimed putting a cigarette in his mouth and cupping his hand
 “Daaaaamn!” said one of the listeners. “Clever girl!”
 </p>
 <p>
-“I know, right? Must’ve hurt like the Devil, with the fire on her wrists, but she figured it’s better than the alternative. She’d have gotten away with it, too, if I hadn’t heard. She actually managed to get her hands free while I watched her. She was pulling at the knots around her legs when I finally decided, ‘Okay, that’s enough.’”
+“I know, right? Must’ve hurt like the Devil, with the fire on her wrists, but she figured it’s better than the alternative. By the time I noticed, she’d already got her hands free, and she made a run for it before I could stop her.”
 </p>
 <p>
-The rowdy talker reached toward a sleek control board mounted near the frosted-glass door of the tiny room. With the press of a button, nozzles recessed in the wood-paneled walls emitted a quick hiss of steam. He waved an arm briskly through the puffs, relishing the sensation against his skin.
+He reached toward a control board mounted near the frosted-glass door of the tiny room. With the press of a button, nozzles recessed in the wood-paneled walls emitted a quick hiss of steam. He waved an arm briskly through the puffs, relishing the sensation against his skin.
 </p>
 <p>
-“Moral of the story,” he concluded as he basked in the heat. “When you’re tying someone up with ropes… Make sure they’re not a smoker.”
+“Moral of the story? When you’re tying someone up with ropes… Make sure they’re not a smoker.”
 </p>
 <p>
-The men laughed lightly. Moisture condensed on their naked bodies and beaded with their sweat. Wet droplets ran down their faces and chests as they took deep, slow breaths.
+The men laughed. Moisture condensed on their naked bodies and beaded with their sweat. Wet droplets ran down their faces and chests.
 </p>
 <p>
-One of them was beginning to take slightly bigger gulps of air than the others. “Hey, do you guys like it turned up this high?” he asked tentatively
+One of them asked tentatively, “Hey, do you guys like it turned up this high?”
 </p>
 <p>
-The others hesitated for a moment. Finally one said, “It feels maybe a little hotter than it should.”
+The others hesitated. Finally one said, “It feels maybe a little hotter than it should.”
 </p>
 <p>
-They looked at the control board. A small black screen reported the current temperature: <span class="computer">230°F (110°C)</span>.
+They looked at the control board. A small black screen reported: <span class="computer"180°F (82°C)</span>.
 </p>
 <p>
-“Yeah, that’s a little too high,” one conceded, and pressed a down-arrow button repeatedly until the screen displayed <span class="computer">170°F (80°C)</span>.
+“Yeah, that’s a little too high,” one conceded, and pressed a down-arrow button repeatedly until the screen displayed <span class="computer">120°F (49°C)</span>.
 </p>
 <p>
 They let a minute go by, but felt no improvement. All three of them began breathing a little bit more heavily in the thinning air.
@@ -517,46 +511,37 @@ They let a minute go by, but felt no improvement. All three of them began breath
 “I did! Look!”
 </p>
 <p>
-The screen again showed <span class="computer">230°F (110°C)</span>.
+The screen again showed <span class="computer">180°F (82°C)</span>.
 </p>
 <p>
 “Idiot doesn’t know how to work the sauna,” one mocked.
 </p>
 <p>
-“Shut up, asshole,” one said, and punched it back down, watching the numbers descend until they again hit <span class="computer">170°F (80°C)</span>.
+“Shut up, asshole,” one said, and punched it back down, watching the numbers descend until they again hit <span class="computer">120°F (49°C)</span>.
 </p>
 <p>
-The moment he took his finger away from the control, the numbers immediately jumped back up to <span class="computer">230°F (110°C)</span>.
+The moment he took his finger away from the control, the numbers immediately jumped back up to <span class="computer">180°F (82°C)</span>.
 </p>
 <p>
-“What the hell?”
+“What the hell? Stupid piece of crap,” one said. “I’ll go yell at someone about it.” He rose, wrapped the white towel he was sitting on around his waist, and pushed on the frosted door.
 </p>
 <p>
-He pressed and held the down-arrow button until it went as low as it would go, to <span class="computer">120°F (49°C)</span>. As soon as he released it, it jumped back up to <span class="computer">230°F (110°C)</span>.
+It moved about an inch, and then hit some kind of restraint. He pushed against it harder. It wouldn’t budge.
 </p>
 <p>
-“Stupid piece of crap,” one said. “I’ll go yell at someone about it.” He rose, wrapped the white towel he was sitting on around his waist, and pushed on the frosted door.
-</p>
-<p>
-It moved about an inch, and then hit some kind of restraint.
-</p>
-<p>
-He pushed against it harder. It wouldn’t budge.
-</p>
-<p>
-Outside, through the frosted glass, a silhouette of an athletic man appeared just beyond the door. He appeared to be wearing a small helmet and a very bulky suit.
+Outside, through the frosted glass, a silhouette of an athletic man appeared just beyond the door. He seemed to be wearing a small helmet and a bulky suit.
 </p>
 <p>
 “Brothers!” said the man, in Russian. “How are you doing in there? Nice and warm?”
 </p>
 <p>
-The men sat up shocked in their seats. Their hearts began to race.
+The men sat up shocked.
 </p>
 <p>
-One began pounding on the glass with his fist. “What the hell is this!?”
+One pounded on the glass. “What the hell is this!?”
 </p>
 <p>
-“This?” the man outside said amicably. “This is nothing! It’s just a… a friendly conversation.”
+“This?” the man outside replied. “This is nothing! It’s just a… a friendly conversation.”
 </p>
 <p>
 “Who the hell are you?” one yelled.
@@ -574,7 +559,7 @@ One stood and body-checked the door, his shoulder slamming hard against the glas
 “Let us out, you vermin!” one screamed, and had to sit down to gasp for air. Each breath singed his lungs.
 </p>
 <p>
-“Not until we talk for a little bit,” the man said.
+“Not until we chat!” the man said.
 </p>
 <p>
 “What the hell do you want?” one said, feeling dizzy.

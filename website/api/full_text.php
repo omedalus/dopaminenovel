@@ -13,14 +13,14 @@ echo <<<EOL
 <head>
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
 
-  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="http://underscorejs.org/underscore-min.js"></script>
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="https://underscorejs.org/underscore-min.js"></script>
 
   <script src="script.js"></script>
 
   <title>Dopamine</title>
 
-  <base href="http://dopaminenovel.com" target="_self" />
+  <base href="https://dopaminenovel.com" target="_self" />
   <link rel="stylesheet" type="text/css" href="css/fulltext.css" />
 
   <!-- Favicon -->

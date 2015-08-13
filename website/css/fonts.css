@@ -1,40 +1,40 @@
 @font-face {
   font-family: Organo;
-  src: url('/fonts/Organo.ttf');
+  src: url('fonts/Organo.ttf');
 }
 
 @font-face {
   font-family: Hyperion;
-  src: url('/fonts/hyperion.ttf');
+  src: url('fonts/hyperion.ttf');
 }
 
 @font-face {
   font-family: Hiruko;
-  src: url('/fonts/HirukoBlackAlternate.ttf');
+  src: url('fonts/HirukoBlackAlternate.ttf');
 }
 
 @font-face {
   font-family: WeirdScience;
-  src: url('/fonts/weird_science_nbp.ttf');
+  src: url('fonts/weird_science_nbp.ttf');
 }
 
 @font-face {
   font-family: Brighton;
-  src: url('/fonts/BR_SANS.ttf');
+  src: url('fonts/BR_SANS.ttf');
 }
 
 @font-face {
   font-family: Moonhouse;
-  src: url('/fonts/moonhouse.ttf');
+  src: url('fonts/moonhouse.ttf');
 }
 
 @font-face {
   font-family: Krunch;
-  src: url('/fonts/krunch_bold.ttf');
+  src: url('fonts/krunch_bold.ttf');
 }
 
 @font-face {
   font-family: Research;
-  src: url('/fonts/Research_Remix_Normal.otf');
+  src: url('fonts/Research_Remix_Normal.otf');
 }
 

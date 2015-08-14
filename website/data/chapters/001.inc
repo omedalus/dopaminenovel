@@ -46,16 +46,16 @@ Eugene rolled his eyes. “Francisco, how did you get to be a salesman without k
 “Look, I don’t know how it works, chief,” Francisco pleaded. “I’m just saying what I heard. Look at her prices, though. It checks out, right? She’s got no import costs. No cartel dues. No <em>Federales</em> bribes. Maybe she knows something you don’t.”
 </p>
 <p>
-Eugene’s fingers closed around Francisco’s throat. He looked into his reddening eyes and hissed, “You betray us for this utter bullshit…?”
+Eugene’s fingers closed around Francisco’s throat. He looked into his reddening eyes and hissed, “You betray us for this bullshit…?”
 </p>
 <p>
-Gasping, Francisco honked out through his squeezed larynx, “See for yourself, chief!” He reached out with one thin arm and pointed toward the back of the bar.
+Gasping, Francisco honked out through his squeezed larynx, “See for yourself, chief!” He pointed toward the back of the bar with one thin arm.
 </p>
 <p>
-Eugene’s gaze followed his trembling finger past silhouettes of gruff drunks. Near the pool table in the back, the crowd simply stopped, like a sea held back by an invisible dam. There, on a tall bar stool, sat a young Asian woman drinking a fluorescent cocktail. Eugene couldn’t make out details, but, amid all the denim vests and grease-stained jeans, her sleek white dress and gladiator stilettos stuck out like a Viagra in a bag of molly.
+Eugene’s gaze followed his trembling finger past silhouettes of drunks. Near the pool table in the back, the crowd simply stopped, like a sea held back by an invisible dam. There, on a tall bar stool, sat a young Asian woman drinking a fluorescent cocktail. Eugene couldn’t make out details, but, amid all the denim vests and grease-stained jeans, her sleek white dress and gladiator stilettos stuck out like a Viagra in a bag of molly.
 </p>
 <p>
-“She’s <em>here</em>?” Eugene grunted. He released his hold on Francisco, who coughed and wheezed as he reclaimed his breath. “<em>That’s</em> who’s muscling in on our area?”
+“She’s <em>here</em>?” Eugene grunted. He released his choke on Francisco, leaving him wheezing. “<em>That’s</em> who’s muscling in on our area?”
 </p>
 <p>
 “She showed up about two weeks ago,” said Francisco, his voice still raspy. “She’s been using this joint for a recruiting ground. Been here about half a dozen times. Each time she comes, she gets more people signing up to sell for her.”

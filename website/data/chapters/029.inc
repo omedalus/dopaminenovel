@@ -234,22 +234,22 @@ Danny returned his stare with one of calm expectancy. With the man’s gun point
 The man’s thin brows twitched into a furrow. He looked quizzically at Ivan.
 </p>
 <p>
-Ivan yelled something in Russian at him.
+Ivan yelled at him in Russian.
 </p>
 <p>
-One of the other mercenaries in the room reluctantly spoke up. He said something in a hesitant, cautious tone.
+One of the other mercenaries in the room reluctantly spoke up.
 </p>
 <p>
-Ivan erupted in a torrent of sharp words. He railed at the hesitant speaker and at the other men in the room. His nostrils flared and spittle flew from his lips.
+Ivan erupted in a torrent of sharp words. He railed at the speaker and all the other men in the room. His nostrils flared and spittle flew from his lips.
 </p>
 <p>
 In an instant, by an order from Ivan, a few of the men turned their guns away from Danny. They pointed them instead at the man who had spoken out. Taken by surprise, the man raised his arms and said something quick and apologetic.
 </p>
 <p>
-Another man in the group said something to one of the bodyguards holding their guns on the speaker. The two began to argue. Their guns swung to point at one another.
+A man came to the speaker’s defense. He said something to one of the bodyguards still loyal to Ivan. The two began to argue. They pointed their guns at one another.
 </p>
 <p>
-There was more arguing, more shouting, more tense discussion and hasty negotiation. More guns pivoted away from Danny and turned to bear down on each others’ wielders.
+There was more bickering, more tense discussion and hasty negotiation. More guns pivoted away from Danny and turned to bear down on each others’ wielders.
 </p>
 <p>
 Ivan screamed hoarsely. He was ignored.
@@ -279,16 +279,16 @@ Three of the mercenaries stood their ground and opened fire in the general direc
 That moment of hesitation, physiologically unavoidable, was all Eugene needed.
 </p>
 <p>
-He swung his feet down and kicked one of the men squarely in the head, then dropped in behind him while the man was still disoriented and stumbling. Eugene’s hand made a quick jabbing motion at the mercenary’s neck. When the hand came away, Eugene’s butterfly knife protruded from the man’s throat. The mercenary gurgled and fell to his knees, pink foam frothing from his lips.
+He swung his feet down and kicked one of the men in the head, then dropped in behind him while the man was still disoriented and stumbling. Eugene’s hand made a quick jabbing motion at the mercenary’s neck. When the hand came away, Eugene’s butterfly knife protruded from the man’s throat. The mercenary gurgled and fell to his knees, pink foam frothing from his lips.
 </p>
 <p>
-Before the other two soldiers could bring their guns to bear on the agile invader, two more shots rang out from Eugene’s revolver. One man collapsed to the balcony floor.
+Before the other two soldiers could bring their guns to bear, two more shots rang out from Eugene’s revolver. One man collapsed to the balcony floor.
 </p>
 <p>
 The remaining bodyguard managed to get a handful of rounds off from his handgun, striking Eugene in the abdomen and chest. Eugene grunted in pain at the impacts and stumbled backwards from their force.
 </p>
 <p>
-The hammer of the man’s gun clicked hollowly against an empty chamber, his ammunition spent. He took a step toward Eugene, expecting to see him fall limp.
+The hammer of the man’s gun clicked against an empty chamber, his ammunition spent. He took a step toward Eugene, expecting to see him fall limp.
 </p>
 <p>
 Instead, he heard the sound of the bullets, flattened and deformed into squashed mushroom-like shapes, ding like coins against the balcony floor.
@@ -297,13 +297,13 @@ Instead, he heard the sound of the bullets, flattened and deformed into squashed
 Eugene glanced down for a moment at his body armor, taking stock of the slight dimples at the points where the bullets hit. Then his eyes rose back up to zero in on the remaining mercenary with a look of extreme displeasure.
 </p>
 <p>
-There was a blur of motion involving Eugene rushing toward the man, and the man in turn raising his hands to his face and crying out. It ended with the man’s body careening over the edge of the railing, his final screams falling away toward the ground far below.
+There was a blur of motion that started with Eugene rushing toward the man, and the man raising his hands. It ended with the man’s body careening over the edge of the railing, his final screams falling away toward the ground far below.
 </p>
 <p>
-Eugene quickly surveyed the wide balcony to ensure there were no more attackers outside in need of dispatching. He tilted his head to the side to crack his neck, and came over to his stabbed victim to retrieve the blood-soaked butterfly knife from the man’s throat. The man wasn’t quite dead yet, but he was unlikely to cause any further trouble.
+With the balcony cleared, Eugene tilted his head to the side to crack his neck, and came over to his stabbed victim to retrieve the butterfly knife from the mercenary’s throat. The man wasn’t quite dead yet, but he was unlikely to cause any further trouble.
 </p>
 <p>
-What followed was an agonizing lull. Eugene knelt outside by the balcony doors, carefully calculating his best approach into the room. The mercenaries remained frozen in their hiding spots, each man trying to devise a strategy to eliminate the invader without getting himself killed in the process. For a few long, suffocating moments, there was no sound or motion, only still, tense silence.
+What followed was an agonizing lull. Eugene knelt outside by the balcony doors, carefully calculating his best approach into the room. The mercenaries remained frozen in their hiding spots, each man trying to devise a strategy to eliminate the invader without getting himself killed in the process. For a few suffocating moments, there was no sound or motion, only tense silence.
 </p>
 <p>
 From the other side of the suite, it was suddenly broken.
@@ -549,16 +549,16 @@ There were a few seconds of tense stillness, permeated by soft, pained, cough-li
 The man above said, “Come on, buddy! I don’t care how big your gun is or how much armor you got on. How far you think you’ll make it on that bum leg of yours?”
 </p>
 <p>
-A gentle tapping noise indicated a gun being placed slowly on the floor. The slow, quiet tread of rubber-soled shoes on concrete crunched down the stairs. It was followed by the ratcheting clicks of metal handcuffs.
+A gentle tap indicated a gun being placed on the floor. The slow, quiet tread of rubber-soled shoes on concrete crunched down the stairs. It was followed by the ratcheting clicks of metal handcuffs.
 </p>
 <p>
-The policewoman’s voice called out from above. “Hey, Mack! Looks like my guy up here took a two-twenty-three to the gut. He’s not doing too good.”
+The policewoman’s voice called out, “Hey, Mack! This guy took a two-twenty-three to the gut. He’s not doing too good.”
 </p>
 <p>
-The male cop replied, “Yeah, mine took a shot just above the knee. Calling for medical, hold on.”
+The male cop replied, “Yeah, mine took a shot to the knee. Calling for medical, hold on.”
 </p>
 <p>
-Danny heard the distinctive beep and squelch tone of a trunked digital radio system. The device that Natalie had seen the cop speak into wasn’t a cellphone &mdash; it was a small walkie-talkie.
+Danny heard the distinct static of a two-way radio. The device that Natalie had seen the cop speak into wasn’t a cellphone &mdash; it was a walkie-talkie.
 </p>
 <p>
 “Dispatch, come in, over,” said the man.
@@ -570,7 +570,7 @@ A warble came from his radio unit in reply.
 “This is Detective Macintyre, with Detective Santello, on plainclothes investigation at the Medina Gallante hotel. We picked up a company van marked ‘Claymore Communications’ on the Medina neighborhood camera system, and gave it a routine tail. Dispatch, we’ve got a situation here…”
 </p>
 <p>
-Leo interrupted. “I need a bandage,” he hissed quietly through his teeth.
+Leo interrupted. “I… need a bandage.”
 </p>
 <p>
 “You need a surgeon, pal,” the cop replied. “Don’t worry, help’s on the way. But first, there’s something I need to tell you.”
@@ -582,7 +582,7 @@ Leo interrupted. “I need a bandage,” he hissed quietly through his teeth.
 The cop answered, “You have the right to remain silent. Anything you say can and will be used against you in a court of law…”
 </p>
 <p>
-Below, Danny slowly resumed descending the stairs, praying that the policeman’s voice would mask the sound of his movements. He visualized himself moving through tar, inches at a time, clutching the railing for balance.
+Below, Danny resumed descending the stairs, praying that the policeman’s voice would mask the sound of his movements.
 </p>
 <p>
 After two more floors, Danny found himself stepping onto the wide landing of the ground floor. To his side, the stairs continued downward to the parking garage. Ahead, a fire door stood between him and the maintenance corridor. He opened it gently, and stepped out of the dim stairwell and into the “HOTEL STAFF ONLY” hallway, lit by harsh white fluorescent tubes overhead.

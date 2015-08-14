@@ -536,7 +536,7 @@ He mustered up his deepest reserves of confidence, leaned toward her, and said s
 “I was actually wondering,” she said as she took a step toward him and looked up into his eyes, “if <em>you’re</em> going to do something about it.”
 </p>
 <p>
-He reached his hand out and placed it on the smooth curve of her waist to pull her closer. She eagerly pressed her body against his. The feel of her toned midsection hit his veins like a shot of opium, sending his head spinning in blissful delirium. He drew his lips down toward hers. She reciprocated, reaching up to slide her hand across the back of his neck, and guided his face down to meet hers.
+He laid his hand on the smooth curve of her waist to pull her closer. She eagerly pressed her body against his. The feel of her toned midsection hit his veins like a shot of opium, sending his head spinning in blissful delirium. He drew his lips down toward hers. She reciprocated, reaching up to slide her hand across the back of his neck, and guided his face down to meet hers.
 </p>
 <p>
 He watched himself kissing her in an out-of-body experience, the camera of his eye circling around them. The Rite Aid’s muzak became a punk-pop love ballad. Bystanders started applauding. The credits rolled, and they lived happily ever after.
@@ -572,13 +572,13 @@ Danny’s eyebrows furrowed in confusion. “Uh, no… That can’t be right…�
 “The what?”
 </p>
 <p>
-Danny reached his hand into his pocket. He felt the small SIM card he had pulled from the Russian’s cellphone. His face went ashen.
+Danny reached his hand into his pocket. He felt the small card he had pulled from the Russian’s cellphone. His face went ashen.
 </p>
 <p>
 “Jesus, Danny, what is it?” 
 </p>
 <p>
-“Your SIM card’s still in that phone,” he said in horror.
+“Your SIM’s still in that phone,” he said in horror.
 </p>
 <p>
 The music stopped.
@@ -599,67 +599,52 @@ The music started again.
 “This Sergey guy isn’t calling Eugene,” said Danny. “He’s calling <em>you</em>.”
 </p>
 <p>
-The blood left Tina’s face. As the phone continued ringing, she just stood there looking at it with wide eyes, not moving, not breathing.
+The blood left Tina’s face. As the phone rang, she stood looking at it &mdash; not moving, not breathing.
 </p>
 <p>
-Finally, she decided to press a button. The music stopped.
-</p>
-<p>
-Slowly, she brought the phone up to her ear and trembled out, “Hello?”
+Finally, she decided to press a button. The music stopped. She brought the phone to her ear and trembled out, “Hello?”
 </p>
 <p>
 Danny could only barely hear the other side of the conversation. He could make out a male voice with a foreign accent.
 </p>
 <p>
-Tina said into the phone, “I’m… I’m sorry.”
+Tina said, “I’m… I’m sorry…”
 </p>
 <p>
 The voice said something in response.
 </p>
 <p>
-“No,” Tina replied meekly. “I haven’t gone to the police yet.”
+“No,” Tina replied meekly. “I haven’t gone to the police.”
 </p>
 <p>
 The voice spoke again.
 </p>
 <p>
- “Yes, I still have it,” she said. “But it’s thawed out, and…”
-</p>
-<p>
-The voice cut her off. 
-</p>
-<p>
-“Look, you can <em>have</em> it for all I care,” said Tina. “I have zero interest in…”
+“Yes, I still have it,” she said. “Look, just <em>take</em> it, for all I care! I have zero interest in…”
 </p>
 <p>
 The voice interrupted her.
 </p>
 <p>
-“No, I didn’t swap it!” Tina protested. “Or contaminate it, or damage it, or…”
-</p>
-<p>
-The voice barked something at her.
-</p>
-<p>
-“Proof? Um, I promise?” Tina offered. “What kind of proof do you want? I don’t…”
+“No, I didn’t swap it!” Tina protested. “Or contaminate it, or… Proof? Um, I promise? What kind of proof do you want? I don’t…”
 </p>
 <p>
 The voice grumbled.
 </p>
 <p>
-“What? No! I can’t…” Tina insisted. The voice responded. As it talked, Tina gasped and began to cry. “No! Please, you don’t have to…”
+“What? No! I can’t…” Tina insisted. The voice responded. As it talked, she began to cry. “No! Please, you don’t have to…”
 </p>
 <p>
 The voice said something.
 </p>
 <p>
-Tina choked on a scream. “…I understand,” she whimpered.
+Tina choked on a scream. “…I understand…”
 </p>
 <p>
 The voice made a few statements.
 </p>
 <p>
-“I…” She paused for a long time. Finally, emptily, she said, “Okay.” 
+“I…” She stopped, and stared into nothingness. Finally, she said, “Okay.” 
 </p>
 <p>
 The voice issued a gruff response. Then, after a pause, it said something else.

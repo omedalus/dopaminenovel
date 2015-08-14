@@ -171,7 +171,7 @@ Jason didn’t reply. He just looked at Danny and grinned.
 “Oh God, you’re shitting me!” Danny said. 
 </p>
 <p>
-“I’m dead serious,” Jason answered. 
+“I’m serious,” Jason answered. 
 </p>
 <p>
 “You want <em>me</em> to hack into Tungsten.”
@@ -180,16 +180,16 @@ Jason didn’t reply. He just looked at Danny and grinned.
 “Yes. Hack in and find out what they’re up to. This Eastern European consortium took over my old medical supply company and turned it into some kind of top-secret research facility, and I want to know what they’re making in there.”
 </p>
 <p>
-The corners of Danny’s mouth pulled upward. “A hacking mission?”
+“<em>That’s</em> your job offer?”
 </p>
 <p>
-Jason nodded. “I presume you’ve got expertise in the matter. I mean, you’re an incredibly talented engineer, so I figured…”
+Jason nodded. “I presume you’ve got expertise in the matter. I mean, you’re a talented engineer, so I figured…”
 </p>
 <p>
-Danny flashed him a nervous grin. “Actually, I… well, I… kinda…”
+Danny flashed him a nervous grin. “Actually, I… well, kinda…”
 </p>
 <p>
-Danny thought back to his career as a hacker long, long ago. It consisted of him finding a staff newsletter on his freshman homeroom teacher’s desk. In a section listing important high school faculty phone numbers, they’d given the extension for a dial-in connection to a system that the teachers could use for inputting students’ grades. At the time, Danny had an 8086 IBM PC with a 1200-baud Hayes modem. After fiddling with the modem’s settings through trial and error, he got it to connect to the school’s computer. Sadly, he saw that he needed to enter a teacher’s username and password in order to change any grades, and was about to give up. 
+Danny thought back to his career as a hacker, long ago. It consisted of him finding a newsletter on his freshman homeroom teacher’s desk. In a section listing important faculty phone numbers, they’d given the extension for a dial-in connection to a system that the teachers used for inputting grades. Danny had an 8086 IBM PC with a 1200-baud Hayes modem. After fiddling with the modem’s settings, he got it to connect to the school’s computer. He saw that he needed to enter a teacher’s username and password to change any grades, and was about to give up. 
 </p>
 <p>
 But then he noticed that the main screen displayed, “<span class="computer">NUMBER OF CURRENT USERS</span>,” and the number wasn’t going down. Danny discovered, through sheer luck, that the grades system’s connection-handling software had a flaw: if he simply hung up without logging out, the system would think his connection was still open. Danny guessed that the system could only handle so many connections at a time, so he started calling and disconnecting over and over again to max it out. He was right – the system would accept no more than 255 simultaneous users, at which point it simply wouldn’t answer any more incoming phone calls. Victory! The school’s teachers couldn’t enter their grades anymore! The school fixed it by rebooting their computer, but Danny simply jammed it again the next day. He kept this up for a few weeks until his parents got the phone bill.

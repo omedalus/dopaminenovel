@@ -11,13 +11,13 @@ He saw motion outside.
 From the wide stone steps leading down to the hotel’s wharf, a man’s head ascended into the light. A small Bluetooth device sat nestled in his ear, beneath a yellow safety helmet. He wore coveralls and a toolbelt, and carried a toolbox and a large long complex-looking device. He could’ve been a plumber or an electrician.
 </p>
 <p>
-The man proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. After 9:00 P.M., the doors needed a key to open from the outside. The man knocked on the glass, waved to Mejía, and said something in English. Mejía tried to reply in Spanish, but the man simply shrugged.
+The man proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. After 9:00 P.M., they needed a key to open from the outside. The man knocked on the glass, waved to Mejía, and said something in English. Mejía tried to reply in Spanish, but he simply shrugged.
 </p>
 <p>
 Mejía weighed his options. His instincts told him to be wary. Paranoia was a virtue.
 </p>
 <p>
-That same paranoia, however, also told Mejía that, if this man was indeed simply a locked-out maintenance worker, refusal to let him in could result in being reported to management. And job loss. And ICE.
+Paranoia, however, also told Mejía that, if this man was indeed simply a maintenance worker, refusal to let him in could result in being reported to management. And job loss. And ICE.
 </p>
 <p>
 Mejía opened the door.
@@ -32,13 +32,13 @@ Mejía returned to work.
 
 <div class="chapsection">
 <p>
-<span class="caplead">Lynnette Leffert was swamped,</span> as usual. The clientele of <em>Bistro</em> was certainly awash with cash and never thought twice about paying extravagant prices for a garden salad and garlic bread, but they always made Leffert and her staff work for their profit margins. She’d spent the evening enduring insults about her food quality from a Parisian couple, sexual harassment from a table of Kuwaiti investment bankers, and an impenetrable language barrier from a group of Japanese technology executives. Even on the best of days, the job of managing the premiere restaurant inside the Medina Gallante was not for the faint of heart.
+<span class="caplead">Lynnette Leffert was swamped.</span> The clientele of <em>Bistro</em> was awash with cash and never thought twice about paying extravagant prices for a garden salad and garlic bread, but they always made Leffert and her staff work for their profits. She’d spent the evening enduring insults about her food from a Parisian couple, sexual harassment from Kuwaiti investment bankers, and an impenetrable language barrier from Japanese technology executives. Even on the best of days, managing the premiere restaurant inside the Medina Gallante was not for the faint of heart.
 </p>
 <p>
 She was checking the fridge inventory when Luke, the host, came to fetch her.
 </p>
 <p>
-“Hey, um, Lynette…?” said the thin, effete young man. “We’ve got some guy from Facilities here. He says he’s found some kind of electrical problem…?”
+“Hey, um, Lynette…?” said the thin, effete young man. “We’ve got some guy from Facilities here. He says he’s found some electrical problem…?”
 </p>
 <p>
 “Electrical problem?” she echoed, her concentration still set on counting foil-wrapped stacks of steaks, chicken, and fish.

@@ -579,12 +579,6 @@ The suddenly unpowered Roadster, rolling along by sheer momentum, quickly recede
 Once the Roadster disappeared in the rearview mirror, Jason finally released the gas pedal, dropping the SUV down to street-legal speeds. They drove calmly, heading toward downtown Bellevue. 
 </p>
 <p>
-“Damn dude,” Moshen said to Jason. “Where did you learn to drive like that?”
-</p>
-<p>
-“Here. Tonight,” Jason answered, and forced himself to laugh.
-</p>
-<p>
 “Satish!” Mike drawled. “Can we tally up our experience points now?”
 </p>
 <p>

@@ -6,14 +6,46 @@
 // fields[26] is the URL, which has the position number
 // fields[27] is the feedback 
 
-$all_files = scandir("../data/chapters");
-$chapter_files = array_values(preg_grep("/\d+\.inc/", $all_files));
+$retval = array();
 
-function filename_to_number($filename) {
-  return intval($filename);
+$batchfilestr = file_get_contents('batch_results.csv');
+
+$batchsplit = array();
+if (preg_match_all("/\n\"[A-Z0-9]{30}\"/", $batchfilestr, $batchsplit, PREG_OFFSET_CAPTURE)) {
+  $batchsplit = $batchsplit[0];
 }
 
-$retval = array_map('filename_to_number', $chapter_files);
+$lastoffset = false;
+$linedata = array();
+
+for ($isplit = 0; $isplit <= sizeof($batchsplit); $isplit++) {
+  if ($isplit < sizeof($batchsplit)) {
+    $curoffset = $batchsplit[$isplit][1];
+  } else {
+    $curoffset = strlen($batchfilestr);
+  }
+
+  if ($lastoffset) {
+    $line = substr($batchfilestr, $lastoffset, $curoffset - $lastoffset);
+    
+    $linesplit = array();
+    if (preg_match_all("/#p=(\d+)&h=\d+\",\"(.*)\"/s", $line, $linesplit)) {
+      $pnum = intval($linesplit[1][0]);
+      $suggestiontxt = $linesplit[2][0];
+
+      $suggestiongroup = array(
+        "p" => $pnum,
+        "suggestion" => $suggestiontxt
+      );
+        
+      array_push($retval, $suggestiongroup);
+    }
+  }
+  
+  $lastoffset = $curoffset;
+}
+
+
 
 header('Content-Type: application/json; charset=utf8');
 header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1

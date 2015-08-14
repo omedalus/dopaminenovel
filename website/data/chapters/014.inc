@@ -497,7 +497,7 @@ Danny felt both inspired and intimidated. “So, those other ingredients…” h
 “You’re looking at me like you want to say something,” she said.
 </p>
 <p>
-“Heh, it’s nothing. I’m just… impressed.” She met his gaze again with a look that cut his breath short &mdash; her unkempt black hair falling around her face, her dark eyes looking mischievously at him. Her tiny nose stud glinted in the bright fluorescent light. “So. Amino acids, right?” he said abruptly. 
+“Heh, it’s nothing. I’m just… impressed.” She met his gaze again with a look that cut his breath short &mdash; her hair falling around her face, her dark eyes looking mischievously at him. Her nose stud glinted in the fluorescent light. “So. Amino acids, right?” he said abruptly. 
 </p>
 <p>
 “Yeah…” she said.

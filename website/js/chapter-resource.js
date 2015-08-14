@@ -1,11 +1,11 @@
 dopamineNovelApp.factory('ChapterResource', ['$http', function($http) {
   return {
     list: function() {
-      return $http.get('/api/list_chapters.php');
+      return $http.get('api/list_chapters.php');
     },
 
     acts: function() {
-      return $http.get('/api/list_acts.php');
+      return $http.get('api/list_acts.php');
     },
     
     get: function(chapternum) {
@@ -14,7 +14,7 @@ dopamineNovelApp.factory('ChapterResource', ['$http', function($http) {
         return;
       }
     
-      return $http.get('/api/chapter.php?chapternum=' + chapternum);
+      return $http.get('api/chapter.php?chapternum=' + chapternum);
     }
   };
 }]);

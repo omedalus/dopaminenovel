@@ -1,31 +1,29 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    <base href="http://dopaminenovel.com/" target="_blank" />
-
     <title>Dopamine: A Present-Day Cyberpunk Technothriller</title>
     
     <meta name="description" content="A novel about hackers, genetic engineering, Russian mobsters, and nerds behaving badly.">
     <meta http-equiv="content-type" content="text/html;charset=UTF-8">
     
     <!-- Favicon -->
-    <link rel="shortcut icon" href="http://dopaminenovel.com/favicons/favicon.ico?v=3" />
-    <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="/favicons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
-    <link rel="manifest" href="/favicons/manifest.json">
+    <link rel="shortcut icon" href="favicons/favicon.ico?v=3" />
+    <link rel="apple-touch-icon" sizes="57x57" href="favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
+    <link rel="manifest" href="favicons/manifest.json">
     <meta name="msapplication-TileColor" content="#000000">
-    <meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+    <meta name="msapplication-TileImage" content="favicons/ms-icon-144x144.png">
     <meta name="theme-color" content="#000000">
 
     
@@ -34,7 +32,7 @@
     <script src="thirdparty/less-1.4.1.min.js" type="text/javascript"></script>
     
     <!-- JQuery -->
-    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>    
+    <script src="jquery-1.10.2.min.js"></script>    
 
     <!-- Infolist -->
     <script src="js/infolist.js"></script>
@@ -57,7 +55,7 @@
 
     <!-- ShareThis widget -->
     <script type="text/javascript">var switchTo5x=true;</script>
-    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript" src="thirdparty/sharethis/buttons.js"></script>
     <script type="text/javascript">stLight.options({publisher: "8a2a4748-f9c8-493e-8952-bee966f35eae", doNotHash: false, doNotCopy: false, hashAddressBar: true});</script>
 
     <!-- Google Analytics tracking code -->
@@ -69,7 +67,7 @@
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = (('https:' == document.location.protocol || true) ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -84,7 +82,7 @@
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
       js = d.createElement(s); js.id = id;
-      js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1&appId=529352797136955";
+      js.src = "https://connect.facebook.net/en_US/all.js#xfbml=1&appId=529352797136955";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>    
 
@@ -265,12 +263,6 @@
           </div>
 
         </section>
-      </div>
-      
-      <!-- Facebook Page "Like Box" -->
-      <div data-ng-hide="storymode" class="fb-like-box-holder">
-      <!--
-            -->
       </div>
 
     </div>

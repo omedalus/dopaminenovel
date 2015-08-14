@@ -145,7 +145,7 @@ Tina walked over to the Rite Aid bags and pulled out the cheap digital thermomet
 Danny made an affirmative zombie-like noise.
 </p>
 <p>
-“But keeping it there will be tricky,” Tina said. “An electric stove’s lowest setting is around 200. It’s way too hot. What we’d basically have to do is keep the pot on your range, and take shifts checking the thermometer, turning the heat on and off every few minutes to keep it near 98.6. Unless you’ve got any other suggestions.”
+“But keeping it there will be tricky,” Tina said. “An electric stove’s lowest setting is around 200. We’d have to keep the pot on your range, and take shifts checking the thermometer, turning the heat on and off every few minutes. Unless you’ve got any other suggestions.”
 </p>
 <p>
 Danny shrugged and groaned uncertainly. “Put it in a nest and sit on it?”

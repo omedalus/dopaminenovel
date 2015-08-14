@@ -12,19 +12,19 @@ echo <<<EOL
 <html lang="en-us" xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+  <base href=".." target="_self" />
 
-  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="http://underscorejs.org/underscore-min.js"></script>
+  <script src="thirdparty/jquery-1.10.2.min.js"></script>
+  <script src="thirdparty/underscore-min.js"></script>
 
-  <script src="script.js"></script>
+  <script src="api/script.js"></script>
 
   <title>Dopamine</title>
 
-  <base href="http://dopaminenovel.com" target="_self" />
   <link rel="stylesheet" type="text/css" href="css/fulltext.css" />
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="http://dopaminenovel.com/favicons/favicon.ico?v=3" />
+  <link rel="shortcut icon" href="favicons/favicon.ico?v=3" />
 
 </head>
 <body>

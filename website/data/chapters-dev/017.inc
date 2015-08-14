@@ -301,40 +301,22 @@ Julie blinked at him and shrugged dismissively. “Anyway. So, you have to fool 
 “Which means you have to mix up another batch and try again, right?” said Jason.
 </p>
 <p>
-“Over, and over, and over, and over…” said Julie. “And that’s just for <em>one</em> gene. The metabolic pathway for cocaine synthesis has about forty.”
+“Over and over,” said Julie. “And that’s just for <em>one</em> gene. The metabolic pathway for cocaine synthesis has about forty.”
 </p>
 <p>
 “Sounds very repetitive,” said Jason.
 </p>
 <p>
-“It’s mostly done by robots,” said Julie. “But the robots turn up a lot of false positives, so you have to follow up with more tests by hand. It’s super annoying and boring.”
+“It’s mostly done by robots,” said Julie. “But you always have to follow up with more tests by hand.”
 </p>
 <p>
-Jason smiled widely. “Yes. I get it now.”
+Jason smiled. “Yes. I get it now. That’s exactly the kind of task… that they’d give an intern. So the scientists ran hundreds of thousands of these batches… and you were the first one to spot a success.”
 </p>
 <p>
-Julie made a meek noise.
+Julie nodded. “It was my job to check on them. The other scientists couldn’t be bothered with something so mundane. So, yeah, when one of the batches finally produced an <em>E. coli</em> strain that was expressing all the genes in the cocaine biosynthesis pathway, I was the first to see it.”
 </p>
 <p>
-“That’s exactly the kind of task,” said Jason, “that they’d give an intern.”
-</p>
-<p>
-“Yep,” Julie said, annoyed.
-</p>
-<p>
-“So all in all, the scientists had run tens of thousands of little mini-batches in these vials…” said Jason.
-</p>
-<p>
-“Hundreds of thousands,” Julie corrected. “Hell, maybe millions.”
-</p>
-<p>
-Jason continued, “…And you were the first one to spot a success.”
-</p>
-<p>
-“It was my job to check on them,” she said. “The other scientists couldn’t be bothered with something so mundane. So, yeah, when one of the batches finally produced an <em>E. coli</em> strain that was expressing all the genes in the cocaine biosynthesis pathway, I was the first to see it.”
-</p>
-<p>
-“And you were supposed to call in the senior researchers,” Jason surmised. “But instead, you just…”
+“And you were supposed to call in the senior researchers,” Jason surmised. “But instead, you…”
 </p>
 <p>
 “Yeah,” said Julie. “I just… you know…”

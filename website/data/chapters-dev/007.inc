@@ -133,17 +133,14 @@
 </div>
 
 <div class="message messagein">
-  its a flower!
-</div>
-<div class="message messagein">
-  little yellow fuzzy flower.
+  a flower!
 </div>
 <div class="message messagein">
   i made him a bracelet out of them. :)
 </div>
 
 <div class="message messageout">
-  Let me guess. It's a charm, right? 
+  Let me guess. It's a charm? 
 </div>
 
 <div class="message messagein">
@@ -175,7 +172,7 @@
   you think THATS the strangest thing theyve ever heard? :)
 </div>
 <div class="message messagein">
-  anyway, the magick comes not from the bracelet, but from the mind of the wearer. the mullein is just a lens for the wearer to focus their own innate power for self-healing.
+  anyway, the magick comes not from the bracelet, but from the mind of the wearer. the mullein is just a lens for the wearer to focus their innate power for self-healing.
 </div>
 <div class="message messagein">
   think of the placebo effect. Its "imaginary" but the results are real.
@@ -192,28 +189,28 @@
   its taking something in your mind, that you imagine, and making your imagination manifest in the real world.
 </div>
 <div class="message messagein">
-  and THAT, dear t, is magick. ;)
+  and THAT, is magick. ;)
 </div>
 
 <div class="message messageout">
   Ok, speaking of things you imagine actually being real.
 </div>
 <div class="message messageout">
-  That camera totally moved again.
+  That camera moved again.
 </div>
 <div class="message messageout">
-  I swear I'm not seeing things!
+  I'm not seeing things!
 </div>
 
 <div class="message messagein">
-  ok ok i believe u :)
+  ok i believe u :)
 </div>
 <div class="message messagein">
-  is it unusual? Maybe they adjust themselves at night or something.
+  is it unusual? Maybe they adjust themselves at night.
 </div>
 
 <div class="message messageout">
-  I... honestly don't know?
+  I... don't know?
 </div>
 <div class="message messageout">
   I've worked late before but I've never really paid attention.

@@ -162,40 +162,37 @@ It wasn’t exactly an Employee of the Year award, but Tina knew it was the clos
 The rest of the emails were pure spam. Several solicitations from some web design company called Prismatic Creations cluttered her inbox, each with a big colorful logo plastered across the top of the message. They gave some spiel about updating Tungsten’s “corporate identity” to give the company a fresh look-and-feel to better resonate with today’s competitive blah blah blah. After reading one, she deleted them without a second thought.
 </p>
 <p>
-With her inbox clear, she un-minimized her Facebook window. Her friend Natalie had posted some photos of a homemade dreamcatcher that she’d apparently woven from her own hair. Tina gave her scrollwheel a few flicks, and quickly sank into a status-update-reading trance. Seconds or hours drifted mindlessly by.
+With her inbox clear, she un-minimized her Facebook window. Her friend Natalie had posted some photos of a dreamcatcher that she’d woven from her own hair. Tina gave her scrollwheel a flick, and sank into a status-update-reading trance. Seconds or hours drifted mindlessly by.
 </p>
 <p>
-When duty finally called again, it took the form of a FedEx man appearing on the other side of the outer glass door. He carried a cardboard box the size of a suitcase. She buzzed him in, making a small green light just above the front door card-reader pop on for a few seconds.
+When duty called again, it took the form of a FedEx man carrying a cardboard box the size of a suitcase. A small green light above the front door card-reader lit up as she buzzed him in. The package was from Newegg.com. It was addressed to Roger Tanner.
 </p>
 <p>
-The deliveryman dropped off the box on the floor next to her desk. It was from Newegg.com, and was addressed to Roger Tanner.
+Tina cringed, and felt the taste of sour milk welling up in her throat.
 </p>
 <p>
-Tina cringed. Her throat filled with a taste like sour milk.
+She picked up her iPhone and willed her fingers to type out, “<span class="computer">Roger. Package for u. Come get.</span>” 
 </p>
 <p>
-She reluctantly picked up her iPhone and willed her fingers to type out, “<span class="computer">Roger. Package for u. Come get.</span>” 
+She spent the next several minutes staring at the box, trying to wish it away.
 </p>
 <p>
-She knew he would come in the next several minutes. She spent those minutes staring at the freshly arrived package, trying to wish it away.
+A raucous conversation from the hallway announced Roger’s arrival. Through the glass, she saw Roger’s tall, lean-muscled form striding toward the lobby, accompanied by two older men. Framed by his spiky hair and narrow black-framed glasses, his face wore its usual self-satisfied smirk. He opened the door with a long, sinewy arm adorned with Celtic sleeve tattoos, and sauntered in. 
 </p>
 <p>
-A raucous conversation from the hallway beyond the interior door foretold his arrival. Tina turned to look. Through the glass, she saw Roger’s tall, lean-muscled form striding toward the lobby, accompanied by two older men. Framed by his spikey hair and narrow black-framed glasses, his face bore a confident, self-satisfied smirk as he bantered with them. He opened the door with a long, sinewy arm adorned with Celtic sleeve tattoos, and casually entered. 
+“I didn’t say <em>a word</em>! That’s the whole point!” he said cheerfully.
 </p>
 <p>
-“I didn’t say <em>a word</em>! That’s the whole point!” he said cheerfully to his companions as he sauntered through the door.
+“What, like, not even ‘Hi?’” asked one of the men. He sported a neatly-trimmed beard and a lab coat. “You just walked up to her out of the blue and, <em>bam!</em>, start making out?”
 </p>
 <p>
-“What, like, not even ‘Hi?’” said one of the men beside him. He sported a neatly-trimmed beard and a lab coat. “You just walked up to her out of the blue and just, bam, the two of you start making out?”
+“It wasn’t out of the blue,” said Roger. “We’d been eyeing each other across the bonfire for like ten minutes. We both knew what was up.” His eyes landed on the package beside Tina’s desk. He pulled a jingling keychain out of his back pocket and squatted beside the box. “She was there at the beach with a bunch of her friends,” he continued as he carved the cardboard open with a key, “and we were all sitting around the fire. Alki Beach gets kinda cold at night, you know, and this little blonde was wearing, like, <em>nothing</em> &mdash; a bikini bottom and half of a white t-shirt, right? Anyway, some guy was playing Spanish guitar, and we were passing a joint around… I’m telling you, you guys have <em>got</em> to come out to Alki one of these nights.”
 </p>
 <p>
-“It wasn’t out of the blue,” said Roger. “We’d been eyeing each other across the bonfire for like ten minutes. We both knew what was up.” His eyes landed on the package beside Tina’s desk. He pulled a jingling keychain out of his back pocket and squatted beside the box. “She was there at the beach with a bunch of her friends,” he continued as he carved the cardboard open with a key, “and we were all in the crowd around the fire. Alki Beach actually gets kinda cold at night, you know, and this little blond thing was wearing, like, <em>nothing</em> &mdash; like, a bikini bottom and half of a white t-shirt, right? Anyway, there was some guy on a bench nearby playing Spanish guitar, and someone was passing a joint around… I’m telling you, you guys have <em>got</em> to come out to Alki one of these nights.”
+The other man, heavy-set and sloppily dressed, smiled. “We’re both married men, Roger. But it’s nice to see you kids having fun.”
 </p>
 <p>
-The other man smiled warmly. He was heavy-set and sloppily dressed. “We’re both married men, Roger. But it’s nice to see you kids having fun.”
-</p>
-<p>
-With the box’s tape finally undone, Roger flipped open the top and reached inside with both hands. In a flurry of Styrofoam packing peanuts that drizzled all over Tina’s floor, he withdrew a dense black cube, slightly larger than a desktop computer and lined with slots, lights, and sockets. 
+With the box’s tape finally undone, Roger flipped open the top and reached inside with both hands. In a flurry of Styrofoam packing peanuts, he withdrew a dense black cube, slightly larger than a desktop computer and lined with slots, lights, and sockets. 
 </p>
 <p>
 The man in the white coat asked, “Is that the big fancy hard drive you’ve been promising us?”
@@ -207,97 +204,91 @@ Roger nodded excitedly as he examined the equipment. “It’s a forty-terabyte 
 The trim-bearded biologist nodded. “How soon can you connect it to the network?” 
 </p>
 <p>
-Roger stood up with the device in his hands. “I’ll set up the NAS this afternoon. But whether any of your weird-ass mad scientist toys can talk to it or not… Well, that’s up to Don here, right?”
+Roger stood up, cradling the device. “I’ll set up the NAS this afternoon. But whether any of your weird-ass mad scientist toys can talk to it or not… Well, that’s up to Don here.”
 </p>
 <p>
-The heavy-set man gave a salute-like gesture. “I’ll get my boys setting up NFS support on the robot controllers as soon as that thing’s ready.”
+The heavy-set man saluted. “I’ll get my boys setting up NFS support on the robot controllers as soon as that thing’s ready.”
 </p>
 <p>
-The biologist added with a chuckle, “Forty terabytes. Try not to fill it up with pictures of your girlfriends, Roger, okay?”
+The biologist chuckled, “Forty terabytes. Try not to fill it up with pictures of your girlfriends, Roger, okay?”
 </p>
 <p>
-Roger enthusiastically replied, “Oh! Speaking of…!” He set the RAID down on a corner of Tina’s desk, and pulled out his cellphone. He tapped its screen a few times and said, “This is the little hottie from the beach last night.”
+“Oh! Speaking of…!” Roger set the RAID down on a corner of Tina’s desk, and pulled out his cellphone. He tapped its screen a few times and said, “This is the little hottie from the beach last night.”
 </p>
 <p>
-The other two men gathered around the small screen and gave approving nods. “She’s a knockout, alright,” said the equipment technician. “What’s her name?”
+The other two men gathered around the small screen. “She’s a knockout, alright,” said the technician. “What’s her name?”
 </p>
 <p>
-“Oh, fuck if I know, man! Carrie? Kelly? Carley? Something like that.” He flipped through some more photos.
+“Oh, fuck if I know, man! Carrie? Kelly? Carley? Something like that.” He flipped through more photos.
 </p>
 <p>
-The technician commented, “Check it out. She’s got that thing with her fingernails…” He wiggled his own nicotine-stained fingers. “What’s it called? Where just the tips are white? There’s a word for it…” The three of them looked back and forth at one another and shrugged.
+“Check it out. She’s got that thing with her fingernails…” The tech wiggled his own nicotine-stained fingers. “What’s it called? Where just the tips are white? There’s a word for it…”
 </p>
 <p>
-Tina’s gaze remained unbroken from her screen. She had shrunken progressively farther down in her chair as the conversation had gone on; she now felt tiny enough to fit into a microplate well. Barely moving her lips, she murmured, “French manicure.”
+Tina’s gaze remained on her screen. While the men talked, she had shrunk progressively farther down in her chair, and now felt tiny enough to fit into a microplate well. “French manicure,” she murmured.
 </p>
 <p>
-“Yeah, that’s it!” the heavy-set technician said.
+“Yeah, that’s it!” the tech said.
 </p>
 <p>
-Roger glanced at her. The corners of his smirking mouth drooped by millimeters. “Hey, um, guys…” he said as he put away his cellphone. “I’ll catch up with you both later, ‘kay?”
+Roger glanced at her. His smirk waned slightly. “Hey, um, guys…” he said. “I’ll catch up with you later, ’kay?”
 </p>
 <p>
-The two other men issued Roger their temporary goodbyes and disappeared back out the same glass door that had brought them in. Roger was left alone with Tina in the lobby.
+The two men said their goodbyes and left. Roger and Tina were alone.
 </p>
 <p>
 “So…” he said, leaning awkwardly against her desk.
 </p>
 <p>
-Without making eye contact, Tina asked coldly, “Can I help you?”
+“Can I help you?” Tina asked flatly, her eyes glued to her computer.
 </p>
 <p>
-“What’s got ya down, buddy?” There was an acerbic edge to his voice.
+“What’s got ya down, buddy?” His acerbic tone belied the friendly question.
 </p>
 <p>
-Tina scowled. “‘Buddy,’” she echoed in an exasperated whisper.
+Tina scowled. “‘Buddy,’” she echoed.
 </p>
 <p>
 “Yeah, <em>buddy</em>,” Roger pressed. “You <em>said</em> you wanted to stay friends, right?”
 </p>
 <p>
-Tina glared at him. “That doesn’t mean I want to listen to your stupid player conquests. I know you must be <em>real</em> proud of yourself, but you don’t have to rub it in my face.”
+Tina glared at him. “That doesn’t mean I want to listen to your stupid player conquests. I know you’re <em>real</em> proud of yourself, but you don’t have to rub it in my face.”
 </p>
 <p>
-“Well. Friends <em>do</em> talk about stuff like that, you know,” he said with feigned nonchalance. “I mean, this would be the kind of stuff you’d gossip about with that weird fat-ass hippie friend of yours, right?”
+“Friends <em>do</em> talk about stuff like that, you know,” he said, feigning nonchalance.
 </p>
 <p>
-“Don’t stand there dissing my BFF,” Tina growled.
-</p>
-<p>
-“I’m not dissing her,” Roger said innocently. “I’m just pointing out the fact that she’s more batshit insane than all her patients put together. And if <em>she</em> got it on with a new guy, you two would chat about it, right?”
-</p>
-<p>
-Tina rolled her eyes. “Among the <em>many</em> reasons why that comparison makes absolutely no sense whatsoever, probably the most important is the fact that, when Nat talks to me, she &mdash; gasp! &mdash; takes my feelings into account! Rog, you do realize it’s barely even been a week, right? Are you so inconsiderate that you can’t think of how your little pick-up tales sound to me? Or do you just have so little respect for me that you don’t even care?”
+Tina rolled her eyes. “Rog, you do realize it’s barely even been a week, right? Are you so inconsiderate that you can’t understand how your little pick-up tales affect me? Or do you just not care?”
 </p>
 <p>
 Roger’s face puckered. “Not everything is about you, you know.”
 </p>
 <p>
-“That’s exactly the point!” Tina said, her voice rising. “You just kept chatting with your boy’s club over there as though I wasn’t right here the whole time. That’s how it always is with you. That’s how it was for the whole six months we were together. You always act like I don’t even exist except when it’s convenient for you. Think about where I’m coming from for just one goddamned second, okay? I sit at this desk every single day writing emails and answering phones, when all I want is to be valued and considered a real part of the staff. And then you come along, and I thought we vibed and maybe you could relate… But it turns out you treat me worse than anyone else here!”
+“Everything? More like, <em>nothing</em> is about me!” Tina said, her voice rising. “You just kept chatting with your boy’s club over there as though I wasn’t right here the whole time. That’s how it always is with you. That’s how it was for the whole six months we were together. The only time you act like I even exist is when it’s convenient for you. Think about where I’m coming from for just one goddamned second, okay? I sit at this desk every single day, banging out endless emails, answering phones like a fucking parrot… ‘Good afternoon! Tungsten Medical Technologies! How may I help you? May I take a message?’ Ugh! I just feel so replaceable. So <em>insignificant</em>! And then you came along, and I thought we vibed, and maybe you could relate… But you end up treating me worse than anyone else here!”
 </p>
 <p>
-Roger’s brow furrowed above his glasses. “Really, T? You’re going to use me as a dumping-ground for all your bullshit frustrations about work and life and whatever? You realize you have, like, <em>no</em> credibility for being mad, right? <em>You</em> broke up with <em>me</em>, T. Remember?”
+Roger’s brow furrowed above his glasses. “Really, T? You’re going to use me as a dumping-ground for all your bullshit frustrations about work and life and whatever? You realize you have, like, <em>zero</em> credibility for being mad, right? <em>You</em> broke up with <em>me</em>, remember?”
 </p>
 <p>
-“<em>I</em> broke up with <em>you</em>? <em>You</em> said you wanted to see other people!” Tina fired back. Her voice had a shake that was half laughter, half whimper. “As a matter of fact, it turned out you’d already <em>been</em> seeing other people!”
+“<em>I</em> broke up with <em>you</em>? <em>You</em> said you wanted to see other people!” Tina fired back. “As a matter of fact, it turned out you’d already <em>been</em> seeing other people!”
 </p>
 <p>
-“I was just saying we should have an open relationship,” Roger said with a guiltless tone. “You’re the one that decided that you wouldn’t be down for it. So I really don’t see where you think you have the right to be upset about anything.”
+“I was just saying we should have an open relationship,” Roger said. “You’re the one that wasn’t down for it. So I really don’t see where you think you have the right to be upset.”
 </p>
 <p>
-Tina gulped down bile. “You… ‘really don’t see…’?” she repeated incredulously. “Seriously, Rog? Are you genuinely that oblivious to the possibility that you might not be the only person in the universe? Or are you just being obtuse?”
+Tina gulped down bile. “You… ‘really don’t see…’?” she repeated incredulously. “Seriously, Rog? Even you can’t be that obtuse.”
 </p>
 <p>
-Roger said slowly, punctuating with his hands, “Okay, look. I am not a mind-reader. So when I say that I have no idea where you get off being so pissed about a relationship that <em>you</em> ended, it’s <em>not</em> because I’m being ‘obtuse’. It’s because <em>you</em> aren’t making any sense. It’s because <em>you</em> are failing to <em>communicate</em>. And like you said, your <em>whole job</em> is to sit here and talk to people on the phone all day, so you’d think you’d know how to at least do <em>that</em>.”
+Roger said slowly, punctuating with his hands, “I am not a mind-reader. So when I say that I have no idea where you get off being so pissed about a relationship that <em>you</em> ended, it’s <em>not</em> because I’m being ‘obtuse’. It’s because <em>you</em> aren’t making any sense. It’s because <em>you</em> are failing to <em>communicate</em>. And like you said, your <em>whole job</em> is to sit here and talk to people on the phone all day, so you’d think you’d know how to at least do <em>that</em>.”
 </p>
 <p>
 Tina’s mind blanked with anger. She couldn’t begin to count the number of dimensions on which Roger’s comment hurt.
 </p>
 <p>
-Her iPhone was the only small, hard object within arm’s reach. She grabbed it and flung it at his stupid asshole face. 
+She grabbed her iPhone and flung it at his stupid asshole face. 
 </p>
 <p>
-The iPhone cracked the left lens of his glasses on impact. She turned away from him with arms crossed tightly over her chest, her breathing uneven as she fought back tears. “Roger,” she said, struggling to keep her voice steady through the lump forming in her throat, “take your box and get the fuck out of my lobby.”
+A lens of his glasses cracked on impact. She turned away from him, her arms crossed tightly over her chest. She could feel her jagged breaths pounding against her ribcage.“Roger,” she said, struggling to keep her voice steady through the lump in her throat, “take your box and get the fuck out of my lobby.”
 </p>
 </div>
 

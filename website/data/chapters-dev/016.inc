@@ -3,16 +3,16 @@
 <span class="caplead">Once upon a time, there stood a mighty city</span> of alabaster towers and golden spires. Envious of its majesty, an unscrupulous warlord from Byzantium cast covetous eyes upon it. 
 </p>
 <p>
-And so, one night, the city’s watchmen saw the westward mountainsides speckled with campfires. The next day, the dust of marching boots clouded the sun, and the rumble of advancing footfall shook the gilding of the city’s temples. Trebuchets were unpacked upon hilltops. An immense army of iron-helmed soldiers stood beneath towering war machines. The Byzantine General called out and demanded unconditional surrender.
+And so, one night, the city’s watchmen saw the westward mountainsides speckled with campfires. The next day, the dust of marching boots clouded the sun, and the rumble of advancing footfall shook the gilding of the city’s temples. Trebuchets were unpacked upon hilltops. An immense army stood beneath towering war machines. The Byzantine General called out and demanded unconditional surrender.
 </p>
 <p>
-In response, a city herald shouted to the invaders to go home and save themselves.
+A city herald shouted to the invaders to go home and save themselves.
 </p>
 <p>
 For, in truth, many times had this city known war, but never had it fallen. Its marble walls were strong, but the city’s true defenses rested in a unique weapon: a corps of elite spies. Armed solely with subterfuge, these cunning operatives crushed entire armies without firing a single arrow.
 </p>
 <p>
-The spies’ methods were surprisingly simple: when attacked, they disguised themselves as the attacker’s messengers and pages, and fed a General and his lieutenants false battlefield reports, causing the enemy’s troops to maneuver straight into traps. Sometimes, they bribed key lieutenants to betray their General at pivotal moments in the battle, thus transforming a rear guard or flank defense into a scythe which, by surprise and position, slaughtered entire legions of the enemy’s own troops. Often, the spies would even combine these techniques to devastating effect &mdash; convincing a General that a lieutenant had been bribed, thus tricking him into ordering an execution of still-loyal men; or sending two lieutenants conflicting orders, telling them each that the other was compromised and in need of dispatching, leaving their General helpless to stop the slaughter.
+The spies’ methods were simple: when attacked, they disguised themselves as the attacker’s messengers and pages, and fed a General and his lieutenants false battlefield reports, causing the enemy to maneuver straight into traps. Sometimes, they bribed key lieutenants to betray their General, thus transforming a rear guard or flank defense into a scythe which, by surprise and position, slaughtered entire legions of the enemy’s own troops. Often, the spies would even combine these techniques to devastating effect &mdash; convincing a General that a lieutenant had been bribed, thereby tricking him into executing still-loyal men; or sending two lieutenants falsified orders, telling each that the other was compromised and in need of dispatching, leaving the General to helplessly watch two of his own companies slaughter each other with no way to tell who, if anyone, had truly defected.
 </p>
 <p>
 The Byzantine General knew the danger. He nonetheless vowed to attack at dawn, and withdrew to his tent.
@@ -21,7 +21,7 @@ The Byzantine General knew the danger. He nonetheless vowed to attack at dawn, a
 There he sat, deep in thought, devising a battle plan. It would have to operate over a network of untrustworthy pages. It would have to account for the possibility of treason, yet remain resilient against false alarms. And above all else, it had to end in victory.
 </p>
 <p>
-Fortunately, the Byzantine General had a PDF of an article by Lamport, Shostak, and Pease in the July 1982 issue of <em>Transactions on Programming Languages and Systems</em> by the Association for Computing Machinery. He implemented a recursive distributed vote-driven decision algorithm that remained robust up to a maximum traitor count of <em>t</em> &lt; <em>n</em>/3. The city crumbled before him. Its gold was plundered, its fields were sown with salt, and its name was erased from history. The end.
+Fortunately, the Byzantine General had a PDF of an article by Lamport, Shostak, and Pease in the July 1982 issue of <em>Transactions on Programming Languages and Systems</em> by the Association for Computing Machinery. He implemented a recursive distributed vote-driven decision algorithm that remained robust up to a maximum traitor count of <em>t</em> &lt; <em>n</em>/3. The city crumbled before him, its gold was plundered, and its name was erased from history. The end.
 </p>
 
 <hr/>

@@ -1,39 +1,27 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Once upon a time, there stood a mighty city</span> of alabaster towers and golden spires. Envious of its majesty, an unscrupulous warlord from Byzantium cast covetous eyes toward its troves of wealth. 
+<span class="caplead">Once upon a time, there stood a mighty city</span> of alabaster towers and golden spires. Envious of its majesty, an unscrupulous warlord from Byzantium cast covetous eyes upon it. 
 </p>
 <p>
-Many times had this city known war, but never had it fallen. Its marble walls were strong, but the city’s true defenses rested in a unique weapon: a corps of elite spies. Armed solely with subterfuge, these cunning warriors crushed entire armies without firing a single arrow. 
-</p>
-<p>
-And so, one night, the city’s watchmen saw the westward mountainsides speckled with thousands of campfires. The next day, the dust of many tens of thousands of marching boots clouded the sun over the surrounding fields, and the rumble of their advancing footfall shook the gilding of the city’s temples. The wooden forms of great siege engines crested the gentle bluffs near the gates, and trebuchets were unpacked upon hilltops. An immense army of iron-helmed soldiers stood menacingly in the thick dusty air around the city walls beneath the tall angular shapes of towering war machines. This army’s General, the Byzantine lord, called out and demanded unconditional surrender.
+And so, one night, the city’s watchmen saw the westward mountainsides speckled with campfires. The next day, the dust of marching boots clouded the sun, and the rumble of advancing footfall shook the gilding of the city’s temples. Trebuchets were unpacked upon hilltops. An immense army of iron-helmed soldiers stood beneath towering war machines. The Byzantine General called out and demanded unconditional surrender.
 </p>
 <p>
 In response, a city herald shouted to the invaders to go home and save themselves.
 </p>
 <p>
-The Byzantine General vowed to attack at dawn, and withdrew to his bivouac to plan the assault.
+For, in truth, many times had this city known war, but never had it fallen. Its marble walls were strong, but the city’s true defenses rested in a unique weapon: a corps of elite spies. Armed solely with subterfuge, these cunning operatives crushed entire armies without firing a single arrow.
 </p>
 <p>
-And the city mobilized its spies, who eagerly began their work of precise destruction.
+The spies’ methods were surprisingly simple: when attacked, they disguised themselves as the attacker’s messengers and pages, and fed a General and his lieutenants false battlefield reports, causing the enemy’s troops to maneuver straight into traps. Sometimes, they bribed key lieutenants to betray their General at pivotal moments in the battle, thus transforming a rear guard or flank defense into a scythe which, by surprise and position, slaughtered entire legions of the enemy’s own troops. Often, the spies would even combine these techniques to devastating effect &mdash; convincing a General that a lieutenant had been bribed, thus tricking him into ordering an execution of still-loyal men; or sending two lieutenants conflicting orders, telling them each that the other was compromised and in need of dispatching, leaving their General helpless to stop the slaughter.
 </p>
 <p>
-The spies learned very quickly that the Byzantine General communicated with his lieutenants through a network of dozens of pages, who sped across the battlefield on horseback delivering orders. It would be trivial to disguise a few defenders as pages and send his lieutenants false commands. The General’s control of his own army was at their mercy.
+The Byzantine General knew the danger. He nonetheless vowed to attack at dawn, and withdrew to his tent.
 </p>
 <p>
-The spies also learned that the Byzantine General didn’t trust his lieutenants, who were all as avaricious and opportunistic as he. He believed that the agents of the city would try to bribe his lieutenants, and any number of such attempts might prove successful. He knew, therefore, that he had to prepare not only to fight the forces of the city, but possibly to fight legions of his own army. Any rear guard, any flank defense, could turn against him at any moment. The Byzantine General knew he had to be prepared to handle such an eventuality swiftly and decisively.
+There he sat, deep in thought, devising a battle plan. It would have to operate over a network of untrustworthy pages. It would have to account for the possibility of treason, yet remain resilient against false alarms. And above all else, it had to end in victory.
 </p>
 <p>
-Yet he also knew that the city’s spies would try to exploit his paranoia. He knew that they would try to convince him that a loyal legion had turned treacherous, thus tricking him into butchering his own men over a lie.
-</p>
-<p>
-The Byzantine General sat in his tent, deep in thought, devising a battle plan unlike any in the history of war. It would have to keep working even over a network of pages that could be hijacked at any point. It would have to function even in the face of internal sabotage, yet remain resilient against a false alarm. And above all else, it had to end in victory.
-</p>
-<p>
-He sat in his tent, deep in thought.
-</p>
-<p>
-Fortunately, the Byzantine General had read the solutions put forth by Lamport, Shostak, and Pease in the July 1982 issue of <em>Transactions on Programming Languages and Systems</em> by the Association for Computing Machinery. He implemented a recursive distributed vote-driven decision algorithm that remained robust up to a maximum traitor count of <em>t</em> &lt; <em>n</em>/3. The city crumbled before him. Its gold was plundered, its fields were sown with salt, and its name was erased from history. The end.
+Fortunately, the Byzantine General had a PDF of an article by Lamport, Shostak, and Pease in the July 1982 issue of <em>Transactions on Programming Languages and Systems</em> by the Association for Computing Machinery. He implemented a recursive distributed vote-driven decision algorithm that remained robust up to a maximum traitor count of <em>t</em> &lt; <em>n</em>/3. The city crumbled before him. Its gold was plundered, its fields were sown with salt, and its name was erased from history. The end.
 </p>
 
 <hr/>
@@ -42,13 +30,13 @@ Fortunately, the Byzantine General had read the solutions put forth by Lamport, 
 “Wait, <em>what</em>?” said Jason.
 </p>
 <p>
-“Yeah, I know,” said Danny. “A recursive voting system sounds seriously inefficient, right? But you can distribute the recursion! The runtime is actually a mere O-of-n-log-n. And with public-key encryption and a good certificate revocation scheme, you can have linear runtime and tolerance against an arbitrary number of traitors. Pretty cool, huh?”
+“Yeah, I know,” said Danny. “A recursive voting system sounds seriously inefficient, right? But you can distribute the recursion! The runtime is just O-of-n-log-n, which improves to linear if you use public-key encryption and a good certificate revocation scheme. Pretty cool, huh?”
 </p>
 <p>
 Jason shook his head. “I think you lost me somewhere between ‘trebuchet’ and ‘algorithm’.”
 </p>
 <p>
-“It’s an extended metaphor,” said Danny. “A mental model for how we should design networked computer systems. We learn about it in graduate seminars on distributed computing. The pageboys are like network connections, the lieutenants are like nodes, and the battle plan is a computer program.”
+“It’s an extended metaphor,” Danny explained. “We learn about it in graduate seminars on distributed computing. The pageboys are like network connections, the lieutenants are like nodes, and the battle plan is a computer program.”
 </p>
 <p>
 “And the spies are hackers, right?” Jason said.
@@ -66,16 +54,10 @@ Jason shook his head. “I think you lost me somewhere between ‘trebuchet’ a
 “What do you mean?” Jason said. “The city’s got to represent something.”
 </p>
 <p>
-“Probably,” said Danny. “But the city’s not important in the analogy.”
+“The city’s not important,” said Danny. “The battle plan is. That’s the part with the math.”
 </p>
 <p>
-“The city’s not important? It’s the whole point of the invasion!”
-</p>
-<p>
-“The battle plan is the important part,” Danny countered. “That’s the part with the math.”
-</p>
-<p>
-Jason laughed at him. “A fat lot of good a battle plan does you if you don’t know what you’re fighting for.”
+Jason laughed at him. “The city’s the whole point of the invasion! A fat lot of good a battle plan does you if you don’t know what you’re fighting for.”
 </p>
 <p>
 “I think you’re missing the point of the analogy.”

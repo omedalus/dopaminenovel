@@ -1,15 +1,12 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Once upon a time, there stood a beautiful city</span> of alabaster towers and golden spires, known throughout the world for its wondrous riches. 
+<span class="caplead">Once upon a time, there stood a mighty city</span> of alabaster towers and golden spires. Envious of its majesty, an unscrupulous warlord from Byzantium cast covetous eyes toward its troves of wealth. 
 </p>
 <p>
-And one day, an unscrupulous lord of the neighboring Byzantine Empire cast his covetous eyes toward the city and its troves of wealth. 
+Many times had this city known war, but never had it fallen. Its marble walls were strong, but the city’s true defenses rested in a unique weapon: a corps of elite spies. Armed solely with subterfuge, these cunning warriors crushed entire armies without firing a single arrow. 
 </p>
 <p>
-Many times through its history had this city known war, and never had it fallen. The city’s marble walls were strong, but the city’s true defenses rested in a unique weapon: a small corps of elite spies. This cunning team of subversive warriors was capable of bringing armies to their knees without ever letting loose a single ballista bolt. 
-</p>
-<p>
-And so it came to pass one night that the city’s watchmen saw the face of the distant westward mountains aglow with the speckled lights of thousands of campfires. The next day, the dust of many tens of thousands of marching boots clouded the sun over the land’s fertile fields, and the rumbling crescendo of their advancing footfall shook the gilding of the city’s temples. The wooden forms of great siege engines crested the gentle bluffs near the gates, and trebuchets were unpacked upon hilltops. An immense army of iron-helmed soldiers stood menacingly in the thick dusty air around the city walls beneath the tall angular shapes of towering war machines. This army’s General, the Byzantine lord, called out and demanded unconditional surrender.
+And so, one night, the city’s watchmen saw the westward mountainsides speckled with thousands of campfires. The next day, the dust of many tens of thousands of marching boots clouded the sun over the surrounding fields, and the rumble of their advancing footfall shook the gilding of the city’s temples. The wooden forms of great siege engines crested the gentle bluffs near the gates, and trebuchets were unpacked upon hilltops. An immense army of iron-helmed soldiers stood menacingly in the thick dusty air around the city walls beneath the tall angular shapes of towering war machines. This army’s General, the Byzantine lord, called out and demanded unconditional surrender.
 </p>
 <p>
 In response, a city herald shouted to the invaders to go home and save themselves.

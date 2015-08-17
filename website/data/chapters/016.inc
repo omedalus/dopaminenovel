@@ -1,9 +1,9 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Once upon a time, there stood a mighty city</span> of alabaster towers and golden spires. Envious of its majesty, an unscrupulous warlord from Byzantium cast covetous eyes upon it. 
+<span class="caplead">Once upon a time, there stood a mighty city</span> of alabaster towers and golden spires. Envious of its majesty, a warlord from Byzantium cast his covetous eye upon it. 
 </p>
 <p>
-And so, one night, the city’s watchmen saw the westward mountainsides speckled with campfires. The next day, the dust of marching boots clouded the sun, and the rumble of advancing footfall shook the gilding of the city’s temples. Trebuchets were unpacked upon hilltops. An immense army stood beneath towering war machines. The Byzantine General called out and demanded unconditional surrender.
+And so it came to pass that the city’s watchmen saw the dust of marching boots rise above the surrounding farmland. Temples and palaces trembled from the rumble of advancing footfall. Thousands of iron-helmed soldiers encircled the city. Trebuchets were erected upon hilltops, and battering rams hoisted to the gates. The Byzantine General called out a demand for unconditional surrender.
 </p>
 <p>
 A city herald shouted to the invaders to go home and save themselves.
@@ -12,16 +12,16 @@ A city herald shouted to the invaders to go home and save themselves.
 For, in truth, many times had this city known war, but never had it fallen. Its marble walls were strong, but the city’s true defenses rested in a unique weapon: a corps of elite spies. Armed solely with subterfuge, these cunning operatives crushed entire armies without firing a single arrow.
 </p>
 <p>
-The spies’ methods were simple: when attacked, they disguised themselves as the attacker’s messengers and pages, and fed a General and his lieutenants false battlefield reports, causing the enemy to maneuver straight into traps. Sometimes, they bribed key lieutenants to betray their General, thus transforming a rear guard or flank defense into a scythe which, by surprise and position, slaughtered entire legions of the enemy’s own troops. Often, the spies would even combine these techniques to devastating effect &mdash; convincing a General that a lieutenant had been bribed, thereby tricking him into executing still-loyal men; or sending two lieutenants falsified orders, telling each that the other was compromised and in need of dispatching, leaving the General to helplessly watch two of his own companies slaughter each other with no way to tell who, if anyone, had truly defected.
+The spies’ methods were simple: when under siege, they disguised themselves as the attacker’s messengers and pages, and fed a General and his lieutenants false battlefield reports, causing the enemy to maneuver into traps. Sometimes, they bribed key lieutenants to betray their General, thus transforming a rear guard or flank defense into a scythe which, by surprise and position, reaped entire legions of the enemy’s own troops. Often, the spies would combine these techniques to devastating effect &mdash; convincing a General that a lieutenant had been bribed, thereby tricking him into executing loyal men; or sending two lieutenants falsified orders, telling each that the other was compromised and in need of dispatching, leaving the General to watch helplessly as two of his own companies slaughtered each other with no way to tell who, if anyone, had truly defected.
 </p>
 <p>
 The Byzantine General knew the danger. He nonetheless vowed to attack at dawn, and withdrew to his tent.
 </p>
 <p>
-There he sat, deep in thought, devising a battle plan. It would have to operate over a network of untrustworthy pages. It would have to account for the possibility of treason, yet remain resilient against false alarms. And above all else, it had to end in victory.
+There he sat, deep in thought, devising a battle plan. It had to operate over a network of untrustworthy pages. It had to account for possible treason, yet remain resilient against false alarms. And above all else, it had to end in victory.
 </p>
 <p>
-Fortunately, the Byzantine General had a PDF of an article by Lamport, Shostak, and Pease in the July 1982 issue of <em>Transactions on Programming Languages and Systems</em> by the Association for Computing Machinery. He implemented a recursive distributed vote-driven decision algorithm that remained robust up to a maximum traitor count of <em>t</em> &lt; <em>n</em>/3. The city crumbled before him, its gold was plundered, and its name was erased from history. The end.
+Fortunately, the Byzantine General had downloaded a PDF of an article by Lamport, Shostak, and Pease in the July 1982 issue of <em>Transactions on Programming Languages and Systems</em> by the Association for Computing Machinery. He implemented a recursive distributed vote-driven decision algorithm that remained robust up to a traitor count of <em>t</em> &lt; <em>n</em>/3. The city was razed, its gold was plundered, and its name was erased from history. The end.
 </p>
 
 <hr/>
@@ -36,7 +36,7 @@ Fortunately, the Byzantine General had a PDF of an article by Lamport, Shostak, 
 Jason shook his head. “I think you lost me somewhere between ‘trebuchet’ and ‘algorithm’.”
 </p>
 <p>
-“It’s an extended metaphor,” Danny explained. “We learn about it in graduate seminars on distributed computing. The pageboys are like network connections, the lieutenants are like nodes, and the battle plan is a computer program.”
+“It’s an extended metaphor,” Danny explained. “We learn about it in graduate seminars on network security. The pageboys are network connections, the lieutenants are nodes, and the battle plan is a distributed computer program.”
 </p>
 <p>
 “And the spies are hackers, right?” Jason said.

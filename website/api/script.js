@@ -66,6 +66,11 @@ $(document).ready(function() {
     setTimeout(function() { isUpdating = false; }, 100);
   };
 
+  var updateMturk = function(iparagraph) {
+    if (typeof loadNextMturkFeedback === 'function') {
+      loadNextMturkFeedback(iparagraph);
+    }
+  }
   
   var setHashToCurrentTopParagraph = function() {
     if (isUpdating) {
@@ -76,9 +81,7 @@ $(document).ready(function() {
     var iparagraph = findTopParagraph();
     location.hash = 'p=' + iparagraph;
     
-    if (typeof loadNextMturkFeedback === 'function') {
-      loadNextMturkFeedback(iparagraph);
-    }
+    updateMturk(iparagraph);
   };
   
   var scrollToParagraph = function(iparagraph) {
@@ -123,6 +126,8 @@ $(document).ready(function() {
         var numWordsToHighlight = parseInt(hashparams.h);
         highlightParagraphs(iparagraph, numWordsToHighlight);
       }
+      
+      updateMturk(iparagraph);
     }
   };
   

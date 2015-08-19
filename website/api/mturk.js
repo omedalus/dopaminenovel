@@ -5,7 +5,9 @@
 // http://dopaminenovel.com/
 
 
-var loadNextMturkFeedback = function() {};
+var pidToLoad = 0;
+
+var loadNextMturkFeedback = function(pid) { pidToLoad = pid; };
 
 $(document).ready(function() {
   $('body').css('margin-right', '360px');
@@ -69,6 +71,8 @@ $(document).ready(function() {
             mturkContent.html(firstItemAbovePid.suggestion.replace("\n", "<br/><br/>"));
           }
         };
+        
+        loadNextMturkFeedback(pidToLoad);
       }).
       error(function() {
         console.log('ERROR: Could not load Mechanical Turk feedback.');

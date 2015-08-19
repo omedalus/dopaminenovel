@@ -3,13 +3,13 @@
 <span class="caplead">Krongor’s battleaxe split the orc’s skull</span> in half, spraying the cavern wall with black ichor as the creature fell lifeless at the barbarian’s feet. 
 </p>
 <p>
-Several paces ahead, Zhan quickly chanted arcane syllables. With a hand that suddenly glowed white, the wizard grabbed a nearby orc. Arcs of lightning surged through its body as its vibrato screams echoed through the cavern. The air filled with the stench of ozone and burning hair. The monster fell backward, twitching but lifeless.
+Several paces ahead, Zhan quickly chanted arcane syllables. With a hand that suddenly glowed white, the wizard grabbed a nearby orc. Arcs of lightning surged through its body as its vibrato screams echoed through the cavern. The air filled with the stench of ozone and burning hair. The monster fell, twitching but lifeless.
 </p>
 <p>
-A veritable army of the foul beasts surrounded Krongor, stabbing with their serrated swords. The warrior’s axe cleaved through an orc’s torso in a single blow. Yet no sooner had the foe fallen than one of its comrades advanced to fill its place.
+A veritable army of the beasts surrounded Krongor, stabbing with serrated swords. The warrior’s axe cleaved through another orc’s torso. Yet no sooner had the foe fallen than one of its comrades advanced to fill its place.
 </p>
 <p>
-Zhan pointed toward the barbarian with splayed fingers and shouted another incantation &mdash; and in an instant, Krongor found himself engulfed in an inferno. In all directions, all Krongor could see was orange tongues of flame. The very air around him set alight, searing his lungs and singeing his hair. His skin blistered and charred.
+Zhan pointed toward the barbarian with splayed fingers and shouted another incantation &mdash; and in an instant, Krongor was engulfed in an inferno. In all directions, all Krongor could see was orange tongues of flame. The very air around him set alight, singeing his hair and blistering his skin.
 </p>
 <p>
 And just as quickly as the fire had appeared, it vanished. The cavern was silent, save for the sizzling from the burnt remains of the orcs. Amidst a circle of ashen bodies, Krongor collapsed to his knees in agony. “You idiot!” he growled.
@@ -18,7 +18,7 @@ And just as quickly as the fire had appeared, it vanished. The cavern was silent
 “I’m sorry!” cried Zhan. “They were all around you! It <em>did</em> kill them all, at least…”
 </p>
 <p>
-Thin trails of smoke still rose from the barbarian’s skin. He gritted his teeth, keeping himself conscious solely through strength of will. “Stupid blasphemous wizards! Just use your damn hocus-pocus powers to patch me up, will you?”
+Thin trails of smoke still rose from the barbarian’s flesh. He gritted his teeth, keeping himself conscious solely through strength of will. “Stupid blasphemous wizards! Just use your damn hocus-pocus to patch me up, will you?”
 </p>
 <p>
 Zhan nodded apologetically. He sat beside Krongor in a meditative pose and began whispering prayers to Eir, Goddess of Healing. The deity’s warm love reached even down into these dark pits. As he prayed, Krongor’s wounds closed and healed before his eyes.
@@ -96,7 +96,7 @@ Danny looked around. All the furniture was cleverly arranged to make the best po
 He instantly recognized the scene. He’d walked into a <em>Dungeons & Dragons</em> campaign. 
 </p>
 <p>
-“Aww Christ,” he moaned under his breath. He felt the revulsion and regret of a recovered heroin addict entering an opium den. This game, as far as Danny was concerned, was an equally egregious waste of life &mdash; a slightly more literal way to chase a dragon. “Jason,” he said, “can I talk to you?”
+“Aww Christ,” he moaned under his breath. He felt the revulsion and regret of a recovered heroin addict entering an opium den. This game, as far as Danny was concerned, was an equally egregious waste of life &mdash; a literal way to chase a dragon. “Jason,” he said, “can I talk to you?”
 </p>
 <p>
 Jason wiggled his way from the table and crossed the compartment in a few steps. He and Danny turned away from the group and spoke in whispers.
@@ -123,13 +123,13 @@ Jason replied coldly, “My ex-wife is none of your business.”
 “Your <em>characters</em> did that. In your <em>head</em>. <em>You</em> sat around a table rolling dice and scarfing Cheetos.”
 </p>
 <p>
-“Look, I know personnel management, alright?” Jason said. “What counts is whether or not you can work as a team. These guys are my comrades in arms. They’re in. Are you?”
+“Look, I know personnel management, alright?” Jason said. “What counts is whether you can work as a team. These guys are my comrades in arms. They’re in. Are you?”
 </p>
 <p>
-Danny sighed. “Yeah.” He turned to face the group. The other three men were quietly poking through rulebooks or scribbling on papers. They looked up as he approached the table. “Guys. Good to meet you all.” They waved and murmured greetings in response. “My name’s Danny. I’m the lead engineer at… um… Let’s just say I’ve overseen the demise of plenty of small companies.”
+Danny sighed. “Yeah.” He turned to face the group. The other men were poking through rulebooks or scribbling on papers. They looked up as he approached. “Guys. Good to meet you all.” They waved and murmured greetings. “My name’s Danny. I’m the lead engineer at… um… Let’s just say I’ve overseen the demise of many small companies.”
 </p>
 <p>
-He shook hands with each of them in turn.
+He shook hands with each of them.
 </p>
 <p>
 “Satish Srinivasan. I do whitebox testing and assembly optimization in Microsoft’s Xbox division.”

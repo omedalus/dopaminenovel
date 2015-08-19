@@ -33,7 +33,7 @@ The man glared at him. “If I do, will you go away?”
 “Yes.”
 </p>
 <p>
-The man said something in Russian into his headset, his tone of annoyance crossing the language barrier. He reached into his pocket and pulled out his cellphone. “Okay, give me the number.”
+The man said something in Russian into his headset, his tone of annoyance crossing the language barrier. He pulled out his cellphone. “Okay, give me the number.”
 </p>
 <p>
 “Four two five,” Jason said slowly, “Eight six five… Eight six five two? No, wait, eight six five three…”
@@ -153,7 +153,7 @@ Moshen replied, “He’s nodding Yes, Danny. He’s holding the lug wrench in o
 Danny cursed under his breath. “Guys, I’m going in. Satish, the front door, please.”
 </p>
 <p>
-The green light popped on above the card reader. Danny entered the building and hustled down the corridors toward the stockroom, keeping his cellphone pressed to his ear while carrying his contraption. Moshen’s voice guided him through the dark, unfamiliar office hallways, past rooms of strange apparatuses and doors marked with ominous warnings and hazard symbols.
+The green light popped on above the card reader. Danny entered the building and hustled down the corridors, keeping his cellphone to his ear while carrying his contraption. Moshen’s voice guided him through the dark, unfamiliar office hallways, past rooms of strange apparatuses and doors marked with ominous warnings and hazard symbols.
 </p>
 <p>
 Jason’s voice came across the air. “I’m in position, Danny.”
@@ -162,7 +162,7 @@ Jason’s voice came across the air. “I’m in position, Danny.”
 Satish said, “Mike’s pinned down. If he moves, he’ll get shot.”
 </p>
 <p>
-Danny arrived at the hallway outside the stockroom. Before him was a large metal door. Embedded in the door was a small glass window, no bigger than a person’s face, positioned just barely high enough to see through. The stockroom’s low fluorescent emergency lights made the small square of glass emit a faint sickly yellow shine at the end of the dim hallway. On the wall, a foot away from the door, was a glowing green button attached to a thin electrical cable conduit that ran up to the ceiling. The cable split off and connected to a large block that pressed up against a silvery rectangle at the top of the door &mdash; the electromagnet and armature plate of a magnetic lock system.
+Danny arrived at the hallway outside the stockroom. Before him was a large metal door. The door bore a small glass window, no bigger than a person’s face. The stockroom’s emergency lights made the small square of glass emit a faint sickly yellow shine at the end of the dim hallway. On the wall, a foot away from the door, was a glowing green button attached to a thin electrical cable conduit that ran up to the ceiling. The cable split off and connected to a large block that pressed up against a silvery rectangle at the top of the door &mdash; the electromagnet and armature plate of a magnetic lock system.
 </p>
 <p>
 Mike whispered into the call, “Moshen. You said he’s about thirty feet away from me toward the entrance, right?”
@@ -276,7 +276,7 @@ Danny stopped in mid-lunge as recognition came to him through his combat panic.
 “Mike!” Danny said with a relieved smile. He exhaled deeply. “Holy shit, I am so fucking happy to see you right now.” His head swirled as the adrenaline rush faded away. He was safe. 
 </p>
 <p>
- Danny retrieved his cellphone from the hallway floor. His gun was a little banged up &mdash; the power converter had gotten slightly dented and the row of relays had come loose from their Velcro moorings &mdash; but there didn’t seem to be any functional damage.
+ Danny retrieved his cellphone from the hallway floor. His gun was a little banged up &mdash; the power converter had gotten dented and the row of relays had come loose from their Velcro moorings &mdash; but there didn’t seem to be any functional damage.
 </p>
 <p>
 On the conference call, Jason asked, “Are you guys okay?”
@@ -285,7 +285,7 @@ On the conference call, Jason asked, “Are you guys okay?”
 “Yeah,” Danny said, dizzy. “I think I landed wrong on my shoulder. Stings a little.” He rolled his left arm around. “Seems to be okay though. No time to rest; we’ve got to get to that freezer room. This next part’s going to be tricky…”
 </p>
 <p>
-“I was thinking about that, Danny,” said Jason. “You might want to grab a lab coat, if you see one around. And a facemask. That way, you’ll &mdash;” 
+“I was thinking about that, Danny,” said Jason. “You might want to grab a lab coat, if you see one. And a facemask. That way, you’ll &mdash;” 
 </p>
 <p>
 His words were muffled by a low, thundering boom that resounded through the building. The echoes of a distant explosion rumbled down Tungsten’s corridors, permeating the walls and flooding the rooms like a thick clear syrup of sound.
@@ -309,9 +309,9 @@ Danny gasped. “Is she…”
 “Get your butts over there,” Moshen directed.
 </p>
 <p>
-Danny gulped, and exchanged a nod of affirmation with Mike. The two men set off down the hallway.
+Danny gulped, and exchanged a nod with Mike. The two men set off.
 </p>
 <p>
-Danny’s fingers twitched, subconsciously reaching for Control-S on a nonexistent keyboard. As Danny proceeded with Mike through the dim corridors, he caught himself glancing into rooms craving the sight of a prominently placed typewriter like in <em>Resident Evil</em>, or a pink audiocassette like in <em>Grand Theft Auto: Vice City</em>, or perhaps just a glowing red square like in <em>Silent Hill 2</em>. But he knew that, on this level, he would find no save-points.
+As they proceeded through the dim corridors, Danny’s fingers twitched, subconsciously reaching for Control-S on a nonexistent keyboard. He caught himself glancing into rooms craving the sight of a prominently placed typewriter like in <em>Resident Evil</em>, or a pink audiocassette like in <em>Grand Theft Auto: Vice City</em>, or perhaps just a glowing red square like in <em>Silent Hill 2</em>. But he knew that, on this level, he would find no save-points.
 </p>
 </div>

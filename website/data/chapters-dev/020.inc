@@ -129,7 +129,7 @@ She paused until he approached. Then, with a roll of her shoulders, she said in 
 He raised an eyebrow, Spock-like. “What kind of something?” 
 </p>
 <p>
-The white plastic Rite Aid bags lay at the end of the counter. Tina rifled through them, her teeth nibbling absentmindedly on her lower lip. She pulled out a white latex glove. It was turned inside-out, and twisted and knotted near the base of the digits. “Do you remember,” she asked, “when we were back at the Rite Aid, when I first saw that the bacteria had formed a biofilm? Remember I scraped out a little bit of it from the Eppendorf vial and held it in my fingers with this glove?”
+The white plastic bags lay at the end of the counter. Tina rifled through them, her teeth nibbling absentmindedly on her lower lip. She pulled out a latex glove. It was turned inside-out, and twisted and knotted near the base of the digits. “Do you remember,” she asked, “when we were back at the Rite Aid, when I first saw that the bacteria had formed a biofilm? Remember I scraped a bit of it out and held it with this glove?”
 </p>
 <p>
 Danny nodded.

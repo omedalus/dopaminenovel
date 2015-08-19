@@ -85,7 +85,7 @@ Danny let out a big yawn and said, “Cooooool.”
 Tina came around to sit next to him. “A real autoclave would suck out all the air and then blast it with pressurized steam for twenty minutes. What we’re doing here is less thorough, but hopefully it’ll get the job done. We’ll lose some water in the boiling, so the broth will be a little thicker than it’s supposed to be. But hopefully the <em>E. coli</em> will like that.”
 </p>
 <p>
-Danny folded his arms lazily on the granite countertop. He groggily said, “Yay, happy germs,” before laying his head down on his forearms and closing his eyes.
+Danny folded his arms lazily on the granite countertop. He groggily said, “Yay, happy germs,” before laying his head down and closing his eyes.
 </p>
 <p>
 Tina chuckled. “Tired?”
@@ -94,7 +94,7 @@ Tina chuckled. “Tired?”
 Danny snorted. “So tired…”
 </p>
 <p>
-“Aww.” She reached out to touch his head. Her black-polished fingernails scratched lightly at his scalp. Barely able to stay conscious as he already was, the sensation sent his mind floating off into a happy place. A soft, contented hum, almost a purr, escaped from beneath his breath…
+“Aww.” She reached out to touch his head. Her fingernails scratched lightly at his scalp. Barely able to stay conscious as he already was, the sensation sent his mind floating off into a happy place. A contented hum, almost a purr, escaped beneath his breath.
 </p>
 <p>
 A clanking, rattling noise emanated from the oven.
@@ -136,10 +136,10 @@ Danny grunted and nodded, and put his head back down.
 “The real trick,” Tina continued, “will come afterwards. See, when we take the broth out of the oven, we’ll need to cool it down just the right amount. If we put the bacteria in when the water’s still boiling, it’ll kill them. But if we let it cool all the way down to room temperature, they won’t grow. We need to find a way to keep the broth just warm enough for incubation.”
 </p>
 <p>
-Danny nodded. “And how warm is that?” he asked groggily.
+Danny nodded. “And how warm is that?” he asked.
 </p>
 <p>
-Tina walked over to the Rite Aid bags and pulled out the cheap digital thermometer. “Body temperature,” she said. “Ninety-eight point six degrees Fahrenheit.”
+Tina walked over to the bags and pulled out the digital thermometer. “Body temperature,” she said. “Ninety-eight point six degrees Fahrenheit.”
 </p>
 <p>
 Danny made an affirmative zombie-like noise.
@@ -337,16 +337,16 @@ Tina approached the counter and picked up the glove. She held one of the fingers
 “Is the crusty stuff in there?” Danny asked.
 </p>
 <p>
-“Yeah,” Tina said, and slowly walked back to the stove. The footsteps of her black shoes on his white kitchen tile punctuated the tense stillness of the air. Keeping a tight pinch on the open top of the severed latex finger, she held it near the pot. “You ready?” she asked.
+“Yeah,” Tina said, and slowly walked back to the stove. The footsteps of her black shoes on his white kitchen tile punctuated the tense stillness of the air. Keeping a pinch on the open top of the severed latex finger, she held it near the pot. “You ready?”
 </p>
 <p>
 Danny whispered thickly, “Let’s do it.”
 </p>
 <p>
-Tina inhaled sharply and held her breath, her rib cage growing expansively, her breasts stretching her white button-down shirt. 
+Tina inhaled sharply and held her breath, her rib cage expanding, her breasts stretching her white button-down shirt. 
 </p>
 <p>
-She quickly peeled back the plastic wrap and pushed the lid aside barely an inch, leaving a narrow crescent of broth momentarily exposed. With both gloved hands, she gently tapped the white latex finger. The lone yellowish-white grain tumbled out. It alighted on the water’s surface like a flake of fish food, buoyant in the salty broth.
+She quickly peeled back the plastic wrap and pushed the lid aside barely an inch, leaving a narrow crescent of broth momentarily exposed. With both gloved hands, she gently tapped the latex finger. The lone yellowish-white grain tumbled out. It alighted on the water’s surface like a flake of fish food, buoyant in the salty broth.
 </p>
 <p>
 Tina rapidly closed the cover and re-wrapped the plastic. She peeled off her gloves, and finally let herself exhale.
@@ -463,13 +463,13 @@ She then dropped to her knees before him, yanking down his pajama pants in a sin
 She pleasured him with her mouth deftly and skillfully. She looked up at him frequently with big, bright, naughty eyes. Her face, framed by her dark hair, radiated mischievous enjoyment. He caught his own hips gently thrusting to match the rhythm of her efforts, and his fingers ran through her hair as he groaned ecstatically.
 </p>
 <p>
-He pulled away long before his excitement could go supercritical. While she took her shoes and socks off of her feet, he gave the kitchen a quick, determined scan. The counter looked like it was just about the right height…
+He pulled away long before his excitement could go supercritical. While she took her shoes and socks off, he gave the kitchen a quick, determined scan. The counter looked like it was about the right height…
 </p>
 <p>
-With a sweep of his arm, Rite Aid groceries tumbled from the granite countertop and crashed onto the floor. Amino acid powder spilled across Danny’s kitchen tile. He could hardly give less of a damn.
+With a sweep of his arm, groceries tumbled from the granite countertop and crashed onto the floor. Amino acid powder spilled across Danny’s kitchen tile. He could hardly give less of a damn.
 </p>
 <p>
-Tina ran over to him on bare feet. She gave him an eager, delighted kiss, then excitedly hopped up onto the counter. 
+Tina ran over to him on bare feet. She gave him an eager kiss, then excitedly hopped up onto the counter. 
 </p>
 <p>
 Danny pulled her slacks and panties down to her ankles, relishing the sight and sensation of her long, smooth thighs, and the wet womanhood between them. 
@@ -478,7 +478,7 @@ Danny pulled her slacks and panties down to her ankles, relishing the sight and 
 With her butt on the granite countertop, in a flurry of leggy motion, she kicked the black slacks and panties away.
 </p>
 <p>
-They landed on the kitchen floor, beside the bunched-up button-down white shirt, beside the tan bra, beside the blue pajamas and the slippers and the shoes and socks that lay strewn across the tile. Beside the pile of Rite Aid groceries and improvised biotechnology equipment that now littered the floor. Beside the breadboard and the power relay and the multicolored wires that ran behind the stove and up to the stainless steel pot.
+They landed on the kitchen floor, beside the bunched-up button-down white shirt, beside the bra, beside the blue pajamas and the slippers and the shoes and socks that lay strewn across the tile. Beside the pile of Rite Aid groceries and improvised biotechnology equipment that now littered the floor. Beside the breadboard and the power relay and the multicolored wires that ran behind the stove and up to the stainless steel pot.
 </p>
 <p>
 Within the broth, the microscopic <em>E. coli</em> felt the warmth and moisture around them, and slowly awoke from their slumber. Mindless and hungry, they eagerly began partaking of the bountiful feast, ready to explore the vast new frontiers of this nutrient-filled vessel. 

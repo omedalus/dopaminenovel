@@ -57,7 +57,7 @@ He held up the circuitboard, aglow with multicolored lights and gauges.
 “I’ve got a bead on them right now,” he explained. “According to this, their radar pod is currently sweeping the area with a 5-degree beam at 2.8 gigahertz…”
 </p>
 <p>
-Danny crouched to fit his shoulder underneath the tripod-mounted HERF gun, and gingerly pulled the trigger. 
+Danny crouched to fit his shoulder underneath the tripod-mounted HERF gun, and pulled the trigger. 
 </p>
 <p>
 “…And now it’s not.”
@@ -72,7 +72,7 @@ Danny flashed him a satisfied grin.
 “The Coast Guard’s radar is down?”
 </p>
 <p>
-Danny nodded vigorously. “If by ‘down,’ you mean fried to a spark-singed crisp.”
+Danny nodded. “If by ‘down,’ you mean fried to a spark-singed crisp.”
 </p>
 <p>
 “Will they notice?”
@@ -87,7 +87,7 @@ Jason nodded. “Alright then. I’ll take her in. Slowly. You should go update 
 Danny saluted. “Aye aye, skipper!”
 </p>
 <p>
-Jason looked out at the flat expanse of water ahead, and tapped the controls of the sleek cherrywood console that comprised the helm. A vibration quaked across the body of the yacht. Water burbled behind the vessel as the motor rumbled to life.
+Jason looked out at the flat expanse of water, and tapped the controls of the sleek cherrywood console that comprised the helm. A vibration quaked across the yacht. Water burbled behind the vessel as the motor rumbled to life.
 </p>
 <p>
 Danny made his way across the topside, holding onto random yacht-parts to keep his balance. He reached the stairs to take him below deck, to the cozy wood-paneled compartment where he had first met Mike and Moshen and Satish playing <em>Dungeons &amp; Dragons</em> just the previous day.
@@ -180,7 +180,7 @@ Danny replied, “Communications officer.”
 “Which means…?” she repeated.
 </p>
 <p>
-“Well, see,” Danny explained, “the Gallante’s phone switch plugs into a Cisco VOIP telephony system, which Mike should be able to get command of. And their security guards have walkie-talkies that use a trunked P25 digital radio system with an RTP cross-bridge, which Satish will probably be able to take over. What this means is that we can route all voice traffic &mdash; incoming, outgoing, and internal &mdash; to a SIP user agent on your terminal. And your professional experience coordinating Skype teleconferences gives you the best mastery of Skype meeting controls out of all of us…”
+“The Gallante’s phone switch plugs into a Cisco VoIP system,” Danny explained, “which Mike should be able to get command of. And their security guards have walkie-talkies that use a trunked P25 digital radio system with an RTP cross-bridge, which Satish will probably be able to take over. We can route all voice traffic &mdash; incoming, outgoing, and internal &mdash; to a SIP user agent on your terminal. And your professional experience coordinating Skype teleconferences gives you the best mastery of Skype meeting controls out of all of us…”
 </p>
 <p>
 “<em>Which means…?</em>”
@@ -198,7 +198,7 @@ She glared at him with a gaze so cold that her image almost began frosting the s
 “I hate you so much right now,” she said.
 </p>
 <p>
-He looked away sheepishly. “I… I know…”
+He looked away meekly. “I know…”
 </p>
 <p>
 Without warning, the low rumble of the yacht’s engines cut out. Footsteps sounded from above. Through the portholes, Danny could see Jason walking along the deck, dragging ropes to secure the yacht to the dock.

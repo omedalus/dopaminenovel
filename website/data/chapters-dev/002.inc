@@ -99,10 +99,10 @@ Danny took the hint. As he escaped the room, he heard Brent resume the presentat
 
 <div class="chapsection">
 <p>
-<span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. Danny gazed at it, mesmerized. It glowed with a shade of red just slightly deeper than the visible spectrum. Infrared. Every object in the universe emitted black-body radiation with a brightness and color determined by its temperature. Danny stared unblinkingly as he tried to compute the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law; the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times 2 times the Planck constant divided by…
+<span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. Danny gazed at it, mesmerized. It glowed with a shade of red slightly deeper than the visible spectrum. Infrared. Every object in the universe emitted black-body radiation with a brightness and color determined by its temperature. Danny stared as he computed the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law; the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times 2 times the Planck constant divided by…
 </p>
 <p>
-A vibration on his chest broke his trance. Two quick buzzes from his cellphone signaled an incoming email. He pulled the device from his pocket and noted the telltale blinking light. Judging by the time, Brent’s business Q&amp;A had come to a close several minutes ago. The investors had probably cleared out by now and were already driving their Beamers and Lexi home.
+A vibration on his chest broke his trance. His cellphone signaled an incoming email. Judging by the time, Brent’s business Q&amp;A had come to a close several minutes ago. The investors had probably cleared out by now and were already driving their Beamers and Lexi home.
 </p>
 <p>
 He eyed the email preview.
@@ -188,7 +188,7 @@ I got a green light from my director. Verizon will join the auction for the comp
 </div>
 
 <p>
-Danny stared at that email. There were more below it, with other Verizon personnel and other members of the Claymore investment group. But Danny’s eyes kept reading that message over and over again, bouncing off the bottom of the screen back to the top like a program caught in an infinite loop.
+Danny stared at that email. There were more below it, with other Verizon personnel and Claymore investors. But Danny’s eyes kept reading that message over and over again, bouncing off the bottom of the screen back to the top like a program caught in an infinite loop.
 </p>
 <p>
 Eventually, he fought through his bewilderment to write one short, simple question.
@@ -461,7 +461,7 @@ Danny let out a cold, bitter laugh.
     Especially not after you manipulated me into throwing away six years of my life.
   </div>
   <div class="message messagein">
-    It's not throwing away! You got paid every month fair and square! You had the means to eat and pay rent for the last six years, right? You give us your brain, we give you money. That's how it works.
+    It's not throwing away! You got paid every month! You had the means to eat and pay rent. You give us your brain, we give you money. That's how it works.
   </div>
   <div class="message messageout">
     Fuck. You think this is about MONEY?

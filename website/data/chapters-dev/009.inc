@@ -42,16 +42,16 @@ He stared at her silently. He said nothing in response.
 Finally, he said, “Okay.”
 </p>
 <p>
-She resisted the urge to breathe a sigh of relief. She’d pretend to believe him about his deliveryman story, he’d pretend to believe her about believing it, and they’d both let the night proceed under this pleasant little fiction. “Okay,” she repeated with a nod, and slowly started backing out from the doorway. 
+She resisted the urge sigh in relief. She’d pretend to believe his deliveryman story, he’d pretend to believe her about believing it, and they’d both let the night proceed under this pleasant little fiction. “Okay,” she repeated with a nod, and slowly started backing out from the doorway. 
 </p>
 <p>
 “You know what?” the man said suddenly. “I change my mind.”
 </p>
 <p>
-With a quick, soundless motion, the man reached into his jacket, pulled out a gun, and pointed it at Tina. The stubby silver revolver was barely larger than his palm, but its barrel looked wide enough to stick a finger into. 
+With a quick, soundless motion, the man reached into his jacket, pulled out a gun, and pointed it at Tina. The revolver was barely larger than his palm, but its barrel looked wide enough to stick a finger into. 
 </p>
 <p>
-“Get in here, young lady,” he commanded. With a practiced flick of his thumb, managing to keep the squat barrel perfectly still, he cocked the revolver’s hammer back. It made a faint click, a tiny sound that somehow managed to ring louder than all of the machinery in the room.
+“Get in here, young lady,” he commanded. With a practiced flick of his thumb, managing to keep the squat barrel perfectly still, he cocked the revolver’s hammer back. It made a click, a tiny sound that somehow managed to ring louder than all of the machinery in the room.
 </p>
 <p>
 She stepped through the doorway.
@@ -60,7 +60,7 @@ She stepped through the doorway.
 “Good girl,” he said. “Now come over here.” 
 </p>
 <p>
-He backed away several feet, keeping the gun trained on her perfectly steadily.
+He backed away several feet, keeping the gun trained on her.
 </p>
 <p>
 “That refrigerator,” he said to her, bobbing his head at the deep-freezer. “That’s long-term storage for microbe samples, yes?”
@@ -72,7 +72,7 @@ Tina nodded.
 “Open it.”
 </p>
 <p>
-She reluctantly grabbed the handle of the deep-freezer’s massive metal door and yanked. The door’s rubber gasket released its airtight seal, letting the cryogenic air spill into the room. Standing in front of the open door felt like being stabbed with thousands of tiny needle-sharp shards of ice.
+She reluctantly grabbed the handle of the deep-freezer’s massive metal door and yanked. The door’s rubber gasket released its seal, letting the cryogenic air spill into the room. Standing in front of the open door felt like being stabbed with thousands of tiny needle-sharp shards of ice.
 </p>
 <p>
 “You know, I really am here for pickup,” the man said casually. “Your friend Julie &mdash; you know Julie, yes? &mdash; She left something here, that is really better left with someone else. Now, about you, I’m thinking maybe you could be useful. You want to be useful, yes?”
@@ -174,16 +174,16 @@ Danny looked down, his brow furrowed in thought. “Not necessarily. I think can
 “How?” the middle-aged financier asked. “Look at those guys! They’re obviously not new at this. They have guns, they have training, they have experience…”
 </p>
 <p>
-“We’ve got a massive tactical advantage,” Danny said slowly. With a pointed finger, he tapped loudly on the screen of his laptop.
+“We’ve got a massive tactical advantage,” Danny said. He tapped loudly on the screen of his laptop.
 </p>
 <p>
 Mike nodded his big furry head. “The cameras. You’re talking about going all Splinter Cell on them, right? Covert ops?”
 </p>
 <p>
-“Right,” said Danny. “We can see everything going on in there. They can’t. And that information asymmetry means that <em>we</em> have the upper hand. At Claymore, I built Navy communication grids. Modern battlefields are digital. During both Iraq wars, what’s the first thing the US Army did? Knocked out the enemy computer networks. During the riots in Iran and Libya and Syria, the rulers disabled civilian access to cellphones. Information, you see, is what the military refers to as a ‘force multiplier’. Those guys in there have guns. But information? That’s <em>our</em> game.”
+“Right,” said Danny. “We can see everything in there. They can’t. And that information asymmetry means that <em>we</em> have the upper hand. At Claymore, I built Navy communication grids. Modern battlefields are digital. During both Iraq wars, what’s the first thing the US Army did? Knocked out the enemy computer networks. During the riots in Iran and Libya and Syria, the rulers disabled civilian access to cellphones. Information, you see, is what the military refers to as a ‘force multiplier’. Those guys in there have guns. But information? That’s <em>our</em> game.”
 </p>
 <p>
-“I want in,” said Mike. He hopped out of the car and went to stand by Danny. “I said at the beginning that I’d be your muscle if things got physical. I keep my word.” Danny nodded in gratitude.
+“I want in,” said Mike. He hopped out and went to stand by Danny. “I said at the beginning that I’d be your muscle if things got physical. I keep my word.” Danny nodded in gratitude.
 </p>
 <p>
 “Do you have a plan, Danny?” asked Jason.

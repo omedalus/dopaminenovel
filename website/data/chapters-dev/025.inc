@@ -130,7 +130,7 @@ Another silent moment passed. Satish stared at him, wordless.
 “I need your help, Satish,” Danny said.
 </p>
 <p>
-After a long, tense, inscrutable pause, Satish replied, “Okay.”
+After a long, tense pause, Satish replied, “Okay.”
 </p>
 <p>
 Danny was taken aback. “Really?”
@@ -145,28 +145,22 @@ Danny was taken aback. “Really?”
 “Yes,” Satish repeated. “Look. I can’t stand you. And if you ask me, you’re getting what you deserve. But there’s a big difference between hating you and letting you get killed. So, yes, I’ll help.”
 </p>
 <p>
-Danny smiled at the Indian man warmly. “Thank you, Satish. I mean that. Despite everything between us, I know you’re a good man.”
+Danny smiled warmly. “Thank you, Satish. I mean that. Despite everything between us, I know you’re a good man.”
 </p>
 <p>
 Businesslike, Satish asked, “Now, is your passport valid?”
 </p>
 <p>
-Danny blinked. “My passport?”
+Danny shook his head. “My… What?”
 </p>
 <p>
-“And did you bring it with you, or will you have to go home for it?” Satish asked.
-</p>
-<p>
-Danny shook his head. “My… what? No. What?”
-</p>
-<p>
-“Flights from Sea-Tac to Chhatrapati Shivaji take between twenty to thirty hours,” Satish told him. “You can get a visa on arrival, so entering the country will be no problem. I have a brother that can meet you at the airport. He runs an English-language call center just outside of Mumbai. He will be able to set you up with an IT job there. It won’t pay much by American standards, but the money will go far in India. He’ll let you stay at his house for a while until you get settled in. Now, as for the plane trip, if you buy a one-way ticket for immediate departure, you’ll ring alarm bells, so what you should…”
+“Flights from Sea-Tac to Chhatrapati Shivaji take between twenty to thirty hours,” Satish told him. “You can get a visa on arrival, so entering the country will be no problem. I have a brother that can meet you at the airport. He runs an English-language call center just outside of Mumbai. He will be able to set you up with an IT job. It won’t pay much by American standards, but the money will go far in India. He’ll let you stay at his house until you get settled in. Now, as for the plane trip, if you buy a one-way ticket for immediate departure, you’ll ring alarm bells, so what you should…”
 </p>
 <p>
 “Whoa, Satish, stop!” Danny interrupted. “I’m not fleeing the country.”
 </p>
 <p>
-Satish looked confused. “Then why else would you come to me?”
+“Then why else would you come to me?”
 </p>
 <p>
 Danny reached into his pocket and withdrew his data stick.
@@ -271,10 +265,10 @@ Danny laid the thin data stick on Satish’s desk, and slid it forcefully toward
 “Now, please help me do that,” Danny said.
 </p>
 <p>
-Satish’s face boiled with disapproval. He shook his head vigorously, made dismissive gestures with his hands, and emitted a few unfavorable grunts. Several times he opened his mouth ready to offer a retort or a jab, but every time only a fraction of a syllable would come out. Eventually his resistance grew less animated and more internal, and he turned away from Danny to brood in quiet contemplation at his desk, his pose slack in his chair.
+Satish’s face boiled with disapproval. He shook his head, made dismissive gestures, and emitted a few grunts. Several times he opened his mouth ready to offer a retort or a jab, but every time only a fraction of a syllable would come out. Eventually his resistance grew less animated, and he turned away from Danny to brood in quiet contemplation at his desk.
 </p>
 <p>
-Satish’s hand moved toward the data stick lying on his desk.
+Finally, his hand moved toward the data stick lying on his desk.
 </p>
 <p>
 After several long, silent moments, he said to Danny without turning toward him, “You can’t reverse engineer an entire deployed customer solution in a matter of hours.”

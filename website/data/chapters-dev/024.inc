@@ -93,7 +93,7 @@ She wrapped her arms around his pajama-clad waist. Her bright, joyful eyes looke
 “What do you mean?” she said softly.
 </p>
 <p>
-“Well, I mean, breeding bacteria is good and all,” said Danny, “but the whole point of these germs is the… you know… the… the drug. Because if we can’t extract it, it’s just plain old <em>E. coli</em>, right? And that would mean that, this whole time, we’ve been getting used by shady corporate assholes and chased around by the Russian mob for something you can get by accident at the nearest Taco Bell. So, when will we get to test it? When will we get to know?”
+“Well, I mean, breeding bacteria is great,” said Danny, “but the whole point of these germs is the… you know… the drug. If we can’t extract it, it’s just plain <em>E. coli</em>, right? And that would mean that, this whole time, we’ve been getting used by shady corporate assholes and chased around by the Russian mob for something you can get by accident from Taco Bell. So, when will we get to test it? When will we get to know?”
 </p>
 <p>
 She tilted her head toward the kitchen counter and said, “We already do.”
@@ -216,16 +216,13 @@ Danny struggled to his feet. “How… How did you…” he stammered as he rose
 Sergey looked Danny in the eye, his lips curled and nostrils faring. Slowly, he stepped so close that Danny could feel his breath and smell his cologne and sweat.
 </p>
 <p>
-The Russian’s hand shot out and grabbed Danny by the throat.
-</p>
-<p>
-He shoved him against the nearest wall and pinned him there. Danny tried to yelp, but all that came out was a honking, wheezing sound. He raised his hands to try to pry the meaty claw off from around his neck, but the Russian’s grip was as rigid as a steel vise.
+The Russian’s hand shot out and grabbed Danny by the throat, and pinned him against the wall. Danny tried to yelp, but all that came out was a wheezing sound. He raised his hands to try to pry the meaty claw off of his neck, but the Russian’s grip was as rigid as a steel vise.
 </p>
 <p>
 “You…” the Russian seethed. “It is all you! I am up in this ass because of you!”
 </p>
 <p>
-Danny’s vision grew watery and distorted as tears of pain and terror welled in his eyes. “I… I’m sorry!” he squeezed out, his voice sounding disturbing to himself through his constrained larynx. “It was just a job…”
+Danny’s vision grew watery and distorted as tears of pain and terror welled in his eyes. “I… I’m sorry!” he squeezed out, his voice distorted through his constrained larynx. “It was just a job…”
 </p>
 <p>
 Sergey looked at Danny with an expression typically used for things stuck to the bottom of a shoe.
@@ -369,13 +366,13 @@ Sergey added, “You busted Eugene’s lip with old computer keyboard.”
 Tina turned her head away, looked upward innocently, and said, “Maybe.”
 </p>
 <p>
-Danny browsed the hotel’s website. The screen showed a high-resolution slide show of large cedarwood rooms with floor-to-ceiling windows, an elegant steak-and-seafood restaurant, and glorious panoramic views of mountains and evergreen forests.
+Danny browsed the hotel’s website. The screen showed a high-resolution slide show of large cedarwood rooms with floor-to-ceiling windows, a steak-and-seafood restaurant, and panoramas of mountains and evergreen forests.
 </p>
 <p>
 “Jesus Christ, this place is <em>sick</em>,” said Danny. “It’s got its own boat dock in Lake Washington &mdash; they let guests take their yachts out for a spin. …Authentic Finnish saunas in the gym … And a helicopter pad on the roof, for guests that prefer to fly in directly from Sea-Tac Airport on rental choppers.”
 </p>
 <p>
-Sergey nodded. “He is in Presidential Suite of this place right now?” He grabbed Danny by the arm and began pulling him out of his chair. “Let’s go! We go to my home first, get weapons, get Eugene and Leo, then we get Rosie!”
+Sergey nodded. “He is in Presidential Suite of this place right now?” He grabbed Danny by the arm. “Let’s go! We go to my home first, get weapons, get Eugene and Leo, then we get Rosie!”
 </p>
 <p>
 Danny struggled against his pull. “Jesus, no! Sergey, that’s suicide!”
@@ -465,13 +462,13 @@ Sergey glared at him. “What do you think you are doing? You think I let you ma
 Sergey snorted. “Fine. But you must keep it on speakerphone.”
 </p>
 <p>
-With a nod, Danny took a deep breath and began dialing.
+With a nod, Danny began dialing.
 </p>
 <p>
 Sergey watched Danny work the phone, and narrowed his eyes. “What is strange code you are putting in before the phone number?”
 </p>
 <p>
-“It’s star-six-seven,” Danny said simply. “It’s to block caller ID. Now, quiet, it’s ringing.” He activated the speakerphone and laid the cellphone on his desk.
+“It’s star-six-seven. It’s to block caller ID. Now, quiet, it’s ringing.” He activated the speakerphone and laid the cellphone on his desk.
 </p>
 <p>
 An older woman’s voice greeted the line. “RockBox Digital Security. How may I direct your call?”
@@ -608,25 +605,25 @@ Sergey interjected, “How is any of this helping get back my Rosie?”
 Danny moved his mouse cursor over a block of text. The line under the cursor read, “<span class="computer">Medina Gallante</span>”. 
 </p>
 <p>
-“See this folder?” he explained. “It contains all of RockBox’s digital assets for the Gallante account. It’s got PDFs of the Gallante’s floor plans. User manuals for all of the security system components. And all of the source code for all of the software that runs the entire hotel &mdash; keycards, cameras, online reservation systems, credit card billing, room service notes, VOIP telephone dispatch, utility maintenance records…” He pulled a data stick out of a drawer of his desk and plugged it his computer. “It’s all here. And it’s all ours.”
+“See this folder?” he explained. “It contains all of RockBox’s digital assets for the Gallante account. It’s got PDFs of the Gallante’s floor plans. User manuals for all of the security system components. And all of the source code for all of the software that runs the hotel &mdash; keycards, cameras, online reservation systems, credit card billing, room service notes, VOIP telephone dispatch, utility maintenance records…” He pulled a data stick out of a drawer of his desk and plugged it his computer. “It’s all here. And it’s all ours.”
 </p>
 <p>
 Sergey asked, “And with this you can get me into hotel, yes?”
 </p>
 <p>
-Danny nodded hesitantly. “With this, we can perform whitebox analysis of their entire integrated security framework. If we can find an exploitable flaw anywhere in the entire code base, we may be able to shove a metaphorical crowbar into it and use it to crawl inside and take over the entire system. No code project is ever completely free of defects, especially not one with this many different components and built by this many different people. There has to be a chink somewhere in this armor. It’s just a matter of finding it.”
+“With this, we can perform whitebox analysis of their integrated security framework,” Danny explained. “If we can find an exploitable flaw anywhere in the code base, we might be able to take over the entire system. No code project is ever completely free of defects, especially not one with this many different components and built by this many different people. There has to be a chink somewhere in this armor. It’s just a matter of finding it.”
 </p>
 <p>
-Sergey sighed with concern. “How fast can you do this?”
+“How fast can you do this?” Sergey demanded.
 </p>
 <p>
 “Me? Alone? Not nearly fast enough,” said Danny.
 </p>
 <p>
-“You need how much time? A day? Two days?” Sergey pressed.
+“You need how much time? A day? Two days?”
 </p>
 <p>
-Danny laughed without humor. “Sergey, something like this could take months.”
+Danny laughed humorlessly. “Sergey, something like this could take months.”
 </p>
 <p>
 “You are full of shit,” Sergey grumbled. “You are supposed to be super smart. How can it take so long?”
@@ -641,9 +638,9 @@ In response, Danny loaded one of the source code files into an editor and expand
 Danny shook his head. “Looking for defects in source code is as much an art as it is a science. I can’t do this alone. I need to bring more people into this.”
 </p>
 <p>
-Sergey looked at him coldly. He thought for several moments. Finally, hesitantly, he said, “There is no other choice, is there? Very well. You need help? I will let you go get it.”
+Sergey looked at him coldly. Hesitantly, he said, “There is no other choice, is there? Very well. You need help? Go get it.”
 </p>
 <p>
-Danny gave him a nod. “I know just the man for the job.”
+Danny nodded. “I know just the man for the job.”
 </p>
 </div>

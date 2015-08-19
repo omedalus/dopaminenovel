@@ -225,7 +225,7 @@ Mike’s head flew back and slammed into the wall behind him, with enough force 
 The Russian paused for a moment to read his opponent.
 </p>
 <p>
-Mike withdrew his head from the drywall, revealing a shallow crater. He swayed sideways and stood uneasily, looking blankly off to the side.
+Mike withdrew his head from the drywall, revealing a crater. He swayed sideways and stood uneasily, looking blankly to the side.
 </p>
 <p>
 “Mike!” Danny shouted.
@@ -234,7 +234,7 @@ Mike withdrew his head from the drywall, revealing a shallow crater. He swayed s
 Slowly, Mike pulled himself up to his full height and looked down at the Russian with a completely uncomprehending face. His eyes were glazed and empty. 
 </p>
 <p>
-Mike absentmindedly let go of the lug wrench. It dropped to the floor. Slowly, very slowly, he took a step toward the Russian and began an uncontrolled lurch forward.
+Mike absentmindedly let go of the wrench. It dropped to the floor. He took a step toward the Russian and began an uncontrolled lurch forward.
 </p>
 <p>
 The Russian was poised to take advantage of Mike’s momentum. He reached up with both hands, grabbed Mike’s head, and prepared to pull down. He drew up his leg, ready to drive his knee into Mike’s face.
@@ -243,7 +243,7 @@ The Russian was poised to take advantage of Mike’s momentum. He reached up wit
 His Bluetooth headset exploded.
 </p>
 <p>
-Tina’s wide-eyed gaze turned from the combatants to Danny. Too weak to join the melee, Danny had aimed his machine at the two men. Nothing seemed to happen when he had pulled the trigger except for a soft “<em>bonk!</em>” and a change in color of some small lights.
+Tina’s wide-eyed gaze turned from the combatants to Danny. Too weak to join the melee, Danny had aimed his machine at the men. Nothing seemed to happen when he had pulled the trigger except for a soft “<em>bonk!</em>” and a change in color of some lights.
 </p>
 <p>
 The man yelped in pain and surprise. The burst in his ear threw him off-balance. His hands still around Mike’s head, he stumbled in mid-kick, holding onto Mike to remain upright.
@@ -351,7 +351,7 @@ From off to the side, Mike droned, “Are you a priestess of Eir? I need healing
 The geek, despite being wounded himself, handled most of the task of shepherding his scruffy friend. He yelled into his cellphone, “Rendezvous at the front! Jason, extract us!”
 </p>
 <p>
-Tina, in the meantime, divided her attention between them and the Russian, whom she watched with horror as he regained consciousness. With a series of fitful coughs he propped himself up on his elbows. His watery eyes opened. As she and the two men hurried down the hallway, the Russian turned to them with primal fury in his face. Tina flinchingly waved the small silver revolver. The sight of his own gun pointed at him only enraged him further, and he hoisted himself to his feet and stumbled toward them.
+Tina divided her attention between them and the Russian, whom she watched with horror as he regained consciousness. With a fit of coughs he propped himself up on his elbows. As she and the two men hurried down the hallway, the Russian turned to them with primal fury in his watery eyes. Tina flinchingly waved the small silver revolver. The sight of his own gun pointed at him only enraged him further.
 </p>
 <p>
 He still wasn’t quite able to breathe. He tripped, fell to his hands and knees and rasped loudly as he tried to inhale. 
@@ -360,7 +360,7 @@ He still wasn’t quite able to breathe. He tripped, fell to his hands and knees
 They rounded a bend in the hallway and tried to rush down the corridor past the bullpen towards the brightly lit lobby. But with the injured man’s disoriented ambling, the straight hallway felt like a twisting labyrinth. The bright spot of light at the end seemed to draw nightmarishly farther with every step forward. And behind them, with a half-crawling gait, the Russian, rasping and coughing, dragged himself around the corner. His eyes burned with a lust for revenge. 
 </p>
 <p>
-They crashed into the lobby with the Russian gaining rapidly, his breath and strength quickly returning. The geek wordlessly dropped his contraption to the floor and started pulling on Tina’s reception desk a few short feet from the lobby’s interior door. Tina understood, and rushed to the other side to lift and push. Everything on the desk &mdash; her computer, her purse, her paperwork &mdash; tumbled as they slid it into position. They wedged it sideways against the wide glass door just as the Russian’s fast-moving form appeared on the other side. He shoved and kicked at the door, making the barricade slide with every impact. The two of them kept the desk braced against the door with their own strength, but without their active defense it wouldn’t hold for long.
+They crashed into the lobby with the Russian gaining rapidly, his breath and strength quickly returning. The geek wordlessly dropped his contraption to the floor and started pulling on Tina’s reception desk a few short feet from the lobby’s interior door. Tina understood, and rushed to the other side to lift and push. Everything on the desk &mdash; her computer, her purse, her paperwork &mdash; tumbled. They wedged it sideways against the wide glass door just as the Russian’s fast-moving form appeared on the other side. He shoved and kicked at the door, making the barricade slide with every impact. The two of them kept the desk braced against the door with their own strength, but without their active defense it wouldn’t hold for long.
 </p>
 <p>
 “Jason!” the geek shouted into his cellphone. “Car! Now!” Pushing against the desk, he turned to Tina. “I’ll hold this guy off. There’s friends coming with a car. Get Mike out of here. I’ll be right behind you.”
@@ -489,7 +489,7 @@ Danny asked from the back, “What the fuck was that?”
 Jason answered, “That… was the gun.” 
 </p>
 <p>
-The SUV bobbed sideways as Jason swerved around a car that had the misfortune of being on the same suburban road. The innocent bystander’s horn Dopplered behind them as Jason desperately sped down the street, the Russians in relentless pursuit.
+The SUV bobbed sideways as Jason swerved around a car that had the misfortune of being on the same suburban road. The innocent bystander’s horn Dopplered behind them as Jason desperately sped down the street, the Russians in pursuit.
 </p>
 <p>
 Jason shook his head. “I can’t out-drive them!” he said hoarsely. They watched helplessly as the Roadster drew closer. The SUV fell into tense silence amid the rush of air through broken windows.
@@ -519,7 +519,7 @@ Satish said, “It’s an all-electric drive train, you idiot. They don’t <em>
 Jason asked, “Closer?”
 </p>
 <p>
-“Yeah,” said Danny. He peeked carefully over the SUV’s rear door, through the blown-out window. The Tesla Roadster was barely a hundred feet away. The handgun protruded from its passenger window. “Their car is about two square meters in frontal cross-section. What’s the radius of a sphere for which a 24-decibel gain covers two square meters of surface area?”
+“Yeah,” said Danny. He peeked carefully over the SUV’s rear door, through the blown-out window. The Tesla Roadster was barely a hundred feet away. “Their car is about two square meters in frontal cross-section. What’s the radius of a sphere for which a 24-decibel gain covers two square meters of surface area?”
 </p>
 <p>
 “How the hell should I know?” Jason yelled back.
@@ -636,7 +636,7 @@ His senseless words gave Tina an idea. “I <em>do</em> know a priestess, actual
 “Stop spazzing,” Tina said. “I have a friend that lives there. She’ll know what to do.”
 </p>
 <p>
-They drove in silence. The Navigator passed through Bellevue and onto the highway. Across the long straight floating bridge of State Route 520, over the moonlit waters of Lake Washington, the speckled lights and skyscraper silhouettes of Seattle’s nighttime skyline loomed before them.
+The Navigator drove in silence onto the highway. Across the long straight bridge of State Route 520, over the moonlit waters of Lake Washington, the speckled lights and skyscraper silhouettes of Seattle’s nighttime skyline loomed before them.
 </p>
 <p>
 “Guys, listen,” Tina said. “I just want to say, whatever this is all about… Thank you for getting me out of there. Really.”

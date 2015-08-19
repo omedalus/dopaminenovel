@@ -56,7 +56,7 @@
 </div>
 
 <div class="message messagein">
-  did you know you get a dopamine rush just from looking at a picture of a smiling baby or a cute animal? There was a uk study about 2yrs ago that proved lolcats are actually a drug.
+  did you know you get a dopamine rush just from looking at a picture of a smiling baby or a cute animal? There was a uk study about 2yrs ago that proved lolcats are a drug.
 </div>  
 
 <div class="message messageout">
@@ -161,7 +161,7 @@
   not really :)
 </div>
 <div class="message messagein">
-  but it helped him a lot.
+  but it helped him.
 </div>
 
 <div class="message messageout">
@@ -183,10 +183,10 @@
 </div>
 
 <div class="message messagein">
-  or self-fulfilling prophecy. call it what you will.
+  or self-fulfilling prophecy.
 </div>
 <div class="message messagein">
-  its taking something in your mind, that you imagine, and making your imagination manifest in the real world.
+  its taking something in your mind, and making your imagination manifest in the real world.
 </div>
 <div class="message messagein">
   and THAT, is magick. ;)
@@ -213,7 +213,7 @@
   I... don't know?
 </div>
 <div class="message messageout">
-  I've worked late before but I've never really paid attention.
+  I've never really paid attention.
 </div>
 
 <div class="message messagein">
@@ -273,10 +273,10 @@
   Fuck, they don't know me! They don't know that I do in fact know this shit.
 </div>
 <div class="message messageout">
-  And all I want is for them to just give me a
+  And all I want is for them to give me a
 </div>
 <div class="message messageout">
-  Dammit hold on. Now THIS is weird.
+  Dammit hold on. THIS is weird.
 </div>
 
 <div class="message messagein">
@@ -298,19 +298,19 @@
 </div>
 
 <div class="message messageout">
-  The camera was turning around back and forth going all crazy inside its little dome thingie.
+  The camera was turning back and forth going all crazy inside its dome thingie.
 </div>
 <div class="message messageout">
   I drag my chair over and stand on it and smack the dome, and it stops.
 </div>
 <div class="message messageout">
-  But I can see through the glass wall into the main hallway, there's a couple more cameras in the hallway, and one of them is just past the lobby doors, just a couple yards away. And while I'm standing on my chair, I can see that THAT one is doing it too.
+  But I see through the glass wall into the main hallway, there's a couple more cameras in the hallway, and one of them is just past the lobby doors, just a couple yards away. And while I'm standing on my chair, I see that THAT one is doing it too.
 </div>
 <div class="message messageout">
   So I go into the hall and find another chair and drag it over and whack THAT camera too. BUT.
 </div>
 <div class="message messageout">
-  While I'm dragging the chair over, I see that the camera at the OTHER end of the hall is ALSO going nuts.
+  While I'm dragging the chair, I see the camera at the OTHER end of the hall is ALSO going nuts.
 </div>
 <div class="message messageout">
   Nat.

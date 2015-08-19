@@ -3,7 +3,7 @@
 <span class="caplead">Mercury was adorned with grinning gargoyles</span> and occult symbols. Twisted mannequins stood in corners, as though the Medusa sculpture by the door had turned mutant patrons to plastic. Young men and women with assorted bits of metal in their skin sipped colorful drinks to the buzzing, beeping background music.
 </p>
 <p>
-Danny walked in carrying a Claymore tote bag full of electronic junk. Thick wires and plastic pipes poked out from the top. He spotted Jason Tuttle alone at a table.
+Danny walked in carrying a Claymore tote bag full of electronic junk. Wires and tubes poked out from the top. He spotted Jason Tuttle alone at a table.
 </p>
 <p>
 “I take it you haven’t been home?” Jason teased, eyeing the suit Danny was still wearing from the afternoon’s presentation.
@@ -12,7 +12,7 @@ Danny walked in carrying a Claymore tote bag full of electronic junk. Thick wire
 “I hung out in the office after our chat,” Danny said as he sat down to join him. “Figured I’d soak in the vibe one last time. Play with the Foosball table. Kick the vending machine.”
 </p>
 <p>
-“But I see you didn’t walk away empty-handed,” said Jason, looking pointedly at Danny’s bag.
+“But I see you didn’t walk away empty-handed,” said Jason, eyeing Danny’s bag.
 </p>
 <p>
 “This? Just a souvenir,” Danny said. “Nothing that anyone but me would miss.”
@@ -123,16 +123,16 @@ Danny nodded. “Heh. Biotech,” he said wistfully.
 “Yes,” said Jason. “Are you familiar with that technology space at all?”
 </p>
 <p>
-Danny shook his head with a distant smile. The very word “biotechnology” conjured for him images he had long forgotten. There was a time before the Internet boom when a young computer enthusiast wasn’t seen as a potential millionaire, but rather as a pimple-pocked social outcast suitable solely for locker-stuffing and atomic wedgies. It was a time when his fellow Generation X tech nerds were all reading William Gibson’s <em>Neuromancer</em> and playing <em>Shadowrun</em> and dressing like <em>The Matrix</em>; when they said to each other with heady excitement, “The future is <em>digital</em>!” Growing up, they had made that future real &mdash; configuring ISDN lines, building websites, creating dot-coms. They were homesteaders and gold prospectors taming the West.
+Danny shook his head with a distant smile. The very word “biotechnology” conjured images he had long forgotten. There was a time before the Internet boom when a young computer enthusiast wasn’t seen as a potential millionaire, but a pimple-pocked social outcast suitable solely for locker-stuffing and atomic wedgies. It was a time when his fellow Generation X tech nerds were all reading William Gibson’s <em>Neuromancer</em> and playing <em>Shadowrun</em> and dressing like <em>The Matrix</em>; when they said to each other with heady excitement, “The future is <em>digital</em>!” Growing up, they had made that future real &mdash; configuring ISDN lines, building websites, creating dot-coms. They were homesteaders and gold prospectors taming the West.
 </p>
 <p>
-Yet now, <em>because</em> they had made it real, by definition it wasn’t futuristic anymore. Danny’s first few jobs made him feel like a pioneer in a vast uncharted wilderness. Now he just felt like a soulless office drone.
+Yet now, <em>because</em> they had made it real, by definition it wasn’t futuristic anymore. Danny’s first few jobs made him feel like a pioneer in a vast uncharted wilderness. Now he felt like a soulless office drone.
 </p>
 <p>
 But <em>biotechnology</em>, Danny mused. Biotech still held unscaled vistas and unseen horizons &mdash; the next “virtual reality,” the next “information superhighway,” the next “cyberspace.” The future <em>used</em> to be digital. Now the <em>present</em> was digital. The future was squishy.
 </p>
 <p>
-“Not even a little,” Danny answered. “But I have friends who work at the Fred Hutchinson Cancer Research Center. I see the smokestacks of the ZymoGenetics building twice a day on my commute. I’ve driven through the construction zone in South Lake Union, where Paul Allen is building that gigantic Institute for Brain Science. I know Seattle’s quickly becoming a nexus of biotech, just like it was once a nexus of the Information Age. I’ve always heard biotech’s right around the corner for decades. I guess it’s finally happening.”
+“Not even a little,” Danny answered. “But I have friends who work at the Fred Hutchinson Cancer Research Center. I see the smokestacks of the ZymoGenetics building twice a day on my commute. I’ve driven through the construction zone in South Lake Union, where Paul Allen is building that gigantic Institute for Brain Science. I know Seattle’s quickly becoming a nexus of biotech, like it was once a nexus of the Information Age. I’ve always heard biotech’s right around the corner for decades. I guess it’s finally happening.”
 </p>
 <p>
 Jason nodded. “Exactly. Biotechnology is getting big. But Tungsten isn’t.”

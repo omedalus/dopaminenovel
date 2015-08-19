@@ -169,7 +169,7 @@ Real. Danny’s team followed it with another spoof from X D.
 <div class="computer email">
 From: X D &lt;xavierdaniels1989@yahoo.com&gt;<br/>
 Subject: RE: Just talked to Eugene <br/>
-Sergey, what gives? I just talked to you on the phone like ten minutes ago and you gave a new phone num for Eugene. So do I burn both the old and the new number, or just the old and keep the new? I’m confused. Let me know what I shd do. 
+Sergey, what gives? I just talked to you on the phone ten minutes ago and you gave a new phone num for Eugene. So do I burn both the old and the new number, or just the old?
 </div>
 
 <p>
@@ -179,7 +179,7 @@ Sergey’s real response came a few seconds later:
 <div class="computer email">
 From: Sergey &lt;sergey@pash.ly&gt;<br/>
 Subject: RE: Just talked to Eugene <br/>
-What do you mean?? You just talked to me on a phone? No we didn’t. 
+What? You just talked to me on a phone??? No we didn’t. 
 </div>
 
 <p>
@@ -189,7 +189,7 @@ The hacker crew chased it with a series of forged messages from Sergey’s minio
 <div class="computer email">
 From: X D &lt;xavierdaniels1989@yahoo.com&gt;<br/>
 Subject: RE: Just talked to Eugene <br/>
-Yeah we did. We talked on the phone just a little while ago. Sergey, is everything ok?
+Yeah we did. We talked on the phone a little while ago. Sergey, is everything ok?
 </div>
 
 <div class="computer email">
@@ -211,11 +211,11 @@ And in response, Sergey delivered his own coup de grâce:
 <div class="computer email">
 From: Leo &lt;leonya@pash.ly&gt;<br/>
 Subject: LOCKDOWN<br/>
-This is Sergey. I using Leo email because Leo not having any problems, thanks God. I do not know what is going on. Somebody send out emails from my account, pretend to be me and gives strange orders. I change password, but problem continues. I also talked on phone to some of you, but then from others I get emails saying I talk to you when I did not. <br/>
+This is Sergey. I using Leo email because Leo not having any problems, thanks God. I do not know what is going on. Somebody send out emails from my account, pretend to be me and gives strange orders. I change password, but problem continues. Also I get emails saying I talk to you on phone, when I did not. <br/>
 <br/>
 I think what is happening is, DEA taps my phone and puts a virus on my email. They even have someone impersonating me on phone! They trying to trick us into screwing up and bust us all.<br/>
 <br/>
-So, I am calling a LOCKDOWN. Stop all sales IMMEDIATELY. There will be no more deliveries until further notice. Discard all supplies smaller than 50 gram. Anything bigger, hide IMMEDIATELY. Only four of you should have anything bigger than 50 gram right now anyway, I will have Leo contact you directly. <br/>
+So, I am calling a LOCKDOWN. Stop all sales IMMEDIATELY. There will be no more deliveries until further notice. Discard all supplies smaller than 50 gram. Anything bigger, hide it. Only four of you should have anything bigger than 50 gram right now anyway, I will have Leo contact you directly. <br/>
 <br/>
 Those of you on payroll will still get your money for tonight, don’t worry. Those of you on commission or resale, DO NOT TRY TO MAKE ONE LAST SALE. DISCARD product, understood? THAT IS ORDER. You try to sell anything more tonight, you will regret it. <br/>
 <br/>
@@ -342,7 +342,7 @@ The headlights of the SUV illuminated the dark figure of a man far in the alley,
 Jason showed no apprehension. He rolled the Navigator forward, pulled to a stop just a few yards short of the dreadlocked man, and turned on the car’s cabin lights.
 </p>
 <p>
-“Private property, guys,” the black man said clearly and forcefully, his eyes glowing starkly in the SUV’s headlights. “Turn around.” Jason cut the engine and stepped out of the car, slowly but confidently, making sure to keep his hands visible. 
+“Private property!” the black man said forcefully, his eyes glowing starkly in the SUV’s headlights. “Turn around.” Jason cut the engine and stepped out, slowly but confidently, making sure to keep his hands visible. 
 </p>
 <p>
 The guard lifted the large blocky gun. “You got ‘til the count of three. One…”
@@ -351,10 +351,10 @@ The guard lifted the large blocky gun. “You got ‘til the count of three. One
 Jason stood beside the car and said, “Eugene’s been shot.”
 </p>
 <p>
-The man’s eyes widened. “What?” he asked grimly.
+The man’s eyes widened. “What?”
 </p>
 <p>
-“The lab had heavy night security,” Jason said, his voice gritty and cold. “Things got really ugly back there.” 
+“The lab had heavy night security,” Jason said, his voice gritty and cold. “Things got ugly back there.” 
 </p>
 <p>
 “The bitch said they had nothing,” the man said tensely.
@@ -372,19 +372,10 @@ The man’s eyes widened. “What?” he asked grimly.
 The guard kept the firearm aimed squarely at Jason, but after a glance at the car, his stance relaxed. “Why are you here?”
 </p>
 <p>
-Jason answered, “We have the vial.” Moving very slowly, he withdrew the small tube from his jacket pocket.
+“We have the vial.” Moving very slowly, he withdrew the small tube from his jacket pocket. “The girl will know what to do with it. Is she alright?”
 </p>
 <p>
-The guard lowered the gun.
-</p>
-<p>
-“I thought it had to be on ice,” he said.
-</p>
-<p>
-“It does,” said Jason. “It’s melting as we speak. We have to hurry. The girl will know what to do with it. Is she alright?”
-</p>
-<p>
-“She’s been crashing for like a week straight. But she’s fine,” said the guard.
+The guard lowered the gun. “She’s been crashing for like a week straight. But she’s fine.”
 </p>
 <p>
 “Who’s watching her?” asked Jason.

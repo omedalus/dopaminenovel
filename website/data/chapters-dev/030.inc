@@ -120,7 +120,7 @@ Tina nodded. “Of course I do, Danny. You talked about how you believed you had
 Danny smiled warmly. “Exactly. But… my own greatness isn’t really <em>about</em> me, is it? It never has been. That’s the whole point…”
 </p>
 <p>
-Small, light footsteps descended behind him. Rosie had broken away from Jason above. With tears still streaming down her cheeks and sobs still racking her shoulders, she ran to Danny and buried her face against his shirt. 
+Small, light footsteps descended behind him. Rosie had broken away from Jason above. With sobs still racking her small shoulders, she ran to Danny and buried her face against his shirt. 
 </p>
 <p>
 He instinctively reached out to hug her, and stroked her hair as her whimpers tapered to silence. “I <em>do</em> want to create something amazing,” he said as he wiped the child’s tears away on the cloth of his shirt. “I <em>do</em> want to shape the world. Maybe this is how.”

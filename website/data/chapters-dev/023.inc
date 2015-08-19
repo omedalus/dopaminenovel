@@ -9,10 +9,10 @@ The Market was a logical meeting place. The presence of all these people served 
 Sergey Mukhayev sat in a wicker patio chair at a small round table at an outdoor café, sipping tea and waiting. 
 </p>
 <p>
-The tea was very hot, very black, and very strong. He knew he wasn’t supposed to indulge, just like he wasn’t supposed to drink vodka anymore, nor enjoy many others of his old favorite vices. If he was the same man now as he was back in Saint Petersburg, he’d tell his doctors to go rot in Hell. But he had Rosie to consider now. It was his own fault that she was without a mother and brother. He didn’t dare risk making her grow up without a father as well.
+The tea was hot, black, and strong. He knew he wasn’t supposed to indulge, just like he wasn’t supposed to drink vodka anymore, nor enjoy many others of his old favorite vices. If he was the same man now as he was back in Saint Petersburg, he’d tell his doctors to go rot in Hell. But he had Rosie to consider now. It was his own fault that she was without a mother and brother. He didn’t dare risk making her grow up without a father as well.
 </p>
 <p>
-This one cup of tea that he enjoyed now wouldn’t kill him. It was simply a nod to the truth &mdash; and the truth, like the tea, was very bitter. It would be ten years before Rosie would graduate college. His chances of seeing that happen were fifty-fifty at best. In however many years remained for him, his sole purpose was to secure her future, to at least partially rectify the tragedy he had made of her innocent young life. His business, with its secrecy and its violence and its constant interaction with the scum of humanity, unfortunately happened to be very, very lucrative. Through it he had caused his own damnation. And through it, he sought to earn some small glimmer of redemption.
+This one cup of tea that he enjoyed now wouldn’t kill him. It was simply a nod to the truth &mdash; and the truth, like the tea, was bitter. It would be ten years before Rosie would graduate college. His chances of seeing that happen were fifty-fifty at best. In however many years remained for him, his sole purpose was to secure her future, to at least partially rectify the tragedy he had made of her innocent young life. His business, with its secrecy and its violence and its constant interaction with the scum of humanity, unfortunately happened to be very, very lucrative. Through it he had caused his own damnation. And through it, he sought to earn some small glimmer of redemption.
 </p>
 <p>
 The Byzantine cross he wore around his neck lay on his hairy, muscular chest, a few inches from the scars. It served as a perpetual reminder that he may as well occasionally enjoy life’s small blessings, such as the tea, while he still could &mdash; for his next world would be far less pleasant than this one.
@@ -57,13 +57,13 @@ Sergey stared at the man suspiciously. “I’ve had a few issues with my commun
 “Am I supposed to know you?” Sergey replied.
 </p>
 <p>
-“No,” said the old man. “But like I said, I’m afraid it’s part of my job to know you.”
+“No,” said the old man. “But it’s part of my job to know you.”
 </p>
 <p>
 “The pleasure’s all yours, then,” said Sergey.
 </p>
 <p>
-“I am called Pyotr Passinsky,” he replied. “<em>Doctor</em> Pyotr Passinsky.” He spoke impeccable Russian with a highbrow Muscovite dialect, articulating every complex syllable and putting exactly the right amount of twang into his vowels. The accent fell upon the Russian ear in a manner similar to the sound of High British to a native English speaker. The affectation connoted, depending on whom one asked, either great intelligence and fine breeding, or extreme arrogance and unadulterated pomposity.
+“I am called Pyotr Passinsky,” he replied. “<em>Doctor</em> Pyotr Passinsky.” He spoke impeccable Russian with a highbrow Muscovite dialect, articulating every complex syllable and putting exactly the right lilt into each vowel. The accent fell upon the Russian ear similarly to the sound of High British to a native English speaker. The affectation connoted either great intelligence and fine breeding, or extreme arrogance and unadulterated pomposity.
 </p>
 <p>
 The old man extended a handshake. Sergey did not accept. “Am I supposed to be impressed?” he scoffed. 
@@ -189,7 +189,7 @@ Passinsky stared back. “Need I remind you, I’ve already demonstrated that I 
 Sergey looked away with a snarl. Reluctantly, bitterly, he reached into his pocket, withdrew the small smiley-faced vial of crusty pale brown goo, and laid it on the table. 
 </p>
 <p>
-Passinsky gave him the manila envelope, and took the vial up in his papery liver-spotted fingers. His ancient wrinkled face looked tired as he inspected the vial and sighed with relief. “I’m glad we could come to an agreement,” he said.
+Passinsky gave him the manila envelope, and took the vial up in his liver-spotted fingers. “I’m glad we could come to an agreement.”
 </p>
 <p>
 Sergey didn’t respond. He merely opened the envelope and examined the papers inside. For a few moments, he read the documents in silence. “So… Are we done here?” Sergey said, without looking up.
@@ -306,19 +306,19 @@ Passinsky shrugged. “Of course. Surely you didn’t think that a company whose
 Passinsky grunted. “Don’t be silly, Sergey. Of course he knows. I told him. And let me tell you, that was not a phone call that I enjoyed having to&mdash;”
 </p>
 <p>
-The small round table flew aside with a single swipe of Sergey’s hand. 
+The small table flew aside with a single swipe of Sergey’s hand. 
 </p>
 <p>
-He grabbed the scientist by the collar of his shirt, and hoisted the elderly man out of his wicker chair. “You son of a bitch!” Sergey screamed into his face, along with a litany of colorful invectives whose rich meanings would be lost in translation. He shook the frail gray form roughly while the old man stammered and demanded that the brute unhand him.
+He grabbed the scientist by the collar, and hoisted the elderly man out of his wicker chair. “You son of a bitch!” Sergey screamed into his face, along with a litany of colorful invectives whose rich meanings would be lost in translation. He shook the frail gray form while the old man stammered and demanded that the brute unhand him.
 </p>
 <p>
-The crowd erupted in protest. The commotion had already put bystanders at full alert, and many had already been preparing to intervene. Men rushed in from all directions &mdash; café staff, passersby, fellow patrons &mdash; to pull the large belligerent man off of the thin elderly scientist. Women shielded the aged victim, shouted for help, yelled admonishments, called out for anyone who might speak Russian to come and translate. 
+The crowd erupted in protest. The commotion had put bystanders at alert, and many had already been preparing to intervene. Men rushed in &mdash; café staff, passersby, fellow patrons &mdash; to pull the large man off of the thin elderly scientist. Women shielded the aged victim, shouted for help, called out for anyone who might speak Russian to come and translate. 
 </p>
 <p>
 Sergey fought back against the pull of many arms around him, grabbing at him, restraining him, forcing him down…
 </p>
 <p>
-Just like he’d done so many years ago… When the men broke into his house on a frigid Saint Petersburg morning, with clouds of frost rising from his breath… When they’d knocked the gun from his hand, he grabbed a lamp, and bashed it against their skulls… And when they ripped the lamp away, he continued with his fists… His large, powerful muscles gliding under his skin, burning with adrenaline… His wife, Sveta, running to the nursery… And Rosie in her crib, crying, screaming… And Vadik, his son, six years old, fighting, biting, kicking, trying to fend them off with a plastic toy sword… His head reeled from the ether they’d tried to knock him out with… His vision spun, he could barely see, but he would not be subdued, not by these men, not when his family was at stake… And suddenly his entire skeleton rattled within his flesh as multiple cattle prods stabbed into his ribs… And his chest felt like it was being crushed in a vise, and there was an aimless, arrhythmic fluttering sensation from behind his sternum, and everything tilted and went black…
+Just like he’d done so many years ago… When the men broke into his house on a frigid Saint Petersburg morning, with clouds of frost rising from his breath… When they’d knocked the gun from his hand, he grabbed a lamp, and bashed it against their skulls… And when they ripped the lamp away, he continued with his fists… His large, powerful muscles burning with adrenaline… His wife, Sveta, running to the nursery… And Rosie in her crib, crying, screaming… And Vadik, his son, six years old, fighting, biting, kicking, trying to fend them off with a plastic toy sword… His head reeled from the ether they’d tried to knock him out with… His vision spun, he could barely see, but he would not be subdued, not by these men, not when his family was at stake… And suddenly his entire skeleton rattled within his flesh as cattle prods stabbed into his ribs… And his chest felt like it was being crushed in a vise, and there was an aimless, arrhythmic fluttering from behind his sternum, and everything tilted and went black…
 </p>
 <p>
 He picked one hand at random from the many that held him. He grabbed its wrist and gave a sharp, twisting yank. There was a soft crunching noise, and a man shrieking and screaming. The injured foe retreated, several people coming to his aid.

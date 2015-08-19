@@ -105,13 +105,13 @@ She stared at the bill. “What the hell is this?”
 <span class="caplead">Scientists scurried through</span> the battle-scarred hallways, checking on their projects and assessing damage to their equipment. Tina’s green Volkswagon Jetta was still in the parking lot outside, its windows smashed and its glove compartment ransacked. The reception desk had been overturned, the stockroom had sustained a rampage, and bullet holes pocked the gypsum walls everywhere. A few bloody streaks on the walls and carpet had left crusty reddish-brown stains. Roger had walked through the building feeling like he was watching a documentary about Sarajevo or Fallujah. The sensation didn’t seem real.
 </p>
 <p>
-The scientists were mostly men and women in their forties and fifties, each with multiple technical degrees. Their educated, scrutinizing faces reacted with confusion and outrage at the idea of their ivory tower of research being defiled by such real-world vulgarities as physical violence. He was surprised to see so many of the researchers at such an early hour &mdash; apparently Doctor P., usually the first to arrive in the office anyway, had spent most of the morning on the phone.
+The scientists were mostly men and women in their forties and fifties, each with multiple technical degrees. Their educated, scrutinizing faces reacted with confusion and outrage at the idea of their ivory tower of research being defiled by such real-world vulgarities as physical violence. He was surprised to see so many of the researchers at such an early hour &mdash; apparently Doctor P., usually the first to arrive in the office anyway, had spent the morning on the phone.
 </p>
 <p>
-Doctor P. was still on that phone. The two of them sat alone in Passinsky’s office, where Roger had access to the DVR that recorded the camera feeds. As Roger sat in Passinsky’s chair and operated his computer, Passinsky himself remained standing, speaking rapidly into his cellphone in Russian. Finally Passinsky hung up and turned to Roger. “So what do you think?” 
+Doctor P. was still on that phone. The two of them sat in Passinsky’s office, where Roger had access to the DVR that recorded the camera feeds. As Roger sat in Passinsky’s chair and operated his computer, Passinsky himself remained standing, speaking rapidly into his cellphone in Russian. Finally Passinsky hung up and turned to Roger. “So what do you think?” 
 </p>
 <p>
-“I’m still trying to wrap my brain around this, Dr. P.,” Roger replied. He played back feeds from several of the cameras, showing a large, burly man with a lug wrench being chased through the hallways by an agile gunman with a long black suppressor on his firearm. 
+“I’m still trying to wrap my brain around this, Dr. P.,” Roger replied. He played back feeds from several cameras, showing a burly man with a lug wrench being chased through the hallways by an agile gunman with a long suppressor on his firearm. 
 </p>
 <p>
 “Yes,” said Passinsky. “You see how the cameras move? The cameras are doing their… Their moving functions…”

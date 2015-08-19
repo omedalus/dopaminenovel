@@ -226,7 +226,7 @@ He laid the HERF gun on his workbench, prepared some heat-shrink insulation for 
 Before going back into the house, Danny found a spare power outlet and plugged the HERF gun into the wall. The lights in the garage dimmed. He left the device to feed for the night.
 </p>
 <p>
-He shuffled zombie-like to the bathroom, determined to cleanse himself of the stink of jet fuel and nail polish remover and soot and sweat and blood. His shower was very long and very hot. The horrors of the day dissolved down the drain, and he stepped out of the shower freshly baptized. He found his home first-aid kit and clumsily reapplied his shoulder dressing with the help of the bathroom mirrors, and treated his hand with bandages and salve. He dressed himself in blue linen pajamas, turned off the lights, and stumbled to his bedroom. He let himself fall face-first onto his bed, closed his eyes, and wrapped his blankets around his body.
+He shuffled zombie-like to the bathroom, determined to cleanse himself of the stink of jet fuel and nail polish remover and soot and blood. His shower was very long and very hot, and when he finally emerged from the steam he felt freshly baptized. He found his home first-aid kit and clumsily reapplied his shoulder dressing, and treated his hand with bandages and salve. He dressed himself in blue linen pajamas, turned off the lights, and stumbled to his bedroom. He let himself fall into his bed, closed his eyes, and wrapped his blankets around his body.
 </p>
 <p>
 The doorbell rang.

@@ -117,7 +117,7 @@ Daniel sighed gently and put the device away. He looked back and forth at Tina a
 The charismatic young man said, crestfallen, “But our project…!”
 </p>
 <p>
-He gave the two of them a warm smile. “Listen,” said Daniel as he stood up. “You kids have a lot of very, very hard work ahead of you. But Tuttle Investment Partners might be able to help you out. No promises yet. But we’ll talk more soon.”
+He gave the two of them a warm smile. “Listen,” said Daniel as he stood up. “You kids have a lot of very, very hard work ahead of you. But Tuttle Investment Partners might be able to help you out. No promises yet. But we’ll talk soon.”
 </p>
 <p>
 Tina asked him, “Is everything alright?”
@@ -141,13 +141,13 @@ He answered over his shoulder, “Tech support.”
 
 <div class="chapsection">
 <p>
-<span class="caplead">Rosie greeted him completely naked</span> at the door to her backstage dressing room, with the arm of a very muscular young man draped around her sculpted waist.
+<span class="caplead">Rosie greeted him completely naked</span> at the door to her dressing room, with the arm of a very muscular young man draped around her sculpted waist.
 </p>
 <p>
 “Dan! Thank fucking Jesus!” She turned around, pivoting in place with perfect poise. She briskly padded barefoot across the disheveled room, moving effortlessly with a dancer’s grace.
 </p>
 <p>
-Her beefy boy-toy watched her with rapture in his eyes. Daniel knew that look. He’d seen it on every gentleman-caller Rosie had ever brought home. Whoever this fellow was, he was already hopelessly, agonizingly in love. After tonight, he’d probably never see her again.
+Her beefy boy-toy watched her with rapture in his eyes. Daniel knew that look. He’d seen it on every gentleman-caller Rosie had ever brought home. Whoever this fellow was, he was already hopelessly in love. After tonight, he’d probably never see her again.
 </p>
 <p>
 “It’s over here!” she called from somewhere inside the cluttered chamber. Several young men and women puttered around, examining instruments and equipment. One lean geeky-looking guy sat in front of a clothing rack. Rosie looked down at him and shooed him with her hands, saying, “Ksssst! Scat!” The guy scurried out of his chair.

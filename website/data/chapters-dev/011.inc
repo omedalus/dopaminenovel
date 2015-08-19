@@ -114,10 +114,10 @@ She didn’t make. A leather-gloved hand clamped around her wrist and jerked her
 “We are done <em>here</em>,” repeated the man. “But… I have more use for you…”
 </p>
 <p>
-Tina felt her stomach lurch. “Fuck you, <em>no</em>!” she screamed, fighting against his grip with all her might. But he was too strong. 
+Tina felt her stomach lurch. “Fuck you, <em>no</em>!” she screamed, fighting against his grip with all her might.
 </p>
 <p>
-He yanked her back into the room and released her, letting her momentum carry her a few stumbling steps away from him.
+He yanked her back into the room and released her, letting her momentum carry her a few stumbling steps.
 </p>
 <p>
 “Relax,” he said in a commanding tone. “Do not assume things, lady. I am a professional. I don’t mix business with pleasure. Besides, I get hotter pieces of ass than you any time I want. Your body is of no interest to me.”
@@ -219,7 +219,7 @@ After several terrifying seconds, her breath gradually returned.
 “Stupid fucking bitch,” grumbled the Russian, angry but collected. He touched two gloved fingers to his mouth and examined them. His lower lip was bleeding where Tina had busted it open with the keyboard. He slowly knelt down and retrieved the vial from the floor, keeping the gun trained on her with renewed mindfulness. “You try something like that again, I hurt you in ways that take longer to heal. Understand?”
 </p>
 <p>
-Tina’s mind spun with anger, fear, and self-pity. Under the command of the man with the gun, with nausea welling up in her throat, she began to march toward the door.
+Tina’s mind spun with anger, fear, and self-pity. With nausea welling up in her throat, she began to march toward the door.
 </p>
 <p>
 It was then that the Russian, with a startled expression, suddenly turned his head toward the hallway. He quickly and quietly motioned with his hand for her to stop moving.
@@ -240,7 +240,7 @@ Tina could just barely make out a man’s voice from far down the hallway, stead
 The Russian stared at the doorway. “What is this shit?” he mumbled slowly.
 </p>
 <p>
-“Dispatch, I’m seeing illumination from the cryogenic storage facility room area,” the unseen man said loudly. “Radiometric breach waves are increasing. Approaching now.”
+“Dispatch, I’m seeing illumination from the cryogenic storage area,” the unseen man said loudly. “Radiometric breach waves are increasing. Approaching now.”
 </p>
 <p>
 The Russian turned to Tina with eyes wide, his expression angrily demanding answers. Tina, just as confused, shrugged with upturned palms. He closed his gloved fist around the tube, and tucked his revolver into his jacket pocket. “Don’t move,” he said to her.

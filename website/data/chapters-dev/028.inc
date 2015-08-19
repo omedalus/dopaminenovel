@@ -71,10 +71,10 @@ The man looked slightly disoriented. “I… was just noticing that you don’t 
 “Yeah, a Point-Of-Sale system,” Leffert answered.
 </p>
 <p>
-The man said, “Well, see, I’m trying to isolate an intermittent ground fault somewhere along this column of the building. I need to go through all the appliances on this circuit until I can find what’s causing the issue.”
+The man said, “Well, see, I’m trying to isolate a ground fault somewhere along this column of the building. I need to go through all the appliances on this circuit until I can find what’s causing the issue.”
 </p>
 <p>
-Leffert raised an eyebrow. “An intermittent ground fault?”
+Leffert raised an eyebrow. “A ground fault?”
 </p>
 <p>
 He nodded. “Yes, ma’am. It’s when some appliance somewhere isn’t properly insulated. It could be very dangerous. I just need to rule out your computer as a possible source…”
@@ -205,7 +205,7 @@ Eugene scoffed at it. “Uncle, that thing is useless! You wear that, you have n
 Sergey mumbled, “Over here, smartass,” and swung his MAC-10 out at Eugene’s unprotected cheekbone, quick enough to startle him but softly enough to do no harm. Eugene ducked to avoid the pistol-whipping, and reached up to seize Sergey’s elbow and wrist. Sergey found his arm trapped in a limb-lock that would’ve sent the gun clattering to the floor if Eugene applied any more force. Sergey responded with a shield-bash, smacking the black polymer bubble against Eugene’s body and making him stumble several feet backwards.
 </p>
 <p>
-The two men laughed, and spoke to one another in Russian with warm, familial tones.
+The two men laughed, and spoke in Russian with warm, familial tones.
 </p>
 <p>
 Danny’s attention was pulled away by the sound of Satish’s voice in his earpiece. “Danny, are you there?” 
@@ -223,7 +223,7 @@ Danny turned away, his face hard with concentration. “Yeah, Satish. What’s u
 “There’s a huge number of X10 controllers in the building,” said Satish, “and I can’t tell which ones correspond to the Presidential penthouse. Mike and I were studying it for the last few minutes, and we can’t come up with a good approach except for divide-and-conquer.”
 </p>
 <p>
-“I’ll get you some additional manpower,” said Danny. “Moshen!” The Asian kid, standing watch nearby, swiveled toward Danny. “You’re on the conference call. This X10 issue that Satish is talking about. Can you help?”
+“I’ll get you some additional manpower,” said Danny. “Moshen! This X10 issue that Satish is talking about. Can you help?”
 </p>
 <p>
 Moshen hesitated. “Uh… What’s an X10?”
@@ -358,7 +358,7 @@ Moving slowly, Torres spread her arms out and lifted them above her head. “Wha
 Her spirit bucked in defiance. She suppressed her instincts and forced herself to comply.
 </p>
 <p>
-When she was finally inside the office, she saw Karl and Arnie and the rest of her fellow security staff. They were all gagged and bound with cords of nylon rope. Every last one of them. Their arms were tied to the hinges of interior doors, to a water pipe that ran through the office, to hooks inside their equipment lockers. They followed her with their eyes as she entered the room, each one’s face silently screaming.
+When she was finally inside the office, she saw Karl and Arnie and the rest of her fellow security staff. They were all gagged and bound with cords of nylon rope. Their arms were tied to the hinges of interior doors, to a water pipe that ran through the office, to hooks inside their equipment lockers. Their eyes followed her as she entered the room, each one’s face silently screaming.
 </p>
 <p>
 And standing several feet from them, ensuring their silence, was a man with black IOTV body armor, a full-faced helmet, and a highly accessorized M4 rifle.
@@ -418,7 +418,7 @@ Torres looked back and forth at the three invaders, confused.
 The man who had snuck up behind her wore a light ballistic vest and a bowl-shaped open-faced helmet, and carried a silver snubnose .44 Magnum.
 </p>
 <p>
-“I have good news and bad news for you,” he said. “We’re not here to hurt you. We just need you out of the way. But that phone was cut off before we even got here.”
+“I have good news and bad news,” he said. “We’re not here to hurt you. We just need you out of the way. But that phone was cut off before we even got here.”
 </p>
 <p>
 The yellow handset vibrated in her hand. “Hey. Ms., um, Torres, was it?” It was a woman’s voice &mdash; the same voice as the one on her radio. Torres looked at the handset in bewilderment. “I’m… I’m really, really sorry.”
@@ -472,7 +472,7 @@ The storyteller pantomimed putting a cigarette in his mouth and cupping his hand
 “A lighter?”
 </p>
 <p>
-“Yes! A cigarette lighter! She managed to dig it out of her pocket, and she sort of, like, twisted her hands around…” He mimicked. “…to get the flame right onto the rope, so it would burn right through.”
+“Yes! A lighter! She managed to dig it out of her pocket, and she sort of, like, twisted her hands around…” He mimicked. “…to get the flame onto the rope, so it would burn right through.”
 </p>
 <p>
 “Daaaaamn!” said one of the listeners. “Clever girl!”
@@ -481,13 +481,13 @@ The storyteller pantomimed putting a cigarette in his mouth and cupping his hand
 “I know, right? Must’ve hurt like the Devil, with the fire on her wrists, but she figured it’s better than the alternative. By the time I noticed, she’d already got her hands free, and she made a run for it before I could stop her.”
 </p>
 <p>
-He reached toward a control board mounted near the frosted-glass door of the tiny room. With the press of a button, nozzles recessed in the wood-paneled walls emitted a quick hiss of steam. He waved an arm briskly through the puffs, relishing the sensation against his skin.
+He reached toward a control board mounted near the frosted-glass door of the tiny room. With the press of a button, nozzles recessed in the wood-paneled walls emitted a quick hiss of steam. He waved an arm through the puffs, relishing the sensation against his skin.
 </p>
 <p>
 “Moral of the story? When you’re tying someone up with ropes… Make sure they’re not a smoker.”
 </p>
 <p>
-The men laughed. Moisture condensed on their naked bodies and beaded with their sweat. Wet droplets ran down their faces and chests.
+The men laughed. Moisture condensed on their bodies and beaded with their sweat. Wet droplets ran down their faces and chests.
 </p>
 <p>
 One of them asked tentatively, “Hey, do you guys like it turned up this high?”
@@ -589,7 +589,7 @@ The men murmured amongst one another. One said, “Maybe at some point. How the 
 “Rot in hell, you filthy piece of scum!” one screamed as he struggled, weakening, against the door.
 </p>
 <p>
-The man simply chuckled. He leaned against the glass from the outside, calmly said, “Let me know when you guys are ready,” and began whistling a cheerful, upbeat tune.
+The man chuckled. He leaned against the glass, calmly said, “Let me know when you guys are ready,” and began whistling a cheerful, upbeat tune.
 </p>
 </div>
 
@@ -613,7 +613,7 @@ Tina’s voice replied on the line, “Tungsten placed the reservation, yes. But
 “Of course it not go through!” Ivan barked. “Not for you to charging me!” He stuttered, partly from his poor grasp of the language, partly from the chilly air. Ivan added, “Now hurry up and bringing someone to fixing cold! Air condition is going crazy!”
 </p>
 <p>
-Politely, Tina said, “We’re terribly sorry for the malfunction of your air conditioning, sir. We’re sending a repairman to look at it right away.”
+Politely, Tina said, “We’re terribly sorry for the malfunction of your air conditioning, sir. We’re sending a repairman right away.”
 </p>
 <p>
 “You fixing right now!” said Ivan. “And you talking to the Tungsten about bill. Not me bothering with. Understand?”
@@ -715,16 +715,16 @@ He stepped out to a wide, elegant penthouse antechamber, with sparkling metallic
 Danny walked slowly across the room. He shook his head and arms limply to try to force himself to relax, and tapped his knuckles on the door. He stood patiently, toolbox in hand, waiting for a response.
 </p>
 <p>
-There was shouting in Russian from inside the room. After a few long moments, a lithe, aggressive-looking man opened the door. He wordlessly bobbed his head to the side, motioning for Danny to come in.
+There was shouting in Russian from inside the room. After a few long moments, a lithe, aggressive man opened the door. He wordlessly bobbed his head to the side, motioning for Danny to come in.
 </p>
 <p>
-The air in the suite was irritatingly cold. A fierce draft blew through the room, strong enough to make hair wave and clothes billow. The balcony’s French doors had been opened wide in an attempt to let out the cold. On the balcony, a few leather-jacketed men and barely-dressed women smoked and chatted in the outdoor air. Inside, a small group played <em>Call of Duty</em> on an enormous wall-mounted plasma TV in a sunken living room. On the dirty-looking glass coffee table, somebody had suspiciously thrown a hotel towel over a large crystalline bowl to conceal its contents. Several other men merely stood around in a small kitchen area or by a wide spiral staircase, eyeing Danny suspiciously. He saw no weapons out in the open, but he had no doubt they were very close at hand.
+The air in the suite was irritatingly cold. A fierce draft blew through the room, strong enough to make hair wave and clothes billow. The balcony’s French doors had been opened wide in an attempt to let out the cold. On the balcony, a few leather-jacketed men and barely-dressed women smoked and chatted in the outdoor air. Inside, a small group played <em>Call of Duty</em> on an enormous wall-mounted plasma TV in a sunken living room. On the glass coffee table, somebody had suspiciously thrown a hotel towel over a large crystalline bowl. Several other men stood in a small kitchen area or by a wide spiral staircase, eyeing Danny suspiciously. He saw no weapons out in the open, but he had no doubt they were close at hand.
 </p>
 <p>
 Danny looked around. No twelve-year-old girl was anywhere to be seen. He did, however, see Ivan Zheleznov.
 </p>
 <p>
-The man descended the spiral staircase like a gray hawk swooping down on a field mouse. He wore a fine three-piece suit and slicked-back silver hair. Despite being the oldest and physically weakest man in the room, his presence imposed a greater sense of immediate peril than any of his bodyguards.
+The man descended the spiral staircase like a hawk swooping down on a field mouse. He wore a fine three-piece suit and slicked-back silver hair. Despite being the oldest and physically weakest man in the room, his presence imposed a greater sense of immediate peril than any of his bodyguards.
 </p>
 <p>
 “You come to fixing the air, yes?” he said loudly to Danny in a dry, gravelly, impatient voice.

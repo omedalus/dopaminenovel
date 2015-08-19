@@ -38,12 +38,12 @@ He murmured, “She charges a fifth of your prices.”</p>
 <p>
 Eugene leaned in, pulling Francisco’s face to his ear. “I’m sorry. I don’t think I heard you right. You said she’s undercutting us by a <em>fifth</em>?”</p>
 <p>
-“Undercutting you <em>to</em> a fifth. What you sell for a grand, she sells for two hundred. They say she makes it locally, chief. She can grow it in a tub of saltwater or something. Like with pot. Some kind of hy-<em>dro</em>-ponic…”</p>
+“Undercutting you <em>to</em> a fifth. What you sell for a grand, she sells for two hundred. They say she makes it locally, chief. She grows it in a tub of saltwater or something. Like with pot. What’s it called? Hydroponic…?”</p>
 <p>
 Eugene rolled his eyes. “Francisco, how did you get to be a salesman without knowing shit about your product? Coca is not like hemp. A kilogram of coca leaves will only yield five grams of blow. Farms need to harvest acres of crop just to break even. You would know this if you were not an idiot.”
 </p>
 <p>
-“Look, I don’t know how it works, chief,” Francisco pleaded. “I’m just saying what I heard. Look at her prices, though. It checks out, right? She’s got no import costs. No cartel dues. No <em>Federales</em> bribes. Maybe she knows something you don’t.”
+“Look, chief. I’m just saying what I heard,” Francisco pleaded. “It checks out, though. Figure she’s got no import costs, no cartel dues, no <em>Federales</em> bribes… Maybe she knows something you don’t.”
 </p>
 <p>
 Eugene’s fingers closed around Francisco’s throat. He looked into his reddening eyes and hissed, “You betray us for this bullshit…?”
@@ -151,7 +151,7 @@ The bodyguard at Julie’s side approached the melee, reaching out to grapple Eu
 A pair of hairy, thick-fingered hands appeared beneath the bodyguard’s armpits. They snaked up over his shoulders and joined behind the man’s head, locking his arms in a full nelson. The guard, taken by surprise, struggled to break free from the large unseen figure behind him.
 </p>
 <p>
-Eugene wasted no time. With the broken pool cue still in his hands, he thrust the cracked end into a patch of vulnerable flesh just below the guard’s ribs. The splintered wood tore through cloth, skin, and muscle, and when Eugene released the stick it remained lodged in his torso. The bodyguard emitted a long, powerless grunt and sank to the floor, his blood running down the pool cue. The bartender and patrons looked away furtively as the wounded man crawled toward an exit; they were savvy enough to see and hear nothing.
+Eugene wasted no time. He stabbed the cracked end of the pool cue into a patch of vulnerable flesh below the guard’s ribs. The splintered wood tore through cloth, skin, and muscle, and when Eugene released the stick it remained lodged in his torso. The bodyguard emitted a long, powerless grunt and sank to the floor, his blood running down the pool cue. The bartender and patrons looked away furtively as the wounded man crawled toward an exit; they were savvy enough to see and hear nothing.
 </p>
 <p>
 With the bodyguard fallen, Eugene saw the round, rugged face and the massive, middle-aged form of the man who had come to his aid.

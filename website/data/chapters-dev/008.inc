@@ -69,10 +69,10 @@ The light was suddenly obscured by Jason’s hand waving and snapping its finger
 “Yeah,” Danny replied. He looked at his laptop screen. “Sweet, I’ve got plenty of vectors. Now I just hit Analyze… Korek algorithm… Start… and…” He held up his computer, triumphant. “Gentlemen, we can haz password!”
 </p>
 <p>
-With excited commotion, Mike, Moshen, and Satish leaned in to see Danny’s screen. The message “<span class="computer">WEP key found !</span>” showed prominently in a window. They each carefully copied the sequence of hexadecimal digits to their own computers.  “<span class="computer">6430637430725F505F66336C6C61746573…</span>”
+With excited commotion, Mike, Moshen, and Satish leaned in to see Danny’s screen. The message “<span class="computer">WEP key found !</span>” showed prominently. They each carefully copied the sequence to their own computers.  “<span class="computer">6430637430725F505F66336C6C61746573…</span>”
 </p>
 <p>
-Mike, sitting right behind Danny, announced, “It works. I’m connected.”
+Mike, sitting behind Danny, announced, “It works. I’m connected.”
 </p>
 <p>
 “Start scanning, Mike,” Danny directed. “Now that we’re behind their firewall, we should be able to reach every machine on their network.”
@@ -87,7 +87,7 @@ Satish asked, “Do you want to see their camera feeds?”
 “I have everything,” said Satish. “I’m doing a promiscuous packet sniff. Look at port 80 on 192.168.2.57. I’m seeing an MPEG-4 stream inside a HTTP session.” Despite years of experience working alongside Indian engineers and normally having no trouble parsing the accents of the subcontinent, Danny had never quite gotten used to the pronunciation of “H” as “hatch”.
 </p>
 <p>
-Upon entering the numbers, Danny’s screen filled with a picture of the driveway just in front of the Tungsten building, pixelated and choppy. A narrow ribbon of text ran along the bottom, showing the current date, time, and information about the camera. A rectangle labeled “PTZ” contained icons of arrows and magnifying glasses. Danny clicked on them and found that he could move the camera &mdash; pan, tilt, and zoom. “Niiiii<em>iii</em>ce!” Danny sang.
+Upon entering the numbers, Danny’s screen filled with a picture of the driveway in front of the Tungsten building, pixelated and choppy. A narrow ribbon of text ran along the bottom, showing the current date, time, and information about the camera. A rectangle labeled “PTZ” contained icons of arrows and magnifying glasses. Danny clicked on them and found that he could move the camera &mdash; pan, tilt, and zoom. “Niiiii<em>iii</em>ce!” Danny sang.
 </p>
 <p>
 “I’m seeing user activity,” said Satish. “There’s a chat session, and there’s a FireFox browser making requests to stuffonmycat.com. I’m pretty sure someone’s still in the building.”
@@ -105,7 +105,7 @@ He saw the reception area. Somebody was there.
 “Guys. Check out dot-177,” said Danny.
 </p>
 <p>
-The screen showed an angled overhead view of a young woman at the reception desk. She wore a black knit cardigan over a simple white button-down shirt. Her unkempt black hair fell just below her chin. A small nose stud glinted in the light.
+The screen showed an angled overhead view of a young woman at the reception desk. She wore a black knit cardigan over a simple white button-down shirt. Her unkempt black hair fell below her chin. A small nose stud glinted in the light.
 </p>
 <p>
 What Danny noticed most, though, was her posture and poise &mdash; or rather, her complete lack thereof. She slouched as she tapped away at her keyboard, her shoulders slumped forward. The timing of her keystrokes made it obvious that she was chatting with someone online, feeling no need to appear like she was still working. Her hair was unkempt not because she was going for an artificial messy-chic look, but because it was, in fact, the natural state of her hair after a very long work shift. 
@@ -195,10 +195,7 @@ Moshen followed suit with the hallway camera. “I’m dizzy, dude,” he compla
 Suddenly, his entire image jostled violently.
 </p>
 <p>
-“Done!” Danny announced. He took his mouse off of the PTZ buttons. The view came to rest on the receptionist’s face, poised inches from the camera lens. His eyes traced the curve of her cheeks, the contours of her lips.
-</p>
-<p>
-He watched her as she climbed down from her chair, walked through the lobby doors, and approached the camera that Moshen was driving.
+“Done!” Danny announced. He took his mouse off of the PTZ buttons. The view came to rest on the receptionist’s face, inches from the lens. His eyes traced the curve of her cheeks, the contours of her lips. He watched as she climbed down from her chair, walked through the lobby doors, and approached the camera that Moshen was driving.
 </p>
 <p>
 “Ohhhh!” Moshen said. He brought up several more camera feeds, and began tapping their PTZ controls.
@@ -315,7 +312,7 @@ Danny sighed. He poked at his laptop with his foot. “I hate these things,” h
 Jason thought for a few moments before replying. “You remember what I said, Danny, when I saw you holding that invention of yours back at the club? You love your work. I know you do.”
 </p>
 <p>
-“I do, Jason. I love it so much it’s fucking heartbreaking. Do you know how much it hurts to love something that dies so quickly? You learn some amazing complex system, and then bam! Obsolete overnight. Do you have any idea how much outdated technical shit is in my head? I can rattle off every opcode in the Motorola 68K instruction set. I know the full pin-out structure for the Intel 80286 CPU. I know a thousand things that, at their time, were cutting-edge. I learned them cold and I was fucking awesome. And now what? Time has left them in the dust, and all that shit is still in my head, like the abandoned ruins of some ancient civilization. All that skill, that hard-won knowledge… it’s useless. Completely, utterly fucking useless.” He gulped painfully. “Just like me.”
+“I do, Jason. I love it so much it’s fucking heartbreaking. Do you know how much it hurts to love something that dies so quickly? You learn some amazing complex system, and then bam! Obsolete overnight. Do you have any idea how much outdated technical shit is in my head? I can rattle off every opcode in the Motorola 68K instruction set. I know the full pin-out structure for the Intel 80286 CPU. I know a thousand things that, at their time, were cutting-edge. I was fucking awesome. And now what? Time has left them in the dust, and all that shit is still in my head, like the abandoned ruins of some ancient civilization. All that skill, that hard-won knowledge… it’s useless. Completely, utterly fucking useless.” He gulped painfully. “Just like me.”
 </p>
 <p>
 Jason stood up beside him and reached his hand down toward Danny. “Listen. I’m not sure exactly what triggered this, but if you really take pride in your work, then… Well, you’re at work this very minute, remember? Stop sulking. You’re on the clock. You’ve got a job to do.”

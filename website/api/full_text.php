@@ -3,6 +3,8 @@
 $dev = $_GET['dev'];
 $dirname = $dev == "true" ? "chapters-dev" : "chapters";
 
+$mturk = $_GET['mturk'] == 'true';
+$mturkscript = $mturk ? '<script src="api/mturk.js"></script>' : '';
 
 require_once('act_breaks.php');
 header('Content-Type: text/html; charset=utf-8');
@@ -18,6 +20,7 @@ echo <<<EOL
   <script src="thirdparty/underscore-min.js"></script>
 
   <script src="api/script.js"></script>
+  $mturkscript
 
   <title>Dopamine</title>
 

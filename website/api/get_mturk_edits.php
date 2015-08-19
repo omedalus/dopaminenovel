@@ -46,6 +46,17 @@ for ($isplit = 0; $isplit <= sizeof($batchsplit); $isplit++) {
 }
 
 
+function cmp($a, $b) {
+  if ($a["p"] < $b["p"]) {
+    return -1;
+  } else if ($a["p"] > $b["p"]) {
+    return 1;
+  } else {
+    return 0;
+  }
+}
+
+usort($retval, cmp);
 
 header('Content-Type: application/json; charset=utf8');
 header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1

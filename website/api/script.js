@@ -75,6 +75,10 @@ $(document).ready(function() {
 
     var iparagraph = findTopParagraph();
     location.hash = 'p=' + iparagraph;
+    
+    if (typeof loadNextMturkFeedback === 'function') {
+      loadNextMturkFeedback(iparagraph);
+    }
   };
   
   var scrollToParagraph = function(iparagraph) {

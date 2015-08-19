@@ -318,7 +318,7 @@ That got a chuckle out of Tina. “Not exactly. They were total ass-clowns. It w
 Natalie eyed her skeptically.
 </p>
 <p>
-“Oh my god, shut up!” Tina suddenly got very interested in the sleeve of her cardigan, which was stained with Danny’s blood. She took it off and threw it into Natalie’s closet. “Nat, if I didn’t know better, I’d say you were pressuring me into hooking up with the first remotely do-able guy to come along just so you can hear me tell dirty stories about someone besides Roger for a change. Maybe what you should be focusing on is creating your own dirty stories to tell.”
+“Oh my god, shut up!” Tina suddenly got very interested in the sleeve of her cardigan, which was stained with Danny’s blood. She took it off and threw it into Natalie’s closet. “Nat, if I didn’t know better, I’d say you were pressuring me into hooking up with the first remotely do-able guy to come along just so you can hear me tell dirty stories about someone besides Roger for a change. Maybe what you should be focusing on is creating some dirty stories of your own.”
 </p>
 <p>
 Natalie crossed her arms. “Oh, we will have <em>none</em> of that, you hear? I’m the only clinical psychiatrist in the room, so I’ll be the only one doing any clinical psychiatrizing.”

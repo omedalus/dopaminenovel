@@ -297,7 +297,7 @@ Natalie shook her head sagely. “First chance we get, T, we’re performing a r
 That got a chuckle out of Tina. “Not exactly. They were total ass-clowns. It was like watching The Bourne Identity starring The Three Stooges. The other guy, the tall geeky one? He’s injured too. He’s lost blood &mdash; I think a bullet grazed his shoulder.”
 </p>
 <p>
-“He looked a little pale, but I figured it’s just nerd-skin. I’ll check him out. He helped beat up a Russian mobster?”
+“He looked a little pale, but I figured it’s just nerd-skin. I’ll check him out. He fought?”
 </p>
 <p>
 “He was mostly a distraction,” said Tina. “He had this machine… It was like something out of a really low-budget sci-fi movie, all held together with Velcro and duct tape. Like he built it himself.”

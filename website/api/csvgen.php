@@ -1,7 +1,7 @@
 <?php
 
 $pbegin = 5;
-$pend = 4240;
+$pend = 4200;
 
 $numsteps = intval($_GET['n']);
 $stepsize = intval(($pend - $pbegin) / $numsteps);

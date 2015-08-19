@@ -255,10 +255,10 @@ Natalie answered, “Heh, yes. That stuff is called dopamine.”
 “Well, I’m not getting it,” said Mike. “I’m trying to make myself feel it, but it’s just not working. You know, I wish I really could honest-to-God convince myself that this is all just some D&amp;D campaign. Because if it’s all just fantasy then I can handle it. If it’s fantasy then it’s all fun and exciting and what I just did was epic and I should be proud of myself. But if it’s not, then…”
 </p>
 <p>
-Natalie clapped her hand on Mike’s thigh. “Okay Mike, listen up,” she said with optimism, looking warmly into his eyes. “I’m going to take you to Swedish. They’ll take care of your nose, and they’ll give you a CT scan. I’m going to help you through this. I’ll personally make sure you’re okay. Now, I’m going to be right back &mdash; I need to go change and then we’ll head out.”
+Natalie clapped her hand on Mike’s thigh. “Okay, big buy, listen up,” she said brightly. “I’ll take you to Swedish. They’ll fix your nose and give you a CT scan. I’m going to help you through this. I’ll personally make sure you’re okay. I need to go change, and then we’ll head out.”
 </p>
 <p>
-She stood up from the couch and glided cheerfully toward her bedroom door.
+She stood up from the couch and glided cheerfully toward her bedroom.
 </p>
 <p>
 As she passed by, Tina heard her humming.
@@ -267,91 +267,76 @@ As she passed by, Tina heard her humming.
 “Glad to see you’re happy,” Tina said with a trace of resentment.
 </p>
 <p>
-Natalie responded in a sing-song whisper, “T, you failed to mention over the phone that this guy is <em>fucking awesooooome</em>!”
+Natalie responded in a sing-song whisper, “You failed to mention over the phone that this guy is <em>fucking awesooooome</em>!” She proceeded into the bedroom and rummaged through her closet. 
 </p>
 <p>
-She proceeded into the bedroom and rummaged through her closet for something suitable for leaving the house. 
+Tina followed and closed the door behind her. From the pile of blankets on the bed, a pair of feline eyes watched her. “Did I mention that I was almost kidnapped by the Russian mob tonight?”
 </p>
 <p>
-Tina followed her friend. From the pile of blankets and pillows on the bed, a pair of feline eyes watched her as she entered.
-</p>
-<p>
-She closed the bedroom door behind her. 
-</p>
-<p>
-“Did I mention I was held at gunpoint and almost kidnapped by the Russian mob tonight?”
-</p>
-<p>
-Natalie giggled, “I’m sorry, T, I know I’ve been ignoring you. I…” She looked at Tina’s face. Her expression turned ashen. “Oh my god. You’re serious.”
+Natalie giggled, “Sorry, T, I know I’ve been ignoring you. I…” She saw Tina’s eyes. Her face turned ashen. “Oh my god. You’re serious.”
 </p>
 <p>
 “It’s been a busy night,” said Tina.
 </p>
 <p>
-“Oh T…” Natalie said. She came up to Tina and gave her a big maternal hug. “You must be a total wreck.”
+Natalie wrapped her ample arms around her friend. “What happened?”
 </p>
 <p>
-“It hasn’t really sunk in yet.” She drew away and turned around to let Natalie disrobe.
+“I’m still processing, honestly. One moment I’m was at work, bored shitless as usual. Next thing I know, some goon is waving a gun at me… Nat, if these guys hadn’t shown up, I’d be in a dungeon somewhere right now. Or dead.”
 </p>
 <p>
-“Is <em>that</em> who this Mike guy fought off today?” Natalie asked as she pulled on a set of black Spanx. “A team of Russian hitmen? And he <em>won</em>?”
+Natalie shook her head sagely. “First chance we get, T, we’re performing a rite of gratitude. Upp! No arguing! You owe it. Your guides brought you protection tonight &mdash; the least you can do is light a candle to acknowledge your good fortune. Besides… <em>I</em>, for one, am incredibly thankful that there was something or someone out there, looking out for my friend.” She turned her attention to the clothes littering her floor, and fished out a pair of black Spanx. “Is <em>that</em> who this Mike guy fought today?” Natalie’s voice was strained as she pulled the girdle over her hips. “A Russian hitman? And he <em>won</em>?”
 </p>
 <p>
 “Damn it, Nat!”
 </p>
 <p>
-“Sorry! It’s just… that’s… pretty cool.” She hoisted herself into a large gray dress.
+“Sorry! It’s just… that’s… pretty cool.” She hoisted herself into a gray dress. “You’re telling me those doughy dweebs in my living room are actually an undercover ninja squad?”
 </p>
 <p>
-“You didn’t see them in action,” Tina replied.
+That got a chuckle out of Tina. “Not exactly. They were total ass-clowns. It was like watching The Bourne Identity starring The Three Stooges. The other guy, the tall geeky one? He’s injured too. He’s lost blood &mdash; I think a bullet grazed his shoulder.”
 </p>
 <p>
-“Oh yeah?” said Natalie. “Was it amazing? Were they all sleek black-ops ninjas?”
+“He looked a little pale, but I figured it’s just nerd-skin. I’ll check him out. He helped beat up a Russian mobster?”
 </p>
 <p>
-Tina laughed. “Anything but. They were total ass-clowns. It was like watching The Bourne Identity starring The Three Stooges. Him and the other guy. Danny. The tall thin geeky one. He’s injured too. He’s lost some blood &mdash; I think a bullet grazed his shoulder.”
+“He was mostly a distraction,” said Tina. “He had this machine… It was like something out of a really low-budget sci-fi movie, all held together with Velcro and duct tape. Like he built it himself.”
 </p>
 <p>
-“He looked a little pale, but I thought that’s just nerd-skin. I’ll check him out. He helped beat up a Russian mobster?”
-</p>
-<p>
-“He was mostly a distraction,” said Tina. “He had this machine… He called it a ‘HERF gun.’ The thing was like something out of a really low-budget science fiction movie, all held together with Velcro and duct tape. Like he built it himself or something.” 
-</p>
-<p>
-“Technogeeky. Sounds like your type,” said Natalie. She examined her face in the mirror of an obscenely cluttered vanity and began applying spots of foundation.
+“Technogeeky. Sounds like your type,” said Natalie. She examined her face in the mirror of an obscenely cluttered vanity and dabbed her face with foundation.
 </p>
 <p>
 “Please. I don’t do old men,” said Tina.
 </p>
 <p>
-“No, you don’t do <em>men</em> at all,” Natalie retorted. “You do boys. Besides, I know you. If you don’t get yourself a rebound asap, you’ll be giving Roger a drunken bootie call in twenty-four hours flat.”
+“No, you don’t do <em>men</em> at all,” Natalie retorted. “You do boys. Besides, I know you. If you don’t find yourself a rebound, you’ll be giving Roger a drunken bootie call before you can say ‘walk of shame’.”
 </p>
 <p>
-“Hey, shut up! I have more willpower than that!” said Tina.
+“Hey, I have more willpower than that!” said Tina.
 </p>
 <p>
-Natalie looked at her.
+Natalie eyed her skeptically.
 </p>
 <p>
-“Oh my god, shut up!” Tina demanded, blushing. She realized that the sleeve of her cardigan was stained with Danny’s blood. She took it off, leaving herself in her button-down shirt underneath, and threw it into Natalie’s closet. “Nat, if I didn’t know better, I’d say you were pressuring me into hooking up with the first remotely do-able guy just so you can hear me tell dirty stories about someone besides Roger for a change.”
+“Oh my god, shut up!” Tina suddenly got very interested in the sleeve of her cardigan, which was stained with Danny’s blood. She took it off and threw it into Natalie’s closet. “Nat, if I didn’t know better, I’d say you were pressuring me into hooking up with the first remotely do-able guy to come along just so you can hear me tell dirty stories about someone besides Roger for a change. Maybe what you should be focusing on is creating your own dirty stories to tell.”
 </p>
 <p>
-Natalie paused for a moment to puff up and cross her arms. “Oh, we will have <em>none</em> of that, you hear? I’m the only clinical psychiatrist in the room, so I’ll be the only one doing any clinical psychiatrizing.”
+Natalie crossed her arms. “Oh, we will have <em>none</em> of that, you hear? I’m the only clinical psychiatrist in the room, so I’ll be the only one doing any clinical psychiatrizing.”
 </p>
 <p>
 “Oh, bam! I got a little truthy there, didn’t I?” Tina teased.
 </p>
 <p>
-With a laugh and a headshake, Natalie finished adjusting her dress and makeup. “How do I look?”
+With a laugh, Natalie finished adjusting her dress and makeup. “How do I look?”
 </p>
 <p>
-“Lovely. But your new crush is potentially brain-damaged, so he probably won’t notice.”
+“Smashing. But your new crush is potentially brain-damaged, so he probably won’t notice.”
 </p>
 <p>
 “You’ve still got keys to this place, right?” asked Natalie. “Do you want to come with me to Swedish, or should I leave you here with your new boyfriend? There’s Jack Daniels in the pantry.”
 </p>
 <p>
-“Oh come on, I do <em>not</em> need to get a guy drunk to have my way with him,” Tina protested. “Anyway, I think I’ll stick around. I want to see what’s all the fuss about this vial.”
+“Subtle, Nat. Real subtle. I think I’ll stick around, but only because I want to see what’s all the fuss about this vial.”
 </p>
 <p>
 Natalie reached into a drawer and pulled out a blood pressure cuff, a stethoscope, and a stopwatch. “You still remember how to use these?”
@@ -375,31 +360,28 @@ Danny jumped uneasily.
 The girls approached him. Natalie circled him, carrying clothes and first aid, and pulled on a pair of plastic gloves. Tina stood by with the sphygmomanometer.
 </p>
 <p>
-Hesitantly, Danny pulled off his flannel. The upper left back was caked with dried, crusted blood. There was a three-inch-long slice across the left shoulder &mdash; the material looked like it was torn with a serrated knife.
+Hesitantly, Danny pulled off his flannel. It was caked with dried, crusted blood. There was a three-inch-long tear across the left shoulder, as though cut with a serrated knife.
 </p>
 <p>
-His shoulder stung as he lifted his arms to remove his black t-shirt underneath. The shirt caught on his skin as he drew it over his back, and he realized that the cotton fabric had clotted into the gash. He took a deep breath in anticipation of the sharp pain and yanked the shirt up, tearing the large scab open. Warm moisture oozed down his naked spine.
+His shoulder stung as he lifted his arms to take off the t-shirt underneath. The fabric caught on his skin, and he realized that it had clotted into the gash. He took a deep breath in anticipation of the sharp pain and yanked the shirt up, tearing the large scab open. Warm moisture oozed down his naked spine.
 </p>
 <p>
-Natalie cleaned him with alcohol wipes and disinfectants, and dressed the wound in gauze and adhesive bandages.
+Natalie expertly cleaned the wound and dressed it in gauze and adhesive bandages.
 </p>
 <p>
-Tina took his wrist and held his arm out so she could slide on the blood pressure cuff. “Hey,” she said to him nonchalantly. “You doing okay?”
+Tina took Danny’s wrist and held his arm out so she could slide on the blood pressure cuff. She traced her fingers along the inside of his wrist. As her fingertips brushed across his skin, the rhythmic throb of his ulnar artery conveniently grew visible to her naked eye. She breathed on the end of the stethoscope to warm it up, and carefully laid it against the inside of his elbow. “Hey,” she said to him. “You okay?”
 </p>
 <p>
-“Me? I’m fine. I’m doing great,” he answered with an overconfident smile.
+“Me?” he answered with an overconfident smile. “Yeah, of course. Doing great! Why?” 
 </p>
 <p>
-She chuckled through her nose and traced her fingers lightly along the inside of his wrist in search of his pulse. As her fingertips brushed across his skin, the rhythmic throb of his ulnar artery conveniently grew visible to her naked eye. She breathed on the end of the stethoscope to warm it up, and carefully laid it against the inside of Danny’s elbow to measure his pulse and blood pressure. They were elevated.
+“Your pulse is racing.”
 </p>
 <p>
-Danny flexed his abs upon noticing that Tina was checking out his midsection. “Am I going to live?” he asked with bravado.
+Natalie checked Tina’s numbers. “He’ll be fine,” said Natalie. “Drink some orange juice, eat some protein bars, and rest for a while.” She ruffled his floppy brown hair and said to him, “Think you can handle that?” 
 </p>
 <p>
-“You’ll be fine,” said Natalie. “Drink some orange juice, eat some protein bars, and rest for a while.” She ruffled his floppy brown hair and said to him, “Think you can handle that?” 
-</p>
-<p>
-“Yeah,” Danny said. “Mind if I raid your fridge?”
+Danny replied, “Mind if I raid your fridge?”
 </p>
 <p>
 Natalie looked a little sheepish. “All I have in the house is liquor and frozen pot pies. But there’s a Rite Aid on Madison and Summit. Walking distance. Tina will help you get there. Right, Tina?”

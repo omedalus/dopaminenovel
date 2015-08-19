@@ -103,16 +103,13 @@ Jason turned his head and saw Danny still by the metal table. “Danny, what the
 Danny was still examining the glass bottle, poking it with the end of his HERF gun to make the clear liquid jiggle. It looked for all the world like perfectly normal water, but a very fine white haze hung suspended inside the bottle above the waterline.
 </p>
 <p>
-Julie shuffled toward him, looking irritated. Danny put his HERF gun down and backed away from the table.
+Julie shuffled toward him, looking irritated. Danny put his contraption down and backed away from the table.
 </p>
 <p>
-Without a word, Julie pulled on the black rubber gloves and strapped the goggles over her face. Holding the bottle with one hand, she gently pulled out the stopper. Like mist rising from a freshly opened ice-cold beer, a translucent trail of pale vapor wafted upward. The girl then reached down and grabbed a random scrap of brown cardboard from the floor. She slowly waved the cardboard over the bottle, letting it pass through the finger of mist rising from the neck. Along the line of exposure, the cardboard blackened and charred before Danny’s eyes. She pulled the sheet away from the mist and gave it a slight shake, and chunks of the cardboard crumbled to ash onto the floor. Julie used the remains of the cardboard scrap to wipe the rubber stopper. Where the two touched, the cardboard simply vanished. A trace of gray smoke rose briefly through the air, accompanied by a very faint hissing noise.
+Without a word, Julie pulled on the black rubber gloves and strapped the goggles over her face. Holding the bottle with one hand, she gently pulled out the stopper. Like mist rising from a freshly opened ice-cold beer, a translucent trail of pale vapor wafted upward. She reached down and grabbed a scrap of brown cardboard from the floor. She slowly waved the cardboard over the bottle, letting it pass through the finger of mist. Along the line of exposure, the cardboard blackened and charred before Danny’s eyes. She gave the sheet a slight shake, and chunks of the cardboard crumbled to ash onto the floor. Julie used the remains of the cardboard to wipe the rubber stopper. Where it touched, the cardboard simply vanished. A trace of gray smoke rose briefly, accompanied by a very faint hissing noise.
 </p>
 <p>
-Julie reinserted the stopper into the neck of the bottle, and turned to Danny. “That’s why you don’t fuck with this stuff!” she said as she took the gloves and goggles back off. “Got it?”
-</p>
-<p>
-Danny gave a slow and emphatic nod.
+Julie reinserted the stopper into the bottle, and turned to Danny. “That’s why you don’t fuck with this stuff!” she said as she took the gloves and goggles back off. “Got it?”
 </p>
 <p>
 Jason approached them, carefully making his way past the equipment. “What’s all this stuff for?” he asked the girl, gesturing at the blue barrels of kerosene.
@@ -214,10 +211,10 @@ Julie stared at him.
 “It’s how a lot of computer viruses work,” Danny explained. “They copy a virus-riddled file into a specific place somewhere on your filesystem, so that the computer thinks that the file is a normal part of some application. When you run that application, the computer runs the virus along with the rest of the application’s code.” 
 </p>
 <p>
-Jason stared at the girl with a slightly combative expression. “Hmm. So, you successfully gene-spliced a coca plant into a laboratory germ in order to create a cocaine-producing bio-machine.”
+Jason stared at the girl with a combative expression. “So, you successfully gene-spliced a coca plant into a laboratory germ in order to create a cocaine-producing bio-machine.”
 </p>
 <p>
-“Yeah,” Julie said, somewhat proudly.
+“Yeah,” Julie said proudly.
 </p>
 <p>
 “That sounds like one hell of an engineering accomplishment,” he said.
@@ -235,7 +232,7 @@ Jason stared at the girl with a slightly combative expression. “Hmm. So, you s
 “How did <em>you</em> get that vial?” Jason prodded.
 </p>
 <p>
-“What do you mean, how did I get it?” Julie said, a hint of anger adding a spark to her otherwise lifeless voice. “I just told you! It’s made from sequencing the <em>Erythroxylon coca</em> genome, taking all the genes of the entire metabolic pathway…”
+“What do you mean, how did I get it?” Julie said, a hint of anger adding a spark to her voice. “I just told you! It’s made from sequencing the <em>Erythroxylon coca</em> genome, taking all the genes of the entire metabolic pathway…”
 </p>
 <p>
 “That doesn’t answer the question,” said Jason.
@@ -244,7 +241,7 @@ Jason stared at the girl with a slightly combative expression. “Hmm. So, you s
 “I think it does,” Julie said defensively.
 </p>
 <p>
-“It answers how <em>Tungsten</em> created it,” said Jason. “It doesn’t answer how <em>you</em> ended up with it. Look, I don’t know much about science, but I do know plenty about manpower and personnel management. The kind of engineering effort you’re describing would take years, even for a team of a dozen or more world-class researchers. You did <em>not</em> create it on your own as some intern summer project.”
+“It answers how <em>Tungsten</em> created it,” said Jason. “It doesn’t answer how <em>you</em> ended up with it. Look, I don’t know much about science, but I do know plenty about manpower and personnel management. The kind of engineering effort you’re describing would take years, even for a team of world-class researchers. You did <em>not</em> create it on your own as some intern summer project.”
 </p>
 <p>
 “I’m a key member of the research staff!” Julie said defiantly.
@@ -340,16 +337,16 @@ Jason watched her in silence. Danny, for his part, wandered over to the vat in t
 Quietly, Jason asked her, “Are you okay?”
 </p>
 <p>
-“No!” she answered. “No, I’m fucking not okay! God, I don’t understand why everything has to be so fucking hard!” She began to sob. “Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final and break the curve, and they go, ‘How could you miss those three percent?’ I work so fucking hard, just to feel the slightest shred of pride and accomplishment, and all I ever get is disappointment. All I want is just to be able to enjoy the feeling of knowing that I did <em>something</em> right for once in my life. <em>Anything</em>. I figured all I needed was one big score, just do one single goddamned thing, so I could show everybody that I can measure up. Just to prove to the world, ‘Look at me, fuckers! I win! I don’t care what you say! I <em>am</em> good enough!’ Except… Except I’m obviously not.”
+“No!” she answered. “No, I’m not fucking okay! God, I don’t understand why everything has to be so fucking hard!” She began to sob. “Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final and break the curve, and they go, ‘How could you miss those three percent?’ I work so fucking hard, just to feel the slightest shred of pride and accomplishment, and all I ever get is disappointment. All I want is just to be able to enjoy the feeling of knowing that I did <em>something</em> right for once in my life. <em>Anything</em>. I figured all I needed was one big score, just do one single goddamned thing, so I could show everybody that I can measure up. Just to prove to the world, ‘Look at me, fuckers! I win! I don’t care what you say! I <em>am</em> good enough!’ Except… Except I’m obviously not.”
 </p>
 <p>
 Jason reached out to pat her reassuringly on the shoulder. 
 </p>
 <p>
-Her voice thin and weak, she asked, “Can you please get me some coke now?”
+Her voice thin, she asked, “Can you please get me some coke now?”
 </p>
 <p>
-He paused for a second, and said, “Okay, Julie. I’ll see what I can do.”
+He paused, and said, “Okay, Julie. I’ll see what I can do.”
 </p>
 <p>
 “Thank you,” she whimpered, still not moving from her fetal position.
@@ -472,13 +469,13 @@ Jason sighed. “Yeah. Your drugs,” he said, and with a grunt he stood up. “
 
 <div class="chapsection">
 <p>
-<span class="caplead">Captain Danny was guiding his submarine</span> through the treacherous Vat Sea when his crew encountered an enormous sea monster. From Captain Danny’s perspective, the creature looked like a horizontally stretched human face looking straight at him, almost like that of a young Asian female as seen through the lens-warping effect of a water-filled cylinder.
+<span class="caplead">Captain Danny was guiding his submarine</span> through the treacherous Vat Sea when his crew encountered an enormous sea monster. From Captain Danny’s perspective, the creature looked like a horizontally stretched human face, almost like that of a young Asian female as seen through the lens-warping effect of a water-filled cylinder.
 </p>
 <p>
 “Do you mind?” said the aquatic beast through its overly large mouth. “I set the environment for optimal growth conditions. It’d be nice if you didn’t screw it up.”
 </p>
 <p>
-Danny stood up and looked at Julie over the top of the vat. She regained normal human proportions. “Sorry. It’s been a seriously crazy day. I could really use some sleep.”
+Danny stood up and looked at Julie over the vat. She regained normal human proportions. “Sorry. It’s been a seriously crazy day. I could really use some sleep.”
 </p>
 <p>
 “Heh, I know something white and powdery that can fix that,” she said with a conspiratorial smirk.
@@ -487,7 +484,7 @@ Danny stood up and looked at Julie over the top of the vat. She regained normal 
 “I don’t do drugs,” Danny asserted. “I hate the idea of fucking with my brain.”
 </p>
 <p>
-Julie laughed at him. “You fuck with your brain all the time and you don’t even know it. Amino acids in your food get metabolized into neurotransmitters, and carbohydrates affect your cortisol levels. So does exercise, which also releases endorphins. And you, uh, breathe air, right? Do you know what different oxygen concentrations do to your neurochemistry? Or sunlight, which triggers your body to make melanin and vitamin D, which have mood-altering effects. You spend time outside in the sun, right?” She looked him over. “Okay, bad example.”
+Julie laughed at him. “You fuck with your brain all the time and you don’t even know it. Amino acids in your food get metabolized into neurotransmitters, and carbohydrates affect your cortisol levels. So does exercise, which also releases endorphins. And you breathe air, right? Do you know what different oxygen concentrations do to your neurochemistry? Or sunlight, which triggers your body to make melanin and vitamin D, which have mood-altering effects. You spend time outside in the sun, right?” She looked him over. “Okay, bad example.”
 </p>
 <p>
 “Yeah, but that’s all natural,” said Danny.
@@ -598,7 +595,7 @@ Julie stood by with an expression like a cat at a sushi bar.
 Rex grudgingly muttered permission, and rose from the folding chair. 
 </p>
 <p>
-The man had barely gotten his rear off of the seat before she slid in and grabbed the razorblade and rolled-up dollar bill. Unlike Rex, who had savored the ritual of drawing the lines and taking the first hit, Julie instead simply dove straight into the next line on the table, snorting it up as quickly as her breath would allow. With the line gone in an instant, she dropped the dollar bill to the table and held her hands up to cover her mouth and nose. She held her breath for several seconds, looking like she was about to sneeze. Tears built up in her eyes. Her accelerating pulse was visible in her ears.  
+The man had barely gotten his rear off of the seat before she slid in and grabbed the razorblade and rolled-up dollar bill. Unlike Rex, who had savored the ritual of drawing the lines and taking the first hit, Julie instead simply dove straight into the next line on the table, snorting it up as quickly as her breath would allow. She dropped the dollar bill and held her hands over her mouth and nose. She held her breath for several seconds, looking like she was about to sneeze. Tears built up in her eyes. Her accelerating pulse was visible in her ears.  
 </p>
 <p>
 After almost a minute of sitting motionless, she finally made a sound. A laugh. A euphoric, delighted, childlike laugh.
@@ -607,13 +604,13 @@ After almost a minute of sitting motionless, she finally made a sound. A laugh. 
 “I can’t feel my face!” she giggled, and traced her fingers sensuously across her mouth and cheeks.
 </p>
 <p>
-Jason watched her indulge. “Listen, Julie,” he said in a businesslike tone. “You still have the vial, right?”
+Jason watched her indulge. “Listen, Julie. You still have the vial, right?”
 </p>
 <p>
-Julie merely sat in the chair, looking up blissfully.
+Julie sat in unresponsive bliss.
 </p>
 <p>
-“Julie, the vial…” Jason persisted.
+“Julie, the vial…” he persisted.
 </p>
 <p>
 The girl abruptly turned. “Dude I can hear you just fine, shut the fuck up,” she snapped, her voice rapid and energetic. “Can’t a girl enjoy a freakin’ high? It’s my first hit in like a week, so let me fucking roll with it, okay? Christ. Buzzkill.”
@@ -730,6 +727,6 @@ She turned to look down at Rex on the floor hiding the mess of cocaine. She gave
 “What?” the pock-skinned, long-haired blond man growled, looking up from his crouched position next to her chair.
 </p>
 <p>
-And she swiftly reached across the table, grabbed the clear unlabeled bottle with her bare hands, pulled out the stopper, and poured half a liter of eleven molar hydrochloric acid down onto his face. 
+And she swiftly reached across the table, grabbed the clear unlabeled bottle, pulled out the stopper, and poured half a liter of eleven molar hydrochloric acid down onto his face. 
 </p>
 </div>

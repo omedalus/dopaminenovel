@@ -111,28 +111,28 @@ Tina nodded slowly. “Yeah, it does. More than you know,” she said quietly.
 “What about me?” she returned, with a slight wiggle.
 </p>
 <p>
-“How did you learn all about biotechnology? Did you, like, absorb it through osmosis at Tungsten or something? Um, no pun intended.”
+“How did you learn about biotechnology? Did you absorb it through osmosis at Tungsten or something? No pun intended.”
 </p>
 <p>
-Tina beamed. “I might have picked up a thing or two…” Her cheeks turned slightly rosy from the praise. “The truth is, the only reason I went to work at Tungsten was because it’s such a small company that I figured there’d actually be a chance they’d let the office admin migrate into a research position. It was a long shot, but it was worth taking.”
+Her cheeks turned slightly rosy. “I might have picked up a thing or two… The truth is, the only reason I went to work at Tungsten was because it’s such a small company that I figured there’d be a chance they’d let the office admin migrate into a research position. It was a long shot, but it was worth taking.”
 </p>
 <p>
-“So you’d intended to go into research from the start?” Danny asked.
+“So you’d intended to go into research from the start?”
 </p>
 <p>
-Tina nodded. “I studied microbiology in college. I wanted to work on cures for infectious diseases. You know, like MRSA or antibiotic-resistant tuberculosis.”
+Tina nodded. “I studied microbiology in college. I wanted to work on cures for infectious diseases. You know, like MRSA or tuberculosis.”
 </p>
 <p>
 Danny blinked. “They have you working as a receptionist with a degree in microbiology?”
 </p>
 <p>
-Tina looked away as her face saddened. “I never finished. My junior year, my dad got really sick…”
+Tina looked away. “I never finished. My junior year, my dad got really sick…”
 </p>
 <p>
 Danny ventured, “Tuberculosis?”
 </p>
 <p>
-Tina shook her head. “That would be one hell of a poetic twist, wouldn’t it? But no. Early-onset Parkinson’s. Very rapid progression. I moved back here to Seattle to help take care of him. And my mom had a really hard time coping, especially after he passed away… So, yeah, when you talk about life veering you down a track you hadn’t intended…”
+Tina shook her head. “That would be poetic, wouldn’t it? But no. Early-onset Parkinson’s. Very rapid progression. I moved back here to Seattle to help take care of him. And my mom had a really hard time coping, especially after he passed away… So, yeah, when you talk about life veering you down a track you hadn’t intended…”
 </p>
 <p>
 “Especially when that track involves Russian hitmen,” Danny added.
@@ -243,31 +243,22 @@ He found a tiny, almost invisible hole along the edge of the iPhone. Tina watche
 Tina felt violated by proxy.
 </p>
 <p>
-Danny withdrew the cartridge from Tina’s iPhone. Clipped onto it was a SIM card, almost identical to the one that came from the Russian’s Pantech.
+Danny withdrew the cartridge from Tina’s iPhone. Clipped onto it was a SIM card, almost identical to the one from the Russian’s Pantech.
 </p>
 <p>
 Tina eyed him warily. “You’re going to put everything back together again when you’re done, right?”
 </p>
 <p>
-Danny smirked, and inserted Tina’s SIM card into the Russian’s Pantech. He put the Pantech’s battery and rear cover back into place, and powered on the device.
+Danny smirked, and inserted Tina’s SIM card into the Russian’s Pantech. He put the Pantech’s battery and rear cover back, and restarted the device. Its screen showed a status message indicating seven missed calls. “Booyah! Victory!” he announced, waving the phone in the air triumphantly.
 </p>
 <p>
-“Booyah! Victory!” he announced.
+“Whoa. Not bad!” Tina said with a coy grin.
 </p>
 <p>
-“Holy shit! You got it?”
+“Oh, I’m just getting started,” said Danny. “Now comes the <em>really</em> fun part: figuring out as much about this dude as humanly possible. Let’s start with all these calls he missed… Hmm. They’re all from some guy who’s just listed as ‘Sergey’ in this dude’s address book. We have his number. Want to prank-call him?”
 </p>
 <p>
-Danny waved the phone in the air triumphantly. Its screen showed a menu of application icons, overlaid with a status message indicating seven missed calls.
-</p>
-<p>
-Tina nodded approvingly. “Not too bad,” she said with a coy grin.
-</p>
-<p>
-“Oh, I’m just getting started,” said Danny. “Now comes the <em>really</em> fun part: figuring out as much about this Russian guy as humanly possible. Let’s start with all these calls he missed… Hmm. They’re all from some guy who’s just listed as ‘Sergey’ in this dude’s address book. We have his number. Want to prank-call him?”
-</p>
-<p>
-Tina giggled. “Let’s, um, not.”
+Tina giggled. “Let’s not.”
 </p>
 <p>
 “Agreed,” said Danny. “Okay, let’s see what else we’ve got. Who else is in his address book? Hmmm… we have a Natasha… an Olga… a Tonya… a Malia… a Yulia… I’m beginning to see a pattern here. Oh hey! They’ve got photos!” His jaw almost hit the floor. “…Whoah! Not safe for work!”
@@ -383,7 +374,7 @@ Danny stepped toward her. He placed the Pantech into her hand, the skin of their
 “Danny, look at this…” she said, fascinated.
 </p>
 <p>
-He moved his face next to hers. Together, they stared intently at the vial of translucent brown slime. The smiley face sticker on the side of the vial stared back at them.
+He moved his face next to hers. Together, they stared intently at the vial of brown slime. The smiley face sticker on the side of the vial stared back at them.
 </p>
 <p>
 “What am I supposed to be seeing?” he asked.
@@ -398,13 +389,13 @@ He moved his face next to hers. Together, they stared intently at the vial of tr
 “Danny, do you still have that paper clip?”
 </p>
 <p>
-He handed it to her. She straightened the clip into a long metal wire. “We need to sterilize this,” she said. With vial and unbent paper clip in hand, she marched back into the store, retrieving another shopping basket on the way.
+He handed it to her. She straightened the clip into a long metal wire. “We need to sterilize this,” she said. With vial and paper clip in hand, she marched back into the store, retrieving another shopping basket on the way.
 </p>
 <p>
-Danny followed her to the Emergency and First Aid aisle. Her first move was to find a box of latex gloves. She tore the box open and pulled one powdery white glove onto her hand. 
+Danny followed her to the First Aid aisle. Her first move was to find a box of latex gloves. She tore the box open and pulled one powdery white glove onto her hand. 
 </p>
 <p>
-She then grabbed a small bottle of rubbing alcohol and set it down on an empty shelf nearby. She dipped the unbent paper clip into the sharp-smelling liquid and held it there, letting it soak. Danny heard her counting time under her breath. She repeated the process with each finger of her latex-gloved hand, drying them off with a few brisk shakes through the air. “Good enough,” she mumbled.
+She grabbed a small bottle of rubbing alcohol and set it on an empty shelf nearby. She dipped the paper clip into the sharp-smelling liquid and held it there, letting it soak. Danny heard her counting time under her breath. She repeated the process with each finger of her latex-gloved hand, drying them off with a few brisk shakes through the air. “Good enough,” she mumbled.
 </p>
 <p>
 With her tools and her fingers adequately cleaned, she popped open the top of the Eppendorf tube and dipped the tip of the paper clip into the vial. It made a hard scratching sound. When she was done, she pulled the paperclip out of the tube and examined it closely. 
@@ -512,10 +503,10 @@ Tina nodded gleefully. “Danny, you’re a freakin’ genius!” She picked up 
 Danny smiled warmly at her antics.
 </p>
 <p>
-“Sterilization is going to be really tricky, though,” Tina mentioned pensively. “There’s all different kinds of bacteria around us all the time &mdash; in the air, in the water, everywhere. If any random bacterium gets into the lysogeny broth, it’ll multiply in there along with our <em>E. coli</em> strain, and it’ll compete for the broth’s nutrients. Normally, when people do this in a lab, the <em>E. coli</em> is intentionally given resistance to some specific antibiotic, and the lysogeny broth is infused with that antibiotic, so only our strain can survive in there. We can’t do that here because we don’t know what antibiotic these guys were bred to be resistant against, if any. But if we’re lucky…”
+“Sterilization is going to be tricky, though,” Tina mentioned pensively. “There’s bacteria around us all the time &mdash; in the air, in the water, everywhere. If a bacterium gets into the lysogeny broth, it’ll multiply along with our <em>E. coli</em> strain, and compete for the broth’s nutrients. Normally, when people do this in a lab, the <em>E. coli</em> is intentionally given resistance to some specific antibiotic, and the lysogeny broth is infused with that antibiotic, so only our strain can survive in there. We can’t do that because we don’t know what antibiotic these guys were bred to resist, if any. But if we’re lucky…”
 </p>
 <p>
-He listened to her talk, reeling with admiration. She stood in the aisle, shopping basket in one hand, purse in the other. Hair dark and haphazard. A small, unassuming stud glinting on the side of her nose. And a gleam of competent determination in her eyes.
+He listened to her talk, reeling with admiration. She stood in the aisle, shopping basket in one hand, purse in the other. Hair dark and haphazard. An unassuming stud glinting on the side of her nose. And a gleam of competent determination in her eyes.
 </p>
 <p>
 She paused for a moment. “Hey Danny.”

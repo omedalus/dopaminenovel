@@ -63,19 +63,19 @@ Tina looked at the plastic plates being handled by the robotic arms. “I just�
 The woman rolled her eyes. “Yes, Tina. That’s what <em>green fluorescence protein</em> means.”
 </p>
 <p>
-“So this microplate reader… It shines a specific color of light on a plate of samples, and uses very sensitive camera-type things to check whether or not each assay is, like, ‘reflecting’, so to speak, some other color of light. Right?”
+“So this microplate reader… It shines a specific color of light on a plate of samples, and uses camera-type-things to check if each assay is, like, ‘reflecting’ some <em>different</em> color of light. Right?”
 </p>
 <p>
 “That <em>is</em> how fluorescence reading works,” the woman replied sardonically.
 </p>
 <p>
-“Thanks. So, then, can you please explain to me…” She grabbed an empty plate off of one of the machines and waved it in front of her face, looking at the two scientists through the clear plastic. “…why the hell you guys would use <em>transparent microplates</em>?”
+“Thanks. So, then, can you explain to me…” She grabbed an empty plate off of one of the machines and waved it in front of her face, looking at the two scientists through the clear plastic. “…why the hell you guys would use <em>transparent microplates</em>?”
 </p>
 <p>
 The man shrugged. “The clear ones are cheap. We had a huge supply of them down in the stockroom.”
 </p>
 <p>
-“Are they cheap enough to make it worth redoing a whole month of automated runs?” Tina retorted. “Because, if the plate is completely see-through, then light can shine from one well to another. Which means that, if one well is fluorescing really strongly, then the reader will pick up a little bit of light <em>in all of the wells next to it</em>, too.”
+“Are they cheap enough to make it worth redoing a whole month of automated runs? Because, if the plate is completely see-through, then light can shine from one well to another. Which means that, if one well is fluorescing really strongly, then the reader will pick up a little bit of light <em>in all of the wells next to it</em>, too.”
 </p>
 <p>
 The man’s eyes widened. “Well-to-well crosstalk!”
@@ -342,7 +342,7 @@ Tina offered, “Should I call Julie’s school and see if they’ve heard from 
 “Yes,” said Passinsky. “And her family and friends. If you find her, tell her she must come to work tomorrow, and I take care of everything else. If you <em>don’t</em> find her, there is lots of paperwork for you to do.”
 </p>
 <p>
-Tina looked down morosely. “What kind of paperwork, sir?”
+Tina looked down. “What kind of paperwork?”
 </p>
 <p>
 “We have to end her employment,” said Passinsky. “That will mean filling out termination forms, filing payroll, writing notice to her university internship program. You will need to check what else.”
@@ -354,16 +354,16 @@ Tina looked down morosely. “What kind of paperwork, sir?”
 Passinsky shook his head. “No. I want them on my desk when I walk into office. I will need to sign them and send them out first thing in a morning.”
 </p>
 <p>
-“Wait, what?” Tina said with a gulp. “But… I’ll have to stay late tonight to finish all that, Doctor P.”
+“Wait, what?” Tina said with a gulp. “But… I’ll have to stay late tonight to finish all that.”
 </p>
 <p>
 Passinsky shrugged. “Either way, needs to be done.”
 </p>
 <p>
-Tina turned her face away from him, taking a moment to quietly grumble to herself.
+Tina turned her face away, taking a moment to quietly grumble to herself.
 </p>
 <p>
-“I would do it myself, really,” Passinsky offered, “but I had to take time this afternoon to attend to another matter. Also is one I want to talk to the two of you about.”
+“I would do it myself,” Passinsky offered, “but I had to take time this afternoon to attend to another matter. Also is one I want to talk to the two of you about.”
 </p>
 <p>
 Roger mumbled, “You mean you have us here for something besides the Julie thing?”

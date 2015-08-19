@@ -9,7 +9,7 @@ Moshen gave a forceful flick on the touchpad. “Done! And now… we wait!”
 Danny’s team sat at a cluster of tables at the B&amp;O Espresso, between walls lined with brass clocks and framed vintage posters. The B&amp;O made an ideal base of operations &mdash; it had power outlets, free Wi-Fi access, and a menu of quadruple-shot chocolate lattes. Danny was already sugared and caffeinated to the point of nausea.
 </p>
 <p>
- “What’d I miss?” asked Jason as he returned to the table, sliding his cellphone into his pocket. Mike and Satish sat with their respective laptops open, reading online manuals.
+ “What’d I miss?” asked Jason as he returned to the table.
 </p>
 <p>
 “We’ve gone phishing!” said Moshen.
@@ -153,7 +153,7 @@ Satish quickly answered, “Yes, there is. Jason, where did you find this noob, 
 “Hey!” Danny barked. “What the hell, Satish? I’m standing right here!”
 </p>
 <p>
-Jason said, calmly but firmly, “What’s going on, guys?”
+Jason said firmly, “What’s going on, guys?”
 </p>
 <p>
 Danny turned to Jason. “Have you ever heard of SSH?” Jason shook his head. “It stands for ‘Secure Shell’. It’s a remote login program. It’s a very common tool &mdash; system administrators use it so they can access their own systems in case of emergency. Most corporate-level computers have it installed by default.”
@@ -171,10 +171,10 @@ Danny added, “Which we were in the middle of trying to figure out…”
 “Yeah, with SSHatter, on <em>one</em> host!” Satish scoffed.
 </p>
 <p>
-Jason looked back and forth at them. “In English, please?”
+“In English, please?” Jason insisted.
 </p>
 <p>
-Danny answered, “SSHatter is a program that performs something called a dictionary attack. It has a huge database of the most commonly used usernames and passwords. We rigged SSHatter to connect to Tungsten over and over again, as quickly as it can, using different common logins until we stumble across one that works.”
+Danny answered, “SSHatter is a program that performs something called a dictionary attack. It has a huge database of common usernames and passwords. We rigged SSHatter to connect to Tungsten over and over again, as quickly as it can, using different common logins until we stumble across one that works.”
 </p>
 <p>
 Satish quickly followed with, “Which is a complete dumbass approach! See, when a <em>real</em> hacker uses SSHatter, they do some preparation first. The number of different possible username and password combinations is astronomical, so they divide up the task across a botnet with thousands of zombie hosts. And even then, the process can take days, without any guarantee of success. If you try to run it on just <em>one</em> machine, you…”
@@ -246,7 +246,7 @@ Danny thought for a moment. “Not even through its own system administrators?�
 Satish shook his head. “I don’t follow.”
 </p>
 <p>
-Danny paced as he talked, his fingers fidgeting. “These anti-sec guys succeeded in taking a whole bunch of companies offline not by exploiting a flaw in the machines, but by tricking the sysadmins who run them. Hacking, by definition, is making a system do something that it isn’t supposed to do. That system includes people. It’s built and maintained by people. Tungsten’s IT staff itself is a system component. Let’s look for vulnerabilities in it.” He turned toward Jason, who was fiddling on his cellphone. “How big is Tungsten’s Information Technology department?”
+Danny paced as he talked, his fingers fidgeting. “These anti-sec guys succeeded in taking a bunch of companies offline not by exploiting a flaw in the machines, but by tricking the sysadmins who run them. Hacking, by definition, is making a system do something that it isn’t supposed to do. That system includes people. It’s built and maintained by people. Tungsten’s IT staff itself is a system component. Let’s look for vulnerabilities in it.” He turned toward Jason, who was fiddling on his cellphone. “How big is Tungsten’s Information Technology department?”
 </p>
 <p>
 “Just one guy,” Jason answered. “They have a couple older technicians around to help maintain the medical equipment, but they’re not in charge of the corporate network. Their system administrator is some hipster kid. I don’t know his name.”
@@ -264,7 +264,7 @@ Moshen tapped away on his laptop. “Tungsten Medical Technologies… Network ad
 Danny peeked at the screen over Mike’s shoulder. “His username is ‘rot13er’. He probably uses that same handle everywhere. Let’s see what this guy’s all about. Search around the web. Check message forums, social networks, anything.”
 </p>
 <p>
-Mike and Moshen set to work alongside Danny. Satish sat silently nearby, eyeing the whole endeavor with grudging interest.
+Mike and Moshen set to work alongside Danny. Satish sat silently nearby, eyeing the endeavor with grudging interest.
 </p>
 <p>
 After several minutes, Mike piped up. “Danny! I found something! It’s an online tech-support forum for a company called OmniVision. They make security cameras. Check this out…”
@@ -273,7 +273,7 @@ After several minutes, Mike piped up. “Danny! I found something! It’s an onl
 
 <div class="computer email">
 User: rot13er (Member, active 1 day)<br/>
-Do you guys have a software upgrade for the OmniVision Sightbulb-1200 PTZ to give it WPA support? My company has about 30 of these cameras, installed ten years ago. We have a few wireless access points to connect them to the corporate LAN, but I have to run these APs with WEP because the cameras don’t speak WPA.<br/>
+Do you have a software upgrade for the OmniVision Sightbulb-1200 PTZ to give it WPA support? My company has about 30 of these cameras, installed ten years ago. We have a few wireless access points to connect them to the corporate LAN, but I have to run these APs with WEP because the cameras don’t speak WPA.<br/>
 ---<br/>
 <br/>
 User: David Swan (OmniVision Support Engineer)<br/>
@@ -281,11 +281,11 @@ I'm sorry to inform you that we discontinued support for the Sightbulb series ab
 ---<br/>
 <br/>
 User: rot13er<br/>
-My company's not going to go pay you for 30 new cameras. Don't you guys have a firmware patch I can install?<br/>
+My company's not paying for 30 new cameras. All I want is a firmware patch.<br/>
 ---<br/>
 <br/>
 User: David Swan<br/>
-Unfortunately, the Sightbulbs were manufactured before WEP's weaknesses were discovered. We understand your concerns, but it was technically infeasible to migrate the Sightbulb-1200 to WPA.<br/>
+The Sightbulbs were manufactured before WEP's weaknesses were discovered. Unfortunately, it was technically infeasible to migrate the Sightbulb-1200 to WPA.<br/>
 ---<br/>
 <br/>
 User: rot13er<br/>

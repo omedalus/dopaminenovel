@@ -96,10 +96,10 @@ Jason smiled. “What do you think the mob is?”
 Tina stared at him in silence.
 </p>
 <p>
-“Trust me,” said Jason, his tone steady. “Whatever else may be true about them, they’re rational players. They have to watch their bottom line, just like anybody else. I didn’t get rich by playing the lottery; I got rich by understanding what people want. So let’s try and understand these guys, okay? What do we know about them? What can we deduce about their needs, their risks, their motivations? Anything?”
+“Trust me,” said Jason, his tone steady. “Whatever else may be true about them, they’re rational players. They have to watch their bottom line. I didn’t get rich by playing the lottery; I got rich by understanding what people want. So let’s try and understand these guys. What do we know about them? What can we deduce about their needs, their risks, their motivations? Anything?”
 </p>
 <p>
-Danny, standing nearby, smiled a wide grin. “I know a thing or two about them.” He pulled a cellphone out of his pocket and handed it to Jason.
+Danny, standing nearby, smiled wickedly. “I know a thing or two about them.” He handed a cellphone to Jason.
 </p>
 <p>
 Jason looked at the small screen, perplexed. Slowly, his eyes went wide as understanding dawned. Satish and Moshen looked over excitedly. Mike craned his neck to look at the phone. Jason showed the screen to the men. Hoots and high-fives were exchanged. Danny let out a peal of maniacal laughter.
@@ -225,7 +225,7 @@ Danny grinned. “And why exactly is that?”
 “Yep. And why do spammers need open mail relays for that?” Danny asked Socratically.
 </p>
 <p>
-“Because open relays are completely anonymous,” Mike answered, just barely managing a shrug. “An open relay doesn’t verify the source of the message. It just forwards everything stupidly along.”
+“Because open relays are completely anonymous,” Mike answered. “An open relay doesn’t verify the source of the message. It just forwards everything stupidly along.”
 </p>
 <p>
 An evil grin consumed Danny’s face. “Exactly. So, if we wanted to forge a bunch of emails from the Russian mob guys to their foot-soldiers…”

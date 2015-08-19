@@ -120,7 +120,7 @@ Natalie kept laughing. “That’s brilliant!”
 Mike smiled.
 </p>
 <p>
-Still holding the ice pack in place with one hand, she squeezed his arm reassuringly with the other and said in a soft, kind tone, “Listen. My name is Doctor Natalie Rosenbaum. This is my apartment. You’re safe here. I know you’re hurt, I know you’re scared, but you’re going to be okay.”
+She squeezed his arm reassuringly and said in a soft, kind tone, “Listen. My name is Doctor Natalie Rosenbaum. This is my apartment. You’re safe here. I know you’re hurt, I know you’re scared, but you’re going to be okay.”
 </p>
 <p>
 He nodded slowly.
@@ -207,10 +207,7 @@ Natalie hoisted her bulky body back up to standing and navigated across her livi
 “To avoid sin through temptation,” answered Mike.
 </p>
 <p>
-Natalie smiled. She took the skull from the shelf and headed back to the couch. “It’s actually deeper than that. The main purpose of the Rules of Saint Benedict is to remove the ego from the study of the divine. They’re designed to get a monk’s mind out of its own way.”
-</p>
-<p>
-She cleared off some room for herself on the couch and sat down next to Mike.
+Natalie smiled. She took the skull from the shelf and headed back to the couch. “It’s actually deeper than that. The main purpose of the Rules of Saint Benedict is to remove the ego from the study of the divine. They’re designed to get a monk’s mind out of its own way.” She cleared off a cushion and sat down beside him.
 </p>
 <p>
 “See, Benedict knew,” she continued, “that a mind that’s intrinsically curious and intelligent is prone to self-sabotage. It learns something incompletely, and then moves on too quickly, trying to build more knowledge on top of an incorrect and incomplete foundation. It thinks, ‘Yeah yeah, I get it, I know how this works,’ when it really doesn’t. The purpose of the Rules of Saint Benedict is to make sure that the monk is examining himself at every moment of his life, always checking his own assumptions, always seeking knowledge, never presuming to have any. Makes sense, right?”
@@ -336,16 +333,16 @@ Tina laughed. “Anything but. They were total ass-clowns. It was like watching 
 Natalie looked at her.
 </p>
 <p>
-“Oh my god, shut up!” Tina demanded, blushing. She realized that the sleeve of her cardigan was stained with Danny’s blood. She took it off, leaving herself in her button-down shirt underneath, and threw it into a corner of Natalie’s closet. “Nat, if I didn’t know better, I’d say you were pressuring me into hooking up with the first remotely do-able guy just so you can hear me tell dirty stories about someone besides Roger for a change.”
+“Oh my god, shut up!” Tina demanded, blushing. She realized that the sleeve of her cardigan was stained with Danny’s blood. She took it off, leaving herself in her button-down shirt underneath, and threw it into Natalie’s closet. “Nat, if I didn’t know better, I’d say you were pressuring me into hooking up with the first remotely do-able guy just so you can hear me tell dirty stories about someone besides Roger for a change.”
 </p>
 <p>
-Natalie paused for a moment to puff up and cross her arms. “Oh, we will have <em>none</em> of that now, you hear? I’m the only clinical psychiatrist in the room, so I’ll be the only one doing any clinical psychiatrizing.”
+Natalie paused for a moment to puff up and cross her arms. “Oh, we will have <em>none</em> of that, you hear? I’m the only clinical psychiatrist in the room, so I’ll be the only one doing any clinical psychiatrizing.”
 </p>
 <p>
 “Oh, bam! I got a little truthy there, didn’t I?” Tina teased.
 </p>
 <p>
-With a laugh and a headshake, Natalie finished adjusting her dress and makeup and asked, “How do I look?”
+With a laugh and a headshake, Natalie finished adjusting her dress and makeup. “How do I look?”
 </p>
 <p>
 “Lovely. But your new crush is potentially brain-damaged, so he probably won’t notice.”
@@ -456,16 +453,16 @@ Mike said, “I’ve never seen it in real life before.”
 Mike answered, “It grants the wearer a plus-four bonus on saving throws versus fear.”
 </p>
 <p>
-Natalie squealed and hopped in place just a little bit.
+Natalie hopped in place just a little bit.
 </p>
 <p>
 Mike examined the mullein bracelet around his wrist with fascination. As he stared at it, his eyes began to well up with tears. “Natalie…” he said in a cracking voice. “I really don’t feel very brave right now. I don’t feel like a winner. I just feel like… I just…”
 </p>
 <p>
-Natalie watched his face with sympathy and sorrow. She gently reached her arms around him and pressed her head against his chest. “It’s okay, Mike,” she said to him quietly. 
+Natalie watched his face with sympathy. She gently reached her arms around him and pressed her head against his chest. “It’s okay, Mike,” she said to him quietly. 
 </p>
 <p>
-He returned her embrace and bowed his head down to rest on top of hers. His chest shook several times silently. He gradually began to emit a series of coughing sobs, each one longer than the last, until they joined in a long, undulating wail. The sound was low and nasal and horrible. Loud, wet, gasping inhales punctuated his bawling.
+He returned her embrace and bowed his head down to rest on top of hers. His chest shook several times silently. He gradually began to emit a series of coughing sobs, each one longer than the last, until they joined in a long wail. Loud, wet, gasping inhales punctuated his bawling.
 </p>
 <p>
 “It’s okay, Mike. It’s okay,” Natalie said over and over as she held him tight. “Don’t be afraid to cry.”

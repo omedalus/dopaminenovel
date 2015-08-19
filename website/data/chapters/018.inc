@@ -3,7 +3,7 @@
 <span class="caplead">Nothing in the world had any right</span> to look like what Danny saw happening before him. Such abominations belonged on the other side of a movie screen, projected in two dimensions and tempered by the audience’s knowledge that they were made of latex and CGI. It was a spectacle not meant to be witnessed up close, not in three dimensions, not complete with sound and smell and sensation. 
 </p>
 <p>
-The man brought his hands up to his acid-splashed face in a desperate, frantic effort to wipe the corrosive liquid away. Holes burned instantly in the sleeves of his denim jacket. Sores and welts appeared on his fingers, resembling the scabby red wounds of chickenpox. Through the gaps between his fingers, the skin of his face could be seen oozing with frothy yellowish-white puss.
+The man brought his hands up to his acid-splashed face in a desperate, frantic effort to wipe the corrosive liquid away. Holes burned instantly in the sleeves of his denim jacket. Sores and welts appeared on his fingers, resembling the scabby wounds of chickenpox. Through the gaps between his fingers, the skin of his face could be seen frothing.
 </p>
 <p>
 His gun clattered to the concrete floor as he rose and began running blindly. He only made it a few stumbling steps before tripping and collapsing to his knees.
@@ -135,13 +135,13 @@ Inside, Julie leaned with her back against the metal door, breathing heavily. A 
 Jason and Danny cautiously emerged from their hiding spots.
 </p>
 <p>
-Jason rolled out from under the metal table. He put a hand on the tabletop and grunted as he lifted his overweight middle-aged body back to standing height. “Julie, are you okay up there?” he called out.
+Jason rolled out from under the metal table. He put a hand on the tabletop and grunted as he stood back up. “Julie, are you okay up there?” he called out.
 </p>
 <p>
 Julie replied, “Woooooooohooooooooo!”
 </p>
 <p>
-Danny took a few tentative steps out from behind the barrel and surveyed the room. The rows of 55-gallon drums had served as a backstop for Eugene’s bullets. Most of them were leaking profusely from fresh bullet holes, coating the floor of the factory in a mixture of kerosene and acetone. All over the room, Styrofoam packing peanuts dissolved into thick bubbling puddles, filling the room with a soft ubiquitous hissing noise.
+Danny took a few tentative steps out from behind the barrel and surveyed the room. The rows of 55-gallon drums had served as a backstop for Eugene’s bullets. Most of them were leaking profusely from fresh bullet holes, coating the floor of the factory in a mixture of kerosene and acetone. All over the room, Styrofoam packing peanuts dissolved into thick bubbling puddles, filling the room with a soft hiss.
 </p>
 <p>
 His sweatshirt had soaked up a great deal of kerosene by leaning against that punctured drum. It felt damp and heavy and irritating against his skin. 
@@ -243,7 +243,7 @@ The guard suggested, “We could just crack the door open a little and lob a few
 Sergey grumbled, “That would break the vial.”
 </p>
 <p>
-“Riot grenades, then,” said the guard. “Fill the place up with tear gas, choke ‘em out. Or flash-bangs &mdash; stun them, then jump in and blow them away before they know what the fuck’s going on.”
+“Riot grenades, then,” said the guard. “Fill the place up with tear gas, choke ‘em out. Or flash-bangs &mdash; stun them, then blow them away before they know what the fuck’s going on.”
 </p>
 <p>
 Eugene scoffed, “You think we have giant stash of grenades in our trunk, Deshaun? Oh sure! Welcome to Grenade Buffet! Twelve ninety-nine, all you can throw!”
@@ -252,16 +252,16 @@ Eugene scoffed, “You think we have giant stash of grenades in our trunk, Desha
 Deshaun replied, “Guys, you want grenades? I can get you grenades. Just one call to my boys. Deliver in twenty minutes or less. My phone’s right here.”
 </p>
 <p>
-Back in the office upstairs, that last line piqued Danny’s interest. He abandoned the unfruitful computer and, with HERF gun in hand, walked quietly to the exterior wall of the office, listening intently to try to triangulate exactly where the voices were coming from.
+Back in the office upstairs, that last line piqued Danny’s interest. He abandoned the unfruitful computer and, with HERF gun in hand, walked to the exterior wall of the office, listening intently to try to triangulate exactly where the voices were coming from.
 </p>
 <p>
 “Put your phone away!” Eugene ordered.
 </p>
 <p>
-“It ain’t a big deal, man” the guard said reassuringly. “I know a dude owes me a favor anyway.”
+“It ain’t a big deal, man” the guard said. “A dude owes me a favor.”
 </p>
 <p>
-Danny’s fingers flipped a switch. Small cooling fans whirred to life.
+Danny flipped a switch. Small fans whirred to life.
 </p>
 <p>
 “That’s not the point!” Eugene insisted. “Put it away now!”
@@ -378,13 +378,13 @@ Deshaun offered, “Fuck these shitheads up?”
 “I don’t know. Negotiate or something?”
 </p>
 <p>
-“We’re in no position to negotiate,” Jason scoffed. “Negotiation isn’t some kind of magic spell where I open my mouth and words come out and suddenly everyone becomes lovey-dovey. Negotiating takes leverage. And we don’t have any.”
+“We’re in no position to negotiate,” Jason scoffed. “Negotiation isn’t some magic spell where I open my mouth and suddenly everyone becomes lovey-dovey. “Negotiation takes leverage. And we don’t have any.”
 </p>
 <p>
-“We both still have our cellphones,” said Danny. “Is there anyone you can call?”
+“We still have our phones,” said Danny. “Is there anyone you can call?”
 </p>
 <p>
-“The cops?” Jason offered. “But, um…” He gestured out to the room &mdash; to the cocaine on the desk, to the spent shell casings and the bullet holes in the wall, to the horribly killed corpse in the factory below. “I can make shit up, Danny, but I can’t think of any innocent way to explain what we’re doing here.”
+“The cops?” Jason offered. “But, um…” He gestured out to the room &mdash; to the cocaine on the desk, to the bullet holes in the wall, to the mangled corpse in the factory below. “I can make shit up, Danny, but I can’t think of any innocent way to explain what we’re doing here.”
 </p>
 <p>
 Danny sighed. “So. Death or jail. Really? That’s our options?”
@@ -495,22 +495,22 @@ She managed to turn herself to the opposite side and lift herself up on an elbow
 She coughed wetly. A thick stream of blood flowed out from her mouth.
 </p>
 <p>
-The small Asian girl remained frozen in that position, propped on one elbow, unfocused. Her breathing became short and shallow. Her skin paled, acquiring a sickening greenish hue. Her dark, wide-pupilled eyes glazed over. She began to shiver.
+The small Asian girl remained frozen in that position, propped on one elbow. Her breathing became short and shallow. Her skin paled, acquiring a sickening greenish hue. Her dark, wide-pupilled eyes glazed over. She began to shiver.
 </p>
 <p>
-Hearing the sound of movement just outside the loading doors, she slowly turned her head to look outward. A man’s shadow darkened the doorway. Julie lifted the MAC-10 in one hand and waved it at the entrance, straining against the gun’s weight. The weapon shook in her weakening hand. She squeezed the trigger to fire off a few warning rounds. The recoil knocked the firearm out of her grasp.
+Hearing the sound of movement just outside the loading doors, she slowly turned her head to look outward. A man’s shadow darkened the doorway. Julie lifted the MAC-10 in one hand and waved it at the entrance, straining against the gun’s weight. The weapon shook in her weakening hand. She squeezed the trigger. The recoil knocked the firearm out of her grasp.
 </p>
 <p>
-The muscular, leather-clad figure of Eugene wheeled into the doorway. He fired two quick shots squarely into Julie’s ribs and spun back away out of sight.
+The muscular, leather-clad figure of Eugene wheeled into the doorway. He fired two quick shots squarely into Julie’s ribs and spun back out of sight.
 </p>
 <p>
-Julie collapsed onto her back. A final wet, rasping breath escaped her throat, carrying with it a red, bubbling froth. Her entire body twitched once, and fell still. 
+Julie collapsed. A final wet, rasping breath escaped her throat, carrying with it a red, bubbling froth. Her entire body twitched once, and fell still. 
 </p>
 <p>
 The room was silent. Blood quietly pooled around Julie’s body.
 </p>
 <p>
-Eugene’s athletic form again appeared in the doorway, crouching low and glancing around cautiously. He reached in through the entrance just far enough to grab a bunny-slipper-clad ankle, and dragged the small Asian girl’s lifeless body out into the alley. A streak of blood on the floor marked her exit, and she was gone.
+Eugene again appeared in the doorway, crouching low and glancing around cautiously. He reached through the entrance just far enough to grab a bunny-slipper-clad ankle, and dragged the small Asian girl’s lifeless body out into the alley. A streak of blood on the floor marked her exit, and she was gone.
 </p>
 <p>
 There was the sound of rustling clothing. 
@@ -573,7 +573,7 @@ As for Eugene, the silhouette of his leather-jacket-clad body, crouching with gu
 
 <div class="chapsection">
 <p>
-<span class="caplead">There was just barely enough room under the desk</span> in the office for both Danny and Jason to huddle together, terrified. They could hear the Russian slowly stalking the room below. His cautious exploration would lead him to the office in due time.
+<span class="caplead">There was barely enough room under the desk</span> in the office for both Danny and Jason to huddle together, terrified. They could hear the Russian stalking the room below. His cautious exploration would lead him to the office in due time.
 </p>
 <p>
 Danny eyed the front door with bitter frustration. It was only a few feet away, but there was no way to open it and get down the stairs without being seen or heard. The athletic mobster would gun them down in the alley before they could reach the SUV. Alone and in peak condition, Danny might have been able to make a dash for it, but Jason would stand no chance. And between the blood loss, the sleep deprivation, and the noxious fumes that filled the room, Danny could barely blink without passing out from exertion.
@@ -627,25 +627,25 @@ Jason stared at him nervously.
 Danny reached his hand over the top of the desk and groped around blindly for a moment. “Jason, you don’t have a lighter, do you?”
 </p>
 <p>
-Jason shook his head. “I don’t. Danny, are you nuts? If you light a fire, this place could blow to pieces &mdash; and us with it.”
+Jason shook his head. “I don’t. Danny, are you nuts? If you light a fire, this place could blow &mdash; and us with it.”
 </p>
 <p>
-“Nah. Don’t be silly,” said Danny. “Flammable doesn’t mean explosive. Those barrels down there didn’t go boom when they were shot, did they? Obviously the whole big-ball-of-fire thing you see in movies doesn’t really happen. I won’t make an explosion, just a wall of flame that the guy won’t want to run through.” He drew his hand back down from the top of the desk. “Fuck! These guys sell cocaine for a living but apparently they’re too straight-edge to smoke.”
+“Nah. Don’t be silly,” said Danny. “Flammable doesn’t mean explosive. Those barrels down there didn’t go boom when they were shot, did they? Obviously the whole big-ball-of-fire thing you see in movies doesn’t really happen. I won’t make an explosion, just a wall of flame that the guy won’t want to run through.” He drew his hand back down. “Fuck! These guys sell cocaine for a living but apparently they’re too straight-edge to smoke.”
 </p>
 <p>
-Jason looked at him hesitantly. “It’s okay, Danny. It was a good idea. Nobody can ever say you weren’t resourceful right up until the end.”
+Jason looked at him hesitantly. “It’s okay, Danny. It was a good idea. Nobody can ever say you weren’t resourceful until the end.”
 </p>
 <p>
 “Fuck the end,” said Danny. “I’m not done yet.”
 </p>
 <p>
-He looked around. There was nothing within arm’s reach but shards of broken glass. And his HERF gun.
+He looked around. There was nothing within reach but shards of broken glass. And his HERF gun.
 </p>
 <p>
 His HERF gun, with its 3-megawatt S-band magnetron powered by pulsed electrical discharge from a 600-farad ultracapacitor bank.
 </p>
 <p>
-Working as quietly as possible, Danny carefully unscrewed the magnetron horn. Multiple pairs of thick red and black cables protruded from the back of the megaphone-like component. He picked up a particularly sharp piece of broken glass and used it to pry the epoxy insulation away from one of the magnetron’s power cable pairs. At some point, the shard of glass painlessly sliced his palm open. He found himself leaving crimson fingerprints all over the magnetron horn.
+Working as quietly as possible, Danny unscrewed the magnetron horn. Multiple pairs of thick red and black cables protruded from the back of the megaphone-like component. He picked up a particularly sharp piece of broken glass and used it to pry the epoxy insulation away from one of the magnetron’s power cable pairs. At some point, the shard of glass painlessly sliced his palm open. He found himself leaving crimson fingerprints all over the magnetron horn.
 </p>
 <p>
 From the factory below, the sound of rustling steadily drew closer.
@@ -726,7 +726,7 @@ More bullets zoomed through the broken windows. Jason flung the front door open,
 In the factory below, Eugene began to sprint toward the loading doors. Equipment crashed around him as he shoved it aside. His feet splashed in chemical puddles.
 </p>
 <p>
-On the office floor, the sweatshirt burned fiercely, leaping to life with added vigor the moment Jason opened the door. Thin tongues of flame vaulted into the air. Glowing orange specks of burning thread wafted upward on the thermal draft, fading into ashes before floating back down to the floor.
+On the office floor, the sweatshirt burned fiercely, leaping to life with added vigor the moment Jason opened the door. Thin tongues of flame vaulted into the air. Orange specks of burning thread wafted upward on the thermal draft, fading into ashes before floating back down to the floor.
 </p>
 <p>
 He reached down. In one hand he grabbed his HERF gun. In the other he grabbed the fiery sweatshirt, burning his palm. Before the pain could distract him, he hurled the fireball through the broken window down into the factory, and leaped for the door. 
@@ -759,10 +759,10 @@ Below, the loading doors swung fully open on their hinges and slammed against th
 And within that glowing spout of red fire was the black silhouette of Eugene.
 </p>
 <p>
-The Russian had been mere steps from the loading doors when the room erupted. The wave of overpressure hit him in the back like a charging bull. He fell halfway out of the doorway, landing hard against the asphalt street. 
+The Russian had been mere steps from the doors when the room erupted. The wave of overpressure hit him in the back like a charging bull. He fell halfway out of the doorway, landing hard against the street. 
 </p>
 <p>
-Eugene maintained enough presence of mind to keep his face down as gusts of flame billowed above him. The Russian crawled on his belly toward his BMW for cover. The small coupe was getting coated with soot.
+Eugene maintained enough presence of mind to keep his face down as gusts of flame billowed above. The Russian crawled toward his BMW for cover. The small coupe was getting coated with soot.
 </p>
 <p>
 An alarm wailed inside the building. Water gushed from sprinklers in the factory’s high ceiling. White mist poured out into the alley alongside the red flames and black smoke. Streams trickled to the street from the factory floor, drawing streaked wet lines through the trail of blood that ran to Julie’s pale, lifeless body on the asphalt outside.
@@ -774,7 +774,7 @@ Danny raced down the stairs with his butchered HERF gun. As soon as he cleared t
 Instead, Jason stood despondently next to the Navigator, looking down. All four tires had been shot out. Jason turned to Danny with an expression combining panic and nausea.
 </p>
 <p>
-On the ground outside the factory, on the opposite side of the parked BMW, Eugene rolled frantically to extinguish himself. The Italian lambskin material of his jacket melted off in rivulets from his sides and sleeves.
+On the ground outside the factory, on the opposite side of the BMW, Eugene rolled frantically to extinguish himself. The Italian lambskin material of his jacket melted off in rivulets from his sides and sleeves.
 </p>
 <p>
 Danny scanned the alley, lit with the orange glow of the blazing factory. A handful of other cars had parked there overnight, spread far apart and separated by dumpsters and stacks of wooden pallets. 

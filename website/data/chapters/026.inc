@@ -57,19 +57,19 @@ The double doors swung open, pushed casually apart by the arms of a cavalier mid
 He sauntered confidently into the room, strutting like a king among his loyal peasants. The mercenaries hooted him a few sporadic greetings.
 </p>
 <p>
-Passinsky unfolded his long, gaunt legs in the complicated process of rising from the deep couch. He stood humbly in the sunken living room and greeted Ivan with a simple deferential nod.
+Passinsky unfolded his long, gaunt legs in the complicated process of rising from the deep couch. He stood humbly in the sunken living room and greeted Ivan with a deferential nod.
 </p>
 <p>
 Ivan’s sharp, grating voice spoke again. “Ah, Petya! It’s good to see you. You and I will settle up in a minute. For now, my brothers, show some love! We have a special guest!”
 </p>
 <p>
-Three men followed Ivan into the room. They carried a large rolled-up corduroy rug bound with strands of plastic cord. The cylindrical mass sagged and drooped in random counterintuitive ways, defying the men’s efforts to haul it through the doorway.
+Three men followed Ivan, carrying a large rolled-up corduroy rug bound with strands of plastic cord. The cylindrical mass sagged and drooped, defying their efforts to haul it through the doorway.
 </p>
 <p>
 Passinsky realized that the rug itself was squirming and bucking, trying to wriggle out of their grasp.
 </p>
 <p>
-Just inside the doorway, it succeeded. The rolled-up rug hit the floor and emitted a soft, muffled, high-pitched grunt. It writhed on the ground of its own accord, making tiny squeaking growling sounds.
+Just inside the doorway, it succeeded. The rolled-up rug hit the floor and emitted a soft, muffled, high-pitched grunt. It writhed on the ground of its own accord, making tiny growling sounds.
 </p>
 <p>
 The men closed the doors and made a circle around the bulky motile corduroy mass. One reached down toward it and, with a pull of a box-cutter blade, sliced away the plastic cords binding the rug in its cylindrical shape. It began to unfurl.
@@ -186,16 +186,16 @@ Passinsky shrugged off the praise. “Have you had a chance to speak with Tungst
 “What for?” Ivan said casually.
 </p>
 <p>
-“What do you mean, ‘what for?’” Passinsky said carelessly, and instantly regretted it. “At the risk of sounding impertinent, sir… I was under the impression that the whole purpose of your visit was to meet with me to discuss the recent reinstatement of Tungsten’s debts.”
+“What do you mean, ‘what for?’” Passinsky said, and instantly regretted it. “At the risk of sounding impertinent, sir… I was under the impression that the whole purpose of your visit was to meet with me to discuss the recent reinstatement of Tungsten’s debts.”
 </p>
 <p>
-Ivan eyed the vial in his hand. “That hardly matters anymore, does it?”
+Ivan eyed the vial in his hand. “That hardly matters anymore.”
 </p>
 <p>
 “It… doesn’t matter?” Passinsky asked suspiciously.
 </p>
 <p>
-“I have what I need,” Ivan said with a shrug, and placed the vial in the vest pocket of his three-piece suit.
+“I have what I need,” Ivan said with a shrug, and placed the vial in the pocket of his three-piece suit.
 </p>
 <p>
 Passinsky felt his blood run cold. “I… I’m afraid I don’t understand. What will happen to Tungsten?”
@@ -216,7 +216,7 @@ Passinsky felt his blood run cold. “I… I’m afraid I don’t understand. Wh
 “Did we now?” Ivan said with a smirk.
 </p>
 <p>
-Passinsky’s normally emotionless eyes widened. The corners of his thin, dry lips curled downward. “Do you think I work for you because I enjoy gazing upon your face?”
+Passinsky’s thin lips curled downward. “Do you think I work for you because I enjoy gazing upon your face?”
 </p>
 <p>
 Ivan stared sinisterly at the gaunt old man. “Careful, Petya. I’m sure you wouldn’t want to say something you’d regret.”

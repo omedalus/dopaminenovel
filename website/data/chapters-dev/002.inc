@@ -12,7 +12,7 @@ Unfortunately, that never actually happened.
 Danny looked around and decided it’s best if they didn’t.
 </p>
 <p>
-The light smattering of polite, professional applause came from about two dozen 50-something men. In place of tattoos and piercings were hair plugs and dental veneers. What should have been a dark stadium glittering with cellphone flashes was instead a bland conference room awash in the sickly pale light of fluorescent bulbs. About half of the audience were wearing gray suits, like Danny. The rest were in khakis and polos, doubtlessly planning to get back to their sailboats or golf courses right after the meeting.
+The smattering of polite, professional applause came from about two dozen 50-something men. In place of tattoos and piercings were hair plugs and dental veneers. What should have been a stadium glittering with cellphone flashes was instead a bland conference room awash in the sickly light of fluorescent bulbs. About half of the audience were wearing gray suits, like Danny. The rest were in khakis and polos, doubtlessly planning to get back to their sailboats or golf courses right after the meeting.
 </p>
 <p>
 One attendee actually <em>was</em> wearing a concert T-shirt under his suit jacket &mdash; a <em>Nine Inch Nails World Tour</em> XL tucked into pleated pants, spread over a belly that had apparently gone decades without being subjected to a sit-up. The thinning remnants of his salt-and-pepper hair were gelled upward into what would’ve been a fashionable fauxhawk on a man half his age.
@@ -39,7 +39,7 @@ Brent beamed. “Yes, Danny’s been a great asset to the company. He’s been C
 “Six,” Danny said.
 </p>
 <p>
-“Six years,” Brent repeated. “Last year, he almost single-handedly ran the Naval Base Kitsap project. He’s personally responsible for most of the firmware designs you guys saw here tonight. And you should see him bust a move on <em>Dance Dance Revolution</em>!” The investors laughed on cue.
+“He ran the Naval Base Kitsap project last year,” Brent continued. “He’s personally responsible for most of the firmware designs you guys saw here tonight. And you should see him bust a move on <em>Dance Dance Revolution</em>!” The investors laughed on cue.
 </p>
 <p>
 “Do you think it would it be possible,” NIN man asked with gratuitous politeness, “for Danny’s slides to be available after we finish here?”
@@ -48,10 +48,10 @@ Brent beamed. “Yes, Danny’s been a great asset to the company. He’s been C
 Danny answered on his own behalf. “Sure thing. I can put this up on the Claymore website right now…” His hand moved inside his suit jacket toward his cellphone.
 </p>
 <p>
-The room erupted in murmurs of protest and clearing of throats. The assembled one-percenters exchanged nervous glances with one another and inched forward in their seats. Danny stood frozen with his hand halfway to his interior chest pocket, as though he was caught drawing a gun. He blinked dumbly and turned to Brent for help.
+The room erupted in murmurs of protest and clearing of throats. The one-percenters exchanged nervous glances with one another and inched forward in their seats. Danny stood frozen with his hand halfway to his interior chest pocket, as though he was caught drawing a gun. He blinked dumbly at Brent for help.
 </p>
 <p>
-Brent returned Danny’s look with an embarrassed half-smile. “The company’s website is maybe not the best place for proprietary technical data, Danny.” To the suddenly skittish investors, he said soothingly, “But we’ll be delighted to email this presentation to each of you as soon as we wrap up.”
+Brent returned Danny’s look with an embarrassed half-smile. “The company’s website is maybe not the best place for proprietary technical data, Danny.” To the investors, he said, “But we’ll be delighted to email this presentation to each of you as soon as we wrap up.”
 </p>
 <p>
 “Please make sure I get a personal copy,” NIN man insisted. “You can reach me at Jason Tuttle at AOL dot com. That’s J, A, S...”
@@ -78,16 +78,16 @@ Reality sucked.
 <span class="think">Crap! I didn't say that out loud, did I?</span>
 </p>
 <p>
-The words had escaped under his breath. All eyes turned to Danny. Brent’s jaw hung open, mortified.
+The words had escaped under his breath. All eyes turned to Danny. Brent’s jaw hung open.
 </p>
 <p>
 “I… sorry,” Danny said. “I was just… My mind was somewhere else.”
 </p>
 <p>
-Brent stepped in diplomatically. “Danny’s been working hard lately to put this presentation together for you guys. He stayed up late last night giving it a final polish. He could probably use some coffee. Right, Danny?”
+Brent stepped in diplomatically. “Danny’s been working hard to put this presentation together for you guys. He stayed up late last night giving it a final polish. He could probably use some coffee. Right, Danny?”
 </p>
 <p>
-Danny took the hint. As he escaped the room, he heard Brent resume the presentation.
+Danny took the hint. As he escaped, he heard Brent resume the presentation.
 </p>
 <p>
 <span class="think">Reality sucks?</span>
@@ -99,7 +99,7 @@ Danny took the hint. As he escaped the room, he heard Brent resume the presentat
 
 <div class="chapsection">
 <p>
-<span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. Danny gazed at it, mesmerized. It glowed with a shade of red slightly deeper than the visible spectrum. Infrared. Every object in the universe emitted black-body radiation with a brightness and color determined by its temperature. Danny stared as he computed the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law; the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times 2 times the Planck constant divided by…
+<span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. It glowed with a shade of red slightly deeper than the visible spectrum. Infrared. Every object in the universe emitted black-body radiation with a brightness and color determined by its temperature. Danny stared as he computed the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law; the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times 2 times the Planck constant divided by…
 </p>
 <p>
 A vibration on his chest broke his trance. His cellphone signaled an incoming email. Judging by the time, Brent’s business Q&amp;A had come to a close several minutes ago. The investors had probably cleared out by now and were already driving their Beamers and Lexi home.
@@ -139,13 +139,13 @@ Verizon Communications
 </div>
 
 <p>
-The email continued with a long chain of forwards and replies by random corporate people. The attachment was the PowerPoint presentation that Danny had just delivered less than half an hour ago.
+The email continued with a chain of forwards and replies by corporate people. The attachment was the PowerPoint presentation that Danny had delivered less than half an hour ago.
 </p>
 <p>
 “<span class="computer">Sure</span>,” Danny typed in reply. “<span class="computer">Put simply, we utilize the phase angle deltas as part of the encoding scheme. To solve the obvious physical reception problems, we’ve developed a polyradial antenna design</span>…”
 </p>
 <p>
-His fingers abruptly froze over the virtual keys. A nagging conundrum pestered him from the back of his mind, distracting him from NIN Man’s question. The email thread, after all, was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain. The conundrum, on the other hand, involved understanding and properly responding to social cues. The latter was a much more complicated matter than the former.
+His fingers abruptly froze over the virtual keys. A conundrum pestered him from the back of his mind, distracting him from NIN Man’s question. The email thread, after all, was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain. The conundrum, on the other hand, involved understanding and properly responding to social cues. The latter was a much more complicated matter than the former.
 </p>
 <p>
 Danny deleted his reply-in-progress and replaced it with:
@@ -218,7 +218,7 @@ Jason Tuttle’s answer appeared several minutes later. It came not as an email,
 <br/>
 
 <p>
-Still mostly just feeling confused, Danny responded.
+Danny responded.
 </p>
 
 <br/>
@@ -278,7 +278,7 @@ Even as he typed the question, he realized he was simply fighting his own denial
     The investment board made a decision recently.
   </div>
   <div class="message messagein">
-    Claymore has never turned a profit, you know.
+    Claymore has never turned a profit.
   </div>
 </div>
 <br/>
@@ -305,19 +305,19 @@ Danny swallowed hard.
     You've had six years.
   </div>
   <div class="message messagein">
-    You've basically been living off of our generosity for the entire lifetime of the company.
+    You've been living off of our generosity.
   </div>
   <div class="message messagein">
     Who do you think provides the funds that your salary comes from? Benevolent gods from the ancient empire of Moneypotamia?
   </div>
   <div class="message messagein">
-    We're investors, Danny. We need a RETURN on our investment. We can't keep waiting indefinitely for some ship that never comes in. We've been discussing this for a long time. We all have other projects with better potential ROI. It had to happen eventually.
+    We're investors, Danny. We need a RETURN on our investment. We can't wait indefinitely for some ship that never comes in. We have other projects with better potential ROI. It had to happen eventually.
   </div>
 </div>
 <br/>
 
 <p>
-Danny found himself wrestling with his phone’s autocorrect as his fingers began to tremble.
+Danny found himself wrestling with his phone’s autocorrect as his fingers trembled.
 </p>
 
 <br/>
@@ -329,13 +329,10 @@ Danny found himself wrestling with his phone’s autocorrect as his fingers bega
     One week.
   </div>
   <div class="message messagein">
-    We've already pulled the plug. The operations account is already frozen.
+    We've already pulled the plug. The operations account is frozen.
   </div>
   <div class="message messagein">
     Your next paycheck will be your last.
-  </div>
-  <div class="message messageout">
-    So.
   </div>
   <div class="message messageout">
     That's it then.
@@ -413,13 +410,13 @@ He stared at Jason’s answer. Impotent fury and remorseful self-pity knotted to
 <br/>
 
 <p>
-Jason’s reply was slow in coming. 
+Jason’s reply was slow to come. 
 </P>
 
 <br/>
 <div class="computer cyberchat">
   <div class="message messagein">
-    Nobody knows. Nobody's allowed to know outside the investment group. Certainly not the employees.
+    Nobody's allowed to know outside the investment group. Certainly not the employees.
   </div>
   <div class="message messagein">
     The fact that you know is highly problematic.
@@ -428,22 +425,22 @@ Jason’s reply was slow in coming.
     Oh gosh. Too bad.
   </div>
   <div class="message messageout">
-    So, if I was to update Claymore's website right this very minute with this news...
+    So, if I was to update Claymore's website right this minute with this news...
   </div>
   <div class="message messagein">
     Jesus Christ Danny please don't do that.
   </div>
   <div class="message messageout">
-    LOL what, you wouldn't like that? I suppose updating my Facebook status would probably not be on your list of favorite things either, right?
+    LOL what, you wouldn't like that? How about I just post it on Facebook, then?
   </div>
   <div class="message messagein">
     That's not funny.
   </div>
   <div class="message messagein">
-    I could get in an unbelievable amount of trouble for letting this information slip to you.
+    I could get in unbelievable trouble for letting this information slip.
   </div>
   <div class="message messagein">
-    The rest of the investment board could sue me for the full value of the sale.
+    The other investors could sue me for the full value of the sale.
   </div>
 </div>
 <br/>
@@ -500,7 +497,7 @@ Danny let out a cold, bitter laugh.
 <br/>
 
 <p>
-Danny leaned against the wall of Claymore’s kitchen and let himself sink slowly down until he sat on the floor, his head dangling limply between his knees. A silent minute passed. His cellphone vibrated again in his hand.
+Danny leaned against the wall and let himself sink slowly down until he sat on the floor, his head dangling limply between his knees. A silent minute passed. His cellphone vibrated again in his hand.
 </p>
 
 <br/>
@@ -509,7 +506,7 @@ Danny leaned against the wall of Claymore’s kitchen and let himself sink slowl
     I know it's not about the money, Danny. I'm sorry for implying that that's all it was.
   </div>
   <div class="message messagein">
-    Believe it or not, I've been in your shoes. Not even so long ago. I know firsthand that there are other things at stake. Deeper things.
+    Believe it or not, I've been in your shoes. I know firsthand that there are other things at stake. Deeper things.
   </div>
   <div class="message messagein">
     Dignity. Pride. A sense of accomplishment. Being valued.
@@ -527,13 +524,13 @@ Danny leaned against the wall of Claymore’s kitchen and let himself sink slowl
     I personally have one very hot iron in the fire.
   </div>
   <div class="message messagein">
-    It's high-priority for me, it's urgent, and it's EXTREMELY sensitive. I already have personnel selected, but none of my current picks is suitable for the role of engineering lead. In other words, the same role you've expertly proven yourself in for the last six years. Now that I think about it, this unfortunate situation could potentially work out very well for both of us. I could really use a man of your talents.
+    It's high-priority for me, it's urgent, and it's EXTREMELY sensitive. I already have personnel selected, but none of my current picks is suitable for the role of lead engineer. The same role you've proven yourself in for the last six years. Now that I think about it, this unfortunate situation could potentially work out very well for both of us. I could really use a man of your talents.
   </div>
 </div>
 <br/>
 
 <p>
-Danny sat on the floor and watched the messages roll in. He sighed deeply, and looked around the kitchen. The table, the coffee pot, the fridge, the OSHA notices, the community corkboard with postings from his coworkers looking for babysitters or carpool partners. In a week, it would be gone. All of it.
+Danny sat on the floor as the messages rolled in. He sighed deeply, and looked around the kitchen. The table, the coffee pot, the fridge, the OSHA notices, the community corkboard with postings from his coworkers looking for babysitters or carpool partners. In a week, it would all be gone.
 </p>
 <p>
 It certainly wasn’t the first dot-com he’d seen die with a whimper. And, though it stabbed him through the heart to think of it, it probably wouldn’t be the last.
@@ -541,17 +538,11 @@ It certainly wasn’t the first dot-com he’d seen die with a whimper. And, tho
 
 <br/>
 <div class="computer cyberchat">
-  <div class="message messagein">
-    Hello? Danny? Are you there?
-  </div>
-  <div class="message messagein">
-    Please say something.
-  </div>
   <div class="message messageout">
     Are you offering me a job?
   </div>
   <div class="message messageout">
-    You're yanking one job out from under me, and offering me another?
+    You're yanking one job from me, and offering me another?
   </div>
   <div class="message messagein">
     Yes.
@@ -560,7 +551,7 @@ It certainly wasn’t the first dot-com he’d seen die with a whimper. And, tho
     Not so much a job in the sense of W-2s and HR departments and all that. This is more of a one-off consulting project. With cash payment.
   </div>
   <div class="message messageout">
-    Instead of a bribe? So basically you still want to shut me up by giving me money, it's just that this way I have to work for it.
+    Instead of a bribe? So basically you still want to shut me up with money, it's just that this way I have to work for it.
   </div>
   <div class="message messagein">
     Basically.
@@ -569,25 +560,22 @@ It certainly wasn’t the first dot-com he’d seen die with a whimper. And, tho
     You know...
   </div>
   <div class="message messageout">
-    Honestly, I don't know why that should make me feel better.
+    I don't know why that should make me feel better.
   </div>
   <div class="message messageout">
     But it does.
   </div>
-  <div class="message messagein">
-    Would you like to hear more?
-  </div>
   <div class="message messageout">
-    I hate to admit it, but yes.
+    Give me details?
   </div>
   <div class="message messagein">
-    I can't talk about it over email or text or phone. Too traceable.
+    I can't talk about it over phone or email. Too traceable.
   </div>
   <div class="message messagein">
     Do you know the Mercury club on Capitol Hill?
   </div>
   <div class="message messagein">
-    Meet me there in an hour. I'll tell you all about it.
+    Meet me in an hour. I'll tell you all about it.
   </div>
 </div>
 <br/>

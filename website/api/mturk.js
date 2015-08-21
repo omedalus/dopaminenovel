@@ -68,7 +68,11 @@ $(document).ready(function() {
           
           if (firstItemAbovePid !== null) {
             mturkPosition.text(firstItemAbovePid.p);
-            mturkContent.html(firstItemAbovePid.suggestion.replace("\n", "<br/><br/>"));
+            
+            var sugtext = $('<div/>').text(firstItemAbovePid.suggestion).
+                html().
+                replace(/\n/g, "<br/>");
+            mturkContent.html(sugtext);
           }
         };
         

@@ -36,7 +36,7 @@ Eugene’s eyes narrowed. “What <em>is</em> the point, Francisco?”
 <p>
 He murmured, “She charges a fifth of your prices.”</p>
 <p>
-Eugene leaned in, pulling Francisco’s face to his ear. “I’m sorry. I don’t think I heard you right. You said she’s undercutting us by a <em>fifth</em>?”</p>
+Eugene leaned in, pulling Francisco’s face to his ear. “I don’t think I heard you right. You said she’s undercutting us by a <em>fifth</em>?”</p>
 <p>
 “Undercutting you <em>to</em> a fifth. What you sell for a grand, she sells for two hundred. They say she makes it locally, chief. She grows it in a tub of saltwater or something. Like with pot. What’s it called? Hydroponic…?”</p>
 <p>
@@ -46,7 +46,7 @@ Eugene rolled his eyes. “Francisco, how did you get to be a salesman without k
 “Look, chief. I’m just saying what I heard,” Francisco pleaded. “It checks out, though. Figure she’s got no import costs, no cartel dues, no <em>Federales</em> bribes… Maybe she knows something you don’t.”
 </p>
 <p>
-Eugene’s fingers closed around Francisco’s throat. He looked into his reddening eyes and hissed, “You betray us for this bullshit…?”
+Eugene’s fingers closed around Francisco’s throat. He looked into his eyes and hissed, “You betray us for this bullshit…?”
 </p>
 <p>
 Gasping, Francisco honked out through his squeezed larynx, “See for yourself, chief!” He pointed toward the back of the bar with one thin arm.
@@ -58,28 +58,28 @@ Eugene’s gaze followed his trembling finger past silhouettes of drunks. Near t
 “She’s <em>here</em>?” Eugene grunted. He released his choke on Francisco, leaving him wheezing. “<em>That’s</em> who’s muscling in on our area?”
 </p>
 <p>
-“She showed up about two weeks ago,” said Francisco, his voice still raspy. “She’s been using this joint for a recruiting ground. Been here about half a dozen times. Each time she comes, she gets more people signing up to sell for her.”
+“She showed up two weeks ago,” said Francisco, his voice still raspy. “She’s been using this joint for a recruiting ground. Been here half a dozen times. Each time she comes, she gets more people signing up to sell for her.”
 </p>
 <p>
 Eugene squinted. A pink Hello Kitty purse rested on the girl’s lap. “She doesn’t even look old enough to be drinking.”
 </p>
 <p>
-“She’s been growing a network real damn fast,” Francisco explained. “I figured, the way she’s going, pretty soon I’d be working for her anyway. And eventually, so would you.”
+“She’s been growing a network damn fast,” Francisco explained. “I figured, the way she’s going, pretty soon I’d be working for her anyway. And eventually, so would you.”
 </p>
 <p>
-Eugene smacked him hard upside the head. “Get the fuck out of here, Francisco. Go. Leave town. If Sergey or I ever see you again, you’re a dead man.”
+Eugene smacked him upside the head. “Get the fuck out of here, Francisco. Go. Leave town. If Sergey or I ever see you again, you’re a dead man.”
 </p>
 <p>
-Sparing not a moment, the youth pushed himself away from the bar and scuttled hastily to the door.
+Sparing not a moment, the youth pushed himself away from the bar and scuttled for the door.
 </p>
 <p>
 Eugene stayed put, watching the girl keenly. Three muscular men shared the empty area with her &mdash; one by her side, the other two absorbed in a game of pool. He pulled out his cellphone. “<span class="computer">Sergey</span>,” he typed. “<span class="computer">Get down here. You have to see this.</span>”
 </p>
 <p>
-A reply came almost immediately. “<span class="computer">Busy. Picking the music with Rosie for dance recital. Are you having something more important than evening with daughter?</span>”
+A reply came quickly. “<span class="computer">Busy. Picking the music with Rosie for dance recital. Are you having something more important than evening with daughter?</span>”
 </p>
 <p>
-Eugene carefully slipped his way through the crowd toward the back of the bar. He angled the phone’s camera at the Asian girl, waited for some biker to move his enormous head, and snapped a photo. “<span class="computer">In Renton</span>,” he typed beneath the image attachment. “<span class="computer">Just take the Tesla, drive is less than 10 minutes.</span>”
+Eugene carefully slipped his way through the crowd toward the back of the bar. He angled the phone’s camera at the Asian girl, waited for some biker to move his head, and snapped a photo. “<span class="computer">In Renton</span>,” he typed beneath the image attachment. “<span class="computer">Just take the Tesla, drive is less than 10 minutes.</span>”
 </p>
 <p>
 He waited for a reply. None came.
@@ -103,13 +103,13 @@ The bodyguard’s arm immediately barred his approach.
 Eugene talked past him, directly to the girl. “Have you heard of Sergey Mukhayev?”
 </p>
 <p>
-She cocked an eyebrow and put away her cellphone. “Let him through,” she said. The guard promptly stepped back to resume his post at her side. She spent several silent seconds scrutinizing Eugene, her fingers fiddling against her cocktail glass. Her pupils were the size of dimes. “So,” she finally said. “I figured I’d run into you sooner or later. Eugene, right? I've heard stories.”
+She cocked an eyebrow and put away her cellphone. “Let him through,” she said. The guard promptly stepped back to resume his post at her side. She spent several silent seconds scrutinizing Eugene, her fingers fiddling against her cocktail glass. Her pupils were the size of dimes. “So. I figured I’d run into you sooner or later. Eugene, right? I've heard stories.”
 </p>
 <p>
-“Do you have a name?” he asked.
+“Do you have a name?”
 </p>
 <p>
-The girl sipped her drink. “Julie,” she replied. “Julie Yen. Get to know it. It’ll be a household word.”
+The girl sipped her drink. “Julie. Julie Yen. Get to know it. It’ll be a household word.”
 </p>
 <p>
 From this distance, Eugene confirmed his initial impression: the girl was still mostly a child. He shook his head. “What the hell is this? Did your daddy get you a My Little Druglord playset for your birthday?”
@@ -118,10 +118,10 @@ From this distance, Eugene confirmed his initial impression: the girl was still 
 The guard beside her snarled, “Respect the lady!”
 </p>
 <p>
-Eugene replied, “Your lady is stepping on some very big toes.”
+“Your lady is stepping on some very big toes.”
 </p>
 <p>
-The girl chuckled. “Yeah. I bet I am. Thomas Edison stepped on the toes of the candle industry too. And Henry Ford pissed off a lot of horse breeders.”
+She chuckled. “Yeah. I bet I am. Thomas Edison stepped on the toes of the candle industry too. And Henry Ford pissed off a lot of horse breeders.”
 </p>
 <p>
 “I don’t know what the fuck you’re talking about, little girl,” said Eugene. “What I do know is that you are in Sergey’s territory. And that means you better start answering a lot of questions if you know what’s good for you.”
@@ -136,10 +136,10 @@ The stoic bodyguard advanced. “You’re threatening my boss, buddy. Your conve
 Julie Yen laughed raucously. “Oh, Eugene! Dear obsolete, useless Eugene! What would be the point of explaining anything? You wouldn’t understand a word I told you.”
 </p>
 <p>
-Eugene noticed that the occasional click of colliding billiard balls behind him had ceased. He realized that could mean only one thing: the two men who had been playing pool must be standing right…
+Eugene noticed that the click of colliding billiard balls behind him had ceased. He realized that could mean only one thing: the two men who had been playing pool must be standing right…
 </p>
 <p>
-He ducked down into a squat, spinning and kicking out as he dropped. His leg made contact with an ankle. He crooked his knee, sweeping the foot of one of the men behind him. The would-be assailant fell backward, knocking his head against the pool table as he tumbled. Eugene rose from his squat to deliver his fallen opponent a swift stomp on the chest. Ribs cracked beneath his heel.
+He ducked down into a squat, spinning and kicking out as he dropped. His leg made contact with an ankle. He crooked his knee, sweeping the foot of one of the men behind him. The would-be assailant fell backward, knocking his head against the pool table as he tumbled. Eugene rose to deliver his fallen opponent a stomp on the chest. Ribs cracked beneath his heel.
 </p>
 <p>
 He turned to the other pool player just in time to see a cue swinging at his face. He leaned into the arc of the swing, grabbed the stick, and spun with its momentum, turning his back toward its wielder. An elbow jab made contact with the attacker’s gut hard enough to sink him to his knees, but the man’s grip on the stick remained firm. Eugene wrestled the cue downward against the floor and pushed until it cracked in two. He grabbed the thicker end and rammed the butt against his attacker’s temple. The kneeling man reeled and collapsed.

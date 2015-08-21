@@ -7,7 +7,7 @@
 
 <div class="chapsection">
 <p>
-<span class="caplead">Peanut shells crunched under the soles</span> of Eugene’s designer sneakers. He leaned against the carving-pocked bar, careful to avoid dipping the elbow of his custom-fit leather jacket into something sticky and unnameable. Around him, tattooed men with large bellies and larger beards swigged Jack Daniels and bragged about the horsepower of their “hogs” beneath the blare of the jukebox.
+<span class="caplead">Peanut shells crunched under</span> Eugene’s designer sneakers. He leaned against the carving-pocked bar, careful to avoid dipping the elbow of his custom-fit leather jacket into something sticky and unnameable. Around him, tattooed men with large bellies and larger beards swigged Jack Daniels and bragged about the horsepower of their “hogs” beneath the blare of the jukebox.
 </p>
 <p>
 “I didn’t mean to make trouble, Eugene,” a young, thin man said with a gulp.
@@ -28,7 +28,7 @@ Eugene slid his hand up toward the man’s neck. “Do you think Sergey and I ar
 “This new supplier’s product is <em>so</em> much better, right?”
 </p>
 <p>
-Francisco’s lips trembled. “Her staple is better than your samplers, chief,” he said almost apologetically. “But that’s not the point.”
+Francisco’s lips trembled. “Her staple is better than your samplers, chief. But that’s not the point.”
 </p>
 <p>
 Eugene’s eyes narrowed. “What <em>is</em> the point, Francisco?”
@@ -36,29 +36,29 @@ Eugene’s eyes narrowed. “What <em>is</em> the point, Francisco?”
 <p>
 He murmured, “She charges a fifth of your prices.”</p>
 <p>
-Eugene leaned in, pulling Francisco’s face to his ear. “I don’t think I heard you right. You said she’s undercutting us by a <em>fifth</em>?”</p>
+Eugene leaned in, pulling Francisco’s face to his ear. “I don’t think I heard you right. She’s undercutting us by a <em>fifth</em>?”</p>
 <p>
-“Undercutting you <em>to</em> a fifth. What you sell for a grand, she sells for two hundred. They say she makes it locally, chief. She grows it in a tub of saltwater or something. Like with pot. What’s it called? Hydroponic…?”</p>
+“Undercutting you <em>to</em> a fifth. What you sell for a grand, she sells for two hundred. They say she makes it locally, chief. She grows it in a tub of saltwater or something. Like with pot. What’s it called? ‘Hydroponic?’”</p>
 <p>
 Eugene rolled his eyes. “Francisco, how did you get to be a salesman without knowing shit about your product? Coca is not like hemp. A kilogram of coca leaves will only yield five grams of blow. Farms need to harvest acres of crop just to break even. You would know this if you were not an idiot.”
 </p>
 <p>
-“Look, chief. I’m just saying what I heard,” Francisco pleaded. “It checks out, though. Figure she’s got no import costs, no cartel dues, no <em>Federales</em> bribes… Maybe she knows something you don’t.”
+“I’m just saying what I heard,” Francisco pleaded. “It checks out, though. Figure she’s got no import costs, no cartel dues, no <em>Federales</em> bribes… Maybe she knows something you don’t.”
 </p>
 <p>
 Eugene’s fingers closed around Francisco’s throat. He looked into his eyes and hissed, “You betray us for this bullshit…?”
 </p>
 <p>
-Gasping, Francisco honked out through his squeezed larynx, “See for yourself, chief!” He pointed toward the back of the bar with one thin arm.
+Francisco honked out through his squeezed larynx, “See for yourself!” He pointed toward the back of the bar with one thin arm.
 </p>
 <p>
-Eugene’s gaze followed his trembling finger past silhouettes of drunks. Near the pool table in the back, the crowd simply stopped, like a sea held back by an invisible dam. There, on a tall bar stool, sat a young Asian woman drinking a fluorescent cocktail. Eugene couldn’t make out details, but, amid all the denim vests and grease-stained jeans, her sleek white dress and gladiator stilettos stuck out like a Viagra in a bag of molly.
+Eugene’s gaze followed his trembling finger past silhouettes of drunks. Near a pool table, the crowd simply stopped, like a sea held back by an invisible dam. There, on a tall bar stool, sat a young Asian woman drinking a fluorescent cocktail. Eugene couldn’t make out details, but, amid all the denim vests and grease-stained jeans, her sleek white dress and gladiator stilettos stuck out like a Viagra in a bag of molly.
 </p>
 <p>
 “She’s <em>here</em>?” Eugene grunted. He released his choke on Francisco, leaving him wheezing. “<em>That’s</em> who’s muscling in on our area?”
 </p>
 <p>
-“She showed up two weeks ago,” said Francisco, his voice still raspy. “She’s been using this joint for a recruiting ground. Been here half a dozen times. Each time she comes, she gets more people signing up to sell for her.”
+“She showed up two weeks ago,” said Francisco, his voice still raspy. “She’s been using this joint for a recruiting ground. Each time she comes here, she gets more people signing up to sell for her.”
 </p>
 <p>
 Eugene squinted. A pink Hello Kitty purse rested on the girl’s lap. “She doesn’t even look old enough to be drinking.”
@@ -67,7 +67,7 @@ Eugene squinted. A pink Hello Kitty purse rested on the girl’s lap. “She doe
 “She’s been growing a network damn fast,” Francisco explained. “I figured, the way she’s going, pretty soon I’d be working for her anyway. And eventually, so would you.”
 </p>
 <p>
-Eugene smacked him upside the head. “Get the fuck out of here, Francisco. Go. Leave town. If Sergey or I ever see you again, you’re a dead man.”
+Eugene smacked him upside the head. “Get the fuck out of here, Francisco. Leave town. If Sergey or I ever see you again, you’re a dead man.”
 </p>
 <p>
 Sparing not a moment, the youth pushed himself away from the bar and scuttled for the door.
@@ -79,13 +79,13 @@ Eugene stayed put, watching the girl keenly. Three muscular men shared the empty
 A reply came quickly. “<span class="computer">Busy. Picking the music with Rosie for dance recital. Are you having something more important than evening with daughter?</span>”
 </p>
 <p>
-Eugene carefully slipped his way through the crowd toward the back of the bar. He angled the phone’s camera at the Asian girl, waited for some biker to move his head, and snapped a photo. “<span class="computer">In Renton</span>,” he typed beneath the image attachment. “<span class="computer">Just take the Tesla, drive is less than 10 minutes.</span>”
+Eugene carefully slipped his way through the crowd toward the back of the bar. He angled the phone’s camera at the Asian girl, waited for some biker to move his head, and snapped a photo. “<span class="computer">In Renton</span>,” he typed beneath the image. “<span class="computer">Just take the Tesla, drive is less than 10 minutes.</span>”
 </p>
 <p>
 He waited for a reply. None came.
 </p>
 <p>
-Before him, the girl sat and drank, texting furiously on her cell, saying nothing to her three large companions. Occasionally she would reach a hand into her Hello Kitty purse and withdraw it carefully, one manicured fingernail held upturned like a spoon, carrying a small scoop of fine white powder that promptly disappeared up her nose.
+Before him, the girl sat and drank, texting furiously, saying nothing to her three large companions. Occasionally she would reach into her Hello Kitty purse and withdraw it carefully, one manicured fingernail held upturned like a spoon, carrying a small scoop of fine white powder that promptly disappeared up her nose.
 </p>
 <p>
 Eugene glanced at his phone. Still no word from Sergey. With a grimace, he rolled his shoulders, cracked his knuckles, and strode forward.
@@ -103,7 +103,7 @@ The bodyguard’s arm immediately barred his approach.
 Eugene talked past him, directly to the girl. “Have you heard of Sergey Mukhayev?”
 </p>
 <p>
-She cocked an eyebrow and put away her cellphone. “Let him through,” she said. The guard promptly stepped back to resume his post at her side. She spent several silent seconds scrutinizing Eugene, her fingers fiddling against her cocktail glass. Her pupils were the size of dimes. “So. I figured I’d run into you sooner or later. Eugene, right? I've heard stories.”
+She cocked an eyebrow and put away her phone. “Let him through,” she said. The guard stepped back to resume his post at her side. She spent several silent seconds scrutinizing Eugene, her fingers fiddling against her cocktail glass. Her pupils were the size of dimes. “So. I figured I’d run into you sooner or later. Eugene, right? I've heard stories.”
 </p>
 <p>
 “Do you have a name?”
@@ -127,7 +127,7 @@ She chuckled. “Yeah. I bet I am. Thomas Edison stepped on the toes of the cand
 “I don’t know what the fuck you’re talking about, little girl,” said Eugene. “What I do know is that you are in Sergey’s territory. And that means you better start answering a lot of questions if you know what’s good for you.”
 </p>
 <p>
-The stoic bodyguard advanced. “You’re threatening my boss, buddy. Your conversation’s over.”
+The bodyguard advanced. “You’re threatening my boss, buddy. Your conversation’s over.”
 </p>
 <p>
 “Where is your source?” Eugene barked over the guard’s shoulder. “Who is your cartel contact? How are you evading Coast Guard patrols?”
@@ -148,10 +148,10 @@ He turned to the other pool player just in time to see a cue swinging at his fac
 The bodyguard at Julie’s side approached the melee, reaching out to grapple Eugene with elephant-trunk arms. Eugene quickly scanned the large man’s posture for weaknesses.
 </p>
 <p>
-A pair of hairy, thick-fingered hands appeared beneath the bodyguard’s armpits. They snaked up over his shoulders and joined behind the man’s head, locking his arms in a full nelson. The guard, taken by surprise, struggled to break free from the large unseen figure behind him.
+A pair of hairy, thick-fingered hands appeared beneath the bodyguard’s armpits. They snaked up over his shoulders and joined behind the man’s head, locking his arms in a full nelson. The guard, taken by surprise, struggled to break free from the unseen figure behind him.
 </p>
 <p>
-Eugene wasted no time. He stabbed the cracked end of the pool cue into a patch of vulnerable flesh below the guard’s ribs. The splintered wood tore through cloth, skin, and muscle, and when Eugene released the stick it remained lodged in his torso. The bodyguard emitted a long, powerless grunt and sank to the floor, his blood running down the pool cue. The bartender and patrons looked away furtively as the wounded man crawled toward an exit; they were savvy enough to see and hear nothing.
+Eugene wasted no time. He stabbed the cracked end of the pool cue into a patch of vulnerable flesh below the guard’s ribs. The splintered wood tore through cloth, skin, and muscle, and when Eugene released the stick it remained lodged in his torso. The bodyguard emitted a powerless grunt and sank to the floor, his blood running down the pool cue. The bartender and patrons looked away furtively as the wounded man crawled toward an exit; they were savvy enough to see and hear nothing.
 </p>
 <p>
 With the bodyguard fallen, Eugene saw the round, rugged face and the massive, middle-aged form of the man who had come to his aid.
@@ -169,12 +169,12 @@ The two of them spotted Julie cowering by the back wall, crouching in her coutur
 Sergey regarded her with a frown. “She’s very young.” 
 </p>
 <p>
-“And high as the moon,” Eugene added. “Apparently she manufactures it herself.” Her Hello Kitty purse lay near his feet &mdash; the girl had tossed it during the scuffle. Eugene squatted down and casually walked his fingers into the purse’s open top to spread it wide enough to peek inside. Amidst mascara and lipstick and a sandwich bag full of powdered cocaine, there was a plain white keycard. It bore a stylized letter <em>W</em> and the inscription, <em>Tungsten Medical Technologies</em>.
+“And high as the moon,” Eugene added. “Apparently she manufactures it herself. Somehow.” Her Hello Kitty purse lay near his feet &mdash; the girl had tossed it during the scuffle. Eugene squatted down and walked his fingers into the purse’s open top to peek inside. Amidst mascara and lipstick and a sandwich bag full of powdered cocaine, there was a plain white keycard. It bore a stylized letter <em>W</em> and the inscription, <em>Tungsten Medical Technologies</em>.
 </p>
 <p>
 Sergey nodded. “I’ve heard these rumors. Think they have any truth?”
 </p>
 <p>
-Eugene stood back up and looked at the cowering young woman. “She says we wouldn’t understand the truth,” he said as he and Sergey slowly closed in on her. “But she’ll have plenty of time to explain it to us.”
+Eugene stood back up and looked at the cowering young woman. “She says we wouldn’t understand the truth,” he said as he and Sergey closed in on her. “But she’ll have plenty of time to explain it to us.”
 </p>
 </div>

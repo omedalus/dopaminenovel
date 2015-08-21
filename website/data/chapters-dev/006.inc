@@ -3,10 +3,10 @@
 <span class="caplead">“Send, send, send!</span>” Danny said eagerly. He watched a laptop over Moshen’s shoulder, angling himself to avoid the glare from the sunlight streaming in from the bohemian coffee shop’s windows.
 </p>
 <p>
-Moshen gave a forceful flick on the touchpad. “Done! And now… we wait!”
+Moshen flicked the touchpad. “Done! And now… we wait!”
 </p>
 <p>
-Danny’s team sat at a cluster of tables at the B&amp;O Espresso, between walls lined with brass clocks and framed vintage posters. The B&amp;O made an ideal base of operations &mdash; it had power outlets, free Wi-Fi access, and a menu of quadruple-shot chocolate lattes. Danny was already sugared and caffeinated to the point of nausea.
+Danny’s team sat at a cluster of tables at the B&amp;O Espresso, between walls lined with brass clocks and framed vintage posters. The B&amp;O made an ideal base &mdash; it had power outlets, free Wi-Fi access, and a menu of quadruple-shot chocolate lattes. Danny was already caffeinated to the point of nausea.
 </p>
 <p>
  “What’d I miss?” asked Jason as he returned to the table.
@@ -30,28 +30,28 @@ Danny shook his head. “Their website isn’t served from their office. They us
 “Their website has nothing to hack,” Danny answered. “They have a very simple, primitive web page. You can’t even use it for buying anything. If they had a big, complicated modern site with shopping carts and user comment sections, it’d be a different story. But as it stands, it’s only a bunch of sales pitches, and some phone numbers and email addresses.”
 </p>
 <p>
-“I see,” Jason said. “Those all go to their receptionist, by the way. I’ve already checked out all of Tungsten’s public contact information.”
+“I see,” Jason said. “Those all go to their receptionist, by the way. I’ve already checked out Tungsten’s public contact info.”
 </p>
 <p>
-Moshen asked, “All of Tungsten’s email addresses go to the same person?”
+Moshen asked, “All of Tungsten’s emails go to the same person?”
 </p>
 <p>
-“The ones on the website, yeah,” said Jason. “Her name’s Christina. She’s their all-purpose office admin.”
+Jason nodded. “Christina Giordano. Their all-purpose office admin.”
 </p>
 <p>
 “Does she like spam?” asked Moshen. “I just sent her some hot, juicy junkmail.”
 </p>
 <p>
-Jason cocked an eyebrow. “What are you talking about?”
+Jason cocked an eyebrow.
 </p>
 <p>
- Danny explained, “About half an hour ago, Moshen and I hopped on GoDaddy.com and registered a new website. We called it ‘Prismatic Creations’, and made it look like a web design company. Then, we sent a few fake business solicitation emails to Tungsten. The trick is that, at the top of these emails, we added an image.”
+Danny explained, “About half an hour ago, Moshen and I hopped on GoDaddy.com and registered a website. We called it ‘Prismatic Creations’, and made it look like a web design company. Then, we sent a few fake business solicitations to Tungsten. The trick is that, at the top of these emails, we added an image.”
 </p>
 <p>
 “So what?” asked Jason.
 </p>
 <p>
-“You ever get an email with pictures in it?” Danny said. “And your browser gives you a little warning bar that says, ‘Click here to see the images in this message.’? Well, those images aren’t actually part of the email itself. What the email contains are <em>references</em> to images somewhere else on the Internet. The image at the top of our junkmail comes from this website that we just built. And Moshen’s connected to the administrative back end of that website right now, watching connections come in.”
+“You ever get an email with pictures in it?” Danny said. “And your browser gives you a little warning bar that says, ‘Click here to see the images in this message.’? Well, those images aren’t actually part of the email itself. What the email contains are <em>references</em> to images somewhere else on the Internet. The image at the top of our junkmail comes from this website that we just built. And Moshen’s on the administrative back end right now, watching connections come in.”
 </p>
 <p>
 Jason’s brow furrowed. “So… when the office admin opens that email… her computer will automatically connect to your new website?”
@@ -66,13 +66,13 @@ Satish, sitting near Mike a few feet away, chimed in. “You know the chances of
 Danny cocked his head. “Satish? Why so negative?”
 </p>
 <p>
-“I’m just pointing out the obvious, Danny,” said Satish. “Remember, I’m a Microsoft SDET. I spend all day looking at people’s broken-ass software and writing reports to explain to them why it’s hopelessly flawed. I’m not being ‘negative’; I’m doing my job. And I’m telling you, if you think this email trick stands a chance of working…”
+“I’m just pointing out the obvious, Danny,” said Satish. “Remember, I’m a Microsoft SDET. I spend all day looking at people’s broken-ass code and writing reports to explain why it’s hopelessly flawed. I’m not being ‘negative’; I’m doing my job. And I’m telling you, if you think this email trick stands a chance of working…”
 </p>
 <p>
-Moshen, with his eyes on his laptop screen, shot both thumbs excitedly up into the air. “It just did! We got a hit!”
+Moshen, with his eyes on his laptop screen, shot both thumbs excitedly up. “It just did!”
 </p>
 <p>
-Danny stuck his head over Moshen’s shoulder. “Guys! Check it out!” He turned Moshen’s laptop around. It displayed the text:
+Danny stuck his head over Moshen’s shoulder. “Guys! Check this out!” The screen displayed:
 </p>
 
 <pre class="computer">
@@ -83,7 +83,7 @@ zilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.21)
 </pre>
 
 <p>
-“She’s using the Mozilla Thunderbird mail reader on Windows XP,” Danny said.  “Moshen, go cruise newsgroups and hacker forums; try to find any exploits or full disclosures. Satish, Thunderbird is open source, right? Check out the source code and see if you can find any weaknesses. Mike, you and I will try cracking through the firewall. Fire up Nessus and start probing.”
+“She’s using Mozilla Thunderbird mail reader on Windows XP,” Danny said.  “Moshen, go cruise newsgroups and hacker forums; try to find any exploits or full disclosures. Satish, Thunderbird is open source, right? Check out the source code and see if you can find any weaknesses. Mike, you and I will try cracking through the firewall. Fire up Nessus and start probing.”
 </p>
 <p>
 The group sprang to action. They rearranged their chairs and started typing furiously on their laptops.
@@ -141,13 +141,13 @@ Satish paused for a few beats. “Please tell me you’re being sarcastic…”
 “I suppose you have a better idea?” Danny replied.
 </p>
 <p>
-“It’s hard to think of a <em>worse</em> idea,” Satish volleyed back.
+“It’s hard to think of a <em>worse</em> idea,” Satish volleyed.
 </p>
 <p>
-Jason, returning to the tables with several cups of coffee, interjected himself into the budding fray. “Hey. Guys. Is there a personnel conflict I should know about?”
+Jason, returning to the tables with several cups of coffee, interjected himself into the fray. “Hey. Guys. Is there a personnel conflict I should know about?”
 </p>
 <p>
-Satish quickly answered, “Yes, there is. Jason, where did you find this noob, and why did you think it’d be a good idea for him to be in charge?”
+Satish answered, “Yes, there is. Jason, where did you find this noob, and why did you think it’d be a good idea for him to be in charge?”
 </p>
 <p>
 “Hey!” Danny barked. “What the hell, Satish? I’m standing right here!”
@@ -156,28 +156,28 @@ Satish quickly answered, “Yes, there is. Jason, where did you find this noob, 
 Jason said firmly, “What’s going on, guys?”
 </p>
 <p>
-Danny turned to Jason. “Have you ever heard of SSH?” Jason shook his head. “It stands for ‘Secure Shell’. It’s a remote login program. It’s a very common tool &mdash; system administrators use it so they can access their own systems in case of emergency. Most corporate-level computers have it installed by default.”
+Danny turned to Jason. “Have you ever heard of SSH?” Jason shook his head. “It stands for ‘Secure Shell’. It’s a remote login program. It’s a very common tool &mdash; system administrators use it so they can access their own systems in case of emergency. Most corporate-level computers have it installed.”
 </p>
 <p>
 Jason nodded. “Like a back door for authorized personnel only, right?”
 </p>
 <p>
-Satish nodded vigorously and said, “A heavily guarded back door. The connection is encrypted. You need the right username and password combination to open it.”
+“A <em>heavily guarded</em> back door,” Satish emphasized. “The connection is encrypted. It’s useless without login credentials.”
 </p>
 <p>
-Danny added, “Which we were in the middle of trying to figure out…”
+“Which we were in the middle of trying to figure out…” said Danny.
 </p>
 <p>
-“Yeah, with SSHatter, on <em>one</em> host!” Satish scoffed.
+Satish scoffed, “Yeah, with SSHatter, on <em>one</em> host!”
 </p>
 <p>
-“In English, please?” Jason insisted.
+“In English?” Jason insisted.
 </p>
 <p>
-Danny answered, “SSHatter is a program that performs something called a dictionary attack. It has a huge database of common usernames and passwords. We rigged SSHatter to connect to Tungsten over and over again, as quickly as it can, using different common logins until we stumble across one that works.”
+Danny answered, “SSHatter is a program that performs something called a dictionary attack. It has a huge database of common usernames and passwords. We rigged SSHatter to connect to Tungsten over and over again, as fast as it can, using different common logins until we stumble across one that works.”
 </p>
 <p>
-Satish quickly followed with, “Which is a complete dumbass approach! See, when a <em>real</em> hacker uses SSHatter, they do some preparation first. The number of different possible username and password combinations is astronomical, so they divide up the task across a botnet with thousands of zombie hosts. And even then, the process can take days, without any guarantee of success. If you try to run it on just <em>one</em> machine, you…”
+“Which is a complete dumbass approach!” Satish added. “See, when a <em>real</em> hacker uses SSHatter, they do some preparation first. The number of different possible username and password combinations is astronomical, so they divide up the task across a botnet with thousands of zombie hosts. And even then, the process can take days, without any guarantee of success. If you try to run it on just <em>one</em> machine, you…”
 </p>
 <p>
 “Yes, it could theoretically take <em>years</em>, I know,” Danny interrupted. “Look, I realized that the probability of success was low. Fine. But Mike and I figured it’s worth at least trying. It couldn’t hurt, right?”
@@ -186,7 +186,7 @@ Satish quickly followed with, “Which is a complete dumbass approach! See, when
 Satish grimaced. “It most certainly <em>can</em> hurt! You just tripped their DenyHosts IPS, you clueless idiot!”
 </p>
 <p>
-Danny’s eyes flew wide open. He gasped as he realized that Satish was right.
+Danny’s eyes flew open. He gasped as he realized that Satish was right.
 </p>
 <p>
 Jason prodded, “Their what? ‘DenyHosts IPS’?”
@@ -195,10 +195,10 @@ Jason prodded, “Their what? ‘DenyHosts IPS’?”
 Danny, his face buried in his hands, mumbled through his palms, “Their Intrusion Prevention System.”
 </p>
 <p>
-Satish said to Jason, “It’s another program that corporate servers use alongside SSH. It watches incoming network connections to detect potential hacker activity. And you know what it considers a giant red flag? When it sees the same machine connecting over and over again very quickly, trying lots of different logins.”
+Satish said to Jason, “It’s another program that corporate servers use alongside SSH. It watches incoming network connections to detect potential hacker activity. And you know what it considers a giant red flag? When it sees the same machine connecting over and over very fast, trying lots of different logins.”
 </p>
 <p>
-Danny sighed and looked down. “Yeah. So when Mike and I tried to use SSHatter…” 
+Danny looked down. “So when Mike and I tried to use SSHatter…” 
 </p>
 <p>
 Satish finished for him, “You set off their alarm, and now your source IP address is blocked, so none of your connections are getting through. Right?”
@@ -207,10 +207,10 @@ Satish finished for him, “You set off their alarm, and now your source IP addr
 Danny said nothing. 
 </p>
 <p>
-Satish shook his head incredulously. “Did you dumb shits seriously think you could crack your way in through SSH with a cheap script-kiddie tool you just downloaded? If a tool like that existed, do you have any idea what that would do to the entire Internet? Hell, system administrators have taken entire companies offline just because of <em>rumors</em> about a tool that could crack SSH like that! To think that <em>this</em> team of morons could pull off a…”
+Satish shook his head. “Did you dumb shits seriously think you could crack your way in through SSH with a cheap script-kiddie tool? If a tool like that existed, do you have any idea what that would do to the entire Internet? Hell, system administrators have taken entire companies offline because of <em>rumors</em> about a tool that could crack SSH like that! To think that <em>this</em> team of morons could pull off a…”
 </p>
 <p>
-Jason intervened, “Yeah, Satish, maybe dial the insults down a notch? This isn’t a Dungeons and Dragons campaign. We’re all trying to solve a real challenge here.”
+Jason intervened, “Satish, maybe dial the insults down a notch? This isn’t a Dungeons and Dragons campaign. We’re all trying to solve a real challenge here.”
 </p>
 <p>
 Satish shot back to Jason, “You think I don’t know that? You think I don't know that this shit has real consequences? If anything gets traced back to us, we could all end up getting prosecuted. I’m here on a H1-B visa, and I refuse to get deported because of some cock-up on the part of this dimwit here who doesn’t know what the fuck he’s doing!”
@@ -237,7 +237,7 @@ Danny forced himself to look away, and took a few deep breaths to calm down. His
 “Did they have a motive?” asked Danny.
 </p>
 <p>
-“Just to cause a panic,” said Satish. “Make themselves look powerful, freak people out. Which, to be fair, it did. But so what? All it proves is how crazy everything would be if there was a vulnerability in SSH. But there isn’t.”
+“Just to cause a panic,” said Satish. “Make themselves look powerful, freak people out. Which it did. But so what? All it proves is how crazy everything would be if there was a vulnerability in SSH. But there isn’t.”
 </p>
 <p>
 Danny thought for a moment. “Not even through its own system administrators?” he said pensively.
@@ -246,7 +246,7 @@ Danny thought for a moment. “Not even through its own system administrators?�
 Satish shook his head. “I don’t follow.”
 </p>
 <p>
-Danny paced as he talked, his fingers fidgeting. “These anti-sec guys succeeded in taking a bunch of companies offline not by exploiting a flaw in the machines, but by tricking the sysadmins who run them. Hacking, by definition, is making a system do something that it isn’t supposed to do. That system includes people. It’s built and maintained by people. Tungsten’s IT staff itself is a system component. Let’s look for vulnerabilities in it.” He turned toward Jason, who was fiddling on his cellphone. “How big is Tungsten’s Information Technology department?”
+Danny paced as he talked, his fingers fidgeting. “These anti-sec guys succeeded in taking a bunch of companies offline not by exploiting a flaw in the machines, but by tricking the sysadmins who run them. Hacking is making a system do something that it isn’t supposed to do. That system includes people. It’s built and maintained by people. Tungsten’s IT staff itself is a system component. Let’s look for vulnerabilities in it.” He turned toward Jason, who was fiddling on his cellphone. “How big is Tungsten’s Information Technology department?”
 </p>
 <p>
 “Just one guy,” Jason answered. “They have a couple older technicians around to help maintain the medical equipment, but they’re not in charge of the corporate network. Their system administrator is some hipster kid. I don’t know his name.”
@@ -277,7 +277,7 @@ Do you have a software upgrade for the OmniVision Sightbulb-1200 PTZ to give it 
 ---<br/>
 <br/>
 User: David Swan (OmniVision Support Engineer)<br/>
-I'm sorry to inform you that we discontinued support for the Sightbulb series about four years ago. I advise replacing your Sightbulb cameras with our Clarity line. I'd be happy to pass you along to our sales department.<br/>
+I'm sorry to inform you that we discontinued support for the Sightbulb series about four years ago. I advise replacing with our Clarity line. I'd be happy to pass you along to our sales department.<br/>
 ---<br/>
 <br/>
 User: rot13er<br/>

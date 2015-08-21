@@ -33,7 +33,7 @@ Danny gazed into the bag’s metal-strewn depths. “Monetary value?”
 Jason shrugged. “Everything has <em>some</em> monetary value, Danny.”
 </p>
 <p>
-Danny reached inside and carefully fished out a foot-long, six-inch-wide flared metal tube. Attached to the tube was a rubber-coated cylindrical handle with a plastic trigger near the top. Metal blocks protruded from its back, connected to red and black cables that dangled down into the recesses of the bag. Danny held the assembly delicately by the pistol grip, his finger near the trigger. His eyes traced the device’s joints and contours like fingertips across a lover’s body.
+Danny reached inside and fished out a foot-long, six-inch-wide flared metal tube. Attached to the tube was a rubber-coated handle with a plastic trigger near the top. Metal blocks protruded from its back, connected to cables that dangled down into the recesses of the bag. Danny held the assembly delicately by the pistol grip, his finger near the trigger. His eyes traced the device’s joints and contours like fingertips across a lover’s body.
 </p>
 <p>
 “What is it?” asked Jason.
@@ -69,13 +69,13 @@ Danny put the device back in the bag and gave Jason his attention.
 “Tell me, Danny. How much do you know about me?”
 </p>
 <p>
-“Nothing,” Danny answered with a shrug. “I didn’t know your name until this afternoon. I tried to Google you after our chat. Got a bunch of hits on some company called Tungsten Medical Technologies. Some kind of medical supply retailer?”
+“Nothing,” Danny answered. “I didn’t know your name until this afternoon. I tried to Google you after our chat. Got a bunch of hits on some company called Tungsten Medical Technologies. Some kind of medical supply retailer?”
 </p>
 <p>
-Jason nodded. “Yes, Tungsten. That’s exactly what I was hoping to talk about.”
+Jason nodded. “Yes, Tungsten. That’s what I was hoping to talk about.”
 </p>
 <p>
-“You were, like, their head accountant or something, right?” Danny asked. “That’s what my search turned up, anyway.”
+“You were their head accountant or something, right?” Danny asked.
 </p>
 <p>
 “I was their COO. Chief Operations Officer,” Jason clarified. “I was with Tungsten for a long, long time &mdash; almost since they started, back in the seventies. We sold high-end surgical equipment and medical tools. We supplied a lot of research labs. It was a good company to work for. Privately owned, friendly, very customer-focused. Good times.”
@@ -108,7 +108,7 @@ Danny laughed at himself. It was easy for him to forget just how recent the dot-
 “But it managed to survive?” asked Danny.
 </p>
 <p>
-“Yes, but… it’s changed,” said Jason. “Two years ago, some nameless overseas consortium swooped in and bought the company. These foreign guys &mdash; Russian, Estonian, something like that &mdash; they were able to get it for a steal. They installed this old scientist to run the whole shop. Dr. Pyotr Passinsky’s his name. The investment consortium wires him money, and he pays the bills and keeps the staff in line.”
+“Yes, but… it’s changed,” said Jason. “Two years ago, some nameless overseas consortium swooped in and bought the company. These guys &mdash; Russian, Estonian, something like that &mdash; they were able to get it for a steal. They installed this old scientist to run the whole shop. Dr. Pyotr Passinsky’s his name. The investment consortium wires him money, and he pays the bills and keeps the staff in line.”
 </p>
 <p>
 “So there’s still a staff around.”
@@ -117,13 +117,13 @@ Danny laughed at himself. It was easy for him to forget just how recent the dot-
 “Yeah,” said Jason. “Dr. Passinsky kept some of the technical salesmen who knew their way around the old equipment. Then he went and hired about a dozen new people. Very pricey people. Geneticists, chemical engineers, neurobiologists. The consortium apparently has this vision to re-vamp Tungsten into a cutting-edge research shop for pharmaceutical biotechnology.”
 </p>
 <p>
-Danny nodded. “Heh. Biotech,” he said wistfully.
+Danny nodded wistfully. “Heh. Biotech…”
 </p>
 <p>
 “Yes,” said Jason. “Are you familiar with that technology space at all?”
 </p>
 <p>
-Danny shook his head with a distant smile. The very word “biotechnology” conjured images he had long forgotten. There was a time before the Internet boom when a young computer enthusiast wasn’t seen as a potential millionaire, but a pimple-pocked social outcast suitable solely for locker-stuffing and atomic wedgies. It was a time when his fellow Generation X tech nerds were all reading William Gibson’s <em>Neuromancer</em> and playing <em>Shadowrun</em> and dressing like <em>The Matrix</em>; when they said to each other with heady excitement, “The future is <em>digital</em>!” Growing up, they had made that future real &mdash; configuring ISDN lines, building websites, creating dot-coms. They were homesteaders and gold prospectors taming the West.
+Danny shook his head with a distant smile. The very word “biotechnology” conjured images he had long forgotten. There was a time before the Internet boom when a young computer enthusiast wasn’t seen as a potential millionaire, but a pimple-pocked pariah suited solely for locker-stuffing and atomic wedgies. It was a time when his fellow Generation X nerds were all reading William Gibson’s <em>Neuromancer</em> and playing <em>Shadowrun</em> and dressing like <em>The Matrix</em>; when they said to each other with heady excitement, “The future is <em>digital</em>!” Growing up, they had made that future real &mdash; configuring ISDN lines, building websites, creating dot-coms. They were homesteaders and gold prospectors taming the West.
 </p>
 <p>
 Yet now, <em>because</em> they had made it real, by definition it wasn’t futuristic anymore. Danny’s first few jobs made him feel like a pioneer in a vast uncharted wilderness. Now he felt like a soulless office drone.
@@ -147,7 +147,7 @@ Jason nodded. “Exactly. Biotechnology is getting big. But Tungsten isn’t.”
 “And that’s unusual?” Danny said naively.
 </p>
 <p>
-“Very. See, if Tungsten was really trying to join the pharmaceuticals race, they’d be building a reputation for themselves and negotiating with someone like Johnson & Johnson for a buyout,” Jason explained. “FDA approval is a long and painful process, and a tiny player like Tungsten should be trying to join some so-called ‘mega-corporation’ to leverage their clinical trial pipeline. Look at ICOS Biologics, over in Bothell. They used to be the biggest biotechnology firm in Seattle. They developed Cialis, the drug for erectile dysfunction. What did they do? Sold to Eli Lilly. Or take ID Biomedical &mdash; they created a flu vaccine mist that you spray up your nose. They sold to GlaxoSmithKline. That’s how this game goes. But Tungsten isn’t playing.”
+“Very. See, if Tungsten was really trying to join the pharmaceuticals race, they’d be building a reputation for themselves and negotiating with someone like Johnson & Johnson for a buyout,” Jason explained. “FDA approval is a long and painful process, and a tiny player like Tungsten should be trying to join some ‘mega-corporation’ to leverage their clinical trial pipeline. Take ICOS Biologics, over in Bothell. They used to be the biggest biotechnology firm in Seattle. They developed Cialis, the drug for erectile dysfunction. What did they do? Sold to Eli Lilly. Or take ID Biomedical &mdash; they created a flu vaccine mist that you spray up your nose. They sold to GlaxoSmithKline. That’s how this game goes. But Tungsten isn’t playing.”
 </p>
 <p>
 “Have you talked to them?” asked Danny. “You were their COO. You had a long history with them. Can’t you just call them?”
@@ -189,10 +189,10 @@ Jason nodded. “I presume you’ve got expertise in the matter. I mean, you’r
 Danny flashed him a nervous grin. “Actually, I… well, kinda…”
 </p>
 <p>
-Danny thought back to his career as a hacker, long ago. It consisted of him finding a newsletter on his freshman homeroom teacher’s desk. In a section listing important faculty phone numbers, they’d given the extension for a dial-in connection to a system that the teachers used for inputting grades. Danny had an 8086 IBM PC with a 1200-baud Hayes modem. After fiddling with the modem’s settings, he got it to connect to the school’s computer. He saw that he needed to enter a teacher’s username and password to change any grades, and was about to give up. 
+Danny thought back to his career as a hacker, long ago. It consisted of him finding a newsletter on his freshman homeroom teacher’s desk. In a section listing faculty phone numbers, they’d given the extension for a dial-in connection to a system that the teachers used for inputting grades. Danny had an 8086 IBM PC with a 1200-baud Hayes modem. After fiddling with the modem’s settings, he got it to connect to the school’s computer. He saw that he needed to enter a teacher’s username and password to change any grades, and was about to give up. 
 </p>
 <p>
-But then he noticed that the main screen displayed, “<span class="computer">NUMBER OF CURRENT USERS</span>,” and the number wasn’t going down. Danny discovered, through sheer luck, that the grades system’s connection-handling software had a flaw: if he simply hung up without logging out, the system would think his connection was still open. Danny guessed that the system could only handle so many connections at a time, so he started calling and disconnecting over and over again to max it out. He was right – the system would accept no more than 255 simultaneous users, at which point it simply wouldn’t answer any more incoming phone calls. Victory! The school’s teachers couldn’t enter their grades anymore! The school fixed it by rebooting their computer, but Danny simply jammed it again the next day. He kept this up for a few weeks until his parents got the phone bill.
+But then he noticed that the main screen displayed, “<span class="computer">NUMBER OF CURRENT USERS</span>,” and the number wasn’t going down. Danny discovered, through sheer luck, that the grades system’s connection-handling software had a flaw: if he simply hung up without logging out, the system would think his connection was still open. Danny guessed that the system could only handle so many connections at a time, so he started calling and disconnecting over and over again. He was right – it would accept no more than 255 simultaneous users, at which point it simply stopped answering incoming calls. Victory! The school’s teachers couldn’t enter their grades anymore! The school fixed it by rebooting the machine, but Danny jammed it again the next day. He kept this up for a few weeks until his parents got the phone bill.
 </p>
 <p>
 “Uh, Jason, I’ll be honest,” said Danny. “My skills might be a little rusty.”
@@ -219,25 +219,25 @@ He said hesitantly, “What you’re asking for is illegal.”
 “So you don’t think you’d be able to do the job?” Jason asked.
 </p>
 <p>
-“I can <em>absolutely</em> do the job!” Danny replied quickly. “I… I’ll have to think about it.”
+“I can <em>absolutely</em> do the job!” Danny replied. “I… I’ll have to think about it.”
 </p>
 <p>
 Jason gave a crisp nod. “You think. I’ll go get a beer.”
 </p>
 <p>
-He left the table quickly. For several moments Danny sat limply, listening to the atonal electronic background music, watching the empty space where Jason had been.
+He left the table. For several moments Danny sat limply, listening to the atonal electronic background music, watching the space where Jason had been.
 </p>
 <p>
 There would be no Claymore the following day. No 9:30 standup meeting, no bug triage, no competitive analysis reports. None of the ritual or rigmarole that had defined his life for the last six years. And in its place was… nothing. Nothing.
 </p>
 <p>
-He pulled his cellphone out of his pocket and launched the LinkedIn app. He typically used it to keep in touch with contacts he made at conferences. For the first time ever, the profile he loaded was his own.
+He pulled out his cellphone and launched the LinkedIn app. He typically used it to keep in touch with contacts he made at conferences. For the first time ever, the profile he loaded was his own.
 </p>
 <p>
 Six years at Claymore Communications, developing a new cellular multiplexing protocol. And before that, three years at a company that built network appliances. And before that, three years building custom FPGA-based digital radio systems. And before that… 
 </p>
 <p>
-Not a single company in his entire employment history still existed. He’d gotten in on the ground floor of each one, when they were still a dozen employees or less, with the hope of riding the wave to prominence. Instead, they all fizzled in the wake of new technologies. The relentless pace of the industry invariably rendered every one of his projects obsolete and useless by the time it could be brought to market.
+Not a single company in his entire employment history still existed. He’d gotten in on the ground floor of each one, when they were still under a dozen employees, hoping to ride the wave to prominence. Instead, they all fizzled in the wake of new technologies. The relentless pace of the industry rendered every one of his projects obsolete and useless by the time it could be brought to market.
 </p>
 <p>
 Jason returned to the table. “So…?”

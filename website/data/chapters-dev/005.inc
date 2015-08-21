@@ -1,12 +1,12 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The pincer arm slid along the BioTek Microplate Stacker’s</span> sleek white body, holding a clear rectangular plate. The plate’s surface was pitted with a grid of a hundred small round wells, each one filled with pale yellowish-brown fluid. The Stacker gently handed the plate off to a Synergy Microplate Reader, which drew it into a dark slot. Its payload deposited, the Stacker rose softly toward a vertical tower of identical plates, its pincers rotating to grab the next set of samples.
+<span class="caplead">The pincer arm slid along the BioTek Microplate Stacker’s</span> sleek body, holding a clear rectangular plate. The plate’s surface was pitted with a grid of a hundred small round wells, each one filled with pale yellowish-brown fluid. The Stacker handed the plate off to a Synergy Microplate Reader, which drew it into a dark slot. Its payload deposited, the Stacker rose toward a vertical tower of identical plates, its pincers rotating to grab the next set of samples.
 </p>
 <p>
-Tina Giordano batted a lock of her unkempt dark hair out of her eyes and focused on a computer terminal beside the Reader. Laboratory robots whirred softly around her as she studied the console. Centrifuges spun. Pipettes trickled thin streams of fluid. Gantries and belts carried plates among devices that heated the samples; cooled them; titrated them; aspirated them; sealed them beneath plastic film; and affixed them with printed labels. With their smooth plastic contours and modular mechanical assembies, the machines reminded Tina of mutant Xerox office printers.
+Tina Giordano batted a lock of her unkempt dark hair out of her eyes and focused on a computer terminal beside the Reader. Laboratory robots whirred around her as she studied the console. Centrifuges spun. Pipettes trickled thin streams of fluid. Gantries and belts carried plates among devices that heated the samples; cooled them; titrated them; aspirated them; sealed them beneath plastic film; and affixed them with printed labels. With their smooth plastic contours and modular mechanical assembies, the machines reminded Tina of mutant Xerox office printers.
 </p>
 <p>
-On the far side of the laboratory, two white-coated figures, a man and a woman, stood beside a whiteboard. Both were older than Tina by at least two decades. Over the gentle humming and clicking of the machinery, she could hear them talking in somber, flustered tones.
+On the far side of the laboratory, two white-coated figures, a man and a woman, stood beside a whiteboard. Both were older than Tina by at least two decades. Over the gentle humming and clicking of the machinery, she could hear them talking in flustered tones.
 </p>
 <p>
 “Passinsky is getting seriously pissed,” the man said.
@@ -27,7 +27,7 @@ On the far side of the laboratory, two white-coated figures, a man and a woman, 
 “Yeah. We were supposed to have results a month ago. It doesn’t make sense. The Reader logs reported expression of the full pathway in one batch several weeks back.”
 </p>
 <p>
-“The Reader’s been spewing out a lot of false positives,” he said with a frown. “We’ve got over a week’s worth of backlog for manual testing.”
+“The Reader’s spewing out false positives,” he said with a frown. “We’ve got over a week’s worth of backlog for manual testing.”
 </p>
 <p>
 “Isn’t that what the intern’s for? Where is she, anyway?”
@@ -36,10 +36,10 @@ On the far side of the laboratory, two white-coated figures, a man and a woman, 
 “You haven’t heard? Julie’s gone AWOL. Nobody’s seen her in days.”
 </p>
 <p>
-“Well… shit,” the woman said with a sigh. “Just how high of an error rate are we dealing with here?”
+“Well… shit,” the woman sighed. “Just how high of an error rate are we dealing with here?”
 </p>
 <p>
-“Too high,” the man replied. “Too damn high…”
+The man replied. “Too damn high…”
 </p>
 <p>
 They both turned to look at the machinery. The woman exclaimed, “Tina!?”
@@ -48,10 +48,10 @@ They both turned to look at the machinery. The woman exclaimed, “Tina!?”
 Tina jumped, and looked up apologetically from the console.
 </p>
 <p>
-The woman stared at her with suspicion. “What are you doing at that workstation?”
+The woman stared at her with suspicion. “What are you doing here?”
 </p>
 <p>
-Her accusatory tone almost made Tina back sheepishly away from the computer. But a final glance at the screen gave her reason to stand her ground. “Your reporter. You’re using gfp, right? Why wouldn’t you just use a selectable marker? CAT is standard for <em>E. coli</em>, isn’t it?”
+Her tone almost made Tina back away. But a final glance at the screen convinced her to stand her ground. “Your reporter. You’re using gfp, right? Why wouldn’t you just use a selectable marker? CAT is standard for <em>E. coli</em>, isn’t it?”
 </p>
 <p>
 The man mumbled, “The mother strain is already immune to chloramphenicol, Tina.”
@@ -75,7 +75,7 @@ The woman rolled her eyes. “Yes, Tina. That’s what <em>green fluorescence pr
 The man shrugged. “The clear ones are cheap. We had a huge supply of them down in the stockroom.”
 </p>
 <p>
-“Are they cheap enough to make it worth redoing a whole month of automated runs? Because, if the plate is completely see-through, then light can shine from one well to another. Which means that, if one well is fluorescing really strongly, then the reader will pick up a little bit of light <em>in all of the wells next to it</em>, too.”
+“Are they cheap enough to make it worth redoing a whole month of automated runs? Because, if the plate is see-through, then light can shine from one well to another. Which means that, if one well is fluorescing really strongly, then the reader will pick up a little bit of light <em>in all of the wells next to it</em>, too.”
 </p>
 <p>
 The man’s eyes widened. “Well-to-well crosstalk!”
@@ -84,7 +84,7 @@ The man’s eyes widened. “Well-to-well crosstalk!”
 “Exactly!” Tina nodded. “Which would lead to…”
 </p>
 <p>
-The man facepalmed. “False positives. Tons and tons of false positives. Of course. We didn’t even think of something so basic…”
+The man facepalmed. “False positives. Of course. We didn’t even think of something so basic…”
 </p>
 <p>
 “Instead of reporting uptake in <em>one</em> sample,” said Tina, “the reader will report uptake in <em>nine</em> of them. So what you get is…”
@@ -111,7 +111,7 @@ The man nodded. “You really should be back at the front desk.”
 Tina’s gaze traveled from the two microbiologists, to the console, to the laboratory equipment, and finally to the floor. Biting her lip, she shuffled out of the room.
 </p>
 <p>
-“Oh, and, Tina?” the man called out just as she reached the doorway. “Could you please put in a thousand-unit rush order for 96-well microplates in polystyrene carbon black? Thanks.”
+“Oh, and, Tina?” the man called as she reached the doorway. “Could you please put in a thousand-unit rush order for 96-well microplates in polystyrene carbon black? Thanks.”
 </p>
 </div>
 
@@ -120,7 +120,7 @@ Tina’s gaze traveled from the two microbiologists, to the console, to the labo
 <span class="caplead">Tina’s desk occupied a brightly lit lobby</span> between two sets of glass doors, both frosted with a large letter “W”, the chemical symbol for the element tungsten. Her black cardigan hung draped over her armless swivel chair. Like a pithed laboratory animal, she dropped her body limply down onto the pneumatic-spring seat and got back to work.
 </p>
 <p>
-Several new email messages greeted her in her Thunderbird inbox. Only one, however, was in the least bit significant: a rare note of validation from her boss involving the imminent babysitting of some hotshot international gazillionaire. 
+Several new email messages greeted her in her Thunderbird inbox. Only one, however, was significant: a rare note of validation from her boss involving the imminent babysitting of some hotshot international gazillionaire. 
 </p>
 
 <div class="computer email">
@@ -152,14 +152,14 @@ From: “Dr. Piotr Passinsky”<br/>
 ><br/>
 > Will this do, Dr. P?<br/>
 <br/>
-Yes, Christina. This is very acceptable.<br/>
+This is acceptable.<br/>
 </div>
 
 <p>
 It wasn’t exactly an Employee of the Year award, but Tina knew it was the closest thing to praise that she was likely to get.
 </p>
 <p>
-The rest of the emails were pure spam. Several solicitations from some web design company called Prismatic Creations cluttered her inbox, each with a big colorful logo plastered across the top of the message. They gave some spiel about updating Tungsten’s “corporate identity” to give the company a fresh look-and-feel to better resonate with today’s competitive blah blah blah. After reading one, she deleted them without a second thought.
+The rest of the emails were pure spam. Solicitations from some web design company called Prismatic Creations cluttered her inbox, each with a colorful logo plastered across the top. They gave some spiel about updating Tungsten’s “corporate identity” to give the company a fresh look-and-feel to better resonate with today’s competitive blah blah blah. After reading one, she deleted them without a second thought.
 </p>
 <p>
 With her inbox clear, she un-minimized her Facebook window. Her friend Natalie had posted some photos of a dreamcatcher that she’d woven from her own hair. Tina gave her scrollwheel a flick, and sank into a status-update-reading trance. Seconds or hours drifted mindlessly by.
@@ -177,13 +177,13 @@ She picked up her iPhone and willed her fingers to type out, “<span class="com
 She spent the next several minutes staring at the box, trying to wish it away.
 </p>
 <p>
-A raucous conversation from the hallway announced Roger’s arrival. Through the glass, she saw Roger’s tall, lean-muscled form striding toward the lobby, accompanied by two older men. Framed by his spiky hair and narrow black-framed glasses, his face wore its usual self-satisfied smirk. He opened the door with a long, sinewy arm adorned with Celtic sleeve tattoos, and sauntered in. 
+A raucous conversation from the hallway announced Roger’s arrival. Roger’s tall, lean-muscled form strode toward the lobby, accompanied by two older men. Framed by his spiky hair and narrow black-framed glasses, his face wore its usual self-satisfied smirk. He opened the glass door with a sinewy arm adorned with Celtic sleeve tattoos, and sauntered in. 
 </p>
 <p>
 “I didn’t say <em>a word</em>! That’s the whole point!” he said cheerfully.
 </p>
 <p>
-“What, like, not even ‘Hi?’” asked one of the men. He sported a neatly-trimmed beard and a lab coat. “You just walked up to her out of the blue and, <em>bam!</em>, start making out?”
+“What, not even ‘Hi?’” asked one of the men. He sported a neatly-trimmed beard and a lab coat. “You just walked up to her out of the blue and, <em>bam!</em>, start making out?”
 </p>
 <p>
 “It wasn’t out of the blue,” said Roger. “We’d been eyeing each other across the bonfire for like ten minutes. We both knew what was up.” His eyes landed on the package beside Tina’s desk. He pulled a jingling keychain out of his back pocket and squatted beside the box. “She was there at the beach with a bunch of her friends,” he continued as he carved the cardboard open with a key, “and we were all sitting around the fire. Alki Beach gets kinda cold at night, you know, and this little blonde was wearing, like, <em>nothing</em> &mdash; a bikini bottom and half of a white t-shirt, right? Anyway, some guy was playing Spanish guitar, and we were passing a joint around… I’m telling you, you guys have <em>got</em> to come out to Alki one of these nights.”
@@ -210,13 +210,13 @@ Roger stood up, cradling the device. “I’ll set up the NAS this afternoon. Bu
 The heavy-set man saluted. “I’ll get my boys setting up NFS support on the robot controllers as soon as that thing’s ready.”
 </p>
 <p>
-The biologist chuckled, “Forty terabytes. Try not to fill it up with pictures of your girlfriends, Roger, okay?”
+The biologist chuckled, “Forty terabytes. Try not to fill it up with pictures of your girlfriends, Roger!”
 </p>
 <p>
-“Oh! Speaking of…!” Roger set the RAID down on a corner of Tina’s desk, and pulled out his cellphone. He tapped its screen a few times and said, “This is the little hottie from the beach last night.”
+“Oh! Speaking of pictures…!” Roger set the RAID down on Tina’s desk, and pulled out his phone. “This is the little hottie from the beach last night.”
 </p>
 <p>
-The other two men gathered around the small screen. “She’s a knockout, alright,” said the technician. “What’s her name?”
+The two men gathered around the small screen. “She’s a knockout, alright,” said the technician. “What’s her name?”
 </p>
 <p>
 “Oh, fuck if I know, man! Carrie? Kelly? Carley? Something like that.” He flipped through more photos.
@@ -237,7 +237,7 @@ Roger glanced at her. His smirk waned slightly. “Hey, um, guys…” he said. 
 The two men said their goodbyes and left. Roger and Tina were alone.
 </p>
 <p>
-“So…” he said, leaning awkwardly against her desk.
+“So…” he said, leaning against her desk.
 </p>
 <p>
 “Can I help you?” Tina asked flatly, her eyes glued to her computer.
@@ -246,7 +246,7 @@ The two men said their goodbyes and left. Roger and Tina were alone.
 “What’s got ya down, buddy?” His acerbic tone belied the friendly question.
 </p>
 <p>
-Tina scowled. “‘Buddy,’” she echoed.
+Tina scowled. “‘Buddy’?”
 </p>
 <p>
 “Yeah, <em>buddy</em>,” Roger pressed. “You <em>said</em> you wanted to stay friends, right?”
@@ -255,7 +255,7 @@ Tina scowled. “‘Buddy,’” she echoed.
 Tina glared at him. “That doesn’t mean I want to listen to your stupid player conquests. I know you’re <em>real</em> proud of yourself, but you don’t have to rub it in my face.”
 </p>
 <p>
-“Friends <em>do</em> talk about stuff like that, you know,” he said, feigning nonchalance.
+“Friends <em>do</em> talk about stuff like that, you know,” he said.
 </p>
 <p>
 Tina rolled her eyes. “Rog, you do realize it’s barely even been a week, right? Are you so inconsiderate that you can’t understand how your little pick-up tales affect me? Or do you just not care?”
@@ -264,7 +264,7 @@ Tina rolled her eyes. “Rog, you do realize it’s barely even been a week, rig
 Roger’s face puckered. “Not everything is about you, you know.”
 </p>
 <p>
-“Everything? More like, <em>nothing</em> is about me!” Tina said, her voice rising. “You just kept chatting with your boy’s club over there as though I wasn’t right here the whole time. That’s how it always is with you. That’s how it was for the whole six months we were together. The only time you act like I even exist is when it’s convenient for you. Think about where I’m coming from for just one goddamned second, okay? I sit at this desk every single day, banging out endless emails, answering phones like a fucking parrot… ‘Good afternoon! Tungsten Medical Technologies! How may I help you? May I take a message?’ Ugh! I just feel so replaceable. So <em>insignificant</em>! And then you came along, and I thought we vibed, and maybe you could relate… But you end up treating me worse than anyone else here!”
+“Everything? More like, <em>nothing</em> is about me!” Tina said, her voice rising. “You just kept chatting with your boy’s club over there as though I wasn’t right here the whole time. That’s how it was for the whole six months we were together. The only time you act like I even exist is when it’s convenient for you. Think about where I’m coming from for just one goddamned second, okay? I sit at this desk every single day, banging out endless emails, answering phones like a fucking parrot… ‘Good afternoon! Tungsten Medical Technologies! How may I help you? May I take a message?’ I just feel so replaceable. So <em>insignificant</em>. And then you came along, and I thought we vibed, and maybe you could relate… But you end up treating me worse than anyone else here!”
 </p>
 <p>
 Roger’s brow furrowed above his glasses. “Really, T? You’re going to use me as a dumping-ground for all your bullshit frustrations about work and life and whatever? You realize you have, like, <em>zero</em> credibility for being mad, right? <em>You</em> broke up with <em>me</em>, remember?”
@@ -288,7 +288,7 @@ Tina’s mind blanked with anger. She couldn’t begin to count the number of di
 She grabbed her iPhone and flung it at his stupid asshole face. 
 </p>
 <p>
-A lens of his glasses cracked on impact. She turned away from him, her arms crossed tightly over her chest. She could feel her jagged breaths pounding against her ribcage.“Roger,” she said, struggling to keep her voice steady through the lump in her throat, “take your box and get the fuck out of my lobby.”
+A lens of his glasses cracked on impact. She turned away from him, her arms crossed tightly. She could feel her jagged breaths pounding against her ribcage.“Roger,” she said, struggling to keep her voice steady through the lump in her throat, “take your box and get the fuck out of my lobby.”
 </p>
 </div>
 
@@ -297,7 +297,7 @@ A lens of his glasses cracked on impact. She turned away from him, her arms cros
 <span class="caplead">The blinds on the windows to Dr. Passinsky’s office</span> were closed. Going to the boss’s office was never pleasant, and Roger’s presence made it that much worse. She knew he’d be there. In the email that Passinsky sent to summon her, she saw Roger’s email alias, “<span class="computer">rot13er</span>”, in the “<span class="computer">To:</span>” line alongside her own address.
 </p>
 <p>
-Passinsky, gaunt and gray, looked at her with his unnerving expressionless gaze as she walked through the door. His pale, glassy blue eyes focused with detachment, as though the people in front of him were merely elements of some mildly interesting puzzle.
+Passinsky, gaunt and gray, looked at her with an expressionless gaze as she walked through the door. His glassy blue eyes focused with detachment, as though the people in front of him were merely elements of some mildly interesting puzzle.
 </p>
 <p>
 “You asked to see me, Doctor P.?”
@@ -333,7 +333,7 @@ Roger shook his head. “Her account’s had no recent activity, Dr. P.”
 Roger looked bored. “She’s an intern. How important can she be?”
 </p>
 <p>
-“She was given very simple assignment,” said Passinsky. “Very tedious, but very critical. She ruined it. Now we need her to fix. Her timing is… very unfortunate. As Christina here can tell you, we have very important visitor coming. If this situation is not resolved, he will be very unhappy.” After a short pause, Passinsky added, “And this is not a man who you want to make unhappy.”
+“She was given very simple assignment,” said Passinsky. “Very tedious, but very critical. She ruined it. Now we need her to fix. Her timing is… unfortunate. As Christina can tell you, we have very important visitor coming. If this situation is not resolved, he will be very unhappy.” After a pause, Passinsky added, “And this is not a man who you want to make unhappy.”
 </p>
 <p>
 Tina offered, “Should I call Julie’s school and see if they’ve heard from her?”
@@ -372,25 +372,22 @@ Roger mumbled, “You mean you have us here for something besides the Julie thin
 “I do,” said Passinsky. “Here is my issue. Neither of you is part of my research staff. So I do not expect you know these words: ‘vasopressin’ or ‘oxytocin’…”
 </p>
 <p>
-Tina knew the terms. They were hormones. She recalled that they both had something to do with sex. She didn’t want to know where this was going.
+Tina knew the terms. They were hormones. She recalled that both had something to do with sex. She didn’t want to know where this was going.
 </p>
 <p>
 “They are mammalian behavioral modulators for instincts of reproduction,” said Passinsky. “Oxytocin is most active in adult females. It is linked to delirium of being ‘in love’. It is released through erogenous stimulation of nipples and vaginal wall.” Hearing the old scientist use those words made Tina press her knees tighter together. “There are theories that oxytocin potentiation of dopaminergic reward pathway gives it addictive properties, and loss could trigger withdrawal symptoms.
 </p>
 <p>
-“Vasopressin drives sexual territoriality. It is hormone responsible for feelings of jealousy. Vasopressin is subject of some ongoing research, because in humans it can act on very indirect triggers. Rats, for example, get angry by smell of another rat on their mate &mdash; this is easy to explain by pheromones. Humans, though, somehow have aggression responses wired to symbolic processing, such as sound of spoken words. This means that human being can hear someone say something, and exhibit immediate hormonal response. Observe…”
+“Vasopressin drives sexual territoriality. It is hormone responsible for jealousy. Vasopressin is subject of some ongoing research, because in humans it can act on indirect triggers. Rats, for example, get angry by smell of another rat on their mate &mdash; this is easy to explain by pheromones. Humans, though, somehow have aggression responses wired to symbolic processing, such as sound of spoken words. This means that human can hear someone say something, and exhibit immediate hormonal response. Observe…”
 </p>
 <p>
-There was a computer monitor on his desk. He turned it around to face them.
-</p>
-<p>
-The screen showed a choppy-moving overhead view of Tina and Roger arguing in the reception area earlier that day. Their fight had been captured by the lobby’s security camera.
+There was a monitor on his desk. He turned it around to face them. The screen showed a choppy-moving overhead view of Tina and Roger arguing in the reception area earlier that day. Their fight had been captured by the lobby’s security camera.
 </p>
 <p>
 Tina flushed. She knew the security camera was there. There were probably dozens of them in the building. She never thought anybody actually looked at the footage.
 </p>
 <p>
-“Now, watch this part,” said Passinsky. “At this moment, Roger says something, and…” The Tina on the screen threw her iPhone at the digital Roger. “Right there! Instinctual aggression in response to comprehension of sound waves as words conveying ideas &mdash; a very non-instinctual stimulus! Fascinating, no?”
+“Now, watch this part,” said Passinsky. “At this moment, Roger says something, and…” The Tina on the screen threw her iPhone at the digital Roger. “Right there! Instinctual aggression in response to comprehension of sound waves as words conveying ideas &mdash; a non-instinctual stimulus! Fascinating, no?”
 </p>
 <p>
 Tina leaned forward and began stammering an apology.

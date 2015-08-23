@@ -389,6 +389,5 @@ In the darkened hallway beyond the bullpen, a shadow moved.
 <p>
 Danny realized that, whatever his own personal problems might be, the girl on the screen was about to have much more pressing issues.
 </p>
-<p>
 
 </div>

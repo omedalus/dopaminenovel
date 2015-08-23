@@ -90,13 +90,13 @@ Their bickering was interrupted by footsteps above. Through the portholes they c
 Jason waved hello. “Come on in, Danny. Meet the gang.”
 </p>
 <p>
-Danny looked around. All the furniture was arranged to make the best possible use of the cabin’s limited space. On one end of the room was a plasma TV and a desk with a laptop docking station. On the other end, he saw the table covered with rulebooks, figurines, and soda cans. 
+Danny looked around. The furniture was arranged to make optimal use of the cabin’s limited space. On one end of the room was a large flatscreen TV. On the other end, he saw the table covered with rulebooks, figurines, and soda cans. 
 </p>
 <p>
 He instantly recognized the scene. He’d walked into a <em>Dungeons & Dragons</em> campaign. 
 </p>
 <p>
-“Aww Christ,” he moaned under his breath. He felt the revulsion and regret of a recovered heroin addict entering an opium den. This game, as far as Danny was concerned, was an equally egregious waste of life &mdash; a literal way to chase a dragon. “Jason, can I talk to you?”
+“Aww Christ,” he muttered. He felt the revulsion and regret of a recovered heroin addict entering an opium den. Danny’s days of chasing these particular dragons were long behind him. “Jason, can I talk to you?”
 </p>
 <p>
 Jason wiggled his way from the table and crossed the compartment in a few steps. He and Danny turned away from the group and spoke in whispers.
@@ -117,7 +117,7 @@ Jason replied coldly, “My ex-wife is none of your business.”
 “Sorry, didn’t mean to hit a sore spot. But, I mean, look at these guys. Do they have any skills? Do they even have real jobs?”
 </p>
 <p>
-“They have my complete trust,” said Jason. “They’re smart, and they’re fully capable of getting the job done. You should see the kind of shit we’ve been able to pull off together. Just last month, we destroyed the stronghold of a Dark Elven necromancer.”
+“They have my complete trust,” said Jason. “They’re smart, and they’re fully capable of getting the job done. You should see the kind of shit we pull off together. Just last month, we destroyed the stronghold of a Dark Elven necromancer.”
 </p>
 <p>
 “Your <em>characters</em> did that. In your <em>head</em>. <em>You</em> sat around a table rolling dice and scarfing Cheetos.”
@@ -126,7 +126,7 @@ Jason replied coldly, “My ex-wife is none of your business.”
 “Look, I know personnel management, alright?” Jason said. “What counts is whether you can work as a team. These guys are my comrades in arms. They’re in. Are you?”
 </p>
 <p>
-Danny sighed, and turned to face the group. The other men were poking through rulebooks or scribbling on papers. They looked up as he approached. “Guys. Good to meet you all. My name’s Danny. I’m the lead engineer at… um… Let’s just say I’ve overseen the demise of many small companies.”
+Danny sighed, and turned to face the group. The men were poking through rulebooks or scribbling on papers. They looked up and mumbled greetings as he approached. “Guys. Good to meet you all. My name’s Danny. I’m the lead engineer at… um… Let’s just say I’ve overseen the demise of many small companies.”
 </p>
 <p>
 He shook hands with each of them.
@@ -176,5 +176,4 @@ Danny eyed the men with a cocked eyebrow. “Hockey… and… kung fu…?”
 <p>
 From the hexagonal grid on the table, he picked up the two-inch pewter barbarian. It was painted with loving detail. He chuckled and shook his head. “Guys, let me give you all a reality check. This is a network penetration mission. In an ideal world this’ll be done from some Internet café and take less than ten minutes. If they have a poorly maintained firewall that crumbles under a script-kiddie attack, this whole thing will be completely anticlimactic. Now clear off this table, gentlemen. Keep the pencils and notebooks. We’ve got work to do.” 
 </p>
-<p>
 </div>

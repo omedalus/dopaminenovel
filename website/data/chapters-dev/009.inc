@@ -27,7 +27,7 @@ He replied in a foreign accent. The same accent as Dr. Passinsky’s: Russian. �
 He gazed at her like a wolf at a rabbit. Tina felt a crushing tightness in her chest. “I’m supposed to sign visitors in at the front desk,” she said tentatively.
 </p>
 <p>
-“Not necessary,” said the man, his eyes boring a hole through her. “I belong here. I have a keycard.” 
+“Not necessary,” said the man, his eyes boring a hole through her. “I belong here. See? I have a keycard.” 
 </p>
 <p>
 She stood immobile in the doorway, forcing herself to remain calm. “Good luck with the delivery. I’ll just go back to my desk now and finish my work. Okay?”
@@ -51,13 +51,13 @@ She resisted the urge sigh in relief. She’d pretend to believe his deliveryman
 With a quick, soundless motion, the man reached into his jacket, pulled out a gun, and pointed it at Tina. The revolver was barely larger than his palm, but its barrel looked wide enough to stick a finger into. 
 </p>
 <p>
-“Get in here, young lady,” he commanded. With a practiced flick of his thumb, managing to keep the squat barrel perfectly still, he cocked the revolver’s hammer back. It made a click, a tiny sound that somehow managed to ring louder than all of the machinery in the room.
+“Get in here, young lady,” he commanded. With a practiced flick of his thumb, managing to keep the barrel perfectly still, he cocked the revolver’s hammer back. It made a click, a tiny sound that somehow managed to ring louder than all of the machinery in the room.
 </p>
 <p>
 She stepped through the doorway.
 </p>
 <p>
-“Good girl,” he said. “Now come over here.” 
+“Good girl,” he said. “Now come here.” 
 </p>
 <p>
 He backed away several feet, keeping the gun trained on her.
@@ -72,7 +72,7 @@ Tina nodded.
 “Open it.”
 </p>
 <p>
-She grabbed the handle of the deep-freezer’s massive metal door and yanked. The door’s rubber gasket released its seal, letting the cryogenic air spill into the room. Standing in front of the open door felt like being stabbed with thousands of needle-sharp shards of ice.
+She grabbed the handle of the deep-freezer’s massive metal door and yanked. The door’s rubber gasket released its seal, letting the cryogenic air spill into the room. Standing in front of it felt like being stabbed with thousands of needle-sharp shards of ice.
 </p>
 <p>
 “You know, I really am here for pickup,” the man said. “Your friend Julie &mdash; you know Julie, yes? &mdash; She left something here, that is really better left with someone else. Now, about you, I’m thinking maybe you could be useful. You want to be useful, yes?”
@@ -99,13 +99,13 @@ She grabbed the handle of the deep-freezer’s massive metal door and yanked. Th
 “You’re being paranoid,” said Mike.
 </p>
 <p>
-“No, I’m erring on the side of caution,” Satish insisted. “Let’s just mind our own business. There’s no point in risking our own necks.”
+“No, I’m erring on the side of caution,” Satish insisted. “Let’s just mind our own business! There’s no point in risking our own necks.”
 </p>
 <p>
 “So, we just sit here watching on our laptops like a bunch of useless dumbasses?” Mike shot back.
 </p>
 <p>
-“Maybe you haven’t noticed, but this team <em>is</em> a bunch of useless dumbasses!” said Satish. “And, you know, with an idiot like Danny in charge, it’s not even really a surprise. The guy made it very clear back at the coffee shop that he has no idea what he’s doing! He hand-holds you through a bunch of script kiddie attacks, and then kisses your butts and tells you that you’re all awesome brilliant hackers. That’s fine, up to the point at which a stupid mistake can get you in real trouble &mdash; fines and jail for you, deportation for me. And we’re at that point now. So let’s just let this… this whatever-is-going-on-here, let’s just sit here, let it blow over, and resume the operation when everything’s nice and quiet again.”
+“Maybe you haven’t noticed, but this team <em>is</em> a bunch of useless dumbasses!” said Satish. “And, you know, with an idiot like Danny in charge, it’s not even really a surprise. The guy made it very clear back at the coffee shop that he has no idea what he’s doing! He hand-holds you through a bunch of script kiddie attacks, and then kisses your butts and tells you that you’re all awesome brilliant hackers. That’s fine, up to the point at which a stupid mistake can get you in real trouble &mdash; fines and jail for you, deportation for me. And we’re at that point now. So let’s just let this… this whatever-is-going-on-here, let’s let it blow over, and resume the operation when everything’s nice and quiet again.”
 </p>
 <p>
 Mike shook his head. “Let it ‘blow over’? But that girl in there is&mdash;!” 
@@ -114,7 +114,7 @@ Mike shook his head. “Let it ‘blow over’? But that girl in there is&mdash;
 “She’s not our problem!” Satish insisted. 
 </p>
 <p>
-Outside the car, Jason and Danny were staring at Danny’s laptop, watching the events in the cold-storage room unfold. The strained voices of the two men arguing reached them through the open car window. With his gaze fixed on the image of the dark-haired young woman held at gunpoint, Danny said to them gravely, “She <em>is</em>. She <em>is</em> our problem. This is all our fault.”
+Outside the car, Danny heard them arguing through the open window. With his gaze fixed on the live video of the dark-haired young woman held at gunpoint, Danny said to them gravely, “She <em>is</em>. She <em>is</em> our problem. This is all our fault.”
 </p>
 <p>
 “<em>Our</em> fault?” said Satish, incredulous. 
@@ -132,19 +132,19 @@ Mike angrily barked at Satish, “Hey man, it was <em>you</em> who said we can�
 “And you agreed!” Satish retorted. “So if anything, you’re just&mdash;”
 </p>
 <p>
-“Guys, stop…!” Danny said, not so much as a command but as a plea. He looked back and forth between them and the screen. The girl in the video feed stood before the giant refrigerator, shivering. “God. Satish is right. Jason put <em>me</em> in charge…”
+“Guys, stop…” Danny said, not so much as a command but as a plea. He looked back and forth between them and his screen. The girl in the video feed stood before the giant refrigerator, shivering. “God. Satish is right. Jason put <em>me</em> in charge…”
 </p>
 <p>
-Jason interjected, “Whoa, Danny! I hired you to extract <em>data</em>. This project wasn’t supposed to involve…” He pointed at the screen. “…<em>that</em>.”
+Jason interjected, “Whoa, Danny! I hired you to extract <em>data</em>. This project wasn’t supposed to involve <em>guns</em>!”
 </p>
 <p>
-Danny handed Jason the laptop and leaned back against the car, his hands at his temples. “But everything Satish said is true,” he muttered, his throat suddenly dry and hoarse. “I… God, I <em>don’t</em> know what I’m doing. I’m way out of my league. Sure, I can put on a <em>show</em> of competence, right? I can play at being a ’Leet Hacker Dude, as long as I’m around people who don’t know any better. I can act important. Make myself feel significant. Pretend that I’m not past my prime, that I’m not steadily getting more and more irrelevant year after year, with one failed dot-com project after another. I can fake it pretty darn well, can’t I? And that’s perfectly good enough if there’s no actual shit hitting the fan. But when there’s the real possibility of someone getting hurt because of me… The real possibility of that girl getting…” He covered his face with his hands. His mind flashed on the memory of her tousled hair playing along the angles of her neck. The way her nose had scrunched up when she looked questioningly into the camera lens. Through narrowly splayed fingers, he peeked at the laptop screen. “My God, what have I done?”
+Danny handed Jason the laptop and leaned back against the car, his hands at his temples. “But everything Satish said is true,” he muttered, his throat suddenly dry and hoarse. “I… God, I <em>don’t</em> know what I’m doing. I’m way out of my league. Sure, I can put on a <em>show</em> of competence, right? I can <em>act</em> important. Pretend that I’m not past my prime, that I’m not steadily getting more irrelevant year after year, with one failed dot-com project after another. I can play at being a ’Leet Hacker Dude, as long as I’m around people who don’t know any better. And that’s perfectly good enough if there’s no actual shit hitting the fan. But when there’s the real possibility of someone getting hurt because of me… The real possibility of that girl…” He covered his face with his hands. His mind flashed on the memory of her tousled hair playing along the angles of her neck. The way her nose had scrunched up when she looked questioningly into the camera lens. Through narrowly splayed fingers, he peeked at the laptop screen. “My God, what have I done?”
 </p>
 <p>
 Satish nodded smugly and said, “So you agree we should lay low, right?”
 </p>
 <p>
-“<em>No!</em>” The force of Danny’s voice startled everyone, not least of which Danny himself. He shook his head vigorously, as though the motion could clear away his current reality like an Etch A Sketch doodle. “I have to <em>undo</em> this! I have to Control-Z. I have to reload a previous save…” He turned to look at the building across the dark street. The gunman still stood loitering by the front door. Danny gulped hard, and said, “I have to go in there.”
+“<em>No!</em>” The force of Danny’s voice startled everyone, not least of which Danny himself. He shook his head vigorously, as though the motion could clear away his current reality like an Etch A Sketch doodle. “I have to <em>undo</em> this! I have to Control-Z. I have to reload an earlier save…” He turned to look at the building across the dark street. The gunman stood loitering by the front door. Danny gulped hard. “I have to go in there.”
 </p>
 <p>
 Eyebrows cocked all around him. 
@@ -180,7 +180,7 @@ Danny looked down, his brow furrowed in thought. “Not necessarily. I think can
 Mike nodded his big furry head. “The cameras. You’re talking about going all Splinter Cell on them, right? Covert ops?”
 </p>
 <p>
-“Right,” said Danny. “We can see everything in there. They can’t. And that information asymmetry means that <em>we</em> have the upper hand. At Claymore, I built Navy communication grids. Modern battlefields are digital. During both Iraq wars, what’s the first thing the US Army did? Knocked out the enemy computer networks. During the riots in Iran and Libya and Syria, the rulers disabled civilian access to cellphones. Information, you see, is what the military refers to as a ‘force multiplier’. Those guys in there have guns. But information? That’s <em>our</em> game.”
+“Right,” said Danny. “We can see everything in there. They can’t. And that information asymmetry means that <em>we</em> have the upper hand. At Claymore, I built Navy communication grids. Modern battlefields are digital. During both Iraq wars, what’s the first thing the US Army did? Knocked out the enemy computer networks. During the riots in Iran and Libya and Syria, the rulers disabled civilian access to cellphones. Information is what the military refers to as a ‘force multiplier’. Those guys in there have guns. But information? That’s <em>our</em> game.”
 </p>
 <p>
 “I want in,” said Mike. He hopped out and went to stand by Danny. “I said at the beginning that I’d be your muscle if things got physical. I keep my word.” Danny nodded in gratitude.
@@ -204,10 +204,10 @@ Satish said grudgingly, “I can get you in.”
 Danny pulled up the feed. As he watched, the green light popped on to indicate the door was unlocked. It stayed lit for several seconds.
 </p>
 <p>
-“A simple replay attack,” Satish explained. “When that guy opened the door, the keycard reader sent a UDP packet to an authentication database, which replied with a datagram to unlock the door. I saw it on my packet sniff. I just sent the keycard reader an exact copy of the authorization message.”
+“A simple replay attack,” Satish explained. “When that guy opened the door, the keycard reader sent a UDP packet to an authentication database, which replied with a datagram to unlock the door. I saw it on my packet sniff, and noticed that there’s no crypto handshake. I just sent the keycard reader a copy of the authorization message.”
 </p>
 <p>
-“Great,” Danny said with forced confidence. “Now all we need is a way to get that guy away from the front door. Let me think…” He stood staring at the ground. His body remained frozen, but his eyes darted rapidly in spastic patterns. His lips writhed with soundless mumbling. His fingers twitched as though drawing diagrams in an ethereal notebook. After a minute of fidgety silence, he looked up abruptly. “Jason. You’re part of this little Dungeons and Dragons group, right? How are your role-playing abilities?”
+“Great,” Danny said with forced confidence. “Now all we need is a way to get that guy away from the front door. Let me think…” He stood staring at the ground. His body remained frozen, but his eyes darted rapidly in spastic patterns. His lips writhed with soundless mumbling. His fingers twitched as though drawing diagrams in an ethereal notebook. After a minute of fidgety silence, he looked up abruptly. “Jason. You’re part of this little Dungeons and Dragons group. How are your role-playing abilities?”
 </p>
 <p>
 “Uhh… pretty good, I guess…” Jason said apprehensively.
@@ -219,10 +219,10 @@ Mike cleared his throat and interjected, “He’s being extremely humble.”
 “Thanks, Mike…” Jason replied with a dubious smile. “When I was a young sales associate I did a lot of improv theater. It helped me build cold-calling skills.”
 </p>
 <p>
-“We’ll need your participation,” said Danny. “And your car. Do you have anything we can use as a weapon? A flare gun, maybe? Or a lug wrench?”
+“We’ll need your participation,” said Danny. “And your car. Do you have anything we can use as a weapon? A flare gun, maybe? Tire iron?”
 </p>
 <p>
-“That’s a big metal tool for changing tires, right? Looks like a plus sign?” Jason asked. “It’s under the spare tire in the back.”
+“There’s a lug wrench in the trunk, under the spare tire,” Jason replied.
 </p>
 <p>
 Danny turned to Mike. “You said you play hockey, right? Think you can handle beating someone with a stick?”
@@ -240,7 +240,7 @@ Mike grinned.
 “Me? I’ll be going in with <em>this</em>.” 
 </p>
 <p>
-He opened the passenger door and grabbed his Claymore tote bag. He began pulling out bits of metal and plastic one by one, starting with the piece that looked like a narrow homemade bullhorn with the pistol grip and the large rubber-coated blocks on the back.
+He opened the passenger door and grabbed his Claymore tote bag. He began pulling out bits of metal and plastic, starting with the piece that looked like a narrow homemade bullhorn with the pistol grip and the large rubber-coated blocks on the back.
 </p>
 <p>
 After the bullhorn came a row of plastic blocks, each as big as a Rubik’s Cube. Next came a group of eight heavy blue cylinders, each one the size and shape of a beer can, arranged like an eight-pack. Each component was strung on cables, the junction points buried under slathers of caulk and epoxy. 
@@ -267,9 +267,9 @@ The men gawked. “Seriously, Danny, what is that thing?” demanded Jason.
 Danny gave a faint chuckle, “It’s just a… A flashlight.” 
 </p>
 <p>
-“That’s one seriously elaborate flashlight,” said Jason.
+“That’s one elaborate flashlight,” said Jason.
 </p>
 <p>
-“It’s very, very bright,” said Danny, and inhaled sharply through his nose. “Alright, friends. Here’s what’s going to happen…” 
+“It’s very bright,” said Danny, and inhaled sharply. “Alright, friends. Here’s what’s going to happen…” 
 </p>
 </div>

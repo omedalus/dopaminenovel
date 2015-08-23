@@ -30,7 +30,7 @@ Still jabbing at his phone, he replied, “There is sticker on the side.”
 “Is your problem now. Figure it out.”
 </p>
 <p>
-On a metal table in the center of the room stood a case from the deep-freezer. Its hinged top gaped open, revealing a grid of empty circular holes in a Styrofoam interior. Beside the case lay a series of snap-top test tubes, their caps rimmed with frost. Their translucent walls revealed a pasty yellowish-brown goop. Each tube bore a rectangular white label along its side, with handwritten letters and numbers to indicate sample identifiers.
+On a metal table in the center of the room stood a case from the deep-freezer. Its hinged top gaped open, revealing a grid of empty circular holes in a Styrofoam interior. Beside the case lay a series of snap-top test tubes, their caps rimmed with frost. Their translucent walls revealed a pasty yellowish-brown goop. Each tube bore a rectangular white label along its side, with handwritten identifiers.
 </p>
 <p>
 “I don’t know what you want me to do!” Tina pleaded. “Look, I’m just the receptionist, okay? Tungsten does <em>not</em> pay me enough for this. How about I just walk out of here, get my purse from my desk, drive off, and we’ll both say none of this ever happened? I won’t call the cops, or remember your face. Okay? Please, I swear to God, I want nothing to do with this.” 
@@ -54,31 +54,31 @@ She turned to the table with resignation. One by one, she picked up the tiny via
 Her body shivered preemptively. A yank of the handle released the cryogenic storage unit’s seal, and she again found herself standing in a pale cloud of stabbing cold mist. The freezer’s loud pumps whirred to keep the interior frigid in spite of the open door, and the monitoring terminal’s readout fluctuated. Working as quickly as her shaking body would allow, Tina slid the case back into its place upon the freezer’s rime-coated racks. She then grabbed the strap of the next identical case on the shelf, pulled it out, and slammed the freezer door shut.
 </p>
 <p>
-Back at the metal table, she popped open the lid of the new case and began pulling out vials, struggling to catch the lip of each snap-top tube with the fingertips of the acrylic glove. She examined each label carefully before laying the vial on the table in a neat row matching its position in the case. The labels all bore some researcher’s initials, a date, a batch number, and similar identifiers. She could find no pattern among them, and nothing distinct about any particular one.
+Back at the metal table, she popped open the lid of the new case and began pulling out vials, struggling to catch the lip of each snap-top tube with the fingertips of the glove. She examined each label carefully before laying the vial on the table in a neat row matching its position in the case. The labels all bore some researcher’s initials, a date, a batch number, and similar figures. She could find no pattern among them, and nothing distinct about any particular one.
 </p>
 <p>
-The man watched her stack the tubes into precise organized lines on the table. With a squint, he asked, “This will help you find the one I want?”
+The man watched her stack the tubes into precise organized lines on the table. With a squint, he asked, “This will help you find what I want?”
 </p>
 <p>
 “What? No, it’s…” Tina stammered as she tried to multitask between arranging the tubes and talking to her captor. “Everything in the fridge is organized by location. If I put these back out of order, I’ll ruin all the scientists’ projects.”
 </p>
 <p>
-The man shrugged dismissively. “Who cares about putting back?”
+The man shrugged dismissively. “Why put back at all?”
 </p>
 <p>
-“What do you mean?” Tina asked, bewildered. “I <em>have</em> to put them back or else they’ll die. The brown stuff in the vials is bacteria frozen in glycerol. They’re living things. They can’t live in the suspension. The glycerol protects them from ice when they get frozen, but they need water and food. If they come out of suspended animation in the glycerol, they’ll…”
+“What? I <em>have</em> to put them back or else they’ll die,” Tina insisted. “The brown stuff in the vials is bacteria frozen in glycerol. They’re living things. They can’t live in the suspension. The glycerol protects them from ice when they get frozen, but they need water and food. If they come out of suspended animation in the glycerol, they’ll…”
 </p>
 <p>
-She glanced up at him for a moment. She looked back and forth between the freezer, her precise little row of test tubes, and his gun.
+She looked back and forth between the freezer, her precise little row of test tubes, and his gun.
 </p>
 <p>
 “You know what?” she said. “Fuck it.”
 </p>
 <p>
-She stepped toward the cryogenic storage unit, but didn’t touch the door. Instead, she slid her body against the side of the machine’s massive bulk, toward the wall. Behind the freezer, beneath the thrumming compressor pumps and condenser coils, was a thick black cable that ran to a heavy power plug. Tina reached down behind the machine, welcoming the warm air blowing from the condenser fans, and grabbed it. With a hard yank, she dislodged the plug from its wall socket. The refrigeration machinery fell silent.
+She stepped toward the cryogenic storage unit, but didn’t touch the door. Instead, she slid her body against the side of the machine’s massive bulk, toward the wall. Behind the freezer, beneath the thrumming compressor pumps and condenser coils, was a thick black cable that ran to a heavy power plug. Tina reached down behind the machine, welcoming the warm air blowing from the condenser fans, and grabbed it. With a yank, she dislodged the plug from its wall socket. The refrigeration machinery fell silent.
 </p>
 <p>
-The monitoring terminal lit up in a panicking flurry of bright green all-caps alert messages. Tina grabbed the freezer’s door handle one last time and pulled it wide open, letting the unit’s cold air spill freely out into the room. She stood back far enough to avoid the draft, and silently watched the terminal as its temperature readout climbed.
+The monitoring terminal lit up in a panicking flurry of bright green all-caps alert messages. Tina grabbed the freezer’s door handle one last time and pulled it wide open, letting the unit’s cold air spill freely out into the room. She stood back far enough to avoid the draft, and watched the terminal as its temperature readout climbed.
 </p>
 <p>
 It wasn’t long before the cases could be comfortably touched with bare hands. She grabbed them two at a time, pulled them from their slippery racks, and set them on the table. Melting frost dripped down their sides, forming small puddles on the tabletop. She opened their lids and pulled out vial after vial, giving each label a quick examination before tossing it down into a discard pile.
@@ -108,7 +108,7 @@ She didn’t make. A leather-gloved hand clamped around her wrist and jerked her
 “You’re quite useful, you know,” he said.
 </p>
 <p>
-“You said we’re done here!” She struggled, but to no avail. He held her wrist firmly with his left hand, balancing both his gun and the vial in his right.
+“You said we’re done here!” She struggled, but to no avail. He held her wrist with his left hand, balancing his gun and the vial in his right.
 </p>
 <p>
 “We are done <em>here</em>,” repeated the man. “But… I have more use for you…”
@@ -123,7 +123,7 @@ He yanked her back into the room and released her, letting her momentum carry he
 “Relax,” he said in a commanding tone. “Do not assume things, lady. I am a professional. I don’t mix business with pleasure. Besides, I get hotter pieces of ass than you any time I want. Your body is of no interest to me.”
 </p>
 <p>
-Tina stared at him silently. She found herself feeling both relieved and offended at the same time.
+Tina stared at him silently. She found herself feeling relieved and offended at the same time.
 </p>
 <p>
 “You are proving handy to have around,” he said. “Besides…” He gestured with the vial. “I need to make sure you did not pull any funny business with this tube. I need the stuff in here to come out alive. And that means you need to give me… insurance.”
@@ -132,13 +132,13 @@ Tina stared at him silently. She found herself feeling both relieved and offende
 Tina gulped quietly.
 </p>
 <p>
-“So, here is a plan,” he continued. “We take you back to our factory. Your little friend is there &mdash; she will be happy to see you. We will keep you until we finish a good batch and see that everything works. It should only take a few days. You will be treated well. Nobody will hurt you. And when you get success, we will let you go.”
+“So, here is a plan,” he continued. “We take you back to our factory. Your little friend is there &mdash; she will be happy to see you. We keep you until we finish a good batch and see that everything works. It should only take a few days. Nobody will hurt you. And when you get success, we let you go.”
 </p>
 <p>
 “You have got to be kidding me,” Tina said.
 </p>
 <p>
-“Stop arguing already! Cooperate and things will go well for you. We are businessmen, not animals. Now come on!” He waved the gun at her. “This is happening. Let’s go.”
+“Stop arguing already! Cooperate and things go well for you. We are businessmen, not animals. Now come on!” He waved the gun at her.
 </p>
 <p>
 The sound of his voice began to recede, like she was hearing it underwater. She felt her skin crawl as goosebumps rose. She looked furtively around the room.
@@ -147,7 +147,7 @@ The sound of his voice began to recede, like she was hearing it underwater. She 
 A few feet away from her was the old dirty beige freezer monitoring terminal with the green screen and the big heavy keyboard. It was still flashing silent distress about the freezer’s temperature.
 </p>
 <p>
-“Okay. I’ll do it,” she said, her own voice sounding oddly flat. 
+“Okay. I’ll do it,” she said. 
 </p>
 <p>
 “Good girl,” he said. “Let’s go.”
@@ -186,10 +186,10 @@ He stepped toward the terminal and stood right behind her, looking over her shou
 With a swift upward jerk, Tina swung the keyboard over her shoulder and smashed it against his face.
 </p>
 <p>
-In that split second of confusion, she reached for his hand. Her palm made contact with the butt of the revolver. She grabbed it and pushed the barrel upward and away from her. She worked her fingers in between his hand and the gun. The vial fell away, rolling in a small circle on the linoleum. The revolver twisted in his grasp but wouldn’t yield. Her index finger landed inside the trigger guard.
+In that split second of confusion, she reached for his hand. Her palm made contact with the butt of the revolver. She grabbed it and pushed the barrel upward and away from her. She worked her fingers between his hand and the gun. The vial fell, rolling in a small circle on the linoleum. The revolver twisted in his grasp but wouldn’t yield. Her index finger landed inside the trigger guard.
 </p>
 <p>
-She realized that, even if she couldn’t take the gun from him, maybe she could empty it. Guns only hold so many bullets. And without the threat of being shot, she might be able to make a run for it. She pulled the trigger.
+She realized that, even if she couldn’t take the gun, maybe she could empty it. Guns only hold so many bullets. And without the threat of being shot, she might be able to make a run for it. She pulled the trigger.
 </p>
 <p>
 The sound was not just deafening. It was so loud it was blinding.
@@ -231,7 +231,7 @@ Tina halted in her tracks. “What now?”
 “Shhhhh!” said the Russian.
 </p>
 <p>
-Tina could just barely make out a man’s voice from far down the hallway, steadily drawing closer.
+Tina could just barely make out a man’s voice from down the hallway, steadily drawing closer.
 </p>
 <p>
 “Negative, Dispatch,” said the man’s voice. “No signs of engagement. Breach signals are rising. Proceeding further into Sector G.”

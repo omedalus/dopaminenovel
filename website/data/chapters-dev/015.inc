@@ -1,9 +1,9 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Pain enveloped Mike like a cocoon.</span> It robbed him of all sense of time, space, or direction. He felt like he was floating in the dark womb of some alien beast. He sat propped up in his hospital bed with his wounds dressed in gauze, talking with his friends, enduring the exhaustion and the delirium, counting the hours until Natalie and the nurses would finally tell him it’s okay to sleep. The pain had diffused slowly from his face to the rest of his body, until eventually he simply felt it everywhere, inside and out. It sent his mind reeling, almost like a drug high. The agony was borderline euphoric.
+<span class="caplead">Pain enveloped Mike like a cocoon.</span> It robbed him of all sense of time, space, or direction. He felt like he was floating in the dark womb of some alien beast. He sat propped up in his hospital bed with his wounds dressed in gauze, talking with friends, enduring the exhaustion and the delirium, counting the hours until Natalie and the nurses would tell him it’s okay to sleep. The pain diffused from his face to the rest of his body, until he felt it everywhere, inside and out. It sent his mind reeling, almost like a drug high. The agony was borderline euphoric.
 </p>
 <p>
-“It’s your endorphins kicking in,” Natalie had said. “They work on your brain like morphine. That’s where the word ‘endorphin’ comes from, you know &mdash; ‘endogenous morphine.’ It’s basically heroin that your body makes naturally. Your body’s protecting itself. Making the damage a little easier to bear.”
+“It’s your endorphins kicking in,” Natalie said. “They work on your brain like morphine. That’s where the word ‘endorphin’ comes from, you know &mdash; ‘endogenous morphine.’ It’s basically heroin that your body makes naturally. Your body’s protecting itself. Making the damage a little easier to bear.”
 </p>
 <p>
 “Natalie…,” he asked. “Why are you being so nice to me? We just met.”
@@ -12,7 +12,7 @@
 “Yeah, but I… Uh… You seem pretty cool,” she said, blushing.
 </p>
 <p>
-Natalie’s attention was drawn away by a shadow on the other side of the hospital bed’s privacy curtain. A few people approached, talking in distressed tones. As they got closer, he recognized one of the voices as the girl from the Tungsten building. 
+Natalie’s attention was drawn away by a shadow on the other side of the privacy curtain. A few people approached, talking in distressed tones. As they got closer, he recognized one of the voices as the girl from the Tungsten building. 
 </p>
 <p>
 It was Tina. She was sobbing.
@@ -36,10 +36,10 @@ Danny materialized beside her, carrying plastic bags from Rite Aid. “Jason…�
 Tina said meekly, “They want me to help them incubate the stuff in the Eppendorf tube. They told me to meet them at my apartment in one hour, ‘or else.’”
 </p>
 <p>
-“They think you can incubate it for them?” Jason asked with keen interest.
+“They think you can incubate it for them?” Jason asked.
 </p>
 <p>
-“Yes. Geez. It’s just <em>E. coli</em>. The incubation part is easy,” Tina said. “It’s figuring out what the hell to do with them once they’re grown that’s the hard part. You incubate them, you get a warm tub full of brown goo. Great. What do you do with <em>that</em>? I don’t know how the hell they expect me to figure that out. The only person who knows that, is Julie.”
+“Yes. Geez. It’s just <em>E. coli</em>. The incubation part is easy,” Tina said. “It’s figuring out what the hell to do with them once they’re grown that’s the hard part. You incubate them, you get a warm tub of goo. Great. What do you do with <em>that</em>? I don’t know how the hell they expect me to figure that out. The only person who knows that, is Julie.”
 </p>
 <p>
 “Julie Yen?” Jason asked.
@@ -51,7 +51,7 @@ Tina eyed him suspiciously. “How do you know Julie?”
 Jason ignored the question. “Christina, is Julie working for these Russians?”
 </p>
 <p>
-“I don’t know,” said Tina. “When that guy was holding me at gunpoint, he said some stuff that made me think she’s not exactly with them willingly.”
+“I don’t know,” said Tina. “When that guy was holding me at gunpoint, he said stuff that made me think she’s not exactly with them willingly.”
 </p>
 <p>
 “And they’re trying to threaten you into ending up like her?” Jason asked.
@@ -66,7 +66,7 @@ Jason rolled his eyes. “Pffft. Amateurs.”
 “Come again?” Tina squeaked.
 </p>
 <p>
-“Listen,” said Jason. “You actually hold a lot more cards than you think you do. A party only resorts to threats if they have nothing of value. If the first instinct of these Russians is to go straight for your jugular, then they’re approaching the negotiation from a position of weakness.”
+“Listen,” said Jason. “You hold more cards than you think. A party only resorts to threats if they have nothing of value. If the first instinct of these Russians is to go straight for your jugular, then they’re approaching the negotiation from a position of weakness.”
 </p>
 <p>
 Tina stared at him incredulously. “You’re saying the mob is in a ‘position of weakness’?”
@@ -78,13 +78,13 @@ Tina stared at him incredulously. “You’re saying the mob is in a ‘position
 “I highly doubt that,” said Tina.
 </p>
 <p>
-“They’re issuing threats just to get you to the bargaining table in the first place. Their BATNA must be absolutely terrible.”
+“They’re issuing threats just to get you to the bargaining table. Their BATNA must be absolutely terrible.”
 </p>
 <p>
 “What the hell is a BATNA?”
 </p>
 <p>
-“A Best Alternative To a Negotiated Agreement,” Jason answered. “It’s your fallback strategy. Believe me, this stuff I know. I may be out of my league when it comes to tech, but they do teach us something in business school, after all.”
+“A Best Alternative To a Negotiated Agreement,” Jason answered. “It’s your fallback strategy. Believe me, this stuff I know. I may be out of my league when it comes to tech, but they do teach us something in business school.”
 </p>
 <p>
 “We’re not dealing with a business here!” Tina cried. “We’re dealing with the mob!”
@@ -111,7 +111,7 @@ Jason looked at the small screen, perplexed. Slowly, his eyes went wide as under
 Moshen took the phone. “No problem, Danny,” he said, and twirled back to his laptop.
 </p>
 <p>
-Jason nodded approvingly. “Listen, guys, we’ve got them by the balls and they don’t even know it. Now, Christina, I can get you out of this. Do you trust me?”
+Jason nodded approvingly. “We’ve got them by the balls and they don’t even know it. Christina, I can get you out of this. Do you trust me?”
 </p>
 <p>
 “I don’t have much choice, do I?” she replied.
@@ -120,16 +120,16 @@ Jason nodded approvingly. “Listen, guys, we’ve got them by the balls and the
 Jason extended a hand out to her with his palm up. “The vial, please.”
 </p>
 <p>
-She shot him a look of suspicion so hot it could’ve ignited his gelled gray hair.
+She shot him a look of suspicion so hot it could’ve ignited his gelled hair.
 </p>
 <p>
 “It’s either me or the Russians.”
 </p>
 <p>
-She grudgingly pulled the vial out of her purse and put it in his palm. Jason’s fingers curled firmly around it like the fronds of a carnivorous plant. 
+She grudgingly pulled the vial out of her purse and put it in his palm. Jason’s fingers curled around it like the fronds of a carnivorous plant. 
 </p>
 <p>
-With focused determination, Jason turned to face his team. “Moshen. What do the emails say about this Julie Yen girl?” he asked.
+With determination, Jason turned to his team. “Moshen. What do the emails say about this Julie Yen girl?”
 </p>
 <p>
 “They don’t say anything about any Julie Yen by name,” Moshen answered. “But I’ve learned about six different ways in Russian to say, ‘Oriental whore.’”
@@ -156,7 +156,7 @@ Jason nodded. “Exactly. Moshen, do they say where they’re keeping her?”
 “Not quite,” Moshen said. “They mentioned something about making her set up a factory in a rented warehouse space. Or set up a warehouse in a rented factory space.”
 </p>
 <p>
-Danny suggested, “You know, that phone has GPS…” He took the stolen Pantech from Moshen and gave it a few quick pokes. “AT&amp;T Navigator… Recent Places… Done.” He passed the phone around for the team to examine.
+Danny suggested, “You know, that phone has GPS…” He took the Pantech from Moshen and gave it a few quick pokes. “AT&amp;T Navigator… Recent Places… Done.” He passed the phone around for the team to examine.
 </p>
 <p>
 Jason looked at it. “Promising, but there’s over three dozen addresses in that history list. Can we narrow it down?”
@@ -168,16 +168,16 @@ Jason looked at it. “Promising, but there’s over three dozen addresses in th
 Moshen got to work.
 </p>
 <p>
-Danny turned back to Jason. “So… Assuming you do find this Julie girl, what’s your plan?”
+Danny turned to Jason. “Assuming you do find this Julie girl, what’s your plan?”
 </p>
 <p>
 Jason smiled. “To convince her to work for me, obviously.”
 </p>
 <p>
-“Umm…” Danny blinked a few times. “I’m guessing it isn’t <em>her</em> agreement you need to secure. If it’s true that she’s being held in some mob warehouse somewhere, then she won’t be there alone. We can’t exactly just drive over there and ring the doorbell and be like, ‘Hi! We’re here to pick up the girl!’ Do warehouses even <em>have</em> doorbells?”
+Danny blinked a few times. “I’m guessing it isn’t <em>her</em> agreement you need to secure. If it’s true that she’s being held in some mob warehouse somewhere, then she won’t be there alone. We can’t exactly just drive over there and ring the doorbell and be like, ‘Hi! We’re here to pick up the girl!’ Do warehouses even <em>have</em> doorbells?”
 </p>
 <p>
-Jason nodded. “I know it’ll be tricky. I’m hoping I might be able to find a random low-ranking worker and bribe him.”
+Jason nodded. “It’ll be tricky. My plan is to find some low-ranking worker and bribe him.”
 </p>
 <p>
 Danny shook his head. “It’d have to be one hell of a bribe, Jason. A guy like that could end up at the bottom of Puget Sound.”
@@ -207,7 +207,7 @@ Mike stirred. Slowly, feebly, he raised one hand.
 Danny smiled. “Of course. From your Cisco certification classes.”
 </p>
 <p>
-Mike nodded. “The teacher gives us a couple of servers to play with,” he said softly.
+Mike nodded. “The teacher gives us a couple of servers to play with.”
 </p>
 <p>
 Danny replied, “Can you configure it to bypass all authentication mechanisms and function as an open mail relay?”
@@ -219,16 +219,16 @@ Mike furrowed his large brow. “Yeah, but we’re not supposed to do that. The 
 Danny grinned. “And why exactly is that?” 
 </p>
 <p>
-“Because open mail relays make the whole Internet a worse place,” Mike answered simply. “Spammers from all over the world constantly look for them. Open mail relays are where all those spam messages for penis enlargement pills and herbal Viagra and discount mortgages and shit come from.”
+“Because open mail relays make the whole Internet a worse place,” Mike answered. “Spammers from all over the world constantly look for them. Open mail relays are where all those spam messages for penis enlargement pills and herbal Viagra and discount mortgages and shit come from.”
 </p>
 <p>
-“Yep. And why do spammers need open mail relays for that?” Danny asked Socratically.
+“Yep. And why do spammers need open mail relays for that?” Danny asked.
 </p>
 <p>
 “Because open relays are completely anonymous,” Mike answered. “An open relay doesn’t verify the source of the message. It just forwards everything stupidly along.”
 </p>
 <p>
-An evil grin consumed Danny’s face. “Exactly. So, if we wanted to forge a bunch of emails from the Russian mob guys to their foot-soldiers…”
+“Exactly. So, if we wanted to forge a bunch of emails from the Russian mob guys to their foot-soldiers…”
 </p>
 <p>
 Mike widened his eyes. “…We’d need an open mail relay!”
@@ -326,7 +326,7 @@ Everyone except for Danny and Satish exchanged quizzical glances.
 “In what?” said Satish. “In their mailserver?”
 </p>
 <p>
-“No,” Danny said, beaming wickedly. “In their foot-soldiers.”
+“No,” Danny said. “In their foot-soldiers.”
 </p>
 <p>
 Satish shook his head, aghast. “You’re insane.”
@@ -335,7 +335,7 @@ Satish shook his head, aghast. “You’re insane.”
 “Yep!” Danny said proudly. Turning, he asked, “Moshen, do you have a street address for us?”
 </p>
 <p>
-“I think so, Danny.” Moshen turned his laptop around. A satellite image showed an overhead view of Seattle’s long southward stretch of shipping yards lining the silty gray runoff-thickened waters of the Duwamish River. “I’d say that looks like an industrial zone, right?”
+“I think so, Danny.” Moshen turned his laptop around. A satellite image showed an overhead view of Seattle’s long southward stretch of shipping yards lining the silty gray Duwamish River. “I’d say that looks like an industrial zone, right?”
 </p>
 <p>
 “Danny,” Jason asked, “what the hell is this Byzantine General thing?”

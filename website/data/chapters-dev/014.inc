@@ -584,13 +584,13 @@ The blood left Tina’s face. As the phone rang, she stood looking at it &mdash;
 Finally, she decided to press a button. The music stopped. She brought the phone to her ear and trembled out, “Hello?”
 </p>
 <p>
-Danny could only barely hear the other side of the conversation. He could make out a male voice with a foreign accent.
+Danny could barely hear the other side of the conversation. He could make out a male voice with a foreign accent.
 </p>
 <p>
 Tina said, “I’m… I’m sorry…”
 </p>
 <p>
-The voice said something in response.
+The voice said something.
 </p>
 <p>
 “No,” Tina replied meekly. “I haven’t gone to the police.”
@@ -623,7 +623,7 @@ Tina choked on a scream. “…I understand…”
 The voice made a few statements.
 </p>
 <p>
-“I…” She stopped, and stared into nothingness. Finally, she said, “Okay.” 
+“I…” She stared into nothingness. Finally, she said, “Okay.” 
 </p>
 <p>
 The voice issued a gruff response. Then, after a pause, it said something else.
@@ -647,12 +647,12 @@ Tina nodded slowly, her eyes blank.
 Danny took the phone from her. “…Hello?”
 </p>
 <p>
-The voice, deep and resonant, said, “I understand you are responsible for interrupting our operation and damaging my men’s equipment.”
+The voice, deep and resonant, said, “I understand you are responsible for interrupting our operation.”
 </p>
 <p>
-Danny took in a sharp, aggressive breath. “What do you want?” he said tensely.
+Danny took in a sharp breath. “What do you want?”
 </p>
 <p>
-“For start,” said the voice, “you owe me new Tesla Roadster.”
+“For start, you owe me new Tesla Roadster.”
 </p>
 </div>

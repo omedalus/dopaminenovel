@@ -1,6 +1,6 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Beneath a star-filled sky, Jason’s yacht</span> rocked gently on the soft wind-driven waves. On its deck, Danny carefully aimed his pulse rifle out across the black water.
+<span class="caplead">Beneath a star-filled sky, Jason’s yacht</span> rocked gently on soft wind-driven waves. On its deck, Danny carefully aimed his pulse rifle out across the black water.
 </p>
 <p>
 “Can you make it hold still?” Danny insisted.
@@ -12,10 +12,10 @@ On the flying bridge above, Jason manned the helm. “Can I make what hold still
 “The boat.”
 </p>
 <p>
-“It’s on water, Danny,” Jason responded testily. “It’s as still as it’s going to get.”
+“It’s on water, Danny,” Jason responded. “It’s as still as it’s going to get.”
 </p>
 <p>
-Danny’s HERF gun rested on a large tripod. The gun bore a large attachment on its muzzle: a domed dish a yard wide, made from chicken wire and aluminum foil. In front of the dish, a copper plate sat on a collapsible plastic rod several inches long, with wires running to a circuitboard in Danny's hands. Lights and gauges flashed patterns that only Danny could decipher.
+Danny’s HERF gun rested on a tripod. The gun bore a large attachment on its muzzle: a domed dish a yard wide, made from chicken wire and aluminum foil. In front of the dish, a copper plate sat on a collapsible plastic rod several inches long, with wires running to a circuitboard in Danny's hands. Lights and gauges flashed patterns that only Danny could decipher.
 </p>
 <p>
 “Well, this boat has to stop bobbing if I’m going to get a decent shot,” said Danny.
@@ -27,25 +27,16 @@ Danny’s HERF gun rested on a large tripod. The gun bore a large attachment on 
 “Oh yeah,” Danny replied, eyeing the indicator lamps on the circuitboard. “This parabolic field antenna boosts the HERF gun’s output gain by about thirty decibels. Those Coast Guard radar stations along the shore? I can knock them out from half a mile away. But it narrows the beam, so I need to line it up just right…”
 </p>
 <p>
-Out past the HERF gun’s parabolic antenna, past the bow of the yacht and the silvery ripples of moonlit water, there spread the steep, dark, tree-lined banks of the Medina waterfront. And over that waterfront, dwarfing the personal mansions of tech tycoons beside it, rose the twelve-storied edifice of the Medina Gallante. Its floor-to-ceiling windows formed checkerboard patterns of glowing white and dark iridescent green. Gray cobblestone pillars buttressed its walls. Sloped brown beams of cedar supported its staggered multi-leveled roofs. The luxury hotel followed the contours of the sloping hillside shore upon which it was built, giving it an air of natural belonging, like a living growth of wood, stone, and crystal rising up from the forested waterline.
+Out past the HERF gun’s parabolic antenna, past the bow of the yacht and the silvery ripples of moonlit water, there spread the steep, dark, tree-lined banks of the Medina waterfront. And over that waterfront, dwarfing the personal mansions of tech tycoons, rose the twelve-storied edifice of the Medina Gallante. Its floor-to-ceiling windows formed checkerboard patterns of glowing white and dark iridescent green. Cobblestone pillars buttressed its walls. Sloped brown beams of cedar supported its staggered multi-leveled roofs. The luxury hotel followed the contours of the sloping hillside shore upon which it was built, giving it an air of natural belonging, like a living growth of wood, stone, and crystal rising up from the forested waterline.
 </p>
 <p>
 At the base of the hotel, a private wharf jutted out into the water. A handful of small yachts swayed gently in the waves, moored to a few short piers.
 </p>
 <p>
-“Do they have anyone patrolling the wharf?” asked Jason.
+“See, this is exactly what this device is built for,” Danny explained as he adjusted the dish. “I made this little guy during Claymore’s contract with Naval Base Kitsap. The Navy wanted us to find and fix flaws in their communication system. I told them they needed to harden their electronics against directed electromagnetic pulses. They laughed and said that EMPs would never happen &mdash; that they’re, um, ‘sci-fi hootenanny’, were their exact words. Well, I told them, ‘Give me a high-powered radar magnetron, and I’ll show you hootenanny.’ So they did, just to humor me. And when I came back and demonstrated this device to them and proved I was right, they were surprisingly displeased…”
 </p>
 <p>
-“Negative,” said Danny. “Satish and I read through some documents from the RockBox server that discuss the Gallante’s security protocols. They have one guy that handles yacht rentals during the day, but nobody’s watching the water at night…” He made more bare-handed adjustments to the curved shape of the wire mesh. Suddenly, he smiled at the readings on the circuitboard and announced, “Ah, here we go!”
-</p>
-<p>
-He flipped a few switches on the energy cannon. Lights blinked on. Fans whirred.
-</p>
-<p>
-“Now, keep in mind,” Danny said slowly while checking the device’s indicator lamps, “this is exactly what this device is built for. I made this little guy during Claymore’s contract with Naval Base Kitsap. The Navy wanted us to find and fix flaws in their communication system up there. I told them they needed to harden their electronics against directed electromagnetic pulses. They laughed and said that EMPs would never happen &mdash; that they’re, um, ‘sci-fi hootenanny’, were their exact words. Well, I told them, ‘Give me a high-powered radar magnetron, and I’ll show you hootenanny.’ So they did, just to humor me. And when I came back and demonstrated this device to them and proved I was right, they were surprisingly displeased…”
-</p>
-<p>
-“Oh!” Jason said accusatorially. “So that’s what happened to the Kitsap contract! You know, the rest of the investors and I, we never got a straight answer from you guys about it…”
+“Oh!” Jason said accusatorially. “So <em>that’s</em> what happened to the Kitsap contract! You know, the rest of the investors and I, we never got a straight answer from you guys about it…”
 </p>
 <p>
 “Yeah, well. My point is, the Coast Guard’s radar systems are exactly the same kind as Naval Base Kitsap’s. Somewhere along that shoreline, there’s an automated radar station watching this stretch of water. It’s just a small plastic dome, about the size of a beach ball, probably painted to look like a rock. Inside, there’s an S-band magnetron, just like in this gun here. Except theirs is a twenty-kilowatt emitter built for continuous low-power scanning, while mine is a three megawatt monster optimized for one single high-impact burst.”

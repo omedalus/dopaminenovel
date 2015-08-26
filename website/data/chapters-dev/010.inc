@@ -309,9 +309,9 @@ Danny gasped. “Is she…”
 “Get your butts over there,” Moshen directed.
 </p>
 <p>
-Danny gulped, and exchanged a nod with Mike. The two men set off.
+Danny gulped, and exchanged a nod with Mike.
 </p>
 <p>
-As they proceeded through the dim corridors, Danny’s fingers twitched, subconsciously reaching for Control-S on a nonexistent keyboard. He caught himself glancing into rooms craving the sight of a prominently placed typewriter like in <em>Resident Evil</em>, or a pink audiocassette like in <em>Grand Theft Auto: Vice City</em>, or perhaps just a glowing red square like in <em>Silent Hill 2</em>. But he knew that, on this level, he would find no save-points.
+As two men set off through the dim corridors, Danny’s fingers twitched, subconsciously reaching for Control-S on a nonexistent keyboard. He caught himself glancing into rooms craving the sight of a prominently placed typewriter like in <em>Resident Evil</em>, or a pink audiocassette like in <em>Grand Theft Auto: Vice City</em>, or perhaps just a glowing red square like in <em>Silent Hill 2</em>. But he knew that, on this level, he would find no save-points.
 </p>
 </div>

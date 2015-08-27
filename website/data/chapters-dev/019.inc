@@ -1,7 +1,7 @@
 <div class="chapsection">
 <p>
 <span class="caplead">
-The fabric upholstery pressed against</span> Danny’s naked back, leaving a grid of tiny square crosshatches in his skin. His wounded shoulder throbbed painfully beneath its gauze dressing, and his hand still stung from being cut and burned. 
+The fabric upholstery pressed against</span> Danny’s naked back, leaving a grid of tiny square crosshatches in his skin. His wounded shoulder throbbed beneath its gauze dressing, and his hand still stung from being cut and burned. 
 </p>
 <p>
 The two men had not exchanged a single word. The trip was not silent, however. The middle-aged financier spent the time on his cellphone, speaking frantically into his Bluetooth headset. The conversations were brief and cheerful. They went along the lines of, “Hello, Mr. Cartwright…” “Ms. Yonath…” “Mr. Chew…” “Yes, everything’s just fine! Listen, I’m afraid I won’t be able to provide you with a sample after all… Yes, unfortunately the prototype is inaccessible. But … Yes, we’re absolutely still on…” Those were the ones that Danny could understand. The rest were in fluent German, French, and Mandarin.

@@ -1131,13 +1131,10 @@ Sergey’s head was turned aside. Danny reached down and took the large Russian�
 Across the helipad, the pilot finally managed to ground his crippled vehicle. Even as the chopper was still settling on its skids, the passenger door opened. Fine black shoes stepped out onto the concrete, matching the crisply-pressed pants of a three-piece suit.
 </p>
 <p>
-As Danny drew his hands away from Sergey’s face, he saw white outlines of his own fingers pressed into the Russian’s skin. The pale impressions lingered, like handprints in cement. Living flesh, with flowing blood and full capillaries beneath it, would’ve quickly returned to skin tone. Sergey’s didn’t.
+As Danny drew his hands away from Sergey’s face, he saw white outlines of his own fingers pressed into the Russian’s skin. The pale impressions lingered, like handprints in cement. Living flesh, with flowing blood and full capillaries, would’ve quickly returned to skin tone. Sergey’s didn’t.
 </p>
 <p>
-Danny grabbed a wrist and felt for a pulse, urgently groping with desperate fingers beneath Sergey’s meaty hand. There was none to be found. He tried to locate it on the man’s neck, but to no avail.
-</p>
-<p>
-Sergey’s heart wasn’t beating.
+Danny grabbed a wrist and felt for a pulse. There was none to be found. He tried to locate it on the man’s neck, but to no avail. Sergey’s heart wasn’t beating.
 </p>
 <p>
 “God, why!?” Danny shrieked. “For fuck’s sake, why!?”
@@ -1146,31 +1143,28 @@ Sergey’s heart wasn’t beating.
 Danny pulled at Sergey’s arm, and with a heaving grunt he managed to turn the man’s body so that it lay flat on its back. With trembling hands he hurriedly undid the clasps and zippers of Sergey’s armor. Danny didn’t know CPR, and over the slowing thump of the helicopter rotor he couldn’t hear the voices of Tina or Natalie on the Bluetooth earpiece to coach him through it. What he did know, however, is that the human body is a machine and the heart is a pump. He’d repaired many a jittery monitor or squeaky CPU fan with a good stiff whack to the chassis. If percussive maintenance could fix failing electronics, it just might restore function to the meaty muscle inside the Russian’s ribs.
 </p>
 <p>
-He pulled the bulletproof armor away from Sergey’s torso, leaving him dressed in a sweat-drenched button-down shirt. Danny curled his hand into a fist and raised it high above his head, preparing to give a sharp, pounding blow onto the man’s sternum in a desperate attempt at resurrection.
+He pulled the bulletproof armor away from Sergey’s torso, leaving him in a sweat-drenched button-down shirt. Danny curled his hand into a fist and raised it high above his head, preparing to give a sharp blow onto the man’s sternum in a desperate attempt at resurrection.
 </p>
 <p>
-It was then that he saw Sergey’s ancient wounds.
+It was then that he saw Sergey’s wounds.
 </p>
 <p>
-The top few buttons of the Russian’s shirt hung open, exposing his muscular chest. Atop the dense hair rested an Eastern Orthodox cross pendant.
+The top few buttons of the Russian’s shirt hung open, exposing his muscular chest. Beneath a dense mat of hair, the skin bore long, pale scars, running down his sternum and along the left pectoral. They were thick and raised and slightly striated, resembling earthworms. Thin white branches extended from each fleshy line, indicating stitching. The scars were clearly surgical.
 </p>
 <p>
-Beneath it, the skin bore long, pale, purple-tinged scars running down his sternum and along the left pectoral. They were thick and raised and slightly striated, resembling earthworms. Thin white branches extended from each straight fleshy line, indicating careful stitching. The scars were clearly surgical in origin.
-</p>
-<p>
-And on the left side of his chest, under a straight pale scar just below the shoulder, the flesh was raised in the outline of a smooth round disc, about two inches across, implanted just beneath the skin.
+And on the left side of his chest, below the shoulder, the flesh was raised in the outline of a smooth round disc, about two inches across, implanted beneath the skin.
 </p>
 <p>
 A pacemaker.
 </p>
 <p>
-Danny felt the blood rush from his face. Slowly, with eyes wide open, Danny turned his head to look at his HERF gun. His stomach lurched.
+Danny felt the blood rush from his face. Danny turned his head to look at his HERF gun. His stomach lurched.
 </p>
 <p>
-“Oh dear God, no…,” Danny said. He choked on his words, overwhelmed with nausea.
+“Oh dear God, no…,” Danny said. He choked on his words.
 </p>
 <p>
-He brought his fist down on Sergey’s chest. “No!” he screamed, and raised his fist again. “No no no <em>no</em>!” he screamed, punctuated by blows to Sergey’s chest as he wailed futilely on motionless ribs. Eventually, his fist slowed and his arm weakened, and he brought it to rest softly upon Sergey’s lifeless body. His head followed, curling downward to rest his forehead upon Sergey’s chest. “I’m sorry,” he said hoarsely. “I’m so, so sorry…”
+He brought his fist down on Sergey’s chest. “No!” he screamed, and raised his fist again. “No no <em>no</em>!” He pounded futilely on motionless ribs. Eventually, his fist slowed and his arm weakened, and he brought it to rest softly upon Sergey’s lifeless body. His head followed, curling downward to rest his forehead upon Sergey’s chest. “I’m sorry,” he said hoarsely. “I’m so, so sorry…”
 </p>
 <p>
 From somewhere behind him, Danny heard laughter. It was harsh and malevolent, dry and dark. It was laughter dripping with condescension and schadenfreude, a chortling cackle of evil victory.

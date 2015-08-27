@@ -1,24 +1,24 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The morning sun shone</span> through Venetian blinds, casting long parallel lines of orange upon a disheveled bed. The stripes of daylight highlighted the contours of the blanket in sharp relief, tracing out the lithe, slim bodies of sleeping lovers that lay beneath. A pillow supported the slender arm of a young woman, her French-manicured hand dangling over the edge, the crook of her elbow nestling a head that sported tussled locks of blond hair. 
+<span class="caplead">The morning sun shone</span> through Venetian blinds, casting long parallel lines of orange upon a disheveled bed. The stripes of daylight highlighted the contours of the blanket, tracing out the lithe, slim bodies of sleeping lovers that lay beneath. A pillow supported the slender arm of a young woman, her French-manicured hand dangling over the edge, the crook of her elbow nestling a head that sported tussled locks of blond hair. 
 </p>
 <p>
-On the red brick walls, the morning light drew ribbons through a <em>TRON: Legacy</em> poster, a stolen “No U Turn” sign, and a shelf filled with toys &mdash; magnetic Buckyballs, a metal Slinky, and a menagerie of vinyl dolls all bearing the bubbly round creepy-cute look of designer KidRobot figurines.
+On the red brick walls, the morning light drew ribbons through a <em>TRON: Legacy</em> poster, a stolen “No U Turn” sign, and a shelf filled with a menagerie of vinyl KidRobot figurines.
 </p>
 <p>
-From the floor somewhere near the bed, beneath a giant tangled mess of laptops, headphones, and dirty laundry, there came a faint blue glow, accompanied by an insistent buzzing. 
+From the floor somewhere near the bed, beneath a tangled mess of laptops, headphones, and laundry, came an insistent buzzing. 
 </p>
 <p>
-The blankets shuffled. From their depths arose an annoyed groan. They parted, and a long, sinewy male arm emerged, sporting Celtic sleeve tattoos. Its hand groped the floor blindly until it found the source of the noise, a ringing cellphone. It whisked the phone up and held it before the sleep-matted face of a young man with black, spiky hair.
+The blankets shuffled. From their depths arose a long, sinewy male arm, sporting Celtic sleeve tattoos. It groped the floor until it found the source of the noise, a ringing cellphone. It whisked the phone up and held it before the sleep-matted face of a young man with black, spiky hair.
 </p>
 <p>
-The screen glowed with the words, “<span class="computer">Dr. P</span>”.
+The screen showed, “<span class="computer">Dr. P</span>”.
 </p>
 <p>
-Roger rolled his eyes. “Go away,” he mumbled softly, and pressed “<span class="computer">Ignore</span>”. He casually dropped the phone back to the floor.
+Roger rolled his eyes. “Go away,” he mumbled, and pressed “<span class="computer">Ignore</span>”. He casually dropped the phone back to the floor.
 </p>
 <p>
-By his side, the blonde stirred. Her petite form shifted slightly, her face lifting up out of the crook of her elbow. She was turned away from him, her small naked shoulders bearing hickeys and bite-marks. Roger followed the curve of her supple spine with his gaze, moving the blanket away from the enchanting dip of her waist where it occluded his view. Below her flowery tramp-stamp, her perfect young ass, round and tight and luscious, sported a distinct rosy hand-shaped welt. Grinning smugly, Roger slowly traced his fingers across her toned midsection and up toward her chest to fondle a pert, firm breast. 
+By his side, the blonde stirred. Her petite form shifted, her face lifting out of the crook of her elbow. She was turned away from him, her shoulders bearing hickeys and bite-marks. Roger followed the curve of her supple spine with his gaze, moving the blanket away from the dip of her waist where it occluded his view. Below her flowery tramp-stamp, her perfect young ass sported a distinct rosy hand-shaped welt. Grinning smugly, Roger slowly traced his fingers across her toned midsection and up toward her chest to fondle a pert, firm breast. 
 </p>
 <p>
 Her face turned lazily toward him with a wide, sleepy smile on her bright pink lips. She writhed softly for a moment to uncurl herself from her sleeping position, and reached her arms high over her head in a wide, waking stretch. Her big, innocent eyes fluttered open and groggily came to focus on him. “Mmmm… Good morning.”
@@ -51,7 +51,7 @@ The phone mumbled something.
 More Russian-accented mumbling.
 </p>
 <p>
-Roger’s entire body suddenly went tense. “What? What do you mean, ‘break-in’?” He reached for the blanket and pulled it around himself absentmindedly, quickly losing his arousal. The girl looked on uncertainly.
+Roger’s body suddenly went tense. “What? What do you mean, ‘break-in’?” He reached for the blanket and pulled it around himself absentmindedly, quickly losing his arousal. The girl looked on uncertainly.
 </p>
 <p>
 Passinsky’s gruff voice murmured a few sentences.
@@ -63,7 +63,7 @@ Roger bolted upright. “Whoa! Whoa, Doctor P., slow down… What happened?”
 The old Russian’s voice continued. 
 </p>
 <p>
-With his free hand, Roger fumbled around on the floor by the bed. “Hold on, Doc. Let me get you on my Bluetooth…” He found his headset scattered somewhere in the tangled mess of wires, and popped it in his ear. From the floor by the bed, he pulled out a spare pair of glasses with one hand and a laptop with the other. He wrapped himself in the blanket, sat cross-legged on the bed, and began typing.
+With his free hand, Roger fumbled around on the floor. “Hold on, Doc. Let me get my Bluetooth…” He found his headset and popped it into his ear. He pulled out a spare pair of glasses and a laptop. He wrapped himself in the blanket, sat cross-legged on the bed, and began typing.
 </p>
 <p>
 The girl pawed at him. “Is everything okay?”
@@ -75,10 +75,10 @@ He batted her away. “Not now, Carrie.”
 “My name’s Kelly!”
 </p>
 <p>
-Staring at the screen, he said into the headset, “Okay, the DenyHosts log does say that someone was trying to hack in yesterday, but the attempt failed. The keycard server shows activity last night by… Julie? And… Fuck! The cameras!” He slapped his laptop closed, and shot up from the bed to dig through the piles of clothes on his floor. “Doctor P., I’m on my way.” A quick tap to the earpiece ended the conversation. Roger gave himself a rub of deodorant and a quick spray of Axe, and wiggled into boxers and a t-shirt.
+Staring at the screen, he said , “Okay, the DenyHosts log does say that someone was trying to hack in yesterday, but the attempt failed. The keycard server shows activity last night by… Julie? And… Fuck! The cameras!” He slapped his laptop closed, and shot up from the bed to dig through the piles of clothes on his floor. “Doctor P., I’m on my way.” A quick tap to the earpiece ended the conversation. Roger gave himself a rub of deodorant and a quick spray of Axe, and wiggled into boxers and a t-shirt.
 </p>
 <p>
-The girl sat on the bed, putting on her bra and scanning the small studio apartment for the rest of her clothes. “What’s going on?”
+The girl sat on the bed, putting on her bra and scanning the studio apartment for the rest of her clothes. “What’s going on?”
 </p>
 <p>
 “You should get going,” said Roger without looking at her. His motorcycle jacket lay slung over a chair near his helmet and boots. He began to climb into his riding gear.
@@ -102,10 +102,10 @@ She stared at the bill. “What the hell is this?”
 
 <div class="chapsection">
 <p>
-<span class="caplead">Scientists scurried through</span> the battle-scarred hallways, checking on their projects and assessing damage to their equipment. Tina’s green Volkswagon Jetta was still in the parking lot outside, its windows smashed and its glove compartment ransacked. The reception desk had been overturned, the stockroom had sustained a rampage, and bullet holes pocked the gypsum walls everywhere. A few bloody streaks on the walls and carpet had left crusty reddish-brown stains. Roger had walked through the building feeling like he was watching a documentary about Sarajevo or Fallujah. The sensation didn’t seem real.
+<span class="caplead">Scientists scurried through</span> the battle-scarred hallways, checking on projects and assessing damage to equipment. Tina’s green Volkswagon Jetta was still in the parking lot outside, its windows smashed and glove compartment ransacked. The reception desk had been overturned, the stockroom had sustained a rampage, and bullet holes pocked the gypsum walls everywhere. A few bloody streaks on the walls and carpet had left crusty reddish-brown stains. Roger had walked through the building feeling like he was watching a documentary about Sarajevo or Fallujah. The sensation didn’t seem real.
 </p>
 <p>
-The scientists were mostly men and women in their forties and fifties, each with multiple technical degrees. Their educated, scrutinizing faces reacted with confusion and outrage at the idea of their ivory tower of research being defiled by such real-world vulgarities as physical violence. He was surprised to see so many of the researchers at such an early hour &mdash; apparently Doctor P., usually the first to arrive in the office anyway, had spent the morning on the phone.
+The scientists were mostly men and women in their forties and fifties, each with multiple technical degrees. Their educated faces reacted with confusion and outrage at the idea of their ivory tower being defiled by such real-world vulgarities as physical violence. He was surprised to see so many of the researchers at such an early hour &mdash; apparently Doctor P., usually the first to arrive in the office anyway, had spent the morning on the phone.
 </p>
 <p>
 Doctor P. was still on that phone. The two of them sat in Passinsky’s office, where Roger had access to the DVR that recorded the camera feeds. As Roger sat in Passinsky’s chair and operated his computer, Passinsky himself remained standing, speaking rapidly into his cellphone in Russian. Finally Passinsky hung up and turned to Roger. “So what do you think?” 
@@ -141,7 +141,7 @@ Passinsky watched the screen. “Different approaches, different tactics, differ
 “Wait, pause,” Passinsky ordered. “Enhance the image.”
 </p>
 <p>
-“Uh, what?” said Roger.
+“What?” said Roger.
 </p>
 <p>
 “Make the picture more clear,” said the old scientist.
@@ -153,13 +153,13 @@ Roger paused. “You mean like in bad spy movies?”
 Passinsky missed a beat. “Yes. Why? Isn’t that…”
 </p>
 <p>
-“You know that’s not actually a thing, right?” said Roger.
+“That’s not actually a thing,” said Roger.
 </p>
 <p>
-“I do not know exactly how it is work,” Passinsky insisted, “but I know there is software for pixel interpolation and increase in the sharpness based on estimating focal length…”
+“I do not know exactly how it is work,” Passinsky insisted, “but I know there is software for pixel interpolation and increase in the sharpness based on focal length…”
 </p>
 <p>
-Roger gave him a sour look.
+Roger gave him a look.
 </p>
 <p>
 “No?” said Passinsky.
@@ -180,22 +180,22 @@ Roger shook his head. “I can make it full-screen for you, though.”
 “Yeah, <em>that</em> is,” said Roger.  
 </p>
 <p>
-Passinsky’s eyes suddenly looked very, very tired. “Oh no…” Passinsky walked away from the desk, rubbing his temples with his fingers. “That is the Mukhayev boy…”
+Passinsky’s eyes suddenly looked incredibly tired. “Oh no…” Passinsky walked away from the desk, rubbing his temples with his fingers. “That is the Mukhayev boy…”
 </p>
 <p>
 “Who?” Roger asked.
 </p>
 <p>
-Passinsky shooed him into silence with a flick of his wrist. Still standing, he leaned heavily on his desk with one arm, his elderly form slack and bony. With his other hand, he dialed his phone.
+Passinsky shushed him with a flick of his wrist. Wearing a grave expression, he dialed his phone.
 </p>
 <p>
 “Are you finally calling the cops?” Roger asked insistently.
 </p>
 <p>
-Passinsky shook his head. “No police. Not yet. Not until my boss gives permission.” He looked away, and spoke in Russian into the phone, his voice apologetic and obsequious. His face, which Roger had only ever seen as an icy mask, sagged with worry.
+Passinsky shook his head. “No police. Not yet. Not until my boss gives permission.” He looked away, and spoke in Russian into the phone. His face, which Roger had only ever seen as an icy mask, sagged with worry.
 </p>
 <p>
-While Passinsky spoke into the phone, Roger spent the time watching the recordings on the DVR. One of the men carried an odd machine, a seemingly homemade contraption about four feet long and held together by Velcro and karabiners. Roger searched the footage to get views of the device from different angles. It looked like some kind of art project gone horribly wrong, or a science fair project gone horribly right &mdash; like Nikola Tesla had gotten high and asked Jules Verne to drive him to the nearest Home Depot.
+While Passinsky spoke into the phone, Roger spent the time watching the surveillance videos. One of the men carried a homemade contraption about four feet long. Roger searched the footage to get views of the device from different angles. It looked like some kind of art project gone horribly wrong, or a science fair project gone horribly right &mdash; like Nikola Tesla had gotten high and asked Jules Verne to drive him to the nearest Home Depot.
 </p>
 <p>
 After several minutes, the grizzly scientist hung up. “Roger,” he rasped. “Do we know <em>anything</em> about the hackers?”
@@ -219,16 +219,16 @@ Roger nodded vigorously. “I was just looking at that, Doctor P.”
 “Did he shoot something at his head?” asked Passinsky.
 </p>
 <p>
-“At first, I thought that too” said Roger. “I figured maybe it’s some kind of homemade gun. But then, why all the electronic parts? So I went and looked for other times he fired that thing, and I saw this…”
+“At first, I thought that too,” said Roger. “But then I saw this…”
 </p>
 <p>
-The screen ran a clip of the other gunman, the one with the long black suppressor on his semi-automatic pistol, trapped in the stockroom. He lifted a keycard to the reader, when suddenly it appeared to jump from his hand. After picking it up and attempting to wave it again, the card appeared to be broken and useless.
+The screen ran a clip of the other gunman, the one with the suppressor, trapped in the stockroom. He lifted a keycard to the reader, when it appeared to jump from his hand. After picking it up and waving it again, the card appeared broken.
 </p>
 <p>
-“And then I found this…”
+“Whatever that gun is shooting, it’s doing it <em>through the wall</em>. And then I found this…”
 </p>
 <p>
-Roger queued a video segment from the parking lot, where the gunman with the silencer talked reluctantly to the driver of the Lincoln Navigator, visible only as a silhouette in the driver’s side window. He focused on his cellphone while, behind him, the large scruffy man snuck into the building. The gunman turned his head and spotted the large one, and suddenly dropped his cellphone. Stepping frame by frame, Roger saw white sparks erupt from the phone, silent and pixilated in the digital recording.
+Roger loaded a segment from the parking lot, where the gunman with the silencer talked to the driver of the Lincoln Navigator, visible only as a silhouette in the driver’s side window. He played the clip up to the point at which the gunman dropped his cellphone. Stepping frame by frame, Roger saw sparks erupt from the phone.
 </p>
 <p>
 Roger concluded, “And then I was like, ‘Holy fucking shit!’”
@@ -237,7 +237,7 @@ Roger concluded, “And then I was like, ‘Holy fucking shit!’”
 Passinsky shook his head. “I do not follow.”
 </p>
 <p>
-Roger explained, “Okay, it’s like, you know how in StarCraft, the Ghost unit can shoot an EMP shockwave that knocks out Protoss shields?”
+Roger explained, “Okay, it’s like, you know how in StarCraft, the Ghost can shoot an EMP shockwave that knocks out Protoss shields?”
 </p>
 <p>
 Passinsky stared at him blankly.
@@ -255,7 +255,7 @@ Passinsky didn’t stir. “An electromagnetic pulse rifle?”
 Passinsky raised his large gray eyebrows. “For shooting robots and ‘cyborgs’ in computer game?”
 </p>
 <p>
-“Well, yeah,” said Roger, a little sheepish but nonetheless thrilled. “I know, it sounds ridiculous, but I’m telling you, it works <em>exactly</em> like that…”
+“Well, yeah,” said Roger. “I know, it sounds ridiculous, but I’m telling you, it works <em>exactly</em> like that…”
 </p>
 <p>
 “How old is it?” Passinsky asked.
@@ -279,7 +279,7 @@ Roger looked perplexed. “How old is System Shock 2? Hell, I don’t know. Fift
 “It is not so ridiculous,” said the elderly scientist. “When you live for many decades, you see many things that were once only fantasy become real. Somebody built that EMP rifle you see on screen there. An engineer. And the engineers of today, fifteen or twenty years ago, were children playing video games.”
 </p>
 <p>
-“The device is obviously homemade, or maybe a prototype that someone built by hand,” said Roger. “Here, take a look at this…” He shuffled through the footage until he found a clip of the geek dodging gunfire just outside the stockroom, then reuniting with his large scruffy friend in the adjoining hallway. “See how he’s looking over the parts of the gun to check it for damage? He’s examining all the little wires and circuits and things. It’s like he knows exactly how this thing works, down to the last transistor. And he’s so detailed and methodical about it… I’d say this thing is his baby. He made it himself. I’m sure of it.”
+“The device is obviously homemade, or maybe a prototype that someone built by hand,” said Roger. “Here, take a look at this…” He shuffled through the footage until he found a clip of the geek dodging gunfire just outside the stockroom, then reuniting with his large scruffy friend in the adjoining hallway. “See how he’s looking over the parts of the gun to check for damage? It’s like he knows exactly how this thing works, down to the last transistor. And he’s so detailed and methodical about it… This thing is his baby. He made it himself. I’m sure of it.”
 </p>
 <p>
 Passinsky’s expression turned to steel. “Do you think you can find him with it?”
@@ -288,16 +288,13 @@ Passinsky’s expression turned to steel. “Do you think you can find him with 
 “What do you mean?” asked Roger.
 </p>
 <p>
-In a calculating tone, Passinsky said, “How many men in this city, do you think, have the capability to build something like that?”
+“How many men in this city, do you think, have the capability to build something like that?”
 </p>
 <p>
-Roger felt a flash of admiration for the gruff old scientist. The guy might’ve been ancient and a total asshole of a boss, but he was indisputably brilliant. “Probably not too many, Doctor P.,” said Roger. “And he’d probably have his skills listed on LinkedIn. And he’d be a member of local Meetup groups for electronics. And he’d know folks in the Maker community and probably post on their online forums. And there’s Ada’s Technical Books over on Broadway &mdash; I’m sure there’s somebody there who’d recognize him…”
+Roger felt a flash of admiration for the gruff old scientist. The guy might’ve been ancient and a total asshole of a boss, but he was indisputably brilliant. “Probably not too many, Doc. And he’d have his skills listed on LinkedIn. And he’d be a member of local Meetup groups for electronics. And he’d know folks in the Maker community and probably post on their forums. And there’s Ada’s Technical Books over on Broadway &mdash; I’m sure if I show his photo around…”
 </p>
 <p>
-The screen in front of Roger showed a clip of the geeky man in the hallway outside the cold storage room, just before the fight. He was wearing a stolen lab coat and pointing the pulse rifle at the leather-clad gunman. A moment later, the door to the cold storage room opened, and Tina emerged. 
-</p>
-<p>
-Roger paused on the frame. The man on the screen had turned to look at the ajar door, and at that moment the light from the cold storage room fell upon him. Roger set the image to full-screen. It distinctly showed the face of the man with the energy gun.
+The screen showed a clip of the hallway outside the cold storage room, just before the fight. The geeky man was wearing a stolen lab coat and pointing the pulse rifle at the leather-clad gunman. A moment later, the door to the cold storage room opened, and Tina emerged. Roger paused on the frame. The guy had turned to look at the door, and at that moment the light from the doorway fell upon him. Roger set the image to full-screen. It showed the face of the man with the energy gun.
 </p>
 <p>
 “Whoever he is,” said Roger, “I bet I can find him. I know a few computer tricks.”

@@ -9,49 +9,40 @@ as they stepped down the interior stairs. “You told the guy I had Asperger’s
 Jason shrugged. “The best lies are based on truth.”
 </p>
 <p>
-The office catwalk was propped on unpainted I-beams above the factory floor. In the space beneath it lay a naked mattress with a few blankets. An adjacent wall bore large metal double doors.
+In the space beneath the catwalk lay a naked mattress with a few blankets. An adjacent wall bore large metal doors.
 </p>
 <p>
-Julie Yen eyed them apprehensively.
+“Julie,” Jason said. “Are you okay?”
 </p>
 <p>
-“Julie,” Jason said from across the room. “Are you okay?”
+Julie Yen grumbled, “What do you want?”
 </p>
 <p>
-“What do you want?” she grumbled.
-</p>
-<p>
-“Relax,” said Jason. “We’re friends. We won’t hurt you.” He traversed the packing peanuts and cardboard littering the floor.
+“Relax,” said Jason. “We’re friends.”
 </p>
 <p>
 “I’ve heard that a lot lately,” she said. Her voice was slow, sad, and tired.
 </p>
 <p>
-Following Jason, Danny stepped over hoses and cables that snaked underneath the mess. He stopped frequently to examine the equipment around him.
+Following Jason, Danny stepped over hoses and cables that snaked underneath the litter of cardboard and foam. He stopped frequently to examine the equipment around him.
 </p>
 <p>
-In the center of the room was a cylindrical glass vat. It was about two feet tall, and sat atop a waist-high base covered with dials and buttons bearing readouts for temperature, pressure, salinity, and pH. Along its side was a system of pipes, hoses, and valves. It looked as though an office water cooler and a cappuccino machine had a baby, and that baby grew up aboard a nuclear submarine. The water inside was hazy and silty like ocean brine. 
+In the center of the room was a cylindrical glass vat. It was two feet tall, and sat atop a waist-high base covered with dials and buttons bearing readouts for temperature, pressure, salinity, and pH. Pipes, hoses, and valves ran along its side. It looked as though an office water cooler and a cappuccino machine had a baby, and that baby grew up aboard a nuclear submarine. The water inside was hazy and silty like ocean brine. 
 </p>
 <p>
-Near the vat sat a pyramidal stack of plastic gallon-sized jars, just like the powdered diet supplements from the Rite-Aid earlier that night. Each one had a purple label reading “L-Glutamine”.
+Near the vat sat a pyramidal stack of plastic gallon-sized jars, just like the powdered diet supplements from the Rite Aid earlier that night. Each one had a purple label reading “L-Glutamine”.
 </p>
 <p>
-The back wall was lined with blue and black 55-gallon drums, alongside pumping equipment and plastic tubs. Each barrel bore the label “Kerosene” or “Acetone,” and a color-coded diamond of red, blue, yellow, and white to indicate hazard ratings.
+The back wall was lined with 55-gallon drums, alongside pumping equipment and plastic tubs. Each barrel bore labels saying “Kerosene” or “Acetone,” and color-coded diamonds to indicate hazard ratings.
 </p>
 <p>
-On a gray metal table next to the drums, sitting alone near bulbous glass equipment, was a plain glass bottle filled with clear liquid. Its top was curved like a bell, and its neck was sealed with a rubber-lined glass stopper. Next to the bottle, on the silvery steel tabletop, lay black rubber gloves and a pair of eye goggles. The bottle bore no label.
+On a gray metal table next to the drums, sitting alone, was a plain glass bottle filled with clear liquid. Its top was curved like a bell, and its neck was sealed with a rubber-lined glass stopper. Next to the bottle lay black rubber gloves and a pair of eye goggles. The bottle bore no label.
 </p>
 <p>
 Danny reached his hand toward it.
 </p>
 <p>
 “I wouldn’t touch that if I were you,” Julie called out.
-</p>
-<p>
-Danny shook the sleeve of Natalie’s floral-print sweatshirt down so that it drooped over his hand, and tried again.
-</p>
-<p>
-Julie scoffed, “Yeah, like that’ll help.”
 </p>
 <p>
 “Why? What is it?” Danny asked.
@@ -63,7 +54,7 @@ Julie scoffed, “Yeah, like that’ll help.”
 Jason whispered, “We’re not with the Russians.”
 </p>
 <p>
-“What do you mean?” Julie asked.
+Julie eyed him suspiciously.
 </p>
 <p>
 “Do you want to get out of here?” Jason added.

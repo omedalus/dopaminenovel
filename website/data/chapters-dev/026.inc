@@ -3,10 +3,10 @@
 <span class="caplead">Pyotr Passinsky watched calmly</span> as one of the Russian bodyguards blasted another’s skull open with a Dragunov rifle. 
 </p>
 <p>
-“Boom! Headshot!” the sniper cheered. “Three for three!”
+“Boom! Headshot!” the sniper cheered.
 </p>
 <p>
-“Son of a bitch!” yelled the victim, and slammed his PlayStation 3 controller down on the thick glass coffee table. 
+“Son of a bitch!” yelled the victim, and slammed his PlayStation controller on the glass coffee table. 
 </p>
 <p>
 “Easy, brother!” the assassin said, laughing. “It’s not the table’s fault you suck ass.”
@@ -15,28 +15,28 @@
 “Shut it, dick-muncher,” he replied. “I’ve seen you with a real Dragunov. You can’t shoot your way out of a wet paper bag.”
 </p>
 <p>
-Another mercenary excitedly broke away from a heavy petting session with a waifish smoky-eyed whore in one corner of the wide leather couch. He slid over on the sleek cushion and grabbed the now-unmanned controller. “My turn!”
+Another mercenary broke away from a heavy petting session with a waifish whore in one corner of the wide leather couch. He slid over and grabbed the controller. “My turn!”
 </p>
 <p>
-Passinsky, for his part, merely gazed bemusedly at the graphics, marveling over the incredible complexity of the machinery required to provide these men their entertainment. 
+Passinsky, for his part, merely gazed at the graphics, marveling over the game system’s capabilites. 
 </p>
 <p>
-They sat in a red-carpeted sunken living room inside the Presidential Suite of the Medina Gallante, a luxurious penthouse built of cedar, marble, and glass. The young men had co-opted the enormous TV hanging on one wall to rowdily challenge each other in a few rounds of <em>Call of Duty</em>. Throughout the suite, a dozen or so brash men in their twenties and thirties lounged and chatted and drank beer and fiddled with loaded handguns. They were kept company by a handful of garishly-dressed women whose bodies looked much younger than their faces.
+They sat in a red-carpeted sunken living room inside the Presidential Suite of the Medina Gallante, a luxurious penthouse built of cedar, marble, and glass. The young men had co-opted the enormous TV hanging on one wall to rowdily challenge each other in <em>Call of Duty</em>. Throughout the suite, a dozen or so brash men in their twenties and thirties chatted and drank beer and fiddled with loaded handguns.
 </p>
 <p>
-On the coffee table, there sat a large crystal punch-bowl filled with fine white powder. It was freely available to the men to enjoy at their discretion. At the moment, the contents of the bowl were being gently picked at by the hot-pink fingernails of an anorexic young woman with more make-up than clothing. She, too, was there strictly for the men’s enjoyment, provided free of charge as a perk of employment by Ivan Zheleznov.
+On the coffee table, there sat a crystal punch-bowl filled with fine white powder. It was freely available to the men to enjoy at their discretion. At the moment, the contents of the bowl were being gently picked at by the hot-pink fingernails of an anorexic young woman with more make-up than clothing. She, too, was there strictly for the men’s enjoyment, provided free of charge as a perk of employment by Ivan Zheleznov.
 </p>
 <p>
-A wide spiral staircase wound upwards through the high ceiling to the bedrooms above. French doors opened out to a balcony overlooking Lake Washington and the Seattle skyline, the city silhouetted in rich hues of orange and pink as the sun slowly set behind the Olympic Mountains.
+A spiral staircase wound upwards through the high ceiling to the bedrooms above. French doors opened to a balcony overlooking Lake Washington and the Seattle skyline, the city silhouetted in rich hues of orange and pink as the sun set behind the Olympic Mountains.
 </p>
 <p>
-There was a quiet muttering from just outside the room. The men perked their ears. With a press of a button, the video game system went mute.
+There was a quiet muttering from outside the room. The men perked their ears. With a press of a button, the video game system went mute.
 </p>
 <p>
-The entrance of the Presidential Suite of the Medina Gallante was a pair of large brown cedar doors, latched with wide curving brass handles. One of those handles turned.
+The entrance of the Presidential Suite of the Medina Gallante was a pair of large cedar doors, latched with wide curving brass handles. One of those handles turned.
 </p>
 <p>
-In the blink of an eye, every man in the room snapped his full attention to the entryway. Those who were sitting jumped to stand; those who were standing crouched and leaned into attack postures. Prostitutes were unceremoniously thrown aside. Handguns leaped out from holsters and pockets and pointed at the door. Metallic clicks echoed through the room as safeties switched off, hammers cocked, cylinders spun, and slides latched.
+In the blink of an eye, every man snapped his full attention to the entryway. Those who were sitting jumped to stand; those who were standing crouched and leaned into attack postures. Prostitutes were unceremoniously thrown aside. Handguns leaped from holsters and pockets and pointed at the door. Metallic clicks echoed through the room as safeties switched off, hammers cocked, cylinders spun, and slides latched.
 </p>
 <p>
 The door opened by a slight crack. Through the gap came a rasping, gravelly male voice. “Easy, boys! It’s just me!”
@@ -45,19 +45,16 @@ The door opened by a slight crack. Through the gap came a rasping, gravelly male
 Handguns lowered and stances relaxed. 
 </p>
 <p>
-The double doors swung open, pushed casually apart by the arms of a cavalier middle-aged man in a three-piece suit. In the entryway stood the silver-haired, beak-nosed, hawk-eyed figure of Ivan Zheleznov.
+The double doors swung open, pushed apart by the arms of a cavalier middle-aged man in a three-piece suit. In the entryway stood the silver-haired, beak-nosed figure of Ivan Zheleznov. He strutted in like a king among loyal peasants. The mercenaries hooted greetings.
 </p>
 <p>
-He sauntered confidently into the room, strutting like a king among his loyal peasants. The mercenaries hooted him a few sporadic greetings.
+Passinsky unfolded his long, gaunt legs in the complicated process of rising from the deep couch. He stood humbly and greeted Ivan with a deferential nod.
 </p>
 <p>
-Passinsky unfolded his long, gaunt legs in the complicated process of rising from the deep couch. He stood humbly in the sunken living room and greeted Ivan with a deferential nod.
+Ivan’s sharp voice spoke again. “Ah, Petya! It’s good to see you. You and I will settle up in a minute. For now, my brothers, show some love! We have a special guest!”
 </p>
 <p>
-Ivan’s sharp, grating voice spoke again. “Ah, Petya! It’s good to see you. You and I will settle up in a minute. For now, my brothers, show some love! We have a special guest!”
-</p>
-<p>
-Three men followed Ivan, carrying a large rolled-up corduroy rug bound with strands of plastic cord. The cylindrical mass sagged and drooped, defying their efforts to haul it through the doorway.
+Three men followed Ivan, carrying a rolled-up corduroy rug bound with plastic cord. The cylindrical mass sagged and drooped, defying their efforts to haul it through the doorway.
 </p>
 <p>
 Passinsky realized that the rug itself was squirming and bucking, trying to wriggle out of their grasp.

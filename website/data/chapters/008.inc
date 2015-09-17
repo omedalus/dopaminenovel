@@ -6,10 +6,10 @@
 “Any luck?” asked Jason from behind the wheel.
 </p>
 <p>
-Danny sat in the passenger’s seat, staring at his laptop. His Claymore tote bag, filled with the pieces of his priceless contraption, lay at his feet. “Some. I’ve got twenty access points in range, but I can’t tell which ones are on the Tungsten network.”
+Danny sat in the passenger’s seat, staring at his laptop. His tote bag, filled with the pieces of his contraption, lay at his feet. “Some. I’ve got twenty access points in range, but I can’t tell which ones are on the Tungsten network.”
 </p>
 <p>
-Inside Tungsten’s building, dozens of computers transmitted signals to each other through rapid electromagnetic vibrations. At its heart, the process was no more complex than blinking lights &mdash; but only someone like Danny would think of them as “lights”. Most people would think of them as antennas, and would say they were emitting radio waves. But for Danny, when it came to things like light bulbs or Wi-Fi transceivers or Naval radar systems, the difference was literally in the eye of the beholder. They all worked by sending out photons, and whether the receiving antenna was a thin strand of copper wire inside a computer’s network card or a rhodopsin protein in a rod cell in his retina, the underlying physical principles were invariant.
+Inside Tungsten’s building, dozens of computers transmitted signals to each other through electromagnetic vibrations. At its heart, the process was no more complex than blinking lights &mdash; but only someone like Danny would think of them as “lights”. Most people would think of them as antennas, and would say they were emitting radio waves. But for Danny, when it came to things like light bulbs or Wi-Fi transceivers or Naval radar systems, the difference was literally in the eye of the beholder. They all worked by sending out photons, and whether the receiving antenna was a thin strand of copper wire inside a computer’s network card or a rhodopsin protein in a rod cell in his retina, the underlying physical principles were invariant.
 </p>
 <p>
 There were pine trees planted beside the office building, arranged in neat woodchip-lined rows. Danny had chosen to park across from these trees intentionally, to stay out of sight. But the pines obscured visible and invisible light alike. 
@@ -39,10 +39,10 @@ Unaided human eyes could see light frequencies ranging from 430 to 790 terahertz
 “Not yet,” said Danny. “We can see their Wi-Fi network from here, but it’s password protected. Which is exactly why I brought my little friend Cain & Abel here…” 
 </p>
 <p>
-“You mean your friend<em>s</em> Cain and Abel? Plural, right? Who?” Jason asked.
+“You mean your friend<em>s</em> Cain and Abel?” Jason asked.
 </p>
 <p>
-“No, Cain & Abel. It’s an application you can download from the web. It’s a, um, ‘password recovery toolkit’,” Danny said with air-quotes and a smirk. “You know, in case you, uh, ever lose the key to your own network. Or… something. So let’s see what it can do here…” He whisked his fingers across his laptop, navigating through an elaborate maze of buttons and drop-down menus. “Passive Scan… Capture to File… Packet Injection ARP Requests… and… Go!”
+“No, Cain & Abel. It’s an application you can download from the web. It’s a, um, ‘password recovery toolkit’,” Danny said with a smirk. “You know, in case you ever lose the key to your own network. Or… something. So let’s see what it can do here…” He whisked his fingers across his laptop, navigating through an elaborate maze of buttons and drop-down menus. “Passive Scan… Capture to File… Packet Injection ARP Requests… and… Go!”
 </p>
 <p>
 “<em>Now</em> you’re in?” asked Jason.
@@ -69,7 +69,7 @@ The light was suddenly obscured by Jason’s hand waving and snapping its finger
 “Yeah,” Danny replied. He looked at his laptop screen. “Sweet, I’ve got plenty of vectors. Now I just hit Analyze… Korek algorithm… Start… and…” He held up his computer, triumphant. “Gentlemen, we can haz password!”
 </p>
 <p>
-With excited commotion, Mike, Moshen, and Satish leaned in to see Danny’s screen. The message “<span class="computer">WEP key found !</span>” showed prominently. They each carefully copied the sequence to their own computers.  “<span class="computer">6430637430725F505F66336C6C61746573…</span>”
+With commotion, the men leaned in to see Danny’s screen. The message “<span class="computer">WEP key found !</span>” showed prominently. They each carefully copied the sequence to their own computers.  “<span class="computer">6430637430725F505F66336C6C61746573…</span>”
 </p>
 <p>
 Mike, sitting behind Danny, announced, “It works. I’m connected.”
@@ -84,10 +84,10 @@ Satish asked, “Do you want to see their camera feeds?”
 “Yes!” Danny said. “You have video streams?”
 </p>
 <p>
-“I have everything,” said Satish. “I’m doing a promiscuous packet sniff. Look at port 80 on 192.168.2.57. I’m seeing an MPEG-4 stream inside a HTTP session.” Despite years of experience working alongside Indian engineers and normally having no trouble parsing the accents of the subcontinent, Danny had never quite gotten used to the pronunciation of “H” as “hatch”.
+“I have everything,” said Satish. “I’m doing a promiscuous packet sniff. Look at port 80 on 192.168.2.57. I’m seeing an MPEG-4 stream inside an HTTP session.”
 </p>
 <p>
-Upon entering the numbers, Danny’s screen filled with a picture of the driveway in front of the Tungsten building, pixelated and choppy. A narrow ribbon of text ran along the bottom, showing the current date, time, and information about the camera. A rectangle labeled “PTZ” contained icons of arrows and magnifying glasses. Danny clicked on them and found that he could move the camera &mdash; pan, tilt, and zoom. “Niiiii<em>iii</em>ce!” Danny sang.
+Upon entering the numbers, Danny’s screen filled with a picture of the driveway in front of the Tungsten building. A narrow ribbon of text ran along the bottom, showing the current date, time, and information about the camera. A rectangle labeled “PTZ” contained icons of arrows and magnifying glasses. Danny clicked on them and found that he could move the camera &mdash; pan, tilt, and zoom. “Niiiii<em>iii</em>ce!” Danny sang.
 </p>
 <p>
 “I’m seeing user activity,” said Satish. “There’s a chat session, and there’s a FireFox browser making requests to stuffonmycat.com. I’m pretty sure someone’s still in the building.”
@@ -114,7 +114,7 @@ What Danny noticed most, though, was her posture and poise &mdash; or rather, he
 Danny smiled. Her hair looked beautiful anyway.
 </p>
 <p>
-Suddenly, the view on Danny’s screen started to move. The camera panned left and down, centering on the girl.
+Suddenly, the view on Danny’s screen panned to center on the girl.
 </p>
 <p>
 “Hey! Who’s doing that?” barked Danny.
@@ -165,7 +165,7 @@ Danny chuckled a bit. “Not surprising. All of their network administration is 
 Mike nodded his large, furry head. “Yeah, most of these machines seem really badly maintained. Some look like they’ve gone months without a patch or an upgrade. Maybe years.”
 </p>
 <p>
-From the back, Satish grumbled in displeasure. “Guys, call me paranoid, but I really don’t think that girl should be at that computer while we do this.”
+From the back, Satish grumbled in displeasure. “Guys, call me paranoid, but I really don’t think that girl should be at her computer while we do this.”
 </p>
 <p>
 “What’s the big deal?” Danny asked. “You said she’s just chatting and surfing the web.”
@@ -180,31 +180,31 @@ Mike grunted in agreement. “I think Satish is right, Danny. According to my sc
 Danny reluctantly nodded. “Which means we have to find some way to make her go away. Damn it. Satish is right.” He looked back down to his laptop, which still showed the girl at her computer. He rubbed his chin and pondered.
 </p>
 <p>
-Gingerly, he pressed the lobby camera’s PTZ buttons. The image panned upward and sideways. Through the glass wall of the Tungsten lobby, embedded in the ceiling of the building’s main corridor, was another sleek black camera dome.
+Gingerly, he pressed the lobby camera’s PTZ buttons. The image panned upward and sideways. Through the glass wall of the Tungsten lobby, embedded in the ceiling of the building’s main corridor, was another camera dome.
 </p>
 <p>
-“Moshen, see that hallway cam right there?” Danny asked. “Go like this with it…” Danny started pressing buttons with reckless abandon, making the lobby image dance wildly back and forth. “Keep this up for as long as it takes. Come on…”
+“Moshen, see that hallway cam right there?” Danny asked. “Go like this with it…” Danny started pressing buttons at random, making the lobby image dance wildly back and forth. “Keep this up for as long as it takes. Come on…”
 </p>
 <p>
-Moshen followed suit with the hallway camera. “I’m dizzy, dude,” he complained. “What’s the point of this?”
+Moshen followed suit with the hallway camera. “I’m dizzy, dude. What’s the point of this?”
 </p>
 <p>
 “We know she can see the cameras spin,” Danny said, still fiddling with the buttons. “We just… Need to get… Her attention…”
 </p>
 <p>
-Suddenly, his entire image jostled violently.
+Suddenly, his entire image jostled.
 </p>
 <p>
-“Done!” Danny announced. He took his mouse off of the PTZ buttons. The view came to rest on the receptionist’s face, inches from the lens. His eyes traced the curve of her cheeks, the contours of her lips. He watched as she climbed down from her chair, walked through the lobby doors, and approached the camera that Moshen was driving.
+“Done!” Danny announced. The view came to rest on the receptionist’s face, inches from the lens. His eyes traced the curve of her cheeks, the contours of her lips. He watched as she climbed down from her chair, walked through the lobby doors, and approached the camera that Moshen was driving.
 </p>
 <p>
 “Ohhhh!” Moshen said. He brought up several more camera feeds, and began tapping their PTZ controls.
 </p>
 <p>
-“You got it, Moshen,” said Danny. “Send her on a goose chase all over the building. Just keep her out of that lobby and away from her computer.” With the receptionist thoroughly occupied, he turned to Mike Braun. “Her computer’s exposed, Mike. Ready to launch Metasploit?”
+“You got it, Moshen,” said Danny. “Send her on a goose chase all over the building. Just keep her out of that lobby and away from her computer.” With the receptionist occupied, he turned to Mike. “Her computer’s exposed, Mike. Ready to launch Metasploit?”
 </p>
 <p>
-Mike stared at his screen in confusion. “Not yet, Danny. I’m seeing something really weird here…”
+Mike stared at his screen in confusion. “Not yet, Danny. I’m seeing something weird…”
 </p>
 <p>
 “Weird how?” Danny asked.
@@ -219,34 +219,34 @@ Mike stared at his screen in confusion. “Not yet, Danny. I’m seeing somethin
 “They’re not using IP,” Mike replied hesitantly.
 </p>
 <p>
-“Heh. Don’t be ridiculous,” said Danny. “Everything uses IP.” He noticed a quizzical expression from Jason. “IP is the digital language of the Internet,” he explained. “Has been for twenty years. Mike, if they’re not using IP, how are they talking to one another?”
+“Heh. Don’t be ridiculous,” said Danny. “Everything uses IP.” He noticed a quizzical expression from Jason. “IP is the digital language of the Internet. Has been for twenty years. Mike, if they’re not using IP, how are they talking to one another?”
 </p>
 <p>
 “It’s…,” said Mike. “I think they’re…”
 </p>
 <p>
-Satish chimed in. “Novell Netware,” he said. “Raw Netware packets directly on the 802.3 frame. I’ve been trying to decode them with WireShark. I thought it was a parsing error this whole time.”
+Satish chimed in. “Novell Netware. Raw IPX/SPX on the 802.3 frame. I’ve been trying to decode them with WireShark. I thought it was a parsing error this whole time.”
 </p>
 <p>
-“Are you serious?” Danny asked. “Novell hasn’t used that protocol since the mid nineties. Shit, I haven’t heard anybody mention it since I was in college.”
+“Are you serious?” Danny asked. “Novell hasn’t used that protocol since the mid nineties. I haven’t heard anybody mention it since I was in college.”
 </p>
 <p>
-Mike said. “Yeah! I’m seeing something called DECnet Routing Protocol. Danny, what is this shit?”
+Mike said. “Yeah! I’m seeing something called DECnet Routing Protocol. Danny, what <em>is</em> this?”
 </p>
 <p>
 Danny shook his head. “It’s ancient…” 
 </p>
 <p>
-On his laptop, he found a camera that Moshen wasn’t spinning at the moment. He brought up a video feed in a room with large steel refrigerators along the walls. One of the refrigerators had a massive metal door with a special lever-like handle. A computer sat next to it, beige with black trim. A small CRT monitor was built into its body, showing a screen of blocky green text. The clunky keyboard was two inches thick and looked heavy enough to use as a bludgeoning weapon. 
+On his laptop, he found a camera that Moshen wasn’t spinning at the moment. He brought up a video feed in a room with large steel refrigerators along the walls. One of the refrigerators had a massive metal door with a special lever-like handle. A clunky computer sat next to it, beige with black trim. A small CRT monitor was built into its body, showing a screen of blocky green text. The keyboard was two inches thick and looked heavy enough to use as a bludgeoning weapon. 
 </p>
 <p>
-Danny recognized it. It was a relic. An honest-to-God DEC VT100 terminal. It wasn’t even a real computer. Digital Equipment Corporation, or DEC, discontinued those machines when Danny was in junior high. 
+Danny recognized it. It was a relic. An honest-to-God DEC VT100 terminal. It wasn’t even a real computer. Digital Equipment Corporation discontinued those machines when Danny was in junior high. 
 </p>
 <p>
 DEC itself, even for Danny, was barely even a memory anymore. After forty years as a multi-billion-dollar industry leader, DEC finally went defunct in 1998, unable to compete against the low-cost Intel x86-based Windows PCs flooding the market. DEC was bought out by Compaq, who manufactured the very machines that had caused DEC’s demise. Compaq, in turn, was bought out by Hewlett-Packard in 2002. There was a time when DEC terminals were as common as telephones &mdash; yet Danny realized that, today, even the most computer-savvy twentysomethings had never even heard of them.
 </p>
 <p>
-He switched to a camera in the cramped warehouse-like storeroom. In the light of the weak yellow lamps, Danny could make out computers scattered among the rest of the unused equipment. There was the curvy purple case of an SGI O2+ workstation. There was a black NeXT cube. There was equipment by Solaris. By Sun Microsystems. By Amiga. By Tandy.
+He switched to a camera in the cramped warehouse-like storeroom. In the light of weak yellow lamps, Danny could make out computers scattered among the rest of the unused equipment. There was the curvy purple case of an SGI O2+ workstation. There was a black NeXT cube. There was equipment by Solaris. By Sun Microsystems. By Amiga. By Tandy.
 </p>
 <p>
 He felt dizzy. It was all, as he said, ancient.
@@ -267,7 +267,7 @@ His first job in college was porting one of the University’s data entry system
 IBM discontinued OS/2 in 2001.
 </p>
 <p>
-His master’s thesis was on techniques for transistor placement to optimize thermal dissipation in 3D VLSI layout. His education was funded by a grant from Cray Computer Corporation. Danny’s research was supposed to have been a key part of the company’s efforts to keep supercomputer architectures competitive against new-fangled “massively parallel” systems. Once, he even had the profound honor of attending a dinner with the legendary Seymour Cray himself. Even at the age of 70, that man’s mind was unstoppable. Danny idolized him. Danny was twenty-two years old.
+His master’s thesis was on techniques for transistor placement to optimize thermal dissipation in 3D VLSI layout. His education was funded by Cray Computer Corporation. Danny’s research was a key part of the company’s efforts to keep supercomputer architectures competitive against new “massively parallel” systems. He even had the profound honor of attending a dinner with the legendary Seymour Cray himself, once when he was twenty-two years old.
 </p>
 <p>
 “Danny?” Jason said softly from the driver’s seat of the Lincoln Navigator.
@@ -288,7 +288,7 @@ He slammed his laptop shut. “Fuck,” Danny exhaled sharply.
 “Yeah, I’m f&mdash;,” Danny began to say, but felt his voice crack. He was crying. 
 </p>
 <p>
-The SUV was silent. He could feel everyone looking at him. He didn’t dare turn his face and let them see his wet, red eyes. “I’m fine,” he mumbled, but he knew he wasn’t fooling anybody. He swallowed hard, yanked at the door handle, and hopped out of the car, slamming the door behind him. He sat down on the pavement against the tire, set his laptop down by his feet, and buried his face in his hands.
+The SUV was silent. He could feel everyone looking at him. He didn’t dare turn his face and let them see his wet, red eyes. “I’m fine,” he mumbled, but he knew he wasn’t fooling anybody. He hopped out of the car, slamming the door behind him. He sat down on the pavement against the tire, set his laptop down by his feet, and buried his face in his hands.
 </p>
 <p>
 Jason exited the SUV and came around. “You alright?” he asked, sitting down beside him.
@@ -306,13 +306,13 @@ Danny sighed. He poked at his laptop with his foot. “I hate these things,” h
 “What’s going on with you, Danny?” Jason’s tone was professional but kind.
 </p>
 <p>
-“Six years at one dead company. Six years at another. And another. And another…” Danny stared away emptily. “I fucking hate the computer industry. It’s such a goddamned waste of life. I’ve been doing this for over twenty years, and every damn thing I’ve ever built just gets swept away by the next great wave. My resume reads like the dot-com obituaries. They all start out as brilliant ideas and then become obsolete and useless in the time it takes to put those ideas into action.”
+“Six years at one dead company. Six years at another. And another. And another…” Danny stared away emptily. “I hate the computer industry. It’s such a goddamned waste of life. I’ve been doing this for over twenty years, and everything I’ve ever built just gets swept away by the next great wave. My resume reads like the dot-com obituaries. They all start out as brilliant ideas and then become obsolete and useless in the time it takes to put those ideas into action.”
 </p>
 <p>
 Jason thought for a few moments before replying. “You remember what I said, Danny, when I saw you holding that invention of yours back at the club? You love your work. I know you do.”
 </p>
 <p>
-“I do, Jason. I love it so much it’s fucking heartbreaking. Do you know how much it hurts to love something that dies so quickly? You learn some amazing complex system, and then bam! Obsolete overnight. Do you have any idea how much outdated technical shit is in my head? I can rattle off every opcode in the Motorola 68K instruction set. I know the full pin-out structure for the Intel 80286 CPU. I know a thousand things that, at their time, were cutting-edge. I was fucking awesome. And now what? Time has left them in the dust, and all that shit is still in my head, like the abandoned ruins of some ancient civilization. All that skill, that hard-won knowledge… it’s useless. Completely, utterly fucking useless.” He gulped painfully. “Just like me.”
+“I do, Jason. I love it so much it’s heartbreaking. Do you know how much it hurts to love something that dies so quickly? You learn some amazing complex system, and then bam! Obsolete overnight. Do you have any idea how much outdated technical shit is in my head? I can rattle off every opcode in the Motorola 68K instruction set. I know the full pin-out structure for the Intel 80286 CPU. I know a thousand things that, at their time, were cutting-edge. I was fucking awesome. And now what? Time has left them in the dust, and all that shit is still in my head, like the abandoned ruins of some ancient civilization. All that skill, that hard-won knowledge… it’s useless. Completely, utterly useless.” He gulped painfully. “Just like me.”
 </p>
 <p>
 Jason stood up beside him and reached his hand down toward Danny. “Listen. I’m not sure exactly what triggered this, but if you really take pride in your work, then… Well, you’re at work this very minute, remember? Stop sulking. You’re on the clock. You’ve got a job to do.”
@@ -351,10 +351,10 @@ Danny and Jason hid behind the black Navigator. “What’s going on?” asked D
 “Look at the parking lot camera,” said Mike.
 </p>
 <p>
-Danny re-opened his laptop and brought up the video feed.
+Danny brought up the video feed.
 </p>
 <p>
-The two men stood in front of their electric sports car, talking. They had athletic, muscular bodies, and hard faces that looked like they were comfortable and familiar with danger. They had slim cellphones with Bluetooth headsets, which they set up and put into their ears.
+The two men stood in front of their car, talking. They had athletic bodies, and hard faces that looked like they were comfortable and familiar with danger. They had slim cellphones with Bluetooth headsets, which they set up and put into their ears.
 </p>
 <p>
 And they had guns.
@@ -389,6 +389,5 @@ In the darkened hallway beyond the bullpen, a shadow moved.
 <p>
 Danny realized that, whatever his own personal problems might be, the girl on the screen was about to have much more pressing issues.
 </p>
-<p>
 
 </div>

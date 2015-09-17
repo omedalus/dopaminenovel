@@ -826,7 +826,7 @@ Danny knew what his team was trying to do. With the gun still pressed to his che
 Ivan smirked. “<em>Deal</em>? Here making ‘deal’. We killing you soon, but not right now. First we having with you a little ‘conversation’. This man here, he is expert at having ‘conversations’ like this.” Ivan gestured to the lithe man holding the gun at Danny’s ribs. The man gave a shark-like grin and grunted happily. “You will telling us everything about where is Sergey and how you working with him. Then, when you done telling us, we finally letting you die. That is ‘deal’, understand?”
 </p>
 <p>
-In the earpiece, Satish said, “X10 packet injection check, receiver firmware mod check…” Satish proceeded to rattle out a series of hardware address codes. Mike pressed, “Then let’s do it already!”
+In the earpiece, Satish said, “X10 packet injection check, receiver firmware mod check…” Mike pressed, “Then let’s do it already!”
 </p>
 <p>
 In the suite, Danny glared at Ivan defiantly, saying nothing.
@@ -835,13 +835,10 @@ In the suite, Danny glared at Ivan defiantly, saying nothing.
 Ivan leaned toward him. “Ah, so quiet! You having no last words?”
 </p>
 <p>
-Slowly, a wry, diabolical smile crept onto Danny’s face. His eyes twinkled with Machiavellian anticipation.
+A wry, diabolical smile crept onto Danny’s face. His eyes twinkled with Machiavellian anticipation.
 </p>
 <p>
-The lights in the room died. In a blink, the suite went dark, save for the glow from the wide screen of the plasma TV in the sunken living room, paused in the middle of the video game.
-</p>
-<p>
-The pause screen abruptly flicked away. In its place, the television showed an image split down the middle. The left half displayed nothing but a few lines of black text in an enormous-sized font on a plain white background:
+In a blink, the room lights died. The suite went dark, save for the glow from the plasma TV. Its image flicked to a split screen. The left half displayed nothing but a few lines of black text in an enormous font:
 </p>
 
 <pre class="computer">
@@ -852,7 +849,7 @@ The pause screen abruptly flicked away. In its place, the television showed an i
 </pre>
 
 <p>
-The right half showed an online banking interface. It was logged in to a corporate account, showing weekly withdrawals of large sums of cash. The ledger was listed in euros, and showed a balance of seven figures.
+The right half showed an online banking interface, logged in to a corporate account. The ledger was listed in euros, and showed a balance of seven figures.
 </p>
 <p>
 In the light of the television screen, with every gun in the room pointed at him, Danny looked Ivan in the eyes and grinned.

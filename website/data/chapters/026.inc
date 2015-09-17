@@ -1,105 +1,90 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Pyotr Passinsky watched calmly</span> with detached interest as one of the Russian bodyguards blasted another’s skull open with a Dragunov rifle. 
+<span class="caplead">Pyotr Passinsky watched calmly</span> as one of the Russian bodyguards blasted another’s skull open with a Dragunov rifle. 
 </p>
 <p>
-“Boom! Headshot!” the sniper cheered. “Three for three!”
+“Boom! Headshot!” the sniper cheered.
 </p>
 <p>
-“Son of a bitch!” yelled the victim, and slammed his PlayStation 3 controller down on the thick glass coffee table. 
+“Son of a bitch!” yelled the victim, and slammed his PlayStation controller on the glass coffee table. 
 </p>
 <p>
 “Easy, brother!” the assassin said, laughing. “It’s not the table’s fault you suck ass.”
 </p>
 <p>
-“Oh shut the hell up, dick-muncher,” he replied. “I’ve seen you with a real Dragunov. You can’t shoot your way out of a wet paper bag.”
+“Shut it, dick-muncher,” he replied. “I’ve seen you with a real Dragunov. You can’t shoot your way out of a wet paper bag.”
 </p>
 <p>
-Another mercenary excitedly broke away from a heavy petting session with a waifish smoky-eyed whore in one corner of the wide leather couch. He slid over on the sleek cushion and grabbed the now-unmanned controller. “My turn!”
+Another mercenary broke away from a heavy petting session with a waifish whore in one corner of the wide leather couch. He slid over and grabbed the controller. “My turn!”
 </p>
 <p>
-Passinsky, for his part, merely gazed bemusedly at the graphics, marveling over the incredible complexity of the machinery required to provide these men their entertainment. 
+Passinsky, for his part, merely gazed at the graphics, marveling over the game system’s capabilites. 
 </p>
 <p>
-They sat in the deep leather couches of a red-carpeted sunken living room inside the Presidential Suite of the Medina Gallante, a luxurious penthouse built of cedar, marble, and glass. The young men had co-opted the enormous LCD TV hanging on one wall to rowdily challenge each other in a few rounds of <em>Call of Duty</em>. Throughout the suite, a dozen or so brash men in their twenties and thirties lounged and chatted and drank beer and fiddled with loaded handguns. They were kept company by a handful of garishly-dressed women whose bodies looked much younger than their faces.
+They sat in a red-carpeted sunken living room inside the Presidential Suite of the Medina Gallante, a luxurious penthouse built of cedar, marble, and glass. The young men had co-opted the enormous TV hanging on one wall to rowdily challenge each other in <em>Call of Duty</em>. Throughout the suite, a dozen or so brash men in their twenties and thirties chatted and drank beer and fiddled with loaded handguns.
 </p>
 <p>
-On the coffee table, there sat a large crystal punch-bowl filled with fine white powder. It was freely available to the men to enjoy at their discretion. At the moment, the contents of the bowl were being gently picked at by the hot-pink fingernails of an anorexic young woman with more make-up than clothing. She, too, was there strictly for the men’s enjoyment, provided free of charge as a perk of employment by Ivan Zheleznov.
+On the coffee table, there sat a crystal punch-bowl filled with fine white powder. It was freely available to the men to enjoy at their discretion. At the moment, the contents of the bowl were being gently picked at by the hot-pink fingernails of an anorexic young woman with more make-up than clothing. She, too, was there strictly for the men’s enjoyment, provided free of charge as a perk of employment by Ivan Zheleznov.
 </p>
 <p>
-A wide spiral staircase wound upwards through the high ceiling to the bedrooms above. French doors opened out to a balcony overlooking Lake Washington and the Seattle skyline, the city silhouetted in rich hues of orange and pink as the sun slowly set behind the Olympic Mountains.
+A spiral staircase wound upwards through the high ceiling to the bedrooms above. French doors opened to a balcony overlooking Lake Washington and the Seattle skyline, the city silhouetted in rich hues of orange and pink as the sun set behind the Olympic Mountains.
 </p>
 <p>
-There was a quiet muttering from just outside the room. The men perked their ears. With a press of a button, the video game system went mute.
+There was a quiet muttering from outside the room. The men perked their ears. With a press of a button, the video game system went mute.
 </p>
 <p>
-The entrance of the Presidential Suite of the Medina Gallante was a pair of large brown cedar doors, latched with wide curving brass handles. 
+The entrance of the Presidential Suite of the Medina Gallante was a pair of large cedar doors, latched with wide curving brass handles. One of those handles turned.
 </p>
 <p>
-One of the door handles turned.
+In the blink of an eye, every man snapped his full attention to the entryway. Those who were sitting jumped to stand; those who were standing crouched and leaned into attack postures. Prostitutes were unceremoniously thrown aside. Handguns leaped from holsters and pockets and pointed at the door. Metallic clicks echoed through the room as safeties switched off, hammers cocked, cylinders spun, and slides latched.
 </p>
 <p>
- In the blink of an eye, every man in the room snapped his full attention to the entryway. Those who were sitting jumped to stand; those who were standing crouched and leaned into attack postures. Prostitutes were unceremoniously thrown aside. Handguns leaped out from holsters and pockets and pointed at the door. Metallic clicks echoed through the room as safeties switched off, hammers cocked, cylinders spun, and slides latched.
+The door opened by a slight crack. Through the gap came a rasping, gravelly male voice. “Easy, boys! It’s just me!”
 </p>
 <p>
-The door opened by a slight crack amid tense stillness.
+Handguns lowered and stances relaxed. 
 </p>
 <p>
-Through the gap came a rasping, gravelly male voice. “Easy, boys!” it said boisterously. “It’s just me!”
+The double doors swung open, pushed apart by the arms of a cavalier middle-aged man in a three-piece suit. In the entryway stood the silver-haired, beak-nosed figure of Ivan Zheleznov. He strutted in like a king among loyal peasants. The mercenaries hooted greetings.
 </p>
 <p>
-At the sound of the voice, handguns lowered and stances relaxed. 
+Passinsky unfolded his long, gaunt legs in the complicated process of rising from the deep couch. He stood humbly and greeted Ivan with a deferential nod.
 </p>
 <p>
-The double doors swung open, pushed casually apart by the arms of a cavalier middle-aged man in a three-piece suit. In the entryway stood the silver-haired, beak-nosed, hawk-eyed figure of Ivan Zheleznov.
+Ivan’s sharp voice spoke again. “Ah, Petya! It’s good to see you. You and I will settle up in a minute. For now, my brothers, show some love! We have a special guest!”
 </p>
 <p>
-He sauntered confidently into the room, strutting like a king among his loyal peasants. The mercenaries hooted him a few sporadic greetings.
-</p>
-<p>
-Passinsky unfolded his long, gaunt legs in the complicated process of rising from the deep couch. He stood humbly in the sunken living room and greeted Ivan with a deferential nod.
-</p>
-<p>
-Ivan’s sharp, grating voice spoke again. “Ah, Petya! It’s good to see you. You and I will settle up in a minute. For now, my brothers, show some love! We have a special guest!”
-</p>
-<p>
-Three men followed Ivan, carrying a large rolled-up corduroy rug bound with strands of plastic cord. The cylindrical mass sagged and drooped, defying their efforts to haul it through the doorway.
+Three men followed Ivan, carrying a rolled-up corduroy rug bound with plastic cord. The cylindrical mass sagged and drooped, defying their efforts to haul it through the doorway.
 </p>
 <p>
 Passinsky realized that the rug itself was squirming and bucking, trying to wriggle out of their grasp.
 </p>
 <p>
-Just inside the doorway, it succeeded. The rolled-up rug hit the floor and emitted a soft, muffled, high-pitched grunt. It writhed on the ground of its own accord, making tiny growling sounds.
+Just inside the doorway, it succeeded. The rolled-up rug hit the floor and emitted a muffled, high-pitched grunt. It writhed on the ground of its own accord, making tiny growling sounds.
 </p>
 <p>
-The men closed the doors and made a circle around the bulky motile corduroy mass. One reached down toward it and, with a pull of a box-cutter blade, sliced away the plastic cords binding the rug in its cylindrical shape. It began to unfurl.
+The men closed the doors and made a circle around the motile corduroy mass. One reached down and, with a pull of a box-cutter blade, sliced away the plastic cords. It began to unfurl.
 </p>
 <p>
 Out from the inside of the rolled-up rug crawled an exceptionally pretty twelve-year-old girl.
 </p>
 <p>
-Rosie Mukhayev’s hands were tied behind her back with cord, and duct tape covered her mouth. She pitched and rolled her shoulders to pull herself away from the rug, breathing heavily through her nose, desperate to catch her breath. Her frail ribs expanded and contracted freely now that she had extricated her body out of its corduroy confinement. She climbed to her feet and spun around to take stock, finding herself surrounded by large, aggressive men.
+Rosie Mukhayev’s hands were tied behind her back, and duct tape covered her mouth. She climbed to her feet and spun around to take stock, finding herself surrounded by large, aggressive men.
 </p>
 <p>
-Her first reaction was to choose two of them at random and lunge angrily forward to try to squeeze her small body quickly through the gap between them.
+Her first reaction was to choose two of them at random and lunge forward to try to squeeze her small body quickly through the gap between them.
 </p>
 <p>
-It didn’t work. One man clasped his large calloused fingers firmly around her elbows and pulled her back against his torso, holding her in place. She tried going limp to slide out of his grasp, but all it did was twist her shoulder. Futilely, she kicked and body-checked against him, her voice making small, furious noises.
+It didn’t work. One man clasped his large calloused fingers firmly around her elbows and pulled her back against his torso, holding her in place. She tried going limp to slide out of his grasp, but all it did was twist her shoulder. Futilely, she kicked and body-checked against him, making small, furious noises.
 </p>
 <p>
-The circle of men parted to make way for Ivan.
-</p>
-<p>
-The middle-aged man approached the young girl. He cocked his head to one side and sized her up, studying her like an eagle tracking a cornered rabbit. A subtle predatory smirk danced on his dry, aged lips. 
-</p>
-<p>
-“She’s a feisty one!” he said approvingly.
+The circle of men parted to make way for Ivan as he approached the young girl. He cocked his head to one side and sized her up, studying her like an eagle tracking a cornered rabbit. “She’s a feisty one!”
 </p>
 <p>
 Rosie stopped struggling and glared at him in rage, trying to cause him pain just with her gaze alone.
 </p>
 <p>
-Ivan continued staring at the girl, his eyes boring through her smooth skin. He took a step closer to her and slowly reached out toward her face with a bony, gnarled hand that smelled like old man’s sweat. Gently, tenderly, in a facsimile of seduction, he traced the back of one hairy knuckle against her soft cheek. “Little girl, there are a few things we need to discuss,” he rasped, and slid a jagged fingernail against the gag over her mouth. “I’m going to take this off of you now. You want me to do that for you, don’t you? I know you do.”
+Ivan continued staring at her, his eyes boring through her smooth skin. He took a step closer and slowly reached out toward her face with a bony, gnarled hand that smelled like old man’s sweat. He traced the back of one hairy knuckle against her soft cheek. “Little girl, there are a few things we need to discuss,” he rasped, and slid a jagged fingernail against the gag over her mouth. “I’m going to take this off of you now. You want me to do that for you, don’t you? I know you do.”
 </p>
 <p>
 Rosie stared hatefully at him.
@@ -114,16 +99,16 @@ A white cotton rag had been stuffed into her mouth. She wiggled her jaw and tong
 And screamed.
 </p>
 <p>
-Her shrill, piercing voice rang out like a steam whistle, slicing through the room like a storm of razors. The scream vibrated as her throat shook amidst the current of air rising forth from her small lungs.
+Her shrill, piercing voice rang out like a steam whistle, slicing through the room like a storm of razors.
 </p>
 <p>
 Ivan merely crossed his arms and laughed. It was a dry, hacking sound.
 </p>
 <p>
-The girl faded to silence and eyed the middle-aged man with hatred and apprehension as he tittered diabolically at her.
+The scream faded to silence. She eyed the middle-aged man with hatred and apprehension as he tittered diabolically at her.
 </p>
 <p>
-“Little angel, do you think anyone can hear you?” he said. “Look around, dear! Rooms like these are built for rock stars! There's two meters of soundproofing under this floor. You could throw a party here with a hundred people and booming music, and nobody would hear a thing downstairs. A grenade could go off in here, and people one floor down would just think we're watching a movie.”
+“Little angel, do you think anyone can hear you? Look around! Rooms like these are built for rock stars! There's two meters of soundproofing under this floor. You could throw a party here with a thousand people and booming music, and nobody would hear a thing downstairs. A grenade could go off, and people one floor down would just think we're watching a movie.”
 </p>
 <p>
 For a few moments she said nothing. Finally, in English, she sneered, “When my Daddy gets here, you are so fucked.”
@@ -135,25 +120,22 @@ At this, Ivan burst into haughty laughter. “Your ‘Daddy?’” he said mocki
 Her eyebrow rose involuntarily.
 </p>
 <p>
-He leaned forward and jutted his face toward hers. “You don’t know who I am, do you?” he asked. His breath smelled of dental work and recently-eaten fish.
+He leaned forward and jutted his face toward hers. “You don’t know who I am, do you?” His breath smelled of dental work and recently-eaten fish.
 </p>
 <p>
 She spit in his face.
 </p>
 <p>
-He slowly stepped back and wiped the spit away with the sleeve of his suit jacket. When his hand came away from his face, it revealed a lusty grin.
+He slowly stepped back and wiped the spit away with the sleeve of his suit jacket. When his hand came away from his face, it revealed a grin.
 </p>
 <p>
- “Take her upstairs,” he said to the mercenary holding Rosie, chuckling slightly. “She’ll need a little bit of time to, shall we say, fully comprehend her new circumstances. Keep an eye on her tonight, but don’t touch her. Nobody touch her. Not yet. There is a process to these things, after all, and I want her to first come to the realization that she will not be rescued. We’ll take her back to St. Petersburg tomorrow. Then we can properly begin her ‘education.’”
+“Take her upstairs,” he said to the mercenary holding Rosie. “She’ll need a little bit of time to, shall we say, fully comprehend her new circumstances. Keep an eye on her tonight, but don’t touch her. Nobody touch her. Not yet. There is a process to these things, after all, and I want her to first come to the realization that she will not be rescued. We’ll take her back to St. Petersburg tomorrow. Then we can properly begin her ‘education.’”
 </p>
 <p>
-The thug nodded compliantly, and proceeded to push and drag her bucking, kicking, wriggling, slacking body up the wide spiral staircase, until her shouts and barks of protest faded somewhere in the carpeted hallways overhead.
+The thug nodded compliantly, and proceeded to push and drag her bucking, kicking, wriggling body up the wide spiral staircase, until her shouts and barks of protest faded somewhere in the carpeted hallways overhead.
 </p>
 <p>
-When they were gone, Ivan abruptly spun on his heel to face the living room, and clapped his hands.
-</p>
-<p>
-“Now,” he said excitedly, “there is one more matter worth attending to.” He looked at Dr. Passinsky. “Petya! Come over here and join us!”
+When they were gone, Ivan abruptly spun to face the living room, and clapped his hands. “Now, there is one more matter worth attending to!” He looked at Dr. Passinsky. “Petya! Come over here and join us!”
 </p>
 <p>
 Passinsky was still standing in the sunken living room, doing his best to avoid entanglement in the touchy matter of the Mukhayev girl. He had seen worse things in his day, and knew better than to show any outward reaction. Demurely, he stepped out and approached Ivan and his men by the stairs.

@@ -46,10 +46,10 @@
   Yeah. 
 </div>
 <div class="message messageout">
-  I was like, I don't waaaaaaaant to print any more forms tonight. I know, I'll cheer myself up by looking at funny pictures on the internets. OMG KITTIES! 
+  I was like, I don't waaaaaaaant to print any more forms tonight. I'll cheer myself up by looking at funny pictures on the internets. OMG KITTIES! 
 </div>
 <div class="message messageout">
-  KITTIES KITTIES EVERYWHERE!
+  KITTIES EVERYWHERE!
 </div>
 <div class="message messageout">
   Hours later... ZOMGZ MOAR KITTIES!
@@ -69,7 +69,7 @@
   He called me hormonal 
 </div>
 <div class="message messageout">
-  and kindly offered to implant electrodes into my cerebral cortex.
+  and offered to implant electrodes into my cerebral cortex.
 </div>
 
 <div class="message messagein">
@@ -91,7 +91,7 @@
 </div>
 
 <div class="message messageout">
-  I'm pretty sure I'm stuck here late not because of Wiccan mysticism but because of the security cameras
+  I'm pretty sure I'm stuck here not because of Wiccan mysticism but because of the security cameras
 </div>
 <div class="message messageout">
   ohshit! Shitshitshit!
@@ -113,13 +113,13 @@
   yes. :)
 </div>
 <div class="message messagein">
-  im serious about the Rule of Three, t. I know u dont believe in it, but I see it work all the time.
+  im serious about the Rule of Three, t. I know u dont believe in it, but I see it work.
 </div>
 <div class="message messagein">
   for example. I have this one patient whos seeing me for ptsd. 
 </div>
 <div class="message messagein">
-  his last doc had him on luvox, but it made him nauseous. So he switched to lexapro, which he didnt respond to. Then they tried klonopin, but he got suicidally depressed.
+  his last doc had him on luvox, but it made him nauseous. So he switched to lexapro, which he didnt respond to. Then they tried klonopin, but he got suicidal.
 </div>
 <div class="message messagein">
   so when they assigned him to me, you know what i gave him?
@@ -129,7 +129,7 @@
 </div>
 
 <div class="message messageout">
-  Is that a new anti-anxiety med? 
+  Is that an anti-anxiety med? 
 </div>
 
 <div class="message messagein">
@@ -213,14 +213,14 @@
   I... don't know?
 </div>
 <div class="message messageout">
-  I've never really paid attention.
+  I've never paid attention.
 </div>
 
 <div class="message messagein">
   and youre paying attention to the camera now
 </div>
 <div class="message messagein">
-  distracting yourself with some totally unimportant unrelated matter
+  distracting yourself with some unimportant unrelated matter
 </div>
 <div class="message messagein">
   instead of dealing head-on with your real issues at work. 
@@ -239,7 +239,7 @@
   What kind of spell can I use to improve this total shit-show I've got here?
 </div>
 <div class="message messageout">
-  I mean, here's the potion for my life right now: take one part romantic failure, two parts professional failure, stir them in a crucible made of tungsten, and choke it down when it's cold and bitter.
+  Here's the potion for my life right now: take one part romantic failure, two parts professional failure, stir them in a crucible made of tungsten, and choke it down cold and bitter.
 </div>
 
 <div class="message messagein">
@@ -270,10 +270,10 @@
   I try to talk shop with the lab monkeys sometimes, and they just humor me. Like, “Aww how cute! The Xerox girl is trying to use big words!”
 </div>
 <div class="message messageout">
-  Fuck, they don't know me! They don't know that I do in fact know this shit.
+  Fuck, they don't know me! They don't know that I know this shit.
 </div>
 <div class="message messageout">
-  And all I want is for them to give me a
+  All I want is for them to give me a
 </div>
 <div class="message messageout">
   Dammit hold on. THIS is weird.
@@ -298,16 +298,16 @@
 </div>
 
 <div class="message messageout">
-  The camera was turning back and forth going all crazy inside its dome thingie.
+  The camera was turning back and forth inside its dome thingie.
 </div>
 <div class="message messageout">
-  I drag my chair over and stand on it and smack the dome, and it stops.
+  I drag my chair and stand on it and smack the dome, and it stops.
 </div>
 <div class="message messageout">
-  But I see through the glass wall into the main hallway, there's a couple more cameras in the hallway, and one of them is just past the lobby doors, just a couple yards away. And while I'm standing on my chair, I see that THAT one is doing it too.
+  But I see through the glass wall into the main hallway, there's a couple cameras in the hallway, and one of them is just a couple yards away. And while I'm standing on my chair, I see THAT one is doing it too.
 </div>
 <div class="message messageout">
-  So I go into the hall and find another chair and drag it over and whack THAT camera too. BUT.
+  So I go into the hall and find another chair and whack THAT camera too. BUT.
 </div>
 <div class="message messageout">
   While I'm dragging the chair, I see the camera at the OTHER end of the hall is ALSO going nuts.
@@ -330,7 +330,7 @@
   I don't know what's going on.
 </div>
 <div class="message messageout">
-  It's kinda freaking me out.
+  It's freaking me out.
 </div>
 
 <div class="message messagein">

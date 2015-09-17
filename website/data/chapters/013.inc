@@ -1,6 +1,6 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The locals called it “Pill Hill”.</span> Home to four sprawling hospitals and the state bloodbank, First Hill squeezed an entire city’s worth of medical care into a single square mile of steeply sloped one-way streets. Beneath jumbled overpasses, there sat crumbling condominiums and tiny turn-of-the-century houses, with bars on the windows and multiple deadbolts on the front doors. Within many of these homes resided the kinds of people who took comfort in living near a state-subsidized methadone dispensary or STD clinic.
+<span class="caplead">The locals called it “Pill Hill”.</span> Home to four sprawling hospitals and the state bloodbank, First Hill squeezed an entire city’s worth of medical care into one square mile of steeply sloped one-way streets. Beneath jumbled overpasses, there sat crumbling condominiums and tiny turn-of-the-century houses, with bars on the windows and multiple deadbolts on the front doors. Within many resided the kinds of people who took comfort in living near a state-subsidized methadone dispensary or STD clinic.
 </p>
 <p>
 A bullet-riddled Lincoln Navigator parked in an unenforced tow-away zone did not look out of place.
@@ -12,10 +12,7 @@ A bullet-riddled Lincoln Navigator parked in an unenforced tow-away zone did not
 “Mostly,” said Tina. “We couldn’t keep his nose pinched because of the swelling.” Mike’s nose looked like a red bulbous prosthetic glued onto his face.
 </p>
 <p>
-Tina led the men inside. Jason and Satish helped Mike walk in, with Moshen and Danny following. 
-</p>
-<p>
-Natalie’s apartment was an unholy catastrophe. It was strewn with medical books and pizza cartons and candles, and smelled of cat litter and dirty socks. Notebooks and crusty paper plates littered her coffee table next to her MacBook Pro. Above her TV, on an unpainted wooden shelf nailed into the wall, sat an authentic human skull, between psychiatry textbooks on one side and racks of herbs and jewelry on the other. A small dead snake was stuffed and mounted crawling out of the skull’s right eye socket, its forked tongue sticking out inquisitively.
+Natalie’s apartment was an unholy catastrophe. It was strewn with medical books and pizza cartons and candles, and smelled of cat litter and dirty socks. Notebooks and crusty paper plates littered her coffee table next to her MacBook Pro. Above her TV, on an unpainted wooden shelf nailed into the wall, sat an authentic human skull, between psychiatry textbooks on one side and racks of herbs and jewelry on the other. A small dead snake was stuffed and mounted crawling out of the skull’s eye socket, its forked tongue sticking out inquisitively.
 </p>
 <p>
 “Come here. Sit down,” Natalie ordered Mike. 
@@ -24,7 +21,7 @@ Natalie’s apartment was an unholy catastrophe. It was strewn with medical book
 With an annoyed meow, a small furry gray blur scurried away as the crew of strangers entered the living room.
 </p>
 <p>
-Natalie cleared off some space on her couch, sweeping aside a Pepsi bottle, a stuffed Grover doll, and a clump of twigs bundled in a knotted silk handkerchief. Mike sat down in a daze, the whole couch shifting under his weight. Natalie quickly took a look at the back of his head.
+Natalie cleared off some space on her couch, sweeping aside a Pepsi bottle, a stuffed doll, and a bundle of twine. Mike sat down in a daze, the couch shifting under his weight. Natalie took a look at the back of his head.
 </p>
 <p>
 Back by the doorway, Moshen started sniffling and sneezing furiously. “Oh God damn it, you have a cat, don’t you?”
@@ -57,10 +54,10 @@ Jason suggested, “Why don’t you head back down to the car, Moshen? All your 
 Jason tossed Satish the keys to the SUV, and the two men turned around and left the apartment. Moshen’s sneezes receded down the hallway outside.
 </p>
 <p>
-Back at the couch, Natalie gave Mike a pair of Tylenol and a glass of water. “Here, swallow these if you can.” She lifted the glass up to his mouth. Mike managed to comply.
+Natalie gave Mike some Tylenol and a glass of water. “Here, swallow these if you can.” She lifted the glass up to his mouth. Mike managed to comply.
 </p>
 <p>
-She sat next to him and examined his eyes, then dropped her hand down to his wrist and felt his pulse. His hands were much bigger than hers. “Has he been having seizures?” she asked Tina.
+She sat next to him and examined his eyes, then dropped her hand down to his wrist and felt his pulse. “Has he been having seizures?” she asked Tina.
 </p>
 <p>
 “No,” Tina replied. “But he threw up once.”
@@ -120,13 +117,13 @@ Natalie kept laughing. “That’s brilliant!”
 Mike smiled.
 </p>
 <p>
-She squeezed his arm reassuringly and said in a soft, kind tone, “Listen. My name is Doctor Natalie Rosenbaum. This is my apartment. You’re safe here. I know you’re hurt, I know you’re scared, but you’re going to be okay.”
+She squeezed his arm and said, “Listen. My name is Doctor Natalie Rosenbaum. This is my apartment. You’re safe here. I know you’re hurt, you’re scared, but you’re going to be okay.”
 </p>
 <p>
 He nodded slowly.
 </p>
 <p>
-“Listen to me. I want you to close your eyes,” she said to him gently and methodically, “and inhale slowly through your mouth. Hold your breath in… Good… And then slowly let it out. Focus on relaxing. Focus on the feel of my hand. Breathe in… This is a safe place. Nothing bad will happen to you here. And out…”
+“I want you to close your eyes,” she said methodically, “and inhale slowly through your mouth. Hold your breath in… Good… And then slowly let it out. Focus on relaxing. Breathe in… This is a safe place. Nothing bad will happen to you here. And out…”
 </p>
 <p>
 After a few repetitions, Mike opened his eyes. They were wet.
@@ -171,7 +168,7 @@ Mike looked blankly over Natalie’s shoulder and said, “I haven’t forgotten
 Natalie turned her head and followed Mike’s gaze. He was looking at the shelf above her TV, at the grinning human skull with the taxidermic snake coming out of its eye socket.
 </p>
 <p>
-“Mike…” Natalie asked with audibly piqued curiosity, “What do you do for a living?”
+“Mike…” Natalie asked with piqued curiosity, “What do you do for a living?”
 </p>
 <p>
 “I protect the People of the Lowland Plains from the armies of the Orc King.”
@@ -201,7 +198,7 @@ Natalie turned her head and followed Mike’s gaze. He was looking at the shelf 
 “He was a Level 20 Priest?” said Mike.
 </p>
 <p>
-Natalie hoisted her bulky body back up to standing and navigated across her living room. “Benedict,” she said as she walked, “is the Catholic patron saint of students and scholars. He’s the one who codified the rules that all monks should live by. You’ve heard that monks take vows of celibacy, silence, and poverty, right? Do you know why?”
+Natalie hoisted her body back up to standing and navigated across the room. “Benedict is the patron saint of students and scholars. He’s the one who codified the rules that all monks should live by. You’ve heard that monks take vows of celibacy, silence, and poverty, right? Do you know why?”
 </p>
 <p>
 “To avoid sin through temptation,” answered Mike.
@@ -210,7 +207,7 @@ Natalie hoisted her bulky body back up to standing and navigated across her livi
 Natalie smiled. She took the skull from the shelf and headed back to the couch. “It’s actually deeper than that. The main purpose of the Rules of Saint Benedict is to remove the ego from the study of the divine. They’re designed to get a monk’s mind out of its own way.” She cleared off a cushion and sat down beside him.
 </p>
 <p>
-“See, Benedict knew,” she continued, “that a mind that’s intrinsically curious and intelligent is prone to self-sabotage. It learns something incompletely, and then moves on too quickly, trying to build more knowledge on top of an incorrect and incomplete foundation. It thinks, ‘Yeah yeah, I get it, I know how this works,’ when it really doesn’t. The purpose of the Rules of Saint Benedict is to make sure that the monk is examining himself at every moment of his life, always checking his own assumptions, always seeking knowledge, never presuming to have any. Makes sense, right?”
+“See, Benedict knew,” she continued, “that a curious mind is prone to self-sabotage. It learns something incompletely, and then moves on too quickly, trying to build more knowledge on top of an incomplete foundation. It thinks, ‘Yeah yeah, I get it, I know how this works,’ when it really doesn’t. The purpose of the Rules of Saint Benedict is to make sure that the monk is examining himself at every moment of his life, always checking his own assumptions, always seeking knowledge, never presuming to have any. Makes sense, right?”
 </p>
 <p>
 “True knowledge begins in knowing that you know nothing,” Mike recited. “An unexamined life is not worthy of being lived by a human being.”
@@ -252,7 +249,7 @@ Mike said nothing. In the quiet tension, Natalie scooted closer and put an arm a
 Natalie answered, “Heh, yes. That stuff is called dopamine.”
 </p>
 <p>
-“Well, I’m not getting it,” said Mike. “I’m trying to make myself feel it, but it’s just not working. You know, I wish I really could honest-to-God convince myself that this is all just some D&amp;D campaign. Because if it’s all just fantasy then I can handle it. If it’s fantasy then it’s all fun and exciting and what I just did was epic and I should be proud of myself. But if it’s not, then…”
+“Well, I’m not getting it,” said Mike. “I’m trying to make myself feel it, but it’s just not working. You know, I wish I could honest-to-God convince myself that this is all just some D&amp;D campaign. Because if it’s all just fantasy then I can handle it. It’s all fun and exciting and what I just did was epic and I should be proud of myself. But if it’s not, then…”
 </p>
 <p>
 Natalie clapped her hand on Mike’s thigh. “Okay, big buy, listen up,” she said brightly. “I’ll take you to Swedish. They’ll fix your nose and give you a CT scan. I’m going to help you through this. I’ll personally make sure you’re okay. I need to go change, and then we’ll head out.”
@@ -318,7 +315,7 @@ That got a chuckle out of Tina. “Not exactly. They were total ass-clowns. It w
 Natalie eyed her skeptically.
 </p>
 <p>
-“Oh my god, shut up!” Tina suddenly got very interested in the sleeve of her cardigan, which was stained with Danny’s blood. She took it off and threw it into Natalie’s closet. “Nat, if I didn’t know better, I’d say you were pressuring me into hooking up with the first remotely do-able guy to come along just so you can hear me tell dirty stories about someone besides Roger for a change. Maybe what you should be focusing on is creating some dirty stories of your own.”
+“Oh my god, shut up!” Tina suddenly got very interested in the sleeve of her cardigan, which was stained with Danny’s blood. She took it off and threw it into Natalie’s closet. “Nat, if I didn’t know better, I’d say you were pressuring me into hooking up with the first do-able guy to come along just so you can hear me tell dirty stories about someone besides Roger for a change. Maybe what you should be focusing on is creating some dirty stories of your own.”
 </p>
 <p>
 Natalie crossed her arms. “Oh, we will have <em>none</em> of that, you hear? I’m the only clinical psychiatrist in the room, so I’ll be the only one doing any clinical psychiatrizing.”
@@ -333,7 +330,7 @@ With a laugh, Natalie finished adjusting her dress and makeup. “How do I look?
 “Smashing. But your new crush is potentially brain-damaged, so he probably won’t notice.”
 </p>
 <p>
-“You’ve still got keys to this place, right?” asked Natalie. “Do you want to come with me to Swedish, or should I leave you here with your new boyfriend? There’s Jack Daniels in the pantry.”
+“You’ve still got keys, right?” asked Natalie. “Do you want to come with me to Swedish, or should I leave you here with your new boyfriend? There’s Jack Daniels in the pantry.”
 </p>
 <p>
 “Subtle, Nat. Real subtle. I think I’ll stick around, but only because I want to see what’s all the fuss about this vial.”
@@ -360,16 +357,13 @@ Danny jumped uneasily.
 The girls approached him. Natalie circled him, carrying clothes and first aid, and pulled on a pair of plastic gloves. Tina stood by with the sphygmomanometer.
 </p>
 <p>
-Hesitantly, Danny pulled off his flannel. It was caked with dried, crusted blood. There was a three-inch-long tear across the left shoulder, as though cut with a serrated knife.
-</p>
-<p>
-His shoulder stung as he lifted his arms to take off the t-shirt underneath. The fabric caught on his skin, and he realized that it had clotted into the gash. He took a deep breath in anticipation of the sharp pain and yanked the shirt up, tearing the large scab open. Warm moisture oozed down his naked spine.
+Hesitantly, Danny pulled off his flannel and t-shirt. They were caked with crusted blood. There was a three-inch-long tear across his left shoulder, as though cut with a serrated knife.
 </p>
 <p>
 Natalie expertly cleaned the wound and dressed it in gauze and adhesive bandages.
 </p>
 <p>
-Tina took Danny’s wrist and held his arm out so she could slide on the blood pressure cuff. She traced her fingers along the inside of his wrist. As her fingertips brushed across his skin, the rhythmic throb of his ulnar artery conveniently grew visible to her naked eye. She breathed on the end of the stethoscope to warm it up, and carefully laid it against the inside of his elbow. “Hey,” she said to him. “You okay?”
+Tina took Danny’s wrist and held his arm out so she could slide on the blood pressure cuff. She traced her fingers along the inside of his wrist. As her fingertips brushed across his skin, the rhythmic throb of his ulnar artery conveniently grew visible to her naked eye. She breathed on the end of the stethoscope to warm it, and carefully laid it against the inside of his elbow. “Hey,” she said to him. “You okay?”
 </p>
 <p>
 “Me?” he answered with an overconfident smile. “Yeah, of course. Doing great! Why?” 
@@ -402,19 +396,19 @@ Natalie sashayed over to the couch. She turned to Jason and said, “Hey. You’
 Jason nodded.
 </p>
 <p>
-“Good,” she replied, and turned to Mike. “And now, as for <em>you</em>…” She reached out with both arms, took him by the hands, and helped him rise from the couch. “Ready to go get your head examined?” she said, looking up at him.
+“Good,” she replied, and turned to Mike. “And now, as for <em>you</em>…” She reached out with both arms, took him by the hands, and helped him rise from the couch. “Ready to get your head examined?” she said, looking up at him.
 </p>
 <p>
 He didn’t answer.
 </p>
 <p>
-“You’ll be okay, Mike,” she said to him quietly.
+“You’ll be okay, Mike,” she said quietly.
 </p>
 <p>
 He nodded.
 </p>
 <p>
-“Here, this will help,” she said. She opened a coat closet near the front door, and reached into a homemade jewelry box inside. “Normally I’d give someone sedatives to reduce anxiety, but I don’t want to take chances with your head right now. What I <em>can</em> do, though, is give you this.” 
+“Here, this will help.” She opened a closet near the front door, and reached into a homemade jewelry box inside. “Normally I’d give someone sedatives to reduce anxiety, but I don’t want to take chances with your head right now. What I <em>can</em> do, though, is give you this.” 
 </p>
 <p>
 She pulled out her large homemade woven bracelet of fuzzy leaves and small yellow flowers, and put it on his wrist.
@@ -438,7 +432,7 @@ Mike answered, “It grants the wearer a plus-four bonus on saving throws versus
 Natalie hopped in place just a little bit.
 </p>
 <p>
-Mike examined the mullein bracelet around his wrist with fascination. As he stared at it, his eyes began to well up with tears. “Natalie…” he said in a cracking voice. “I really don’t feel very brave right now. I don’t feel like a winner. I just feel like… I just…”
+Mike examined the mullein bracelet around his wrist with fascination. His eyes began to well up with tears. “Natalie…” he said in a cracking voice. “I really don’t feel very brave right now. I don’t feel like a winner. I just feel like… I just…”
 </p>
 <p>
 Natalie watched his face with sympathy. She gently reached her arms around him and pressed her head against his chest. “It’s okay, Mike,” she said to him quietly. 

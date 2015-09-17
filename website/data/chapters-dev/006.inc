@@ -66,7 +66,7 @@ Satish, sitting a few feet away, chimed in. “You know the chances of this succ
 Danny cocked his head. “Satish? Why so negative?”
 </p>
 <p>
-“I’m just pointing out the obvious, Danny. Remember, I’m a Microsoft SDET. I spend all day looking at people’s broken-ass code and writing reports to explain why it’s hopelessly flawed. I’m not being ‘negative’; I’m doing my job. And I’m telling you, if you think this email trick stands a chance of working…”
+“I’m just pointing out the obvious, Danny. I’m a Microsoft SDET, remember? I spend all day looking at people’s broken-ass code and writing reports to explain why it’s hopelessly flawed. I’m not being ‘negative’; I’m doing my job. And I’m telling you, if you think this email trick stands a chance of working…”
 </p>
 <p>
 Moshen, with his eyes on his laptop screen, shot both thumbs excitedly up. “It just did!”
@@ -83,7 +83,7 @@ zilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.21)
 </pre>
 
 <p>
-“She’s using Mozilla Thunderbird mail reader on Windows XP,” Danny said. “Moshen, go cruise newsgroups and hacker forums; try to find any exploits or full disclosures. Satish, check out Thunderbird’s source code and look for weaknesses. Mike, you and I will try cracking through the firewall. Fire up Nessus and start probing.”
+“She’s using Mozilla Thunderbird mail reader on Windows XP,” Danny said. “Moshen, go cruise newsgroups and hacker forums; try to find exploits. Satish, check out Thunderbird’s source code and look for weaknesses. Mike, you and I will attack the firewall &mdash; fire up Nessus and start probing.”
 </p>
 <p>
 Jason tried to keep up. “Is there anything I could be doing?” he asked.
@@ -96,16 +96,13 @@ Jason tried to keep up. “Is there anything I could be doing?” he asked.
 
 <div class="chapsection">
 <p>
-<span class="caplead">Danny nibbled on his nails</span>, his eyes affixed nervously to Mike’s screen.
-</p>
-<p>
-“Nothing’s getting through!” growled Mike. His body hunched over his laptop, fingers banging on the keyboard. “The SYN packets are just disappearing!”
+<span class="caplead">“Nothing’s getting through!”</span> growled Mike. His body hunched over his laptop, fingers banging on the keyboard. “The SYN packets are just disappearing!”
 </p>
 <p>
 “Did Tungsten go offline?” asked Danny. “Or did we?”
 </p>
 <p>
-“No and no,” said Mike. “I can still reach Tungsten if I bounce through my school’s servers. It’s like something started blocking <em>our</em> connection &mdash; <em>specifically</em> our connection here at the coffee shop. It doesn’t make any sense…”
+“No and no,” said Mike. “I can still reach Tungsten if I bounce through my school’s servers. It’s like something started blocking <em>our</em> connection &mdash; <em>specifically</em> us here at the coffee shop. It doesn’t make any sense…”
 </p>
 <p>
 Satish saw their agitation. “What are you guys doing?”
@@ -144,15 +141,6 @@ Satish paused. “Please tell me you’re being sarcastic…”
 Jason returned to the tables with several cups of coffee. “Hey. Guys. Is everything alright?”
 </p>
 <p>
-Satish answered, “Jason, where did you find this noob, and why did you put him in charge?”
-</p>
-<p>
-“Hey!” Danny barked. “What the hell, Satish? I’m standing right here!”
-</p>
-<p>
-Jason asked firmly, “What’s going on?”
-</p>
-<p>
 Danny turned to Jason. “Have you ever heard of SSH?” Jason shook his head. “It stands for ‘Secure Shell’. It’s a remote login program. It’s a very common tool &mdash; system administrators use it to access their own systems in case of emergency. Most corporate servers have it installed.”
 </p>
 <p>
@@ -171,16 +159,16 @@ Satish scoffed, “Yeah, with SSHatter, on <em>one</em> host!”
 “In English?” Jason insisted.
 </p>
 <p>
-Danny answered, “SSHatter is a program that performs something called a dictionary attack. It has a huge database of common usernames and passwords. We rigged SSHatter to connect to Tungsten over and over again, as fast as it can, using common logins until we stumble across one that works.”
+Danny answered, “SSHatter is a program that performs something called a dictionary attack. It has a database of common usernames and passwords. We rigged SSHatter to connect to Tungsten over and over again, as fast as it can, using common logins until we stumble across one that works.”
 </p>
 <p>
-“Which is a complete dumbass approach!” Satish added. “See, when a <em>real</em> hacker uses SSHatter, they do some preparation first. The number of possible username and password combinations is astronomical, so they divide up the task across a botnet with thousands of zombie hosts. And even then, the process can take days, without any guarantee of success. If you try to run it on just <em>one</em> machine, you…”
+“Which is a total noob mistake!” Satish added. “The number of possible username and password combinations is astronomical. SSHatter is designed for distributed operation &mdash; you’re supposed to divide up the task across a botnet with thousands of zombie hosts. And even then, the process can take days, without any guarantee of success. If you try to run it on just <em>one</em> machine, you…”
 </p>
 <p>
 “Yes, it could theoretically take <em>years</em>, I know,” Danny interrupted. “Look, I realized that the probability of success was low. Fine. But Mike and I figured it’s worth at least trying. It couldn’t hurt, right?”
 </p>
 <p>
-Satish grimaced. “It most certainly <em>can</em> hurt! You just tripped their DenyHosts IPS, you clueless idiot!”
+Satish grimaced. “It most certainly <em>can</em> hurt! You just tripped their DenyHosts IPS.”
 </p>
 <p>
 Danny’s eyes flew open. He gasped as he realized that Satish was right.
@@ -204,13 +192,7 @@ Satish finished for him, “You set off their alarm, and now your source IP addr
 Danny said nothing. 
 </p>
 <p>
-Satish shook his head. “Did you dumb shits seriously think you could crack your way through SSH with a cheap script-kiddie attack? If an SSH-cracking tool existed, do you have any idea what that would do to the entire Internet? Hell, system administrators have taken entire companies offline because of <em>rumors</em> about a tool like that! To think that <em>this</em> team of morons could pull off a…”
-</p>
-<p>
-Jason intervened, “Satish, maybe dial the insults down a notch? This isn’t a Dungeons and Dragons campaign. We’re all trying to solve a real challenge here.”
-</p>
-<p>
-Satish shot back to Jason, “You think I don't know that this shit has real consequences? If anything gets traced back to us, we could all end up getting prosecuted. I’m here on an H1-B visa, and I refuse to get deported because of some cock-up on the part of this dimwit here who doesn’t know what the fuck he’s doing!”
+Satish shook his head. “Did you seriously think you could crack your way through SSH with some app you download from a website? If an SSH-cracking tool like that existed, do you have any idea what that would do to the entire Internet? Hell, system administrators have taken entire companies offline because of <em>rumors</em> about a tool like that! Look, this isn’t some video game or Dungeons and Dragons campaign we’re playing here. This shit has real consequences. If anything gets traced back to us, we could all end up getting prosecuted. I’m here on an H1-B visa, and I refuse to get deported because of some script-kiddie cock-up. So, Danny, I have to ask… Do you <em>actually</em> have any clue what you’re doing?”
 </p>
 <p>
 Danny shot Satish a steely glare. “I have everything perfectly under control. Do not question my technical expertise.”
@@ -222,13 +204,13 @@ Satish scoffed, “So far, you haven’t shown any for me to question.”
 The coffee shop’s staff were beginning to give Danny and his crew sidelong glances as they scurried about the tables and counters. Danny forced himself to take a few deep breaths to calm down. “Satish. Tell me that part again about how some system administrators took their companies offline because of rumors of an SSH-cracking tool?”
 </p>
 <p>
-“Not much to tell,” said Satish. “A couple years ago, somebody hacked a website called ImageShack. A hacker group called ‘anti-sec’ publicly announced that they were responsible for the break-in, and that they had done it by using a brand-new hacker tool that worked by cracking SSH. System administrators all over the world freaked out. They completely disabled SSH on their networks &mdash; they figured it’s better to not let <em>anybody</em> connect, not even legitimate users, than to give a hacker a route of entry.”
+“Not much to tell,” said Satish. “A couple years ago, somebody hacked a website called ImageShack. A hacker group called ‘anti-sec’ publicly announced that they were responsible for the break-in, and that they used a brand-new all-powerful hacker tool. System administrators all over the world freaked out. They completely disabled SSH on their networks &mdash; they figured it’s better to not let <em>anybody</em> connect, not even legitimate users, than to give a hacker a route of entry.”
 </p>
 <p>
 “That sounds like more than just a rumor,” said Danny. “That’s a serious threat.”
 </p>
 <p>
-“It would have been, if it was real,” said Satish. “But it turned out that the hacker group lied. There was no such SSH-cracking tool. It was all a giant hoax. It was all just a bunch of punks trying to make themselves look powerful, freak people out. Which, granted, it did. But so what? All it proves is how crazy everything would be <em>if</em> there was a vulnerability in SSH. But there isn’t.”
+“It would have been, if it was real,” said Satish. “But it turned out that the hacker group lied. There was no such tool. It was all a giant hoax. It was all just a bunch of punks trying to make themselves look powerful, freak people out. Which, granted, it did. But so what? All it proves is how crazy everything would be <em>if</em> there was a vulnerability in SSH. But there isn’t.”
 </p>
 <p>
 Danny thought for a moment. “Not even through its own system administrators?”
@@ -237,7 +219,7 @@ Danny thought for a moment. “Not even through its own system administrators?�
 Satish shook his head. “I don’t follow.”
 </p>
 <p>
-Danny paced as he talked, his fingers fidgeting. “These anti-sec guys succeeded in taking a bunch of companies offline not by exploiting a flaw in the machines, but by tricking the sysadmins who run them. Hacking is making a system do something that it isn’t supposed to do. That system includes people. It’s built and maintained by people. Tungsten’s IT staff itself is a system component. Let’s look for vulnerabilities in it.” He turned toward Jason, who was fiddling on his cellphone. “How big is Tungsten’s Information Technology department?”
+Danny paced as he talked. “These anti-sec guys <em>succeeded</em> in taking a bunch of companies offline &mdash; not by exploiting a flaw in the <em>machines</em>, but by tricking the sysadmins who run them. Hacking is making a system do something that it isn’t supposed to do. That system includes people. It’s built and maintained by people. Tungsten’s IT staff itself is a system component. Let’s look for vulnerabilities in it.” He turned toward Jason, who was fiddling on his cellphone. “How big is Tungsten’s Information Technology department?”
 </p>
 <p>
 “Just one guy,” Jason answered. “They have a couple older technicians around to maintain the equipment, but they’re not in charge of the corporate network. Their system administrator is some hipster kid. I don’t know his name.”
@@ -253,9 +235,6 @@ Moshen tapped away on his laptop. “Tungsten Medical Technologies… Network ad
 </p>
 <p>
 Danny studied the screen. “His username is ‘rot13er’. He probably uses that same handle everywhere. Let’s see what this guy’s all about. Search around the web. Check message forums, social networks, anything.”
-</p>
-<p>
-Mike and Moshen set to work alongside Danny. Satish sat silently nearby, eyeing the endeavor with grudging interest.
 </p>
 <p>
 After several minutes, Mike piped up. “Danny! I found something! It’s an online tech-support forum for a company called OmniVision. They make security cameras. Check this out…”

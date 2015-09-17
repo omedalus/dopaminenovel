@@ -84,7 +84,7 @@ Satish asked, “Do you want to see their camera feeds?”
 “Yes!” Danny said. “You have video streams?”
 </p>
 <p>
-“I have everything,” said Satish. “I’m doing a promiscuous packet sniff. Look at port 80 on 192.168.2.57. I’m seeing an MPEG-4 stream inside a HTTP session.” Despite years of experience working alongside Indian engineers, Danny had never quite gotten used to the pronunciation of “H” as “hatch”.
+“I have everything,” said Satish. “I’m doing a promiscuous packet sniff. Look at port 80 on 192.168.2.57. I’m seeing an MPEG-4 stream inside an HTTP session.”
 </p>
 <p>
 Upon entering the numbers, Danny’s screen filled with a picture of the driveway in front of the Tungsten building. A narrow ribbon of text ran along the bottom, showing the current date, time, and information about the camera. A rectangle labeled “PTZ” contained icons of arrows and magnifying glasses. Danny clicked on them and found that he could move the camera &mdash; pan, tilt, and zoom. “Niiiii<em>iii</em>ce!” Danny sang.

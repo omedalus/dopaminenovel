@@ -5,7 +5,7 @@
 <strong>Priority:</strong> P1<br/>
 <br/>
 <strong>Title:</strong> Network handler corrupts player inventory<br/>
-<strong>Description:</strong> The Player class’s getInventory accessor returns a pointer to Inventory object, instead of scoped reference with a mutex lock as I have recommended. At PlayerNetworkHandler.cpp:2163, awolfson creates a possible race condition between the network and UI threads. If a player can induce concurrent writes, they can make random items appear in their inventory (demonstrated in unit test #12271).<br/>
+<strong>Description:</strong> The Player class’s getInventory accessor returns a pointer to Inventory object, instead of scoped reference with a mutex lock as I have recommended. At PlayerNetworkHandler.cpp:2163, awolfson creates a possible race condition between the network and UI threads. If a player can induce concurrent writes, random items will appear in their inventory (demonstrated in unit test #12271).<br/>
 <br/>
 <strong>Comments: </strong><br/>
 <strong>ssrinivanasan</strong><br/>

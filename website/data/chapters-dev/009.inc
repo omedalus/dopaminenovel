@@ -99,13 +99,7 @@ She grabbed the handle of the deep-freezer’s massive metal door and yanked. Th
 “You’re being paranoid,” said Mike.
 </p>
 <p>
-“No, I’m erring on the side of caution,” Satish insisted. “Let’s just mind our own business! There’s no point in risking our own necks.”
-</p>
-<p>
-“So, we just sit here watching on our laptops like a bunch of useless dumbasses?” Mike shot back.
-</p>
-<p>
-“Maybe you haven’t noticed, but this team <em>is</em> a bunch of useless dumbasses!” said Satish. “And, you know, with an idiot like Danny in charge, it’s not even really a surprise. The guy made it very clear back at the coffee shop that he has no idea what he’s doing! He hand-holds you through a bunch of script kiddie attacks, and then kisses your butts and tells you that you’re all awesome brilliant hackers. That’s fine, up to the point at which a stupid mistake can get you in real trouble &mdash; fines and jail for you, deportation for me. And we’re at that point now. So let’s just let this… this whatever-is-going-on-here, let’s let it blow over, and resume the operation when everything’s nice and quiet again.”
+“No, I’m erring on the side of caution,” Satish insisted. “Let’s just mind our own business! There’s no point in risking our own necks. Let’s just let this… this whatever-is-going-on-here, let’s let it blow over, and resume the operation when everything’s nice and quiet again.”
 </p>
 <p>
 Mike shook his head. “Let it ‘blow over’? But that girl in there is&mdash;!” 
@@ -138,7 +132,7 @@ Mike angrily barked at Satish, “Hey man, it was <em>you</em> who said we can�
 Jason interjected, “Whoa, Danny! I hired you to extract <em>data</em>. This project wasn’t supposed to involve <em>guns</em>!”
 </p>
 <p>
-Danny handed Jason the laptop and leaned back against the car, his hands at his temples. “But everything Satish said is true,” he muttered, his throat suddenly dry and hoarse. “I… God, I <em>don’t</em> know what I’m doing. I’m way out of my league. Sure, I can put on a <em>show</em> of competence, right? I can <em>act</em> important. Pretend that I’m not past my prime, that I’m not steadily getting more irrelevant year after year, with one failed dot-com project after another. I can play at being a ’Leet Hacker Dude, as long as I’m around people who don’t know any better. And that’s perfectly good enough if there’s no actual shit hitting the fan. But when there’s the real possibility of someone getting hurt because of me… The real possibility of that girl…” He covered his face with his hands. His mind flashed on the memory of her tousled hair playing along the angles of her neck. The way her nose had scrunched up when she looked questioningly into the camera lens. Through narrowly splayed fingers, he peeked at the laptop screen. “My God, what have I done?”
+Danny handed Jason the laptop and leaned back against the car, his hands at his temples. “But everything Satish said is true,” he muttered, his throat suddenly dry and hoarse. “I… God, I <em>don’t</em> know what I’m doing. I’m way out of my league. Sure, I can put on a <em>show</em> of competence, right? I can play at being a ’Leet Hacker Dude. And that’s perfectly good enough if there’s no actual shit hitting the fan. But when there’s the real possibility of someone getting hurt because of me… The real possibility of that girl…” He covered his face with his hands. His mind flashed on the memory of her tousled hair playing along the angles of her neck. The way her nose had scrunched up when she looked questioningly into the camera lens. Through narrowly splayed fingers, he peeked at the laptop screen. “My God, what have I done?”
 </p>
 <p>
 Satish nodded smugly and said, “So you agree we should lay low, right?”

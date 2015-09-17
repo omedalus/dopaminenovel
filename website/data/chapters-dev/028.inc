@@ -751,7 +751,7 @@ Still chuckling, Ivan said, “Yes, I sure you are. You working for Sergey. I kn
 The Bluetooth headset buzzed with the voices of Danny’s cohorts. “We can’t just sit here!” Tina insisted. Mike replied, “There’s only one option. Satish! Moshen! Have we finished isolating the X10 controllers?”
 </p>
 <p>
-Danny knew what his team was trying to do. With the gun still pressed to his chest, Danny mumbled, “I didn’t intend to be in the room for this. But I guess it doesn’t matter right now, does it?” He looked at Ivan defiantly and said, “So, are you ready to start making a deal?”
+Danny knew what his team was trying to do. With the gun still pressed to his chest, Danny mumbled, “I didn’t intend to be in the room for this. But I guess it doesn’t matter now, does it?” He looked at Ivan defiantly and said, “So, are you ready to start making a deal?”
 </p>
 <p>
 Ivan smirked. “<em>Deal</em>? Here making ‘deal’. We killing you soon, but not right now. First we having with you a little ‘conversation’. This man here, he is expert at having ‘conversations’ like this.” Ivan gestured to the lithe man holding the gun at Danny’s ribs. The man gave a shark-like grin and grunted happily. “You will telling us everything about where is Sergey and how you working with him. Then, when you done telling us, we finally letting you die. That is ‘deal’, understand?”
@@ -760,13 +760,10 @@ Ivan smirked. “<em>Deal</em>? Here making ‘deal’. We killing you soon, but
 In the earpiece, Satish said, “X10 packet injection check, receiver firmware mod check…” Mike pressed, “Then let’s do it already!”
 </p>
 <p>
-In the suite, Danny glared at Ivan defiantly, saying nothing.
+Ivan leaned toward Danny. “Ah, so quiet! You having no last words?”
 </p>
 <p>
-Ivan leaned toward him. “Ah, so quiet! You having no last words?”
-</p>
-<p>
-A wry, diabolical smile crept onto Danny’s face. His eyes twinkled with Machiavellian anticipation.
+A diabolical smile crept onto Danny’s face.
 </p>
 <p>
 In a blink, the room lights died. The suite went dark, save for the glow from the plasma TV. Its image flicked to a split screen. The left half displayed nothing but a few lines of black text in an enormous font:

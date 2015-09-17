@@ -81,13 +81,13 @@ Reality sucked.
 The words had escaped under his breath. All eyes turned to Danny. Brent’s jaw hung open.
 </p>
 <p>
-“I… sorry,” Danny said. “I was just… My mind was somewhere else.”
+“I… Sorry,” Danny said. “I was just… My mind was somewhere else.”
 </p>
 <p>
 Brent stepped in diplomatically. “Danny’s been working hard to put this slideshow together for you guys. He stayed up late last night giving it a final polish. He could probably use some coffee. Right, Danny?”
 </p>
 <p>
-Danny took the hint. As he escaped, he heard Brent resume the presentation.
+Danny took the hint. As he fled the room, he heard Brent resume the presentation.
 </p>
 <p>
 <span class="think">Reality sucks?</span>

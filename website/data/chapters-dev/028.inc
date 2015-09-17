@@ -544,7 +544,7 @@ The men murmured amongst one another. One said, “Maybe at some point. How the 
 “Rot in hell!” one screamed as he struggled, weakening, against the door.
 </p>
 <p>
-The man chuckled. He leaned on the glass, calmly said, “Let me know when you guys are ready,” and began whistling a cheerful, upbeat tune.
+The man chuckled. “Let me know when you guys are ready,” he said, and began whistling a cheerful tune.
 </p>
 </div>
 
@@ -559,7 +559,7 @@ The man chuckled. He leaned on the glass, calmly said, “Let me know when you g
 Tina’s voice replied on the line, “Tungsten placed the reservation, yes. But they didn’t pay. They gave us an International Bank Account Number corresponding to a private investment fund in Estonia. The IBAN begins with EENN BB24, and ends with 5177. Is this account associated with you?”
 </p>
 <p>
-“Yes, yes, yes,” Ivan mumbled, his breath hissing through his teeth. “Is payroll account for Consortium operations. How in Devil you get this bank number?”
+“Yes, yes, yes,” Ivan mumbled. “Is payroll account for Consortium operations. How in Devil you get this bank number?”
 </p>
 <p>
 “We attempted to bill that account, sir, but the charge wouldn’t go through.”
@@ -568,16 +568,10 @@ Tina’s voice replied on the line, “Tungsten placed the reservation, yes. But
 “Of course it not go through!” Ivan barked. “Not for you to charging me!” He stuttered, partly from his poor grasp of the language, partly from the chilly air. Ivan added, “Now hurry up and bringing someone to fixing cold! Air condition is going crazy!”
 </p>
 <p>
-Politely, Tina said, “We’re terribly sorry for the malfunction of your air conditioning, sir. We’re sending a repairman right away.”
+Politely, Tina said, “We’re terribly sorry for the malfunction of your air conditioning, sir. We’re sending a repairman right away. But about that bank account… There’s a problem that requires your immediate attention.”
 </p>
 <p>
-“You fixing right now!” said Ivan. “And you talking to the Tungsten about bill. Not me bothering with. Understand?”
-</p>
-<p>
-“Sir, about that bank account…” Tina said carefully. “There’s a problem with it that requires your personal immediate attention.”
-</p>
-<p>
-“My attention?” Ivan scoffed. “You know who I even? I not dealing with problems of money between banks. This for people I hire worrying about.”
+“<em>My</em> attention?” Ivan scoffed. “You know who I even? I not dealing with problems of money between banks. This for people I hire worrying about.”
 </p>
 <p>
 “Sir,” Tina said grimly, “the charge was blocked because the account has been frozen by Interpol.”
@@ -586,22 +580,16 @@ Politely, Tina said, “We’re terribly sorry for the malfunction of your air c
 “Frozen by Interpol?” Ivan repeated. “What this is meaning?”
 </p>
 <p>
-“I have a message here on my screen, sir,” Tina said. “‘Fund request declined due to Interpol law enforcement investigation in progress.’”
+“I have a message here on my screen,” Tina said. “‘Fund request declined due to Interpol law enforcement investigation in progress.’”
 </p>
 <p>
 “That is impossible!” Ivan howled.
 </p>
 <p>
-“Would you like me to call the bank, sir? I can talk to them right now.”
+“Do you have a computer with you?” asked Tina. “Can you access your account online? There may be additional information available on the bank’s website.”
 </p>
 <p>
-“Yes!” Ivan demanded.
-</p>
-<p>
-“Please wait while I try to reach them,” said Tina. “In the meantime, do you have a computer with you? Can you access your account online? There may be additional information available on the bank’s website.”
-</p>
-<p>
-Beneath grumbled Russian curses, Ivan tapped on a laptop keyboard. The Russian curses suddenly grew much louder. “I get mistake!” Ivan barked into the phone.
+Beneath grumbled Russian curses, Ivan tapped on a laptop keyboard. “I get mistake!” he barked into the phone.
 </p>
 <p>
 “You made a mistake?” Tina asked.
@@ -628,19 +616,7 @@ Beneath grumbled Russian curses, Ivan tapped on a laptop keyboard. The Russian c
 “Yes, I am right now log in,” said Ivan. “I see bank account as normal. No mistakes, no notes, no problems.”
 </p>
 <p>
-“I have an English-speaking account representative from the bank on the other line,” said Tina. “Let me talk to them for a minute. Please hold…” She returned after a minute of silence. “Sorry for the delay, sir. Apparently they froze the wrong assets. There is no Interpol investigation on your account after all. The freeze alert was simply a misunderstanding.”
-</p>
-<p>
-“Misunderstanding?” Ivan grumbled.
-</p>
-<p>
-“Yes, sir. The bank made a mistake.”
-</p>
-<p>
-“So is no problem?” he confirmed.
-</p>
-<p>
-“None at all, sir,” said Tina. “And as for the room charges, we’ll discuss the matter with Tungsten at our earliest opportunity. Don’t worry, sir &mdash; we will not bill your account without further clarification.”
+“I see, sir,” said Tina. “In that case, we’ll discuss the matter with Tungsten at our earliest opportunity. Sorry to concern you.”
 </p>
 <p>
 “Good, good. Now hurry to sending man to air condition fix!”
@@ -664,16 +640,16 @@ He put the cellphone away and picked up the large red toolbox on the concrete la
 With a deep breath that echoed off of the cinderblock walls, he opened an emergency exit door.
 </p>
 <p>
-He stepped out to a wide, elegant penthouse antechamber, with sparkling metallic walls and rich red carpet. One side of the room was a full plate window looking out at the nighttime skyline, adorned with leafy green plants in the corners. The door to the penthouse elevator sat closed next to the emergency exit on one end of the hallway. On the other, a large cedarwood double door stood ominously before him.
+He stepped out to a wide, elegant penthouse antechamber. One side of the room was a full plate window looking out at the nighttime skyline. The door to the penthouse elevator sat closed next to the emergency exit on one end of the passageway. On the other, a large cedarwood double door stood ominously before him.
 </p>
 <p>
-Danny walked slowly across the room. He shook his head and arms limply to try to force himself to relax, and tapped his knuckles on the door. He stood patiently, toolbox in hand, waiting for a response.
+Danny walked slowly across the room. He shook his head and arms limply to force himself to relax, and tapped his knuckles on the door. He stood patiently, toolbox in hand, waiting for a response.
 </p>
 <p>
-There was shouting in Russian from inside the room. After a few long moments, a lithe, aggressive man opened the door. He wordlessly bobbed his head to the side, motioning for Danny to come in.
+There was shouting in Russian. After a few long moments, a lithe, aggressive man opened the door. He wordlessly bobbed his head to the side, motioning for Danny to come in.
 </p>
 <p>
-The air in the suite was irritatingly cold. A fierce draft blew through the room, strong enough to make hair wave and clothes billow. The balcony’s French doors had been opened wide in an attempt to let out the cold. On the balcony, a few leather-jacketed men and barely-dressed women smoked and chatted in the outdoor air. Inside, a small group played <em>Call of Duty</em> on an enormous wall-mounted plasma TV in a sunken living room. On the glass coffee table, somebody had suspiciously thrown a hotel towel over a large crystalline bowl. Several other men stood in a small kitchen area or by a wide spiral staircase, eyeing Danny suspiciously. He saw no weapons out in the open, but he had no doubt they were close at hand.
+The air in the suite was irritatingly cold. A fierce draft blew strongly enough to make hair wave and clothes billow. The balcony’s French doors had been opened in an attempt to let out the cold. On the balcony, a few leather-jacketed men and barely-dressed women smoked and chatted in the outdoor air. Inside, a small group played <em>Call of Duty</em> on an enormous wall-mounted TV in a sunken living room. On the glass coffee table, somebody had thrown a hotel towel over a large crystalline bowl. Several other men stood in a small kitchen area or by a wide spiral staircase, eyeing Danny suspiciously. He saw no weapons out in the open, but he had no doubt they were close at hand.
 </p>
 <p>
 Danny looked around. No twelve-year-old girl was anywhere to be seen. He did, however, see Ivan Zheleznov.
@@ -682,19 +658,19 @@ Danny looked around. No twelve-year-old girl was anywhere to be seen. He did, ho
 The man descended the spiral staircase like a hawk swooping down on a field mouse. He wore a fine three-piece suit and slicked-back silver hair. Despite being the oldest and physically weakest man in the room, his presence imposed a greater sense of immediate peril than any of his bodyguards.
 </p>
 <p>
-“You come to fixing the air, yes?” he said loudly to Danny in a dry, gravelly, impatient voice.
+“You come to fixing the air, yes?” he said in a dry, gravelly, impatient voice.
 </p>
 <p>
-“Yes,” said Danny. He scanned the room carefully, memorizing the topology and mentally counting the mercenaries. He found the thermostat on the wall, walked up to it, and pretended to fiddle with it for a few seconds. “The thermostat looks fine. I think there’s a loose heating element somewhere near the sensor,” Danny bluffed. “I’ll need to check your ducts.”
+Danny found the thermostat on the wall, walked up to it, and pretended to fiddle for a few seconds. “The thermostat looks fine. I think there’s a loose heating element somewhere near the sensor,” Danny bluffed. “I’ll need to check your ducts.”
 </p>
 <p>
-He scanned the walls, and found an air vent near the ceiling. He marched toward it with as much bravado as he could muster, and pulled a chair over to the wall so he could stand on it for a closer look. The vent was about two feet wide and a foot tall. The frosty air blasted him in the face as he looked inside the vent’s faceplate, blowing around his helmet and across his ears. Holding his head level with the opening, he turned to check the view of the room. He could see most of the open downstairs area of the penthouse. This vent would serve him well.
+He scanned the walls, and found an air vent near the ceiling. He marched toward it with as much bravado as he could muster, and pulled a chair over to the wall so he could stand on it for a closer look. The vent was about two feet wide and a foot tall. The frosty air blasted him in the face as he looked inside the faceplate, blowing around his helmet and across his ears. Holding his head level with the opening, he turned to check the view of the room. He could see most of the open downstairs area of the penthouse. This vent would serve him well.
 </p>
 <p>
-With the help of a screwdriver from his toolbelt, he removed the grating over the opening. He spent several moments pretending to examine the dark interior of the air shaft.
+With the help of a screwdriver from his toolbelt, he removed the grating. He spent several moments pretending to examine the dark interior of the air shaft.
 </p>
 <p>
-“It, uh, looks like the ventorical airfoil router is jammed,” he said. He turned to study the expressions of the Russians, trying to gauge their reactions. They remained emotionless.
+“It, uh, looks like the ventorical airfoil router is jammed,” he said. He turned to study the expressions of the Russians. They remained emotionless.
 </p>
 <p>
 The rest of his work would have to be done by sleight-of-hand.
@@ -718,7 +694,7 @@ Danny said under his breath, “Every second I’m here is a second too long. Sa
 As he fiddled with the cover, the wind blowing from the air vent abruptly died. A quiet stillness fell upon the room. The men and women on the balcony peeked their heads in, wondering if the repairman was finished.
 </p>
 <p>
-“There we go,” said Danny as he climbed down from the chair. “Well, it appears my work here is done. Have a good day, gentlemen.” He gave Ivan a courteous nod. The balconyfolk began to file back inside.
+Danny climbed down from the chair. “Well, it appears my work here is done. Have a good day, gentlemen.” He gave Ivan a courteous nod. The balconyfolk began to file back inside.
 </p>
 <p>
 Danny’s instincts urged him to sprint out of the room, but he forced himself to maintain a professional facade. With toolbox in hand, he walked calmly toward the large cedarwood doors that stood between him and the penthouse anteroom. 
@@ -733,19 +709,19 @@ The sound was a metallic creak. It was followed by a clanking crash.
 He turned around.
 </p>
 <p>
-The rectangular air vent gaped exposed and uncovered in the wall, revealing a naked wad of Sticky Tack putty inside the shaft. On the floor beneath it, the faceplate lay upon the carpeting, beside a few loose screws. Near it was the small black wireless spycam.
+The air vent gaped exposed and uncovered in the wall, revealing a naked wad of Sticky Tack inside the shaft. On the floor beneath it, the faceplate lay upon the carpeting, beside a few loose screws. Near it was the small black wireless spycam.
 </p>
 <p>
 For one silent second, both Danny and Ivan stared dumbly at the pile, saying nothing.
 </p>
 <p>
-Danny bolted for the door as Ivan shouted orders to his men. Danny’s fingers reached for the handle, but before they made contact he was pulled backward by his shirt and hair. A wiry, muscular arm curled around his neck like a python, and he felt himself getting turned around and shoved back into the room. Someone behind him kicked him forward, toward the grey figure of Ivan Zheleznov.
+Danny bolted for the door as Ivan shouted orders to his men. Danny’s fingers reached for the handle, but before they made contact he was pulled backward by his shirt. A wiry, muscular arm curled around his neck like a python, and he felt himself getting turned around and shoved back into the room. Someone behind him kicked him forward, toward the grey figure of Ivan Zheleznov.
 </p>
 <p>
-The lithe, aggressive-looking man who had greeted Danny at the door earlier now stood next to Ivan. He pulled a small black semi-automatic from his pocket, and pressed it to Danny’s chest. Danny felt his heart beat against the barrel. The mercenary slowly walked Danny down the steps of the sunken living room, where Danny found himself surrounded by Ivan’s men. The video game on the large television was paused &mdash; and while the digital images of gunmen stood frozen on the screen, real ones pointed their weapons at him from all directions.
+The lithe man who had greeted Danny at the door earlier now stood next to Ivan. He pulled a small black semi-automatic from his pocket, and pressed it to Danny’s chest. Danny felt his heart beat against the barrel. The mercenary slowly walked Danny down the steps of the sunken living room, where Danny found himself surrounded by Ivan’s men. The video game on the large television was paused &mdash; and while the digital images of gunmen stood frozen on the screen, real ones pointed their weapons at him from all directions.
 </p>
 <p>
-In the Bluetooth earpiece, Mike said, “Danny! Danny, what’s happening?”
+In the Bluetooth earpiece, Mike said, “Danny! What’s happening?”
 </p>
 <p>
 Ivan hissed at him, “Do you thinking we are amateurs?”
@@ -757,7 +733,7 @@ Ivan hissed at him, “Do you thinking we are amateurs?”
 “A video camera bug in a air vent,” Ivan scoffed. “Is insult to the intelligence.”
 </p>
 <p>
-Danny squared his shoulders. He gulped hard, knowing that a convincing feint of bravado would be his only chance of survival. “I’m only here for the girl,” he said with as much strength as he could conjure. “Hand her over and no harm will come to you.”
+Danny squared his shoulders. He gulped hard, knowing that a convincing feint of bravado would be his only chance of survival. “I’m only here for the girl,” he said. “Hand her over and no harm will come to you.”
 </p>
 <p>
 Ivan burst out laughing. “No harm come to me?” The mercenaries joined Ivan in laughter.
@@ -766,13 +742,13 @@ Ivan burst out laughing. “No harm come to me?” The mercenaries joined Ivan i
 In the earpiece, Danny heard his team panicking. “Sergey! Bail him out! Bail him out right now!” said Mike. Sergey replied, “We are not anywhere nearby. Eugene is needing time to get into position. He must stall.”
 </p>
 <p>
-Danny stood his ground before Ivan, and said, “We’re willing to negotiate.”
+With as much strength as he could conjure, Danny said, “We’re willing to negotiate.”
 </p>
 <p>
-Still chuckling, Ivan said, “Yes, I sure you are. You working for Sergey. I know this already. It is surprising, really. This…” He gestured with the spycam. “This not style of Sergey. Sergey, he more like, ‘Rahhhh! March! Go!’ Punch, kick, boom boom boom. You understand? This, this is more thinking, more like the chess. Sergey was never man for the chess before. Not man for the poker, either. He more like man for, um, for the boxing, yes? For the wrestling. Maybe he learning something as he getting older. Is too bad having to end working together like this.”
+Still chuckling, Ivan said, “Yes, I sure you are. You working for Sergey. I know this already. It is surprising, really. This…” He gestured with the spycam. “This not style of Sergey. Sergey, he more like, ‘Rahhhh! March! Go!’ Punch, kick, boom boom boom. You understand? This, this is more thinking, more like the chess. Sergey was never man for the chess before. He more like man for, um, for the boxing, yes? Maybe he learning something as he getting older. Is too bad having to end working together like this.”
 </p>
 <p>
-The Bluetooth headset buzzed with the voices of Danny’s cohorts. “We can’t just sit here! They’re going to shoot him in there!” Tina insisted. Mike replied, “There’s only one thing we can do. Satish! Moshen! Have we finished isolating the X10 controllers?”
+The Bluetooth headset buzzed with the voices of Danny’s cohorts. “We can’t just sit here!” Tina insisted. Mike replied, “There’s only one option. Satish! Moshen! Have we finished isolating the X10 controllers?”
 </p>
 <p>
 Danny knew what his team was trying to do. With the gun still pressed to his chest, Danny mumbled, “I didn’t intend to be in the room for this. But I guess it doesn’t matter right now, does it?” He looked at Ivan defiantly and said, “So, are you ready to start making a deal?”

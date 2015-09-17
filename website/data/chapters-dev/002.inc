@@ -99,7 +99,7 @@ Danny took the hint. As he escaped, he heard Brent resume the presentation.
 
 <div class="chapsection">
 <p>
-<span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. It glowed with a shade of red slightly deeper than the visible spectrum: infrared. Every object in the universe emitted black-body radiation based on its temperature. Danny stared as he computed the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law; the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times…
+<span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. It glowed with a shade of red slightly deeper than the visible spectrum: infrared. Every object in the universe emitted black-body radiation based on its temperature. Danny mentally computed the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law: the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times…
 </p>
 <p>
 A vibration on his chest broke his trance. His cellphone signaled an incoming email. Judging by the time, Brent’s Q&amp;A had come to a close several minutes ago. The investors had probably cleared out by now and were already driving their Beamers and Lexi home.

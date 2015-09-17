@@ -468,40 +468,25 @@ The helmeted head of Leo the gunman peered down from the steps above.
 “What in the hell are you still doing here?” Leo said.
 </p>
 <p>
-“What are <em>you</em> doing here?” Danny, cowering by the corner of the stair railing, shrieked in reply.
+“What are <em>you</em> doing here?” Danny shrieked, cowering by the corner of the stair railing.
 </p>
 <p>
-Leo shuffled downward. “There were more of them upstairs!” he shouted as he moved, keeping his eyes and rifle trained on the door above.
+Leo shuffled downward. “There were more of them upstairs!” he shouted as he moved, keeping his eyes and rifle trained on the door above. He limped as he walked. His leg was bleeding badly.
 </p>
 <p>
-He limped as he walked. His leg was bleeding badly.
+The report of a handgun boomed through the stairwell. A bullet struck Leo’s side with a sharp smack. His armor stopped it from piercing his body, but the impact knocked him off his feet. He tumbled down the last few steps, falling hard on his back on a mid-floor landing. He swung his rifle toward the door, fired off a few rounds, and scrambled back upright. “Get out of here!” he yelled at Danny.
 </p>
 <p>
-The report of a handgun boomed through the stairwell. A bullet struck Leo’s side with a sharp, quick smack. His armor stopped it from piercing his body, but the impact knocked him off his feet. He tumbled down the last few steps, falling hard on his back on a mid-floor landing. Lying supine, he swung his rifle toward the door, fired off a few rounds, and scrambled back upright. “Get out of here!” he yelled at Danny.
+Danny hastily complied.
 </p>
 <p>
-Danny hastily complied. He bolted upright from his crouch, and set his legs in motion down the stairs.
-</p>
-<p>
-Gravity did most of the work for him. His body fell forward on its own; he just had to keep his feet moving to catch himself on each step. His ribs and shoulders jostled sloppily in a rough, break-neck rhythm. He kept one hand on the railing for balance, sliding it limply along the smooth metal. The flights melted into a whizzing blur before his eyes &mdash; a rapidly shifting kaleidoscope of gray stairs, of black railing, of dim yellowish emergency lights encased inside wire cages, of water pipes and fire alarms and unmarked doors.
+Gravity did most of the work for him. His body fell forward on its own; he just had to keep his feet moving. His ribs and shoulders jostled sloppily in a rough, break-neck rhythm. The flights melted into a whizzing blur before his eyes &mdash; a kaleidoscope of gray stairs, black railing, water pipes and fire alarms and unmarked doors.
 </p>
 <p>
 Behind him, footsteps echoed &mdash; the asymmetrical, injured footsteps of Leo only a couple floors away, and another set of footsteps somewhere farther behind him. The sounds of running were accompanied by the rattle of Leo’s rifle and the bang of a handgun above, answering one another like a fiery debate cast in brass and nitrocellulose.
 </p>
 <p>
-The voice of Moshen twanged in the earpiece. “What the fuck! Danny, is that you?”
-</p>
-<p>
-“Is what me?” He had lost track of which floor he was on.
-</p>
-<p>
-“The booms,” said Moshen. “I’m down here in the parking garage. There’s, like, gunshots or something coming from the emergency stairs. There aren’t any cameras in the fire escape, so none of us can see anything.”
-</p>
-<p>
-Natalie’s matronly voice appeared on the channel. “Danny, those shots are echoing all over the building. I can see people freaking out everywhere. They’re, like, staring at the emergency exits with ‘Holy shit’ faces.”
-</p>
-<p>
-“Danny!” Natalie barked. “Someone’s coming!”
+Natalie’s matronly voice appeared on the channel. “Danny, those shots are echoing all over the building. I can see people freaking out everywhere. They’re staring at the emergency exits with ‘Holy shit’ faces. Someone’s coming!”
 </p>
 <p>
 “What?” Danny said. “Who? Where?”
@@ -519,19 +504,13 @@ Natalie’s matronly voice appeared on the channel. “Danny, those shots are ec
 “What the fuck?” Danny screeched.
 </p>
 <p>
-“One’s pulling out something from her pocket,” Natalie added. “It’s black with something shiny attached. I can’t tell what. The other’s talking on his cellphone in one hand with his gun in the other.”
-</p>
-<p>
-“God damn it…!” Danny said, fighting panic. “Which floor are they on?”
-</p>
-<p>
-“I can’t tell,” said Natalie. “Every hallway looks the same in there… Danny, the woman looks like she’s getting ready to body-check the door. The dude’s holding back a few feet, like he’s giving her cover.”
+“One’s pulling out something from her pocket,” Natalie added. “It’s black with something shiny attached. I can’t tell what. The other’s talking on his cellphone in one hand with his gun in the other… Danny, the woman looks like she’s getting ready to body-check the door. The dude’s holding back a few feet, like he’s giving her cover.”
 </p>
 <p>
 “Well, Jesus… If they’re not with Sergey, and they’re not with Ivan,” Danny yelped, “then who the hell are they?”
 </p>
 <p>
-With a sudden crash that reverberated down the concrete walls, a fire door a few levels above slammed open. A woman’s voice rang out, “Freeze! Police!”
+With a sudden crash, a fire door a few levels above slammed open. A woman’s voice rang out, “Freeze! Police!”
 </p>
 <p>
 Danny held his breath.
@@ -540,16 +519,13 @@ Danny held his breath.
 “Put your weapons on the ground,” she commanded slowly, “and raise your arms above your heads! Both of you!”
 </p>
 <p>
-A man yelled, “Come on, you heard the lady! Don’t make this hard!”
+There were a few seconds of tense stillness, permeated by soft, pained, cough-like breathing. Danny gripped the railing tightly, holding every muscle taut, careful to avoid making a sound. He was a few landings below where the police had entered. <em>Both of you</em>, the woman had said, apparently referring to Leo and his attacker &mdash; meaning that they didn’t know Danny was below them. He willed himself to stay statue-like.
 </p>
 <p>
-There were a few seconds of tense stillness, permeated by soft, pained, cough-like breathing. Danny gripped the railing tightly, holding every muscle taut, careful to avoid making a sound. He was two landings below where the police had entered. <em>Both of you</em>, the woman had said, apparently referring to Leo and his attacker &mdash; meaning that they didn’t know Danny was below them. He willed himself to stay statue-like and silent.
+The man above said, “Come on, buddy! I don’t care how big your gun is or how much armor you got on. How far you think you’ll make it on that bum leg?”
 </p>
 <p>
-The man above said, “Come on, buddy! I don’t care how big your gun is or how much armor you got on. How far you think you’ll make it on that bum leg of yours?”
-</p>
-<p>
-A gentle tap indicated a gun being placed on the floor. The slow, quiet tread of rubber-soled shoes on concrete crunched down the stairs. It was followed by the ratcheting clicks of metal handcuffs.
+A gentle tap indicated a gun being placed on the floor. It was followed by the ratcheting clicks of handcuffs.
 </p>
 <p>
 The policewoman’s voice called out, “Hey, Mack! This guy took a two-twenty-three to the gut. He’s not doing too good.”
@@ -561,19 +537,13 @@ The male cop replied, “Yeah, mine took a shot to the knee. Calling for medical
 Danny heard the distinct static of a two-way radio. The device that Natalie had seen the cop speak into wasn’t a cellphone &mdash; it was a walkie-talkie.
 </p>
 <p>
-“Dispatch, come in, over,” said the man.
-</p>
-<p>
-A warble came from his radio unit in reply.
-</p>
-<p>
-“This is Detective Macintyre, with Detective Santello, on plainclothes investigation at the Medina Gallante hotel. We picked up a company van marked ‘Claymore Communications’ on the Medina neighborhood camera system, and gave it a routine tail. Dispatch, we’ve got a situation here…”
+“Dispatch, come in,” said the man. “This is Detective Macintyre, with Detective Santello, on plainclothes investigation at the Medina Gallante hotel. We picked up a company van marked ‘Claymore Communications’ on the Medina neighborhood camera system, and gave it a routine tail. Dispatch, we’ve got a situation here…”
 </p>
 <p>
 Leo interrupted. “I… need a bandage.”
 </p>
 <p>
-“You need a surgeon, pal,” the cop replied. “Don’t worry, help’s on the way. But first, there’s something I need to tell you.”
+“You need a surgeon, pal,” the cop replied. “But first, there’s something I need to tell you.”
 </p>
 <p>
 “What?” Leo moaned.
@@ -585,7 +555,7 @@ The cop answered, “You have the right to remain silent. Anything you say can a
 Below, Danny resumed descending the stairs, praying that the policeman’s voice would mask the sound of his movements.
 </p>
 <p>
-After two more floors, Danny found himself stepping onto the wide landing of the ground floor. To his side, the stairs continued downward to the parking garage. Ahead, a fire door stood between him and the maintenance corridor. He opened it gently, and stepped out of the dim stairwell and into the “HOTEL STAFF ONLY” hallway, lit by harsh white fluorescent tubes overhead.
+Danny soon found himself stepping onto the wide landing of the ground floor. To his side, the stairs continued downward to the parking garage. Ahead, a fire door stood between him and the maintenance corridor. He opened it gently, and stepped out of the dim stairwell and into the “HOTEL STAFF ONLY” hallway, lit by harsh fluorescent tubes overhead.
 </p>
 <p>
 “Cops,” he gasped into the Bluetooth as he softly closed the door behind him. “Jesus. Tina, this whole building is going to be crawling with law enforcement soon. Tell Sergey and Eugene. They’ll need to be ready for extraction before the cavalry arrives.”
@@ -597,10 +567,10 @@ Tina answered, “I lost them.”
 “‘Lost’ them?” Danny echoed.
 </p>
 <p>
-“Sergey’s connection went dead,” Tina said, “and Eugene is still on the channel but he isn’t responding. I don’t know what happened. None of us have any idea if they’re alive or dead up there.”
+“Sergey’s connection went dead,” Tina said, “and Eugene is still on the channel but he isn’t responding. None of us have any idea if they’re alive or dead up there.”
 </p>
 <p>
-Danny closed his eyes and rubbed his temples. “What a giant fucking mess.”
+Danny rubbed his temples. “What a giant fucking mess.”
 </p>
 <p>
 “At least you got out alive,” Tina consoled.
@@ -609,31 +579,19 @@ Danny closed his eyes and rubbed his temples. “What a giant fucking mess.”
 Danny’s throat felt tight. He stared at the door to the stairwell from which he’d just emerged. “We can’t just leave them up there. They have to know about Leo and the cops…”
 </p>
 <p>
-Satish chimed in, “Assuming they haven’t been killed already anyway.”
+Jason chimed in. “Danny, you can check up on Sergey and Eugene later. Right now you need to get to safety.”
 </p>
 <p>
-Jason added, “Exactly. Danny, you can figure out how to check up on Sergey and Eugene later. Right now you need to be getting yourself to safety.”
+Danny frowned sharply. “You’re right.” He looked down the drab hallway lined with plain gray doors. “I’ll go grab my HERF gun from the security office and join you on the yacht.”
 </p>
 <p>
-Danny frowned sharply. “You’re right,” he said with distaste. He looked down the drab hallway lined with plain gray doors. “I’ll go grab my HERF gun from the security office and join you on the yacht.”
-</p>
-<p>
-He strode down the corridor. It was silent, save for the faint hum of the fluorescent tubes in the ceiling.
-</p>
-<p>
-When he came to the security office and opened the door, he was greeted by the blissfully familiar sight of his energy weapon charging against the wall, its LEDs glowing green. Seeing his machine filled him with comfort and peace. This tool, designed by his own mind and assembled by his own hands, gave him some modicum of power and control in a chaotic, violent world filled with rough, strong, battle-scarred men &mdash; a world in which he didn’t belong.
-</p>
-<p>
-The wound on his shoulder ached as he reached down to unplug it. Danny remembered that he, too, bore scars of battle now.
+He strode down the corridor. It was silent, save for the faint hum of the fluorescent tubes in the ceiling. When he came to the security office and opened the door, he was greeted by the blissfully familiar sight of his energy weapon charging against the wall, its LEDs glowing green.
 </p>
 <p>
 Inside the room, an odd odor hung in the air: the acrid stink of burnt plastic. It was coming from deep inside the room, where the motley assortment of Gallante security guards and Russian gangsters sat bound with Eugene’s knotwork. From the doorway, Danny turned his head toward the collection of captives.
 </p>
 <p>
-The three towel-clad Russian mercenaries were free. One was hastily untying another, his own nylon cords lying undone at his feet. The third, his face suppressing grimaces of
-</p>
-<p>
-pain, was rubbing his wrists, which looked reddened and swollen. On the floor, between the trio of underdressed Russians and the stout Latina security guard, lay a cigarette lighter.
+The three towel-clad Russian mercenaries were free. One was hastily untying another, his own nylon cords lying undone at his feet. The third was rubbing his wrists, which looked reddened and swollen. On the floor, between the trio of underdressed Russians and the stout Latina security guard, lay a cigarette lighter.
 </p>
 <p>
 Their eyes were affixed on Danny. One of them growled a Russian word.
@@ -648,13 +606,10 @@ The three Russian mercenaries gave chase, each self-consciously keeping one hand
 Behind him, he heard the Russians gaining. He knew he’d never make it out of this hallway.
 </p>
 <p>
-A nondescript gray door passed on his side as he ran. With the rosy-skinned men only a few feet behind him, he grabbed the door’s handle and pushed it open, revealing a small, cramped janitor’s closet filled with mops and buckets and bottles of detergents. He hurled himself inside and slammed the door shut behind him. He dug his heels into the floor and pressed his back against the door, using the strength of his legs to keep the door shut as the naked Russians beat and kicked against the outside.
+A nondescript gray door passed on his side as he ran. With the men only a few feet behind him, he grabbed the door’s handle and pushed it open, revealing a small, cramped janitor’s closet filled with mops and detergents. He hurled himself inside and slammed the door behind him. He dug his heels into the floor and pressed his back against the door, using the strength of his legs to keep the door shut as the naked Russians beat and kicked against the outside.
 </p>
 <p>
-The room was completely dark. A sliver of light occasionally appeared as the Russians slammed their bodies against the door, showing metal shelves holding plastic jugs.
-</p>
-<p>
-“Janitor’s closet. What’s going to be in a janitor’s closet?” he said hurriedly. “Bleach. Windex. Toilet cleaner. Bleach is sodium hypochlorite. Toilet cleaner is going to be either sulfuric acid or sodium hydroxide, with buffers. Maybe with aluminum shavings. Windex is… Um… Fucking hell, I always sucked at chemistry…”
+“Janitor’s closet. What’s going to be in a janitor’s closet?” he said hurriedly. “Bleach. Windex. Toilet cleaner. Bleach is sodium hypochlorite. Toilet cleaner is going to be either sulfuric acid or sodium hydroxide, with buffers. Maybe with aluminum shavings…”
 </p>
 <p>
 A solid blow against the door almost knocked him off of his feet. He realized that, even if he could come up with something clever to do with the chemicals in the closet, actually doing it would require him to reach for the bottles around him &mdash; and that meant leaning away from the door.
@@ -669,7 +624,7 @@ Moshen answered him on the comm channel. “Danny. Those three guys… They’re
 “Yeah, Moshen, but…” Danny said despondently. “There’s three of them, and each one is twice my size. They’ll have no problem beating me to death with their bare hands.”
 </p>
 <p>
-Confidently, Moshen answered, “I’m like, right downstairs from you, in the parking garage. The stairs go right up to that hallway you’re in.”
+Confidently, Moshen answered, “I’m right downstairs from you, in the parking garage. The stairs go right up to that hallway you’re in.”
 </p>
 <p>
 “And?” Danny pressed.
@@ -678,13 +633,7 @@ Confidently, Moshen answered, “I’m like, right downstairs from you, in the p
 Moshen didn’t answer him. Instead, there was the sound of metallic clattering. “Sit tight, Danny!”
 </p>
 <p>
-“I’ve got nowhere to go, Moshen,” Danny said nervously. His muscles were beginning to give out. The periodic openings of the door were getting bigger. “Hey, Tina?” he said into his Bluetooth.
-</p>
-<p>
-“What is it, Danny?” her voice replied.
-</p>
-<p>
-Sorrowfully, he said, “Can you put us in a private channel? Just you and me?”
+“I’ve got nowhere to go, Moshen,” Danny said nervously. His muscles were beginning to give out. “Hey, Tina?” he said sorrowfully. “Can you put us in a private channel? Just you and me?”
 </p>
 <p>
 “Yeah…,” she said. Background static disappeared.
@@ -696,34 +645,31 @@ Sorrowfully, he said, “Can you put us in a private channel? Just you and me?�
 “Danny, come on…!” Tina protested. “You’ll think of a way out of this!”
 </p>
 <p>
-“I don’t think so.” His boots slipped along the floor as the strength in his legs faltered. “Now, look… I know you and I just met, like, literally yesterday… But I just… I just want you to know… Look, you know, people say, ‘Die with no regrets,’ right? And…”
+“I don’t think so.” His boots slipped along the floor as the strength in his legs faltered. “Now, look… I know you and I met literally yesterday… But I just… I want you to know…”
 </p>
 <p>
 He was interrupted by a loud wailing from the hallway outside, starting far down the corridor but quickly growing louder as it got closer. It was the sound of a young male voice screaming, “<em>Kyuuuuuaaaaaaaaah!</em>”
 </p>
 <p>
-There was a series of hard impacts, of grunts and smacks, of kicks in stomachs and fists in faces. Hands and heads crashed against the walls beside the closet door, accompanied by shouts of resistance and cries of pain. The pounding came to an abrupt stop. Finally, there was a crumpling thud against the floor, and then peace.
+There was a series of hard impacts, of grunts and smacks, of kicks in stomachs and fists in faces. Hands and heads crashed against the walls beside the closet door, accompanied by cries of pain. It lasted for barely half a minute, and came to an abrupt stop.
 </p>
 <p>
 Danny stood back. With shock and bewilderment, he let the door swing open.
 </p>
 <p>
-Moshen stood in the bright hallway. In both hands he held long, sturdy metal rods that Danny recognized as mounting brackets for microwave antenna assemblies, pulled from the back of the Claymore Communications van. He looked unhurt; he stood calmly just outside the closet door, breathing only slightly heavily. At the Asian kid’s feet, the three towel-clad Russian mercenaries lay face-down and unconscious, bleeding all over the floor.
+Moshen stood in the bright hallway. In both hands he held long, sturdy metal rods that Danny recognized as mounting brackets for microwave antenna assemblies, pulled from the back of the Claymore Communications van. He looked unhurt. At the Asian kid’s feet, the three towel-clad Russian mercenaries lay face-down and unconscious, bleeding all over the floor.
 </p>
 <p>
 “Moshen?” Danny gasped. “What the hell…?”
 </p>
 <p>
-“Come on, Danny!” said Moshen cheerfully. “Grab your zap-gun and let’s go back upstairs. You said you wanted to tell Sergey about Leo and the cops, right?”
-</p>
-<p>
-Moshen began to walk away, beckoning for Danny to follow. The Asian kid’s sneakers left crimson stains on the floor in the Russian bodyguards’ blood.
+“Come on, Danny!” said Moshen cheerfully. “Grab your zap-gun and let’s go back upstairs. You said you wanted to tell Sergey about Leo and the cops, right?” He began to walk away, beckoning for Danny to follow.
 </p>
 <p>
 “How…” Danny stammered. “How did you… How did <em>you</em>…?”
 </p>
 <p>
-Moshen simply shrugged. “I told you when we first met, Danny: I know kung fu.”
+Moshen shrugged. “I told you when we first met, Danny: I know kung fu.”
 </p>
 </div>
 

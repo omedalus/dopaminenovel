@@ -96,7 +96,7 @@ Mike cooed back, “I could see myself as your Snugglewumpus!” They started ma
 Danny grabbed a mouse and hid their window. “Satish. Speaking of that back door, how’s our trojan coming?”
 </p>
 <p>
-“Good to go,” Satish replied. “I’ve sent you the executable. I found a weakness in the integration of their billing system. It was built by a different contractor than the security system. By themselves, both billing and security are pretty solid. But the connection between them is sloppy. I’ve got a rootkit ready. As soon as this program runs on a computer that accesses the Gallante’s billing system, I take complete control.”
+“I found a weakness in the integration of their billing system,” Satish replied. “It was built by a different contractor than the security system. By themselves, both billing and security are pretty solid. But their connection is sloppy. I’ve sent you a rootkit. As soon as this program runs on a computer that accesses the Gallante’s billing system, I take complete control.”
 </p>
 <p>
 Danny checked his DropBox account. A new file awaited him.
@@ -117,7 +117,7 @@ Moshen’s disembodied voice replied, “I’m parked on some side-street five m
 Moshen said, “Um…”
 </p>
 <p>
-On a tree-lined residential road somewhere in Seattle’s eastern suburbs, a boxy gray van marked “Claymore Communications” stood on the curb. Moshen sat in the driver’s seat, his thin arms hanging loosely from the steering wheel. To his right, Sergey Mukhayev stared brooding, his hulking form breathing tensely as he gazed into the night. Behind them, Leo adjusted the suppressor on his handgun while Eugene idly twirled a razor-sharp butterfly knife with deadly dexterity.
+On a tree-lined residential road somewhere in Seattle’s eastern suburbs, a boxy gray van marked “Claymore Communications” stood on the curb. Moshen sat in the driver’s seat, his thin arms hanging loosely from the steering wheel. To his right, Sergey Mukhayev stared brooding, his hulking form breathing tensely as he gazed into the night. Behind them, Leo adjusted the suppressor on his handgun while Eugene deftly twirled a butterfly knife.
 </p>
 <p>
 “I… can’t complain…” Moshen said.
@@ -147,7 +147,7 @@ She replied with a tired half-smile, “I’ve been Betty Crockering all day. FY
 “Which means…?” she repeated.
 </p>
 <p>
-“The Gallante’s phone switch plugs into a Cisco VoIP system,” Danny explained, “which Mike will try to control. And their security guards have walkie-talkies that use a trunked P25 digital radio system with an RTP cross-bridge, which Satish will take over. We can route all voice traffic to a SIP user agent on your terminal. And your professional experience coordinating Skype meetings gives you mastery of teleconferences controls…”
+“The Gallante’s phone switch plugs into a Cisco VoIP system,” Danny explained, “which Mike will control. And their security guards have walkie-talkies that use a trunked P25 digital radio system with an RTP cross-bridge, which Satish will take over. We can route all voice traffic to a SIP user agent on your terminal. And your professional experience coordinating Skype meetings gives you mastery of teleconferences controls…”
 </p>
 <p>
 “<em>Which means…?</em>”

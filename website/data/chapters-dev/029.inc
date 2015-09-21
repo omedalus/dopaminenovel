@@ -579,31 +579,19 @@ A nondescript gray door passed on his side as he ran. With the men only a few fe
 “Guys…” he said with a gulp. “I might have made a slight miscalculation…”
 </p>
 <p>
-Moshen answered him on the comm channel. “Danny. Those three guys… They’re unarmed, right?”
+Moshen answered him on the comm channel. “Danny! I see your sitch on camera! Sit tight!” There was the sound of metallic clattering.
 </p>
 <p>
-“Yeah, Moshen, but…” Danny said despondently. “There’s three of them, and each one is twice my size.”
-</p>
-<p>
-Confidently, Moshen answered, “I’m right downstairs from you, in the parking garage. The stairs go right up to that hallway you’re in.”
-</p>
-<p>
-“And?” Danny pressed.
-</p>
-<p>
-“Sit tight, Danny!” Moshen said. There was the sound of metallic clattering. 
-</p>
-<p>
-“I’ve got nowhere to go, Moshen,” Danny said nervously. His muscles were beginning to give out. “Hey, Tina?” he said sorrowfully. “Can you put us in a private channel? Just you and me?”
+“I’ve got nowhere to go, Moshen,” Danny said. His muscles were beginning to give out. “Hey, Tina? Can you put us in a private channel? Just you and me?”
 </p>
 <p>
 “Yeah…,” she said. Background static disappeared.
 </p>
 <p>
-“Listen,” he said. “It really doesn’t look good for me here…”
+“Listen… It really doesn’t look good for me here…”
 </p>
 <p>
-“Danny, come on…!” Tina protested. “You’ll think of a way out of this!”
+“Danny, come on!” Tina protested. “You’ll think of a way out of this!”
 </p>
 <p>
 “I don’t think so.” His boots slipped along the floor as the strength in his legs faltered. “Now, look… I know you and I met literally yesterday… But I just… I want you to know…”
@@ -615,16 +603,16 @@ He was interrupted by a loud wailing from the hallway outside, starting far down
 There was a series of hard impacts, of grunts and smacks, of kicks in stomachs and fists in faces. Hands and heads crashed against the walls beside the closet door, accompanied by cries of pain. It lasted for barely half a minute, and came to an abrupt stop.
 </p>
 <p>
-Danny stood back. With shock and bewilderment, he let the door swing open.
+Danny stood back, and let the door swing open.
 </p>
 <p>
-Moshen stood in the bright hallway. In both hands he held long, sturdy metal rods that Danny recognized as mounting brackets for microwave antenna assemblies, pulled from the back of the Claymore Communications van. He looked unhurt. At the Asian kid’s feet, the three towel-clad Russian mercenaries lay unconscious and bleeding.
+Moshen stood in the bright hallway. In both hands he held long, sturdy metal rods that Danny recognized as mounting brackets, pulled from the back of the Claymore Communications van. He looked unhurt. At the Asian kid’s feet, the three towel-clad men lay unconscious and bleeding.
 </p>
 <p>
 “Moshen?” Danny gasped. “What the hell…?”
 </p>
 <p>
-“Come on, Danny!” said Moshen cheerfully. “Grab your zap-gun and let’s go back upstairs. You said you wanted to tell Sergey about Leo and the cops, right?” He began to walk away, beckoning for Danny to follow.
+“Come on, Danny!” said Moshen cheerfully. “Grab your zap-gun and let’s go check on Sergey!” He began to walk away, beckoning for Danny to follow.
 </p>
 <p>
 “How…” Danny stammered. “How did you… How did <em>you</em>…?”
@@ -636,22 +624,22 @@ Moshen shrugged. “I told you when we first met, Danny: I know kung fu.”
 
 <div class="chapsection">
 <p>
-<span class="caplead">The penthouse antechamber was still</span> and silent. The carpeted floor and gilded walls were pocked and dented with bullet holes. Crimson smears of fresh blood streaked across the metallic walls. Spent bullet casings glinted yellow amidst the deep red carpet. A few panes of the large plate-glass windows that looked out over the lake and city had been shattered by gunfire, filling the room with a gentle breeze. The large cedar doors of the Presidential Suite hung slightly ajar.
+<span class="caplead">The penthouse antechamber was silent</span>. The gilded walls were pocked and dented with bullet holes. Spent bullet casings glinted yellow on the red carpet. A gentle breeze flowed in through the shattered windows. The large cedar doors hung slightly ajar.
 </p>
 <p>
 Danny listened as he approached. From inside the suite came soft sounds of groaning, of coughing, of rattling breath. He used his HERF gun to prod the door open. The motion was not met with gunfire.
 </p>
 <p>
-Inside, casualties littered the suite. Bodies of mercenaries lay slumped over furniture, crumpled over the edge of the sunken living room or prostrate on the floor. Most of them weren’t dead &mdash; at least, not yet. They twitched and coughed and pressed their hands tightly against their wounds. One man had apparently dragged himself aimlessly across the floor; he lay limp at the end of a long, dark, wet trail, no longer breathing. The women seemed to have mostly avoided the gunfire. One stood alone in a corner with her arms crossed, glaring contemptuously at Ivan’s men as they lay dying. One held a mercenary in her arms as he struggled to breathe through a sucking chest wound. One was crying hysterically while another tried to offer her solace.
+Inside, casualties littered the room, slumped over furniture and crumpled on the floor. Most of the mercenaries weren’t dead &mdash; at least, not yet. They twitched and coughed and pressed their hands against their wounds. The women seemed to have mostly avoided the gunfire. One stood alone in a corner with her arms crossed, glaring contemptuously at Ivan’s men as they lay dying. Another held a mercenary in her arms as he struggled to breathe through a sucking chest wound.
 </p>
 <p>
-Danny squared his shoulders and entered the room. Bullet casings rolled on the hardwood beneath his feet. The air was filled with the acrid smell of gunpowder and the sharp organic stink of blood and other bodily humors. He and Moshen proceeded cautiously toward the wide, elegant spiral stairs, while Ivan’s mercenaries and concubines tracked them silently with their eyes. They slowly ascended to the second floor.
+Danny squared his shoulders and entered. The air was filled with the acrid smell of gunpowder and the sharp organic stink of blood and other bodily humors. He and Moshen proceeded cautiously toward the wide, elegant spiral stairs, while Ivan’s mercenaries and concubines tracked them silently with their eyes. They slowly ascended to the second floor.
 </p>
 <p>
 The stairs opened out to a wide carpeted floor, with a conference room on one side and a hallway of bedrooms on the other. The glass walls of the conference room were shattered. Bodies lay sprawled across a bullet-chipped table.
 </p>
 <p>
-From the bedrooms came the sound of a child’s sobbing.
+From the bedrooms came a child’s sobbing.
 </p>
 <p>
 The sound led Danny to an open doorway. The door itself lay flat on the floor, with torn chunks of wood hanging from its hinges. Inside, Sergey knelt beside a bed. His helmet and shield lay on the floor nearby. In his arms, he cradled a twelve-year-old girl.
@@ -666,7 +654,7 @@ Sergey noticed her eyes pointing at the doorway. He reacted by instantly swingin
 Danny dove to the floor. “Sergey, it’s me!”
 </p>
 <p>
-Sergey’s eyebrows curled quizzically. “Daniel?” He walked towards Danny slowly, lurching from one step to the next. Sergey’s face was expressionless, but streaks of tears ran along the sides of his nose. For a moment, he stood motionless, saying nothing. Then he grabbed Danny with both arms, and pulled him in for a crushing hug, almost tight enough to crack ribs. “Rosie, this is Daniel,” he said when he finally released him. “He is a good man.”
+Sergey’s eyebrows curled quizzically. “Daniel?” His face was expressionless, but streaks of tears ran along the sides of his nose. He walked towards him, saying nothing. Then he grabbed Danny with both arms, and pulled him in for a crushing hug, almost tight enough to crack ribs. “Rosie, this is Daniel,” he said when he finally released him. “He is a good man.”
 </p>
 <p>
 Danny waved to the young girl, but met Sergey’s eyes with a look of deep concern. “Sergey, listen… There are cops in the building. They arrested Leo. They’ll be all over the place soon.”
@@ -675,19 +663,19 @@ Danny waved to the young girl, but met Sergey’s eyes with a look of deep conce
 Sergey’s expression darkened. “Where is Eugene? He is downstairs, yes?”
 </p>
 <p>
-Danny shook his head. “I didn’t see him. And he’s not responding on his Bluetooth.”
+“I didn’t see him,” Danny said. “And he’s not responding on his Bluetooth.”
 </p>
 <p>
-Leading Rosie by the hand, Sergey pushed his way through the doorway past Danny. “Come on, we have to find him!” he said, and hurried across the hallway.
+Leading Rosie by the hand, Sergey pushed Danny aside and hurried out the doorway. “Come on, we have to find him!”
 </p>
 <p>
-When Danny caught up to him, he was crouched at the top of the stairs, with his MAC-10 in one meaty paw and Rosie’s small hand in the other. He scanned the suite from his high vantage point for any possible lingering threats. Suddenly, in a tone of horror, he screamed out, “<em>Zhenya!</em>” and ran heedlessly down the spiral staircase.
+When Danny caught up, he was crouched at the top of the stairs, with his MAC-10 in one meaty paw and Rosie’s small hand in the other. He scanned the suite from his high vantage point. Suddenly, in a tone of horror, he screamed, “<em>Zhenya!</em>” and ran down the staircase.
 </p>
 <p>
 Danny and Moshen exchanged quizzical glances. While Moshen stood upstairs with Rosie, Danny followed Sergey down the stairs.
 </p>
 <p>
-Sergey was in the sunken living room, kneeling on the floor over a fallen body. The coffee table was smashed. The couches were torn apart with bullets. The huge television was destroyed, its cracked green circuitboards peeking out from behind the shattered screen.
+Sergey was in the sunken living room, kneeling on the floor over a fallen body. The coffee table was smashed. The couches were torn apart. The huge television was destroyed, its cracked green circuitboards peeking out from behind the shattered screen.
 </p>
 <p>
 Eugene was lying face-down on the floor beside the broken coffee table.
@@ -696,16 +684,13 @@ Eugene was lying face-down on the floor beside the broken coffee table.
 “No, no…,” Sergey gasped, and felt for his nephew’s pulse.
 </p>
 <p>
-As Danny approached, he saw a deep dent in Eugene’s helmet. He had apparently taken a bullet to the head. The helmet had kept it from killing him, but the impact must’ve felt like a baseball bat to the skull.
-</p>
-<p>
-The prone man’s unconscious body was still moving &mdash; his hands and feet jerked with activity. As Danny drew nearer, he could clearly see that Eugene was still breathing.
+As Danny approached, he saw a deep dent in Eugene’s helmet. He had apparently taken a bullet to the head. The helmet had kept it from killing him, but the impact must’ve felt like a baseball bat to the skull. His hands and feet were twitching. As Danny drew nearer, he could see that Eugene was still breathing.
 </p>
 <p>
 In fact, he was breathing quite rapidly. Too rapidly.
 </p>
 <p>
-And then, a new smell hit Danny’s nostrils: a bitter, antiseptic, medicinal smell, with pungent hints of acetone. The odor hung thickly in the sunken living room, growing stronger as Danny came closer. Danny had come to know that smell only recently. It was the smell of cocaine.
+And then, a new smell hit Danny’s nostrils: a bitter medicinal smell, with pungent hints of acetone. The odor hung thickly in the sunken living room, growing stronger as Danny came closer. Danny had come to know that smell only recently. It was the smell of cocaine.
 </p>
 <p>
 Sergey gently turned Eugene’s head. Eugene’s cheeks and nose were encrusted in white powder. A thick heap of the drug lay strewn just beneath the man’s face. Less than a foot away, a crystal bowl lay shattered.
@@ -714,10 +699,10 @@ Sergey gently turned Eugene’s head. Eugene’s cheeks and nose were encrusted 
 Eugene had fallen face-down into the pile. Unconscious and helpless, he had lain there inhaling the stimulant.
 </p>
 <p>
-Sergey pulled the dented helmet away and pried open one of Eugene’s eyes. The pupils were so wide that the iris was invisible. The other eye opened in response, and the two enormous black dots darted back and forth in unison to survey the room. His face was pale and damp with sweat. His jaw was clenched tight.
+Sergey pulled the dented helmet away and pried open one of Eugene’s eyes. The pupils were so wide that the iris was invisible. The other eye opened in response, and the two enormous black dots darted back and forth in unison. His face was pale and damp with sweat. His jaw was clenched tight.
 </p>
 <p>
-Sergey propped Eugene to his feet. Violent spasms shook Eugene’s limbs. He tried to stand by his own strength, but his legs shuddered. Sergey held him upright and tentatively released him. Eugene balanced for a moment, then clutched his stomach and collapsed to his hands and knees. He began dry-heaving, his entire body racked by convulsions.
+Sergey propped Eugene to his feet. Violent spasms shook Eugene’s limbs. Sergey held him upright and tentatively released him. Eugene balanced for a moment, then clutched his stomach and collapsed to his hands and knees. He began dry-heaving.
 </p>
 <p>
 A thin, scared voice came from the stairs. “<em>Zhenya…?</em>” Rosie ran toward the living room.

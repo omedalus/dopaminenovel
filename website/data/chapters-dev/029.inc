@@ -717,7 +717,7 @@ Eugene slowly climbed back onto his unsteady feet. He began vigorously brushing 
 Danny looked at Moshen. “The cops have a medical team on the way. If we can get Eugene to them…” 
 </p>
 <p>
-Moshen nodded solemnly. He came down into the living room and gingerly put a hand on Eugene’s back. Eugene jumped into a defensive posture and began throwing wild, aimless punches in all directions. Moshen leaned away and waited for the flurry to finish, then gently coaxed him to follow. Eugene walked in jerky, halting steps, babbling rapidly. The two left the suite and headed toward the stairwell.
+Moshen came down into the living room and gingerly put a hand on Eugene’s back. Eugene jumped and began throwing wild, aimless punches. Moshen leaned away and waited for the flurry to finish, then gently coaxed him to follow. Eugene walked in jerky, halting steps, babbling rapidly. The two headed toward the stairwell.
 </p>
 <p>
 Danny came up to Sergey, who was still holding his daughter. “We need to haul our asses to the yacht, Sergey. The Claymore van is no good to us anymore &mdash; the Medina camera system will flag it the moment it hits the streets. But we can still make it to the boat.”
@@ -726,10 +726,7 @@ Danny came up to Sergey, who was still holding his daughter. “We need to haul 
 Slowly, Sergey turned toward him. His face was almost crimson with fury. His moist lips were curled in a teeth-baring grimace. Tears streamed from his eyes. He stepped away from Rosie, looked around the room, and roared something in Russian.
 </p>
 <p>
-All around him, the survivors of his rampage gazed at him with scared, silent faces.
-</p>
-<p>
-Sergey spun in place, meeting each of their eyes. At random, he picked a fallen bodyguard who still seemed conscious. He reached down with one hand, and pulled him up by the collar of his shirt. He screamed into the injured man’s face, spittle flying from his lips.
+All around him, the survivors of his rampage watched him with scared, silent faces. Sergey spun in place, meeting each of their eyes. At random, he picked a fallen bodyguard who still seemed conscious. He reached down with one hand, and pulled him up by the collar of his shirt. He screamed into the injured man’s face, spittle flying from his lips.
 </p>
 <p>
 The bodyguard gave him a weak shrug and shook his head.
@@ -744,13 +741,13 @@ Danny saw Sergey’s finger begin to clench on the trigger. “Sergey! What are 
 Sergey turned his face to Danny. In his field of vision, he saw Rosie looking back at him, watching him handle the wounded mercenary.
 </p>
 <p>
-Sergey pulled his gun away from the man’s neck and threw him gruffly back down to the ground. “He doesn’t know,” Sergey growled dismissively. “None of them know.”
+Sergey pulled his gun away and threw the man gruffly back down. “He doesn’t know,” he growled dismissively. “None of them know.”
 </p>
 <p>
 “Know what?” Danny asked.
 </p>
 <p>
-“Ivan!” Sergey roared. “He is here somewhere! I saw him slink away during fighting like a pathetic rat! He is here, and by God I swear he will pay, once and for all!” He walked up to Danny and stood uncomfortably close to him. With his eyes melting into pleading sorrow, he said in a hoarse voice, “Help me, Daniel. Help me to stop this man. Help me make this wretched curse I have lived under to finally end.”
+“Ivan!” Sergey roared. “He is here somewhere! I saw him slink away like a rat! He is here, and by God I swear he will pay, once and for all!” He walked up to Danny. With his eyes melting into pleading sorrow, he said in a hoarse voice, “Help me, Daniel. Help me to stop this man. Help me make this wretched curse finally end.”
 </p>
 <p>
 “Which way did you see him go?” Danny asked.

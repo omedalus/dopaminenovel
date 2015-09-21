@@ -570,28 +570,19 @@ Their eyes were affixed on Danny. One of them growled a Russian word.
 “Oh, God damn it,” Danny mumbled, and bolted.
 </p>
 <p>
-The three Russian mercenaries gave chase, each self-consciously keeping one hand on the white towel around his waist. Danny sprinted toward the door at the end of the corridor, which would lead him out to the hotel’s spacious lobby. Still dizzy from the flash grenade, he nearly tripped over his own feet. Like a nightmare, the exit seemed to recede farther with each step he took toward it.
+The mercenaries gave chase, each self-consciously keeping one hand on the white towel around his waist. Danny sprinted toward the door at the end of the corridor, which would lead him out to the hotel’s spacious lobby. Still dizzy from the flash grenade, he nearly tripped over his own feet. Like a nightmare, the exit seemed to recede farther with each step he took toward it. He knew he’d never make it out of this hallway.
 </p>
 <p>
-Behind him, he heard the Russians gaining. He knew he’d never make it out of this hallway.
+A nondescript gray door passed on his side as he ran. With the men only a few feet behind him, he grabbed the handle and pushed it open, revealing a small, cramped janitor’s closet filled with mops and detergents. He hurled himself inside and slammed the door behind him. He dug his heels into the floor and pressed his back against the door, using the strength of his legs to keep the door shut as the naked Russians beat and kicked against the outside.
 </p>
 <p>
-A nondescript gray door passed on his side as he ran. With the men only a few feet behind him, he grabbed the door’s handle and pushed it open, revealing a small, cramped janitor’s closet filled with mops and detergents. He hurled himself inside and slammed the door behind him. He dug his heels into the floor and pressed his back against the door, using the strength of his legs to keep the door shut as the naked Russians beat and kicked against the outside.
-</p>
-<p>
-“Janitor’s closet. What’s going to be in a janitor’s closet?” he said hurriedly. “Bleach. Windex. Toilet cleaner. Bleach is sodium hypochlorite. Toilet cleaner is going to be either sulfuric acid or sodium hydroxide, with buffers. Maybe with aluminum shavings…”
-</p>
-<p>
-A solid blow against the door almost knocked him off of his feet. He realized that, even if he could come up with something clever to do with the chemicals in the closet, actually doing it would require him to reach for the bottles around him &mdash; and that meant leaning away from the door.
-</p>
-<p>
-“Guys…” he said with a gulp. “I might have made a slight miscalculation here…”
+“Guys…” he said with a gulp. “I might have made a slight miscalculation…”
 </p>
 <p>
 Moshen answered him on the comm channel. “Danny. Those three guys… They’re unarmed, right?”
 </p>
 <p>
-“Yeah, Moshen, but…” Danny said despondently. “There’s three of them, and each one is twice my size. They’ll have no problem beating me to death with their bare hands.”
+“Yeah, Moshen, but…” Danny said despondently. “There’s three of them, and each one is twice my size.”
 </p>
 <p>
 Confidently, Moshen answered, “I’m right downstairs from you, in the parking garage. The stairs go right up to that hallway you’re in.”
@@ -600,7 +591,7 @@ Confidently, Moshen answered, “I’m right downstairs from you, in the parking
 “And?” Danny pressed.
 </p>
 <p>
-Moshen didn’t answer him. Instead, there was the sound of metallic clattering. “Sit tight, Danny!”
+“Sit tight, Danny!” Moshen said. There was the sound of metallic clattering. 
 </p>
 <p>
 “I’ve got nowhere to go, Moshen,” Danny said nervously. His muscles were beginning to give out. “Hey, Tina?” he said sorrowfully. “Can you put us in a private channel? Just you and me?”
@@ -627,7 +618,7 @@ There was a series of hard impacts, of grunts and smacks, of kicks in stomachs a
 Danny stood back. With shock and bewilderment, he let the door swing open.
 </p>
 <p>
-Moshen stood in the bright hallway. In both hands he held long, sturdy metal rods that Danny recognized as mounting brackets for microwave antenna assemblies, pulled from the back of the Claymore Communications van. He looked unhurt. At the Asian kid’s feet, the three towel-clad Russian mercenaries lay face-down and unconscious, bleeding all over the floor.
+Moshen stood in the bright hallway. In both hands he held long, sturdy metal rods that Danny recognized as mounting brackets for microwave antenna assemblies, pulled from the back of the Claymore Communications van. He looked unhurt. At the Asian kid’s feet, the three towel-clad Russian mercenaries lay unconscious and bleeding.
 </p>
 <p>
 “Moshen?” Danny gasped. “What the hell…?”

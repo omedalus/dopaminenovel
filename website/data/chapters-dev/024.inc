@@ -3,70 +3,55 @@
 <em><span class="caplead">Thump-Thump! Thump thump! thump thump!</span> Thump-thump thump thump thump-thump … </em>
 </p>
 <p>
-Danny vaguely recognized the rhythm.
+Danny vaguely recognized the music.
 </p>
 <p>
-His eyes opened slowly. The shadows cast by the sun through his bedroom window hinted at an hour well past noon.
+His eyes opened slowly. The angle of the daylight hinted at an hour well past noon.
 </p>
 <p>
-When he tried to sit up by propping himself on his elbows, he felt the long, stinging lance of pain across his upper back. He reached around to feel the shoulder wound, and remembered that his hand was still sensitive from the burn. His injuries served as unavoidable reminders of the horrors of the previous twenty-four hours.
+When he sat up, he felt the stinging lance of pain across his upper back. He reached to touch the shoulder wound, and remembered that his hand was still sensitive from the burn. His injuries served as unavoidable reminders of the horrors of the previous twenty-four hours.
 </p>
 <p>
-He also saw a trail of thin claw-marks dug lightly in his skin from his chest to his abdomen. He smiled. Not everything about the previous day had been so bad after all.
+He also saw a trail of thin claw-marks dug into his skin from his chest to his abdomen. He smiled. Not everything about the previous day had been so bad after all.
 </p>
 <p>
-<em>Thump thump! Thump-thump thump, thump-thump thump…</em>
+He stood up and donned pajamas. He took his time. He no longer had a job to worry about showing up late for. Most importantly, he had a brilliant and beautiful young woman playing <em>Dance Dance Revolution</em> in the next room.
 </p>
 <p>
-He recognized the rhythmic sound as sock-clad footsteps. The beats underscored the muted notes of cheerful, vibrant music, played with the volume turned low but nonetheless audible through the wall.
+As he opened the bedroom door, the stench of acetone and kerosene stung his nostrils. The kitchen still contained the cluttered trappings of an impromptu biochemical laboratory. Powders still lay spilt across the floor, and wires still protruded from behind the stove. Near the sink, he saw several new items: metal buckets with stirring rods alongside bottles of nail polish remover, industrial-strength drain cleaner, and heating oil.
 </p>
 <p>
-He slowly stood up and dressed himself in his pajamas. He took his time. He no longer had a job to worry about showing up late for. Most importantly, he had a brilliant and beautiful young woman in his house playing <em>Dance Dance Revolution</em> in the next room. With a goofy grin on his face, he headed out to join her.
-</p>
-<p>
-The moment he opened the bedroom door, the stench of acetone and kerosene wafted through the open door, filling his nostrils and stinging his eyes. The kitchen still contained the cluttered trappings of an impromptu biochemical laboratory. Salt, sugar, and amino acid powder still lay spilt across the floor, and wires still protruded from behind the stove. Near the sink, however, he saw several new items: metal buckets with stirring rods alongside bottles of nail polish remover, industrial-strength drain cleaner, and heating oil.
-</p>
-<p>
-From somewhere on his opposite side, the music and the thumping had stopped.
+The music and the thumping stopped.
 </p>
 <p>
 “If you see your shadow,” said Tina, “do we get six weeks more winter?”
 </p>
 <p>
-Danny turned to see her watching him from the living room as he leaned out from the bedroom doorway. She wore the previous day’s clothes. 
+“Good morning,” Danny said with a froggy voice as he emerged. He stretched his arms and ribs, his joints popping with the motion. “Or afternoon. How long was I out?”
 </p>
 <p>
-“Good morning,” he said with a froggy voice as he emerged. He stretched his arms and ribs, his joints popping with the motion. “Or afternoon. How long was I out?”
-</p>
-<p>
-“All day,” said Tina. “It’s almost three. I figured I’d let you sleep.”
-</p>
-<p>
-“I’m impressed you could figure out how to work my media center,” he said.
-</p>
-<p>
-“I got bored!” she said with a chipper lilt.
+“It’s almost three,” said Tina. “I was getting bored!”
 </p>
 <p>
 He bobbed his head toward the kitchen. “So… I happen to be absolutely starving. I see you’ve been cooking?”
 </p>
 <p>
-“Eating anything in here right now would be an astonishingly bad idea,” she replied.
+“Eating anything in here would be an astonishingly bad idea,” she replied.
 </p>
 <p>
-“Aww, darn. And here I was looking forward to a nice hearty meal of bacteria stew. How’s the broth doing, anyway?”
+“Aww, darn. And here I was looking forward to a nice hearty bacteria stew. How’s the broth doing?”
 </p>
 <p>
-Her mouth formed a boastful grin. She pointed to the stove and said with barely bridled excitement, “See for yourself.” 
+Her mouth formed a boastful grin. She pointed to the stove. “See for yourself!” 
 </p>
 <p>
-He followed her gesture and looked at the pot. Curious, Danny approached the stove. As he removed the lid, he noticed that the sweet, salty smell of the broth had been completely overtaken by a much stronger odor &mdash; the fetid stink of brackish swamp water, heavy with the acrid stench of decay. Inside the pot, the broth was a rancid yellowish-brown soup, thick with fatty blobs of viscous slime and strands of brown, grainy, congealed particles floating in the ooze.
+Danny approached the stove. As he removed the lid, he noticed that the sweet, salty smell of the broth had been completely overtaken by a much stronger odor &mdash; the fetid stink of brackish swamp water. Inside, the broth was a rancid yellowish-brown soup, thick with fatty blobs of viscous slime.
 </p>
 <p>
 “Looks delicious,” Danny said while suppressing a gag. He put the lid back on.
 </p>
 <p>
-Tina bounced toward the kitchen and stood behind the granite counter. “It’s in an exponential growth phase. As long as there are still nutrients, in a perfect broth the bacteria can double their population every half hour.”
+Tina bounced toward the kitchen and stood behind the granite counter. “It’s in an exponential growth phase. As long as there are still nutrients, the bacteria can double their population every half hour.”
 </p>
 <p>
 Danny worked the math. “So after ten hours, they’d double twenty times. Two to the twentieth is a million and change. So that tiny speck you started with has multiplied by a factor of over a million by now. That’s… a lot.”
@@ -78,34 +63,19 @@ Danny worked the math. “So after ten hours, they’d double twenty times. Two 
 Danny chuckled at her. “You’re kind of proud of yourself right now, aren’t you?”
 </p>
 <p>
-“Well, I damn well should be!” she replied. “Considering how amazing I am and everything! Seriously! I’ve been stuck behind a reception desk for almost two years, when the whole time what I’m really meant to be doing is <em>this</em>, this right here. Behold my awesome powers!” She lifted her head theatrically high and splayed her black-nailed fingers toward her face to emphasize her sheer fabulousness.
+“Well, I damn well should be!” she replied. “Considering how amazing I am and everything! Seriously! I’ve been stuck behind a reception desk for almost two years, when the whole time what I’m really meant to be doing is <em>this</em>, this right here. Behold my awesome powers!” She lifted her head theatrically and splayed her black-nailed fingers.
 </p>
 <p>
-Danny, laughing warmly and unable to take her eyes off of her, walked away from the foul-smelling pot and came around to join her on the opposite side of the kitchen counter.
+Danny walked up to her. She wrapped her arms around his pajama-clad waist. Her bright, joyful eyes looked welcomingly into his. “So, when will we know if it works?” he asked. “If it actually makes the… you know… the drug?”
 </p>
 <p>
-She wrapped her arms around his pajama-clad waist. Her bright, joyful eyes looked welcomingly into his.
+She tilted her head toward the kitchen counter. “We already do.”
 </p>
 <p>
-“So, when will we know if it works?” he asked in a low voice.
+Danny followed her gaze. Between the scattered glassware, he saw a small cleared area of his glossy granite countertop. There, standing out against the blackness, stretched several thin, delicate parallel lines of fine white powder. He slid reluctantly out of her embrace and leaned down to examine them closely. “Whoa…”
 </p>
 <p>
-“What do you mean?” she said softly.
-</p>
-<p>
-“Well, I mean, breeding bacteria is great,” said Danny, “but the whole point of these germs is the… you know… the drug. If we can’t extract it, it’s just plain <em>E. coli</em>, right? And that would mean that, this whole time, we’ve been getting used by shady corporate assholes and chased around by the Russian mob for something you can get by accident from Taco Bell. So, when will we get to test it? When will we get to know?”
-</p>
-<p>
-She tilted her head toward the kitchen counter and said, “We already do.”
-</p>
-<p>
-Danny followed her gaze. Between the scattered glassware and plastic bags and nutritional supplements, he saw a small cleared area of his glossy granite countertop. There, standing out in stark contrast against the blackness, stretched several thin parallel lines of fine white powder. They were narrow and wispy, and upon the black granite they looked like feathery clouds, magically illuminated against the inky sky of a moonless night.
-</p>
-<p>
-He slid reluctantly out of her embrace and leaned down to examine them closely. “Whoa…” he gasped, mindful to prevent his breath from disturbing the delicate rails.
-</p>
-<p>
-“I did some shopping this morning while you were asleep,” said Tina. She moved one of the metal buckets aside. Behind it, amongst the bottles of kerosene and acetone, was a large plastic jar of powdered glutamate. “I picked that up from Super Supplements. Everything else I found at Home Depot. I paid for everything with cash, so there’s no trail &mdash; you know, just in case the DEA can scan credit card records and flag anybody buying just the right combination of chemicals. I guess hanging out with you freaky hacker guys is teaching me a thing or two.”
+“I did some shopping while you were asleep,” said Tina. “I picked up some glutamate from Super Supplements. Everything else I found at Home Depot. I paid for everything with cash, so there’s no trail. I guess hanging out with you freaky hacker guys is teaching me a thing or two.”
 </p>
 <p>
 He turned away from the fresh narcotics on the counter and returned his full attention to the beautiful girl by his side. “You know something?” he said with a devilish grin.
@@ -117,13 +87,13 @@ He turned away from the fresh narcotics on the counter and returned his full att
 He put his hands on her waist. “I’m beginning to think,” he said, “that maybe you’re kind of smart. For a girl, anyway.”
 </p>
 <p>
-She drew herself closer to him and pressed her body against his. “You’re a dick,” she said with a sparkle in her eyes.
+She pressed her body against his. “You’re a dick,” she said with a sparkle in her eyes.
 </p>
 <p>
-Their lips met in a warm, passionate kiss that broke his mind free of the bonds of gravity. His heart raced. He deftly moved his mouth down the side of her neck.
+Their lips met in a kiss that broke his mind free of the bonds of gravity. His heart raced. He deftly moved his mouth down the side of her neck.
 </p>
 <p>
-In a voice made soft and breathy by her enjoyment of his ministrations, Tina asked him idly, “Have you ever tried it, by the way?”
+In a voice soft and breathy, Tina asked him, “Have you ever tried it, by the way?”
 </p>
 <p>
 Danny paused long enough to ask, “Tried what?” He resumed kissing his way down to her collar and slowly began unbuttoning her shirt.
@@ -132,10 +102,10 @@ Danny paused long enough to ask, “Tried what?” He resumed kissing his way do
 “Cocaine,” she answered.
 </p>
 <p>
-Danny pulled back slightly and shook his head. “Me? No. No way. Have you?”
+“Me? No. No way. Have you?”
 </p>
 <p>
-“Eh, I’ve indulged,” she said, her fingertips running softly along the back of his neck. “But I think my clubbing days are behind me.”
+“Eh, I’ve indulged,” she said, her fingertips running along the back of his neck. “But I think my clubbing days are behind me.”
 </p>
 <p>
 He took her head in his hand and turned it to one side to gain access to an earlobe. “What does it feel like?” he whispered between nibbles.
@@ -168,28 +138,16 @@ Danny and Tina looked at the door simultaneously, then at each other with matchi
 Tina shook her head.
 </p>
 <p>
-Danny headed toward the door. “That’s too bad. I really am famished.” He looked through the peephole.
+Danny headed toward the door. He looked through the peephole. There was nobody outside. “What the hell?” he mumbled. Confused, he flipped the deadbolt, turned the knob, and began pulling it open. “Hello…?”
 </p>
 <p>
-There was nobody outside.
+An immense dark blur spun out quickly from beside the door, outside the view of the peephole. In an instant, it hurled through the doorway. The figure’s momentum thrust the door back against Danny. He fell backward, landing hard on the smooth wood floor.
 </p>
 <p>
-“What the hell?” Danny mumbled. Confused, he unbolted the door, turned the knob, and began pulling it open. “Hello…?”
+He looked up to try to comprehend what had just happened.  What he saw was the long black barrel of a handgun pointed straight into his face. And on the other side of that gun, darkened to a silhouette in the light from the doorway, towered the massive shape of Sergey Mukhayev.
 </p>
 <p>
-An immense dark blur spun out quickly from beside the door, just beyond the view of the peephole. In an instant, it hurled through the doorway. The figure’s momentum thrust the door back against Danny. He fell backward, landing hard on the smooth wood floor.
-</p>
-<p>
-Hurt and stunned, with his ribs and tailbone smarting from the impacts, he looked up to try to comprehend what had just happened. 
-</p>
-<p>
-What he saw, from the vantage point of his hardwood floor, was the long black barrel of a handgun pointed straight into his face. And on the other side of that gun, darkened to a silhouette in the light from the doorway, towered the massive shape of Sergey Mukhayev.
-</p>
-<p>
-Danny found himself unable to breathe. His throat constricted to the point of nausea. With spastic motions of his elbows and feet, he scurried backwards.
-</p>
-<p>
-Sergey followed him as he tried to clumsily scuttle his way along the hardwood floor. The drug lord matched the pace of Danny’s flailing motions with his own slow, relentless footfall, advancing unstoppably like a stone golem. He kept the gun pointed squarely between Danny’s eyes as he marched into his home. Without taking his gaze off of Danny, the large Russian kicked the front door of the house closed behind him. 
+With spastic motions of his elbows and feet, he scurried backwards. Sergey followed him as he tried to clumsily scuttle along the hardwood floor, matching the pace of Danny’s flailing motions with his own slow, relentless footfall, advancing unstoppably like a stone golem. He kept the gun pointed squarely between Danny’s eyes as he marched into his home. Without taking his gaze off of Danny, the large Russian kicked the front door of the house closed behind him. 
 </p>
 <p>
 From somewhere far away, Tina screamed. There was some kind of rummaging commotion coming from the kitchen.
@@ -198,7 +156,7 @@ From somewhere far away, Tina screamed. There was some kind of rummaging commoti
 Sergey’s gaze momentarily broke away from Danny. The Russian looked toward Tina and said dismissively, “Put that down. You will only hurt yourself.”
 </p>
 <p>
-In the brief second of Sergey’s invasion, Tina had fled around the counter into the kitchen. She stood holding a large, sharp knife with both hands, pointing it at Sergey with as much courage and menace as she could muster. Unfortunately, this was not a lot.
+In the brief second of Sergey’s invasion, Tina had fled around the counter into the kitchen. She stood holding a large, sharp knife with both hands, pointing it at Sergey with as much courage and menace as she could muster &mdash; which was not a lot.
 </p>
 <p>
 The hulking Russian ignored her. He towered over Danny like an enraged colossus and snarled, “Get up!”
@@ -210,31 +168,28 @@ Danny whimpered.
 “I said stand up, you son of the bitch!” Sergey barked.
 </p>
 <p>
-Danny struggled to his feet. “How… How did you…” he stammered as he rose.
+Danny struggled to his feet. “How… How did you…”
 </p>
 <p>
-Sergey looked Danny in the eye, his lips curled and nostrils faring. Slowly, he stepped so close that Danny could feel his breath and smell his cologne and sweat.
+Sergey looked Danny in the eye, his lips curled and nostrils faring. He stepped so close that Danny could feel his breath and smell his sweat.
 </p>
 <p>
-The Russian’s hand shot out and grabbed Danny by the throat, and pinned him against the wall. Danny tried to yelp, but all that came out was a wheezing sound. He raised his hands to try to pry the meaty claw off of his neck, but the Russian’s grip was as rigid as a steel vise.
+The Russian grabbed Danny by the throat and pinned him against the wall. Danny tried to pry the meaty claw off of his neck, but the Russian’s grip was as rigid as steel.
 </p>
 <p>
-“You…” the Russian seethed. “It is all you! I am up in this ass because of you!”
+“You…” Sergey seethed. “It is all you! I am up in this ass because of you!”
 </p>
 <p>
-Danny’s vision grew watery and distorted as tears of pain and terror welled in his eyes. “I… I’m sorry!” he squeezed out, his voice distorted through his constrained larynx. “It was just a job…”
+Danny’s vision grew watery and distorted through tears of terror. “I… I’m sorry!” he squeezed out, his voice distorted through his constrained larynx. “It was just a job…”
 </p>
 <p>
-Sergey looked at Danny with an expression typically used for things stuck to the bottom of a shoe.
+Sergey looked at Danny with an expression typically used for things stuck to the bottom of a shoe. “You nearly killed my nephew. Twice,” he growled. “You tricked me into ordering lockdown. You blew up my factory, you got one of my soldiers killed, you got another badly wounded. And I am running out of cars!”
 </p>
 <p>
-“You nearly killed my nephew. Twice,” the Russian growled. “You tricked me into giving lockdown order to my workers. You blew up my factory, you got one of my soldiers killed, you got another badly wounded. And I am running out of cars!”
+The paw around Danny’s neck was pinching critical vascular anatomy. His vision started to fade &mdash; colors dimmed, and the world seemed to flatten. Sergey’s voice sounded like it came from an echoing distance.
 </p>
 <p>
-The paw around Danny’s neck was pinching critical vascular anatomy. No matter how hard his arteries throbbed, the flow of blood to his brain began to dwindle. His vision started to fade &mdash; colors dimmed, and the world seemed to flatten. Sergey’s voice sounded like it came from an echoing distance, growing steadily quieter.
-</p>
-<p>
- “I have no more contact with my men because of you. I have no army, no telephones, no cash flow. I have only one thing now. One thing. One thing I am left with.” Sergey shoved the end of the silencer against Danny’s chest. “You. I have you. And you do not look like much. But I know you are one clever, sneaky, slippery little shit. And, God willing, maybe that will be enough.”
+ “I have no more contact with my men because of you. I have no army, no telephones, no cash flow. I have only one thing now. One thing I am left with.” Sergey shoved the end of the silencer against Danny’s chest. “You. I have you. And you do not look like much. But I know you are one clever little shit. And, God willing, maybe that will be enough.”
 </p>
 <p>
 “What do you want from me?” Danny whispered, barely conscious. He could feel the silenced muzzle pressing into his ribs. It was shaking.
@@ -243,22 +198,22 @@ The paw around Danny’s neck was pinching critical vascular anatomy. No matter 
 And as Sergey looked into his eyes, Danny, with faltering sight, noticed something beyond the anger and contempt. Whether it was in the twitch of his lip or the crease of his brow, Danny sensed something deeply vulnerable in the large man’s face, far beneath the rage. Something scared and desperate.
 </p>
 <p>
-“I would love nothing more than to simply kill you right now, quick and clean and easy. But I need you,” said Sergey with a pained voice, “to save my daughter.”
+“I would love nothing more than to kill you right now, clean and easy. But I need you,” said Sergey with a pained voice, “to save my daughter.”
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">Danny dropped hard into the chair</span> at the computer desk in his bedroom. The ergonomic air-springs bounced beneath him.
+<span class="caplead">Danny dropped hard into the chair</span> at the computer desk in his bedroom. The air-springs bounced beneath him.
 </p>
 <p>
-Sergey, standing behind him with gun in hand, leaned down over his shoulder close enough for him to feel the Russian’s breath on his neck. Sergey said slowly into his ear, “We will have no funny business. I know you will find some sneaky way to use computer to call for help &mdash; you will try to type something smart that I won’t understand, yes? Well, let me tell you something. If I hear anybody come to this house… Anybody! Police. Friend. Neighbor. Newspaper delivery boy. Even stray cat. …Then I shoot you dead that moment. I will not even think about it. And then I will use her…” He gestured to Tina behind him, who sat tensely but passively on the edge of the bed nearby. “…as hostage for me to escape. I am being clear to you?”
+Sergey leaned down over his shoulder, and said slowly into his ear, “We will have no funny business. I know you will find some sneaky way to use computer to call for help &mdash; you will try to type something smart that I won’t understand, yes? Well, let me tell you something. If I hear anybody come to this house… Anybody! Police. Friend. Neighbor. Newspaper delivery boy. Even stray cat. …Then I shoot you dead that moment. I will not even think about it. And then I will use her…” He gestured to Tina behind him, who sat tensely but passively on the bed. “…as hostage for me to escape. I am being clear to you?”
 </p>
 <p>
 “Crystal,” Danny squeaked.
 </p>
 <p>
-Sergey warily eyed the windows on Danny’s large monitor. “What kind of <em>pryaklati</em> computer is this, anyway? It is not Windows, it is not Mac…”
+Sergey warily eyed the windows on Danny’s large monitor. “What kind of computer is this, anyway? It is not Windows, it is not Mac…”
 </p>
 <p>
 “It’s Ubuntu,” Danny answered.
@@ -273,13 +228,7 @@ Sergey grunted disapprovingly. “This is what computer hackers use?”
 The Russian snorted loudly. “Well then! Start it! Do the hacking!”
 </p>
 <p>
-Danny stared blankly at the screen, his hands poised over his keyboard. He opened and closed his mouth a few times. “It… Um… It’s not… It doesn’t work like that…”
-</p>
-<p>
-Sergey snarled, “It doesn’t work like what?”
-</p>
-<p>
-“You… You’ve got to give me something to go on,” Danny said nervously. “Some kind of lead. Some piece of information to start with. What’s her name? Where was she last seen? How old is she?”
+Danny stared blankly at the screen. “It… Um… It’s not… It doesn’t work like that… You’ve got to give me something to go on. Some kind of lead. What’s her name? Where was she last seen? How old is she?”
 </p>
 <p>
 “Twelve,” the Russian answered. “She was at her dancing school. Teachers said she left for lunch and never came back.”
@@ -291,28 +240,16 @@ Without thinking, Danny asked, “So she’s just cutting class?”
 As soon as he had said it, he flinched. He expected a fist to the temple and a loud Russian-accented lecture about how Sergey’s precious little angel was the sweetest, most well-behaved cherub in all of God’s Creation.
 </p>
 <p>
-Instead, what he heard was a stifled, pained chuckle. “I take it you have raised a daughter?” said Sergey, with what Danny swore was a hint of a smile.
+Instead, what he heard was a stifled, pained chuckle. “You have raised a daughter?” said Sergey, with what Danny swore was a smile.
 </p>
 <p>
 Danny shook his head.
 </p>
 <p>
-“It is true, she has cut class many time before,” the Russian said. “She is always trying to get away with everything. Just like her old man.”
+“It is true, she is always trying to get away with trouble,” the Russian said. “Just like her old man. But… There is a man in the city today. Old business colleague. Things went very bad between us many years ago. And in this business, when things go bad…” 
 </p>
 <p>
-“So, why do you think this time is different?” asked Danny.
-</p>
-<p>
-Sergey bowed his head. “There is a man in the city today,” he said darkly. “Old business colleague. Things went very bad between us many years ago. And in this business, when things go bad…” He absentmindedly rubbed the cross around his neck.
-</p>
-<p>
-“I see…,” Danny said, wincing.
-</p>
-<p>
-Quietly and emptily, more to himself than to Danny, the large Russian whispered, “She doesn’t deserve to suffer for my sins.”
-</p>
-<p>
-Danny opened a web browser. The plain white expanse of the Google search page dominated the computer’s screen. “Let’s start with the obvious,” said Danny, “This man who’s got your daughter. What’s his name?”
+“I see…,” Danny said, wincing. He opened a web browser. The plain white expanse of the Google search page dominated the computer’s screen. “Let’s start with the obvious. What’s this man’s name?”
 </p>
 <p>
 “He is called Ivan Zheleznov,” said Sergey. “In English, you write it ‘Z’, ‘h’…”
@@ -321,25 +258,19 @@ Danny opened a web browser. The plain white expanse of the Google search page do
 From behind them, on the bed, Tina suddenly said, “Wait, Iv&mdash;?” She cut herself off.
 </p>
 <p>
-They both turned to her. 
+They both turned to her. Sergey asked pointedly, “You have heard about him?”
 </p>
 <p>
-She glanced between the two of them. “Sorry. It’s nothing. Never mind.”
-</p>
-<p>
-Sergey focused on her. “You have heard about him?”
-</p>
-<p>
-Tina remained silent for several seconds, thinking. She stared intently at Sergey, studying his face and body language. Finally, she said, “Is he from Saint Petersburg? Super rich, right? Owns companies all over the world?”
+Tina hesitantly replied, “Is he from Saint Petersburg? Super rich? Owns companies all over the world?”
 </p>
 <p>
 “Yes!” said Sergey. “You know this man?”
 </p>
 <p>
-Tina turned to Danny and said, “He’s staying at the Medina Gallante, in the Presidential Suite.”
+Tina said, “He’s staying at the Medina Gallante, in the Presidential Suite.”
 </p>
 <p>
-Danny asked, “The big fancy lakeside hotel between Mercer and the 520 bridge? The one that looks like a gigantic ski lodge on steroids?”
+Danny asked, “The big fancy lakeside hotel between Mercer and the 520 bridge?”
 </p>
 <p>
 Tina nodded.
@@ -363,34 +294,25 @@ Tina nodded. “Yeah.”
 Sergey added, “You busted Eugene’s lip with old computer keyboard.”
 </p>
 <p>
-Tina turned her head away, looked upward innocently, and said, “Maybe.”
+Tina turned her head away, looked innocently upward, and said, “Maybe.”
 </p>
 <p>
 Danny browsed the hotel’s website. The screen showed a high-resolution slide show of large cedarwood rooms with floor-to-ceiling windows, a steak-and-seafood restaurant, and panoramas of mountains and evergreen forests.
 </p>
 <p>
-“Jesus Christ, this place is <em>sick</em>,” said Danny. “It’s got its own boat dock in Lake Washington &mdash; they let guests take their yachts out for a spin. …Authentic Finnish saunas in the gym … And a helicopter pad on the roof, for guests that prefer to fly in directly from Sea-Tac Airport on rental choppers.”
+“Christ, this place is <em>sick</em>,” said Danny. “It’s got its own boat dock in Lake Washington &mdash; they let guests take their yachts out for a spin. …Authentic Finnish saunas in the gym … And a helicopter pad on the roof, so guests can fly directly from Sea-Tac Airport on rental choppers.”
 </p>
 <p>
-Sergey nodded. “He is in Presidential Suite of this place right now?” He grabbed Danny by the arm. “Let’s go! We go to my home first, get weapons, get Eugene and Leo, then we get Rosie!”
+Sergey grabbed Danny by the arm. “He is in this place right now? Let’s go! We come to my home first, get weapons, get Eugene and Leo, then we get Rosie!”
 </p>
 <p>
-Danny struggled against his pull. “Jesus, no! Sergey, that’s suicide!”
-</p>
-<p>
-“Don’t be fucking coward,” Sergey snapped back.
-</p>
-<p>
-“I’m not being a coward, I’m looking at the facts!” Danny protested. “Look, the kind of people that stay at a hotel like this, they’re very high rollers. We’re talking ambassadors, heads of state, officers of multinational corporations… My point is, the security in a place like this is going to be absolutely state-of-the-art.”
+Danny struggled against his pull. “Jesus, no! Sergey, that’s suicide! Look, the kind of people that stay at a hotel like this, they’re very high rollers. We’re talking ambassadors, heads of state, officers of multinational corporations… My point is, the security in a place like this is going to be state-of-the-art.”
 </p>
 <p>
 “This does not scare me,” Sergey shrugged.
 </p>
 <p>
-“It should,” replied Danny. “Let me put it in perspective for you. This hotel is in the Medina neighborhood &mdash; one of the richest districts in the country, and all the money is from technology. Bill Gates’s house is there. Jeff Bezos &mdash; the guy who created Amazon &mdash; <em>his</em> house is there. You know what the security in this neighborhood is like? They have marine radar systems watching every single building along the shoreline to call out the coast guard if so much as a floating beach ball gets within 500 feet of anyone’s property. They have cameras on every street corner that use image recognition software to scan every car that drives through the neighborhood. If Fort Knox was rebuilt as a 21st-century residential neighborhood, it would be Medina, Washington.
-</p>
-<p>
-“And this is just what it’s like on <em>public</em> property. Inside that hotel, there’s going to be world-class physical security systems, full-time guards on staff, hotlines to SWAT teams, you name it. If you go in with guns blazing, you’ll be mowed down before you make it through the lobby.”
+“It should,” replied Danny. “Let me put it in perspective for you. This hotel is in the Medina neighborhood &mdash; one of the richest districts in the country, and all the money is from technology. Bill Gates’s house is there. Jeff Bezos &mdash; the guy who created Amazon &mdash; <em>his</em> house is there. They have marine radar systems watching every single building along the shoreline to call out the coast guard if so much as a floating beach ball gets within 500 feet of anyone’s deck. They have cameras on every street corner that use image recognition software to scan every car that drives through the neighborhood. And this is just what it’s like on <em>public</em> property. Inside that hotel, there’s going to be world-class physical security systems, full-time guards, hotlines to SWAT teams, you name it. If you go in with guns blazing, you’ll be mowed down before you make it through the lobby.”
 </p>
 <p>
 “So what do you suggest?” asked Sergey.
@@ -414,7 +336,7 @@ With his face buried in the screen, Danny said, “Guys, I think I have an idea.
 “What is your plan?” asked Sergey.
 </p>
 <p>
-“Well, the hotel’s security system must’ve been built by somebody, right?”
+“Well, the hotel’s security system must’ve been built by somebody…”
 </p>
 <p>
 Sergey paused for a moment. “This is your big idea? You just realize that somebody built hotel security system?”
@@ -428,11 +350,11 @@ Danny shook his head. “No… Look, the process by which people build things is
 </pre>
 
 <p>
-He scanned the results, dismissing most of them, investigating others. He altered the words used in the search query several times. He tried the Wayback Machine, the public result clips of LexisNexis, and a dozen different business blogs. After many silent minutes of searching, he found what he was looking for. Buried in a tech entrepreneur newsletter from several years prior, there appeared a short, indistinct blurb.
+He scanned the results, dismissing most of them, investigating others. He altered the search query several times. He tried the Wayback Machine, the public result clips of LexisNexis, and a dozen different business blogs. After many silent minutes of searching, he found what he was looking for. Buried in a tech entrepreneur newsletter from several years prior, there appeared a blurb.
 </p>
 
 <div class="computer email">
-SAN JOSE, CA &mdash; Carlos Gaeta, President of RockBox Digital Security Systems Co., is proud to announce the signing of a $7.2M contract with the luxury hotel Medina Gallante of Seattle, WA. RockBox will be providing a comprehensive package of digital security solutions, including full integration with the hotel’s reservation, billing, and access management systems.
+SAN JOSE, CA &mdash; Carlos Gaeta, President of RockBox Digital Security Systems Co., is proud to announce the signing of a $17.2M contract with the luxury hotel Medina Gallante of Seattle, WA. RockBox will be providing a comprehensive package of digital security solutions, including full integration with the hotel’s reservation, billing, and access management systems.
 <br/>
 <br/>
 </div>

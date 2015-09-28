@@ -527,10 +527,10 @@ Sergey interjected, “How is any of this helping get back my Rosie?”
 Danny moved his mouse cursor over a block of text. The line under the cursor read, “<span class="computer">Medina Gallante</span>”. 
 </p>
 <p>
-“See this folder?” he explained. “It contains all of RockBox’s digital assets for the Gallante account. It’s got PDFs of the Gallante’s floor plans. User manuals for all of the security system components. And all of the source code for all of the software that runs the hotel &mdash; keycards, cameras, online reservation systems, credit card billing, room service notes, VOIP telephone dispatch, utility maintenance records…” He pulled a data stick out of a drawer of his desk and plugged it his computer. “It’s all here. And it’s all ours.”
+“See this folder?” he explained. “It contains all of RockBox’s digital assets for the Gallante account. It’s got PDFs of the Gallante’s floor plans. User manuals. And all of the source code for the software that runs the hotel &mdash; keycards, cameras, reservations, billing, utility maintenance records…” He pulled a data stick out of his desk and plugged it his computer. “It’s all here. And it’s all ours.”
 </p>
 <p>
-Sergey asked, “And with this you can get me into hotel, yes?”
+Sergey asked, “And with this you can get me into hotel?”
 </p>
 <p>
 “With this, we can perform whitebox analysis of their integrated security framework,” Danny explained. “If we can find an exploitable flaw anywhere in the code base, we might be able to take over the entire system. No code project is ever completely free of defects, especially not one with this many different components and built by this many different people. There has to be a chink somewhere in this armor. It’s just a matter of finding it.”

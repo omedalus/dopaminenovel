@@ -108,16 +108,16 @@ She grudgingly pulled the vial out of her purse and put it in his palm. Jason’
 Jason turned to his team. “Moshen. What have you been able to learn so far from that phone?”
 </p>
 <p>
-“Not a ton,” Moshen replied. “There’s as much English and Spanish as there is Russian in these emails. And my Spanish sucks, and the English is really, really bad English. It’s all ghetto slang and, like, innuendoes and shit.”
+“Not a ton,” Moshen replied. “There’s as much English and Spanish as there is Russian in these emails. And my Spanish sucks, and the English is really, really bad English. It’s all ghetto slang and innuendoes.”
 </p>
 <p>
-Jason nodded knowingly. “Spanish, and gangbanger English… Let me guess. All the Russian-language emails are among a small tight group of people, and it’s mostly talking about high-level strategy and probably a bunch of family matters, right? And then everything else is in Spanish and English, and it’s all very short and specific, mostly giving orders and demanding status reports.”
+Jason nodded knowingly. “Spanish, and gangbanger English… Let me guess. All the Russian-language emails are among a small group of people, and it’s mostly talking about high-level strategy and probably a bunch of family matters, right? And then everything else is in Spanish and English, and it’s all very short and specific, mostly giving orders and demanding status reports.”
 </p>
 <p>
 Moshen nodded. “…Yeah, I’d say that sums it up.”
 </p>
 <p>
-Danny chimed in. “Wait, I get it. Their inner circle is all the same Russian family. But their foot soldiers are just random thugs that they hire from around the neighborhood, and it’s these low-level employees, I guess, that do most of the day-to-day work.”
+Danny chimed in. “Wait, I get it. Their inner circle is all the same Russian family. But their foot soldiers are just random thugs that they hire from around the neighborhood, and it’s these low-level employees that do the day-to-day work.”
 </p>
 <p>
 Jason nodded. “Exactly. Moshen, do they say where they’re keeping her?”
@@ -132,22 +132,16 @@ Danny suggested, “You know, that phone has GPS…” He took the Pantech from 
 Jason looked at it. “Promising, but there’s over three dozen addresses in that history list. Can we narrow it down?”
 </p>
 <p>
-“Moshen,” said Danny. “Hop on Google Maps and start looking up these addresses, ok? They said they’re going to make her work at a factory or warehouse, right? Use Satellite View to check which of these are in industrial zones.” As Moshen got to work, Danny turned to Jason. “Assuming you do find this Julie girl, what’s your plan?”
+“Moshen,” said Danny. “Hop on Google Maps and start looking up these addresses. They said they’re going to make her work at a factory or warehouse. Use Satellite View to check which of these are in industrial zones.” As Moshen got to work, Danny turned to Jason. “Assuming you do find this Julie girl, what’s your plan?”
 </p>
 <p>
-Jason smiled. “To convince her to work for me, obviously.”
-</p>
-<p>
-Danny blinked a few times. “I’m guessing it isn’t <em>her</em> agreement you need to secure. If she’s being held in some mob warehouse somewhere, then she won’t be there alone. We can’t exactly just drive over there and ring the doorbell and be like, ‘Hi! We’re here to pick up the girl!’ Do warehouses even <em>have</em> doorbells?”
-</p>
-<p>
-Jason nodded. “It’ll be tricky. My plan is to find some low-ranking worker and bribe him.”
+“Bribery,” Jason answered. “Find some low-ranking worker and pay him to release Julie to us.”
 </p>
 <p>
 Danny shook his head. “It’d have to be one hell of a bribe, Jason. A guy like that could end up at the bottom of Puget Sound.”
 </p>
 <p>
-“Yeah, I’d have to make the payout big enough to be worth the risk,” Jason said sourly. “And besides, if they thought one of their own was on the take, all hell would break loose. I don’t know exactly what the Russian mafia’s disaster plan is for internal espionage, but I’ve seen what happens at companies when management thinks some employees might be secretly working for a competitor. It isn’t pretty.”
+“I admit it isn’t the best of stratgies,” Jason said sourly. “After all, if the mob thought one of their own was on the take, all hell would break loose. I don’t know exactly what’s the Russian mafia’s disaster plan for internal espionage, but I’ve seen what happens at corporations when management thinks some employees might be secretly working for a competitor. It isn’t pretty.”
 </p>
 <p>
 Danny looked away pensively. “What if…”
@@ -183,7 +177,7 @@ Mike furrowed his large brow. “Yeah, but we’re not supposed to do that. The 
 Danny grinned. “And why exactly is that?” 
 </p>
 <p>
-“Because open mail relays make the whole Internet a worse place,” Mike answered. “Spammers from all over the world constantly look for them. Open mail relays are where all those spam messages for penis enlargement pills and herbal Viagra and discount mortgages and shit come from.”
+“Because open mail relays make the whole Internet a worse place,” Mike answered. “Spammers from all over the world constantly look for them. Open mail relays are where all those spam messages for penis enlargement pills and herbal Viagra and discount mortgages come from.”
 </p>
 <p>
 “Yep. And <em>why</em> do spammers need open mail relays for that?” Danny asked.
@@ -249,19 +243,13 @@ Mary had a little lamb, whose fleece was white as snow.
 “What happens now?” asked Jason.
 </p>
 <p>
-“The message has to bounce around the intertubes for a bit,” said Mike. 
-</p>
-<p>
-“Does that take long?”
-</p>
-<p>
-In reply, the Pantech chirped. Mike glanced at the screen and proudly held it up to Danny. Danny took the phone with a look of exquisite approval. 
+In reply, the Pantech chirped. Mike glanced at the screen and proudly held it up for all to see. 
 </p>
 <p>
 Satish eyed Danny reproachfully. “What kind of plan is this, Danny? So, you can forge their emails. So what?”
 </p>
 <p>
-Danny replied, “Two words for you, Satish.”
+Danny replied, “Two words, Satish.”
 </p>
 <p>
 “And those would be…?” 
@@ -270,19 +258,13 @@ Danny replied, “Two words for you, Satish.”
 “Byzantine General.” 
 </p>
 <p>
-Everyone besides Danny and Satish exchanged quizzical glances.
+Everyone besides Danny and Satish exchanged quizzical glances. 
 </p>
 <p>
 “What about it?” Satish asked.
 </p>
 <p>
-“You know how to break a Byzantine army, right?” Danny goaded.
-</p>
-<p>
-“Sure. Yeah,” Satish countered. “What’s your point?”
-</p>
-<p>
-“Now that we can forge their emails, we can induce a Byzantine failure mode,” Danny replied.
+“You know how to break a Byzantine army, right?” Danny said. “Now that we can forge their emails, we can induce Byzantine failure.”
 </p>
 <p>
 “In what?” said Satish. “In their mailserver?”
@@ -294,10 +276,10 @@ Everyone besides Danny and Satish exchanged quizzical glances.
 Satish shook his head, aghast. “You’re insane.”
 </p>
 <p>
-“Yep!” Danny said proudly. Turning, he asked, “Moshen, do you have a street address for us?”
+“Yep!” Danny said. Turning, he asked, “Moshen, do you have a street address for us?”
 </p>
 <p>
-“I think so, Danny.” Moshen pivoted his laptop. A satellite image showed an overhead view of Seattle’s southward stretch of shipping yards lining the silty gray Duwamish River. “That looks like an industrial zone, right?”
+Moshen pivoted his laptop. A satellite image showed an overhead view of Seattle’s southward stretch of shipping yards lining the silty gray Duwamish River. “That looks like an industrial zone, right?”
 </p>
 <p>
 “Danny,” Jason asked, “what the hell is this Byzantine General thing?”

@@ -1,24 +1,15 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The mercenaries stared at the screen</span>, murmuring in Russian with Ivan and each other. Ivan barked at them, demanding order and obedience in a tone that transcended language.
+<span class="caplead">The mercenaries stared at the screen</span>, murmuring in Russian. Ivan barked at them, demanding order and obedience in a tone that transcended language.
 </p>
 <p>
 Danny chuckled.
 </p>
 <p>
-The sinewy, shark-toothed soldier bashed the butt of his handgun against Danny’s cheekbone. The blow sent Danny reeling sideways. The toolbox rattled in his grasp. But though he stumbled, he did not fall. And though the side of his face felt warm with blood, he did not scream.
+Ivan snorted. “Who are you? You are some kind of computer hacker man? You make trick with bank account on telephone, yes? It was something to do with you, I know. You think you so smart and sneaky. But I not afraid of you or your little tricks.”
 </p>
 <p>
-Ivan stepped toward him and leaned into his face. “You think you funny man, huh?”
-</p>
-<p>
-“I think the joke’s on you,” Danny replied.
-</p>
-<p>
-Ivan snorted. “Who are you? You are some kind of computer hacker man? You make trick with Interpol investigation on telephone, yes? It was something to do with you, I know. You think you so smart and sneaky, don’t you? But I not afraid of you or your little tricks.”
-</p>
-<p>
-Danny kept eye contact with him and said, in a voice cold as steel, “You should be.”
+Willing himself to maintain a facade of resolve, Danny said, “You should be.”
 </p>
 <p>
 Ivan turned around dismissively and began saying a few words in Russian to the men around him.
@@ -27,43 +18,34 @@ Ivan turned around dismissively and began saying a few words in Russian to the m
 Danny quickly interrupted him. “Don’t bother!” he shouted confidently to the mercenaries. “Don’t bother listening to him. He’s finished. As of right now, he has no money and no power. He’s not your boss anymore. He’s nothing but a poor, penniless old man.”
 </p>
 <p>
-The Russian kingpin stared at Danny through narrowed, wrinkly eyes. “You are such idiot,” he hissed. “You think that is all my money?” He pointed at the screen showing the bank balance. “That is the pocket change for me! That is one weekend gambling in Monaco! I have given away as a gift more than that! I owning mansion, two ships, and private jet plane, each one being worth more than that! You think you stealing this one account from me will be making me ‘penniless’? You are so stupid it is pathetic!”
+The Russian kingpin stared at Danny through narrowed, wrinkly eyes. “You are such idiot,” he hissed. “You think that is all my money?” He pointed at the screen showing the bank balance. “That is the pocket change for me! That is one weekend gambling in Monaco! I have given away as a gift more than that! You think you stealing this one account from me will be making me ‘penniless’?”
 </p>
 <p>
 “No,” Danny said slowly. “I’m not talking about the account. What I am talking about, Ivan, is your business ventures.”
 </p>
 <p>
-The television flashed. The image flipped away from the split-screen display of the hacked bank account, and cut to a large pie chart artistically superimposed on a density-colored map of Russia and Eastern Europe. One small pink wedge of the chart was marked with a pin-up silhouette of a high-heeled woman, while a slightly larger steel-gray wedge was adorned with an image of a handgun. A brown slice bearing a picture of a hypodermic needle and a green slice bearing a hemp leaf added to the circle. But by far the largest wedge, taking up well over half the pie, was colored white, and was annotated with a photograph of a pile of powdered cocaine.
-</p>
-<p>
-Under his breath, Danny whispered, “Thank you, Jason.”
-</p>
-<p>
-On the Bluetooth earpiece, Jason replied, “Survive now. Thank me later.”
+The television flashed. The image cut to a large pie chart artistically superimposed on a density-colored map of Russia and Eastern Europe. One small pink wedge of the chart was marked with a pin-up silhouette of a high-heeled woman, while a slightly larger steel-gray wedge was adorned with a handgun. A brown slice bearing a picture of a hypodermic needle and a green slice bearing a hemp leaf added to the circle. But by far the largest wedge, taking up over half the pie, was colored white, and was annotated with a pile of powdered cocaine.
 </p>
 <p>
 Ivan sneered at the screen. “What in Devil is that?”
 </p>
 <p>
-“You know what this is, Ivan,” said Danny. “And so do your men. This is how much of your gross revenue comes from your various operations. A little bit from prostitution. A little bit from arms trading. But the vast majority of your total income comes, of course, from drugs. And among drugs, your single highest-grossing product happens to be cocaine.
+“You know what this is, Ivan,” said Danny. “And so do your men. This is how much of your gross revenue comes from your various operations. A little from prostitution. A little from arms trading. But the majority of your total income comes, of course, from drugs. And among drugs, your single highest-grossing product is cocaine. Cocaine, in fact, is the only thing that keeps your aggregated portfolio cash-flow positive. And so it appears, Ivan, that you have made…” He paused. The screen cut to a photograph of a test tube filled with pale brown goo, overlaid on top of the stylized “W” that served as the logo for Tungsten Medical Technologies. “…a very poor investment decision.”
 </p>
 <p>
-“So, bearing in mind that your entire aggregated portfolio is only cash-flow positive because of cocaine,” Danny continued, “it appears that you, sir, have made…” He paused, which gave Jason a cue. The screen cut to a photograph of a test tube filled with pale brown goo, overlaid on top of the stylized “W” that served as the logo for Tungsten Medical Technologies. “…a very, very poor investment decision.”
+“Yes, Tungsten company. You know so little,” Ivan scoffed. “You call Tungsten bad investment because of big debts to old investors? I call it best investment I ever make. Tungsten finish their job very good. Now I have no use for anymore. Their old investors can have them, I no more caring.” He reached into his chest pocket and produced the small translucent smiley-faced Eppendorf vial. He held it smugly before him. “I have everything from them I needed.”
 </p>
 <p>
-“Yes, Tungsten company. You know so little,” Ivan scoffed. “You call Tungsten bad investment because of big debts to old investors? I call it best investment I ever make. Tungsten finish their job very, very good. Now I have no use for anymore. Their old investors can have them, I no more caring.” He slowly and proudly reached into his chest pocket and produced the small translucent smiley-faced Eppendorf vial. He held it smugly before him. “I have everything from them I needed.”
+Danny let the old Russian relish his self-satisfaction for a moment before saying, “There’s something I’d like to show you. It’s inside this toolbox I’m carrying here. May I open it?”
 </p>
 <p>
-Danny let the old Russian relish his self-satisfaction for a moment before saying to him, “There’s something I’d like to show you. It’s inside this toolbox I’m carrying here. May I open it?”
-</p>
-<p>
-Ivan spoke a few gruff words of Russian to a nearby bodyguard. The man marched up to Danny and yanked the metal box from his grasp. He set it down on the glass coffee table, keeping Danny close by. Ivan backed a good distance away, and the man cautiously unbuckled the clasps of the toolbox’s lid, and reached within.
+Ivan spoke a few gruff words to a nearby bodyguard. The man marched up to Danny and yanked the metal box from his grasp. He set it down on the glass coffee table, keeping Danny close by. Ivan backed a good distance away, and the man cautiously unbuckled the clasps of the toolbox’s lid, and reached within.
 </p>
 <p>
 Slowly, the bodyguard drew from the box a small translucent Eppendorf vial filled with pale brown goo.
 </p>
 <p>
-The other men crowded in to take a closer look. Their eyes shifted between the vial in Ivan’s hand and the one held by their comrade. The mercenaries spoke in quiet, wary tones to one another. One of the others reached for the toolbox.
+The other men crowded in to take a closer look. Their eyes shifted between the vial in Ivan’s hand and the one held by their comrade. The mercenaries spoke in wary tones to one another. One of the others reached for the toolbox.
 </p>
 <p>
 “Go ahead,” Danny said pleasantly. “Pass them around. I brought enough for everybody.”
@@ -78,22 +60,19 @@ And another.
 And another.
 </p>
 <p>
-The proud, self-satisfied smirk on Ivan’s face slowly sank as he watched his men &mdash; and the women too &mdash; milling around the toolbox. One by one, they each picked up and studied their very own replicas of Ivan’s priceless tube.
+The smirk on Ivan’s face slowly sank. “Bullshit! You full of bullshit!” he spat. “You filling with water from dirty toilet, and you pretending it is same thing as this one? You are sneaky piece of shit, hacker man! But we are not stupid. Those tubes you brought, they not real.”
 </p>
 <p>
-“Bullshit! You full of bullshit!” Ivan spat. “You filling with water from dirty toilet, and you pretending it is same thing as this one? You are sneaky piece of shit, hacker man! But we are not stupid. Those tubes you brought, they not real.”
+The image on the television screen flipped to a carefully arranged photograph of the kitchen in Danny’s own house. The pot filled with lysogeny broth sat prominently in the foreground, angled from the top to show its slimy, clumpy, rotting-looking contents. Next to it stood bottles of kerosene and acetone, alongside bowls and buckets encrusted on the inside with cocaine extraction by-products.
 </p>
 <p>
-For a moment, Danny said nothing. The image on the television screen flipped to a carefully arranged photograph of the kitchen in Danny’s own house. The pot filled with lysogeny broth sat prominently in the foreground, angled from the top to show its slimy, clumpy, rotting-looking contents. Next to it stood bottles of kerosene and acetone, alongside bowls and buckets encrusted on the inside with cocaine extraction by-products.
-</p>
-<p>
-“They’re completely real. You know they are,” Danny said firmly. “They’re cloned directly from that batch you’re holding in your hand. That’s why you had Tungsten create this bacterium in the first place, after all &mdash; to produce a source of cocaine that’s portable, durable, and easily replaced. Well, guess what, Ivan? You wanted ‘easily replaced’? You got it.
+“They’re completely real,” Danny said firmly. “They’re cloned directly from that batch you’re holding in your hand. That’s why you had Tungsten create this bacterium in the first place, after all &mdash; to produce a source of cocaine that’s portable, durable, and easily replaced. Well, guess what, Ivan? You wanted ‘easily replaced’? You got it.
 </p>
 <p>
 “You see, you’re a trader, Ivan. A businessman. You think in terms of investments, rates of return, buy low, sell high, yaddah yaddah. You saw this genetic engineering project as a chance to establish vertical integration &mdash; a way to control your entire supply chain, without having to depend on manufacturers in South America. It was a good idea, really &mdash; it would’ve allowed you to have lower margins than any other cocaine distributor in the entire world.
 </p>
 <p>
-“But, Ivan, you’ve clearly never invested in technology before. And that is where, as a businessman, you might have wanted to think a little harder. Take it from me, Ivan. I’ve been in the tech industry my entire life. I’ve seen how it works from the inside out. From a business point of view, it has certain aspects that are, shall we say, counterintuitive.
+“But, Ivan, you’ve clearly never invested in technology before. And that is where, as a businessman, you might have wanted to think a little harder. Take it from me, Ivan. I’ve been in the tech industry my entire life. I’ve seen how it works from the inside out. From a business perspective, it has certain aspects that are, shall we say, counterintuitive.
 </p>
 <p>
 “There’s a name for what you’ve done, Ivan. It’s called ‘disruptive innovation’. It’s a creation whose very existence completely changes the marketplace &mdash; and once it’s created, the world is never the same.”
@@ -102,7 +81,7 @@ For a moment, Danny said nothing. The image on the television screen flipped to 
 The screen filled with a collage of images: a printing press, a flint-lock firearm, a light bulb, a Model T Ford, an airplane, a nuclear explosion, an IBM mainframe computer, an iPhone. The photograph of the Eppendorf vial with the Tungsten logo floated in a corner.
 </p>
 <p>
-“Here’s the thing about working in technology,” Danny said. “You never know where your own place will be in the new world order that you yourself usher in. To create a new technology, you have to become an expert in the tech leading up to it &mdash; but then, when you build something that surpasses the contemporary state of the art, you make your own expertise obsolete. The skills that you spend your entire life honing &mdash; and you, along with them &mdash; are rendered defunct by your own hand.
+“When you work in technology,” Danny continued, “you never know where your own place will be in the new world order that you yourself usher in. To create a new technology, you have to become an expert in the tech leading up to it &mdash; but then, when you build something that surpasses the contemporary state of the art, you make your own expertise obsolete. The skills that you spend your entire life honing are rendered defunct by your own hand.
 </p>
 <p>
 “And you might think that you, as the innovator, might have some kind of natural position of merit, some kind of intrinsic value. But you’d be wrong. Instead, you find yourself at a competitive disadvantage against younger, fresher minds &mdash; minds that are uncluttered by knowledge of the derelict systems that you had to learn in order to replace; minds that are unhindered by the assumptions of what is and isn’t possible that you yourself helped overturn; minds that are born into a world that took you decades to forge. The youth that follow will only know the world you have made for them; they will never know the world you came from. The pinnacle of your achievements, the greatest heights to which you can climb, will for them be merely their starting point. They will take for granted your lifetime of work without ever understanding that there was a world before it. They’ll use your own accomplishments to leave you in the dust. The world moves on &mdash; and it does so because you <em>make</em> it move on. Because, as a technologist, that’s the whole point.
@@ -114,112 +93,103 @@ The screen filled with a collage of images: a printing press, a flint-lock firea
 On the television screen, the collage of inventions dimmed away.
 </p>
 <p>
-In its place appeared a YouTube video page. The frame showed the t-shirted torso of a young man sitting at a desk in a dark room, with a laptop on one side and a metal bucket on the other. His face was hidden behind a pale mask bearing the smug, self-satisfied countenance of Guy Fawkes, the subversive mascot of the Anonymous hacker collective. The video’s uploader handle identified him as “<span class="computer">Majestic Madness</span>”. The video’s title, “<span class="computer">Got a present from a stranger!</span>,” stretched across the top of the screen.
+In its place appeared a YouTube video page. The frame showed the t-shirted torso of a young man sitting at a desk in a dark room, with a laptop on one side and a metal bucket on the other. His face was hidden behind a pale mask bearing the smug countenance of Guy Fawkes, the subversive mascot of the Anonymous hacker collective. The video’s uploader handle identified him as “<span class="computer">Majestic Madness</span>”. The video’s title, “<span class="computer">Got a present from a stranger!</span>,” stretched across the top of the screen.
 </p>
 <p>
-“So, check this crazy shit,” he said from behind the mustachioed mask. His energetic voice sounded in its late teens or early twenties. “There’s this dude I know from the Maker meetup group. Older dude, like around 40. He DMed me this afternoon. He goes, ‘Let’s meet in private. There’s a message I need to get out.’ And at first I’m like, ‘Man, we’re not friends. We just see each other around. Stop being weird.’ But then he gets all real with me and says, ‘I know you’re with Anonymous. I have something relevant to your interests.’ So I’m like, alright, you’ve got my attention, I’ll take a chance. I invite him down to my lair. Well, he and a girl show up like ten minutes later. And they bring <em>this</em>…”
+“So, check this crazy shit,” he said from behind the mustachioed mask. His energetic voice sounded in its late teens or early twenties. “There’s this dude I know from the Maker meetup group. Older dude, like around 40. He DMed me this afternoon. He goes, ‘Let’s meet in private. There’s a message I need to get out.’ And at first I’m like, ‘Man, we’re not friends. We just see each other around. Stop being weird.’ But then he says, ‘I know you’re with Anonymous. I have something relevant to your interests.’ So I’m like, alright, you’ve got my attention, I’ll take a chance. I invite him down to my lair. Well, he and a girl show up like ten minutes later. And they bring <em>this</em>…”
 </p>
 <p>
-The Fawkes-faced young man held up a goo-filled Eppendorf vial, making it fill the entire frame.
+The Fawkes-faced young man held up a goo-filled vial.
 </p>
 <p>
-“So, obviously I’m like, ‘What’s that?’ He says, ‘It’s the next logical step for hackers. Hacking <em>computers</em> is retro. This is <em>bio</em>-hacking. This is hacking DNA.’ Turns out, the stuff in this tube is alive. It’s a micro-organism. Bacteria. And the girl walks me through super detailed step-by-step instructions for how to grow it &mdash; like sea monkeys, kinda. So we whip up a batch &mdash; it’s right here…” He gestured toward the bucket to his side. “…and he gives me a bunch of empty test tubes and says, ‘Spread this out to as many people as you can, and do it <em>fast</em>.’ And I’m like, ‘What the hell is this stuff? Why’s it so important?’ So, he says nothing, he reaches into his bag, and he pulls out…”
+“So, obviously I’m like, ‘What’s that?’ He says, ‘It’s the next logical step for hackers. Hacking <em>computers</em> is retro. This is <em>bio</em>-hacking. This is hacking DNA.’ The girl walks me through how to grow it &mdash; like sea monkeys, kinda. So we whip up a batch &mdash; it’s right here…” He gestured toward the bucket to his side. “…and he gives me a bunch of empty test tubes and says, ‘Spread this out to as many people as you can, and do it <em>fast</em>.’ And I’m like, ‘What the hell is this stuff? Why’s it so important?’ So, he says nothing, he reaches into his bag, and he pulls out…”
 </p>
 <p>
 The young man suddenly threw onto the desk a cellophane-wrapped brick of white powder.
 </p>
 <p>
-“Now, that, ladies and gentlemen, is exactly what it looks like. And this dude had like a dozen of them. That’s right, folks. This little tube of snot right here literally makes coke by the kilo.
+“Now, that, ladies and gentlemen, is exactly what it looks like. And this dude had like a dozen of them. That’s right, folks. This little tube of snot right here literally makes coke by the kilo. This is a straight-up game-changer, folks. You’re witnessing drug history in the making. This goop here turns the entire cocaine industry into a do-it-yourself project. Raising this stuff is easier than growing your own pot. It’s easier than brewing your own beer. And the results are so fucking good, you’d need your own island in Latin America to get anything even close.
 </p>
 <p>
-“This is a straight-up game-changer, folks. You’re witnessing drug history in the making. This goop here turns the entire cocaine industry into a do-it-yourself project. Raising this stuff is so simple it’s sick. It’s easier than cooking your own meth. It’s easier than growing your own pot. It’s easier than brewing your own beer. And the results are so fucking good, you’d have to have your own island in Latin America to get anything even close.
+“So, I’m calling out all my bros and sisters in the 206. Get your butts over here to Casa Majestic. This dude gave it to me, now I’m gonna give it to you. And then tomorrow you guys give it to others. And they’ll give it to others too. This shit’s about to go viral &mdash; pun intended. The revolution’s already started, it’s up to you to be part of it. See you soon, guys. This is Majestic Madness, over and out.”
 </p>
 <p>
-“So, I’m calling out all my bros and sisters in the 206. This dude wants this spread far and wide, and I couldn’t agree more. Get your butts over here to Casa Majestic. I’ll give you your own vial and show you what’s what. This dude gave it to me, now I’m gonna give it to you. And then tomorrow you guys give it to others. And they’ll give it to others too. This shit’s about to go viral &mdash; pun intended. Even if you don’t indulge in the white stuff yourself, getting in on action like this is too good an opportunity to miss. The revolution’s already started, it’s up to you to be part of it. See you soon, guys. This is Majestic Madness, over and out.”
-</p>
-<p>
-Underneath the video, the comments section of the page was abuzz with activity. The video had only been up for a few hours, and the comment count was already well into the quadruple digits.
+Underneath the video, the comment section’s count was already well into quadruple digits.
 </p>
 
 <div class="computer email">
-@irsi_isund fool, I got the whole PiMPHaxx crew at my house right now. we'll know by morning. come on over see for yurself, send me ur cell # and wel'll meet f2f. don't blame you for being skeptic, but this is the real deal.<br/>
+@irsi_isund fool, I got the whole PiMPHaxx crew at my house right now. we'll know by morning. come on over see for yurself. don't blame you for being skeptic, but this is the real deal.<br/>
 <strong>majesticmadness 8 minutes ago</strong><br/>
 <br/>
 HOLY SHIT NEAT!<br/>
 <strong>wilcobox 12 minutes ago</strong><br/>
 <br/>
-FAKE AND GAY get a life homo. theres no way thats real. do u know what it wuld mean if it was? im in ur town. u want me to believe its real show me in person or gtfo.<br/>
+FAKE AND GAY. theres no way thats real. do u know what it wuld mean if it was? im in ur town. show me f2f or gtfo.<br/>
 <strong>irsi_isund 14 minutes ago</strong><br/>
 <br/>
 me gusta!<br/>
 <strong>youcancallmegoddess 16 minutes ago</strong><br/>
 <br/>
-Yo bro bring that shit to Philly, stat!<br/>
+Yo bro bring that shit to Philly stat!<br/>
 <strong>linkopteryx47 17 minutes ago</strong><br/>
 <br/>
-Guys, I'm a bioengineering PhD student and to everyone saying this is bullshit, it actually looks pretty legit. It's absolutely possible with the right resources. @majesticmadness I'm at UC Davis, send me a sample when you get a chance, I'll message you so we can set up a safe drop. My advisor will bust a nut over this.<br/>
+Guys, I'm a bioengineering PhD student and to everyone saying this is bullshit, it's absolutely possible with the right resources. @majesticmadness I'm at UC Davis, send me a sample. My advisor will bust a nut over this.<br/>
 <strong>monicapetrelli 18 minutes ago</strong><br/>
 </div>
 
 <p>
-Danny nodded smugly. “And it’s not just on YouTube, you know. It’s on Twitter, it’s on IRC, it’s being sent around on text messages. People are contacting each other and cloning that bacterial strain as we speak. It grows quickly, easily, and reliably &mdash; that is, after all, what you created it for. There’s a hundred copies of that precious vial of yours floating around the city by now. In two days, there’ll be a thousand. In a week, there’ll be hundreds of thousands all across the country. You’ve created a living thing here, Ivan &mdash; in more ways than one. And do you know what a living thing does, by definition? It multiplies.
+“And it’s not just on YouTube, you know,” said Danny. “It’s on Twitter, it’s on IRC, it’s being sent around on text messages. People are contacting each other and cloning that bacterial strain as we speak. It grows quickly, easily, and reliably &mdash; that’s what you created it for. There’s a hundred copies floating around the city by now. In two days, there’ll be a thousand. In a week, there’ll be hundreds of thousands all across the country. You’ve created a living thing here, Ivan &mdash; in more ways than one. And do you know what a living thing does, by definition? It multiplies.
 </p>
 <p>
 “So, Ivan, the question you need to ask yourself is: What will this do to the market value of cocaine? Your single most profitable product? The only product that keeps your entire empire in the black? Well, you’re a businessman. You do the math.”
 </p>
 <p>
-The kingpin’s eyes flared open, the circles of his dark irises standing out starkly against the sclera. He butted past the lithe, wiry man holding the gun to Danny’s chest and grabbed Danny by the throat with one aging hand. “Undo this!” he snarled into Danny’s face.
+The kingpin’s eyes flared. He butted past the wiry man holding the gun to Danny’s chest and grabbed Danny by the collar. “Undo this!” he snarled into Danny’s face.
 </p>
 <p>
-Danny gave him a sweet, innocent smile. The weak pressure of the old man’s wrinkly fingers on his neck was rather unintimidating.
-</p>
-<p>
-“I can’t!” Danny said lightly. “It’s way, way out of my hands. Don’t you understand? The propagation of your little germ there isn’t caused by me or my allies. It’s caused by the nature of the product itself. The ubiquitous distribution of your creation was always going to happen anyway &mdash; I just made it happen sooner. Me, I’m just the… the catalyst. The enzyme. Ultimately, what you see on that screen there &mdash; the complete inversion of the drug market playing out right this very minute before our eyes &mdash; that’s <em>your</em> doing, not mine.
+Danny gave him a sweet, innocent smile. “I can’t! Don’t you understand? The propagation of your little germ there isn’t caused by me. It’s caused by the nature of the product itself. The ubiquitous distribution of your creation was always going to happen anyway &mdash; I just made it happen sooner. Me, I’m just the… the catalyst. The enzyme. Ultimately, what you see on that screen there &mdash; the complete inversion of the drug market playing out right this very minute before our eyes &mdash; that’s <em>your</em> doing, not mine.
 </p>
 <p>
 “Isn’t that what you wanted, Ivan? You set out to create a technology that you could use to liberate yourself from Columbian drug cartels. Well, guess what? Now that you’ve created it, that exact same technology can be used just as easily by anyone else to liberate themselves from <em>you</em>.
 </p>
 <p>
-“The truth is, Ivan, you should be proud of yourself. I truly mean that, without any sarcasm or snide insinuation. Oh sure, as a businessman, this might be an unmitigated disaster, of course. But as a technologist… As a technologist, Ivan, what you’ve done is what people like me dream of doing for our entire lives. You’ve changed the world. In fact, you’ve changed it so thoroughly that you no longer even have a place in it. You’ve pushed the world so far forward that it’s left you behind. You stand here now completely spent, having given to the world everything you have to offer. And now, all your talents, all your strength, all your efforts, everything that has enabled you to achieve this triumph &mdash; all of it, specifically <em>because</em> you’ve achieved it, is now useless. Obsolete and useless.
+“The truth is, Ivan, you should be proud of yourself. I truly mean that. Oh sure, as a businessman, this might be an unmitigated disaster. But as a technologist… As a technologist, Ivan, what you’ve done is what people like me <em>dream</em> of doing. You’ve changed the world. In fact, you’ve changed it so thoroughly that you no longer even have a place in it. You’ve pushed the world so far forward that it’s left you behind. You stand here now completely spent, having given to the world everything you have to offer. And now, all your talents, all your strength, all your efforts, everything that has enabled you to achieve this triumph &mdash; all of it, specifically <em>because</em> you’ve achieved it, is now useless. Obsolete and useless.
 </p>
 <p>
-“And you know what the real irony of your situation is? Finding yourself obsolete and useless? That’s <em>not</em> defeat. It’s the exact opposite: it’s how you know your mission’s been accomplished. It’s how you know you’ve achieved your own goals. Becoming obsolete and useless isn’t a hallmark of failure; it’s the pinnacle of victory. When you’ve used yourself up… When you’ve rendered yourself pointless by your own hand… When you feel your knees buckle from fatigue and you collapse, exhausted and weak and old, onto the dusty path along which you’ve been pushing the world, and you watch it roll away from you, propelled forward by the momentum you had spent your life imparting to it with all the passion and stamina that you could muster, and you watch the world recede toward the horizon carrying the next generation onward to a future you’ve made possible and yet you will never see… …Then! <em>Then</em> is when you can finally release your breath, when you can let your head drop down into the dirt with tears in your eyes and a smile on your lips, when you can finally rest; because <em>then</em> is when you know that you’ve succeeded.
+“And you know what the real irony is? Finding yourself obsolete and useless? That’s <em>not</em> defeat. It’s the exact opposite: it’s how you know your mission’s been accomplished. It’s how you know you’ve achieved your own goals. Becoming obsolete and useless isn’t a hallmark of failure; it’s the pinnacle of victory. When you’ve used yourself up… When you’ve rendered yourself pointless by your own hand… When you feel your knees buckle from fatigue and you collapse, exhausted and weak and old, onto the dusty path along which you’ve been pushing the world, and you watch it roll away from you, propelled forward by the momentum you had spent your life imparting to it with all the passion and stamina that you could muster, and you watch the world recede toward the horizon carrying the next generation onward to a future you’ve made possible and yet you will never see… …Then! <em>Then</em> is when you can finally release your breath, when you can let your head drop down into the dirt with tears in your eyes and a smile on your lips, when you can finally rest; because <em>then</em> is when you know that you’ve succeeded.
 </p>
 <p>
 “And, Ivan? You’ve succeeded.”
 </p>
 <p>
-On the television screen beside them, a map of the Seattle metropolis appeared. It was sprinkled with dozens of tiny pictures of the Eppendorf vial. The icons were packed into clusters in the University District, on Capitol Hill, in Belltown, in Pioneer Square &mdash; all high-density neighborhoods of young, technologically savvy urban professionals. A new vial icon popped onto the display in Fremont, then another on Beacon Hill, then another, then another. The map gradually zoomed out. Slowly, the icons began peppering West Seattle, then Lynnwood, then Burien, then Bellevue, then Redmond &mdash; and as Danny and Ivan and all the men and women in the room watched the screen, the little Eppendorf vials spread ever outward.
+On the television, a map of the Seattle metropolis appeared. It was sprinkled with dozens of tiny pictures of the Eppendorf vial. The icons were packed into clusters in the University District, on Capitol Hill, in Belltown, in Pioneer Square &mdash; all high-density neighborhoods of young, technologically savvy urban professionals. A new vial icon popped onto the display in Fremont, then another on Beacon Hill, then another, then another. The map gradually zoomed out. Slowly, the icons began peppering West Seattle, then Lynnwood, then Burien, then Bellevue, then Redmond &mdash; and as Danny and Ivan and all the men and women in the room watched, the little Eppendorf vials spread ever outward.
 </p>
 <p>
 The screen faded to black, momentarily casting the room into darkness. Then, just as suddenly as they had gone out, the suite’s recessed overhead lights flicked back to life. Ivan and his entourage blinked uncomfortably as their pupils adjusted.
 </p>
 <p>
-With a confused and disoriented tone, one of the mercenaries mumbled something in Russian to a few of his colleagues standing nearby. One of them gave a brief reply. Ivan furiously shouted something at both of them. The men in the room looked silently back and forth between Ivan and each other. After a moment of tense stillness, one of them began asking Ivan a question. Ivan answered him with vicious screaming.
+With a confused and disoriented tone, one of the mercenaries mumbled something to his colleagues. One of them gave a brief reply. Ivan furiously shouted something at both of them. The men in the room looked silently back and forth between Ivan and each other. After a moment of tense stillness, one of them began asking Ivan a question. Ivan answered him with vicious screaming.
 </p>
 <p>
 Danny calmly watched their interactions.
 </p>
 <p>
-Ivan glared at him. Coldly, he hissed, “You will regret what you have done! If all of this… these ‘tricks’ of yours… are for making me scared, making me feel weak, you making the big mistake. If you thinking I would letting this… letting this crime against me… if I…”
+Ivan glared at Danny. Coldly, he hissed, “You will regret what you have done! If you thinking I would letting this… letting this crime against me… if I…”
 </p>
 <p>
-Danny interrupted the Russian as he grasped for English words. “Actually, Ivan, I really don’t care what you think. These ‘tricks’ of mine, as you say… This presentation you just saw… Do you think <em>you</em> were the target audience? None of this was for you.” Danny slowly swept his arm around the room to gesture at the mercenaries and prostitutes of Ivan’s entourage. “It was for them.”
+Danny interrupted, “Actually, Ivan, I really don’t care what you think. This presentation you just saw… Do you think <em>you</em> were the target audience? None of this was for you.” Danny slowly swept his arm around the room to gesture at Ivan’s entourage. “It was for them.”
 </p>
 <p>
-They all looked back at Danny with expressions that spread across a wide spectrum, from contempt to curiosity to simply being impressed by his gall.
+The mercenaries and prostitutes all looked back at Danny with expressions that spread across a wide spectrum, from contempt to curiosity to simply being impressed by his gall.
 </p>
 <p>
-“What do you think, ladies and gentlemen?” Danny said to them. “Do you think this guy is going to be a stable employer for much longer? Do you think he’ll still be able to take you on private jets to luxury hotels around the world a month from now? Hook you up with an endless supply of corporate perks? Pay for your health insurance and a nice pension plan? If you ask me, your prospects with this guy don’t look promising.”
+“What do you think, ladies and gentlemen?” Danny said. “Do you think this guy is going to be a stable employer for much longer? Do you think he’ll still be able to take you on private jets to luxury hotels around the world a month from now? Hook you up with an endless supply of corporate perks? Pay for your health insurance and a nice pension plan? If you ask me, your prospects with this guy don’t look promising.”
 </p>
 <p>
-Danny whispered into his Bluetooth headset. By his command, the television flipped back to the website of Ivan’s Estonian bank, displaying his payroll account.
+The television flipped back to the website of Ivan’s Estonian bank, displaying his payroll account.
 </p>
 <p>
-“Now, as it so happens, I have an alternate proposal for all of you,” Danny continued. “You see the balance shown on that screen? Ivan might not think that’s a lot, but… Well, I know I sure wouldn’t mind having that much in ‘pocket change’. And Ivan might brag about his houses and jets and yachts now, but very soon he’s going to regard a wad of cash like this as nothing but a fond memory. So Ivan’s opinion is irrelevant. I didn’t come here to negotiate with him. I came here to negotiate with <em>you</em>.
-</p>
-<p>
-“So, here’s my deal. You guys bring Sergey’s daughter to me, unharmed. I will leave with her. None of you will follow us. And as soon as she and I are away from this hotel, my colleagues and I will take the money in this account and divide it up between each of you equally. We’ll transfer it to your own personal bank accounts directly, the moment she and I are at a safe distance. Count how many of you are in this room. Look at the numbers on the screen. Do the math.
+“Now, as it so happens, I have an alternate proposal for all of you,” Danny continued. “You see the balance shown on that screen? Ivan might not think that’s a lot, but… Well, I know I sure wouldn’t mind having that much in ‘pocket change’. And Ivan might brag about his wealth now, but very soon he’s going to regard a wad of cash like this as nothing but a fond memory. So Ivan’s opinion is irrelevant. I didn’t come here to negotiate with him. I came here to negotiate with <em>you</em> So, here’s my deal. You guys bring Sergey’s daughter to me, unharmed. As soon as she and I are away from this hotel, my colleagues and I will take the money in this account and divide it up between each of you equally. We’ll transfer it to your own personal bank accounts directly, the moment she and I are at a safe distance. Count how many of you are in this room. Look at the numbers on the screen. Do the math.
 </p>
 <p>
 “And as you consider my offer, bear something in mind. Each of you will only receive this money if both the girl and I walk out of here alive. If any one of you chooses to shoot me, you will not only be losing the cash for yourself; you will also be losing the cash for every one of your colleagues. Look around you. Decide whether or not that seems like a good idea.” Danny chose a soldier at random, looked him in the eye, and asked “What do you think?” He pivoted toward another and repeated, “What do <em>you</em> think?” He turned to face the lithe man holding the gun to him. “What about you?”
@@ -243,10 +213,10 @@ One of the other mercenaries in the room reluctantly spoke up.
 Ivan erupted in a torrent of sharp words. He railed at the speaker and all the other men in the room. His nostrils flared and spittle flew from his lips.
 </p>
 <p>
-In an instant, by an order from Ivan, a few of the men turned their guns away from Danny. They pointed them instead at the man who had spoken out. Taken by surprise, the man raised his arms and said something quick and apologetic.
+In an instant, by an order from Ivan, a few of the men turned their guns away from Danny. They pointed them instead at the mercenary who had spoken out. Taken by surprise, the man raised his arms and said something quick and apologetic.
 </p>
 <p>
-A man came to the speaker’s defense. He said something to one of the bodyguards still loyal to Ivan. The two began to argue. They pointed their guns at one another.
+Another man came to the speaker’s defense. He said something to one of the bodyguards still loyal to Ivan. The two began to argue. They pointed their guns at one another.
 </p>
 <p>
 There was more bickering, more tense discussion and hasty negotiation. More guns pivoted away from Danny and turned to bear down on each others’ wielders.
@@ -600,49 +570,28 @@ Their eyes were affixed on Danny. One of them growled a Russian word.
 “Oh, God damn it,” Danny mumbled, and bolted.
 </p>
 <p>
-The three Russian mercenaries gave chase, each self-consciously keeping one hand on the white towel around his waist. Danny sprinted toward the door at the end of the corridor, which would lead him out to the hotel’s spacious lobby. Still dizzy from the flash grenade, he nearly tripped over his own feet. Like a nightmare, the exit seemed to recede farther with each step he took toward it.
+The mercenaries gave chase, each self-consciously keeping one hand on the white towel around his waist. Danny sprinted toward the door at the end of the corridor, which would lead him out to the hotel’s spacious lobby. Still dizzy from the flash grenade, he nearly tripped over his own feet. Like a nightmare, the exit seemed to recede farther with each step he took toward it. He knew he’d never make it out of this hallway.
 </p>
 <p>
-Behind him, he heard the Russians gaining. He knew he’d never make it out of this hallway.
+A nondescript gray door passed on his side as he ran. With the men only a few feet behind him, he grabbed the handle and pushed it open, revealing a small, cramped janitor’s closet filled with mops and detergents. He hurled himself inside and slammed the door behind him. He dug his heels into the floor and pressed his back against the door, using the strength of his legs to keep the door shut as the naked Russians beat and kicked against the outside.
 </p>
 <p>
-A nondescript gray door passed on his side as he ran. With the men only a few feet behind him, he grabbed the door’s handle and pushed it open, revealing a small, cramped janitor’s closet filled with mops and detergents. He hurled himself inside and slammed the door behind him. He dug his heels into the floor and pressed his back against the door, using the strength of his legs to keep the door shut as the naked Russians beat and kicked against the outside.
+“Guys…” he said with a gulp. “I might have made a slight miscalculation…”
 </p>
 <p>
-“Janitor’s closet. What’s going to be in a janitor’s closet?” he said hurriedly. “Bleach. Windex. Toilet cleaner. Bleach is sodium hypochlorite. Toilet cleaner is going to be either sulfuric acid or sodium hydroxide, with buffers. Maybe with aluminum shavings…”
+Moshen answered him on the comm channel. “Danny! I see your sitch on camera! Sit tight!” There was the sound of metallic clattering.
 </p>
 <p>
-A solid blow against the door almost knocked him off of his feet. He realized that, even if he could come up with something clever to do with the chemicals in the closet, actually doing it would require him to reach for the bottles around him &mdash; and that meant leaning away from the door.
-</p>
-<p>
-“Guys…” he said with a gulp. “I might have made a slight miscalculation here…”
-</p>
-<p>
-Moshen answered him on the comm channel. “Danny. Those three guys… They’re unarmed, right?”
-</p>
-<p>
-“Yeah, Moshen, but…” Danny said despondently. “There’s three of them, and each one is twice my size. They’ll have no problem beating me to death with their bare hands.”
-</p>
-<p>
-Confidently, Moshen answered, “I’m right downstairs from you, in the parking garage. The stairs go right up to that hallway you’re in.”
-</p>
-<p>
-“And?” Danny pressed.
-</p>
-<p>
-Moshen didn’t answer him. Instead, there was the sound of metallic clattering. “Sit tight, Danny!”
-</p>
-<p>
-“I’ve got nowhere to go, Moshen,” Danny said nervously. His muscles were beginning to give out. “Hey, Tina?” he said sorrowfully. “Can you put us in a private channel? Just you and me?”
+“I’ve got nowhere to go, Moshen,” Danny said. His muscles were beginning to give out. “Hey, Tina? Can you put us in a private channel? Just you and me?”
 </p>
 <p>
 “Yeah…,” she said. Background static disappeared.
 </p>
 <p>
-“Listen,” he said. “It really doesn’t look good for me here…”
+“Listen… It really doesn’t look good for me here…”
 </p>
 <p>
-“Danny, come on…!” Tina protested. “You’ll think of a way out of this!”
+“Danny, come on!” Tina protested. “You’ll think of a way out of this!”
 </p>
 <p>
 “I don’t think so.” His boots slipped along the floor as the strength in his legs faltered. “Now, look… I know you and I met literally yesterday… But I just… I want you to know…”
@@ -654,16 +603,16 @@ He was interrupted by a loud wailing from the hallway outside, starting far down
 There was a series of hard impacts, of grunts and smacks, of kicks in stomachs and fists in faces. Hands and heads crashed against the walls beside the closet door, accompanied by cries of pain. It lasted for barely half a minute, and came to an abrupt stop.
 </p>
 <p>
-Danny stood back. With shock and bewilderment, he let the door swing open.
+Danny stood back, and let the door swing open.
 </p>
 <p>
-Moshen stood in the bright hallway. In both hands he held long, sturdy metal rods that Danny recognized as mounting brackets for microwave antenna assemblies, pulled from the back of the Claymore Communications van. He looked unhurt. At the Asian kid’s feet, the three towel-clad Russian mercenaries lay face-down and unconscious, bleeding all over the floor.
+Moshen stood in the bright hallway. In both hands he held long, sturdy metal rods that Danny recognized as mounting brackets, pulled from the back of the Claymore Communications van. He looked unhurt. At the Asian kid’s feet, the three towel-clad men lay unconscious and bleeding.
 </p>
 <p>
 “Moshen?” Danny gasped. “What the hell…?”
 </p>
 <p>
-“Come on, Danny!” said Moshen cheerfully. “Grab your zap-gun and let’s go back upstairs. You said you wanted to tell Sergey about Leo and the cops, right?” He began to walk away, beckoning for Danny to follow.
+“Come on, Danny!” said Moshen cheerfully. “Grab your zap-gun and let’s go check on Sergey!” He began to walk away, beckoning for Danny to follow.
 </p>
 <p>
 “How…” Danny stammered. “How did you… How did <em>you</em>…?”
@@ -675,22 +624,22 @@ Moshen shrugged. “I told you when we first met, Danny: I know kung fu.”
 
 <div class="chapsection">
 <p>
-<span class="caplead">The penthouse antechamber was still</span> and silent. The carpeted floor and gilded walls were pocked and dented with bullet holes. Crimson smears of fresh blood streaked across the metallic walls. Spent bullet casings glinted yellow amidst the deep red carpet. A few panes of the large plate-glass windows that looked out over the lake and city had been shattered by gunfire, filling the room with a gentle breeze. The large cedar doors of the Presidential Suite hung slightly ajar.
+<span class="caplead">The penthouse antechamber was silent</span>. The gilded walls were pocked and dented with bullet holes. Spent bullet casings glinted yellow on the red carpet. A gentle breeze flowed in through the shattered windows. The large cedar doors hung slightly ajar.
 </p>
 <p>
 Danny listened as he approached. From inside the suite came soft sounds of groaning, of coughing, of rattling breath. He used his HERF gun to prod the door open. The motion was not met with gunfire.
 </p>
 <p>
-Inside, casualties littered the suite. Bodies of mercenaries lay slumped over furniture, crumpled over the edge of the sunken living room or prostrate on the floor. Most of them weren’t dead &mdash; at least, not yet. They twitched and coughed and pressed their hands tightly against their wounds. One man had apparently dragged himself aimlessly across the floor; he lay limp at the end of a long, dark, wet trail, no longer breathing. The women seemed to have mostly avoided the gunfire. One stood alone in a corner with her arms crossed, glaring contemptuously at Ivan’s men as they lay dying. One held a mercenary in her arms as he struggled to breathe through a sucking chest wound. One was crying hysterically while another tried to offer her solace.
+Inside, casualties littered the room, slumped over furniture and crumpled on the floor. Most of the mercenaries weren’t dead &mdash; at least, not yet. They twitched and coughed and pressed their hands against their wounds. The women seemed to have mostly avoided the gunfire. One stood alone in a corner with her arms crossed, glaring contemptuously at Ivan’s men as they lay dying. Another held a mercenary in her arms as he struggled to breathe through a sucking chest wound.
 </p>
 <p>
-Danny squared his shoulders and entered the room. Bullet casings rolled on the hardwood beneath his feet. The air was filled with the acrid smell of gunpowder and the sharp organic stink of blood and other bodily humors. He and Moshen proceeded cautiously toward the wide, elegant spiral stairs, while Ivan’s mercenaries and concubines tracked them silently with their eyes. They slowly ascended to the second floor.
+Danny squared his shoulders and entered. The air was filled with the acrid smell of gunpowder and the sharp organic stink of blood and other bodily humors. He and Moshen proceeded cautiously toward the wide, elegant spiral stairs, while Ivan’s mercenaries and concubines tracked them silently with their eyes. They slowly ascended to the second floor.
 </p>
 <p>
 The stairs opened out to a wide carpeted floor, with a conference room on one side and a hallway of bedrooms on the other. The glass walls of the conference room were shattered. Bodies lay sprawled across a bullet-chipped table.
 </p>
 <p>
-From the bedrooms came the sound of a child’s sobbing.
+From the bedrooms came a child’s sobbing.
 </p>
 <p>
 The sound led Danny to an open doorway. The door itself lay flat on the floor, with torn chunks of wood hanging from its hinges. Inside, Sergey knelt beside a bed. His helmet and shield lay on the floor nearby. In his arms, he cradled a twelve-year-old girl.
@@ -705,7 +654,7 @@ Sergey noticed her eyes pointing at the doorway. He reacted by instantly swingin
 Danny dove to the floor. “Sergey, it’s me!”
 </p>
 <p>
-Sergey’s eyebrows curled quizzically. “Daniel?” He walked towards Danny slowly, lurching from one step to the next. Sergey’s face was expressionless, but streaks of tears ran along the sides of his nose. For a moment, he stood motionless, saying nothing. Then he grabbed Danny with both arms, and pulled him in for a crushing hug, almost tight enough to crack ribs. “Rosie, this is Daniel,” he said when he finally released him. “He is a good man.”
+Sergey’s eyebrows curled quizzically. “Daniel?” His face was expressionless, but streaks of tears ran along the sides of his nose. He walked towards him, saying nothing. Then he grabbed Danny with both arms, and pulled him in for a crushing hug, almost tight enough to crack ribs. “Rosie, this is Daniel,” he said when he finally released him. “He is a good man.”
 </p>
 <p>
 Danny waved to the young girl, but met Sergey’s eyes with a look of deep concern. “Sergey, listen… There are cops in the building. They arrested Leo. They’ll be all over the place soon.”
@@ -714,19 +663,19 @@ Danny waved to the young girl, but met Sergey’s eyes with a look of deep conce
 Sergey’s expression darkened. “Where is Eugene? He is downstairs, yes?”
 </p>
 <p>
-Danny shook his head. “I didn’t see him. And he’s not responding on his Bluetooth.”
+“I didn’t see him,” Danny said. “And he’s not responding on his Bluetooth.”
 </p>
 <p>
-Leading Rosie by the hand, Sergey pushed his way through the doorway past Danny. “Come on, we have to find him!” he said, and hurried across the hallway.
+Leading Rosie by the hand, Sergey pushed Danny aside and hurried out the doorway. “Come on, we have to find him!”
 </p>
 <p>
-When Danny caught up to him, he was crouched at the top of the stairs, with his MAC-10 in one meaty paw and Rosie’s small hand in the other. He scanned the suite from his high vantage point for any possible lingering threats. Suddenly, in a tone of horror, he screamed out, “<em>Zhenya!</em>” and ran heedlessly down the spiral staircase.
+When Danny caught up, he was crouched at the top of the stairs, with his MAC-10 in one meaty paw and Rosie’s small hand in the other. He scanned the suite from his high vantage point. Suddenly, in a tone of horror, he screamed, “<em>Zhenya!</em>” and ran down the staircase.
 </p>
 <p>
 Danny and Moshen exchanged quizzical glances. While Moshen stood upstairs with Rosie, Danny followed Sergey down the stairs.
 </p>
 <p>
-Sergey was in the sunken living room, kneeling on the floor over a fallen body. The coffee table was smashed. The couches were torn apart with bullets. The huge television was destroyed, its cracked green circuitboards peeking out from behind the shattered screen.
+Sergey was in the sunken living room, kneeling on the floor over a fallen body. The coffee table was smashed. The couches were torn apart. The huge television was destroyed, its cracked green circuitboards peeking out from behind the shattered screen.
 </p>
 <p>
 Eugene was lying face-down on the floor beside the broken coffee table.
@@ -735,16 +684,13 @@ Eugene was lying face-down on the floor beside the broken coffee table.
 “No, no…,” Sergey gasped, and felt for his nephew’s pulse.
 </p>
 <p>
-As Danny approached, he saw a deep dent in Eugene’s helmet. He had apparently taken a bullet to the head. The helmet had kept it from killing him, but the impact must’ve felt like a baseball bat to the skull.
-</p>
-<p>
-The prone man’s unconscious body was still moving &mdash; his hands and feet jerked with activity. As Danny drew nearer, he could clearly see that Eugene was still breathing.
+As Danny approached, he saw a deep dent in Eugene’s helmet. He had apparently taken a bullet to the head. The helmet had kept it from killing him, but the impact must’ve felt like a baseball bat to the skull. His hands and feet were twitching. As Danny drew nearer, he could see that Eugene was still breathing.
 </p>
 <p>
 In fact, he was breathing quite rapidly. Too rapidly.
 </p>
 <p>
-And then, a new smell hit Danny’s nostrils: a bitter, antiseptic, medicinal smell, with pungent hints of acetone. The odor hung thickly in the sunken living room, growing stronger as Danny came closer. Danny had come to know that smell only recently. It was the smell of cocaine.
+And then, a new smell hit Danny’s nostrils: a bitter medicinal smell, with pungent hints of acetone. The odor hung thickly in the sunken living room, growing stronger as Danny came closer. Danny had come to know that smell only recently. It was the smell of cocaine.
 </p>
 <p>
 Sergey gently turned Eugene’s head. Eugene’s cheeks and nose were encrusted in white powder. A thick heap of the drug lay strewn just beneath the man’s face. Less than a foot away, a crystal bowl lay shattered.
@@ -753,10 +699,10 @@ Sergey gently turned Eugene’s head. Eugene’s cheeks and nose were encrusted 
 Eugene had fallen face-down into the pile. Unconscious and helpless, he had lain there inhaling the stimulant.
 </p>
 <p>
-Sergey pulled the dented helmet away and pried open one of Eugene’s eyes. The pupils were so wide that the iris was invisible. The other eye opened in response, and the two enormous black dots darted back and forth in unison to survey the room. His face was pale and damp with sweat. His jaw was clenched tight.
+Sergey pulled the dented helmet away and pried open one of Eugene’s eyes. The pupils were so wide that the iris was invisible. The other eye opened in response, and the two enormous black dots darted back and forth in unison. His face was pale and damp with sweat. His jaw was clenched tight.
 </p>
 <p>
-Sergey propped Eugene to his feet. Violent spasms shook Eugene’s limbs. He tried to stand by his own strength, but his legs shuddered. Sergey held him upright and tentatively released him. Eugene balanced for a moment, then clutched his stomach and collapsed to his hands and knees. He began dry-heaving, his entire body racked by convulsions.
+Sergey propped Eugene to his feet. Violent spasms shook Eugene’s limbs. Sergey held him upright and tentatively released him. Eugene balanced for a moment, then clutched his stomach and collapsed to his hands and knees. He began dry-heaving.
 </p>
 <p>
 A thin, scared voice came from the stairs. “<em>Zhenya…?</em>” Rosie ran toward the living room.
@@ -771,7 +717,7 @@ Eugene slowly climbed back onto his unsteady feet. He began vigorously brushing 
 Danny looked at Moshen. “The cops have a medical team on the way. If we can get Eugene to them…” 
 </p>
 <p>
-Moshen nodded solemnly. He came down into the living room and gingerly put a hand on Eugene’s back. Eugene jumped into a defensive posture and began throwing wild, aimless punches in all directions. Moshen leaned away and waited for the flurry to finish, then gently coaxed him to follow. Eugene walked in jerky, halting steps, babbling rapidly. The two left the suite and headed toward the stairwell.
+Moshen came down into the living room and gingerly put a hand on Eugene’s back. Eugene jumped and began throwing wild, aimless punches. Moshen leaned away and waited for the flurry to finish, then gently coaxed him to follow. Eugene walked in jerky, halting steps, babbling rapidly. The two headed toward the stairwell.
 </p>
 <p>
 Danny came up to Sergey, who was still holding his daughter. “We need to haul our asses to the yacht, Sergey. The Claymore van is no good to us anymore &mdash; the Medina camera system will flag it the moment it hits the streets. But we can still make it to the boat.”
@@ -780,10 +726,7 @@ Danny came up to Sergey, who was still holding his daughter. “We need to haul 
 Slowly, Sergey turned toward him. His face was almost crimson with fury. His moist lips were curled in a teeth-baring grimace. Tears streamed from his eyes. He stepped away from Rosie, looked around the room, and roared something in Russian.
 </p>
 <p>
-All around him, the survivors of his rampage gazed at him with scared, silent faces.
-</p>
-<p>
-Sergey spun in place, meeting each of their eyes. At random, he picked a fallen bodyguard who still seemed conscious. He reached down with one hand, and pulled him up by the collar of his shirt. He screamed into the injured man’s face, spittle flying from his lips.
+All around him, the survivors of his rampage watched him with scared, silent faces. Sergey spun in place, meeting each of their eyes. At random, he picked a fallen bodyguard who still seemed conscious. He reached down with one hand, and pulled him up by the collar of his shirt. He screamed into the injured man’s face, spittle flying from his lips.
 </p>
 <p>
 The bodyguard gave him a weak shrug and shook his head.
@@ -798,13 +741,13 @@ Danny saw Sergey’s finger begin to clench on the trigger. “Sergey! What are 
 Sergey turned his face to Danny. In his field of vision, he saw Rosie looking back at him, watching him handle the wounded mercenary.
 </p>
 <p>
-Sergey pulled his gun away from the man’s neck and threw him gruffly back down to the ground. “He doesn’t know,” Sergey growled dismissively. “None of them know.”
+Sergey pulled his gun away and threw the man gruffly back down. “He doesn’t know,” he growled dismissively. “None of them know.”
 </p>
 <p>
 “Know what?” Danny asked.
 </p>
 <p>
-“Ivan!” Sergey roared. “He is here somewhere! I saw him slink away during fighting like a pathetic rat! He is here, and by God I swear he will pay, once and for all!” He walked up to Danny and stood uncomfortably close to him. With his eyes melting into pleading sorrow, he said in a hoarse voice, “Help me, Daniel. Help me to stop this man. Help me make this wretched curse I have lived under to finally end.”
+“Ivan!” Sergey roared. “He is here somewhere! I saw him slink away like a rat! He is here, and by God I swear he will pay, once and for all!” He walked up to Danny. With his eyes melting into pleading sorrow, he said in a hoarse voice, “Help me, Daniel. Help me to stop this man. Help me make this wretched curse finally end.”
 </p>
 <p>
 “Which way did you see him go?” Danny asked.

@@ -100,12 +100,12 @@ HOLY SHIT NEAT!<br/>
 Yo bro bring that shit to Philly stat!<br/>
 <strong>linkopteryx47 5 minutes ago</strong><br/>
 <br/>
-Guys, I'm a bioengineering PhD student and to everyone saying this is bullshit, it's absolutely possible with the right resources. @majesticmadness I'm at UC Davis, send me a sample. My advisor will bust a nut over this.<br/>
+Guys, I'm a bioengineering PhD student @UCDavis and to everyone saying this is bullshit, it's absolutely possible with the right resources. Send me a sample, my advisor will bust a nut over this.<br/>
 <strong>monicapetrelli 6 minutes ago</strong><br/>
 </div>
 
 <p>
-“And it’s not just on YouTube,” said Danny. “It’s on Twitter, it’s on IRC, it’s being sent around on text messages. People are contacting each other and cloning that bacterial strain as we speak. It grows quickly, easily, and reliably &mdash; that’s what you created it for. There’s a hundred copies floating around the city by now. In two days, there’ll be a thousand. In a week, there’ll be hundreds of thousands across the country. You’ve created a living thing here, Ivan. And do you know what a living thing does, by definition? It multiplies.
+“And it’s not just on YouTube,” said Danny. “It’s on Twitter, it’s on IRC, it’s being sent around on text messages. People are contacting each other and cloning that bacterial strain as we speak. It grows quickly and easily &mdash; that’s what you created it for. There’s a hundred copies floating around the city by now. In two days, there’ll be a thousand. In a week, there’ll be hundreds of thousands across the country. You’ve created a living thing here, Ivan. And do you know what a living thing does, by definition? It multiplies.
 </p>
 <p>
 “So, Ivan, the question is: What will this do to the market value of cocaine? Your single most profitable product? The only product that keeps your entire empire in the black? Well, you’re a businessman. You do the math.”
@@ -114,31 +114,25 @@ Guys, I'm a bioengineering PhD student and to everyone saying this is bullshit, 
 The kingpin’s eyes flared. He grabbed Danny by the collar. “Undo this!” he snarled into his face.
 </p>
 <p>
-Danny gave him a sweet smile. “I can’t! Don’t you understand? The propagation of your little germ there isn’t caused by me. It’s caused by the nature of the product itself. The ubiquitous distribution of your creation was always going to happen anyway &mdash; I just made it happen sooner. Me, I’m just the… the catalyst. The enzyme. Ultimately, what you see on that screen there &mdash; the complete inversion of the drug market playing out right this very minute before our eyes &mdash; that’s <em>your</em> doing, not mine.
+Danny gave him a sweet smile. “I can’t! Don’t you understand? The propagation of your little germ there isn’t caused by me. It’s caused by the nature of the product itself. What you see on that screen, that’s <em>your</em> doing, not mine.
 </p>
 <p>
-“Isn’t that what you wanted, Ivan? You set out to create a technology that you could use to liberate yourself from Columbian drug cartels. Well, guess what? Now that you’ve created it, that exact same technology can be used just as easily by anyone else to liberate themselves from <em>you</em>.
+“Isn’t this what you wanted, Ivan? You set out to create a technology that you could use to liberate yourself from Columbian drug cartels. Well, guess what? Now that you’ve created it, that exact same technology can be used just as easily by anyone else to liberate themselves from <em>you</em>.
 </p>
 <p>
-“The truth is, Ivan, you should be proud of yourself. I truly mean that. Oh sure, as a businessman, this might be an unmitigated disaster. But as a technologist… As a technologist, Ivan, what you’ve done is what people like me <em>dream</em> of doing. You’ve changed the world. In fact, you’ve changed it so thoroughly that you no longer even have a place in it. You’ve pushed the world so far forward that it’s left you behind. You stand here now completely spent, having given to the world everything you have to offer. And now, all your talents, all your strength, all your efforts, everything that has enabled you to achieve this triumph &mdash; all of it, specifically <em>because</em> you’ve achieved it, is now useless. Obsolete and useless.
+“The truth is, Ivan, you should be proud of yourself. I truly mean that. Oh sure, as a businessman, this might be an unmitigated disaster. But as a <em>technologist</em>, what you’ve done is what people like me <em>dream</em> of doing. You’ve changed the world. In fact, you’ve changed it so thoroughly that you no longer even have a place in it. You’ve pushed the world so far forward that it’s left you behind. You stand here now completely spent, having given to the world everything you have to offer. And now, all your talents, all your efforts, everything that has enabled you to achieve this triumph &mdash; all of it, specifically <em>because</em> you’ve achieved it, is now useless. Obsolete and useless.
 </p>
 <p>
-“And you know what the real irony is? Finding yourself obsolete and useless? That’s <em>not</em> defeat. It’s the exact opposite: it’s how you know your mission’s been accomplished. It’s how you know you’ve achieved your own goals. Becoming obsolete and useless isn’t a hallmark of failure; it’s the pinnacle of victory. When you’ve used yourself up… When you’ve rendered yourself pointless by your own hand… When you feel your knees buckle from fatigue and you collapse, exhausted and weak and old, onto the dusty path along which you’ve been pushing the world, and you watch it roll away from you, propelled forward by the momentum you had spent your life imparting to it with all the passion and stamina that you could muster, and you watch the world recede toward the horizon carrying the next generation onward to a future you’ve made possible and yet you will never see… …Then! <em>Then</em> is when you can finally release your breath, when you can let your head drop down into the dirt with tears in your eyes and a smile on your lips, when you can finally rest; because <em>then</em> is when you know that you’ve succeeded.
+“And you know what the real irony is? Finding yourself obsolete and useless? That’s <em>not</em> defeat. It’s the exact opposite: it’s how you know your mission’s been accomplished. It’s how you know you’ve achieved your goals. Becoming obsolete and useless isn’t a hallmark of failure; it’s the pinnacle of victory. When you’ve used yourself up… When you’ve rendered yourself pointless by your own hand… When you feel your knees buckle from fatigue and you collapse, exhausted and weak and old, onto the dusty path along which you’ve been pushing the world, and it rolls away from you, propelled forward by the momentum you had spent your life imparting to it, and you watch the world recede toward the horizon carrying the next generation onward to a future you’ve made possible and yet you will never see… …Then! <em>Then</em> is when you can finally let your head drop down into the dirt with a smile on your lips, when you can finally rest; because <em>then</em> is when you know that you’ve succeeded.
 </p>
 <p>
 “And, Ivan? You’ve succeeded.”
 </p>
 <p>
-On the television, a map of the Seattle metropolis appeared. It was sprinkled with dozens of tiny pictures of the Eppendorf vial. The icons were packed into clusters in the University District, on Capitol Hill, in Belltown, in Pioneer Square &mdash; all high-density neighborhoods of young, technologically savvy urban professionals. A new vial icon popped onto the display in Fremont, then another on Beacon Hill, then another, then another. The map gradually zoomed out. Slowly, the icons began peppering West Seattle, then Lynnwood, then Burien, then Bellevue, then Redmond &mdash; and as Danny and Ivan and all the men and women in the room watched, the little Eppendorf vials spread ever outward.
+On the television, a map of the Seattle metropolis appeared. It was sprinkled with dozens of tiny pictures of the Eppendorf vial. The icons were packed into clusters in the University District, on Capitol Hill, in Belltown, in Pioneer Square &mdash; all high-density neighborhoods of young, technologically savvy urban professionals. A new vial icon popped onto the display in Fremont, then another on Beacon Hill. The map gradually zoomed out. Slowly, the icons began peppering West Seattle, then Lynnwood, then Burien, then Bellevue, then Redmond &mdash; and as everyone watched, the little Eppendorf vials spread ever outward.
 </p>
 <p>
-The screen faded to black, momentarily casting the room into darkness. Then, just as suddenly as they had gone out, the suite’s recessed overhead lights flicked back to life. Ivan and his entourage blinked uncomfortably as their pupils adjusted.
-</p>
-<p>
-With a confused and disoriented tone, one of the mercenaries mumbled something to his colleagues. One of them gave a brief reply. Ivan furiously shouted something at both of them. The men in the room looked silently back and forth between Ivan and each other. After a moment of tense stillness, one of them began asking Ivan a question. Ivan answered him with vicious screaming.
-</p>
-<p>
-Danny calmly watched their interactions.
+The suite’s overhead lights flicked back to life.
 </p>
 <p>
 Ivan glared at Danny. Coldly, he hissed, “You will regret what you have done! If you thinking I would letting this… letting this crime against me… if I…”
@@ -156,7 +150,7 @@ The mercenaries and prostitutes all looked back at Danny with expressions that s
 The television flipped back to the website of Ivan’s Estonian bank, displaying his payroll account.
 </p>
 <p>
-“Now, as it so happens, I have an alternate proposal for all of you,” Danny continued. “You see the balance shown on that screen? Ivan might not think that’s a lot, but… Well, I know I sure wouldn’t mind having that much in ‘pocket change’. And Ivan might brag about his wealth now, but very soon he’s going to regard a wad of cash like this as nothing but a fond memory. So Ivan’s opinion is irrelevant. I didn’t come here to negotiate with him. I came here to negotiate with <em>you</em> So, here’s my deal. You guys bring Sergey’s daughter to me, unharmed. As soon as she and I are away from this hotel, my colleagues and I will take the money in this account and divide it up between each of you equally. We’ll transfer it to your own personal bank accounts directly, the moment she and I are at a safe distance. Count how many of you are in this room. Look at the numbers on the screen. Do the math.
+“Now, as it so happens, I have an alternate proposal for all of you,” Danny continued. “You see the balance shown on that screen? Ivan might not think that’s a lot, but… Well, <em>I</em> sure wouldn’t mind having that much in ‘pocket change’. So, here’s my deal. You guys bring Sergey’s daughter to me, unharmed. As soon as she and I are away from this hotel, my colleagues and I will take the money in this account and divide it up between each of you equally. We’ll transfer it to your own personal bank accounts directly, the moment she and I are at a safe distance. Count how many of you are in this room. Look at the numbers on the screen. Do the math.
 </p>
 <p>
 “And as you consider my offer, bear something in mind. Each of you will only receive this money if both the girl and I walk out of here alive. If any one of you chooses to shoot me, you will not only be losing the cash for yourself; you will also be losing the cash for every one of your colleagues. Look around you. Decide whether or not that seems like a good idea.” Danny chose a soldier at random, looked him in the eye, and asked “What do you think?” He pivoted toward another and repeated, “What do <em>you</em> think?” He turned to face the lithe man holding the gun to him. “What about you?”

@@ -3,43 +3,31 @@
 <span class="caplead">The mercenaries stared at the screen</span>, murmuring in Russian. Ivan barked at them, demanding order and obedience in a tone that transcended language.
 </p>
 <p>
-Danny chuckled.
+Danny quickly interrupted him. “Don’t bother!” he shouted confidently to the men. “Don’t bother listening to him. He’s finished. As of right now, he has no money and no power. He’s not your boss anymore. He’s nothing but a poor, penniless old man.”
 </p>
 <p>
-Ivan snorted. “Who are you? You are some kind of computer hacker man? You make trick with bank account on telephone, yes? It was something to do with you, I know. You think you so smart and sneaky. But I not afraid of you or your little tricks.”
-</p>
-<p>
-Willing himself to maintain a facade of resolve, Danny said, “You should be.”
-</p>
-<p>
-Ivan turned around dismissively and began saying a few words in Russian to the men around him.
-</p>
-<p>
-Danny quickly interrupted him. “Don’t bother!” he shouted confidently to the mercenaries. “Don’t bother listening to him. He’s finished. As of right now, he has no money and no power. He’s not your boss anymore. He’s nothing but a poor, penniless old man.”
-</p>
-<p>
-The Russian kingpin stared at Danny through narrowed, wrinkly eyes. “You are such idiot,” he hissed. “You think that is all my money?” He pointed at the screen showing the bank balance. “That is the pocket change for me! That is one weekend gambling in Monaco! I have given away as a gift more than that! You think you stealing this one account from me will be making me ‘penniless’?”
+Ivan stared at Danny through narrowed, wrinkly eyes. “You are such idiot. You think <em>that</em> is all my money?” He pointed at the bank balance on the screen. “That is <em>pocket change</em>! That is one weekend gambling in Monaco! I have given away as a gift more than that! You think you stealing this one account will be making me ‘penniless’?”
 </p>
 <p>
 “No,” Danny said slowly. “I’m not talking about the account. What I am talking about, Ivan, is your business ventures.”
 </p>
 <p>
-The television flashed. The image cut to a large pie chart artistically superimposed on a density-colored map of Russia and Eastern Europe. One small pink wedge of the chart was marked with a pin-up silhouette of a high-heeled woman, while a slightly larger steel-gray wedge was adorned with a handgun. A brown slice bearing a picture of a hypodermic needle and a green slice bearing a hemp leaf added to the circle. But by far the largest wedge, taking up over half the pie, was colored white, and was annotated with a pile of powdered cocaine.
+The television flashed. The image cut to a large pie chart superimposed on a density-colored map of Eastern Europe. One small pink wedge of the chart was marked with a pin-up silhouette, while a slightly larger steel-gray wedge was adorned with a handgun. A brown slice bearing a picture of a hypodermic needle and a green slice bearing a hemp leaf added to the circle. But by far the largest wedge, taking up over half the pie, was colored white, and was annotated with a pile of powdered cocaine.
 </p>
 <p>
 Ivan sneered at the screen. “What in Devil is that?”
 </p>
 <p>
-“You know what this is, Ivan,” said Danny. “And so do your men. This is how much of your gross revenue comes from your various operations. A little from prostitution. A little from arms trading. But the majority of your total income comes, of course, from drugs. And among drugs, your single highest-grossing product is cocaine. Cocaine, in fact, is the only thing that keeps your aggregated portfolio cash-flow positive. And so it appears, Ivan, that you have made…” He paused. The screen cut to a photograph of a test tube filled with pale brown goo, overlaid on top of the stylized “W” that served as the logo for Tungsten Medical Technologies. “…a very poor investment decision.”
+“You know what this is, Ivan,” said Danny. “And so do your men. This is how much of your gross revenue comes from your various operations. Some prostitution. Some arms trading. But the majority of your total income comes, of course, from drugs &mdash; specifically, cocaine. In fact, cocaine is the only thing that keeps your aggregated portfolio cash-flow positive. And so it appears, Ivan, that you have made…” He paused. The screen cut to a photograph of the Tungsten Medical Technologies building. “…a very poor investment decision.”
 </p>
 <p>
-“Yes, Tungsten company. You know so little,” Ivan scoffed. “You call Tungsten bad investment because of big debts to old investors? I call it best investment I ever make. Tungsten finish their job very good. Now I have no use for anymore. Their old investors can have them, I no more caring.” He reached into his chest pocket and produced the small translucent smiley-faced Eppendorf vial. He held it smugly before him. “I have everything from them I needed.”
+Ivan laughed dryly. It sounded indistinguishable from coughing. “You know so little!” He reached into his chest pocket and produced the small translucent smiley-faced Eppendorf vial. He held it smugly before him. “Tungsten is best investment I ever make!”
 </p>
 <p>
-Danny let the old Russian relish his self-satisfaction for a moment before saying, “There’s something I’d like to show you. It’s inside this toolbox I’m carrying here. May I open it?”
+Danny let the old Russian relish his self-satisfaction for a moment before saying, “There’s something I’d like to show you. It’s inside my toolbox. May I open it?”
 </p>
 <p>
-Ivan spoke a few gruff words to a nearby bodyguard. The man marched up to Danny and yanked the metal box from his grasp. He set it down on the glass coffee table, keeping Danny close by. Ivan backed a good distance away, and the man cautiously unbuckled the clasps of the toolbox’s lid, and reached within.
+Ivan spoke a few gruff words to a nearby bodyguard. The man marched up to Danny and yanked the metal box from his grasp. He set it down on the glass coffee table, keeping Danny close by. Ivan backed a good distance away. The man cautiously unbuckled the lid, and reached within.
 </p>
 <p>
 Slowly, the bodyguard drew from the box a small translucent Eppendorf vial filled with pale brown goo.
@@ -51,103 +39,82 @@ The other men crowded in to take a closer look. Their eyes shifted between the v
 “Go ahead,” Danny said pleasantly. “Pass them around. I brought enough for everybody.”
 </p>
 <p>
-The second man put his hand into the toolbox, and pulled out another identical Eppendorf vial.
+The second man put his hand into the toolbox, and pulled out another identical Eppendorf vial. And another. And another.
 </p>
 <p>
-And another.
+The smirk on Ivan’s face slowly sank. 
 </p>
 <p>
-And another.
+“Each one is cloned directly from that batch you’re holding in your hand,” Danny explained. “That <em>is</em> why you had Tungsten create this bacterium in the first place, after all &mdash; to produce a source of cocaine that’s portable, durable, and easily replaced. Well, guess what, Ivan? You wanted ‘easily replaced’? You got it.
 </p>
 <p>
-The smirk on Ivan’s face slowly sank. “Bullshit! You full of bullshit!” he spat. “You filling with water from dirty toilet, and you pretending it is same thing as this one? You are sneaky piece of shit, hacker man! But we are not stupid. Those tubes you brought, they not real.”
+“You see, you’re a trader, Ivan. A businessman. You think in terms of investments, rates of return, buy low, sell high, yaddah yaddah. You saw this genetic engineering project as a chance to establish vertical integration &mdash; a way to control your entire supply chain, without having to depend on manufacturers in South America.
 </p>
 <p>
-The image on the television screen flipped to a carefully arranged photograph of the kitchen in Danny’s own house. The pot filled with lysogeny broth sat prominently in the foreground, angled from the top to show its slimy, clumpy, rotting-looking contents. Next to it stood bottles of kerosene and acetone, alongside bowls and buckets encrusted on the inside with cocaine extraction by-products.
-</p>
-<p>
-“They’re completely real,” Danny said firmly. “They’re cloned directly from that batch you’re holding in your hand. That’s why you had Tungsten create this bacterium in the first place, after all &mdash; to produce a source of cocaine that’s portable, durable, and easily replaced. Well, guess what, Ivan? You wanted ‘easily replaced’? You got it.
-</p>
-<p>
-“You see, you’re a trader, Ivan. A businessman. You think in terms of investments, rates of return, buy low, sell high, yaddah yaddah. You saw this genetic engineering project as a chance to establish vertical integration &mdash; a way to control your entire supply chain, without having to depend on manufacturers in South America. It was a good idea, really &mdash; it would’ve allowed you to have lower margins than any other cocaine distributor in the entire world.
-</p>
-<p>
-“But, Ivan, you’ve clearly never invested in technology before. And that is where, as a businessman, you might have wanted to think a little harder. Take it from me, Ivan. I’ve been in the tech industry my entire life. I’ve seen how it works from the inside out. From a business perspective, it has certain aspects that are, shall we say, counterintuitive.
-</p>
-<p>
-“There’s a name for what you’ve done, Ivan. It’s called ‘disruptive innovation’. It’s a creation whose very existence completely changes the marketplace &mdash; and once it’s created, the world is never the same.”
+“But, Ivan, you’ve clearly never invested in technology before. You see, there’s a name for what you’ve done. It’s called ‘disruptive innovation’. It’s a creation whose very existence completely changes the marketplace &mdash; and once it’s created, the world is never the same.”
 </p>
 <p>
 The screen filled with a collage of images: a printing press, a flint-lock firearm, a light bulb, a Model T Ford, an airplane, a nuclear explosion, an IBM mainframe computer, an iPhone. The photograph of the Eppendorf vial with the Tungsten logo floated in a corner.
 </p>
 <p>
-“When you work in technology,” Danny continued, “you never know where your own place will be in the new world order that you yourself usher in. To create a new technology, you have to become an expert in the tech leading up to it &mdash; but then, when you build something that surpasses the contemporary state of the art, you make your own expertise obsolete. The skills that you spend your entire life honing are rendered defunct by your own hand.
+“When you work in technology,” Danny continued, “you never know where your own place will be in the new world order that you usher in. To create a new technology, you have to become an expert in the tech leading up to it &mdash; but then, when you build something that surpasses the contemporary state of the art, you make your own expertise obsolete. The skills that you spend your entire life honing are rendered defunct by your own hand.
 </p>
 <p>
-“And you might think that you, as the innovator, might have some kind of natural position of merit, some kind of intrinsic value. But you’d be wrong. Instead, you find yourself at a competitive disadvantage against younger, fresher minds &mdash; minds that are uncluttered by knowledge of the derelict systems that you had to learn in order to replace; minds that are unhindered by the assumptions of what is and isn’t possible that you yourself helped overturn; minds that are born into a world that took you decades to forge. The youth that follow will only know the world you have made for them; they will never know the world you came from. The pinnacle of your achievements, the greatest heights to which you can climb, will for them be merely their starting point. They will take for granted your lifetime of work without ever understanding that there was a world before it. They’ll use your own accomplishments to leave you in the dust. The world moves on &mdash; and it does so because you <em>make</em> it move on. Because, as a technologist, that’s the whole point.
+“And you might think that you, as the innovator, might have some kind of natural position of merit, some kind of intrinsic value. But you’d be wrong. Instead, you find yourself at a competitive disadvantage against younger, fresher minds &mdash; minds that are uncluttered by knowledge of the derelict systems that you had to learn in order to replace; minds that are unhindered by outdated methods and paradigms that you yourself helped overturn. The youth that follow will only know the world you have made for them; they will never know the world you came from. The pinnacle of your achievements, the greatest heights to which you can climb, will for them be merely their starting point. They will take for granted your lifetime of work and claim it as their birthright. They’ll use your own accomplishments to leave you in the dust. The world moves on &mdash; and it does so because you <em>make</em> it move on. Because, as a technologist, that’s the whole point.
 </p>
 <p>
-“Now, Ivan, would you like to see what the youth of today are doing with your accomplishments right this very minute? Take a look. You might find this… inspirational.”
+“Now, Ivan, would you like to see what the youth of today are doing with <em>your</em> accomplishments right this minute? Take a look. You might find this… inspirational.”
 </p>
 <p>
-On the television screen, the collage of inventions dimmed away.
+On the television screen appeared a YouTube video page. The frame showed a t-shirted young man sitting in a dark room. His face was hidden behind a pale mask bearing the smug countenance of Guy Fawkes, the subversive mascot of the Anonymous hacker collective.
 </p>
 <p>
-In its place appeared a YouTube video page. The frame showed the t-shirted torso of a young man sitting at a desk in a dark room, with a laptop on one side and a metal bucket on the other. His face was hidden behind a pale mask bearing the smug countenance of Guy Fawkes, the subversive mascot of the Anonymous hacker collective. The video’s uploader handle identified him as “<span class="computer">Majestic Madness</span>”. The video’s title, “<span class="computer">Got a present from a stranger!</span>,” stretched across the top of the screen.
-</p>
-<p>
-“So, check this crazy shit,” he said from behind the mustachioed mask. His energetic voice sounded in its late teens or early twenties. “There’s this dude I know from the Maker meetup group. Older dude, like around 40. He DMed me this afternoon. He goes, ‘Let’s meet in private. There’s a message I need to get out.’ And at first I’m like, ‘Man, we’re not friends. We just see each other around. Stop being weird.’ But then he says, ‘I know you’re with Anonymous. I have something relevant to your interests.’ So I’m like, alright, you’ve got my attention, I’ll take a chance. I invite him down to my lair. Well, he and a girl show up like ten minutes later. And they bring <em>this</em>…”
+“So, check this crazy shit,” he said from behind the mustachioed mask. His energetic voice sounded in its mid twenties. “There’s this dude I know from the Maker meetup group. Older dude. He DMed me this afternoon. He goes, ‘Let’s meet in private. There’s a message I need to get out.’ And at first I’m like, ‘Man, we’re not friends. We just see each other around. Stop being weird.’ But then he says, ‘I know you’re with Anonymous. This is relevant.’ So I’m like, alright, you’ve got my attention, I’ll take a chance. I invite him down to my lair. Well, he and a girl show up like ten minutes later. And they bring <em>this</em>…”
 </p>
 <p>
 The Fawkes-faced young man held up a goo-filled vial.
 </p>
 <p>
-“So, obviously I’m like, ‘What’s that?’ He says, ‘It’s the next logical step for hackers. Hacking <em>computers</em> is retro. This is <em>bio</em>-hacking. This is hacking DNA.’ The girl walks me through how to grow it &mdash; like sea monkeys, kinda. So we whip up a batch &mdash; it’s right here…” He gestured toward the bucket to his side. “…and he gives me a bunch of empty test tubes and says, ‘Spread this out to as many people as you can, and do it <em>fast</em>.’ And I’m like, ‘What the hell is this stuff? Why’s it so important?’ So, he says nothing, he reaches into his bag, and he pulls out…”
+“So, obviously I’m like, ‘What’s that?’ He says, ‘It’s the next logical step for hackers. Hacking <em>computers</em> is overdone. This is <em>bio</em>-hacking. This is hacking DNA.’ The girl walks me through how to grow it &mdash; like sea monkeys, kinda. So we whip up a batch, and he gives me a bunch of empty test tubes and says, ‘Spread this out to as many people as you can, and do it <em>fast</em>.’ And I’m like, ‘What the hell is this stuff? Why’s it so important?’ So, he says nothing, he reaches into his bag, and he pulls out…”
 </p>
 <p>
-The young man suddenly threw onto the desk a cellophane-wrapped brick of white powder.
+The young man held up a cellophane-wrapped brick of white powder.
 </p>
 <p>
-“Now, that, ladies and gentlemen, is exactly what it looks like. And this dude had like a dozen of them. That’s right, folks. This little tube of snot right here literally makes coke by the kilo. This is a straight-up game-changer, folks. You’re witnessing drug history in the making. This goop here turns the entire cocaine industry into a do-it-yourself project. Raising this stuff is easier than growing your own pot. It’s easier than brewing your own beer. And the results are so fucking good, you’d need your own island in Latin America to get anything even close.
+“Now, that, ladies and gentlemen, is exactly what it looks like. And this dude had like a dozen of them. That’s right, folks. This little tube of snot literally makes coke by the kilo. This is a straight-up game-changer, folks. You’re witnessing drug history in the making. This goop here turns the entire cocaine industry into a do-it-yourself project. Raising this stuff is easier than growing your own pot. It’s easier than brewing your own beer. And I tried a bit. It’s a hundred percent the real deal.
 </p>
 <p>
-“So, I’m calling out all my bros and sisters in the 206. Get your butts over here to Casa Majestic. This dude gave it to me, now I’m gonna give it to you. And then tomorrow you guys give it to others. And they’ll give it to others too. This shit’s about to go viral &mdash; pun intended. The revolution’s already started, it’s up to you to be part of it. See you soon, guys. This is Majestic Madness, over and out.”
+“So, I’m calling out all my bros and sisters in the 206. Get your butts over here. This dude gave it to me, now I’m gonna give it to you. And then tomorrow you guys give it to others. And they’ll give it to others too. This shit’s about to go viral &mdash; pun intended. The revolution’s already started, it’s up to you to be part of it.”
 </p>
 <p>
-Underneath the video, the comment section’s count was already well into quadruple digits.
+Underneath the video, the comment section’s count was already into quadruple digits.
 </p>
 
 <div class="computer email">
-@irsi_isund fool, I got the whole PiMPHaxx crew at my house right now. we'll know by morning. come on over see for yurself. don't blame you for being skeptic, but this is the real deal.<br/>
-<strong>majesticmadness 8 minutes ago</strong><br/>
+me gusta!<br/>
+<strong>youcancallmegoddess 2 minutes ago</strong><br/>
 <br/>
 HOLY SHIT NEAT!<br/>
-<strong>wilcobox 12 minutes ago</strong><br/>
-<br/>
-FAKE AND GAY. theres no way thats real. do u know what it wuld mean if it was? im in ur town. show me f2f or gtfo.<br/>
-<strong>irsi_isund 14 minutes ago</strong><br/>
-<br/>
-me gusta!<br/>
-<strong>youcancallmegoddess 16 minutes ago</strong><br/>
+<strong>wilcobox 3 minutes ago</strong><br/>
 <br/>
 Yo bro bring that shit to Philly stat!<br/>
-<strong>linkopteryx47 17 minutes ago</strong><br/>
+<strong>linkopteryx47 5 minutes ago</strong><br/>
 <br/>
 Guys, I'm a bioengineering PhD student and to everyone saying this is bullshit, it's absolutely possible with the right resources. @majesticmadness I'm at UC Davis, send me a sample. My advisor will bust a nut over this.<br/>
-<strong>monicapetrelli 18 minutes ago</strong><br/>
+<strong>monicapetrelli 6 minutes ago</strong><br/>
 </div>
 
 <p>
-“And it’s not just on YouTube, you know,” said Danny. “It’s on Twitter, it’s on IRC, it’s being sent around on text messages. People are contacting each other and cloning that bacterial strain as we speak. It grows quickly, easily, and reliably &mdash; that’s what you created it for. There’s a hundred copies floating around the city by now. In two days, there’ll be a thousand. In a week, there’ll be hundreds of thousands all across the country. You’ve created a living thing here, Ivan &mdash; in more ways than one. And do you know what a living thing does, by definition? It multiplies.
+“And it’s not just on YouTube,” said Danny. “It’s on Twitter, it’s on IRC, it’s being sent around on text messages. People are contacting each other and cloning that bacterial strain as we speak. It grows quickly, easily, and reliably &mdash; that’s what you created it for. There’s a hundred copies floating around the city by now. In two days, there’ll be a thousand. In a week, there’ll be hundreds of thousands across the country. You’ve created a living thing here, Ivan. And do you know what a living thing does, by definition? It multiplies.
 </p>
 <p>
-“So, Ivan, the question you need to ask yourself is: What will this do to the market value of cocaine? Your single most profitable product? The only product that keeps your entire empire in the black? Well, you’re a businessman. You do the math.”
+“So, Ivan, the question is: What will this do to the market value of cocaine? Your single most profitable product? The only product that keeps your entire empire in the black? Well, you’re a businessman. You do the math.”
 </p>
 <p>
-The kingpin’s eyes flared. He butted past the wiry man holding the gun to Danny’s chest and grabbed Danny by the collar. “Undo this!” he snarled into Danny’s face.
+The kingpin’s eyes flared. He grabbed Danny by the collar. “Undo this!” he snarled into his face.
 </p>
 <p>
-Danny gave him a sweet, innocent smile. “I can’t! Don’t you understand? The propagation of your little germ there isn’t caused by me. It’s caused by the nature of the product itself. The ubiquitous distribution of your creation was always going to happen anyway &mdash; I just made it happen sooner. Me, I’m just the… the catalyst. The enzyme. Ultimately, what you see on that screen there &mdash; the complete inversion of the drug market playing out right this very minute before our eyes &mdash; that’s <em>your</em> doing, not mine.
+Danny gave him a sweet smile. “I can’t! Don’t you understand? The propagation of your little germ there isn’t caused by me. It’s caused by the nature of the product itself. The ubiquitous distribution of your creation was always going to happen anyway &mdash; I just made it happen sooner. Me, I’m just the… the catalyst. The enzyme. Ultimately, what you see on that screen there &mdash; the complete inversion of the drug market playing out right this very minute before our eyes &mdash; that’s <em>your</em> doing, not mine.
 </p>
 <p>
 “Isn’t that what you wanted, Ivan? You set out to create a technology that you could use to liberate yourself from Columbian drug cartels. Well, guess what? Now that you’ve created it, that exact same technology can be used just as easily by anyone else to liberate themselves from <em>you</em>.

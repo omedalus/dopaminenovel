@@ -321,7 +321,7 @@ Danny stared at the screen, clicking at random on the web page, looking for lead
 Tina spoke up behind them. “Can I ask why is this so complicated? Why don’t you just call the police?”
 </p>
 <p>
-Sergey looked at her with frustration. “Do you think police would help <em>me</em>? Local police have been wanting to catch me for very long time. Even if miracle happened and they rescued her from Ivan, you know what they do then? Use her as bargaining chip against me. They make up some reason to put her in foster care, make sure I never see her again, pressure me to turn myself in. Do you know what kind of life is for girl her age in foster system? No, this is not what will happen to my Rosie!” 
+Sergey looked at her with frustration. “Do you think police would help <em>me</em>? Local police want to catch me for very long time. Even if miracle happened and they rescued her from Ivan, you know what they do then? Use her as bargaining chip against me. They make up some reason to put her in foster care, make sure I never see her again, pressure me to turn myself in. Do you know what kind of life is for girl her age in foster system? No, this is not what will happen to my Rosie!” 
 </p>
 <p>
 With his face buried in the screen, Danny said, “Guys, I think I have an idea.”

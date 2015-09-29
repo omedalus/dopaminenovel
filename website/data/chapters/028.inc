@@ -520,19 +520,13 @@ One stood and body-checked the door, his shoulder slamming hard against the glas
 “Let us out, you vermin!” one screamed, and had to sit down to gasp for air. Each breath singed his lungs.
 </p>
 <p>
-“Not until we chat!” the man said. “You see, brothers, it’s not really <em>my</em> interest per se, but I have some colleagues here who would like to know one slight, insignificant little piece of information. When Ivan pays you, what bank do the payments come from?”
+“Not until we chat!” the man said. “You see, brothers, it’s not really <em>my</em> interest per se, but I have some colleagues here who would like to know one slight, insignificant little piece of information. When Ivan pays you, what’s the routing number of the bank that the payments come from?”
 </p>
 <p>
-“Bank?” one said, fighting rage as the room boiled around him. “We get paid in cash! He gives us envelopes every week.”
+“Are you fucking joking?” one said, fighting rage as the room boiled around him. Who the hell memorizes bank routing numbers?”
 </p>
 <p>
-“Are you saying he’s <em>never</em> written you a check? Ever?”
-</p>
-<p>
-The men murmured amongst one another. One said, “Maybe at some point. How the hell should we know? None of us would remember the bank it came from, anyway.”
-</p>
-<p>
-“Well, we’re going to find out!” said the man in jovial tones. “Here’s what’s going to happen, buddies. You’re each going to give me your logins and passwords to your online bank accounts. And my colleagues &mdash; they’re in control of your temperature, by the way &mdash; they’re going to sift through your transaction histories until they find checks or transfers from accounts connected to Ivan. Any additional info you guys can provide to expedite that search will of course make the whole thing go much more quickly.”
+“Then here’s what’s going to happen, buddies!” said the man jovially. “You’re each going to give me your logins and passwords to your bank accounts. And my colleagues &mdash; they’re in control of your temperature, by the way &mdash; they’re going to sift through your transaction histories until they find checks or transfers connected to Ivan. Any additional info you guys can provide to expedite that search will of course make the whole thing go much more quickly.”
 </p>
 <p>
 “Go choke on a dick, asshole! We’re not going to hand our bank accounts to you!”

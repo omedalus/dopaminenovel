@@ -30,7 +30,7 @@ The music and the thumping stopped.
 “Good morning,” Danny croaked as he emerged. “Or afternoon. How long was I out?”
 </p>
 <p>
-“It’s almost three,” said Tina. “I was getting bored!”
+“It’s almost three. I was getting bored!”
 </p>
 <p>
 He bobbed his head toward the kitchen. “So… I happen to be absolutely starving. I see you’ve been cooking?”
@@ -48,7 +48,7 @@ Her mouth formed a boastful grin. “See for yourself!”
 Danny approached the stove. As he removed the lid, he noticed that the sweet, salty smell of the broth had been completely overtaken by the fetid stink of brackish swamp water. Inside, the broth was a rancid yellowish-brown soup, thick with blobs of slime.
 </p>
 <p>
-“Looks delicious,” Danny said while suppressing a gag. He put the lid back on.
+“Looks delicious!” Danny suppressed a gag. He put the lid back on.
 </p>
 <p>
 Tina bounced toward the kitchen. “It’s in an exponential growth phase. The bacteria can double their population every half hour.”
@@ -57,13 +57,13 @@ Tina bounced toward the kitchen. “It’s in an exponential growth phase. The b
 Danny worked the math. “So after ten hours, they’d double twenty times. Two to the twentieth is a million and change. So that tiny speck you started with has multiplied by a factor of over a million by now. That’s… a lot.”
 </p>
 <p>
-“That’s biology!” Tina said.
+“That’s biology!”
 </p>
 <p>
 Danny chuckled. “You’re kind of proud of yourself right now, aren’t you?”
 </p>
 <p>
-“Well, I damn well should be!” she replied. “Seriously! I’ve been stuck behind a reception desk for almost two years, when the whole time what I’m really meant to be doing is <em>this</em>, this right here. Behold my awesome powers!” She lifted her head theatrically and splayed her black-nailed fingers.
+“Well, I damn well should be!” she replied. “Seriously! I’ve been stuck behind a reception desk for almost two years, when the whole time what I’m really meant to be doing is <em>this</em>! Behold my awesome powers!” She lifted her head theatrically and splayed her black-nailed fingers.
 </p>
 <p>
 Danny walked up to her. She wrapped her arms around his pajama-clad waist. Her bright, joyful eyes looked welcomingly into his. “So, when will we know if it works?” he asked. “If it actually makes the… you know… the drug?”
@@ -72,7 +72,7 @@ Danny walked up to her. She wrapped her arms around his pajama-clad waist. Her b
 She tilted her head toward the kitchen counter. “We already do.”
 </p>
 <p>
-Danny followed her gaze. Between the scattered glassware, he saw a small cleared area of his glossy granite countertop. There, standing out against the blackness, stretched several thin, delicate parallel lines of fine white powder. He slid reluctantly out of her embrace and leaned down to examine them closely. “Whoa…”
+Danny followed her gaze. Between the scattered glassware, he saw a small cleared area of his countertop. There, standing out against the granite blackness, stretched several parallel lines of fine white powder. He slid reluctantly out of her embrace and leaned down to examine them. “Whoa…”
 </p>
 <p>
 “I did some shopping while you were asleep,” said Tina. “I picked up some glutamate from Super Supplements. Everything else I found at Home Depot. I paid for everything with cash, so there’s no trail. I guess hanging out with you freaky hacker guys is teaching me a thing or two.”
@@ -84,7 +84,7 @@ He turned away from the fresh narcotics on the counter and returned his full att
 “What?” she asked, unfolding her arms and welcoming his approach. 
 </p>
 <p>
-He put his hands on her waist. “I’m beginning to think,” he said, “that maybe you’re kind of smart. For a girl, anyway.”
+He put his hands on her waist. “I’m beginning to think that maybe you’re kind of smart. For a girl, anyway.”
 </p>
 <p>
 She pressed her body against his. “You’re a dick,” she said with a sparkle in her eyes.

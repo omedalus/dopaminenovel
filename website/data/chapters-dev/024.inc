@@ -27,7 +27,7 @@ The music and the thumping stopped.
 “If you see your shadow,” said Tina, “do we get six weeks more winter?”
 </p>
 <p>
-“Good morning,” Danny said with a froggy voice as he emerged. He stretched his arms and ribs, his joints popping with the motion. “Or afternoon. How long was I out?”
+“Good morning,” Danny croaked as he emerged. “Or afternoon. How long was I out?”
 </p>
 <p>
 “It’s almost three,” said Tina. “I was getting bored!”

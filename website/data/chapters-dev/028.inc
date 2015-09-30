@@ -526,7 +526,7 @@ One stood and body-checked the door, his shoulder slamming hard against the glas
 “Are you fucking joking?” one said, fighting rage as the room boiled around him. Who the hell memorizes bank routing numbers?”
 </p>
 <p>
-“Then here’s what’s going to happen, buddies!” said the man jovially. “You’re each going to give me your logins and passwords to your bank accounts. And my colleagues &mdash; they’re in control of your temperature, by the way &mdash; they’re going to sift through your transaction histories until they find checks or transfers connected to Ivan. Any additional info you guys can provide to expedite that search will of course make the whole thing go much more quickly.”
+“Then here’s what’s going to happen, buddies!” said the man. “You’re each going to give me your logins and passwords to your bank accounts. And my colleagues &mdash; they’re in control of your temperature, by the way &mdash; they’re going to sift through your transaction histories until they find checks or transfers connected to Ivan. Any additional info you guys can provide to expedite that search will make the whole thing go much more quickly.”
 </p>
 <p>
 “Go choke on a dick, asshole! We’re not going to hand our bank accounts to you!”
@@ -709,7 +709,7 @@ The air vent gaped exposed and uncovered in the wall, revealing a naked wad of S
 For one silent second, both Danny and Ivan stared dumbly at the pile, saying nothing.
 </p>
 <p>
-Danny bolted for the door as Ivan shouted orders to his men. Danny’s fingers reached for the handle, but before they made contact he was pulled backward by his shirt. A wiry, muscular arm curled around his neck like a python, and he felt himself getting turned around and shoved back into the room. Someone behind him kicked him forward, toward the grey figure of Ivan Zheleznov.
+Danny bolted for the door as Ivan shouted orders to his men. Danny’s fingers reached for the handle, but before they made contact he was pulled backward by his shirt. A wiry, muscular arm curled around his neck like a python, and he felt himself getting shoved back into the room. Someone kicked him forward, toward the grey figure of Ivan Zheleznov.
 </p>
 <p>
 The lithe man who had greeted Danny at the door earlier now stood next to Ivan. He pulled a small black semi-automatic from his pocket, and pressed it to Danny’s chest. Danny felt his heart beat against the barrel. The mercenary slowly walked Danny down the steps of the sunken living room, where Danny found himself surrounded by Ivan’s men. The video game on the large television was paused &mdash; and while the digital images of gunmen stood frozen on the screen, real ones pointed their weapons at him from all directions.
@@ -718,13 +718,7 @@ The lithe man who had greeted Danny at the door earlier now stood next to Ivan. 
 In the Bluetooth earpiece, Mike said, “Danny! What’s happening?”
 </p>
 <p>
-Ivan hissed at him, “Do you thinking we are amateurs?”
-</p>
-<p>
-“Wh&mdash; What do you mean?” Danny squeaked.
-</p>
-<p>
-“A video camera bug in a air vent,” Ivan scoffed. “Is insult to the intelligence.”
+Ivan hissed at him, “Do you thinking we are amateurs? A video camera bug in a air vent! Is insult to the intelligence.”
 </p>
 <p>
 Danny squared his shoulders. He gulped hard, knowing that a convincing feint of bravado would be his only chance of survival. “I’m only here for the girl,” he said. “Hand her over and no harm will come to you.”
@@ -739,7 +733,7 @@ In the earpiece, Danny heard his team panicking. “Sergey! Bail him out! Bail h
 With as much strength as he could conjure, Danny said, “We’re willing to negotiate.”
 </p>
 <p>
-Still chuckling, Ivan said, “Yes, I sure you are. You working for Sergey. I know this already. It is surprising, really. This…” He gestured with the spycam. “This not style of Sergey. Sergey, he more like, ‘Rahhhh! March! Go!’ Punch, kick, boom boom boom. You understand? This, this is more thinking, more like the chess. Sergey was never man for the chess before. He more like man for, um, for the boxing, yes? Maybe he learning something as he getting older. Is too bad having to end working together like this.”
+Still chuckling, Ivan said, “Yes, I sure you are. You working for Sergey. I know this already. It is surprising, really. This…” He gestured with the spycam. “This not style of Sergey. Sergey, he more like, ‘Rahhhh! March! Go!’ Punch, kick, boom boom boom. You understand? This, this is more thinking, more like the chess. Maybe Sergey learning something as he getting older. Is too bad having to end working together like this.”
 </p>
 <p>
 The Bluetooth headset buzzed with the voices of Danny’s cohorts. “We can’t just sit here!” Tina insisted. Mike replied, “There’s only one option. Satish! Moshen! Have we finished isolating the X10 controllers?”
@@ -748,7 +742,7 @@ The Bluetooth headset buzzed with the voices of Danny’s cohorts. “We can’t
 Danny knew what his team was trying to do. With the gun still pressed to his chest, Danny mumbled, “I didn’t intend to be in the room for this. But I guess it doesn’t matter now, does it?” He looked at Ivan defiantly and said, “So, are you ready to start making a deal?”
 </p>
 <p>
-Ivan smirked. “<em>Deal</em>? Here making ‘deal’. We killing you soon, but not right now. First we having with you a little ‘conversation’. This man here, he is expert at having ‘conversations’ like this.” Ivan gestured to the lithe man holding the gun at Danny’s ribs. The man gave a shark-like grin and grunted happily. “You will telling us everything about where is Sergey and how you working with him. Then, when you done telling us, we finally letting you die. That is ‘deal’, understand?”
+Ivan smirked. “<em>Deal</em>? Here making ‘deal’. We killing you soon, but not right now. First we having with you a little ‘conversation’. This man here, he is expert at having ‘conversations’ like this.” Ivan gestured to the lithe man holding the gun at Danny’s ribs. The man grunted happily. “You will telling us everything about where is Sergey and how you working with him. Then, when you done telling us, we finally letting you die. That is ‘deal’, understand?”
 </p>
 <p>
 In the earpiece, Satish said, “X10 packet injection check, receiver firmware mod check…” Mike pressed, “Then let’s do it already!”
@@ -774,9 +768,6 @@ In a blink, the room lights died. The suite went dark, save for the glow from th
 The right half showed an online banking interface, logged in to a corporate account. The ledger was listed in euros, and showed a balance of seven figures.
 </p>
 <p>
-In the light of the television screen, with every gun in the room pointed at him, Danny looked Ivan in the eyes and grinned.
-</p>
-<p>
-“Actually, yeah. I’ve got a few things to say.”
+In the light of the television screen, with every gun in the room pointed at him, Danny looked Ivan in the eyes and grinned.“Actually, yeah. I’ve got a few things to say.”
 </p>
 </div>

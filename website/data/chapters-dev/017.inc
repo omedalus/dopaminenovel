@@ -378,7 +378,7 @@ Jason wordlessly brought his palm to his face and shook his head.
 Julie batted at Jason’s shoulder. “So, we had a deal…”
 </p>
 <p>
-Jason sighed. “Yeah. Your drugs,” he said, and with a grunt he stood up. “I’ll go talk to that Rex guy upstairs.” He looked down at the girl sitting on the mattress with her arms around her knees. “Thank you, Julie. You’ve been… helpful.”
+Jason sighed, and stood up with a grunt. “I’ll go talk to that Rex guy upstairs. Thank you, Julie. You’ve been… helpful.”
 </p>
 </div>
 
@@ -399,52 +399,19 @@ Danny stood and looked at Julie over the vat. She regained normal human proporti
 “I don’t do drugs,” Danny asserted. “I hate the idea of fucking with my brain.”
 </p>
 <p>
-Julie laughed at him. “You fuck with your brain all the time and you don’t even know it. Amino acids in your food get metabolized into neurotransmitters, and carbohydrates affect your cortisol levels. So does exercise, which also releases endorphins. And you breathe air, right? Do you know what different oxygen concentrations do to your neurochemistry? Or sunlight, which triggers your body to make melanin and vitamin D, which have mood-altering effects. You spend time outside in the sun, right?” She looked him over. “Okay, bad example.”
+Julie laughed at him. “Why? Because your neuroanatomy is some sort of sacred thing? Because your cognitive processes can’t use a bit of… reconfiguration? Just ask yourself one simple question: do you <em>really</em> think that your brain &mdash; <em>your</em> brain, in particular &mdash; is nearly as precise and fine-tuned a machine as you think it is?”
 </p>
 <p>
-“Yeah, but that’s all natural,” said Danny.
-</p>
-<p>
-“So’s cocaine,” Julie replied. “It comes from a plant.”
-</p>
-<p>
-Danny pointed to the barrels of chemicals around them. “Natural? You use <em>that</em> to extract it into a powder.”
-</p>
-<p>
-“You cook your food, don’t you?” the girl retorted.
-</p>
-<p>
-“Me? I usually just microwave stuff that comes out of my freezer.”
-</p>
-<p>
-“Real natural, homeboy,” Julie teased. “Besides, the very concept of agriculture &mdash; controlling your own food supply by raising plants and animals for eating. <em>That’s</em> natural? Not to mention breeding the fattest cows, the juiciest apples, and the hardiest grains for the last twenty thousand years. People get all cranky about genetically modified organisms, as if we haven’t been genetically modifying things since the Neolithic Revolution.”
-</p>
-<p>
-“Isn’t there a difference of degree?” Danny said. “I mean, isn’t there a line somewhere between growing your own plants on a farm, and directly manipulating the genome of a laboratory bacterium?”
-</p>
-<p>
-Julie shook her head. “Look, every organism on Earth alters the world around it to its own advantage. It’s part of the <em>definition</em> of life. Exploiting and manipulating other organisms is fair play. The game of life has no rules. Every living thing tries to win by tilting the playing field to its favor. Humans just happen to be incredibly good at it. Beavers make dams and bees make hives. Humans make cities and airplanes and pesticides. Controlling nature <em>is</em> our nature &mdash; it’s what we’ve evolved to do. Like everything else on this planet, we change the world in our own image. That’s how living things live. That’s how life works.”
-</p>
-<p>
-“Do you mean that in a biochemical sense, or a philosophical one?” Danny asked.
-</p>
-<p>
-Julie shrugged. “Is there a difference?”
-</p>
-<p>
-Above them, the office door opened.
-</p>
-<p>
-Jason descended toward the factory floor. Rex closely followed with gun in hand, his ragged blond hair and pocked skin looking terrible under the bright lights overhead.
+Above them, the office door opened. Jason descended the stairs. Rex closely followed with gun in hand.
 </p>
 <p>
 Julie kept her eyes fixed on them. “Well?”
 </p>
 <p>
-Rex sat down on the folding chair. He put his gun across his lap, produced something from his pocket, and hunched over the tabletop. Danny could hear faint, quick tapping noises on the table’s metal surface.
+Rex sat down on the folding chair. He put his gun across his lap, produced something from his pocket, and hunched over the tabletop. Danny could hear quick tapping noises on the table’s metal surface.
 </p>
 <p>
-Julie’s face lit up in an ecstatic grin. Her eyes and mouth went wide, and she drew in a quick breath of unbearable anticipation. With her small body and her oversized pajamas, she looked like a child beaming at the sight of a stack of presents under the tree on a wintry white Christmas morning. But in her case, the only present &mdash; the greatest present of all &mdash; was the snow. 
+Julie’s face lit up in an ecstatic grin. She drew a quick breath of unbearable anticipation. With her small body and her oversized t-shirt, she looked like a child beaming at the sight of presents under the tree on a wintry white Christmas morning. But for her, the greatest present of all was the snow. 
 </p>
 </div>
 
@@ -453,10 +420,7 @@ Julie’s face lit up in an ecstatic grin. Her eyes and mouth went wide, and she
 <span class="caplead">Julie threw her arms around Jason,</span> squealing, “Thank you! Thank you!” Jason grimly accepted the gratitude for a few moments before pushing her away.
 </p>
 <p>
-On the tabletop, Rex had cleared himself some room to work, pushing some glassware aside. The clear unlabeled bottle sat on one side of the table, next to the goggles and the rubber gloves.
-</p>
-<p>
-Rex hunched over the table, upon which sat a crumpled square of Saran wrap a few inches on each side. In the middle of the plastic wrap lay a tightly packed pile of white powder. Rex had poured some of the powder out onto the table, and was using a razor blade to carefully chop it and draw it out into lines. The razor blade made quick tap-tap-taps, punctuated by smooth slicing sounds as he dragged the drug into long, straight parallel rails.
+Rex cleared some room to work. The clear unlabeled bottle sat on one side of the table, next to the goggles and the rubber gloves. Rex hunched over the tabletop, and laid down a crumpled square of Saran wrap a few inches on each side. In the middle of the plastic wrap lay a tightly packed pile of white powder. Rex poured some of the powder out onto the table, and used a razor blade to carefully chop it and draw it out into lines. The razor blade made quick tap-tap-taps, punctuated by smooth slicing sounds as he dragged the drug into parallel rails.
 </p>
 <p>
 “You got any idea how much trouble I’d be in if the boss-man found out?” the scruffy blond man grumbled as he worked. “We’re in lockdown. I was supposed to flush this.”
@@ -465,22 +429,13 @@ Rex hunched over the table, upon which sat a crumpled square of Saran wrap a few
 Julie stared transfixed at the thin white lines as they materialized underneath the razorblade. Her expression bore the eagerness of Pavlov’s dogs upon hearing a bell.
 </p>
 <p>
-“Can I do that?” she pleaded, leaning lustily toward the powder.
-</p>
-<p>
-Rex shooed her away with a flick of his hand. “Back off, Mulan. First line is mine.”
-</p>
-<p>
-Four long rails of coke lay drawn across the shiny gray tabletop. He withdrew a dollar bill from his pocket and rolled it into a tight tube. The pock-skinned man sat up straight, tossed his long stringy blond hair behind his head, and prepared for his hit by closing his eyes and breathing a deep, calm exhale. Then, in a smooth motion, he brought the rolled-up dollar bill to one nostril, bowed his head down toward the table, and traced the end of the dollar bill along the bottom-most line while inhaling slowly and steadily. The granules disappeared from the table up into the green tube. 
-</p>
-<p>
-When the line was finished, he slowly pitched his head back with his eyes closed. He gave a slow, satisfied sigh out through his mouth. His hand gripped the table, and despite the calmness of the man’s face, Danny could see the tension in his fingers increasing. Over the course of a minute, the tension slowly climbed upward along his body, through the muscles of his arms and his neck, until a slight tremble reached his head. The man’s breathing turned quick and shallow, almost sexual in its cadence. “Oh… God <em>damn</em>,” he moaned softly.
+Four long rails of coke lay drawn across the shiny gray tabletop. He withdrew a dollar bill from his pocket and rolled it into a tight tube. He sat up straight, tossed his long stringy blond hair behind his head, and prepared for his hit by closing his eyes and breathing a deep, calm exhale. Then, in a smooth motion, he brought the rolled-up dollar bill to one nostril, bowed his head down, and traced the end of the dollar bill along the bottom-most line while inhaling. The granules disappeared from the table up into the green tube. When the line was finished, he pitched his head back with his eyes closed and emitted a slow, satisfied sigh. 
 </p>
 <p>
 Julie tried to body-check him off of the chair. “My turn!”
 </p>
 <p>
-Rex pushed her away. She stumbled backwards a few steps. Rex grabbed his gun from his lap and pointed it at her. “Mind your manners, little lady! Guests first. Gentlemen?”
+Rex pushed her away, grabbed his gun, and pointed it at her. “Mind your manners, little lady! Guests first. Gentlemen?”
 </p>
 <p>
 Danny stood petrified. Jason shook his head.
@@ -489,7 +444,7 @@ Danny stood petrified. Jason shook his head.
 Rex eyed Jason with a hint of suspicion. “Numbers? You don’t want any?”
 </p>
 <p>
-“No thanks, Rex,” said Jason. The rapid jumps of his eyes told of quick thinking in progress. “Diggitty’s on all sorts of medication, so he can’t have any. And me, I’m too old to get much out of it anymore.”
+“No thanks, Rex,” said Jason. “Umm… Diggitty’s on all sorts of medication, so he can’t have any. And me, I’m too old to get much out of it anymore.”
 </p>
 <p>
 “You sure?” Rex persisted. “It’s great stuff.”
@@ -498,19 +453,13 @@ Rex eyed Jason with a hint of suspicion. “Numbers? You don’t want any?”
 “I don’t get a high from coke,” said Jason. “I just get a headache.”
 </p>
 <p>
-Rex grunted, “Well shit. I hope I never get that old.”
+Rex grunted, “Well shit. I hope I never get <em>that</em> old.”
 </p>
 <p>
-Julie stood by like a cat at a sushi bar.
+Julie stood by like a cat at a sushi bar. Rex grudgingly muttered permission, and rose from the folding chair. He had barely gotten his rear off of the seat before she slid in and grabbed the razorblade and rolled-up dollar bill. She dove straight into the next line on the table, snorting it up as quickly as her breath would allow. She dropped the dollar bill and held her hands over her mouth and nose. She held her breath for several seconds, looking like she was about to sneeze. Tears built up in her eyes. Her accelerating pulse was visible in her ears.  
 </p>
 <p>
-Rex grudgingly muttered permission, and rose from the folding chair. 
-</p>
-<p>
-The man had barely gotten his rear off of the seat before she slid in and grabbed the razorblade and rolled-up dollar bill. Unlike Rex, who had savored the ritual of drawing the lines and taking the first hit, Julie instead simply dove straight into the next line on the table, snorting it up as quickly as her breath would allow. She dropped the dollar bill and held her hands over her mouth and nose. She held her breath for several seconds, looking like she was about to sneeze. Tears built up in her eyes. Her accelerating pulse was visible in her ears.  
-</p>
-<p>
-After almost a minute of sitting motionless, she finally made a sound. A laugh. A euphoric, delighted, childlike laugh.
+After almost a minute of sitting motionless, she finally made a sound: a euphoric, delighted, childlike laugh.
 </p>
 <p>
 “I can’t feel my face!” she giggled, and traced her fingers sensuously across her mouth and cheeks.
@@ -537,10 +486,10 @@ She guffawed. “Well fuck that! He’s going to shoot me the minute I finish a 
 Rex rolled his wide-pupilled eyes. “I keep telling you, bitch. If you behave, nobody’s going to shoot you. Fuck, I’ll shoot you if you <em>don’t</em> make a batch sooner or later.”
 </p>
 <p>
-“Alright alright, fine fine fine,” said the girl. “Let me do the rest of these lines and I’ll go pop it in the tank.” Her head again swooped down to the table. Another white rail disappeared.
+“Fine, fine,” said the girl. “Let me do the rest of these lines and I’ll go pop it in the tank.” Her head again swooped down to the table. Another white rail disappeared.
 </p>
 <p>
-This time, instead of holding her face, her eyes darted back and forth, looking at the various objects on the tabletop. She fidgeted with her hands, and occasionally looked over her shoulder towards Rex.
+This time, instead of holding her face, her eyes darted back and forth, looking at the objects on the tabletop. She fidgeted with her hands, and occasionally glanced over her shoulder towards Rex.
 </p>
 <p>
 “Are you okay?” asked Danny.
@@ -549,16 +498,10 @@ This time, instead of holding her face, her eyes darted back and forth, looking 
 “I’m fine,” she said quickly.
 </p>
 <p>
-“You look, I don’t know, agitated,” he observed.
+“You look agitated,” he said.
 </p>
 <p>
 “I’m just thinking…” she replied.
-</p>
-<p>
-“About what?” Danny asked.
-</p>
-<p>
-She didn’t answer.
 </p>
 <p>
 From outside, past the large double doors on the opposite side of the factory, came the sound of an engine, followed by car doors opening and closing.
@@ -576,28 +519,28 @@ Danny recognized the voice. It was the voice that he had heard on the stolen cel
 Rex froze in place. “Oh… shit…”
 </p>
 <p>
-A third voice rose from behind the doors. Danny recognized it as the voice of the man who had threatened to kill him in the Tungsten hallway: Eugene Mukhayev. “That’s the car! That’s their fucking car!”
+A third voice rose from behind the doors. Danny recognized it as the voice of the man from the Tungsten hallway: Eugene Mukhayev. “That’s the car! That’s their fucking car!”
 </p>
 <p>
-Jason gulped, and backed toward the rear wall to lean on a steel drum.
+Jason gulped, and backed toward the rear wall, behind the steel drums.
 </p>
 <p>
-Rex sprang to life. He dashed back toward the table, jostling the glassware on it. The mist inside the clear unlabeled bottle swayed gently. “We’ve got to get rid of the coke! I wasn’t supposed to give you any! I’m not even supposed to have any. Fuck…”
+Rex sprang to life. “We’ve got to get rid of the coke! I wasn’t supposed to give you any! I’m not even supposed to have any. Fuck…”
 </p>
 <p>
-Julie, still fidgeting, grabbed clumsily at the square of Saran wrap. While handing it to Rex, she carefully enunciated, “Whoops!”, and fumbled the open packet of powder. Most of the drug spilled onto the floor, forming a small but conspicuous pile near the chair. She swept the remaining cocaine from the table down onto the floor after it.
+Julie, still fidgeting, grabbed clumsily at the square of Saran wrap. While handing it to Rex, she carefully enunciated, “Whoops!”, and fumbled the open packet of powder. The drug spilled onto the floor, forming a conspicuous pile on the floor. She swept the remaining cocaine from the table down after it.
 </p>
 <p>
 “Oh fuck me!” Rex said, almost panicking. He bent down next to Julie and began sweeping the powder out of sight.
 </p>
 <p>
-“What I was thinking about,” said Julie, speaking rapidly, “was that dopamine is active in more than just the nucleus accumbens. It’s one of the most common neurohormones in the entire human brain. You know where else it’s found?”
+“What I was thinking about,” said Julie, speaking rapidly, “was that dopamine is active in more than just the nucleus accumbens. You know where else it’s found?”
 </p>
 <p>
-Jason, his voice dry with terror, said, “Julie, I don’t think we have time for…”
+Jason, his voice dry with fear, said, “Julie, I don’t think we have time for…”
 </p>
 <p>
-“The substantia nigra,” said the girl. “It’s a part of your brain that controls movement. It’s the part that deteriorates in people with Parkinson’s disease. The substantia nigra is connected directly to the reward pathway, and it’s actually <em>more</em> involved in addiction than the pleasure centers. The pleasure centers might shape your desires, but the substantia nigra affects what you actually <em>do</em> about those desires.”
+“The substantia nigra,” said the girl. “It’s a part of your brain that controls movement. It’s the part that deteriorates in people with Parkinson’s disease. The pleasure centers might shape your desires, but the substantia nigra affects what you actually <em>do</em> about those desires.”
 </p>
 <p>
 “Julie, please!” Jason implored. “Just help us think of a way out of here!”
@@ -606,22 +549,22 @@ Jason, his voice dry with terror, said, “Julie, I don’t think we have time f
 Outside, the voices argued. “Nothing? What do you mean, nothing?” shouted Sergey. The guard replied, “They scrubbed the car, boss. They even pulled off their VIN tags.”
 </p>
 <p>
-“Now, what’s interesting about the substantia nigra,” Julie continued, “is that it functions by lateral inhibition. The substantia nigra takes all the possible different things you can do at any given moment, and chooses one based on learned reward expectation. See, your cerebral cortex &mdash; that’s basically the thinking part of your brain &mdash; comes up with dozens of different courses of action, all the time, every second you’re awake. Blink now or blink later? Left foot forward or right foot forward? Voice the word ‘hello’ or voice the word ‘goodbye’? You get the idea…”
+“Now, what’s interesting about the substantia nigra,” Julie continued, “is that it functions by lateral inhibition. It takes all the possible different things you can do at any given moment, and chooses one based on learned reward expectation. See, your cerebral cortex comes up with dozens of different courses of action, all the time, every second you’re awake. Blink now or blink later? Left foot forward or right foot forward? Say ‘hello’ or say ‘goodbye’?…”
 </p>
 <p>
-Rex, his face pale, kept sweeping desperately at the floor. “Fuck fuck fuck! He’s gonna know, he’s gonna know…”
+Rex, his face pale, kept sweeping desperately at the floor. “Fuck fuck fuck! He’s gonna know…”
 </p>
 <p>
 Danny watched the Asian girl’s hands as she talked. He noticed a pattern to her movements. She wasn’t fidgeting. She was rehearsing.
 </p>
 <p>
-“…But of all those actions you’re thinking of taking all the time,” Julie resumed, “only one ever wins out. And it’s the substantia nigra that makes the selection, of all the hypothetical bodily movements you can possibly take, which one will reach its activation threshold and ultimately send an impulse to the corresponding muscles. And the substantia nigra, like the mesolimbic pathway, runs on dopamine.”
+“…But of all those actions you’re thinking of taking all the time,” Julie resumed, “only one ever wins out. And it’s the substantia nigra that makes the selection. Of all the hypothetical bodily movements you can possibly take, the substantia nigra chooses which one will get to activate the muscles. And the substantia nigra runs on dopamine.”
 </p>
 <p>
 “Julie!” Jason barked. “Either help or shut up!”
 </p>
 <p>
-From the alley, the voice of Sergey said commandingly, “You fucking stay here! Guard door like you were supposed to in a first place! Eugene and I go take care of this ourselves. We have score to settle with these assholes.” 
+From the alley, the voice of Sergey commanded, “You stay here! Guard door like you were supposed to! Eugene and I go take care of this ourselves.” 
 </p>
 <p>
 Footsteps ascended the stairs outside.
@@ -636,9 +579,9 @@ Suddenly she stopped moving and locked eyes with Danny. “My point,” she said
 She turned to look down at Rex on the floor hiding the mess of cocaine. She gave him an innocent smile. “And do you know what I’m thinking right now?” she asked him sweetly.
 </p>
 <p>
-“What?” the pock-skinned, long-haired blond man growled, looking up from his crouched position next to her chair.
+“What?” the pock-skinned, long-haired  man growled, looking up from his crouched position next to her chair.
 </p>
 <p>
-And she swiftly reached across the table, grabbed the clear unlabeled bottle, pulled out the stopper, and poured half a liter of hydrochloric acid down onto his face. 
+And she reached across the table, grabbed the clear unlabeled bottle, pulled out the stopper, and poured half a liter of hydrochloric acid down onto his face. 
 </p>
 </div>

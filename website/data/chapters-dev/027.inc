@@ -1,9 +1,6 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Beneath a star-filled sky, Jason’s yacht</span> rocked gently on wind-driven waves.
-</p>
-<p>
-“Can you make the boat hold still?” Danny insisted.
+<span class="caplead">Beneath a star-filled sky, Jason’s yacht</span> rocked gently on wind-driven waves. “Can you make the boat hold still?” Danny insisted.
 </p>
 <p>
 On the bridge above, Jason manned the helm. “It’s on water. It’s as still as it’s going to get.”
@@ -18,7 +15,7 @@ Danny braced his HERF gun against the yacht’s handrail. “Well, it has to sto
 “Oh yeah,” Danny replied, eyeing the gun’s indicator lamps. “I can boost the gain up to thirty decibels. Those Coast Guard radar stations along the shore? I can knock them out from half a mile away. But boosting tightens the beam, so I need to line it up just right…”
 </p>
 <p>
-Out past the HERF gun’s nozzle, past the the moonlit water, there spread the steep tree-lined banks of the Medina waterfront. And over that waterfront, dwarfing the personal mansions of tech tycoons, rose the twelve-story edifice of the Medina Gallante. Its floor-to-ceiling windows formed checkerboard patterns of iridescent green. Cobblestone pillars buttressed its walls. Sloped brown beams of cedar supported multi-leveled roofs. The hotel’s architecture evoked a sense of natural belonging, like a living growth of wood, stone, and crystal rising up from the forested waterline. At the base of the hotel, a private wharf jutted out into the lake.
+Out past the HERF gun’s nozzle, across the the moonlit water, there spread the steep tree-lined banks of the Medina waterfront. And over that waterfront, dwarfing the personal mansions of tech tycoons, rose the twelve-story edifice of the Medina Gallante. Its floor-to-ceiling windows formed checkerboard patterns of iridescent green. Cobblestone pillars buttressed its walls. Sloped brown beams of cedar supported multi-leveled roofs. At the base of the hotel, a private wharf jutted out into the lake.
 </p>
 <p>
 “This is exactly what this device is designed for,” Danny explained as he made adjustments. “I built it during Claymore’s contract with Naval Base Kitsap. I told the Navy they needed to harden their electronics against directed electromagnetic pulses. They laughed and said that EMPs are, um, ‘sci-fi hootenanny’, were their exact words. Well, I told them, ‘Give me a high-power magnetron, and I’ll show you hootenanny.’ They did, just to humor me. And when I came back and demonstrated this device to prove my point, they were surprisingly displeased!”
@@ -27,16 +24,10 @@ Out past the HERF gun’s nozzle, past the the moonlit water, there spread the s
 “So <em>that’s</em> what happened to the Kitsap contract,” Jason said. “You know, the investment board never got a straight answer from you about it…”
 </p>
 <p>
-“Yeah, well. My point is, the Coast Guard’s radar systems are the same kind as the Navy’s. Somewhere along that shoreline, there’s an automated radar station watching this stretch of water. It’s a plastic dome, about the size of a beach ball, painted to look like a rock. It’s sweeping the area with a 5-degree beam at 2.8 gigahertz…”
+“Yeah, well. My point is, the Coast Guard’s radar systems are the same kind as the Navy’s. Somewhere along that shoreline, there’s an automated radar station watching this stretch of water. It’s a plastic dome, about the size of a beach ball, painted to look like a rock. It’s sweeping the area with a 5-degree beam at 2.8 gigahertz…” He pulled the trigger. “…And now it’s not.”
 </p>
 <p>
-Danny pulled the trigger. 
-</p>
-<p>
-“…And now it’s not.”
-</p>
-<p>
-Jason asked, “That’s it? Just like that, the Coast Guard’s radar is down?””
+Jason asked, “That’s it? Just like that, the Coast Guard’s radar is down?”
 </p>
 <p>
 Danny nodded. “If by ‘down,’ you mean fried to a crisp. They’ll no doubt send a repair crew in the morning. But tonight, the sea is ours.”
@@ -81,11 +72,10 @@ Danny checked his DropBox account. A new file awaited him.
 Danny nodded, and plugged his data stick into a USB port. “It means,” he said while copying files, “that I’ll be checking out the Gallante’s fine dining establishments.” Danny turned his attention to the small motionless icon. “Moshen, what’s your status?”
 </p>
 <p>
-Moshen’s disembodied voice replied, “I’m parked on some side-street five miles away.”
+Moshen’s disembodied voice replied, “I’m parked on a side-street five miles away.”
 </p>
 <p>
 “Great,” Danny said. “How are you feeling? Confident? Nervous?”
->>>>>>> d36d27f15245572cf9dbbc8b820371c6b30b3fc2
 </p>
 <p>
 Moshen said, “Um…”
@@ -142,7 +132,7 @@ She glared at him with a gaze so cold that her image almost began frosting the s
 He looked away meekly. “I know…”
 </p>
 <p>
-The rumble of the yacht’s engines cut out. On the deck above, Jason slung ropes to moor the yacht to the dock.
+The rumble of the yacht’s engines cut out. On the deck above, Jason slung ropes to moor the yacht.
 </p>
 <p>
 “It’s go-time,” Danny told his teammates.
@@ -160,13 +150,7 @@ He stepped away from the webcam and rummaged through supplies. When he returned,
 “…Now you don’t!”
 </p>
 <p>
-Behind him, Jason descended into the cabin. “The ship’s secure, Danny.”
-</p>
-<p>
-Danny took a deep breath to steel himself.
-</p>
-<p>
-“Try not get killed,” said Jason. “Come back here when you’re ready for extraction. I’ll be waiting.”
+Behind him, Jason descended into the cabin. “The ship’s secure,” he said. “Danny, try not get killed. Come back here when you’re ready for extraction. I’ll be waiting.”
 </p>
 <p>
 “Actually, Jason,” Danny said, “there’s a very important task that I need you to handle.”

@@ -1,21 +1,21 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Pike Place Market teemed</span> with tourists, locals, and seagulls alike, as the smell of fish and the music of street performers filled the air. Built on a steep slope overlooking Elliott Bay, the countless shops and cafés were constructed atop one another, connected by chaotic networks of stairs and ramps. Farmers set up fruit carts; artists hocked watercolor paintings; fishmongers threw salmon over the heads of cheering customers. 
+<span class="caplead">Pike Place Market teemed</span> with tourists, locals, and seagulls alike, as the smell of fish and the music of street performers filled the air. Built on a steep slope overlooking Elliott Bay, the countless shops were constructed atop one another, connected by chaotic networks of stairs and ramps. Farmers set up fruit carts; artists hocked watercolor paintings; fishmongers threw salmon over the heads of cheering customers. 
 </p>
 <p>
 Sergey Mukhayev sat in a wicker patio chair at a small round table at an outdoor café, sipping tea and waiting. 
 </p>
 <p>
-The tea was hot, black, and strong. He wasn’t supposed to indulge, but this one cup of tea wouldn’t kill him. It was simply a nod to the truth &mdash; and the truth, like the tea, was bitter. It would be ten years before Rosie would graduate college. His chances of seeing that happen were fifty-fifty at best. In however many years remained for him, his sole purpose was to secure her future, to at least partially rectify the tragedy he had made of her innocent young life. His business, with its secrecy and violence, unfortunately happened to be incredibly lucrative. Through it he had caused his own damnation. And through it, he sought to earn some glimmer of redemption.
+The tea was hot, black, and strong. He wasn’t supposed to indulge, but this one cup of tea wouldn’t kill him. It was simply a nod to the truth &mdash; and the truth, like the tea, was bitter. It would be ten years before Rosie would graduate college. His chances of seeing that happen were fifty-fifty. In however many years remained for him, his sole purpose was to secure her future, to at least partially rectify the tragedy he had made of her innocent young life. His business, with its secrecy and violence, unfortunately happened to be incredibly lucrative. Through it he had caused his own damnation. And through it, he sought to earn some glimmer of redemption.
 </p>
 <p>
 He felt the caffeinated drink begin to take its effect. His heart quickened. Ironic stuff, tea was &mdash; so soothing to the mind, yet so stressing to the body.
 </p>
 <p>
-And with the quickening came the pain. A sharp pinch stabbed his chest, like heartburn after a meal of needles. He pressed his hand to his sternum and winced. His head felt as though he had stood up too quickly. He made himself cough several times; the dry hacking motion helped get the blood flowing back to his head.
+And with the quickening came the pain. A sharp pinch stabbed his chest, like heartburn after a meal of needles. He pressed his hand to his sternum and winced. His head felt as though he had stood up too quickly. He made himself cough several times to get the blood flowing back to his head.
 </p>
 <p>
-His fingers felt around in his pocket for his pills, searching for the beads of chewable aspirin mixed in among the hard round beta-blockers and the long oval statin tablets. He preferred to keep them jumbled in his pocket, outside their bottles. Bottles of pills made distinct rattling noises, and he’d be damned if he was going to walk around the city jingling with medication like a goddamned geriatric. He was only forty-seven years old and still strong as an ox &mdash; his muscles lacked the definition they’d once had in his youth, but he was still as powerful as ever. And if any lousy cretin dared to look at him like some kind of poor frail invalid, he’d sooner stab the son of a bitch’s eyes out than suffer a moment of his pity. 
+His fingers felt around in his pocket for his pills, searching for the beads of chewable aspirin mixed in among the hard round beta-blockers and the long oval statin tablets. He preferred to keep them jumbled in his pocket, outside their bottles. Bottles of pills made distinct rattling noises, and he’d be damned if he was going to walk around the city jingling with medication like a goddamned geriatric. He was only forty-seven years old and still strong as an ox &mdash; his muscles lacked the definition they’d once had in his youth, but he was still as powerful as ever. And if any lousy cretin dared to look at him like some kind of poor frail invalid, he’d sooner stab the son of a bitch’s eyes out than suffer a moment of pity. 
 </p>
 <p>
 The aspirin worked quickly. The pain subsided, and Sergey resumed sipping his tea.
@@ -27,7 +27,7 @@ From behind came a man’s voice. It was dry and aged. “Sergey Mukhayev,” it
 The old man carried a manila envelope. He sat down across the table. “You’re a difficult man to contact, Sergey,” he said in Russian. “You don’t reply to email, your telephone goes straight to voicemail… Why, if that Leo boy hadn’t answered for you, I was about ready to send a courier over to your house.”
 </p>
 <p>
-Sergey stared at him suspiciously. “I’ve had a few issues with my communication channels lately. Am I supposed to know you?”
+Sergey stared at him suspiciously. “I’ve had issues with my communication channels lately. Am I supposed to know you?”
 </p>
 <p>
 “No,” said the old man. “But it’s part of my job to know you.”
@@ -129,7 +129,7 @@ Passinsky grimaced. “Even an overgrown Leningrad street urchin should at least
 “It is now,” Sergey smirked. 
 </p>
 <p>
-The elderly man sighed and leaned forward, clasping his hands. “Sergey, let me make something perfectly clear. This exchange that I propose is strictly a professional courtesy. I sincerely hope that you are willing to hand over the vial amicably. Because if you do not, then I’ll have to have my boss’s men extract it from you by force &mdash; and if you are indeed having ‘communication problems’, then you are hardly in a position to put up much of a fight. I would really prefer that the matter does not escalate to such a level &mdash; not because I give a damn about you, but because it would greatly displease my boss. And my boss is not a man I wish to displease further. So that is why I extend to you the invitation of handling this matter by way of exchange &mdash; it is the closest I can come to a win-win solution. Do you understand?” 
+The elderly man sighed and leaned forward, clasping his hands. “Sergey, let me be clear. This exchange that I propose is strictly a professional courtesy. I sincerely hope that you hand over the vial amicably. Because if you do not, then I’ll have to have my boss’s men extract it from you by force. I would really prefer that the matter does not escalate to such a level &mdash; not because I give a damn about you, but because it would greatly displease my boss. And my boss is not a man I wish to displease further. So that is why I extend to you the invitation of handling this by way of exchange &mdash; it is the closest I can come to a win-win solution. Do you understand?” 
 </p>
 <p>
 Sergey stared at the old scientist contemptuously.

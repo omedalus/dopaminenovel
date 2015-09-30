@@ -5,57 +5,10 @@
 <strong>Priority:</strong> P1<br/>
 <br/>
 <strong>Title:</strong> Network handler corrupts player inventory<br/>
-<strong>Description:</strong> The Player class’s getInventory accessor returns a pointer to Inventory object, instead of scoped reference with a mutex lock as I have recommended. At PlayerNetworkHandler.cpp:2163, awolfson creates a race condition between the network and UI threads. If a player can induce concurrent writes, random items will appear in their inventory (demonstrated in unit test #12271).<br/>
-<br/>
-<strong>Comments: </strong><br/>
-<strong>ssrinivanasan</strong><br/>
-If the dev team would take my design advice then they would not have these bugs in the first place.<br/>
-<br/>
-<strong>awolfson</strong><br/>
-It’s not the player’s real inventory that’s affected, only their client-side snapshot. It self-corrects during the next state pull. Yes, this is a bug, but a very minor one.<br/>
-<strong>Priority changed from P1 to P3 by awolfson.</strong><br/>
-<br/>
-<strong>ssrinivanasan</strong><br/>
-You are missing the bigger picture. The issue is not just this one bug. The issue is that you are using bad overall software development practices. More bugs like this will continue to be filed until this changes.<br/>
-<strong>Priority changed from P3 to P1 by ssrinivanasan.</strong><br/>
-<br/>
----<br/>
-<strong>Bug#:</strong> 7392303 <br/>
-<strong>Submitted by:</strong> awolfson<br/>
-<strong>Assigned to:</strong> ssrinivanasan<br/>
-<strong>Priority:</strong> P1<br/>
-<br/>
-<strong>Title:</strong> Stick lodged in Satish’s butt again<br/>
-<strong>Description:</strong> Judging by Bug Report #7392252, it's clear that Satish has once again sat down on a large metal rod, which must be removed from his rectum immediately.<br/>
-<br/>
-<strong>Comments: </strong><br/>
-<strong>ssrinivanasan</strong><br/>
-Real mature. Need I remind you that this is grossly inappropriate use of company's bug-tracking database.<br/>
-<br/>
-<strong>awolfson</strong><br/>
-I know you are but what am I?<br/>
-<br/>
-<strong>ssrinivanasan</strong><br/>
-
-<div class="formcommentbox">
-  <br/>
-  <br/>
-  <br/>
-</div>
-
-<br/>
-</div>
+<strong>Description:</strong> The Player class’s getInventory accessor returns a pointer to Inventory object, instead of scoped reference with a mutex lock. At PlayerNetworkHandler.cpp:2163, there is a race condition between the network and UI threads. If a player can induce concurrent writes, random items will appear in their inventory (demonstrated in unit test #12271).<br/>
+</div>
 <p>
-Satish stared apoplectically at the comment entry field, searching for the right words to express his righteous indignation. He swore to himself that the young lead developer Aaron Wolfson would feel his wrath.
-</p>
-<p>
-He was so embroiled in the flame war that he didn’t notice someone enter his office until he heard the door close.
-</p>
-<p>
-Satish looked up from his monitor. The first thing he saw was a large cardboard box. The second was the man holding it.
-</p>
-<p>
-“Danny?” Satish said, unhappily surprised.
+Satish typed details of the defect into the bug tracker. He was so engrossed in providing a thorough and accurate bug description that he didn’t notice someone enter his office until he heard the door close. He looked up from his monitor. The first thing he saw was a large cardboard box. The second was the man holding it. “<em>Danny?</em>”
 </p>
 <p>
 “Hey.” Danny dropped the box. It fell lightly.
@@ -70,7 +23,7 @@ Satish eyed the box. “What’s that?”
 Satish shook his head. “How did you get inside the building? Do you have a visitor’s badge? Are you just walking around on Microsoft property without an escort?”
 </p>
 <p>
-“Do you know what I just discovered a few minutes ago?” Danny said nonchalantly. “If you’re standing outside a doorway carrying a large, heavy-looking box and you act like you’re struggling to grab the door handle, then not only will people not bother asking for ID, they’ll even hold the doors open for you. True story!”
+“Do you know what I just discovered a few minutes ago?” Danny said nonchalantly. “If you’re standing outside a doorway carrying a large, heavy-looking box and you act like you’re struggling to grab the door handle, then not only will people <em>not</em> ask you for ID, they’ll even hold the doors open for you.”
 </p>
 <p>
 Satish crossed his arms. “What are you doing here?”
@@ -94,31 +47,31 @@ A moment of silence passed between the two men. Satish’s face was a complex mi
 “There’s some kind of Russian mob war,” Danny explained. “Some kingpin kidnapped his daughter. He’s staying at the Medina Gallante hotel. Sergey is demanding that I join him to rescue her.”
 </p>
 <p>
-Another silent moment passed. Satish stared at him, wordless.
+Satish stared at him, wordless.
 </p>
 <p>
-“I need your help, Satish,” Danny said.
+“I need your help,” Danny said.
 </p>
 <p>
-After a long, tense pause, Satish replied, “Okay.”
+After a long pause, Satish replied, “Okay.”
 </p>
 <p>
-Danny was taken aback. “Really? Just like that?”
+“Really?” Danny asked, relieved. “Just like that?”
 </p>
 <p>
-“Yes,” Satish replied. “Look. I think you’re kind of a clueless idiot. But there’s a big difference between disliking you and letting you get killed. So, yes, I’ll help.”
+“Yes,” Satish replied. “Look. I think you’re kind of clueless, but that doesn’t mean I want you killed. So, yes, I’ll help.”
 </p>
 <p>
-“Thank you, Satish,” Danny said humbly.
+“Thank you,” Danny said humbly.
 </p>
 <p>
-Businesslike, Satish asked, “Now, is your passport valid?”
+Satish asked, “Now, is your passport valid?”
 </p>
 <p>
 Danny shook his head. “My… What?”
 </p>
 <p>
-“Flights from Sea-Tac to Chhatrapati Shivaji take between twenty to thirty hours,” Satish told him. “You can get a visa on arrival, so entering India will be no problem. I have a brother that can meet you at the airport. He runs an English-language call center in Mumbai. I’ll ask him to set you up with a job. It won’t pay much by American standards, but the money will go far in Maharashtra. Now, as for the plane trip, if you buy a one-way ticket for immediate departure, you’ll ring alarm bells, so what you should…”
+“Flights from Sea-Tac to Chhatrapati Shivaji take between twenty to thirty hours,” Satish told him. “You can get a visa on arrival, so entering India will be no problem. I have a brother that can meet you at the airport. He runs an English-language call center in Mumbai. I’ll ask him to set you up with a job. It won’t pay much by American standards, but the money will go far in Maharashtra. Now, as for buying the plane ticket…”
 </p>
 <p>
 “Whoa, Satish, stop!” Danny interrupted. “I’m not fleeing the country.”
@@ -130,7 +83,7 @@ Danny shook his head. “My… What?”
 Danny reached into his pocket and withdrew his data stick. “I got the source code to the Medina Gallante’s security and hotel management systems. I need your help to find a vulnerability and crack into their computers. And we need to do it right now.”
 </p>
 <p>
-Satish stuttered. “Don’t be silly, Danny. You don’t have to do that. You can get out of this.”
+“Don’t be silly, Danny. You don’t have to do that. You can get out of this.”
 </p>
 <p>
 “I <em>want</em> to do it,” Danny insisted. “I’m <em>choosing</em> to.”
@@ -157,7 +110,7 @@ Danny simply smiled, and spoke softly. “Look, Satish. I’ve asked myself: Why
 “You’re right, Satish. I could take you up on fleeing the country &mdash; a very generous and kind-hearted offer, by the way. I know I’d be alright. I’d be safe. I’d work, I’d pay my rent, I’d put food on my plate, I’d go on living like I always do. I’d survive.
 </p>
 <p>
-“But you know what? At this point in my life, I’m far past the point of considering that a win. I <em>know</em> I can survive. I’ve already thoroughly proven that I’m a viable, productive, self-sustaining human being. Yes, in theory, I can go on merely surviving. But you know what? I won’t. I’m sick of it. I can do better. Mere survival is the <em>bottom</em> of Maslow’s Hierarchy. I’ve earned the right &mdash; no, the <em>obligation</em> &mdash; to reach for something higher.”
+“But you know what? At this point in my life, I’m far past the point of considering that a win. I <em>know</em> I can survive. I’ve already thoroughly proven that I’m a viable, productive, self-sustaining human being. Yes, I can go on merely surviving. But you know what? I won’t. I’m sick of it. I can do better. Mere survival is the <em>bottom</em> of Maslow’s Hierarchy. I’ve earned the right &mdash; no, the <em>obligation</em> &mdash; to reach for something higher.”
 </p>
 <p>
 “And getting involved in a drug war is your idea of ‘something higher’?” said Satish. “No pun intended.”
@@ -205,22 +158,7 @@ Danny laid the data stick on Satish’s desk, and slid it forcefully toward him.
 “Now, please help me do that,” Danny said.
 </p>
 <p>
-Satish’s face boiled with disapproval. He shook his head, made dismissive gestures, and emitted a few grunts. Several times he opened his mouth ready to offer a retort, but only a fraction of a syllable came out. Eventually he turned away from Danny to brood in quiet contemplation at his desk. Finally, his hand moved toward the data stick lying on his desk. After several long, silent moments, he said to Danny without turning toward him, “You can’t reverse engineer an entire deployed customer solution in a matter of hours.”
-</p>
-<p>
-Danny sighed. “You haven’t even looked at the code yet.”
-</p>
-<p>
-“I don’t need to,” Satish insisted. “It can’t be done. And besides, even if we write a successful exploit &mdash; a virus or a trojan of some kind &mdash; it’s still not clear how we would deliver it to the Medina Gallante’s computer systems…”
-</p>
-<p>
-“Stop figuring out why it can’t be done,” Danny commanded, “and start figuring out how to do it.”
-</p>
-<p>
-Several silent seconds passed as Satish sat with a frown, slowly tapping the data stick on his desk.
-</p>
-<p>
-Finally, he spun in his chair, swung the data stick toward his workstation, and plugged it into a USB port.
+Satish’s face boiled with disapproval. He shook his head and made dismissive gestures. Eventually he turned away from Danny to brood in quiet contemplation. Slowly, his hand moved toward the data stick lying on his desk. He tapped it against his desk. Finally, he spun in his chair, swung the data stick toward his workstation, and plugged it into a USB port.
 </p>
 <p>
 “First thing we can do,” Satish said, opening colorful windows on his computer screen, “is search through all comments in the source code.”
@@ -229,13 +167,13 @@ Finally, he spun in his chair, swung the data stick toward his workstation, and 
 Danny grinned.
 </p>
 <p>
-“We’ll look for lines marked, ‘TODO’,” Satish explained. “A lot of times programmers will leave notes for themselves to clean up a bad piece of code. If they’re working toward a deadline and they have to add a new feature quickly, usually they’ll write a sloppy, unreliable version first, with the intent to come back and fix it later when they have more time. But they forget, or they run out of time, so the rough draft ends up getting deployed to the customer site.”
+“We’ll look for lines marked, ‘TODO’,” Satish explained. “A lot of times programmers will leave notes for themselves to clean up a bad piece of code. If they’re working toward a deadline and they have to add a new feature quickly, usually they’ll write a sloppy, unreliable version first, with the intent to come back and fix it later when they have more time. Which, of course, they never do.”
 </p>
 <p>
 Heartened, Danny marched over to Satish’s whiteboard and grabbed a dry-erase marker. “Let’s enumerate the system’s external points of contact,” he said, listing as he spoke. “There’s the billing subsystem. The VOIP telephone subsystem. The police alarm subsystem…”
 </p>
 <p>
-“This source code includes their unit tests and build verification tests,” Satish said as blocks of text slid across his screen. “I can run a code coverage analysis of their internal testing suite. It will highlight portions that their own quality assurance systems maybe failed to test properly. If there are any bugs in the code’s low-coverage areas, the engineers would’ve missed them. …Danny?”
+“This source code includes their unit tests and build verification tests,” Satish said as blocks of text slid across his screen. “I can run a code coverage analysis of their internal testing suite. It will highlight portions that their own quality assurance systems failed to test properly. If there are any bugs in the code’s low-coverage areas, the engineers would’ve missed them. …Danny?”
 </p>
 <p>
 “Yeah?”

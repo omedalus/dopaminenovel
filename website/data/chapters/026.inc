@@ -39,19 +39,16 @@ The entrance of the Presidential Suite of the Medina Gallante was a pair of larg
 In a blink, every man snapped his full attention to the entryway. Those who were sitting jumped to stand; those who were standing crouched into attack postures. Prostitutes were unceremoniously thrown aside. Handguns leaped from holsters and pointed at the door. Metallic clicks echoed through the room as safeties switched off, hammers cocked, cylinders spun, and slides latched.
 </p>
 <p>
-Through the door came a rasping, gravelly male voice. “Easy, boys! It’s just me!”
-</p>
-<p>
-Handguns lowered and stances relaxed. 
+Through the door came a rasping, gravelly voice. “Easy, boys! It’s just me!”
 </p>
 <p>
 The double doors swung open, pushed apart by the arms of a cavalier middle-aged man in a three-piece suit. In the entryway stood the silver-haired, beak-nosed figure of Ivan Zheleznov. He strutted in like a king among loyal peasants. The mercenaries hooted greetings.
 </p>
 <p>
-Passinsky unfolded his long, gaunt legs in the complicated process of rising from the deep couch. He stood humbly and greeted Ivan with a deferential nod.
+Passinsky rose from the deep couch. He stood humbly and greeted Ivan with a deferential nod.
 </p>
 <p>
-Ivan’s sharp voice spoke again. “Ah, Petya! It’s good to see you. You and I will settle up in a minute. For now, my brothers, show some love! We have a special guest!”
+Ivan’s sharp voice spoke again. “Ah, Petya! You and I will settle up in a minute. For now, my brothers, show some love! We have a special guest!”
 </p>
 <p>
 Three men followed Ivan, carrying a rolled-up corduroy rug bound with plastic cord. The cylindrical mass sagged and drooped, defying their efforts to haul it through the doorway.
@@ -171,22 +168,16 @@ Passinsky felt his blood run cold. “I… I’m afraid I don’t understand. Wh
 “Did we now?” Ivan said with a smirk.
 </p>
 <p>
-Passinsky’s thin lips curled downward. “Do you think I work for you because I enjoy gazing upon your face?”
+Passinsky’s thin lips curled downward. “Do you think I work for you because I enjoy gazing upon your face?” One look at Ivan’s face, and Passinsky knew he was treading very dangerous ground. He harshly swallowed his bile. “Sir. I didn't mean to be rude. But as a businessman, I’m sure you understand that our arrangement was supposed to further my own interests as well as yours. I have personal theories about the functioning of the brain that I’ve been waiting for <em>decades</em> to put to the test. At the Russian Academy of Sciences, my objectives were continuously sidelined by whatever pseudoscientific fixation captured the Politburo’s momentary attention. In the ’60s, it was Lysenkoism. Polywater in the ’70s. Telekinesis in the ’80s. What they called ‘science’ was puerile politically-driven prostitution! And now, with the Soviet Union dissolved, my sole access to equipment and personnel lies in the private sector &mdash; which, in today’s Russia, means doing business with… gentlemen such as yourself. So, let there be no mistake. I did genuinely find your project to be an intriguing diversion. But my labor for you was contingent on the understanding that, once I completed your R&amp;D goals &mdash; which I have! &mdash; then you would grant me full control of the laboratory with uninterrupted funding for the remainder of my lifetime.”
 </p>
 <p>
-Ivan stared sinisterly at the gaunt old man. “Careful, Petya. You wouldn’t want to say something you’d regret.”
-</p>
-<p>
-Passinsky harshly swallowed his bile. “Sir. I didn't mean to be rude. But as a businessman, I’m sure you understand that our arrangement was supposed to further my own interests as well as yours. I have personal theories about the functioning of the brain that I’ve been waiting for <em>decades</em> to put to the test. At the Russian Academy of Sciences, my objectives were continuously sidelined by whatever pseudoscientific fixation captured the Politburo’s momentary attention. In the ’60s, it was Lysenkoism. Polywater in the ’70s. Telekinesis in the ’80s. What they called ‘science’ was puerile politically-driven prostitution! And now, with the Soviet Union dissolved, my sole access to equipment and personnel lies in the private sector &mdash; which, in today’s Russia, means doing business with… gentlemen such as yourself. So, let there be no mistake. I did genuinely find your project to be an intriguing diversion. But my labor for you was contingent on the understanding that, once I completed your R&amp;D goals &mdash; which I have! &mdash; then you would grant me full control of the laboratory with uninterrupted funding for the remainder of my lifetime.”
-</p>
-<p>
-Ivan, with a shark-like smirk, replied, “Well, that’s just it, Petya. It appears that your life simply won’t be all that long.”
+Ivan replied condescendingly, “Well, that’s just it, Petya. It appears that your life simply won’t be all that long.”
 </p>
 <p>
 “Oh, I expect I have many good years left in me yet,” Passinsky contested. “I’ve maintained a strict nutrition and exercise regimen my entire life, and am in excellent health for a man my age.”
 </p>
 <p>
-Ivan clucked condescendingly. “Petya, I’m not referring to your age.”
+“Petya, I’m not referring to your age.”
 </p>
 <p>
 Passinsky felt every muscle in his old body tense. To his side, two of the soldiers came to pick up the corduroy rug. They began smoothing it out on the floor nearby.

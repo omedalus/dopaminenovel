@@ -7,19 +7,19 @@
 
 <div class="chapsection">
 <p>
-<span class="caplead">Peanut shells crunched under</span> Eugene’s designer sneakers. He leaned against the carving-pocked bar, careful to avoid dipping the elbow of his custom-fit leather jacket into something sticky and unnameable. Around him, tattooed men with large bellies and larger beards swigged Jack Daniels and bragged about the horsepower of their “hogs” beneath the blare of the jukebox.
+<span class="caplead">Peanut shells crunched under</span> Eugene’s designer sneakers. He leaned against the carving-pocked bar, careful to avoid dipping the elbow of his custom-fit leather jacket into something sticky and unnameable. Around him, tattooed men with large bellies and larger beards swigged Jack Daniels and bragged about their horsepower beneath the blare of the jukebox.
 </p>
 <p>
 “I didn’t mean to make trouble, Eugene,” a young, thin man said with a gulp.
 </p>
 <p>
-Eugene clapped a hand firmly on his shoulder. It could have been a gesture of friendship, but it wasn’t. “You cheat us, and think this wouldn’t make trouble?” Eugene said sweetly. He spoke fluidly, but his hard consonants and throaty vowels betrayed his Russian origins. 
+Eugene clapped a hand firmly on his shoulder. It could have been a gesture of friendship, but it wasn’t. “You cheat us, and think this wouldn’t make trouble?” He spoke fluidly, but his accent betrayed his Russian origins. 
 </p>
 <p>
 “It’s not just me!” the fellow said shakily. “Jimmy jumped last week, and Martinez…”
 </p>
 <p>
-Eugene slid his hand up toward the man’s neck. “Do you think Sergey and I aren’t <em>painfully</em> aware of that, Francisco? How much is the street price for loyalty?”
+Eugene slid his hand toward the man’s neck. “Do you think Sergey and I aren’t <em>painfully</em> aware, Francisco? How much is the street price for loyalty?”
 </p>
 <p>
 “I… like selling for you, Eugene,” Francisco stammered. “You and Sergey, you always treat me good. It’s just…”
@@ -49,13 +49,13 @@ Eugene rolled his eyes. “Francisco, how did you get to be a salesman without k
 Eugene’s fingers closed around Francisco’s throat. He looked into his eyes and hissed, “You betray us for this bullshit…?”
 </p>
 <p>
-Francisco honked out through his squeezed larynx, “See for yourself!” He pointed toward the back of the bar with one thin arm.
+Francisco honked out through his squeezed larynx, “See for yourself!” He pointed toward the back of the bar with one wobbly arm.
 </p>
 <p>
 Eugene’s gaze followed his trembling finger past silhouettes of drunks. Near a pool table, the crowd simply stopped, like a sea held back by an invisible dam. There, on a tall bar stool, sat a young Asian woman drinking a fluorescent cocktail. Eugene couldn’t make out details, but, amid all the denim vests and grease-stained jeans, her sleek white dress and gladiator stilettos stuck out like a Viagra in a bag of molly.
 </p>
 <p>
-“She’s <em>here</em>?” Eugene grunted. He released his choke on Francisco, leaving him wheezing. “<em>That’s</em> who’s muscling in on our area?”
+“She’s <em>here</em>?” Eugene grunted. He released his choke, leaving Francisco wheezing. “<em>That’s</em> who’s muscling in on our area?”
 </p>
 <p>
 “She showed up two weeks ago,” said Francisco, his voice still raspy. “She’s been using this joint for a recruiting ground. Each time she comes here, she gets more people signing up to sell for her.”
@@ -73,7 +73,7 @@ Eugene smacked him upside the head. “Get the fuck out of here, Francisco. Leav
 Sparing not a moment, the youth pushed himself away from the bar and scuttled for the door.
 </p>
 <p>
-Eugene stayed put, watching the girl keenly. Three muscular men shared the empty area with her &mdash; one by her side, the other two absorbed in a game of pool. He pulled out his cellphone. “<span class="computer">Sergey</span>,” he typed. “<span class="computer">Get down here. You have to see this.</span>”
+Eugene watched the girl keenly. Three muscular men shared the empty area with her &mdash; one by her side, the other two absorbed in a game of pool. He pulled out his cellphone. “<span class="computer">Sergey</span>,” he typed. “<span class="computer">Get down here. You have to see this.</span>”
 </p>
 <p>
 A reply came quickly. “<span class="computer">Busy. Picking the music with Rosie for dance recital. Are you having something more important than evening with daughter?</span>”

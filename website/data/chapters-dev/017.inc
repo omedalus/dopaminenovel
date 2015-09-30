@@ -9,49 +9,40 @@ as they stepped down the interior stairs. “You told the guy I had Asperger’s
 Jason shrugged. “The best lies are based on truth.”
 </p>
 <p>
-The office catwalk was propped on unpainted I-beams above the factory floor. In the space beneath it lay a naked mattress with a few blankets. An adjacent wall bore large metal double doors.
+In the space beneath the catwalk lay a naked mattress with a few blankets. An adjacent wall bore large metal doors.
 </p>
 <p>
-Julie Yen eyed them apprehensively.
+“Julie,” Jason said. “Are you okay?”
 </p>
 <p>
-“Julie,” Jason said from across the room. “Are you okay?”
+Julie Yen grumbled, “What do you want?”
 </p>
 <p>
-“What do you want?” she grumbled.
-</p>
-<p>
-“Relax,” said Jason. “We’re friends. We won’t hurt you.” He traversed the packing peanuts and cardboard littering the floor.
+“Relax,” said Jason. “We’re friends.”
 </p>
 <p>
 “I’ve heard that a lot lately,” she said. Her voice was slow, sad, and tired.
 </p>
 <p>
-Following Jason, Danny stepped over hoses and cables that snaked underneath the mess. He stopped frequently to examine the equipment around him.
+Following Jason, Danny stepped over hoses and cables that snaked underneath the litter of cardboard and foam. He stopped frequently to examine the equipment around him.
 </p>
 <p>
-In the center of the room was a cylindrical glass vat. It was about two feet tall, and sat atop a waist-high base covered with dials and buttons bearing readouts for temperature, pressure, salinity, and pH. Along its side was a system of pipes, hoses, and valves. It looked as though an office water cooler and a cappuccino machine had a baby, and that baby grew up aboard a nuclear submarine. The water inside was hazy and silty like ocean brine. 
+In the center of the room was a cylindrical glass vat. It was two feet tall, and sat atop a waist-high base covered with dials and buttons bearing readouts for temperature, pressure, salinity, and pH. Pipes, hoses, and valves ran along its side. It looked as though an office water cooler and a cappuccino machine had a baby, and that baby grew up aboard a nuclear submarine. The water inside was hazy and silty like ocean brine. 
 </p>
 <p>
-Near the vat sat a pyramidal stack of plastic gallon-sized jars, just like the powdered diet supplements from the Rite-Aid earlier that night. Each one had a purple label reading “L-Glutamine”.
+Near the vat sat a pyramidal stack of plastic gallon-sized jars, just like the powdered diet supplements from the Rite Aid earlier that night. Each one had a purple label reading “L-Glutamine”.
 </p>
 <p>
-The back wall was lined with blue and black 55-gallon drums, alongside pumping equipment and plastic tubs. Each barrel bore the label “Kerosene” or “Acetone,” and a color-coded diamond of red, blue, yellow, and white to indicate hazard ratings.
+The back wall was lined with 55-gallon drums. Each barrel bore labels saying “Kerosene” or “Acetone,” and color-coded diamonds to indicate hazard ratings.
 </p>
 <p>
-On a gray metal table next to the drums, sitting alone near bulbous glass equipment, was a plain glass bottle filled with clear liquid. Its top was curved like a bell, and its neck was sealed with a rubber-lined glass stopper. Next to the bottle, on the silvery steel tabletop, lay black rubber gloves and a pair of eye goggles. The bottle bore no label.
+On a gray metal table next to the drums, sitting alone, was a plain glass bottle filled with clear liquid. Its top was curved like a bell, and its neck was sealed with a rubber-lined glass stopper. Next to the bottle lay black rubber gloves and a pair of eye goggles. The bottle bore no label.
 </p>
 <p>
 Danny reached his hand toward it.
 </p>
 <p>
 “I wouldn’t touch that if I were you,” Julie called out.
-</p>
-<p>
-Danny shook the sleeve of Natalie’s floral-print sweatshirt down so that it drooped over his hand, and tried again.
-</p>
-<p>
-Julie scoffed, “Yeah, like that’ll help.”
 </p>
 <p>
 “Why? What is it?” Danny asked.
@@ -63,67 +54,55 @@ Julie scoffed, “Yeah, like that’ll help.”
 Jason whispered, “We’re not with the Russians.”
 </p>
 <p>
-“What do you mean?” Julie asked.
+Julie eyed him suspiciously.
 </p>
 <p>
 “Do you want to get out of here?” Jason added.
 </p>
 <p>
-Julie’s lower lip trembled. “I want…” she scowled up at the dim windows of the overhead office and screamed, “…my <em>fucking blow</em>!” She grabbed a nearby piece of cardboard and threw it weakly upwards. “You assholes! You fucking shitheads! It’s the best shit they’ve ever seen, and they fucking stole it! It’s mine, God fucking damn it! Fuck…!” She stomped back toward her mattress, dropped down to sit, and sobbed.
+Julie’s lower lip trembled. “I want…” she scowled up at the windows of the overhead office and screamed, “…my <em>fucking blow</em>!” She grabbed a nearby piece of cardboard and threw it weakly upwards. “You fucking shitheads! It’s the best shit they’ve ever seen, and they fucking stole it! It’s mine, God damn it! Fuck…!” She stomped back toward her mattress, dropped down to sit, and sobbed.
 </p>
 <p>
 Rex’s head popped out through the window above. “Knock it off down there, sweetie pie! Numbers, if she gives you crap like that, just smack her in the mouth. She learns quick.” The man’s dirty blond head disappeared back into the office.
 </p>
 <p>
-Jason squatted down next to her and said, “It’ll be okay. I brought something that might cheer you up.” He stretched his hand out, and for a moment her eyes grew bright and eager.
+Jason squatted down beside her. “It’ll be okay. I brought something that might cheer you up.” He stretched his hand out, and for a moment her eyes grew bright and eager. 
 </p>
 <p>
 When she saw him present the Eppendorf tube, she looked away uninterested.
 </p>
 <p>
-Jason seemed confused. “I kind of thought you’d be happy to see it.”
+“I thought you’d be happy to see it,” he said.
 </p>
 <p>
 She turned away and moaned, “I’m such a fuck-up.”
 </p>
 <p>
-Jason studied her for a moment. “What’s the matter?”
+“What’s the matter?”
 </p>
 <p>
-“This is all my fault,” she said, her speech trembling. “I should have just fucking done my job and finished my internship like a good little girl. The fuck was I thinking, that I could pull this off? I can’t fucking do anything right.”
-</p>
-<p>
-Jason gave her a kind smile. “You know, you’d probably get along with my friend over there. He gets really down on himself too.”
-</p>
-<p>
-“He should start doing coke,” she suggested. Her voice conveyed no hint of jest. She added absentmindedly, “He’s gonna burn his hands off, by the way.”
+“This is all my fault,” she said. “I should have just done my job and finished my internship like a good little girl. I can’t do anything right.” She sniffled, and wiped her nose with her sleeve. “Your friend gonna burn his hands off,” she added.
 </p>
 <p>
 Jason turned his head and saw Danny still by the table. “Danny, what the hell are you doing?”
 </p>
 <p>
-Danny was still examining the glass bottle, poking it with the end of his HERF gun to make the clear liquid jiggle. It looked for all the world like perfectly normal water, but a fine white haze hung suspended inside the bottle above the waterline.
+Danny was still examining the glass bottle, poking it with the end of his HERF gun to make the liquid jiggle. It looked for all the world like perfectly normal water, but a fine white haze hung suspended inside the bottle above the waterline.
 </p>
 <p>
 Julie shuffled toward him, looking irritated. Danny put his contraption down and backed away from the table.
 </p>
 <p>
-Without a word, Julie pulled on the black rubber gloves and strapped the goggles over her face. Holding the bottle with one hand, she gently pulled out the stopper. Like mist rising from a freshly opened ice-cold beer, a translucent trail of pale vapor wafted upward. She reached down and grabbed a scrap of cardboard from the floor. She waved the cardboard over the bottle, letting it pass through the finger of mist. Along the line of exposure, the cardboard blackened and charred before Danny’s eyes. She gave the sheet a slight shake, and chunks crumbled to ash. Julie used the remains of the cardboard to wipe the rubber stopper. Where it touched, the cardboard simply vanished.
+Without a word, she put on the black rubber gloves, strapped the goggles over her face, and gently pulled out the stopper. Like mist rising from a freshly opened ice-cold beer, a translucent trail of pale vapor wafted upward. She reached down and grabbed a scrap of cardboard from the floor. She waved the cardboard over the bottle, letting it pass through the finger of mist. Along the line of exposure, the cardboard blackened and charred before Danny’s eyes. She gave the sheet a slight shake, and chunks crumbled to ash. Julie used the remains of the cardboard to wipe the rubber stopper. Where it touched, the cardboard simply vanished.
 </p>
 <p>
-Julie reinserted the stopper into the bottle. “That’s why you don’t fuck with this stuff!” she said as she took the gloves and goggles back off.
+Julie re-sealed the bottle. “That’s why you don’t fuck with this stuff!” she said as she took the gloves and goggles off.
 </p>
 <p>
 Jason approached them, making his way past the equipment. “What’s all this stuff for?” he asked her, gesturing at the blue barrels of kerosene.
 </p>
 <p>
-“It’s high-volume alkaloid extraction and stabilization,” Julie said, annoyed. “I’ve already explained it a hundred times… Can I see the sample?”
-</p>
-<p>
-Jason cautiously passed the Eppendorf tube into her hand.
-</p>
-<p>
-She studied it, turning the vial up and down several times. “It’s biofilming. That’s good. It’s supposed to.”
+“It’s high-volume alkaloid extraction and stabilization,” Julie said. “Can I see the sample?” Jason cautiously passed the Eppendorf tube into her hand. She studied it, turning the vial up and down several times. “It’s biofilming. That’s good. It’s supposed to.”
 </p>
 <p>
 “Can you incubate it?” asked Jason.
@@ -132,7 +111,7 @@ She studied it, turning the vial up and down several times. “It’s biofilming
 “You’d like that, wouldn’t you?” said Julie. “Everybody would. And then the second I finish a batch, the Russians will just take it all and put a bullet through my head.”
 </p>
 <p>
-“I might be able to talk them into letting you go,” Jason offered.
+“I might be able to talk them into letting you go.”
 </p>
 <p>
 “Fat chance,” Julie said despondently.

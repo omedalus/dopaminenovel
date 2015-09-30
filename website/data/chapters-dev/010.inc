@@ -138,18 +138,6 @@ Satish’s voice came across the call. “He looks fine. He tried to push over o
 Moshen answered, “He’s crouched and ready, both hands on his gun, about thirty feet away from Mike. It looks like he doesn’t know where Mike is.”
 </p>
 <p>
-“Mike, did you hear that?” asked Danny.
-</p>
-<p>
-Moshen replied, “He’s nodding Yes, Danny. He’s holding the lug wrench in one hand and his cellphone in the other. He’s putting them down on the floor and picking up something from a shelf near him… It looks like a weird old computer… He’s slowly sticking it out from the machine he’s hiding behind… oh shit!”
-</p>
-<p>
-“What?” Danny demanded.
-</p>
-<p>
-“He shot it out of his hand!”
-</p>
-<p>
 Danny cursed under his breath. “Guys, I’m going in. Satish, the front door, please.”
 </p>
 <p>
@@ -162,7 +150,7 @@ Jason’s voice came across the air. “I’m in position, Danny.”
 Satish said, “Mike’s pinned down. If he moves, he’ll get shot.”
 </p>
 <p>
-Danny arrived at the hallway outside the stockroom. Before him was a metal door. The door bore a small glass window, no bigger than a person’s face. The stockroom’s emergency lights made the square of glass emit a faint sickly yellow shine at the end of the dim hallway. On the wall was a glowing green button attached to a thin electrical conduit that ran up to the ceiling. The conduit split off and connected to a block that pressed up against a silvery rectangle at the top of the door &mdash; the armature plate of a standard magnetic lock system.
+Danny arrived at the hallway outside the stockroom. Before him was a metal door. It bore a small glass window, no bigger than a person’s face. The stockroom’s emergency lights made the square of glass emit a faint sickly yellow shine at the end of the dim hallway. On the wall was a glowing green button attached to a thin electrical conduit that ran up to the ceiling. The conduit split off and connected to a block that pressed up against a silvery rectangle at the top of the door &mdash; the armature plate of a standard magnetic lock system.
 </p>
 <p>
 Mike whispered into the call, “Moshen. You said he’s about thirty feet away from me toward the entrance, right?”
@@ -198,7 +186,7 @@ Jason’s voice announced, “Mike, you’re okay!”
 “Punch it!” yelled Mike.
 </p>
 <p>
-A thud sounded through the cellphone as Jason backed his SUV up against the fire exit. Jason had positioned his car about three feet away outside the door, and had been waiting to see Mike run out. The moment Mike cleared the exit, Jason slammed the back of his car against it. The fire door opened outward, so the SUV served as a very large, very expensive, very effective doorstop.
+A thud sounded through the cellphone as Jason backed his SUV up against the fire exit. Jason had positioned his car about three feet away outside the door, and had been waiting to see Mike run out. The moment Mike cleared the exit, Jason slammed the back of his car against it. The fire door opened outward, so the SUV served as an enormous doorstop.
 </p>
 <p>
 “Good job, Mike,” said Danny. “Now go around the outside of the building, get back in through the front doors, and come back here.”

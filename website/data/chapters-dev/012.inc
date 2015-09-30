@@ -384,7 +384,7 @@ She grabbed her purse and hurried over to the scruffy guy. He was staring at the
 The dark-skinned man helped them into the middle row of seats. “Mike! Mike, you big idiot, are you okay?” he said in an Indian accent.
 </p>
 <p>
-“Satish!” the injured man said. His furry, bloody face lit up with childlike glee. “Satish! I need to tell you something!”
+“Satish!” the injured man said. His furry, bloody face lit up with childlike glee. “I need to tell you something!”
 </p>
 <p>
 “What is it, Mike?” Satish said, his face sunken with worry.
@@ -501,7 +501,7 @@ They listened.
 “…No,” said Moshen.
 </p>
 <p>
-Satish said, “It’s an all-electric drive train, you idiot. They don’t <em>have</em> an engine.”
+Satish said, “It’s an all-electric drive train. They don’t <em>have</em> an engine.”
 </p>
 <p>
 “Exactly,” Danny said. “Jason. Get us closer.”

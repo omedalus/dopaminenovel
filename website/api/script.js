@@ -32,8 +32,14 @@ $(document).ready(function() {
     paragraph.attr('data-paragraph-wordcount', wc);
     totalwordcount += wc;
   }
-
+  
+  var lastWordCount = window.localStorage.getItem('lastWordCount') || 0;
+  var wcImprovement = totalwordcount - lastWordCount;
+  
   console.log('Word count: ' + totalwordcount);
+  console.log('Improvement from last refresh: ' + wcImprovement);
+  
+  window.localStorage.setItem('lastWordCount', totalwordcount);
 
   
   var findTopParagraph = function() {

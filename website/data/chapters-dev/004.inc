@@ -30,40 +30,31 @@ There was some dispute over whether or not that actually happened.
 <hr/>
 
 <p>
-“I don’t care what you think I said!” insisted Satish, a short, stout Indian man. “I’m telling you now, he has no healing spells.”
+“I don’t care what you think I said before!” insisted Satish, a short, stout Indian man. “He has no healing spells!”
 </p>
 <p>
-Satish sat at the head of a highly lacquered table, on a leather bench that wrapped along the walls of a yacht’s wood-paneled cabin. Through round portholes, the water of Lake Washington glistened in the midday sun.
-</p>
-<p>
-The table held a disorganized pile of books, dice, and Cheetos. At the center, atop a plastic sheet with a hexagonal grid and dry-erase marker lines, stood two-inch painted pewter figurines – one axe-wielding barbarian, one wizard, and several orc figures lying face-down.
+Satish sat at the head of a lacquered table, on a leather bench that wrapped along the walls of a yacht’s wood-paneled cabin. Through round portholes, the water of Lake Washington glistened in the midday sun. The table held a disorganized pile of books, dice, and Cheetos. At the center, atop a plastic sheet with a hexagonal grid and dry-erase marker lines, stood two-inch painted pewter figurines &mdash; one axe-wielding barbarian, one wizard, and several orc figures lying face-down.
 </p>
 <p>
 “This is bullshit!” Mike fired back, waving a handful of papers. He was dark-haired and tall, well-muscled but too fat and scruffy to show definition. “When we were in Salavina, I remember Zhan going to the Temple of Eir and learning a healing spell from the High Priestess.” He turned to his side. “Didn’t you?”
 </p>
 <p>
-Jason Tuttle sat next to Mike, chugging a soda and adding up experience points on a worn character sheet. “She taught me a prayer for good health, Mike,” he said. “She didn’t grant me the authority to channel the power of her god.”
+Jason Tuttle sat next to Mike, chugging a soda and adding up experience points on a worn character sheet. “She taught me a prayer for good health, Mike. She didn’t grant me the authority to channel the power of her god.”
 </p>
 <p>
 “She did! She totally did! Ask Moshen!”
 </p>
 <p>
-Moshen, a scrawny Asian kid with thick glasses, sat near Mike, his nose deep in a rulebook. “Leave me out of this, man,” he said without looking up. “I’m still waiting for the two of you back in town, getting drunk and hitting on wenches.”
+Moshen, a scrawny Asian kid with thick glasses, sat near Mike, his nose deep in a rulebook. “Leave me out of this, man,” he said without looking up. “I’m still back at the inn, getting drunk and hitting on wenches.”
 </p>
 <p>
 Mike turned back to Jason. “You talked me into helping you fight through these orc-infested caverns, and you can’t even cast any healing spells!?”
 </p>
 <p>
+“Mike, quit being such a munchkin!” Satish railed. “It doesn’t make any sense for wizards to heal! Wizards throw lightning bolts and fireballs. Priests manipulate life energies. They operate on completely incompatible principles.”
+</p>
+<p>
 Jason shrugged. “Wizards can’t cast healing spells, dude. Everybody knows that.”
-</p>
-<p>
-“Mike, quit being such a munchkin!” Satish railed. “It doesn’t make any sense for wizards to heal! Wizard and priest spells operate on completely incompatible principles. Wizards throw lightning bolts and fireballs. Priests manipulate life energies. It’s a big difference!”
-</p>
-<p>
-A frustrated noise came out of Mike’s throat. “Stupid freaking wizards…”
-</p>
-<p>
-“Really sorry about the fireball,” said Jason. “My bad.”
 </p>
 <p>
 “Give me Zhan’s character sheet, Jason,” Mike demanded.
@@ -90,16 +81,13 @@ Their bickering was interrupted by footsteps above. Through the portholes they c
 Jason waved hello. “Come on in, Danny. Meet the gang.”
 </p>
 <p>
-Danny looked around. The furniture was arranged to make optimal use of the cabin’s limited space. On one end of the room was a large flatscreen TV. On the other end, he saw the table covered with rulebooks, figurines, and soda cans. 
-</p>
-<p>
-He instantly recognized the scene. He’d walked into a <em>Dungeons & Dragons</em> campaign. 
+Danny looked around. On one end of the cabin was a large flatscreen TV. On the other end, he saw the table covered with rulebooks, figurines, and soda cans. He instantly recognized the scene. He’d walked into a <em>Dungeons & Dragons</em> campaign. 
 </p>
 <p>
 “Aww Christ,” he muttered. He felt the revulsion and regret of a recovered heroin addict entering an opium den. Danny’s days of chasing these particular dragons were long behind him. “Jason, can I talk to you?”
 </p>
 <p>
-Jason wiggled his way from the table and crossed the compartment in a few steps. He and Danny turned away from the group and spoke in whispers.
+Jason wiggled his way from the table and crossed the compartment. He and Danny turned away from the group and spoke in whispers.
 </p>
 <p>
 “<em>This</em> is your hacker team?” asked Danny. “Where did you find these guys?”
@@ -117,7 +105,7 @@ Jason replied coldly, “My ex-wife is none of your business.”
 “Sorry, didn’t mean to hit a sore spot. But, I mean, look at these guys. Do they have any skills? Do they even have real jobs?”
 </p>
 <p>
-“They have my complete trust,” said Jason. “They’re smart, and they’re fully capable of getting the job done. You should see the kind of shit we pull off together. Just last month, we destroyed the stronghold of a Dark Elven necromancer.”
+“They have my complete trust,” said Jason. “They’re smart and capable. You should see the kind of shit we pull off together. Just last month, we destroyed the stronghold of a Dark Elven necromancer.”
 </p>
 <p>
 “Your <em>characters</em> did that. In your <em>head</em>. <em>You</em> sat around a table rolling dice and scarfing Cheetos.”

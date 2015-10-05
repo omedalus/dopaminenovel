@@ -5,13 +5,10 @@ Hernando Mejía wasn’t legally allowed</span>
  to be here. He spoke no English, and he had no papers. He wasn’t stupid; he knew to keep his head down and his mouth shut. Stoically, he rubbed a Windex-coated cloth against the interior of the windows of the lower west wing of the Medina Gallante.
 </p>
 <p>
-He saw motion outside.
+He saw motion outside. From the wide stone steps leading down to the wharf, a man’s head ascended into the light. A small Bluetooth device sat nestled in his ear, beneath a yellow safety helmet. He wore coveralls and a toolbelt, and carried a toolbox and a large long complex-looking device. He could’ve been a plumber or an electrician.
 </p>
 <p>
-From the wide stone steps leading down to the hotel’s wharf, a man’s head ascended into the light. A small Bluetooth device sat nestled in his ear, beneath a yellow safety helmet. He wore coveralls and a toolbelt, and carried a toolbox and a large long complex-looking device. He could’ve been a plumber or an electrician.
-</p>
-<p>
-The man proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. After 9:00 P.M., they needed a key to open from the outside. The man knocked on the glass, waved to Mejía, and said something in English. Mejía tried to reply in Spanish, but he simply shrugged.
+The man proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. After 9:00 P.M., they needed a key to open from the outside. The man knocked on the glass, waved to Mejía, and said something in English. Mejía replied in Spanish, but the man simply shrugged.
 </p>
 <p>
 Mejía weighed his options. His instincts told him to be wary. Paranoia was a virtue.
@@ -23,10 +20,7 @@ Paranoia, however, also told Mejía that, if this man was indeed simply a mainte
 Mejía opened the door.
 </p>
 <p>
-The man picked up his equipment and entered the building. He babbled something in English. Mejía simply gave him a thumbs-up. The man stopped talking and walked off into the wide wood and marble halls of the hotel.
-</p>
-<p>
-Mejía returned to work.
+The man glided through the door and babbled something in English. Mejía simply gave him a thumbs-up. As the man walked off into the wide wood and marble halls of the hotel, Mejía returned to work.
 </p>
 </div>
 
@@ -41,10 +35,10 @@ She was checking the fridge inventory when Luke, the host, came to fetch her.
 “Hey, um, Lynette…?” said the thin, effete young man. “We’ve got some guy from Facilities here. He says he’s found some electrical problem…?”
 </p>
 <p>
-“Electrical problem?” she echoed, her concentration still set on counting foil-wrapped stacks of steaks, chicken, and fish.
+“Electrical problem?” she echoed, her concentration still set on counting foil-wrapped steaks.
 </p>
 <p>
-“He said it might have something to do with our computer?” the slight young man said hesitantly. “Should I bring him over, or…?”
+“He said it might have something to do with our computer?” said the slight young man. “Should I bring him over, or…?”
 </p>
 <p>
 Leffert shook her head. She closed the refrigerator door and marched out from the kitchen toward the front of the restaurant.
@@ -499,19 +493,13 @@ Outside, through the frosted glass, a silhouette of an athletic man appeared jus
 “Brothers!” said the man, in Russian. “How are you doing in there? Nice and warm?”
 </p>
 <p>
-The men sat up shocked. One pounded on the glass. “What the hell is this?”
-</p>
-<p>
-“This?” the man outside replied. “This is nothing! It’s just a… a friendly conversation.”
-</p>
-<p>
-“Who are you?” one yelled.
+The men sat up shocked. One pounded on the glass. “What the hell is this? Who are you?” one yelled.
 </p>
 <p>
 “Oh, I’m nobody! Nobody at all! But I do have a matter of pressing business with someone named Ivan Zheleznov. Perhaps you fellows have heard of him?”
 </p>
 <p>
-One stood and body-checked the door, his shoulder slamming hard against the glass. It proved fruitless.
+One stood and body-checked the door. It proved fruitless.
 </p>
 <p>
 “I really wouldn’t do that if I were you,” the man said mischievously. “All that physical exertion. You might work up a sweat.”
@@ -523,7 +511,7 @@ One stood and body-checked the door, his shoulder slamming hard against the glas
 “Not until we chat!” the man said. “You see, brothers, it’s not really <em>my</em> interest per se, but I have some colleagues here who would like to know one slight, insignificant little piece of information. When Ivan pays you, what’s the routing number of the bank that the payments come from?”
 </p>
 <p>
-“Are you fucking joking?” one said, fighting rage as the room boiled around him. Who the hell memorizes bank routing numbers?”
+“Are you fucking joking?” one said, fighting rage as the room boiled around him. “Who the hell memorizes bank routing numbers?”
 </p>
 <p>
 “Then here’s what’s going to happen, buddies!” said the man. “You’re each going to give me your logins and passwords to your bank accounts. And my colleagues &mdash; they’re in control of your temperature, by the way &mdash; they’re going to sift through your transaction histories until they find checks or transfers connected to Ivan. Any additional info you guys can provide to expedite that search will make the whole thing go much more quickly.”

@@ -9,16 +9,16 @@ Danny vaguely recognized the music.
 His eyes opened slowly. The angle of the daylight hinted at an hour well past noon.
 </p>
 <p>
-When he sat up, he felt the stinging lance of pain across his upper back. He touched the shoulder wound, and remembered that his hand was still sensitive from the burn. His injuries served as unavoidable reminders of the horrors of the previous twenty-four hours.
+When he sat up, he felt the sting across his upper back. He touched the shoulder wound, and remembered that his hand was still sensitive from the burn. His injuries served as unavoidable reminders of the horrors of the previous day.
 </p>
 <p>
-He also saw a trail of thin claw-marks dug into his skin from his chest to his abdomen. He smiled. Not everything about the previous day had been so bad after all.
+He also saw a trail of thin claw-marks dug into his skin from his chest to his abdomen. He smiled. Yesterday hadn’t been <em>all</em> bad after all.
 </p>
 <p>
-He stood up and donned pajamas. He took his time. He no longer had a job to worry about showing up late for. Most importantly, he had a brilliant and beautiful young woman playing <em>Dance Dance Revolution</em> in the next room.
+He stood up and donned pajamas. He took his time. He no longer had a job to show up late for. Most importantly, he had a brilliant and beautiful young woman playing <em>Dance Dance Revolution</em> in the next room.
 </p>
 <p>
-As he opened the bedroom door, the stench of acetone and kerosene stung his nostrils. The kitchen still contained the cluttered trappings of an impromptu biochemical laboratory. Powders still lay spilt across the floor, and wires still protruded from behind the stove. Near the sink, he saw several new items: metal buckets with stirring rods alongside bottles of nail polish remover, industrial-strength drain cleaner, and heating oil.
+As he opened the bedroom door, the stench of acetone and kerosene stung his nostrils. The kitchen still contained the cluttered trappings of an impromptu biochemical laboratory. Near the sink, he saw several new items: metal buckets with stirring rods alongside bottles of nail polish remover, industrial-strength drain cleaner, and heating oil.
 </p>
 <p>
 The music and the thumping stopped.
@@ -27,34 +27,34 @@ The music and the thumping stopped.
 “If you see your shadow,” said Tina, “do we get six weeks more winter?”
 </p>
 <p>
-“Good morning,” Danny croaked as he emerged. “Or afternoon. How long was I out?”
+“Good morning,” Danny croaked. “Or afternoon. How long was I out?”
 </p>
 <p>
 “It’s almost three. I was getting bored!”
 </p>
 <p>
-He bobbed his head toward the kitchen. “So… I happen to be absolutely starving. I see you’ve been cooking?”
+He bobbed his head toward the kitchen. “So… I’m starving. I see you’ve been cooking?”
 </p>
 <p>
 “Eating anything in here would be an astonishingly bad idea,” she replied.
 </p>
 <p>
-“Aww, darn. And here I was looking forward to a nice hearty bacteria stew. How’s the broth doing?”
+“And here I was looking forward to a nice hearty bacteria stew. How’s the broth doing?”
 </p>
 <p>
-Her mouth formed a boastful grin. “See for yourself!” 
+Tina grinned. “See for yourself!” 
 </p>
 <p>
-Danny approached the stove. As he removed the lid, he noticed that the sweet, salty smell of the broth had been completely overtaken by the fetid stink of brackish swamp water. Inside, the broth was a rancid yellowish-brown soup, thick with blobs of slime.
+Danny approached the stove. As he removed the lid, he noticed that the sweet, salty smell of the broth had been completely overtaken by the fetid stink of brackish swamp water. Inside, the broth was a rancid yellowish-brown, thick with blobs of slime.
 </p>
 <p>
-“Looks delicious!” Danny suppressed a gag. He put the lid back on.
+“Looks delicious!” Danny suppressed a gag.
 </p>
 <p>
 Tina bounced toward the kitchen. “It’s in an exponential growth phase. The bacteria can double their population every half hour.”
 </p>
 <p>
-Danny worked the math. “So after ten hours, they’d double twenty times. Two to the twentieth is a million and change. So that tiny speck you started with has multiplied by a factor of over a million by now. That’s… a lot.”
+Danny worked the math. “So after ten hours… That tiny speck you started with has multiplied by a factor of over a million by now. That’s… a lot.”
 </p>
 <p>
 “That’s biology!”
@@ -63,43 +63,37 @@ Danny worked the math. “So after ten hours, they’d double twenty times. Two 
 Danny chuckled. “You’re kind of proud of yourself right now, aren’t you?”
 </p>
 <p>
-“Well, I damn well should be!” she replied. “Seriously! I’ve been stuck behind a reception desk for almost two years, when the whole time what I’m really meant to be doing is <em>this</em>! Behold my awesome powers!” She lifted her head theatrically and splayed her black-nailed fingers.
+“I damn well should be! I’ve been stuck behind a reception desk for almost two years, when the whole time what I’m really meant to be doing is <em>this</em>! Behold my awesome powers!” She lifted her head theatrically and splayed her black-nailed fingers.
 </p>
 <p>
-Danny walked up to her. She wrapped her arms around his pajama-clad waist. Her bright, joyful eyes looked welcomingly into his. “So, when will we know if it works?” he asked. “If it actually makes the… you know… the drug?”
+Danny walked up to her. She wrapped her arms around his pajama-clad waist. “So, when will we know if it works?” he asked. “If it actually makes the… you know… the drug?”
 </p>
 <p>
-She tilted her head toward the kitchen counter. “We already do.”
+She looked toward the kitchen counter. “We already do.”
 </p>
 <p>
-Danny followed her gaze. Between the scattered glassware, he saw a small cleared area of his countertop. There, standing out against the granite blackness, stretched several parallel lines of fine white powder. He slid reluctantly out of her embrace and leaned down to examine them. “Whoa…”
+Danny followed her gaze. Between the scattered glassware, he saw a small cleared area. There, on the granite countertop, stretched several parallel lines of fine white powder. He slid reluctantly out of her embrace and leaned down to examine them. “Whoa…”
 </p>
 <p>
-“I did some shopping while you were asleep,” said Tina. “I picked up some glutamate from Super Supplements. Everything else I found at Home Depot. I paid for everything with cash, so there’s no trail. I guess hanging out with you freaky hacker guys is teaching me a thing or two.”
+“I did some shopping while you were asleep,” said Tina. “I picked up glutamate from Super Supplements. Everything else I found at Home Depot. I paid for everything with cash, so there’s no trail. Hanging out with you freaky hacker guys is teaching me a thing or two.”
 </p>
 <p>
-He turned away from the fresh narcotics on the counter and returned his full attention to her. “You know something?” he said with a devilish grin.
+He turned away from the fresh narcotics on the counter and returned his full attention to her. “You know something?” he said with a devilish smirk. “I’m beginning to think that maybe you’re kind of smart. For a girl, anyway.”
 </p>
 <p>
-“What?” she asked, unfolding her arms and welcoming his approach. 
+She pressed her body against his. “You’re a dick.”
 </p>
 <p>
-He put his hands on her waist. “I’m beginning to think that maybe you’re kind of smart. For a girl, anyway.”
-</p>
-<p>
-She pressed her body against his. “You’re a dick,” she said with a sparkle in her eyes.
-</p>
-<p>
-Their lips met in a kiss that broke his mind free of the bonds of gravity. His heart raced. He deftly moved his mouth down the side of her neck.
+Their lips met in a kiss that broke his mind free of the bonds of gravity. He deftly moved his mouth down the side of her neck.
 </p>
 <p>
 In a voice soft and breathy, Tina asked him, “Have you ever tried it, by the way?”
 </p>
 <p>
-Danny paused long enough to ask, “Tried what?” He resumed kissing his way down to her collar and slowly began unbuttoning her shirt.
+“Tried what?” he asked while kissing his way along her collar.
 </p>
 <p>
-“Cocaine,” she answered.
+“Cocaine.”
 </p>
 <p>
 “Me? No. No way. Have you?”
@@ -108,10 +102,10 @@ Danny paused long enough to ask, “Tried what?” He resumed kissing his way do
 “Eh, I’ve indulged,” she said, her fingertips running along the back of his neck. “But I think my clubbing days are behind me.”
 </p>
 <p>
-He took her head in his hand and turned it to one side to gain access to an earlobe. “What does it feel like?” he whispered between nibbles.
+He pushed her head to one side to gain access to an earlobe. “What does it feel like?” he whispered between nibbles.
 </p>
 <p>
-Tina mused for a second. “Kind of like this,” she answered.
+Tina mused for a second. “Kind of like this.”
 </p>
 <p>
 “I’m definitely never, ever going to touch the stuff, then.”
@@ -123,7 +117,7 @@ Tina mused for a second. “Kind of like this,” she answered.
 “I’d never be able to stop.”
 </p>
 <p>
-Kissing continued, vigorous and passionate. Fingers glided through hair and brushed across skin. A bra strap slid down over a shoulder. 
+Kissing continued, growing more vigorous. Fingers glided through hair and brushed across skin. A bra strap slid down over a shoulder. 
 </p>
 <p>
 The doorbell rang.
@@ -138,67 +132,43 @@ Danny and Tina looked at the door simultaneously, then at each other with matchi
 Tina shook her head.
 </p>
 <p>
-Danny headed toward the door. He looked through the peephole. There was nobody outside. “What the hell?” he mumbled. Confused, he flipped the deadbolt, turned the knob, and began pulling it open. “Hello…?”
+Danny headed toward the door. The peephole showed nobody outside. “What the hell?” he mumbled. Confused, he flipped the deadbolt, turned the knob, and began pulling it open. “Hello…?”
 </p>
 <p>
-An immense dark blur spun out quickly from beside the door, outside the view of the peephole. In an instant, it hurled through the doorway. The figure’s momentum thrust the door back against Danny. He fell backward, landing hard on the smooth wood floor.
+An immense dark blur spun out quickly from beside the door. In an instant, it hurled through the doorway. The figure’s momentum thrust the door back against Danny. He fell backward, landing hard on the smooth wood floor.
 </p>
 <p>
-He looked up to try to comprehend what had just happened.  What he saw was the long black barrel of a handgun pointed straight into his face. And on the other side of that gun, darkened to a silhouette in the light from the doorway, towered the massive shape of Sergey Mukhayev.
+He looked up, and found himself staring into the long black barrel of a handgun. And on the other side of that gun, silhouetted in the doorway, towered the massive shape of Sergey Mukhayev.
 </p>
 <p>
-With spastic motions of his elbows and feet, he scurried backwards. Sergey followed him as he tried to clumsily scuttle along the hardwood floor, matching the pace of Danny’s flailing motions with his own slow, relentless footfall, advancing unstoppably like a stone golem. He kept the gun pointed squarely between Danny’s eyes as he marched into his home. Without taking his gaze off of Danny, the large Russian kicked the front door of the house closed behind him. 
+Danny scurried backwards. Sergey followed, matching the pace of Danny’s scuttles with a slow, relentless footfall. He kept the gun pointed squarely between Danny’s eyes as he marched into his home like a stone golem. Without breaking his gaze, he kicked the front door of the house closed behind him. 
 </p>
 <p>
-From somewhere far away, Tina screamed. There was some kind of rummaging commotion coming from the kitchen.
+Tina screamed. There was a metallic rummaging commotion from the kitchen. She stood holding a large knife with both hands, pointing it at Sergey with as much menace as she could muster &mdash; which was not a lot.
 </p>
 <p>
-Sergey’s gaze momentarily broke away from Danny. The Russian looked toward Tina and said dismissively, “Put that down. You will only hurt yourself.”
+Sergey ignored her entirely. He towered over Danny like an enraged colossus and snarled, “Get up!”
 </p>
 <p>
-In the brief second of Sergey’s invasion, Tina had fled around the counter into the kitchen. She stood holding a large, sharp knife with both hands, pointing it at Sergey with as much courage and menace as she could muster &mdash; which was not a lot.
+Danny whimpered, and struggled to his feet. “How… How did you…”
 </p>
 <p>
-The hulking Russian ignored her. He towered over Danny like an enraged colossus and snarled, “Get up!”
+Sergey stepped so close that Danny could feel his breath and smell his sweat. He grabbed Danny by the throat and pinned him against the wall. “You…” Sergey seethed. “It is all you! I am up in this ass because of you! You nearly killed my nephew. Twice. You tricked me into ordering lockdown. You blew up my factory, got one of my soldiers killed, got another badly wounded. And I am running out of cars!”
 </p>
 <p>
-Danny whimpered.
+Danny’s vision grew watery through tears of terror. “I… I’m sorry!” he squeezed out, his voice distorted through his constrained larynx.
 </p>
 <p>
-“I said stand up, you son of the bitch!” Sergey barked.
+Sergey looked at Danny with an expression typically used for things stuck to the bottom of a shoe. “I have only one thing now. One thing I am left with.” Sergey shoved the muzzle of the gun against Danny’s chest. “You. I have you. And you do not look like much. But I know you are one clever little shit. And, God willing, maybe that will be enough.”
 </p>
 <p>
-Danny struggled to his feet. “How… How did you…”
+Danny felt the gun pressing into his ribs. It was shaking.
 </p>
 <p>
-Sergey looked Danny in the eye, his lips curled and nostrils faring. He stepped so close that Danny could feel his breath and smell his sweat.
+And as Sergey looked into his eyes, Danny noticed something beyond the anger and contempt. Whether it was in the twitch of his lip or the crease of his brow, Danny sensed something deeply vulnerable in Sergey’s face &mdash; something scared and desperate.
 </p>
 <p>
-The Russian grabbed Danny by the throat and pinned him against the wall. Danny tried to pry the meaty claw off of his neck, but the Russian’s grip was as rigid as steel.
-</p>
-<p>
-“You…” Sergey seethed. “It is all you! I am up in this ass because of you!”
-</p>
-<p>
-Danny’s vision grew watery and distorted through tears of terror. “I… I’m sorry!” he squeezed out, his voice distorted through his constrained larynx. “It was just a job…”
-</p>
-<p>
-Sergey looked at Danny with an expression typically used for things stuck to the bottom of a shoe. “You nearly killed my nephew. Twice,” he growled. “You tricked me into ordering lockdown. You blew up my factory, you got one of my soldiers killed, you got another badly wounded. And I am running out of cars!”
-</p>
-<p>
-The paw around Danny’s neck was pinching critical vascular anatomy. His vision started to fade &mdash; colors dimmed, and the world seemed to flatten. Sergey’s voice sounded like it came from an echoing distance.
-</p>
-<p>
- “I have no more contact with my men because of you. I have no army, no telephones, no cash flow. I have only one thing now. One thing I am left with.” Sergey shoved the end of the silencer against Danny’s chest. “You. I have you. And you do not look like much. But I know you are one clever little shit. And, God willing, maybe that will be enough.”
-</p>
-<p>
-“What do you want from me?” Danny whispered, barely conscious. He could feel the silenced muzzle pressing into his ribs. It was shaking.
-</p>
-<p>
-And as Sergey looked into his eyes, Danny, with faltering sight, noticed something beyond the anger and contempt. Whether it was in the twitch of his lip or the crease of his brow, Danny sensed something deeply vulnerable in the large man’s face, far beneath the rage. Something scared and desperate.
-</p>
-<p>
-“I would love nothing more than to kill you right now, clean and easy. But I need you,” said Sergey with a pained voice, “to save my daughter.”
+“I would love nothing more,” said Sergey, “than to kill you right now, clean and easy. But I need you to save my daughter.”
 </p>
 </div>
 

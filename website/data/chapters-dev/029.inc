@@ -195,7 +195,7 @@ The figure hanging inverted above the balcony stretched an arm out toward the ro
 A low boom thundered through the suite, as though the room had been suddenly plunged into a thick ocean of liquid air. The television on the wall rattled in its moorings. The curtains of the windows by the balcony billowed away from the blast.
 </p>
 <p>
-One of the men on the periphery of the standoff crumpled to the floor. A dark, wet, viscous slurry of organic matter began pouring from his side. A corner of his rib cage was missing. He stumbled and twitched for a few moments, trying to grab nearby pieces of furniture to pick himself back up; his wound exposed muscles in his torso, which visibly contracted and slid against one another in his struggle.
+One of the men on the periphery of the standoff crumpled to the floor. A dark, viscous slurry of organic matter began pouring from his side. A corner of his rib cage was missing. He stumbled and twitched for a few moments, trying to grab nearby pieces of furniture to pick himself back up; his wound exposed muscles in his torso, which visibly contracted and slid against one another in his struggle.
 </p>
 <p>
 Still hanging upside-down from the rope, Eugene righted his arm from the recoil and began sweeping toward a second target.

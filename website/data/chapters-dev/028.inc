@@ -514,7 +514,7 @@ One stood and body-checked the door. It proved fruitless.
 “Are you fucking joking?” one said, fighting rage as the room boiled around him. “Who the hell memorizes bank routing numbers?”
 </p>
 <p>
-“Then here’s what’s going to happen, buddies!” said the man. “You’re each going to give me your logins and passwords to your bank accounts. And my colleagues &mdash; they’re in control of your temperature, by the way &mdash; they’re going to sift through your transaction histories until they find checks or transfers connected to Ivan. Any additional info you guys can provide to expedite that search will make the whole thing go much more quickly.”
+“Then here’s what’s going to happen, buddies!” said the man. “My colleagues are going to do some exploration of Ivan’s financials, and they’re going to use <em>your</em> bank records to do it. Now, you’re each going to give me your logins and passwords to your bank accounts. And my colleagues &mdash; they’re in control of your temperature, by the way &mdash; they’re going to sift through your transaction histories until they find checks or transfers connected to Ivan. Any additional info you guys can provide to expedite that search will make the whole thing go much more quickly.”
 </p>
 <p>
 “Go choke on a dick, asshole! We’re not going to hand our bank accounts to you!”
@@ -532,97 +532,20 @@ The man chuckled. “Let me know when you guys are ready,” he said, and began 
 
 <div class="chapsection">
 <p>
-<span class="caplead">Ivan Zheleznov was freezing.</span> His hoarse voice rattled in the mouthpiece of his room’s desk phone.
+<span class="caplead">Ivan Zheleznov was freezing.</span> His hoarse voice rattled into his room’s desk phone. “You fixing right now! Understand?”
 </p>
 <p>
-“How is problem billing?” he was saying irritably, in English or some likeness thereof. “Is not to me bill for room. Is to American company. Tungsten Medical Technologies.” He fumbled the syllables a few times.
-</p>
 <p>
-Tina’s voice replied on the line, “Tungsten placed the reservation, yes. But they didn’t pay. They gave us an International Bank Account Number corresponding to a private investment fund in Estonia. The IBAN begins with EENN BB24, and ends with 5177. Is this account associated with you?”
-</p>
-<p>
-“Yes, yes, yes,” Ivan mumbled. “Is payroll account for Consortium operations. How in Devil you get this bank number?”
-</p>
-<p>
-“We attempted to bill that account, sir, but the charge wouldn’t go through.”
-</p>
-<p>
-“Of course it not go through!” Ivan barked. “Not for you to charging me!” He stuttered, partly from his poor grasp of the language, partly from the chilly air. Ivan added, “Now hurry up and bringing someone to fixing cold! Air condition is going crazy!”
-</p>
-<p>
-Politely, Tina said, “We’re terribly sorry for the malfunction of your air conditioning, sir. We’re sending a repairman right away. But about that bank account… There’s a problem that requires your immediate attention.”
-</p>
-<p>
-“<em>My</em> attention?” Ivan scoffed. “You know who I even? I not dealing with problems of money between banks. This for people I hire worrying about.”
-</p>
-<p>
-“Sir,” Tina said grimly, “the charge was blocked because the account has been frozen by Interpol.”
-</p>
-<p>
-“Frozen by Interpol?” Ivan repeated. “What this is meaning?”
-</p>
-<p>
-“I have a message here on my screen,” Tina said. “‘Fund request declined due to Interpol law enforcement investigation in progress.’”
-</p>
-<p>
-“That is impossible!” Ivan howled.
-</p>
-<p>
-“Do you have a computer with you?” asked Tina. “Can you access your account online? There may be additional information available on the bank’s website.”
-</p>
-<p>
-Beneath grumbled Russian curses, Ivan tapped on a laptop keyboard. “I get mistake!” he barked into the phone.
-</p>
-<p>
-“You made a mistake?” Tina asked.
-</p>
-<p>
-“No, computer make mistake,” Ivan growled. “No website. Only big mistake. Big red mistake words.”
-</p>
-<p>
-“You mean an error message, sir?” Tina suggested.
-</p>
-<p>
-“Yes. Yes, Internet giving me error message. It saying, ‘The site’s security certificate is not trusted,’” he read awkwardly and haltingly, putting stresses on incorrect syllables. “‘You attempted to reach salajane.grazhdopank.ee, but the server presented a certificate issued by an entity that is not trusted by your computer’s operating system…’ What this is? I never see before!”
-</p>
-<p>
-“We’ve been having problems with our Internet connectivity throughout the hotel today,” Tina explained. “We’re terribly sorry for the inconvenience. At the bottom of the error message you should see a button labeled, ‘Proceed anyway’. Click that, and it will dismiss the error and allow you to connect to your bank’s website.”
-</p>
-<p>
-“Your Internet not work, your air condition not work. This hotel is like smelling ass!”
-</p>
-<p>
-“We greatly apologize for any inconvenience. Have you been able to log in yet?”
-</p>
-<p>
-“Yes, I am right now log in,” said Ivan. “I see bank account as normal. No mistakes, no notes, no problems.”
-</p>
-<p>
-“I see, sir,” said Tina. “In that case, we’ll discuss the matter with Tungsten at our earliest opportunity. Sorry to concern you.”
-</p>
-<p>
-“Good, good. Now hurry to sending man to air condition fix!”
-</p>
-<p>
-“He’s on his way, sir,” Tina replied. “Have a good day.”
-</p>
-<p>
-With a soft click, she hung up.
+Tina’s voice politely responded, “We’re terribly sorry for the malfunction of your air conditioning, sir. We’re sending a repairman right away.”
 </p>
 <p>
 That was Danny’s cue.
 </p>
 <p>
-Danny stood in an undecorated emergency stairwell that ran down the full height of the building's main wing, listening silently on his Bluetooth earpiece to the dialog between Tina and the Russian kingpin. On the cellphone synced wirelessly to the headset, he typed out a soundless text-based conversation with Satish and Mike. His team was carefully rerouting a stream of SSL/TLS packets between the Gallante and a data center somewhere in Estonia, craftily injecting their own double-sided proxy into the digital traffic.
+Danny stood in an undecorated emergency stairwell that ran down the full height of the building. His HERF gun was far away, stored safely in the security office where Sergey’s crew sat monitoring the captives. He picked up his toolbox, and with a deep breath that echoed off of the cinderblock walls, he opened an emergency exit door.
 </p>
 <p>
-He put the cellphone away and picked up the large red toolbox on the concrete landing of the stairwell. His HERF gun was far away, stored safely in the security office where Sergey’s crew sat monitoring the captives.
-</p>
-<p>
-With a deep breath that echoed off of the cinderblock walls, he opened an emergency exit door.
-</p>
-<p>
-He stepped out to a wide, elegant penthouse antechamber. One side of the room was a full plate window looking out at the nighttime skyline. The door to the penthouse elevator sat closed next to the emergency exit on one end of the passageway. On the other, a large cedarwood double door stood ominously before him.
+He stepped out to a wide antechamber. One side of the room was a full plate window looking out at the nighttime skyline. The door to the penthouse elevator sat closed next to the emergency exit on one end of the passageway. On the other, a large cedarwood double door stood ominously before him.
 </p>
 <p>
 Danny walked slowly across the room. He shook his head and arms limply to force himself to relax, and tapped his knuckles on the door. He stood patiently, toolbox in hand, waiting for a response.
@@ -631,10 +554,10 @@ Danny walked slowly across the room. He shook his head and arms limply to force 
 There was shouting in Russian. After a few long moments, a lithe, aggressive man opened the door. He wordlessly bobbed his head to the side, motioning for Danny to come in.
 </p>
 <p>
-The air in the suite was irritatingly cold. A fierce draft blew strongly enough to make hair wave and clothes billow. The balcony’s French doors had been opened in an attempt to let out the cold. On the balcony, a few leather-jacketed men and barely-dressed women smoked and chatted in the outdoor air. Inside, a small group played <em>Call of Duty</em> on an enormous wall-mounted TV in a sunken living room. On the glass coffee table, somebody had thrown a hotel towel over a large crystalline bowl. Several other men stood in a small kitchen area or by a wide spiral staircase, eyeing Danny suspiciously. He saw no weapons out in the open, but he had no doubt they were close at hand.
+The air in the suite was irritatingly cold. A fierce draft blew strongly enough to make hair wave and clothes billow. The balcony’s French doors had been opened in an attempt to let out the cold. On the balcony, a few leather-jacketed men and barely-dressed women smoked and chatted in the outdoor air. Inside, a small group played <em>Call of Duty</em> on an enormous wall-mounted TV in a sunken living room. On the glass coffee table, somebody had thrown a hotel towel over a large crystalline bowl. He saw no weapons out in the open, but he had no doubt they were close at hand.
 </p>
 <p>
-Danny looked around. No twelve-year-old girl was anywhere to be seen. He did, however, see Ivan Zheleznov.
+No twelve-year-old girl was anywhere to be seen. He did, however, see Ivan Zheleznov.
 </p>
 <p>
 The man descended the spiral staircase like a hawk swooping down on a field mouse. He wore a fine three-piece suit and slicked-back silver hair. Despite being the oldest and physically weakest man in the room, his presence imposed a greater sense of immediate peril than any of his bodyguards.
@@ -742,18 +665,7 @@ Ivan leaned toward Danny. “Ah, so quiet! You having no last words?”
 A diabolical smile crept onto Danny’s face.
 </p>
 <p>
-In a blink, the room lights died. The suite went dark, save for the glow from the plasma TV. Its image flicked to a split screen. The left half displayed nothing but a few lines of black text in an enormous font:
-</p>
-
-<pre class="computer">
-<strong>https://salajane.grazhdopank.ee/ru/ </strong>
-
-<strong>Имя / name:</strong> и-желез-5177
-<strong>Пароль / password:</strong> 999!идинахуй
-</pre>
-
-<p>
-The right half showed an online banking interface, logged in to a corporate account. The ledger was listed in euros, and showed a balance of seven figures.
+In a blink, the room lights died. The suite went dark, save for the glow from the plasma TV. Its image flicked to aan online banking interface, logged in to a corporate account. The ledger was listed in euros, and showed a balance of seven figures. Across the top, in both Russian and English, it displayed the title, “Zheleznov Consortium Holdings”.
 </p>
 <p>
 In the light of the television screen, with every gun in the room pointed at him, Danny looked Ivan in the eyes and grinned.“Actually, yeah. I’ve got a few things to say.”

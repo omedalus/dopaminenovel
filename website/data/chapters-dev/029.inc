@@ -207,7 +207,7 @@ Men and women dove for cover in all directions, ducking behind furniture or hidi
 Three of the mercenaries stood their ground and opened fire in the general direction of the balcony, shaking the room with a syncopated rhythm of gunshots. Eugene deftly pulled himself upward, out of the reach of their bullets. They rushed out onto the balcony to try to get better angles for their lines of fire. With their guns pointed upward, they burst through the balcony doors &mdash; and there, they hesitated for one split second as their pupils dilated and their eyes adjusted to the darkness.
 </p>
 <p>
-That moment of hesitation, physiologically unavoidable, was all Eugene needed.
+That second was all Eugene needed.
 </p>
 <p>
 He swung his feet down and kicked one of the men in the head, then dropped in behind him while the man was still disoriented and stumbling. Eugene’s hand made a quick jabbing motion at the mercenary’s neck. When the hand came away, Eugene’s butterfly knife protruded from the man’s throat. The mercenary gurgled and fell to his knees, pink foam frothing from his lips.

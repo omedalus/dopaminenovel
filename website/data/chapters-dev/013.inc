@@ -396,7 +396,7 @@ Natalie sashayed over to the couch. She turned to Jason and said, “Hey. You’
 Jason nodded.
 </p>
 <p>
-“Good,” she replied, and turned to Mike. “And now, as for <em>you</em>…” She reached out with both arms, took him by the hands, and helped him rise from the couch. “Ready to get your head examined?” she said, looking up at him.
+“Good,” she replied, and turned to Mike. “And now, as for <em>you</em>…” She reached out with both arms, took him by the hands, and helped him rise from the couch. “Ready to get your head examined?”
 </p>
 <p>
 He didn’t answer.
@@ -408,22 +408,22 @@ He didn’t answer.
 He nodded.
 </p>
 <p>
-“Here, this will help.” She opened a closet near the front door, and reached into a homemade jewelry box inside. “Normally I’d give someone sedatives to reduce anxiety, but I don’t want to take chances with your head right now. What I <em>can</em> do, though, is give you this.” 
+“Here, this will help.” She opened a closet near the front door, and rummaged inside. “Normally I’d give someone sedatives to reduce anxiety, but I don’t want to take chances with your head right now. What I <em>can</em> give you, though, is this.” 
 </p>
 <p>
-She pulled out her large homemade woven bracelet of fuzzy leaves and small yellow flowers, and put it on his wrist.
+She pulled out her large homemade woven bracelet of small yellow flowers, and put it on his wrist.
 </p>
 <p>
 With a fascinated expression, Mike said, “Mullein!”
 </p>
 <p>
-Natalie was stunned. “You know what this is?”
+Natalie’s jaw dropped. “You know what this is?”
 </p>
 <p>
 Mike said, “I’ve never seen it in real life before.”
 </p>
 <p>
-“Do you know what it does?” she asked.
+“Do you know what it does?”
 </p>
 <p>
 Mike answered, “It grants the wearer a plus-four bonus on saving throws versus fear.”
@@ -432,7 +432,7 @@ Mike answered, “It grants the wearer a plus-four bonus on saving throws versus
 Natalie hopped in place just a little bit.
 </p>
 <p>
-Mike examined the mullein bracelet around his wrist with fascination. His eyes began to well up with tears. “Natalie…” he said in a cracking voice. “I really don’t feel very brave right now. I don’t feel like a winner. I just feel like… I just…”
+Mike examined the mullein bracelet around his wrist. His eyes began to well up with tears. “Natalie…” he said in a cracking voice. “I really don’t feel very brave right now. I don’t feel like a winner. I just feel like… I just…”
 </p>
 <p>
 Natalie watched his face with sympathy. She gently reached her arms around him and pressed her head against his chest. “It’s okay, Mike,” she said to him quietly. 

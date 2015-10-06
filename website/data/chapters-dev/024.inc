@@ -416,13 +416,13 @@ The young man squawked, “Did it work? It doesn’t look like it’s doing anyt
 Sergey stared at him in confusion. “What the hell was that?”
 </p>
 <p>
-Danny, speaking slowly as he interlaced his words with his keystrokes, replied, “That was me teaching some poor kid a valuable life lesson about trusting strangers on the phone. The command I had him type opened a reverse shell &mdash; it gave me a back door into his workstation. I’m taking all his console output, bouncing it through a webserver at Claymore Communications, and piping it over to my terminal here. From his point of view, all he sees is a frozen window. But <em>here</em>, on <em>my</em> screen, I’m controlling his machine from remote. Check it out. Here’s all the files in his home directory. Here’s all his currently running processes. Oh hey, look! Here’s an SVN repository! And <em>here</em>…”
+Danny, interlacing his words with his keystrokes, replied, “That was me teaching some poor kid a valuable life lesson about trusting strangers on the phone. The command I had him type opened a reverse shell &mdash; it gave me a back door into his workstation. I’m taking all his console output, bouncing it through a webserver at Claymore Communications, and piping it over to my terminal here. From his point of view, all he sees is a frozen window. But <em>here</em>, on <em>my</em> screen, I’m controlling his machine from remote. Check it out. Here’s all the files in his home directory. Here’s all his running processes. Oh hey, look! Here’s an SVN repository! And <em>here</em>…”
 </p>
 <p>
 Sergey interrupted the geekspeak. “How is any of this helping get back my Rosie?”
 </p>
 <p>
-Danny moved his mouse cursor over a block of text. It read, “<span class="computer">Medina Gallante</span>”. “See this folder? It contains all of RockBox’s digital assets for the Gallante account. It’s got PDFs of the Gallante’s floor plans. User manuals. And all of the source code for the software that runs the hotel &mdash; keycards, cameras, reservations, billing, utility maintenance records…”
+Danny moved his mouse cursor over a block of text. It read, “<span class="computer">Medina Gallante</span>”. “See this folder? It contains all of RockBox’s digital assets for the Gallante account. It’s got PDFs of the Gallante’s floor plans. User manuals. All of the source code for the software that runs the hotel &mdash; keycards, cameras, reservations, utilities…”
 </p>
 <p>
 Sergey asked, “And with this you can get me into hotel?”
@@ -431,7 +431,7 @@ Sergey asked, “And with this you can get me into hotel?”
 “With this, we can perform whitebox analysis of their integrated security framework,” Danny explained. “If we can find and exploit some flaw, we might be able to take over the system. No code project is ever completely free of defects, especially not one with this many different components and built by this many different people. There has to be a chink somewhere in this armor. It’s just a matter of finding it.”
 </p>
 <p>
-“You need how much time to do this? A day? Two days?” Sergey demanded.
+“You need how much time to do this?” Sergey demanded. “A day? Two?” 
 </p>
 <p>
 Danny laughed humorlessly. “Sergey, something like this could take months.”
@@ -440,13 +440,13 @@ Danny laughed humorlessly. “Sergey, something like this could take months.”
 “You are full of shit,” Sergey grumbled.
 </p>
 <p>
-In response, Danny loaded one of the source code files into an editor and expanded it to full-screen. Countless multicolored blocks of text overwhelmed the display. “Can <em>you</em> read that?”
+Danny loaded one of the source code files into an editor and expanded it to full-screen. Countless multicolored blocks of text overwhelmed the display. “Can <em>you</em> read that?”
 </p>
 <p>
 “This is what you are for,” Sergey retorted.
 </p>
 <p>
-Danny shook his head. “Looking for defects in source code is as much an art as it is a science. I can’t do this alone. I need to bring more people into this.”
+Danny shook his head. “Looking for defects in source code is a very specialized art. I can’t do this alone. I need to bring more people into this.”
 </p>
 <p>
 Sergey looked at him coldly. “There is no other choice, is there? Very well. You need help? Go get it.”

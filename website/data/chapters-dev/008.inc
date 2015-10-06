@@ -6,7 +6,7 @@
 “Any luck?” asked Jason from behind the wheel.
 </p>
 <p>
-Danny sat in the passenger’s seat, staring at his laptop. His tote bag, filled with the pieces of his contraption, lay at his feet. “Some. I’ve got twenty access points in range, but I can’t tell which ones are on the Tungsten network.”
+Danny sat in the passenger’s seat, staring at his laptop. His tote bag, filled with the pieces of his contraption, lay at his feet. “Some. I’ve got several access points in range, but only barely.”
 </p>
 <p>
 Inside Tungsten’s building, dozens of computers transmitted signals to each other through electromagnetic vibrations. At its heart, the process was no more complex than blinking lights &mdash; but only someone like Danny would think of them as “lights”. Most people would think of them as antennas, and would say they were emitting radio waves. But for Danny, when it came to things like light bulbs or Wi-Fi transceivers or Naval radar systems, the difference was literally in the eye of the beholder. They all worked by sending out photons, and whether the receiving antenna was a thin strand of copper wire inside a computer’s network card or a rhodopsin protein in a rod cell in his retina, the underlying physical principles were invariant.
@@ -18,16 +18,16 @@ There were pine trees planted beside the office building, arranged in neat woodc
 “Move the car over there, where the trees are thinner,” Danny said while pointing. 
 </p>
 <p>
-Pine trees were living things, and their green needles were filled with water. They might as well have been clouds of fog. 
+Pine trees were living things, and their needles were filled with water. They might as well have been clouds of fog. 
 </p>
 <p>
 The SUV lumbered quietly forward. “The lights are on in their lobby,” Jason said as their angle of view shifted. “And there’s still a car in their parking lot. Is someone in there?”
 </p>
 <p>
-“Not sure,” said Danny. “I think so, but I can’t really see.”
+“Not sure,” said Danny. “I can’t really see.”
 </p>
 <p>
-Unaided human eyes could see light frequencies ranging from 430 to 790 terahertz, corresponding to colors from red to bluish violet. The waves coming from the Tungsten building had frequencies near 2.45 gigahertz. Human beings who talked about such things, like Danny, didn’t call it “color.” They instead used words like “channel” or “band”. And in place of names like “red”, they used the term “microwave”.
+Unaided human eyes could see light frequencies ranging from 430 to 790 terahertz, corresponding to colors from red to bluish violet. The waves coming from the Tungsten building had frequencies near 2.45 gigahertz. People like Danny didn’t call it “color.” They instead used words like “channel” or “band”. And in place of names like “red”, they used the term “microwave”.
 </p>
 <p>
 “That’s better,” Danny said, focused on his computer screen. “The RSSI from three of the APs just jumped. They’re running WEP over 802.11b. It’s a grossly outdated protocol, just like the OmniVision tech support forum said.”
@@ -42,13 +42,13 @@ Unaided human eyes could see light frequencies ranging from 430 to 790 terahertz
 “You mean your friend<em>s</em> Cain and Abel?” Jason asked.
 </p>
 <p>
-“No, Cain & Abel. It’s an application you can download from the web. It’s a, um, ‘password recovery toolkit’,” Danny said with a smirk. “You know, in case you ever lose the key to your own network. Or… something. So let’s see what it can do here…” He whisked his fingers across his laptop, navigating through an elaborate maze of buttons and drop-down menus. “Passive Scan… Capture to File… Packet Injection ARP Requests… and… Go!”
+“No, Cain & Abel. It’s an application. A ‘password recovery toolkit’,” Danny said with a smirk. “You know, in case you ever lose the key to your own network. Or… something. So let’s see what it can do here…” He whisked his fingers across his laptop, navigating through an elaborate maze of buttons and drop-down menus. “Passive Scan… Capture to File… Packet Injection ARP Requests… and… Go!”
 </p>
 <p>
 “<em>Now</em> you’re in?” asked Jason.
 </p>
 <p>
-“No! Sheesh! Keep your pants on,” said Danny. “It’ll take a few minutes. Right now, my computer is tricking the machines on the Tungsten network into transmitting tons of data, and looking for patterns in those transmissions. See, Tungsten’s security cameras use an old encryption protocol called Wired-Equivalent Privacy, or WEP. WEP has a subtle mathematical flaw that was discovered in the early 2000s. Every WEP packet gives a small clue about its cryptographic key, so if you capture enough traffic over the air, you can deduce the network password. As we speak, Tungsten’s machines are beaming out sweet, juicy data packets. Just sit back and enjoy the show.”
+“No! Sheesh! It’ll take a few minutes. Right now, my computer is tricking the machines on the Tungsten network into transmitting tons of data, and looking for patterns in those transmissions. See, Tungsten’s security cameras use an old encryption protocol called Wired-Equivalent Privacy, or WEP. WEP has a subtle mathematical flaw that was discovered in the early 2000s. Every WEP packet gives a small clue about its cryptographic key, so if you capture enough traffic over the air, you can deduce the network password. As we speak, Tungsten’s machines are beaming out sweet, juicy data packets. Just sit back and enjoy the show.”
 </p>
 <p>
 Danny stared out at the Tungsten building, past the trees.
@@ -69,7 +69,7 @@ The light was suddenly obscured by Jason’s hand waving and snapping its finger
 “Yeah,” Danny replied. He looked at his laptop screen. “Sweet, I’ve got plenty of vectors. Now I just hit Analyze… Korek algorithm… Start… and…” He held up his computer, triumphant. “Gentlemen, we can haz password!”
 </p>
 <p>
-With commotion, the men leaned in to see Danny’s screen. The message “<span class="computer">WEP key found !</span>” showed prominently. They each carefully copied the sequence to their own computers.  “<span class="computer">6430637430725F505F66336C6C61746573…</span>”
+The men leaned in to see Danny’s screen. The message “<span class="computer">WEP key found !</span>” showed prominently. They each carefully copied the sequence to their own computers.  “<span class="computer">6430637430725F505F66336C6C61746573…</span>”
 </p>
 <p>
 Mike, sitting behind Danny, announced, “It works. I’m connected.”
@@ -87,7 +87,7 @@ Satish asked, “Do you want to see their camera feeds?”
 “I have everything,” said Satish. “I’m doing a promiscuous packet sniff. Look at port 80 on 192.168.2.57. I’m seeing an MPEG-4 stream inside an HTTP session.”
 </p>
 <p>
-Upon entering the numbers, Danny’s screen filled with a picture of the driveway in front of the Tungsten building. A narrow ribbon of text ran along the bottom, showing the current date, time, and information about the camera. A rectangle labeled “PTZ” contained icons of arrows and magnifying glasses. Danny clicked on them and found that he could move the camera &mdash; pan, tilt, and zoom. “Niiiii<em>iii</em>ce!” Danny sang.
+Upon entering the numbers, Danny’s screen filled with a picture of the driveway in front of the Tungsten building. A narrow ribbon of text ran along the bottom, showing the current date and time. A rectangle labeled “PTZ” contained icons of arrows and magnifying glasses. Danny clicked on them and found that he could move the camera &mdash; pan, tilt, and zoom.
 </p>
 <p>
 “I’m seeing user activity,” said Satish. “There’s a chat session, and there’s a FireFox browser making requests to stuffonmycat.com. I’m pretty sure someone’s still in the building.”
@@ -96,7 +96,7 @@ Upon entering the numbers, Danny’s screen filled with a picture of the drivewa
 “I’m seeing a bunch more HTTP servers, too, Danny,” said Mike. “Same subnet. Dot-84, dot-91, dot-95…”
 </p>
 <p>
-Danny brought up each one. They were all video feeds from security cameras.  He saw office hallways. He saw conference rooms and cubicles with whiteboards covered with chemical formulas. He saw laboratories full of beakers, refrigerators, centrifuges, and measurement instruments. He saw a large warehouse-like storage room filled with scientific and medical equipment. 
+Danny brought up each one. They were all video feeds from security cameras.  He saw office hallways; conference rooms and cubicles with whiteboards covered with chemical formulas; laboratories full of beakers, refrigerators, and centrifuges; a large warehouse-like storage room filled with scientific and medical equipment. 
 </p>
 <p>
 He saw the reception area. Somebody was there.
@@ -108,7 +108,7 @@ He saw the reception area. Somebody was there.
 The screen showed an angled overhead view of a young woman at the reception desk. She wore a black knit cardigan over a simple white button-down shirt. Her unkempt black hair fell below her chin. A small nose stud glinted in the light.
 </p>
 <p>
-What Danny noticed most, though, was her posture and poise &mdash; or rather, her complete lack thereof. She slouched as she tapped away at her keyboard, her shoulders slumped forward. The timing of her keystrokes made it obvious that she was chatting with someone online, feeling no need to appear like she was still working. Her hair was unkempt not because she was going for an artificial messy-chic look, but because it was, in fact, the natural state of her hair after a very long work shift. 
+What Danny noticed most, though, was her posture and poise &mdash; or rather, her complete lack thereof. She slouched as she tapped away at her keyboard. The timing of her keystrokes made it obvious that she was chatting with someone online, feeling no need to appear like she was still working. Her hair was unkempt not because she was going for an artificial messy-chic look, but because it was, in fact, the natural state of her hair after a long work shift. 
 </p>
 <p>
 Danny smiled. Her hair looked beautiful anyway.
@@ -129,7 +129,7 @@ Suddenly, the view on Danny’s screen panned to center on the girl.
 “It’s vital reconnaissance work!” Moshen insisted.
 </p>
 <p>
-Jason, somewhat confused, leaned over and looked at Danny’s screen. “Oh,” he said. “That’s Christina. Their office admin.”
+Jason looked at Danny’s screen. “Oh. That’s Christina. Their office admin.”
 </p>
 <p>
 The video feed zoomed in on her chest. Her shirt and cardigan took up the entire screen.
@@ -150,19 +150,19 @@ She self-consciously adjusted her cardigan and turned back to her computer.
 “Quit dicking around!” Danny commanded.
 </p>
 <p>
-“Okay okay, sorry,” said Moshen. “What’s next?”
+“Okay, sorry,” said Moshen. “What’s next?”
 </p>
 <p>
 “Well, we’re on their internal network. Next step is to get onto one of their computers. Right now, we’re like burglars who’ve broken into an apartment building and we’re loitering in the hallways. We haven’t actually gotten into any of the apartments yet. Mike, how’s that network scan coming?”
 </p>
 <p>
-Mike Braun had been making soft grunts of frustration and excitement for the last several minutes. “This place is a goddamned mess,” he replied. “Their network topology makes absolutely no sense. It looks like they’ve got like a dozen network segments, and they seem to be connected completely at random. Normally, a corporate network is organized into groups of related computers, right? Like maybe a subnet for the Finance department, and then inside that, a subnet for Payroll and one for Accounts Receivable. That’s how we’re taught to do it at Bellevue. But this…? This is total chaos. There’s no overall design to it. The sysadmin is either some kind of insane genius, or he just makes up the network structure as he goes along. Like he’s slapping it together out of parts that happen to be lying around.”
+“This place is a goddamned mess,” Mike replied. “Their network topology makes absolutely no sense. It looks like they’ve got like a dozen network segments, and they seem to be connected completely at random. Normally, a corporate network is organized into groups of related computers, right? Like maybe a subnet for the Finance department, and then inside that, a subnet for Payroll and one for Accounts Receivable. That’s how we’re taught to do it at Bellevue. But this…? This is total chaos. There’s no overall design to it. The sysadmin is either some kind of insane genius, or he just makes up the network structure as he goes along. Like he’s slapping it together out of parts that happen to be lying around.”
 </p>
 <p>
 Danny chuckled a bit. “Not surprising. All of their network administration is handled by this one Roger Tanner kid. You know what it’s like to be a company’s <em>only</em> IT guy?”
 </p>
 <p>
-Mike nodded his large, furry head. “Yeah, most of these machines seem really badly maintained. Some look like they’ve gone months without a patch or an upgrade. Maybe years.”
+Mike nodded his large, furry head. “Yeah, most of these machines seem really badly maintained. Some look like they’ve gone months without a patch or an upgrade.”
 </p>
 <p>
 From the back, Satish grumbled in displeasure. “Guys, call me paranoid, but I really don’t think that girl should be at her computer while we do this.”
@@ -174,13 +174,10 @@ From the back, Satish grumbled in displeasure. “Guys, call me paranoid, but I 
 “If we want to take over her machine,” Satish insisted, “then we don’t want her sitting there watching her screen while her cursor moves all by itself and her files start dragging and dropping.”
 </p>
 <p>
-Mike grunted in agreement. “I think Satish is right, Danny. According to my scan, it doesn’t look like there’s that many Windows boxes on the network. Most of their machines look like highly customized Linux distros. The receptionist’s desktop machine might in fact be the most logical place to start. Which means…”
+Mike grunted in agreement. “I think Satish is right, Danny. According to my scan, it doesn’t look like there’s that many Windows boxes on the network. Most of their machines look like highly customized Linux distros. The receptionist’s desktop machine might be the most logical place to start. Which means…”
 </p>
 <p>
-Danny reluctantly nodded. “Which means we have to find some way to make her go away. Damn it. Satish is right.” He looked back down to his laptop, which still showed the girl at her computer. He rubbed his chin and pondered.
-</p>
-<p>
-Gingerly, he pressed the lobby camera’s PTZ buttons. The image panned upward and sideways. Through the glass wall of the Tungsten lobby, embedded in the ceiling of the building’s main corridor, was another camera dome.
+Danny reluctantly nodded. “Which means we have to find some way to make her go away.” He rubbed his chin and pondered. Gingerly, he pressed the lobby camera’s PTZ buttons. The image panned upward and sideways. Through the glass wall of the Tungsten lobby, embedded in the ceiling of the building’s main corridor, was another camera dome.
 </p>
 <p>
 “Moshen, see that hallway cam right there?” Danny asked. “Go like this with it…” Danny started pressing buttons at random, making the lobby image dance wildly back and forth. “Keep this up for as long as it takes. Come on…”
@@ -249,10 +246,7 @@ DEC itself, even for Danny, was barely even a memory anymore. After forty years 
 He switched to a camera in the cramped warehouse-like storeroom. In the light of weak yellow lamps, Danny could make out computers scattered among the rest of the unused equipment. There was the curvy purple case of an SGI O2+ workstation. There was a black NeXT cube. There was equipment by Solaris. By Sun Microsystems. By Amiga. By Tandy.
 </p>
 <p>
-He felt dizzy. It was all, as he said, ancient.
-</p>
-<p>
-Ancient. Yet so familiar. So painfully, intimately familiar.
+He felt dizzy. It was all, as he said, ancient. Yet so familiar. So painfully, intimately familiar.
 </p>
 <p>
 The first program Danny ever wrote was a BASIC script on a brand-new, cutting-edge Tandy TRS-80 that his dad brought home from Radio Shack and hooked to their big, knobby family TV. The program filled the rounded glass screen with “DANNY”, scrolling in an endless loop. He wrote it all by himself. He was seven years old.
@@ -261,7 +255,7 @@ The first program Danny ever wrote was a BASIC script on a brand-new, cutting-ed
 Tandy went defunct in 2000.
 </p>
 <p>
-His first job in college was porting one of the University’s data entry systems from a DEC PDP-11 to IBM’s OS/2. He laughed at the poor engineering and primitive design of the original PDP-based software &mdash; it wasn’t until many years later that he realized that the engineer who had built <em>that</em> system had needed, in turn, to keep it compatible with something even older. Danny knew everything back then. There was no technical challenge that wouldn’t crumble under the might of his awesome intellect. He was eighteen years old.
+His first job in college was porting one of the University’s data entry systems from a DEC PDP-11 to IBM’s OS/2. He laughed at the primitive design of the original PDP-based software &mdash; it wasn’t until many years later that he realized that the engineer who had built <em>that</em> system had needed, in turn, to keep it compatible with something even older. Danny knew everything back then. There was no technical challenge that wouldn’t crumble under the might of his intellect. He was eighteen years old.
 </p>
 <p>
 IBM discontinued OS/2 in 2001.
@@ -270,7 +264,7 @@ IBM discontinued OS/2 in 2001.
 His master’s thesis was on techniques for transistor placement to optimize thermal dissipation in 3D VLSI layout. His education was funded by Cray Computer Corporation. Danny’s research was a key part of the company’s efforts to keep supercomputer architectures competitive against new “massively parallel” systems. He even had the profound honor of attending a dinner with the legendary Seymour Cray himself, once when he was twenty-two years old.
 </p>
 <p>
-“Danny?” Jason said softly from the driver’s seat of the Lincoln Navigator.
+“Danny?” Jason said softly.
 </p>
 <p>
 “What?” Danny croaked out, his voice scraping over a lump in his throat.
@@ -279,16 +273,16 @@ His master’s thesis was on techniques for transistor placement to optimize the
 Seymour Cray died in a car accident the following year. Cray Computer Corporation went bankrupt in 1995. A boom in massive parallelization technology rendered the supercomputer obsolete.
 </p>
 <p>
-He slammed his laptop shut. “Fuck,” Danny exhaled sharply.
+He slammed his laptop shut.
 </p>
 <p>
-“Danny, are you okay?” Jason said.
+“Danny, are you okay?” Jason asked.
 </p>
 <p>
 “Yeah, I’m f&mdash;,” Danny began to say, but felt his voice crack. He was crying. 
 </p>
 <p>
-The SUV was silent. He could feel everyone looking at him. He didn’t dare turn his face and let them see his wet, red eyes. “I’m fine,” he mumbled, but he knew he wasn’t fooling anybody. He hopped out of the car, slamming the door behind him. He sat down on the pavement against the tire, set his laptop down by his feet, and buried his face in his hands.
+The SUV was silent. He could feel everyone looking at him. He didn’t dare turn his face and let them see his eyes. “I’m fine!” he insisted, and hopped out of the car, slamming the door behind him. He sat down on the pavement against the tire, set his laptop down by his feet, and buried his face in his hands.
 </p>
 <p>
 Jason exited the SUV and came around. “You alright?” he asked, sitting down beside him.

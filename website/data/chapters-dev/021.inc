@@ -376,13 +376,13 @@ The subtle rocking of her hips progressively accelerated. Her panting breaths ro
 Finally, when she seemed to approach the threshold of exploding, she suddenly pushed him violently away with both hands. She turned to face him, topless in her black slacks and low-heel pumps, and tilted her head slightly downward to look up at him with voracious eyes. Her face was flush, glowing with carnal cravings. She leaped to him like an untamed beast, a wildcat ready to devour a helpless prey. 
 </p>
 <p>
-Her hand, capped with nails like black talons, ran claw-like down his front, leaving a long trail in his skin from his chest down past his abdomen. 
+Her hand, ran claw-like down his front, leaving a long trail in his skin from his chest to his abdomen. 
 </p>
 <p>
 She then dropped to her knees before him, yanking down his pajama pants in a single stroke.
 </p>
 <p>
-She pleasured him with her mouth deftly and skillfully. She looked up at him frequently with big, bright, naughty eyes. Her face, framed by her dark hair, radiated mischievous enjoyment. He caught his own hips gently thrusting to match the rhythm of her efforts, and his fingers ran through her hair as he groaned ecstatically.
+She pleasured him with her mouth deftly and skillfully. She looked up at him frequently with big, bright eyes. Her face, framed by her dark hair, radiated mischievous enjoyment. He caught his own hips gently thrusting to match the rhythm of her efforts, and his fingers ran through her hair as he groaned ecstatically.
 </p>
 <p>
 He pulled away long before his excitement could go supercritical. While she took her shoes and socks off, he gave the kitchen a quick, determined scan. The counter looked like it was about the right height…

@@ -1,15 +1,12 @@
 <div class="chapsection">
 <p>
-<span class="caplead">With the watchful eyes of his team</span> and a few well-timed HERF pulses, Danny managed to stay out of sight of the throngs of police combing the Gallante. After two or three harrowing close calls, Danny was able to slip out of the building unnoticed. 
+<span class="caplead">With the watchful eyes of his team</span> and a few well-timed HERF pulses, Danny managed to stay out of sight of the police combing the Gallante. There were a few close calls, but he slipped out of the building unnoticed. 
 </p>
 <p>
-The battery in his cellphone gave out shortly after he left the hotel. In silence and moonlit darkness, Danny cut through the evergreen-fringed backyards of Medina billionaires. He carefully looked out for security cameras and motion-detecting floodlights, avoiding them where possible and zapping them where not. After slow, tentative progress across private property, he felt he had put a comfortable distance between himself and the hotel. He climbed over a retaining wall and arrived at a major road running through downtown Bellevue. The road was well-lit with streetlamps and bordered by a generous sidewalk. 
+The battery in his cellphone gave out after he left the hotel. In silence and moonlit darkness, Danny cut through the evergreen-fringed backyards of Medina billionaires. He looked out for security cameras and motion-detecting floodlights, zapping them when necessary. After slow, tentative progress across private property, he felt he had put a comfortable distance between himself and the hotel. He climbed over a retaining wall and arrived at a wide, well-lit road running through downtown Bellevue. There, he pulled off his overalls, leaving himself in a t-shirt and jeans. He stuffed his electrician disguise down a gutter grate. 
 </p>
 <p>
-There, he pulled off the mud-crusted, blood-stained overalls, leaving himself in a t-shirt and jeans. He stuffed the overalls down a gutter grate. 
-</p>
-<p>
-Then he figured out which direction along the road led toward the Kirkland Marina, slung his HERF gun back over his shoulder, and began walking.
+Then he figured out which direction led toward the Kirkland Marina, slung his HERF gun back over his shoulder, and began walking.
 </p>
 <p>
 And he walked.
@@ -18,19 +15,16 @@ And he walked.
 And walked.
 </p>
 <p>
-He had no idea how much time had passed. He wore no watch, and his dead cellphone wouldn’t tell him the hour. Cars zoomed by in both directions along the suburban road, paying him no mind. He walked past gas stations, past strip malls, past houses and apartment buildings, past busy highway overpasses and ghostly-quiet four-way intersections whose stoplight signals changed color for nobody. 
+He had no idea how much time had passed. He wore no watch, and his dead cellphone wouldn’t tell him the hour. The occasional car zoomed by, paying him no mind. He walked past gas stations, past strip malls, past ghostly-quiet four-way intersections whose stoplight signals changed color for nobody. 
 </p>
 <p>
-Danny heard the hum of an engine approaching from behind. He ignored it at first, as he had with the dozens of other cars that had driven past him. But when he heard the engine slowing down, he turned around.
+Danny heard the hum of an engine slowing down behind him. He turned around.
 </p>
 <p>
-Tina waved at him through the windows of Natalie’s borrowed car. Her eyes filled with happiness and relief.
+Tina waved at him through the windows of Natalie’s car. “Danny! There you are!” she said as she pulled up beside him. “God, I’m glad to see you! I’ve been looking everywhere. You’re going the wrong way!”
 </p>
 <p>
-“Danny!” she said as she pulled up beside him. “You’re going the wrong way!”
-</p>
-<p>
-Danny climbed into the passenger seat. “My cellphone’s dead,” he said with a self-deprecating smile. He was elated to see her. “I have no GPS.”
+Danny climbed into the passenger seat. “My cellphone’s dead. I have no GPS.”
 </p>
 </div>
 

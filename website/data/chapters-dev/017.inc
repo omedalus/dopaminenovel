@@ -21,22 +21,19 @@ Julie Yen grumbled, “What do you want?”
 “Relax,” said Jason. “We’re friends.”
 </p>
 <p>
-“I’ve heard that a lot lately,” she said.
+“Right,” she scoffed.
 </p>
 <p>
-Following Jason, Danny stepped over hoses and cables that snaked underneath the litter of cardboard and foam.
+In the center of the room was a cylindrical glass vat. It sat atop a waist-high base covered with dials and buttons bearing readouts for temperature, pressure, salinity, and pH. Pipes, hoses, and valves ran along its side. It looked as though an office water cooler and a cappuccino machine had a baby, and that baby grew up aboard a nuclear submarine. The water inside was hazy and silty like ocean brine. 
 </p>
 <p>
-In the center of the room was a cylindrical glass vat. It was two feet tall, and sat atop a waist-high base covered with dials and buttons bearing readouts for temperature, pressure, salinity, and pH. Pipes, hoses, and valves ran along its side. It looked as though an office water cooler and a cappuccino machine had a baby, and that baby grew up aboard a nuclear submarine. The water inside was hazy and silty like ocean brine. 
+Near the vat sat a stack of plastic gallon-sized jars, just like the powdered diet supplements from the Rite Aid. Their labels read  “L-Glutamine”.
 </p>
 <p>
-Near the vat sat a stack of plastic gallon-sized jars, just like the powdered diet supplements from the Rite Aid. Each one had a purple label reading “L-Glutamine”.
+The back wall was lined with 55-gallon drums marked “Kerosene” and “Acetone,” with color-coded diamonds to indicate hazard ratings.
 </p>
 <p>
-The back wall was lined with 55-gallon drums. Each barrel bore labels saying “Kerosene” or “Acetone,” with color-coded diamonds to indicate hazard ratings.
-</p>
-<p>
-On a gray metal table next to the drums, sitting alone, was a plain glass bottle filled with clear liquid. Its top was curved like a bell, and its neck was sealed with a stopper. Next to the bottle lay black rubber gloves and a pair of eye goggles. The bottle bore no label.
+On a metal table, sitting alone, was a plain glass bottle filled with clear liquid, sealed with a stopper. Beside the bottle lay black rubber gloves and a pair of eye goggles. The bottle bore no label.
 </p>
 <p>
 Danny reached his hand toward it.
@@ -45,7 +42,7 @@ Danny reached his hand toward it.
 “I wouldn’t touch that if I were you,” Julie called out.
 </p>
 <p>
-“Why? What is it?” Danny asked.
+“What is it?” Danny asked.
 </p>
 <p>
 “Hydrochloric acid, eleven molar concentration,” she answered. “I told you idiots you only need three molar to stabilize the base. I’ll have to dilute the shit out of it.” She sighed. “Don’t know why I’m even stopping you. Go ahead, open it.”
@@ -60,10 +57,10 @@ Julie eyed him suspiciously.
 “Do you want to get out of here?” Jason added.
 </p>
 <p>
-Julie’s lower lip trembled. “I want…” she scowled up at the windows of the overhead office and screamed, “…my <em>fucking blow</em>!” She grabbed a nearby piece of cardboard and threw it weakly upwards. “You fucking shitheads! It’s the best shit they’ve ever seen, and they fucking stole it! It’s mine, God damn it! Fuck…!” She stomped back toward her mattress, sat, and sobbed.
+Julie’s lower lip trembled. “I want…” she scowled up at the windows of the overhead office and screamed, “…my <em>fucking blow</em>!” She grabbed a nearby piece of cardboard and threw it weakly upwards. “It’s the best shit they’ve ever seen, and they fucking stole it! It’s mine, God damn it! Fuck…!” She stomped back toward her mattress, sat, and sobbed.
 </p>
 <p>
-Jason squatted down beside her. “I brought something that might cheer you up.” He stretched his hand out, and for a moment her eyes grew bright and eager. 
+Jason squatted beside her. “I brought something that might cheer you up.” He stretched his hand out, and for a moment her eyes grew bright and eager. 
 </p>
 <p>
 When she saw him present the Eppendorf tube, she looked away uninterested.
@@ -72,7 +69,7 @@ When she saw him present the Eppendorf tube, she looked away uninterested.
 “I thought you’d be happy to see it,” he said.
 </p>
 <p>
-She turned away and moaned, “I’m such a fuck-up.”
+She turned away. “I’m such a fuck-up.”
 </p>
 <p>
 “What’s the matter?”
@@ -327,7 +324,7 @@ She bolted back up furiously. “Oh fuck, come on! I’ve told you everything! W
 “And cocaine?” Jason tried.
 </p>
 <p>
-“Cocaine is the granddaddy of them all,” said Julie. “Cocaine is the <em>original</em> DRI. What all these DRIs do artificially, the coca plant’s been doing naturally for millions of years. Cocaine screws directly with the reward pathway. Like, if you ace a test at school, the bolt of satisfaction you feel when you see that A+ is the stimulation of the reward pathway. Or if you’re playing a sport and you score a point and you feel the rush of power and the thrill of victory. And when the pathway activates, it sensitizes neural channels that correspond to whatever you’re doing at the time &mdash; it makes you more likely to make the decision to do it again. So the dopamine rush you feel when you ace a test makes you more likely to choose to study in the future; when you score a goal, it makes you willing to practice more. Dopamine drives the positive feedback system that makes the cognitive machinery of the brain do more of what works and less of what doesn’t.”
+“Cocaine is the <em>original</em> DRI,” said Julie. “What all these DRIs do artificially, the coca plant does through natural evolution. Cocaine screws directly with the reward pathway. Like, if you ace a test at school, the bolt of satisfaction when you see that A+ is the stimulation of the reward pathway. Or if you’re playing a sport and you score a point and you feel the thrill of victory. When the pathway activates, it sensitizes neural channels that correspond to whatever you’re doing at the time &mdash; it makes you more likely to make the decision to do it again. So the rush you feel when you ace a test makes you more likely to choose to study in the future; when you score a goal, it makes you willing to practice more. Dopamine drives the positive feedback system that makes the cognitive machinery of the brain do more of what works and less of what doesn’t.”
 </p>
 <p>
 Jason nodded. “And cocaine throws this reward system into overdrive.”
@@ -336,7 +333,7 @@ Jason nodded. “And cocaine throws this reward system into overdrive.”
 “Exactly,” Julie said. “Cocaine prevents the neurons in the pathway from cleaning up after themselves, so there’s dopamine overflowing everywhere.”
 </p>
 <p>
-“Which, like acing a test or scoring a goal, inclines the cocaine user to do more of whatever they were doing to make that happen…” said Jason.
+“Which inclines the cocaine user to do more of whatever they were doing to make that happen…” said Jason.
 </p>
 <p>
 “…Which happens to be snorting lines of coke,” concluded Julie.

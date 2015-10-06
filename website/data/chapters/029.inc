@@ -195,7 +195,7 @@ The figure hanging inverted above the balcony stretched an arm out toward the ro
 A low boom thundered through the suite, as though the room had been suddenly plunged into a thick ocean of liquid air. The television on the wall rattled in its moorings. The curtains of the windows by the balcony billowed away from the blast.
 </p>
 <p>
-One of the men on the periphery of the standoff crumpled to the floor. A dark, wet, viscous slurry of organic matter began pouring from his side. A corner of his rib cage was missing. He stumbled and twitched for a few moments, trying to grab nearby pieces of furniture to pick himself back up; his wound exposed muscles in his torso, which visibly contracted and slid against one another in his struggle.
+One of the men on the periphery of the standoff crumpled to the floor. A dark, viscous slurry of organic matter began pouring from his side. A corner of his rib cage was missing. He stumbled and twitched for a few moments, trying to grab nearby pieces of furniture to pick himself back up; his wound exposed muscles in his torso, which visibly contracted and slid against one another in his struggle.
 </p>
 <p>
 Still hanging upside-down from the rope, Eugene righted his arm from the recoil and began sweeping toward a second target.
@@ -207,7 +207,7 @@ Men and women dove for cover in all directions, ducking behind furniture or hidi
 Three of the mercenaries stood their ground and opened fire in the general direction of the balcony, shaking the room with a syncopated rhythm of gunshots. Eugene deftly pulled himself upward, out of the reach of their bullets. They rushed out onto the balcony to try to get better angles for their lines of fire. With their guns pointed upward, they burst through the balcony doors &mdash; and there, they hesitated for one split second as their pupils dilated and their eyes adjusted to the darkness.
 </p>
 <p>
-That moment of hesitation, physiologically unavoidable, was all Eugene needed.
+That second was all Eugene needed.
 </p>
 <p>
 He swung his feet down and kicked one of the men in the head, then dropped in behind him while the man was still disoriented and stumbling. Eugene’s hand made a quick jabbing motion at the mercenary’s neck. When the hand came away, Eugene’s butterfly knife protruded from the man’s throat. The mercenary gurgled and fell to his knees, pink foam frothing from his lips.

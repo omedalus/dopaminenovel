@@ -9,10 +9,10 @@ as they stepped down the interior stairs. “You told the guy I had Asperger’s
 Jason shrugged. “The best lies are based on truth.”
 </p>
 <p>
-In the space beneath the catwalk lay a naked mattress with a few blankets. An adjacent wall bore large metal doors.
+In the space beneath the catwalk lay a naked mattress strewn with blankets. Large metal doors lined the adjacent wall.
 </p>
 <p>
-“Julie,” Jason said. “Are you okay?”
+“Julie, are you okay?” asked Jason.
 </p>
 <p>
 Julie Yen grumbled, “What do you want?”
@@ -24,16 +24,13 @@ Julie Yen grumbled, “What do you want?”
 “Right,” she scoffed.
 </p>
 <p>
-In the center of the room was a cylindrical glass vat. It sat atop a waist-high base covered with dials and buttons bearing readouts for temperature, pressure, salinity, and pH. Pipes, hoses, and valves ran along its side. It looked as though an office water cooler and a cappuccino machine had a baby, and that baby grew up aboard a nuclear submarine. The water inside was hazy and silty like ocean brine. 
-</p>
-<p>
-Near the vat sat a stack of plastic gallon-sized jars, just like the powdered diet supplements from the Rite Aid. Their labels read  “L-Glutamine”.
+In the center of the room, a cylindrical glass vat sat atop a waist-high base covered with dials and buttons bearing readouts for temperature,pressure, salinity, and pH. Pipes, hoses, and valves ran along its side. The water inside was hazy like ocean brine. Large plastic jars labeled “L-Glutamine” were stacked nearby.
 </p>
 <p>
 The back wall was lined with 55-gallon drums marked “Kerosene” and “Acetone,” with color-coded diamonds to indicate hazard ratings.
 </p>
 <p>
-On a metal table, sitting alone, was a plain glass bottle filled with clear liquid, sealed with a stopper. Beside the bottle lay black rubber gloves and a pair of eye goggles. The bottle bore no label.
+On a metal table sat an unmarked glass bottle of clear liquid, sealed with a stopper. Eye goggles and black rubber gloves lay beside it.
 </p>
 <p>
 Danny reached his hand toward it.
@@ -45,25 +42,19 @@ Danny reached his hand toward it.
 “What is it?” Danny asked.
 </p>
 <p>
-“Hydrochloric acid, eleven molar concentration,” she answered. “I told you idiots you only need three molar to stabilize the base. I’ll have to dilute the shit out of it.” She sighed. “Don’t know why I’m even stopping you. Go ahead, open it.”
+“Hydrochloric acid, eleven molar concentration. I told you idiots you only need three molar to stabilize the base. I’ll have to dilute the shit out of it.” She sighed. “Don’t know why I’m even stopping you. Go ahead, open it.”
 </p>
 <p>
-Jason whispered, “We’re not with the Russians.”
+Jason whispered, “Julie… Do you want to get out of here?”
 </p>
 <p>
-Julie eyed him suspiciously.
-</p>
-<p>
-“Do you want to get out of here?” Jason added.
-</p>
-<p>
-Julie’s lower lip trembled. “I want…” she scowled up at the windows of the overhead office and screamed, “…my <em>fucking blow</em>!” She grabbed a nearby piece of cardboard and threw it weakly upwards. “It’s the best shit they’ve ever seen, and they fucking stole it! It’s mine, God damn it! Fuck…!” She stomped back toward her mattress, sat, and sobbed.
+Julie’s lip trembled. “I want…” she scowled up at the windows of the overhead office and screamed, “…my <em>fucking blow</em>!” She grabbed a nearby piece of cardboard and threw it weakly upwards. “It’s the best shit they’ve ever seen, and they fucking stole it! It’s mine, God damn it! Fuck…!” She threw herself down onto her mattress, sobbing like a petulant child.
 </p>
 <p>
 Jason squatted beside her. “I brought something that might cheer you up.” He stretched his hand out, and for a moment her eyes grew bright and eager. 
 </p>
 <p>
-When she saw him present the Eppendorf tube, she looked away uninterested.
+When she saw the Eppendorf tube, she looked away uninterested.
 </p>
 <p>
 “I thought you’d be happy to see it,” he said.
@@ -78,31 +69,34 @@ She turned away. “I’m such a fuck-up.”
 “This is all my fault,” she said. “I should have just done my job like a good little girl. I can’t do anything right.” She sniffled, and wiped her nose with her sleeve. “Your friend is gonna burn his hands off,” she added.
 </p>
 <p>
-Jason saw Danny still by the table. “Danny, what the hell are you doing?”
+Danny was jabbing at the bottle with his HERF gun, watching the liquid jiggle back and forth. It looked like ordinary water, except for the fine white haze suspended just above its surface.
 </p>
 <p>
-Danny was still examining the glass bottle, poking it with the end of his HERF gun to make the liquid jiggle. It looked for all the world like perfectly normal water, but a fine white haze hung suspended inside the bottle above the waterline.
+Julie shuffled toward him. Without a word, she donned the black rubber gloves, strapped the goggles over her face, and gently pulled out the stopper. A translucent trail of pale vapor wafted upward. 
 </p>
 <p>
-Julie shuffled toward him. Without a word, she donned the black rubber gloves, strapped the goggles over her face, and gently pulled out the stopper. Like mist rising from a freshly opened ice-cold beer, a translucent trail of pale vapor wafted upward. She reached down and grabbed a scrap of cardboard from the floor. She waved the cardboard over the bottle, letting it pass through the finger of fog. Along the line of exposure, the cardboard blackened and charred before Danny’s eyes. She gave the sheet a slight shake, and chunks crumbled to ash. Julie used the remains of the cardboard to wipe the rubber stopper. Where it touched, the cardboard simply vanished. She re-sealed the bottle. “That’s why you don’t fuck with this stuff!” she said as she took the gloves and goggles off.
+She grabbed a scrap of cardboard from the floor and waved it over the bottle, passing it through the finger of fog.
 </p>
 <p>
-Jason gestured to the equipment around them. “What’s all this stuff for?”
+Along the line of exposure, the cardboard blackened and charred. She gave the sheet a slight shake, and chunks crumbled to ash. She used the remains of the cardboard to wipe the stopper. Where it touched, the cardboard simply vanished. She re-sealed the bottle and removed her safety gear. “That’s why you don’t fuck with this stuff!”
 </p>
 <p>
-“It’s high-volume alkaloid extraction and stabilization,” Julie said. “Can I see the sample?” Jason cautiously passed the Eppendorf tube into her hand. She held it up to her eyes and studied it. “It’s biofilming. That’s good. It’s supposed to.”
+Jason gestured to the equipment around them. “What’s all this for?”
+</p>
+<p>
+“High-volume alkaloid extraction,” Julie said. “Let me see the sample.” Jason passed the Eppendorf tube into her hand. She held it up to her eyes and studied it. “It’s biofilming. That’s good. It’s supposed to.”
 </p>
 <p>
 “Can you incubate it?” asked Jason.
 </p>
 <p>
-“You’d like that, wouldn’t you?” said Julie. “Everybody would. And then the second I finish a batch, the Russians will just bullet through my head.”
+“The second I finish a batch,” she said. “the Russians will bullet through my head.”
 </p>
 <p>
 “I might be able to talk them into letting you go.”
 </p>
 <p>
-“Fat chance,” Julie said despondently.
+“Fat chance.”
 </p>
 <p>
 “It’s worth a try,” said Jason. “But tell me more about it first.”
@@ -120,19 +114,13 @@ Julie frowned. “Can you get me some blow?”
 Jason looked around. “Yeah, I gathered that.”
 </p>
 <p>
-Julie held up the vial. “No, this. <em>This</em> is a cocaine factory.”
-</p>
-<p>
-Jason blinked. “How do you mean?”
-</p>
-<p>
-Julie pointed to the large plastic jars near the cylindrical vat in the middle of the room. “You see those buckets of glutamine? You feed that stuff to these bacteria, and they poop out benzoylmethylecgonine.”
+Julie held up the vial. “No, this. <em>This</em> is a cocaine factory. You see those buckets of glutamine? You feed that stuff to these bacteria, and they poop out benzoylmethylecgonine.”
 </p>
 <p>
 “Benzowhat?” said Jason.
 </p>
 <p>
-“Cocaine,” Julie clarified. “Benzoylmethylecgonine. The world’s best targeted dopamine reuptake inhibitor.”
+“Benzoylmethylecgonine. Cocaine. The world’s best targeted dopamine reuptake inhibitor.”
 </p>
 <p>
 Jason remained expressionless. “That L-Glutamine stuff…” he said, eyeing the purple labels on the jars. “Is it hard to get?”
@@ -141,13 +129,13 @@ Jason remained expressionless. “That L-Glutamine stuff…” he said, eyeing t
 Julie looked at Jason with a face usually directed at the kid in class who eats paste. “It’s <em>glutamine</em>. It’s forty bucks a pound at any GNC store. Cheaper if you buy in bulk. And it converts to cocaine at almost 100% yield. So you’re basically making cocaine at ninety bucks a kilo.”
 </p>
 <p>
-A smile broke through Jason’s poker face. “So, you incubate the germs in that vial, then you pour in that glutamine stuff, and then suddenly you have cocaine?”
+“So, you incubate the germs in that vial, then you pour in that glutamine stuff, and then suddenly you have cocaine?”
 </p>
 <p>
 “More or less,” said Julie. “I mean, there’s a little more to it. You have to give it time to let the enzymes act, but after that you can process it just like leaves from a coca plant. Mix it with kerosene, grind it into a paste, separate with acetone, blah blah blah. The process kills the bacteria, so you need to keep a pure mother broth around. But in a nutshell, yeah.”
 </p>
 <p>
-Danny listened, partially fascinated and partially shocked. “Wait, let me get this straight. This whole night, I’ve been chasing after some kind of germ that’s been injected with the gene for cocaine?”
+Danny interrupted, “Wait, let me get this straight. This whole night, I’ve been chasing after some kind of germ that’s been injected with the gene for cocaine?”
 </p>
 <p>
 Julie rolled her eyes. “There is no ‘gene for cocaine’. Cocaine isn’t a protein. It’s a crystalline tropane alkaloid. Do you have any idea how complicated its biosynthesis process is?”
@@ -156,19 +144,19 @@ Julie rolled her eyes. “There is no ‘gene for cocaine’. Cocaine isn’t a 
 “Umm… no?” Danny replied.
 </p>
 <p>
-“Look, cellular machinery can’t create cocaine through normal gene expression,” said Julie. “But cellular machinery <em>can</em> create enzymes to catalyze the conversion of precursors. That’s what happens in <em>Erythroxylon coca</em> &mdash; the coca plant. There’s about sixteen steps in the natural biosynthesis of benzoylmethylecgonine. Those steps are catalyzed by about two dozen enzymes, six of which consist of multiple peptide chains and two of which are themselves synthesized by other enzymes… The point is, unlike cocaine, enzymes <em>are</em> proteins. Enzymes <em>do</em> have genetic encodings. Which means…” She left the pause pregnant, hoping that the implication would be obvious. Instead, the two men stared at her blankly. “…Which <em>means</em> that we can sequence those genes in the coca plant, and then splice them into <em>E. coli</em>. So the <em>E. coli</em> thinks they’re part of its own genome, and translates them into proteins. Got it?”
+“Look, cellular machinery can’t create cocaine through normal gene expression,” said Julie. “But cellular machinery <em>can</em> create enzymes to catalyze the conversion of precursors. That’s what happens in <em>Erythroxylon coca</em> &mdash; the coca plant. There’s about sixteen steps in the natural biosynthesis of benzoylmethylecgonine. Those steps are catalyzed by about two dozen enzymes, six of which consist of multiple peptide chains and two of which are themselves synthesized by other enzymes… The point is, unlike cocaine, enzymes <em>are</em> proteins. Enzymes <em>do</em> have genetic encodings. Which meeeeeans…” She paused, hoping that the implication would be obvious. The two men stared at her blankly. “…Which <em>means</em> that we can sequence those genes in the coca plant, and then splice them into <em>E. coli</em>. So the <em>E. coli</em> thinks they’re part of its own genome, and translates them into proteins. Got it?”
 </p>
 <p>
 Danny nodded brightly. “Yeah!”
 </p>
 <p>
-Julie eyed him skeptically. “Really?”
+Julie cocked an eyebrow. “Really?”
 </p>
 <p>
 “Yes!” Danny declared. “It’s just like a DLL hijacking attack! Like a computer virus.”
 </p>
 <p>
-Jason stared at the girl quizzically. “You successfully gene-spliced a coca plant into a laboratory germ to create a cocaine-producing bio-machine? That sounds like one hell of an engineering accomplishment.”
+Jason stared at her quizzically. “You gene-spliced a coca plant into a laboratory germ to create a cocaine-producing bio-machine? That sounds like one hell of an engineering accomplishment.”
 </p>
 <p>
 “Recombinant genetics isn’t for sissies,” she replied proudly.
@@ -183,10 +171,16 @@ Jason stared at the girl quizzically. “You successfully gene-spliced a coca pl
 “How did <em>you</em> get that vial?” Jason prodded.
 </p>
 <p>
-“I told you!” Julie said defiantly. “It’s made from sequencing the <em>Erythroxylon coca</em> genome, taking all the genes of the metabolic pathway…”
+“I told you!” Julie said defiantly. “By sequencing the <em>Erythroxylon coca</em> genome…”
 </p>
 <p>
 “That answers how <em>Tungsten</em> created it,” said Jason. “It doesn’t answer how <em>you</em> ended up with it. Look, I don’t know much about science, but I do know about personnel management. The kind of engineering effort you’re describing would take years, even for a team of world-class researchers. You did <em>not</em> create it on your own as some intern summer project.”
+</p>
+<p>
+“They couldn’t have finished it without me!” she protested.
+</p>
+<p>
+“Right. They needed <em>you</em> to sequence the coca plant genome. They needed <em>you</em> to splice the genes into the <em>E. coli</em> strain…”
 </p>
 <p>
 Julie glared at him. “I’m a key member of the research staff!”
@@ -195,49 +189,37 @@ Julie glared at him. “I’m a key member of the research staff!”
 “You’re a college sophomore.”
 </p>
 <p>
-“They couldn’t have finished it without me!” she protested.
+“God, shut the fuck up!” She stormed back to her mattress in a huff.
 </p>
 <p>
-“Right. They needed <em>you</em> to sequence the coca plant genome,” Jason said sardonically. “They needed <em>you</em> to splice the genes into the <em>E. coli</em> strain. They needed <em>you</em> to figure out how to cultivate and process it.”
+Jason sat down beside her. After giving her a few moments to cool off, he asked her gently, “Tell me how it went down.”
 </p>
 <p>
-“God, shut the fuck up!” Julie yelled, her lip quivering. She stormed back to the mattress beneath the overhanging office, where she sat back down in a huff. “Everything sucks.”
+She picked idly at a loose thread. “Creating cocaine-producing <em>E. coli</em> wasn’t just some side-project. It’s the whole point of Tungsten. This vial is everything they’ve been working for.”
 </p>
 <p>
-Jason sat down beside her. Gently, he coaxed, “Tell me how it went down.”
+“And they entrusted it to their intern?”
 </p>
 <p>
-The girl sighed. “Creating cocaine-producing <em>E. coli</em> wasn’t just some side-project. It’s the whole point of Tungsten. It’s all they’ve been doing for two years. This vial is everything they’ve been working for.”
+“Genetic engineering isn’t an exact science. It’s not like we can reach inside a cell’s nucleus with little tweezers, you know? Getting a gene from one organism into another is a messy process. We use special chemicals called restriction enzymes to chop out the genes we want from the source organism. Each different restriction enzyme binds to one specific nucleotide sequence and cuts the DNA strand there. So, if we’ve sequenced a gene, then we can pour in a restriction enzyme that binds to the beginning of the gene and another that binds to the end, and the gene floats out into the solution. But a lot of other unwanted chunks of DNA also float out along with it. You then have to fool an <em>E. coli</em> bacterium into absorbing these chunks into its own genome. It’s tricky because bacteria have evolved restriction modification systems to protect themselves from foreign DNA…”
 </p>
 <p>
-“And they entrusted it to their intern?” asked Jason.
+“Ooh!” Danny interrupted. “Just like Intrusion Prevention Systems on computer networks! I just learned about those today.”
 </p>
 <p>
-She picked idly at a loose thread in the mattress. “Genetic engineering isn’t an exact science. It’s not like we can reach inside the nucleus of a coca plant with little tweezers and pull out a specific DNA strand. Getting a gene from one organism into another is a messy process, and it only goes right a fraction of the time. We use special chemicals called restriction enzymes to chop out the genes we want from the source organism. Each different restriction enzyme binds to one specific DNA sequence and cuts the DNA strand there. So, if we’ve sequenced a gene, then we can pick a restriction enzyme that binds to the beginning of the gene and another that binds to the end, and then we mix them with the DNA. And the gene floats out into the solution. But a lot of other unwanted chunks of DNA also float out along with it. Once you’ve got these chunks of DNA from the coca plant, you then have to fool an <em>E. coli</em> bacterium into absorbing them into its own genome. It’s tricky because bacteria have evolved restriction modification systems to protect themselves from foreign DNA…”
+Julie blinked at him and shrugged. “Anyway. To fool a bacterium into adopting foreign DNA, you have to wrap the new gene into a plasmid, or load it into a bacteriophage virus, and so on. Oh, <em>and</em> you have to create some way to separate the <em>E. coli</em> that <em>do</em> absorb your new gene from the ones that don’t. Like with something called a ‘screenable marker’ which is where we add a gene for bioluminescence to make the desired bacteria glow in the dark. Because, don’t forget, we don’t actually <em>see</em> what we’re working with &mdash; all we’re doing is mixing liquids and keeping our fingers crossed.”
 </p>
 <p>
-Danny interrupted her excitedly. “Ooh! Just like Intrusion Prevention Systems on computer networks! I just learned about those today.”
+“So, what you’re saying,” said Jason, “is that it’s very hit-or-miss work. You can do everything right, and in the end your germs don’t absorb any new DNA. Or they do, but it wasn’t what you were hoping for &mdash; it was some junk DNA instead.”
 </p>
 <p>
-Julie blinked at him and shrugged dismissively. “Anyway. You have to fool a bacterium into taking in your new chunk of DNA as its own. You have to wrap the new gene into a plasmid, or load it into a bacteriophage virus, and so on. Oh, <em>and</em> you have to create some way to separate the <em>E. coli</em> that <em>do</em> absorb your new gene from the ones that don’t. Like with something called a ‘screenable marker’ which is where we add a gene for bioluminescence to make the desired bacteria glow in the dark. Because, don’t forget, we don’t actually <em>see</em> what we’re working with &mdash; all we’re doing is dripping vials of clear liquid into other vials of clear liquid and then mixing in some brown goop and keeping our fingers crossed.”
-</p>
-<p>
-“So, what you’re saying,” said Jason, “is that it’s very hit-or-miss work. You can do everything right, and in the end your germs don’t absorb any new DNA. Or they do, but it wasn’t what you were hoping for &mdash; it was some unwanted junk DNA instead.”
-</p>
-<p>
-“Right,” said Julie. “Or they got the right DNA and inserted it into their genome successfully, but put it somewhere in the genome where it can’t be expressed.”
+“Right,” said Julie. “Or they got the right DNA, but put it somewhere in the genome where it can’t be expressed.”
 </p>
 <p>
 “Which means you have to mix up another batch and try again, right?” said Jason.
 </p>
 <p>
-“Over and over,” said Julie. “And that’s just for <em>one</em> gene. The metabolic pathway for cocaine synthesis has about forty.”
-</p>
-<p>
-“Sounds very repetitive,” said Jason.
-</p>
-<p>
-“It’s mostly done by robots,” said Julie. “But you always have to follow up with confirmational tests by hand.”
+“Over and over,” said Julie. “And that’s just for <em>one</em> gene. The metabolic pathway for cocaine synthesis has about forty. It’s mostly done by robots. But you have to do follow-up tests by hand.”
 </p>
 <p>
 Jason smiled. “Yes. I get it now. That’s exactly the kind of task… that they’d give an intern. So the scientists ran hundreds of thousands of these batches… and you were the first one to spot a success.”

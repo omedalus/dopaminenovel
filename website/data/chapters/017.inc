@@ -231,37 +231,37 @@ Julie nodded. “It was my job to check on them. The other scientists couldn’t
 “And you were supposed to call in the senior researchers,” Jason surmised. “But instead, you…”
 </p>
 <p>
-“Yeah,” said Julie. “I just… you know…”
+“Yeah. I just… you know…”
 </p>
 <p>
 “Took it.”
 </p>
 <p>
-Julie nodded. “They started to realize that something was up. Damned if I know how. Sensor data from the robots, maybe? Anyway, they didn’t call me out on it. They were just starting to suspect me after a couple weeks. But by then I’d already started making my own batches and dealing. And then I found out that I was on Sergey’s turf… And the rest of the story is…”
+Julie nodded. “They started to realize that something was up. Damned if I know how. Sensor data from the robots, maybe? They were just starting to suspect me after a couple weeks. But by then I’d already started making my own batches and dealing… And the rest of the story is…”
 </p>
 <p>
 Jason looked around the room, at the naked mattress and the unwashed, pajama-clad girl. “Yeah.”
 </p>
 <p>
-Julie let herself roll backward onto the mattress. She curled up on her side into a fetal position, the Eppendorf tube held between her palms.
+Julie rolled backward and curled up on her side in a fetal position, the Eppendorf tube held between her palms.
 </p>
 <p>
-Jason watched her in silence. Danny, for his part, wandered over to the vat in the middle of the room to examine its elaborate plumbing systems. 
+Jason watched her in silence. Danny wandered toward the vat in the middle of the room. 
 </p>
 <p>
 Quietly, Jason asked her, “Are you okay?”
 </p>
 <p>
-“No!” she answered. “No, I’m not fucking okay! God, I don’t understand why everything has to be so fucking hard!” She began to sob. “Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final and break the curve, and they go, ‘How could you miss those three percent?’ I work so fucking hard, just to feel the slightest shred of pride and accomplishment… All I want is to be able to enjoy the feeling of knowing that I did <em>something</em> right for once in my life. <em>Anything</em>. All I needed was one big score, do one single goddamned thing, so I could show everybody that I can measure up. Just prove to the world, ‘Look at me, fuckers! I win! I don’t care what you say! I <em>am</em> good enough!’ Except… I’m obviously not.” Her voice thin, she added, “Can you please get me some coke now?”
+“No!” she answered. “No, I’m not fucking okay! God, I don’t understand why everything has to be so fucking hard! Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘How could you miss those three percent?’ I work so fucking hard, just to feel the slightest shred of pride and accomplishment… All I want is to be able to enjoy the feeling of knowing that I did <em>something</em> right. <em>Anything</em>. I just wanted one big score, just prove to the world, ‘Look at me, fuckers! I win! I don’t care what you say! I <em>am</em> good enough!’… Can… Can you… Please get me some coke now?”
 </p>
 <p>
 Jason paused, and said, “Okay, Julie. I’ll see what I can do. But first… I want you to explain one more thing to me.”
 </p>
 <p>
-She bolted back up furiously. “Oh fuck, come on! I’ve told you everything! What the hell else do you want to know?”
+She bolted back up furiously. “Oh fuck, come on!”
 </p>
 <p>
-“You’ve told me the <em>how</em>, but not the <em>why</em>. You said Tungsten was working full-time to develop this organic cocaine dispenser. But why would they do that? From a business perspective, that doesn’t make any sense. The end product is illegal to sell. What was Tungsten’s market strategy?”
+“You’ve told me the <em>how</em>, but not the <em>why</em>. Tungsten was working full-time to develop this transgenic cocaine dispenser. But from a business perspective, that doesn’t make any sense. The end product is illegal to sell. What was Tungsten’s market strategy?”
 </p>
 <p>
 “You mean like how to make money off of it?” asked Julie. “Fuck if I know. I was just on the science end of things. All I know are rumors. If I tell, will you get me some coke already?”

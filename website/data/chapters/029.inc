@@ -714,85 +714,76 @@ Danny hoisted his HERF gun over his shoulder, turned toward the doorway, and ans
 
 <div class="chapsection">
 <p>
-<span class="caplead">Danny burst through a heavy gray door</span> at the top of the stairwell, and was greeted by a blast of wind blowing furiously from the helicopter’s thundering blades. His hair swept back away from his face; his clothes flapped in the gale. With his energy rifle in his hands, he paused in the doorway and surveyed the roof.
+<span class="caplead">Danny burst through a heavy gray door</span>, and was greeted by wind blasting from the helicopter’s blades. His hair swept back away from his face; his clothes flapped in the gale. With his energy rifle in his hands, he paused in the doorway and surveyed the roof.
 </p>
 <p>
-The wide, flat asphalt expanse was bedecked with HVAC equipment and air conduits and water tanks. The helicopter landing platform &mdash; a smooth, squat square of concrete, only two feet tall but about as wide as a city street &mdash; dominated the rooftop.
+The asphalt expanse was bedecked with HVAC equipment and water tanks. The helicopter landing platform &mdash; only two feet tall but about as wide as a city street &mdash; dominated the rooftop.
 </p>
 <p>
-The small chopper hovered forty feet above the helipad, illuminated from below by bright white landing lights. It bobbed and weaved in the air at shifting angles, struggling for altitude.
+The small chopper hovered forty feet above the helipad, illuminated from below by bright white landing lights. It bobbed and weaved in the air, struggling for altitude.
 </p>
 <p>
 Sergey Mukhayev hung from one of its landing skids.
 </p>
 <p>
-He clung to the rail, fighting both gravity and the downward current of air. The knuckles of his massive hands were flexed white; the muscles of his arms bulged beneath his armor. He twisted and curled his body, trying to hoist himself up high enough to get a leg onto the skid even as the helicopter bucked in response to his movements. The small chopper’s motor struggled to lift the mass of the armor-clad Russian. His heavy body dragged down one side of the vehicle, forcing the pilot to constantly adjust the pitch of the rotor blades to account for the shifting, lopsided distribution of weight.
+He clung to the rail, twisted and curling his body, trying to hoist himself onto the rail. The small chopper’s motor bucked against the mass of the armor-clad Russian. His heavy body dragged down one side of the vehicle, forcing the pilot to constantly adjust the pitch of the rotor blades to account for the shifting weight.
 </p>
 <p>
-Danny sprinted across the rooftop, heading into the wind. The air howled past his ears and rippled on his skin as he drew closer to the helipad.
+Danny sprinted across the rooftop, the air howling past his ears.
 </p>
 <p>
-As he ran, his mind raced with diagrams and schematics. On the back of the two-seat chopper, tucked beneath its tail, Danny could clearly see the distinctive piping of an exhaust manifold, much like on a souped-up sports car; superheated air streamed from the pipe, creating transparent ripples of optical distortion. The helicopter was powered by a simple four-cylinder internal combustion engine. An electromagnetic pulse would do nothing to the engine’s mechanical components &mdash; its pistons, its drive belts, its combustion chambers would all be completely oblivious to his weapon. But Danny was willing to bet that, just like with the automotive industry, in the past few decades the construction of aircraft engines had likely begun to integrate microprocessors to improve performance and fuel efficiency. The helicopter’s powertrain would be immune to the HERF gun, but its electronically regulated fuel injection system and digitally-timed spark gaps wouldn’t be so lucky.
+As he ran, his mind raced with diagrams and schematics. On the back of the two-seat chopper, tucked beneath its tail, Danny could clearly see the distinctive piping of an exhaust manifold, like on a souped-up sports car; superheated air streamed from the pipe, creating transparent ripples of optical distortion. The helicopter was powered by a simple four-cylinder internal combustion engine. An electromagnetic pulse would do nothing to its mechanical components &mdash; its pistons, its drive belts, its combustion chambers would all be completely oblivious to his weapon. But its electronically regulated fuel injection system and digitally-timed spark gaps wouldn’t be so lucky.
 </p>
 <p>
 At least, in theory.
 </p>
 <p>
-Danny ran up a short concrete ramp and ascended to the helipad. The low, flat concrete clearing opened out before him, illuminated with bright white lights, bearing a large circled letter “H”. Above him, the thunderous machine teetered in the air, fighting for stability. Sergey swayed by one arm beneath its metal belly, his body swinging wildly from the unstable helicopter like a punching bag pounded by a boxer’s fist. He kicked and yanked to try to grab hold of the skid with his other hand. Even through the din of the helicopter, Danny could hear Sergey grunting and roaring from exertion.
+Danny ascended to the helipad. The low, flat concrete clearing opened out before him. Above, the thunderous machine teetered in the air, fighting for stability. Sergey swayed by one arm beneath its metal belly, his body swinging wildly from the unstable helicopter like a punching bag pounded by a boxer’s fist.
 </p>
 <p>
-Danny took aim. He held the HERF gun by its heavy pack of blue cylinders under one arm and the pistol grip of the microwave horn in his opposite hand, aligning its relay-spined PVC tube with his line of sight.
+Danny drew his HERF gun up to his shoulder, took aim, and pulled the trigger.
 </p>
 <p>
-He pulled the trigger.
+Above, the cockpit went dark. From the exhaust pipe, the rippling stream of superheated air vanished.
 </p>
 <p>
-Above, the cockpit went dark.
+With its rotor blades still whirling by sheer momentum, the vehicle began to sink back down toward the helipad.
 </p>
 <p>
-The sound of the helicopter overhead abruptly changed. The rapid staccato pulse of the spinning blades continued, but a rumbling undercurrent of sound beneath it suddenly went quiet. From the exhaust pipe, the rippling stream of superheated air vanished.
-</p>
-<p>
-With its rotor blades still whirling, the vehicle began to sink back down toward the helipad.
-</p>
-<p>
-And Sergey’s entire body went limp.
-</p>
-<p>
-His kicking and grunting suddenly ceased. His legs, abdomen, and chest systematically went slack. His free hand momentarily clutched his chest before dropping loosely to his hip.
+And Sergey’s entire body went limp. His legs, abdomen, and chest systematically went slack. His free hand momentarily clutched his chest before dropping loosely to his hip.
 </p>
 <p>
 Danny looked on, realizing something was horribly wrong. “Sergey…?”
 </p>
 <p>
-The large armor-clad Russian dangled from the landing skid beneath the helicopter, unpowered and inanimate, like a rag doll hanging from a banister.
+He dangled from the landing skid, unpowered and inanimate, like an armor-clad rag doll.
 </p>
 <p>
-And slowly, the thick, muscular fingers of his meaty hand slipped from the rail. His massive body fell away from the helicopter and sailed downward through the air.
+And slowly, the thick, muscular fingers of his meaty hand slipped from the rail. His body fell away and plummeted through the air.
 </p>
 <p>
 “Sergey!”
 </p>
 <p>
-Above, the chopper sprang sideways the instant it was free of its imbalanced load. The machine veered drastically away from the helipad and tilted violently. Inside the cockpit, the pilot fought furiously with the controls to keep the vehicle poised over the pad for a safe landing. He overcorrected, causing the helicopter’s bubbly body to lurch and sway beneath its rotors like a tire swing. The chopper soared back toward the helipad and overshot it, then bucked aggressively as the pilot desperately tried to marshal the rotor’s dwindling energy for another pass. The unpowered vehicle continued to sink down through the air.
+Above, the chopper sprang sideways the instant it was free of its imbalanced load. The machine veered drastically away from the helipad and tilted violently. Inside the cockpit, the pilot fought furiously with the controls to keep the vehicle poised for a safe landing. 
 </p>
 <p>
-Sergey’s large body hit the smooth concrete with a dull thud.
+Sergey hit the concrete with a dull thud.
 </p>
 <p>
-Danny ran to him, sprinting across the helipad as the chopper listed overhead. He dropped his HERF gun and knelt beside the fallen body, the knees of his overalls scraping roughly against the landing surface. His hands waved frantically over the crumpled form, not knowing what he could to do help or even where it would be safe to touch. Bones had surely broken in the fall, but Danny could see no bullet wounds, no head trauma, nothing that would explain Sergey’s sudden collapse.
+Danny sprinted across the helipad and knelt beside the fallen body. His hands waved frantically over the crumpled form, not knowing what he could to do help or even where it would be safe to touch. Bones had surely broken in the fall, but Danny could see no bullet wounds, no head trauma, nothing that would explain Sergey’s sudden collapse.
 </p>
 <p>
 “Come on, man! Get up!” Danny pleaded. “What happened?”
 </p>
 <p>
-Sergey’s head was turned aside. Danny reached down and took the large Russian’s face in both hands, feeling the bristly skin of his cheek and chin against his fingers, and rotated his head to face him. Sergey’s jaw was slack. Behind drooping eyelids, his eyes were misaligned and unfocused.
+Danny grabbed his face in both hands, feeling the bristly skin of his cheeks, and rotated his head to face him. Sergey’s jaw was slack. Behind drooping eyelids, his eyes were misaligned and unfocused.
 </p>
 <p>
 Across the helipad, the pilot finally managed to ground his crippled vehicle. Even as the chopper was still settling on its skids, the passenger door opened. Fine black shoes stepped out onto the concrete, matching the crisply-pressed pants of a three-piece suit.
 </p>
 <p>
-As Danny drew his hands away from Sergey’s face, he saw white outlines of his own fingers pressed into the Russian’s skin. The pale impressions lingered, like handprints in cement. Living flesh, with flowing blood and full capillaries, would’ve quickly returned to skin tone. Sergey’s didn’t.
+As Danny drew his hands away from Sergey’s face, the white outlines of his fingers lingered on the Russian’s skin, like handprints in cement. Living flesh, with flowing blood and full capillaries, would’ve quickly returned to skin tone. Sergey’s didn’t.
 </p>
 <p>
 Danny grabbed a wrist and felt for a pulse. There was none to be found. He tried to locate it on the man’s neck, but to no avail. Sergey’s heart wasn’t beating.
@@ -801,16 +792,16 @@ Danny grabbed a wrist and felt for a pulse. There was none to be found. He tried
 “God, why!?” Danny shrieked. “For fuck’s sake, why!?”
 </p>
 <p>
-Danny pulled at Sergey’s arm, and with a heaving grunt he managed to turn the man’s body so that it lay flat on its back. With trembling hands he hurriedly undid the clasps and zippers of Sergey’s armor. Danny didn’t know CPR, and over the slowing thump of the helicopter rotor he couldn’t hear the voices of Tina or Natalie on the Bluetooth earpiece to coach him through it. What he did know, however, is that the human body is a machine and the heart is a pump. He’d repaired many a jittery monitor or squeaky CPU fan with a good stiff whack to the chassis. If percussive maintenance could fix failing electronics, it just might restore function to the meaty muscle inside the Russian’s ribs.
+Danny pulled at Sergey’s arm, and with a heaving grunt he managed to turn the man’s body so that it lay flat on its back. With trembling hands he hurriedly undid the clasps and zippers of Sergey’s armor. Danny didn’t know CPR, and over the slowing thump of the helicopter rotor he couldn’t hear the voices of Tina or Natalie on the Bluetooth earpiece to coach him through it. What he did know, however, is that the heart is just an electromechanical hydraulic pump. A machine. Surely it could be rebooted…
 </p>
 <p>
-He pulled the bulletproof armor away from Sergey’s torso, leaving him in a sweat-drenched button-down shirt. Danny curled his hand into a fist and raised it high above his head, preparing to give a sharp blow onto the man’s sternum in a desperate attempt at resurrection.
+He pulled the armor away from Sergey’s torso, leaving him in a sweat-drenched button-down shirt. Danny curled his hand into a fist and raised it high above his head, preparing to give a sharp blow to the sternum.
 </p>
 <p>
 It was then that he saw Sergey’s wounds.
 </p>
 <p>
-The top few buttons of the Russian’s shirt hung open, exposing his muscular chest. Beneath a dense mat of hair, the skin bore long, pale scars, running down his sternum and along the left pectoral. They were thick and raised and slightly striated, resembling earthworms. Thin white branches extended from each fleshy line, indicating stitching. The scars were clearly surgical.
+The top few buttons of the Russian’s shirt hung open, exposing his muscular chest. Beneath a dense mat of hair, the skin bore long, pale scars, running along the left pectoral. They were thick and raised and slightly striated, resembling earthworms. Thin white branches extended from each fleshy line, indicating stitching. The scars were clearly surgical.
 </p>
 <p>
 And on the left side of his chest, below the shoulder, the flesh was raised in the outline of a smooth round disc, about two inches across, implanted beneath the skin.
@@ -819,28 +810,28 @@ And on the left side of his chest, below the shoulder, the flesh was raised in t
 A pacemaker.
 </p>
 <p>
-Danny felt the blood rush from his face. Danny turned his head to look at his HERF gun. His stomach lurched.
+Danny felt the blood rush from his face. He looked at his HERF gun. His stomach lurched.
 </p>
 <p>
-“Oh dear God, no…,” Danny said. He choked on his words.
+“Oh dear God, no…”
 </p>
 <p>
-He brought his fist down on Sergey’s chest. “No!” he screamed, and raised his fist again. “No no <em>no</em>!” He pounded futilely on motionless ribs. Eventually, his fist slowed and his arm weakened, and he brought it to rest softly upon Sergey’s lifeless body. His head followed, curling downward to rest his forehead upon Sergey’s chest. “I’m sorry,” he said hoarsely. “I’m so, so sorry…”
+He brought his fist down on Sergey’s chest. “No!” he screamed, and raised his fist again. “No no <em>no</em>!” He pounded futilely on motionless ribs. Eventually, his fist slowed and his arm weakened, and he brought it to rest softly upon Sergey’s lifeless body. His head followed, curling downward to rest his forehead upon Sergey’s chest. “I’m sorry… I’m so, so sorry…”
 </p>
 <p>
-From somewhere behind him, Danny heard laughter. It was harsh and malevolent, dry and dark. It was laughter dripping with condescension and schadenfreude, a chortling cackle of evil victory.
+From somewhere behind him, Danny heard laughter. It was dry and dark. It was laughter dripping with condescension and schadenfreude, a chortling cackle of evil victory.
 </p>
 <p>
-Still kneeling over Sergey’s body, Danny looked up with red, moist eyes and dry, tense throat, and turned around.
+Still kneeling over Sergey’s body, Danny looked up with red, moist eyes, and turned around.
 </p>
 <p>
-Behind him, only a few feet away, stood Ivan Zheleznov. His shoulders shook as he laughed at Danny. His mouth was spread wide in a horrid grin. In his hand, a small gun glinted in the helipad landing lights.
+Behind him, only a few feet away, stood Ivan Zheleznov. His mouth was spread wide in a horrid grin. In his hand, a small gun glinted in the helipad landing lights.
 </p>
 <p>
 Danny, on his knees, watched the laughing Russian kingpin raise the firearm and point it at him. Unblinking, he saw the barrel aim between his eyes.
 </p>
 <p>
-There was a deafening bang. It resounded across the rooftop, drowning out the beat of the helicopter and the cackling of the Russian beneath thick waves of liquid sound.
+There was a deafening bang. It resounded across the rooftop.
 </p>
 <p>
 Ivan fell sideways.
@@ -852,25 +843,19 @@ As he dropped out of the way, the first thing Danny saw behind him, several yard
 It was held by Eugene Mukhayev.
 </p>
 <p>
-The athletic man stood on the small ramp leading up to the helipad surface, halfway doubled over and unsteady on his feet. His face was pale, his mouth was twisted in unnatural shapes, his eyes darted uncontrollably in their sockets. His entire body quivered and vibrated in sickening waves. The revolver shook in his hand.
+The athletic man stood on the small ramp leading up to the helipad surface, halfway doubled over and unsteady on his feet. His face was pale, his mouth was twisted in unnatural shapes, his eyes darted uncontrollably in their sockets. The revolver shook in his hand.
 </p>
 <p>
-Ivan lay on the smooth concrete, bleeding from the leg. He turned to face Eugene, and fired off a handful of shots from his glinting handgun.
+Ivan lay on the smooth concrete, bleeding from the leg. He turned to face Eugene, and fired off a handful of shots.
 </p>
 <p>
-Eugene grunted and twitched as the bullets hit his armored body, but remained standing. He took aim with his small silver revolver.
+Eugene grunted and twitched as the bullets hit his armored body, but remained standing. He took aim.
 </p>
 <p>
-Ivan tried desperately to scramble to his feet. He succeeded only in a rapid half-crawl away from Eugene.
+Ivan tried desperately to scramble to his feet, but succeeded only in a rapid half-crawl.
 </p>
 <p>
-Eugene’s revolver let out another boom, then another. Round after round shot out from the silver firearm. The revolver’s silver cylinder rotated and locked. Chambers aligned one by one with the barrel. The hammer drew back and sprang forward. Fire spat forth from the large black opening.
-</p>
-<p>
-But his hand was shaking too violently to aim at a moving target. The shots chipped away concrete near Ivan, but none managed to hit him.
-</p>
-<p>
-Out of bullets, Eugene charged forward.
+Eugene’s revolver let out another boom, then another. Fire spat forth from the large black opening. But his hand was shaking too violently to aim at a moving target. The shots chipped away concrete near Ivan, but none managed to hit him. Out of bullets, Eugene charged forward.
 </p>
 <p>
 Ivan limped in panic, trying to flee. His bleeding leg left a crimson trail across the helipad’s surface.
@@ -882,10 +867,10 @@ He made it to the corner of the helipad before Eugene slammed into him. Running 
 Together, they both tumbled to the asphalt surface of the roof. They landed next to the stone balustrade that ringed the top of the building.
 </p>
 <p>
-As Ivan continued trying to crawl away, Eugene grabbed him by his three-piece suit and threw him against the waist-high concrete rails.
+As Ivan continued trying to crawl away, Eugene grabbed him by his three-piece suit and threw him against the concrete rail.
 </p>
 <p>
-The two of them wrestled against the balusters. Eugene fought not only against the aging kingpin but also against his own body, which misinterpreted the commands of his mind into spastic, sloppy motions. His neurons misfired and short-circuited like frayed electrical wires, sending his muscles twitching and twisting against his will. Eugene’s extensive martial skills failed him, as his malfunctioning brain proved incapable of translating his thoughts into coherent action.
+The two of them wrestled against the balusters. Eugene fought not only against the aging kingpin but also against his own body, which misinterpreted the commands of his mind into spastic, sloppy motions. His neurons misfired and short-circuited like frayed electrical wires, sending his muscles twitching and twisting against his will. His extensive martial skills failed him, as his malfunctioning brain proved incapable of translating his thoughts into coherent action.
 </p>
 <p>
 Ivan, wounded and bleeding, pulled himself up on Eugene’s armor. He lacked Eugene’s strength and training, but the old kingpin was a twisty, writhing thing, and he resisted Eugene’s attempts to grapple him. In his hand he still wielded the glinting gun; he tried repeatedly to put it to Eugene’s head.
@@ -903,7 +888,7 @@ Eugene stabilized himself by pushing his back against the waist-high balustrade.
 Ivan, weakening, lifted his glinting handgun over his head and pressed the muzzle against Eugene’s temple.
 </p>
 <p>
-With Ivan’s neck still in his arms and the stone balustrade behind him, knowing that a shot from Ivan’s gun was imminent, Eugene leaned backward. Eugene and Ivan both tipped over the rim of the roof of the Medina Gallante.
+With Ivan’s neck still in his arms and the stone balustrade behind him, knowing that a shot from Ivan’s gun was imminent, Eugene leaned backward. Together, they tipped over the rim of the roof of the Medina Gallante.
 </p>
 <p>
 Danny raced toward the point from where they fell. He hurried past the helicopter, whose blades had slowed to a smooth, silent rotation; inside, the pilot sat low in his seat, trying desperately to call for help on his nonfunctional radio. Danny hopped down from the helipad onto the asphalt rooftop and dashed to the balustrade nearby, streaked with blood.
@@ -915,7 +900,7 @@ A dozen stories beneath him, past rows of windows and the dark green thicket of 
 A crowd began to form around them &mdash; hotel guests, staff, and a growing number of police. Danny ducked away when he noticed that they were looking upward.
 </p>
 <p>
-Thumping noises in the distance alerted him to look around. In the sky, above the speckles of light dotting the suburban skyline, multiple helicopters closed in on the Medina Gallante. In the waters of Lake Washington, patrol boats approached the hotel’s wharf. From the ground, sirens and radio chatter could be heard even on the rooftop.
+Thumping noises in the distance alerted him to look around. In the sky, above the wooded suburban skyline, multiple helicopters closed in on the Medina Gallante. In the waters of Lake Washington, patrol boats approached the hotel’s wharf. From the ground, sirens and radio chatter could be heard even on the rooftop.
 </p>
 <p>
 He noticed the voices of his comrades in the Bluetooth. “Danny! Danny!” Mike hollered. “Can you hear us?”
@@ -924,9 +909,9 @@ He noticed the voices of his comrades in the Bluetooth. “Danny! Danny!” Mike
 “Yeah,” Danny said, and calmly rounded the perimeter of the helipad to go retrieve his energy rifle.
 </p>
 <p>
-“The place is swarming with cops!” Mike alerted. “They’re all over the building!”
+“The place is swarming with cops!”
 </p>
 <p>
-“Yeah, I know,” said Danny with a detached air. “Don’t worry, Mike. I’ll be fine. They’re all talking on radios.” He checked the lights on the HERF gun. It had enough charge left for a dozen more shots.
+“Yeah, I see that. Don’t worry, Mike. I’ll be fine. They’re all talking on radios.” He checked the lights on the HERF gun. It had enough charge left for a dozen more shots.
 </p>
 </div>

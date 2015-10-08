@@ -2,10 +2,10 @@
 <p>
 <span class="caplead">
 Hernando Mejía wasn’t legally allowed</span>
- to be here. He spoke no English, and he had no papers. He wasn’t stupid; he knew to keep his head down and his mouth shut. Stoically, he rubbed a Windex-coated cloth against the interior of the windows of the lower west wing of the Medina Gallante.
+ to be here. He spoke no English, and had no papers. He wasn’t stupid; he knew to keep his head down and his mouth shut. Stoically, he rubbed a Windex-coated cloth against the interior of the windows of the lower west wing of the Medina Gallante.
 </p>
 <p>
-He saw motion outside. From the wide stone steps leading down to the wharf, a man’s head ascended into the light. A small Bluetooth device sat nestled in his ear, beneath a yellow safety helmet. He wore coveralls and a toolbelt, and carried a toolbox and a large long complex-looking device. He could’ve been a plumber or an electrician.
+He saw motion outside. From the stone steps leading down to the wharf, a man’s head ascended into the light. A small Bluetooth device sat nestled in his ear, beneath a yellow safety helmet. He wore brown coveralls and a toolbelt, and carried a toolbox and a complex-looking device. He could’ve been a plumber or an electrician.
 </p>
 <p>
 The man proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. After 9:00 P.M., they needed a key to open from the outside. The man knocked on the glass, waved to Mejía, and said something in English. Mejía replied in Spanish, but the man simply shrugged.
@@ -20,7 +20,7 @@ Paranoia, however, also told Mejía that, if this man was indeed simply a mainte
 Mejía opened the door.
 </p>
 <p>
-The man glided through the door and babbled something in English. Mejía simply gave him a thumbs-up. As the man walked off into the wide wood and marble halls of the hotel, Mejía returned to work.
+The man glided in and babbled something in English. Mejía simply gave him a thumbs-up. As the man walked off into the wide wood and marble halls of the hotel, Mejía returned to work.
 </p>
 </div>
 

@@ -135,22 +135,16 @@ He looked away meekly. “I know…”
 The rumble of the yacht’s engines cut out. On the deck above, Jason slung ropes to moor the yacht.
 </p>
 <p>
-“It’s go-time,” Danny told his teammates.
+“It’s go-time, guys,” said Danny.
 </p>
 <p>
 Mike said, “Be careful, Danny. Stay out of sight.”
 </p>
 <p>
-“Don’t worry,” Danny replied. “I’ve got that covered. Watch this. Now you see me…”
+“Don’t worry. I’ve got that covered. I went and got myself…” He held up a laundry bag. From its open top hung a brown shirtsleeve. “…an invisibility suit.”
 </p>
 <p>
-He stepped away from the webcam and rummaged through supplies. When he returned, he had changed clothes. He wore blue coveralls, a toolbelt, and a plastic ID holder with a plain white card. One gray-gloved hand held his HERF gun, while the other carried a large red toolbox.
-</p>
-<p>
-“…Now you don’t!”
-</p>
-<p>
-Behind him, Jason descended into the cabin. “The ship’s secure,” he said. “Danny, try not get killed. Come back here when you’re ready for extraction. I’ll be waiting.”
+Behind him, Jason descended into the cabin. “The ship’s secure. Danny, try not get killed. Come back here when you’re ready for extraction. I’ll be waiting.”
 </p>
 <p>
 “Actually, Jason,” Danny said, “there’s a very important task that I need you to handle.”

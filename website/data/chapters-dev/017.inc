@@ -144,7 +144,7 @@ Julie rolled her eyes. “There is no ‘gene for cocaine’. Cocaine isn’t a 
 “Umm… no?” Danny replied.
 </p>
 <p>
-“Look, cellular machinery can’t create cocaine through normal gene expression,” said Julie. “But cellular machinery <em>can</em> create enzymes to catalyze the conversion of precursors. That’s what happens in <em>Erythroxylon coca</em> &mdash; the coca plant. There’s about sixteen steps in the natural biosynthesis of benzoylmethylecgonine. Those steps are catalyzed by about two dozen enzymes, six of which consist of multiple peptide chains and two of which are themselves synthesized by other enzymes… The point is, unlike cocaine, enzymes <em>are</em> proteins. Enzymes <em>do</em> have genetic encodings. Which meeeeeans…” She paused, hoping that the implication would be obvious. The two men stared at her blankly. “…Which <em>means</em> that we can sequence those genes in the coca plant, and then splice them into <em>E. coli</em>. So the <em>E. coli</em> thinks they’re part of its own genome, and translates them into proteins. Got it?”
+“Look, cellular machinery can’t create cocaine directly through gene expression,” said Julie. “But it <em>can</em> create enzymes to catalyze precursors. That’s what happens in <em>Erythroxylon coca</em> &mdash; the coca plant. There’s about sixteen steps in the natural biosynthesis of benzoylmethylecgonine. Those steps are mediated by about two dozen enzymes &mdash; and unlike cocaine, enzymes <em>are</em> proteins. Enzymes <em>do</em> have genetic encodings. Which meeeeeans…” She paused, hoping that the implication would be obvious. The two men stared at her blankly. “…Which <em>means</em> that we can sequence those genes in the coca plant, and then splice them into <em>E. coli</em>. So the <em>E. coli</em> thinks they’re part of its own genome, and translates them into proteins. Got it?”
 </p>
 <p>
 Danny nodded brightly. “Yeah!”
@@ -153,7 +153,7 @@ Danny nodded brightly. “Yeah!”
 Julie cocked an eyebrow. “Really?”
 </p>
 <p>
-“Yes!” Danny declared. “It’s just like a DLL hijacking attack! Like a computer virus.”
+“Yes!” Danny declared. “It’s just like a DLL hijacking attack! How a lot of computer viruses work!”
 </p>
 <p>
 Jason stared at her quizzically. “You gene-spliced a coca plant into a laboratory germ to create a cocaine-producing bio-machine? That sounds like one hell of an engineering accomplishment.”
@@ -201,31 +201,25 @@ She picked idly at a loose thread. “Creating cocaine-producing <em>E. coli</em
 “And they entrusted it to their intern?”
 </p>
 <p>
-“Genetic engineering isn’t an exact science. It’s not like we can reach inside a cell’s nucleus with little tweezers, you know? Getting a gene from one organism into another is a messy process. We use special chemicals called restriction enzymes to chop out the genes we want from the source organism. Each different restriction enzyme binds to one specific nucleotide sequence and cuts the DNA strand there. So, if we’ve sequenced a gene, then we can pour in a restriction enzyme that binds to the beginning of the gene and another that binds to the end, and the gene floats out into the solution. But a lot of other unwanted chunks of DNA also float out along with it. You then have to fool an <em>E. coli</em> bacterium into absorbing these chunks into its own genome. It’s tricky because bacteria have evolved restriction modification systems to protect themselves from foreign DNA…”
+“Well… Genetic engineering isn’t an exact science. It’s not like we can reach inside a cell’s nucleus with little tweezers, you know? We use special chemicals called restriction enzymes to chop out the genes we want from the source organism. Each different restriction enzyme binds to one specific nucleotide sequence and cuts the DNA strand there. So, if we’ve sequenced a gene, then we can pour in a restriction enzyme that binds to the beginning of the gene and another that binds to the end, and the gene floats out into the solution. But a lot of other unwanted chunks of DNA also float out along with it. You then have to fool a bacterium into absorbing these chunks into its own genome. It’s tricky because bacteria have evolved restriction modification systems to protect themselves from foreign DNA…”
 </p>
 <p>
-“Ooh!” Danny interrupted. “Just like Intrusion Prevention Systems on computer networks! I just learned about those today.”
+“Ooh!” Danny interrupted. “Like Intrusion Prevention Systems on computer networks! I just learned about those today.”
 </p>
 <p>
-Julie blinked at him and shrugged. “Anyway. To fool a bacterium into adopting foreign DNA, you have to wrap the new gene into a plasmid, or load it into a bacteriophage virus, and so on. Oh, <em>and</em> you have to create some way to separate the <em>E. coli</em> that <em>do</em> absorb your new gene from the ones that don’t. Like with something called a ‘screenable marker’ which is where we add a gene for bioluminescence to make the desired bacteria glow in the dark. Because, don’t forget, we don’t actually <em>see</em> what we’re working with &mdash; all we’re doing is mixing liquids and keeping our fingers crossed.”
+Julie blinked at him and shrugged. “Anyway. To fool a bacterium into adopting foreign DNA, you have to wrap the new gene into a plasmid, or load it into a bacteriophage virus, and so on. Oh, <em>and</em> you have to create some way to separate the <em>E. coli</em> that <em>do</em> absorb your new gene from the ones that don’t. Like with something called a ‘screenable marker’, which is where we add a gene for bioluminescence to make organisms glow in the dark. Because, don’t forget, we don’t actually <em>see</em> what we’re working with &mdash; all we’re doing is mixing liquids and keeping our fingers crossed.”
 </p>
 <p>
-“So, what you’re saying,” said Jason, “is that you can do everything right, and in the end your germs don’t absorb any new DNA. Or they do, but it wasn’t the specific gene you were hoping for.”
-</p>
-<p>
-“Right,” said Julie. “Or they got the right DNA, but put it somewhere in the genome where it can’t be expressed.”
-</p>
-<p>
-“Which means you have to mix up another batch and try again?”
+“So, what you’re saying,” said Jason, “is that you can do everything right, and in the end your germs don’t absorb any new DNA. Or they do, but it wasn’t the specific gene you were hoping for. Which means you have to mix up another batch and try again?”
 </p>
 <p>
 “Over and over,” said Julie. “And that’s just for <em>one</em> gene. The metabolic pathway for cocaine synthesis has about forty. It’s mostly done by robots. But you have to do follow-up tests by hand.”
 </p>
 <p>
-Jason smiled. “That’s exactly the kind of task that they’d give an intern. So the scientists ran hundreds of thousands of these batches, and you were the first one to spot a success.”
+Jason smiled. “Which is exactly the kind of task that they’d give an intern.”
 </p>
 <p>
-Julie nodded. “It was my job to check on them. So when one of the batches finally produced an <em>E. coli</em> strain that was expressing <em>all</em> the cocaine biosynthesis genes, I was the first to see it.”
+Julie nodded. “Exactly. It was my job to check on the batches. So when one of them finally produced an <em>E. coli</em> strain that was expressing <em>all</em> the cocaine biosynthesis genes, I was the first to see it.”
 </p>
 <p>
 “And you were supposed to call in the senior researchers. But…”

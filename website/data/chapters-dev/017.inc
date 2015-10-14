@@ -210,25 +210,25 @@ She picked idly at a loose thread. “Creating cocaine-producing <em>E. coli</em
 Julie blinked at him and shrugged. “Anyway. To fool a bacterium into adopting foreign DNA, you have to wrap the new gene into a plasmid, or load it into a bacteriophage virus, and so on. Oh, <em>and</em> you have to create some way to separate the <em>E. coli</em> that <em>do</em> absorb your new gene from the ones that don’t. Like with something called a ‘screenable marker’ which is where we add a gene for bioluminescence to make the desired bacteria glow in the dark. Because, don’t forget, we don’t actually <em>see</em> what we’re working with &mdash; all we’re doing is mixing liquids and keeping our fingers crossed.”
 </p>
 <p>
-“So, what you’re saying,” said Jason, “is that it’s very hit-or-miss work. You can do everything right, and in the end your germs don’t absorb any new DNA. Or they do, but it wasn’t what you were hoping for &mdash; it was some junk DNA instead.”
+“So, what you’re saying,” said Jason, “is that you can do everything right, and in the end your germs don’t absorb any new DNA. Or they do, but it wasn’t the specific gene you were hoping for.”
 </p>
 <p>
 “Right,” said Julie. “Or they got the right DNA, but put it somewhere in the genome where it can’t be expressed.”
 </p>
 <p>
-“Which means you have to mix up another batch and try again, right?” said Jason.
+“Which means you have to mix up another batch and try again?”
 </p>
 <p>
 “Over and over,” said Julie. “And that’s just for <em>one</em> gene. The metabolic pathway for cocaine synthesis has about forty. It’s mostly done by robots. But you have to do follow-up tests by hand.”
 </p>
 <p>
-Jason smiled. “Yes. I get it now. That’s exactly the kind of task… that they’d give an intern. So the scientists ran hundreds of thousands of these batches… and you were the first one to spot a success.”
+Jason smiled. “That’s exactly the kind of task that they’d give an intern. So the scientists ran hundreds of thousands of these batches, and you were the first one to spot a success.”
 </p>
 <p>
-Julie nodded. “It was my job to check on them. The other scientists couldn’t be bothered with something so mundane. So, yeah, when one of the batches finally produced an <em>E. coli</em> strain that was expressing <em>all</em> the cocaine biosynthesis genes, I was the first to see it.”
+Julie nodded. “It was my job to check on them. So when one of the batches finally produced an <em>E. coli</em> strain that was expressing <em>all</em> the cocaine biosynthesis genes, I was the first to see it.”
 </p>
 <p>
-“And you were supposed to call in the senior researchers,” Jason surmised. “But instead, you…”
+“And you were supposed to call in the senior researchers. But…”
 </p>
 <p>
 “Yeah. I just… you know…”
@@ -237,31 +237,22 @@ Julie nodded. “It was my job to check on them. The other scientists couldn’t
 “Took it.”
 </p>
 <p>
-Julie nodded. “They started to realize that something was up. Damned if I know how. Sensor data from the robots, maybe? They were just starting to suspect me after a couple weeks. But by then I’d already started making my own batches and dealing… And the rest of the story is…”
+Julie nodded. “They started to realize that something was up. Damned if I know how. Sensor data from the robots, maybe? They were starting to suspect me after a couple weeks. But by then I’d already started making my own batches and dealing… And…” She curled up on her side in a fetal position, the Eppendorf tube between her palms.
 </p>
 <p>
-Jason looked around the room, at the naked mattress and the unwashed, pajama-clad girl. “Yeah.”
+“Are you okay?” Jason asked.
 </p>
 <p>
-Julie rolled backward and curled up on her side in a fetal position, the Eppendorf tube held between her palms.
+“No, I’m not fucking okay!” she sobbed. “God, I don’t understand why everything has to be so fucking hard! Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘How could you miss those three percent?’ I work so fucking hard… All I want is to know that I did <em>something</em> right. <em>Anything</em>. I just wanted one big score, just to be able to say to the world, ‘Look at me, fuckers! I win! I don’t care what you say! I <em>am</em> good enough!’… Can… Can you… Please get me some coke now?”
 </p>
 <p>
-Jason watched her in silence. Danny wandered toward the vat in the middle of the room. 
-</p>
-<p>
-Quietly, Jason asked her, “Are you okay?”
-</p>
-<p>
-“No!” she answered. “No, I’m not fucking okay! God, I don’t understand why everything has to be so fucking hard! Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘How could you miss those three percent?’ I work so fucking hard, just to feel the slightest shred of pride and accomplishment… All I want is to be able to enjoy the feeling of knowing that I did <em>something</em> right. <em>Anything</em>. I just wanted one big score, just prove to the world, ‘Look at me, fuckers! I win! I don’t care what you say! I <em>am</em> good enough!’… Can… Can you… Please get me some coke now?”
-</p>
-<p>
-Jason paused, and said, “Okay, Julie. I’ll see what I can do. But first… I want you to explain one more thing to me.”
+“Okay, Julie. I’ll see what I can do. But first… I want you to explain one more thing to me.”
 </p>
 <p>
 She bolted back up furiously. “Oh fuck, come on!”
 </p>
 <p>
-“You’ve told me the <em>how</em>, but not the <em>why</em>. Tungsten was working full-time to develop this transgenic cocaine dispenser. But from a business perspective, that doesn’t make any sense. The end product is illegal to sell. What was Tungsten’s market strategy?”
+“You’ve told me the <em>how</em>, but not the <em>why</em>. Tungsten was working full-time to develop this living cocaine dispenser. But from a business perspective, that doesn’t make any sense. The end product is illegal to sell. What was Tungsten’s market strategy?”
 </p>
 <p>
 “You mean like how to make money off of it?” asked Julie. “Fuck if I know. I was just on the science end of things. All I know are rumors. If I tell, will you get me some coke already?”
@@ -276,37 +267,37 @@ She bolted back up furiously. “Oh fuck, come on!”
 “Pinky-swear.”
 </p>
 <p>
-“Fine,” she grumbled. “Doctor P. never talked about it, but the other scientists had some ideas. They believe the future of psychopharmacology is dopamine.”
+“Fine,” she grumbled. “They believe the future of psychopharmacology is dopamine.”
 </p>
 <p>
-“Dopamine?” asked Jason.
+“Dopamine?”
 </p>
 <p>
-“It’s a neurotransmitter &mdash; a chemical in your brain,” said Julie. “It’s the main hormone found in a part of the brain called the nucleus accumbens, the ‘pleasure center’ or ‘reward center’. Dopamine also runs a shitload of other stuff in your brain, but we figure the reward pathway is sort of the key to it all.”
+“It’s a neurotransmitter,” said Julie. “It’s the main hormone found in a part of the brain called the nucleus accumbens, the ‘pleasure center’ or ‘reward center’. Dopamine also runs a shitload of other stuff in your brain, but the reward pathway is sort of the key to it all.”
 </p>
 <p>
 “How’s it connected to cocaine?” asked Jason.
 </p>
 <p>
-“Cocaine is a dopamine reuptake inhibitor,” she said. “You’ve heard of SSRIs, right? Selective <em>serotonin</em> reuptake inhibitors? Like Lexapro, Zoloft, Paxil, that kind of thing?”
+“Cocaine is a dopamine reuptake inhibitor. You’ve heard of SSRIs, right? Selective <em>serotonin</em> reuptake inhibitors? Like Lexapro, Zoloft, Paxil, that kind of thing?”
 </p>
 <p>
 “I’ve heard the term,” said Jason. “Antidepressants?”
 </p>
 <p>
-“Right,” said Julie. “See, the pharmaceutical industry’s gotten pretty good at managing this one brain hormone called serotonin. Basically, increasing serotonin levels in certain parts of the brain makes people feel calmer and more mellow. In the 1950s, research chemists at a French company called Rhône-Poulenc were working on antihistamines, and they accidentally stumbled onto a class of drugs called tricyclics. Turned out that tricyclics jam up the brain’s serotonin-draining machinery. Brain cells work by squirting neurotransmitters at each other across an intracellular gap called a synapse. After each neural impulse, the presynaptic neuron sucks back up all the hormone it just squirted &mdash; it cleans up after itself, basically. These tricyclic chemicals happen to be shaped, on a molecular level, just barely enough like serotonin to fit into the reuptake pump &mdash; but not enough to pass all the way through it. So the presynaptic neuron sucks up a tricyclic molecule thinking it’s serotonin, and the tricyclic gets stuck in the pump. So the presynaptic neuron can’t suck up any more serotonin because its pumps are jammed, and the serotonin ends up just sort of pooling in the synapse and triggering the postsynaptic neuron over and over. The end result is a major increase in serotonergic activity.”
+“Right,” said Julie. “See, the pharmaceutical industry’s gotten pretty good at managing this one brain hormone called serotonin. Basically, increasing serotonin levels makes people feel calmer and more mellow. In the 1950s, a French company called Rhône-Poulenc was working on antihistamines, and they accidentally stumbled onto a class of drugs called tricyclics. Turned out that tricyclics jam up the brain’s serotonin-draining machinery. Brain cells work by squirting neurotransmitters at each other across an intracellular gap called a synapse. After each neural impulse, the presynaptic neuron sucks back up all the hormone it just squirted out &mdash; basically cleaning up after itself. These tricyclic chemicals happen to be shaped, on a molecular level, just barely enough like serotonin to fit into the reuptake pump &mdash; but not enough to pass all the way through. So the presynaptic neuron sucks up a tricyclic molecule thinking it’s serotonin, and it gets stuck in the pump and jams it up. So the serotonin ends up pooling in the synapse. The end result is a major increase in serotonergic activity.”
 </p>
 <p>
-“Okay, but what does that have to do with cocaine?” said Jason. “Cocaine <em>isn’t</em> an SSRI, right? Cocaine works on…”
+“But, cocaine <em>isn’t</em> an SSRI, right?” asked Jason
 </p>
 <p>
-“Dopamine,” said Julie. “There’s a new class of drugs called <em>D</em>RIs &mdash; <em>dopamine</em> reuptake inhibitors. They were created by researchers who saw what tricyclics did with serotonin and were like, ‘Hey, let’s pull the same trick with dopamine!’ Dopamine is what the brain’s reward centers run on. So while modulating serotonin would simply make people feel calm, modulating <em>dopamine</em> could drastically change people’s behavioral motivators. That’s how you get things on the market now like Wellbutrin and Ritalin and Adderall.”
+“There’s a new class of drugs called <em>D</em>RIs &mdash; <em>dopamine</em> reuptake inhibitors. Researchers saw what tricyclics did with serotonin and were like, ‘Hey, let’s pull the same trick with dopamine!’ While modulating serotonin would simply make people feel calm, modulating <em>dopamine</em> could drastically change people’s behavioral motivators. That’s how you get things on the market now like Wellbutrin and Ritalin and Adderall.”
 </p>
 <p>
 “And cocaine?” Jason tried.
 </p>
 <p>
-“Cocaine is the <em>original</em> DRI,” said Julie. “What all these DRIs do artificially, the coca plant does through natural evolution. Cocaine screws directly with the reward pathway. Like, if you ace a test at school, the bolt of satisfaction when you see that A+ is the stimulation of the reward pathway. Or if you’re playing a sport and you score a point and you feel the thrill of victory. When the pathway activates, it sensitizes neural channels that correspond to whatever you’re doing at the time &mdash; it makes you more likely to make the decision to do it again. So the rush you feel when you ace a test makes you more likely to choose to study in the future; when you score a goal, it makes you willing to practice more. Dopamine drives the positive feedback system that makes the cognitive machinery of the brain do more of what works and less of what doesn’t.”
+“Cocaine is the <em>original</em> DRI,” said Julie. “What all these DRIs do artificially, the coca plant does through natural evolution. Cocaine screws directly with the reward pathway. Like, if you ace a test at school, the bolt of satisfaction when you see that A+ is the stimulation of the reward pathway. Or if you’re playing a sport and you score a point and you feel the thrill of victory. When the pathway activates, it sensitizes neural channels that correspond to whatever you’re doing at the time. So the rush you feel when you ace a test makes you more likely to choose to study in the future; when you score a goal, it makes you willing to practice more. Dopamine drives the positive feedback system that makes the brain do more of what works and less of what doesn’t.”
 </p>
 <p>
 Jason nodded. “And cocaine throws this reward system into overdrive.”
@@ -321,37 +312,31 @@ Jason nodded. “And cocaine throws this reward system into overdrive.”
 “…Which happens to be snorting lines of coke,” concluded Julie.
 </p>
 <p>
-Jason nodded soberly. “Sounds like a vicious cycle.”
+“Sounds like a vicious cycle.”
 </p>
 <p>
 Julie looked up at him. She tried to smile, but the corners of her mouth twitched downward. “They do say the stuff’s addictive.”
 </p>
 <p>
-“So how do these new dopamine-based medicines <em>heal</em> rather than harm?” said Jason.
+“So what purpose would it serve in the pharmaceutical market?” Jason pressed.
 </p>
 <p>
-“There’s some emerging theories that tweaking the reward pathways can help treat a wide variety of cognitive and psychological problems,” said Julie. “Like, a lot of DRIs are used to manage Attention Deficit Hyperactivity Disorder. Nobody really knows why they work on ADHD, but one theory says that classroom hyperactivity is just the natural action of a child’s brain searching their environment for a ‘fix’. They’re also used for Social Anxiety Disorder, to help people who feel awkward or uncomfortable around other people &mdash; the idea there is that their reward pathway doesn’t get enough stimulation from personal interaction. And that’s just the tip of the iceberg.”
-</p>
-<p>
-“So what you’re saying is, there’s a lot of potential market applications for this new class of vaguely cocaine-like medicines, just waiting to be explored,” Jason said.
-</p>
-<p>
-“Yeah. There’s a lot of people that dopamine reuptake inhibitors can help,” said Julie.
+“There’s theories that tweaking the reward pathways can treat a bunch of cognitive and psychological problems,” said Julie. “Like, a lot of DRIs are used to manage Attention Deficit Hyperactivity Disorder. Nobody really knows why they work on ADHD, but one theory says that classroom hyperactivity is just the natural action of a child’s brain searching their environment for a ‘fix’. They’re also used for Social Anxiety Disorder, to help people who feel awkward or uncomfortable around other people &mdash; their reward pathway doesn’t get enough stimulation from personal interaction. And that’s just the tip of the iceberg. There’s a lot of people that dopamine reuptake inhibitors can help,” said Julie.
 </p>
 <p>
 “Like who?” Jason asked.
 </p>
 <p>
-“People who are a little bit ‘off’,” Julie answered. Anybody that’s obsessive, or neurotic, or socially awkward, or prone to drifting off into daydreams.”
+“People who are a little bit ‘off’. Anybody that’s obsessive, or neurotic, or socially awkward, or prone to drifting off into daydreams.”
 </p>
 <p>
-Jason smiled and said, “Oh, really…?” His head slowly swiveled to look at Danny.
+“Oh, really…?” Jason’s head slowly swiveled toward Danny.
 </p>
 <p>
-Danny was crouching next to the cylindrical vat, gazing at the cloudy water. “Periscope down, ensign!” he said. “Helmsman, begin descent!” He pushed down on a protrusion, announcing, “Aye aye, captain!” He reached an arm around to the other side, and made kicking motions with two fingers. “Dive team! Dive team, do you copy?” Placing his other hand partly over his mouth, he made heavy breathing noises. “Aye, captain! No sign of the treasure yet…!”
+Danny was crouching next to the vat, gazing at the cloudy water. “Periscope down, ensign!” he said. “Helmsman, begin descent!” He pushed down on a protrusion, announcing, “Aye aye, captain!” He reached an arm around to the other side, and made kicking motions with two fingers. “Dive team! Dive team, do you copy?” Placing his other hand partly over his mouth, he made heavy breathing noises. “Aye, captain! No sign of the treasure yet…!”
 </p>
 <p>
-Jason wordlessly brought his palm to his face and shook his head.
+Jason just shook his head.
 </p>
 <p>
 Julie batted at Jason’s shoulder. “So, we had a deal…”

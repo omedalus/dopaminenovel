@@ -1,24 +1,24 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The mercenaries stared at the screen</span>, murmuring in Russian. Ivan barked at them.
+<span class="caplead">The mercenaries stared at the screen</span>, murmuring. Ivan barked at them.
 </p>
 <p>
-Danny quickly interrupted. “Don’t bother listening to him!” he shouted confidently. “He’s finished. As of right now, he has no money and no power. He’s not your boss anymore. He’s nothing but a penniless old man.”
+Danny interrupted, “Don’t bother listening to him! He’s finished. As of right now, he has no money and no power. He’s not your boss anymore. He’s nothing but a penniless old man.”
 </p>
 <p>
-Ivan stared at Danny through narrowed, wrinkly eyes. “You are such idiot. You think <em>that</em> is all my money?” He pointed at the bank balance on the screen. “That is <em>pocket change</em>! That is one weekend gambling in Monaco! I have given away as a gift more than that! You think you stealing this one account making me ‘penniless’?”
+Ivan stared at him through narrowed, wrinkly eyes. “You are such idiot. You think <em>that</em> is all my money?” He pointed at the bank balance on the screen. “That is <em>pocket change</em>! That is one weekend gambling in Monaco! You think you stealing this one account making me ‘penniless’?”
 </p>
 <p>
 “No,” Danny said slowly. “I’m not talking about the account. What I’m talking about, Ivan, is your business ventures.”
 </p>
 <p>
-The television flashed. The image cut to a pie chart superimposed on a density-colored map of Eastern Europe. One small pink wedge was marked with a pin-up silhouette, while a steel-gray section was adorned with a handgun. A brown slice bearing a picture of a hypodermic needle and a green slice bearing a hemp leaf added to the circle. But by far the largest wedge, taking up over half the pie, was colored white, and was annotated with a pile of powdered cocaine.
+The television flashed. The image cut to a pie chart superimposed on a density-colored map of Eastern Europe. One small pink wedge was marked with a pin-up silhouette; a steel-gray section showed a handgun; a brown slice bore a hypodermic needle. But by far the largest wedge, taking up over half the pie, was colored white, besided an image of a line of cocaine.
 </p>
 <p>
 Ivan sneered at the screen. “What in Devil is that?”
 </p>
 <p>
-“You know what this is, Ivan,” said Danny. “And so do your men. This is how much of your gross revenue comes from your various operations. Some prostitution. Some arms trading. But the majority of your total income comes, of course, from drugs &mdash; specifically, cocaine. In fact, cocaine is the only thing that keeps your aggregated portfolio cash-flow positive. And so it appears, Ivan, that you have made…” He paused. The screen cut to a photograph of the Tungsten Medical Technologies building. “…a very poor investment decision.”
+“You know what this is, Ivan,” said Danny. “And so do your men. This is how much of your gross revenue comes from your various operations. Some prostitution. Some arms trading. But the majority of your total income comes, of course, from drugs &mdash; specifically, cocaine. In fact, cocaine is the only thing that keeps your aggregated portfolio cash-flow positive. And so it appears, Ivan, that you have made…” The screen cut to a photograph of the Tungsten Medical Technologies building. “…a very poor investment decision.”
 </p>
 <p>
 Ivan laughed dryly. “You know so little!” He reached into his chest pocket and produced the small translucent smiley-faced Eppendorf vial. “Tungsten is best investment I ever make!”
@@ -27,7 +27,7 @@ Ivan laughed dryly. “You know so little!” He reached into his chest pocket a
 “There’s something I’d like to show you,” said Danny. “It’s inside my toolbox. May I open it?”
 </p>
 <p>
-Ivan spoke a few gruff words to a nearby bodyguard. The man marched up to Danny and yanked the metal box from his grasp. He set it down on the glass coffee table, keeping Danny close by. Ivan backed a good distance away. The man cautiously unbuckled the lid, and reached within.
+Ivan spoke a few gruff words to a nearby bodyguard. The man marched up to Danny and yanked the box from his grasp. He set it down on the coffee table, cautiously unbuckled the lid, and reached within.
 </p>
 <p>
 Slowly, the bodyguard drew from the box a small translucent Eppendorf vial filled with pale brown goo.
@@ -717,19 +717,16 @@ Danny hoisted his HERF gun over his shoulder, turned toward the doorway, and ans
 <span class="caplead">Danny burst through a heavy gray door</span>, and was greeted by wind blasting from the helicopter’s blades. His hair swept back away from his face; his clothes flapped in the gale. With his energy rifle in his hands, he paused in the doorway and surveyed the roof.
 </p>
 <p>
-The asphalt expanse was bedecked with HVAC equipment and water tanks. The helicopter landing platform &mdash; only two feet tall but as wide as a city street &mdash; dominated the rooftop.
+The asphalt expanse was bedecked with HVAC equipment and water tanks. The helipad, a wide smooth square painted with a circled letter “H”, dominated the rooftop.
 </p>
 <p>
-The small chopper hovered forty feet above the helipad, illuminated by bright white landing lights. It teetered in the air, struggling for stability.
+The chopper hovered forty feet above, illuminated by bright white landing lights. Inside the glass bubble of its cockpit, Ivan held his pistol trained on the terrified pilot.
 </p>
 <p>
-Sergey Mukhayev hung from one of its landing skids.
+Sergey Mukhayev hung from one of its landing skids. He swayed by one arm, swinging wildly as he twisted and kicked to hoist himself up, his muscles bulging and straining beneath his armor. 
 </p>
 <p>
-He swayed by one arm, swinging wildly as he twisted and kicked to hoist himself up, his muscles bulging and straining beneath his armor. The helicopter bucked against his efforts. His heavy body dragged down one side of the vehicle, disrupting its aerodynamics, forcing the pilot to fight to keep it righted.
-</p>
-<p>
-Danny studied the machine. On the back of the two-seat chopper, tucked beneath its tail, he could clearly see the distinctive piping of an exhaust manifold. Superheated air streamed from the pipe, creating transparent ripples of optical distortion. The helicopter was powered by a simple four-cylinder internal combustion engine. An electromagnetic pulse would do nothing to its pistons or drive belts. But maybe… just <em>maybe</em>… its electronically regulated fuel injection system and digitally-timed spark gaps wouldn’t be so lucky.
+Danny studied the machine. On the back of the two-seat chopper, tucked beneath its tail, he could clearly see an exhaust manifold. Superheated air streamed from the pipe, creating transparent ripples of optical distortion. The helicopter was powered by a simple four-cylinder internal combustion engine. An electromagnetic pulse would do nothing to its pistons or drive belts. But maybe… just <em>maybe</em>… its electronically regulated fuel injection system and digitally-timed spark gaps wouldn’t be so lucky.
 </p>
 <p>
 It was worth a shot.
@@ -750,22 +747,22 @@ Danny looked on, realizing something was horribly wrong. “Sergey…?”
 He dangled from the landing skid, unpowered and inanimate, like an armor-clad rag doll.
 </p>
 <p>
-And slowly, the thick fingers of his meaty hand slipped from the rail. His body fell away and plummeted through the air.
+And slowly, the fingers of his meaty hand slipped from the rail. His body plummeted through the air.
 </p>
 <p>
 “Sergey!”
 </p>
 <p>
-Above, the chopper sprang sideways the instant it was free of its imbalanced load. The machine veered violently away from the helipad. Inside the cockpit, the pilot fought furiously with the controls to execute an emergency landing.
+Above, the chopper sprang sideways the instant it was free of its imbalanced load. The pilot fought furiously with the controls to execute an emergency landing.
 </p>
 <p>
 Sergey hit the concrete with a dull thud.
 </p>
 <p>
-Danny sprinted across the helipad and knelt beside the fallen body. His hands waved frantically over the crumpled form, not knowing what he could to do help or even where it would be safe to touch. Bones had surely broken in the fall, but Danny could see no bullet wounds, no head trauma, nothing that would explain Sergey’s sudden collapse.
+Danny sprinted across the helipad and knelt beside the fallen body. His hands made frantic, confused motions over the crumpled form. Bones had surely broken in the fall, but Danny could see no bullet wounds, no head trauma, nothing that would explain Sergey’s sudden collapse.
 </p>
 <p>
-“Come on, man! Get up!” Danny pleaded. “What happened?”
+“Come on, man! Get up! What happened?”
 </p>
 <p>
 Danny grabbed his face in both hands, feeling the bristly skin of his cheeks, and rotated his head to face him. Sergey’s jaw was slack. Behind drooping lids, his eyes were misaligned and unfocused.
@@ -774,7 +771,7 @@ Danny grabbed his face in both hands, feeling the bristly skin of his cheeks, an
 Across the helipad, the pilot managed to safely ground his crippled vehicle. Even as the chopper was still settling, the passenger door opened. Fine black shoes stepped out onto the concrete, matching the crisply-pressed pants of a three-piece suit.
 </p>
 <p>
-As Danny drew his hands away from Sergey’s face, the white outlines of his fingers lingered on the Russian’s skin, like handprints in cement. Living flesh, with flowing blood and full capillaries, would’ve quickly returned to skin tone. Sergey’s didn’t.
+As Danny drew his hands away from Sergey’s face, the white outlines of his fingers lingered on the Russian’s skin, like handprints in cement. Living flesh, with flowing blood and full capillaries, would’ve quickly regained color. Sergey’s didn’t.
 </p>
 <p>
 Danny grabbed a wrist and felt for a pulse. There was none. He tried to locate it on his neck, but to no avail. Sergey’s heart wasn’t beating.
@@ -783,16 +780,16 @@ Danny grabbed a wrist and felt for a pulse. There was none. He tried to locate i
 “God, why!?” Danny shrieked. “For fuck’s sake, why!?”
 </p>
 <p>
-He pushed Sergey flat onto his back. With trembling hands he hurriedly undid the clasps and zippers of Sergey’s armor. Danny didn’t know CPR. What he did know, however, is that the heart is just an electromechanical hydraulic pump. A machine. Surely it could just be rebooted…
+He pushed Sergey flat onto his back. With trembling hands he hurriedly undid the clasps and zippers of Sergey’s armor. Danny didn’t know CPR. What he did know, however, is that the heart is just an electromechanical hydraulic pump. A machine. Surely it could be rebooted…
 </p>
 <p>
-He pulled the armor away from Sergey’s torso, leaving him in a sweat-drenched button-down shirt. Danny curled his hand into a fist and raised it high above his head, preparing to give a sharp blow to the sternum.
+He pulled the armor away from Sergey’s torso, leaving him in a sweat-drenched button-down shirt. Danny curled his hand into a fist and raised it above his head, preparing to give a sharp blow to the sternum.
 </p>
 <p>
 It was then that he saw Sergey’s wounds.
 </p>
 <p>
-The top few buttons of the Russian’s shirt hung open, exposing his muscular chest. Beneath a dense mat of hair, the skin bore long, pale scars, running along the left pectoral. They were thick and raised and slightly striated, resembling earthworms. Thin white branches extended from each fleshy line, indicating stitching. The scars were clearly surgical.
+Beneath a dense mat of chest hair, the skin bore long, pale scars, running along the left pectoral. They were thick and raised and slightly striated, resembling earthworms. Thin white branches extended from each line, indicating stitching. The scars were clearly surgical.
 </p>
 <p>
 And on the left side of his chest, below the shoulder, the flesh was raised in the outline of a smooth round disc, about two inches across, implanted beneath the skin.
@@ -816,19 +813,19 @@ From somewhere nearby, Danny heard laughter. It was dry and dark. It was laughte
 Kneeling over Sergey’s body, Danny looked up with red, moist eyes.
 </p>
 <p>
-Before him stood Ivan Zheleznov. His mouth was spread wide in a horrid grin. In his hand, a small gun glinted in the helipad landing lights.
+Before him stood Ivan Zheleznov. His mouth was spread wide in a horrid grin. In his hand, his gun glinted in the helipad landing lights.
 </p>
 <p>
 Danny, on his knees, watched the laughing Russian kingpin raise the firearm and point it at him. Unblinking, he saw the barrel aim between his eyes.
 </p>
 <p>
-There was a deafening bang. It resounded across the rooftop.
+A deafening bang resounded across the rooftop.
 </p>
 <p>
 Ivan fell sideways.
 </p>
 <p>
-As he dropped out of the way, the first thing Danny saw behind him, several yards away, was a small silver revolver with a short, squat barrel with an enormous opening.
+As he dropped away, the first thing Danny saw, several yards behind him, was a small silver revolver with a short, squat barrel with an enormous opening.
 </p>
 <p>
 It was held by Eugene Mukhayev.
@@ -837,7 +834,7 @@ It was held by Eugene Mukhayev.
 The athletic man stood uneasily, halfway doubled over. His body quivered, his face was pale, his eyes darted uncontrollably. The revolver shook in his hand.
 </p>
 <p>
-Ivan lay on the smooth concrete, bleeding from the leg. He turned to face Eugene, and fired off a handful of shots.
+Ivan lay on the smooth concrete, bleeding from the leg. He turned to face Eugene, and fired off a few shots.
 </p>
 <p>
 Eugene grunted as the bullets hit his armored body, but remained standing. He took aim.
@@ -849,13 +846,10 @@ Ivan tried to scramble to his feet, but succeeded only in a rapid half-crawl.
 Eugene’s revolver let out another boom, then another. Fire spat forth from the large black opening. But his hand was shaking too violently to aim at a moving target. The shots chipped away concrete near Ivan, but none managed to hit him. Out of bullets, Eugene charged forward.
 </p>
 <p>
-Ivan limped in panic, trying to flee. His bleeding leg left a crimson trail across the helipad’s surface.
+Ivan limped away, trying to flee. His bleeding leg left a crimson trail across the helipad’s surface.
 </p>
 <p>
-He made it to the corner of the helipad before Eugene slammed into him. Running at full sprint, the athletic man checked his shoulder into the small of the limping kingpin’s back. With his momentum, he knocked him over the edge of the squat landing platform.
-</p>
-<p>
-Together, they both tumbled to the asphalt surface of the roof. They landed next to the stone balustrade that ringed the top of the building.
+Eugene slammed into him at full sprint, checking his shoulder into the small of the limping kingpin’s back. He knocked him forward past the edge of the helipad, toward the stone balustrade that ringed the top of the building.
 </p>
 <p>
 As Ivan continued trying to crawl away, Eugene grabbed him by his three-piece suit and threw him against the concrete rail.

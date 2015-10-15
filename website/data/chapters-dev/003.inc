@@ -1,66 +1,60 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Mercury was adorned with grinning gargoyles</span> and occult symbols. Twisted mannequins stood in corners, as though the Medusa sculpture by the door had turned mutant patrons to plastic. Young men and women with assorted bits of metal in their skin sipped colorful drinks to the buzzing, beeping background music.
+<span class="caplead">Mercury was adorned with grinning gargoyles</span> and occult symbols. Mannequins stood in corners, as though the Medusa sculpture by the door had turned patrons to plastic. Young people with bits of metal in their skin sipped colorful drinks to the buzzing, beeping background music.
 </p>
 <p>
 Danny walked in carrying a Claymore tote bag full of electronic junk. Wires and tubes poked out from the top. He spotted Jason Tuttle alone at a table.
 </p>
 <p>
-“I take it you haven’t been home?” Jason teased, eyeing the suit Danny was still wearing from the afternoon’s presentation.
+“I take it you haven’t been home?” Jason said, eyeing the suit Danny was still wearing from the afternoon’s presentation.
 </p>
 <p>
 “I hung out in the office after our chat,” Danny said as he sat down to join him. “Figured I’d soak in the vibe one last time. Play with the Foosball table. Kick the vending machine.”
 </p>
 <p>
-“But I see you didn’t walk away empty-handed,” said Jason, eyeing Danny’s bag.
+“But you didn’t walk away empty-handed,” said Jason, eyeing Danny’s bag.
 </p>
 <p>
-“This? Just a souvenir,” Danny said. “Nothing that anyone but me would miss.”
+“This? Just a souvenir. Something I made during the Naval Base Kitsap contract. Nothing that anyone but me would miss.”
 </p>
 <p>
-“Is it Claymore property?” asked Jason.
+“Is it Claymore property?”
 </p>
 <p>
-“Does it seriously matter anymore?” Danny replied morosely.
+“Does it seriously matter anymore?” Danny asked.
 </p>
 <p>
-“Yes, actually, it does,” Jason said. “Remember, we’re auctioning off Claymore’s assets. Everything’s up for appraisal. The software, the hardware, the furniture, the company van. Everything. If whatever’s in that bag has monetary value, then you’re committing theft against the investors. That includes me.”
+“Yes, actually. We’re auctioning off Claymore’s assets. Everything’s up for appraisal. The software, the hardware, the furniture, the company van. It’s all for sale. Including whatever <em>that</em> is.”
 </p>
 <p>
-Danny gazed into the bag’s metal-strewn depths. “Monetary value?”
+Danny gazed into the bag’s metal-strewn depths. “For <em>sale</em>? You… No. It’s not <em>yours</em>. <em>I</em> designed and built it…”
 </p>
 <p>
-Jason shrugged. “Everything has <em>some</em> monetary value, Danny.”
+“<em>For</em> Claymore,” Jason insisted.
 </p>
 <p>
-Danny reached inside and fished out a foot-long, six-inch-wide flared metal tube. Attached to the tube was a rubber-coated handle with a plastic trigger near the top. Metal blocks protruded from its back, connected to cables that dangled down into the recesses of the bag. Danny held the assembly delicately by the pistol grip, his finger near the trigger. His eyes traced the device’s joints and contours like fingertips across a lover’s body.
+Danny reached inside and fished out a foot-long, six-inch-wide flared metal tube. Attached was a rubber-coated handle with a plastic trigger near the top. Metal blocks protruded from its back, connected to cables that dangled down into the bag. Danny held the assembly delicately by the pistol grip. His eyes traced the device’s contours like fingertips across a lover’s body.
 </p>
 <p>
 “What is it?” asked Jason.
 </p>
 <p>
-“Something I designed and built during Claymore’s contract at Naval Base Kitsap.,” Danny said, still looking at the machine. His voice was quiet, almost tender. 
-</p>
-<p>
-“It looks like some kind of homemade megaphone on steroids…”
-</p>
-<p>
-Danny replied, “It’s a 3-megawatt S-band magnetron fitted to a 24 dB gain extended horn antenna, driven by an LC oscillator that delivers 50-nanosecond pulses at a 5% duty cycle. Its power train is a high-voltage ultracapacitor bank fed by a parallel-wired lithium ion battery pile, with a built-in wall-power converter &mdash; which makes the whole machine self-contained, man-portable, and field-rechargeable.”
+“A 3-megawatt S-band magnetron fitted to a 24 dB gain extended horn antenna, driven by an LC oscillator that delivers 50-nanosecond pulses at a 5% duty cycle. Its power train is a high-voltage ultracapacitor bank fed by a parallel-wired lithium ion battery pile, with a built-in wall-power converter &mdash; which makes the whole machine self-contained, man-portable, and field-rechargeable.”
 </p>
 <p>
 Jason shook his head. “None of that means anything to me.”
 </p>
 <p>
-Danny broke his eyes away from the contraption to look at Jason. His gaze was cold. “Exactly,” he said.
+Danny broke his eyes away from the contraption to shoot Jason a cold glare. “Exactly.”
 </p>
 <p>
 Jason’s face crinkled into a smile. “I see you take pride in your work.”
 </p>
 <p>
-Danny looked down and shrugged. He murmured quietly, “It keeps me going.”
+Danny looked down and shrugged. “It keeps me going.”
 </p>
 <p>
-“Tell you what,” said Jason. “Hear me out on this little project. If you decide to accept it, consider your gizmo there as a starting bonus. Sound good?”
+“Tell you what. Hear me out on this little project. If you decide to accept it, consider your gizmo there as a starting bonus. Sound good?”
 </p>
 <p>
 Danny put the device back in the bag and gave Jason his attention.
@@ -69,28 +63,28 @@ Danny put the device back in the bag and gave Jason his attention.
 “Tell me, Danny. How much do you know about me?”
 </p>
 <p>
-“Nothing,” Danny answered. “I didn’t know your name until this afternoon. I tried to Google you after our chat. Got a bunch of hits on some company called Tungsten Medical Technologies. Some kind of medical supply retailer?”
+“Nothing. I didn’t know your name until this afternoon. I Googled you, of course. Got a bunch of hits on a company called Tungsten Medical Technologies. Some kind of medical supply retailer?”
 </p>
 <p>
 Jason nodded. “Yes, Tungsten. That’s what I was hoping to talk about.”
 </p>
 <p>
-“You were their head accountant or something, right?” Danny asked.
+“You were their head accountant or something, right?”
 </p>
 <p>
-“I was their COO. Chief Operations Officer,” Jason clarified. “I was with Tungsten for a long, long time &mdash; almost since they started, back in the seventies. We sold high-end surgical equipment and medical tools. We supplied a lot of research labs. It was a good company to work for. Privately owned, friendly, very customer-focused. Good times.”
+“I was their COO. Chief Operations Officer. I was with Tungsten for a long, long time &mdash; almost since they started, back in the seventies. We sold high-end surgical equipment and medical tools. We supplied a lot of research labs. It was a good company to work for. Privately owned, friendly, very customer-focused. Good times.”
 </p>
 <p>
 “I’ve never heard of it before. Is it big?” Danny asked.
 </p>
 <p>
-“At its height it was maybe three hundred people,” Jason explained. “Mostly sales teams. We had guys who bought equipment from manufacturers, and other guys who’d turn around and sell it to schools and hospitals.”
+“At its height it was maybe three hundred people. Mostly sales teams. We had guys who bought equipment from manufacturers, and other guys who’d turn around and sell it to schools and hospitals.”
 </p>
 <p>
 “So this Tungsten company doesn’t actually make anything, then?”
 </p>
 <p>
-“Back then, no. We were just re-sellers.”
+Jason shook his head. “Back then, no. We were just re-sellers.”
 </p>
 <p>
 “Sounds simple, but I feel like I’m missing something,” said Danny. “Why would a customer bother going through a middleman? I mean, if I’m a surgeon looking for a shiny new scalpel or something, I’d just go to the manufacturer’s website.”
@@ -108,7 +102,7 @@ Danny laughed at himself. It was easy for him to forget just how recent the dot-
 “But it managed to survive?” asked Danny.
 </p>
 <p>
-“Yes, but… it’s changed,” said Jason. “Two years ago, some nameless overseas consortium swooped in and bought the company. These guys &mdash; Russian, Estonian, something like that &mdash; they were able to get it for a steal. They installed this old scientist to run the whole shop. Dr. Pyotr Passinsky’s his name. The investment consortium wires him money, and he pays the bills and keeps the staff in line.”
+“Yes, but… it’s changed. Two years ago, some nameless overseas consortium swooped in and bought the company. These guys &mdash; Russian, Estonian, something like that &mdash; they were able to get it for a steal. They installed this old scientist to run the whole shop. Dr. Pyotr Passinsky. The investment consortium wires him money, and he pays the bills and keeps the staff in line.”
 </p>
 <p>
 “So there’s still a staff around.”

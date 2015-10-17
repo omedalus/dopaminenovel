@@ -312,7 +312,7 @@ The buzzing chatter in his ear had never abated. But after a few seconds in the 
 “I’m here,” he replied. He had to take several seconds just to clear his throat.
 </p>
 <p>
-“Are you alright?” Tina asked urgently.
+“Are you alright?” Tina asked.
 </p>
 <p>
 Yellow spots still danced before his eyes. His ears still overlaid the world with a high-pitched whine. “I’m honestly not sure.”
@@ -321,10 +321,7 @@ Yellow spots still danced before his eyes. His ears still overlaid the world wit
 Jason spoke on the channel. “Danny, for God’s sake, get your ass out of there. It’s up to Sergey and his guys now. Our part is over.”
 </p>
 <p>
-He took a moment to shake the tension out of his muscles, to clear himself of the fear and bravado. A wave of contentment washed over him from the mere knowledge that he had survived. He closed his eyes and watched the blobs of color slowly fade from his sight. “I’m on my way, Jason. I’ll swing down to the security office to grab my HERF gun, then come meet you aboard your yacht. Be there in a few minutes.”
-</p>
-<p>
-As warfare raged on the other side of the thick metal fire door, Danny headed toward the descending stairs. He proceeded down one step, then another, then another, peacefully walking away, leaving the bloodshed and brutality behind him.
+He took a moment to shake the tension out of his muscles, to clear himself of the fear and bravado. He closed his eyes and watched the blobs of color slowly fade from his sight, and took a few wobbly steps down the stairs. “I’m on my way, Jason. I’ll swing down to the security office to grab my HERF gun, then come meet you aboard your yacht. Be there in a few minutes.”
 </p>
 <p>
 He was barely one flight down when he heard the door crash open above him.
@@ -333,22 +330,13 @@ He was barely one flight down when he heard the door crash open above him.
 The stairwell suddenly filled with the <em>rat-tat-tat!</em> of automatic rifle blasts and the dings of casings on concrete. The smooth, unadorned walls conducted the sound down the full height of the building.
 </p>
 <p>
-Danny screamed and ducked.
+Footsteps rushed toward him. Combat boots descended the steps, leaving bloody prints. The helmeted head of Leo the gunman peered down. “What in the hell are you still doing here?” he said. He limped as he walked.
 </p>
 <p>
-Footsteps rushed toward him. Combat boots descended the steps, followed by the muzzle of an M4 carbine. The helmeted head of Leo the gunman peered down from the steps above. “What in the hell are you still doing here?” he said. He limped as he walked. His leg was bleeding badly.
+A gunshot boomed through the stairwell. A bullet struck Leo’s armor with a sharp smack. He swung his rifle toward the door and fired off a few rounds. 
 </p>
 <p>
-A gunshot boomed through the stairwell. A bullet struck Leo’s armor with a sharp smack. The impact knocked him off his feet. He tumbled down the last few steps, falling hard on his back on a mid-floor landing. He swung his rifle toward the door, fired off a few rounds, and scrambled back upright. 
-</p>
-<p>
-Danny fled.
-</p>
-<p>
-Gravity did most of the work for him as he ran down the stairs. The flights melted into a whizzing blur before his eyes &mdash; a kaleidoscope of gray stairs, black railing, water pipes and fire alarms.
-</p>
-<p>
-Behind him, footsteps echoed &mdash; the asymmetrical, injured footsteps of Leo only a couple floors away, and another set of footsteps somewhere farther behind him. The sounds of running were accompanied by the rattle of Leo’s rifle and the bang of a handgun above, answering one another like a fiery debate cast in brass and nitrocellulose.
+Danny screamed and fled. Gravity did most of the work for him as he jostled down the stairs. The flights melted into a whizzing blur before his eyes &mdash; a kaleidoscope of gray stairs, black railing, water pipes and fire alarms.
 </p>
 <p>
 Natalie’s voice appeared on the channel. “Danny, those shots are echoing all over the building. I can see people freaking out everywhere. Someone’s coming!”
@@ -360,28 +348,28 @@ Natalie’s voice appeared on the channel. “Danny, those shots are echoing all
 “There’s two people with guns running to the stairwell,” she said.
 </p>
 <p>
-“Yeah, no shit. There’s people with guns everywhere,” Danny said.
+“More of Ivan’s men?”
 </p>
 <p>
-“No, Danny, there’s something different about these two,” Natalie explained. “All over the building, all the hotel guests are running away from the stairwell. But these two guys &mdash; actually, one guy and one woman… They looked just like anybody else at first… Then suddenly they whipped out guns and started rushing <em>toward</em> the emergency exit. They’re both standing outside the stairwell right now &mdash; they’re on either side holding their guns out. They look like pros.”
+“No, just random hotel guests!” said Natalie. “At least, I <em>thought<em> they are. All over the building, everybody’s running away from the stairwell. But these two &mdash; one guy and one woman &mdash; they whipped out guns and started rushing <em>toward</em> the emergency exit. They’re both standing outside the stairwell right now &mdash; they’re on either side holding their guns out.”
 </p>
 <p>
 “What the fuck?” Danny screeched.
 </p>
 <p>
-“One’s pulling out something from her pocket,” Natalie added. “It’s black with something shiny attached. I can’t tell what. The other’s talking on his cellphone in one hand with his gun in the other… Danny, the woman looks like she’s getting ready to body-check the door. The dude’s holding back a few feet, like he’s giving her cover.”
+“One’s pulling out something from her pocket,” Natalie added. “It’s black with something shiny attached. The other’s talking on his cellphone in one hand with his gun in the other… Danny, the woman looks like she’s getting ready to body-check the door. The dude’s holding back a few feet, like he’s giving her cover.”
 </p>
 <p>
-“Well, Jesus… If they’re not with Sergey, and they’re not with Ivan,” Danny yelped, “then who the hell are they?”
+“Jesus. Sounds like they’ve got training!” Danny said. “Who the hell <em>are</em> they?”
 </p>
 <p>
-With a sudden crash, a fire door a few levels above slammed open. A woman’s voice rang out, “Freeze! Police!”
+A fire door a few levels above burst open. A woman’s voice rang out, “Freeze! Police!”
 </p>
 <p>
 Danny held his breath.
 </p>
 <p>
-“Put your weapons on the ground,” she commanded slowly, “and raise your arms above your heads! Both of you!”
+“Put your weapons on the ground,” she commanded slowly, “and raise your arms! Both of you!”
 </p>
 <p>
 There were a few seconds of stillness. Danny gripped the railing tightly, holding every muscle taut, careful to avoid making a sound. He was a few landings below where the police had entered. <em>Both of you</em>, the woman had said, apparently referring to Leo and his attacker &mdash; meaning that they didn’t know Danny was below them. He willed himself to stay statue-like.
@@ -393,13 +381,13 @@ The man above said, “Come on, buddy! I don’t care how big your gun is or how
 A gentle tap indicated a gun being placed on the floor. It was followed by the ratcheting clicks of handcuffs.
 </p>
 <p>
-The policewoman’s voice called out, “Hey, Mack! This guy took a two-twenty-three to the gut. He’s not doing too good.”
+The policewoman called out, “Hey, Mack! This guy took a two-twenty-three to the gut. He’s not doing too good.”
 </p>
 <p>
 The male cop replied, “Yeah, mine took a shot to the knee. Calling for medical, hold on.”
 </p>
 <p>
-Danny heard the distinct static of a two-way radio. The device that Natalie had seen the cop speak into wasn’t a cellphone &mdash; it was a walkie-talkie.
+Danny heard the distinct static of a two-way radio. The device that Natalie had seen wasn’t a cellphone &mdash; it was a walkie-talkie.
 </p>
 <p>
 “Dispatch, come in,” said the man. “This is Detective Macintyre, with Detective Santello, on plainclothes investigation at the Medina Gallante hotel. We picked up a company van marked ‘Claymore Communications’ on the Medina neighborhood camera system, and gave it a routine tail. Dispatch, we’ve got a situation here…”

@@ -342,28 +342,7 @@ Jason sighed, and stood up with a grunt. “I’ll go talk to that Rex guy upsta
 
 <div class="chapsection">
 <p>
-<span class="caplead">Captain Danny was guiding his submarine</span> through the treacherous Vat Sea when his crew encountered an enormous sea monster. From Captain Danny’s perspective, the creature looked like a horizontally stretched human face, almost like that of a young Asian woman as seen through the lens-warping effect of a water-filled cylinder.
-</p>
-<p>
-“Do you mind?” said the aquatic beast. “I set the environment for optimal growth conditions. Don’t screw it up.”
-</p>
-<p>
-Danny stood and looked at Julie over the vat. She regained normal human proportions. “Sorry. It’s been a crazy day. I could really use some sleep.”
-</p>
-<p>
-“Heh, I know something white and powdery that can fix that,” she said with a conspiratorial smirk.
-</p>
-<p>
-“I don’t do drugs,” Danny asserted. “I hate the idea of fucking with my brain.”
-</p>
-<p>
-Julie laughed at him. “Why? Because your neuroanatomy is some sort of sacred thing? Because your cognitive processes can’t use a bit of… reconfiguration? Just ask yourself one simple question: do you <em>really</em> think that your brain &mdash; <em>your</em> brain, in particular &mdash; is nearly as precise and fine-tuned a machine as you think it is?”
-</p>
-<p>
-Above them, the office door opened. Jason descended the stairs. Rex closely followed with gun in hand.
-</p>
-<p>
-Julie kept her eyes fixed on them. “Well?”
+<span class="caplead">Jason descended the stairs.</span> Rex closely followed with gun in hand. Julie kept her eyes fixed on them. “Well?”
 </p>
 <p>
 Rex sat down on the folding chair. He put his gun across his lap, produced something from his pocket, and hunched over the tabletop. Danny could hear quick tapping noises on the table’s metal surface.

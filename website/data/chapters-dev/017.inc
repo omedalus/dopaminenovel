@@ -222,7 +222,7 @@ Jason smiled. “Which is exactly the kind of task that they’d give an intern.
 Julie nodded. “Exactly. It was my job to check on the batches. So when one of them finally produced an <em>E. coli</em> strain that was expressing <em>all</em> the cocaine biosynthesis genes, I was the first to see it.”
 </p>
 <p>
-“And you were supposed to call in the senior researchers. But…”
+“And you were supposed to call in the senior researchers. But instead, you…”
 </p>
 <p>
 “Yeah. I just… you know…”

@@ -30,82 +30,52 @@ On the coffee table, there sat a crystal punch-bowl filled with fine white powde
 A spiral staircase wound upwards through the high ceiling to the bedrooms above. French doors opened to a balcony overlooking Lake Washington and the Seattle skyline, the city silhouetted in rich hues of orange and pink as the sun set behind the Olympic Mountains.
 </p>
 <p>
-There was a quiet muttering from outside the room. The men perked their ears. With a press of a button, the video game system went mute.
+There was a commotion outside the room. The men perked their ears. With a press of a button, the video game system went mute.
 </p>
 <p>
 The entrance of the Presidential Suite of the Medina Gallante was a pair of large cedar doors, latched with wide curving brass handles. One of those handles turned.
 </p>
 <p>
-In a blink, every man snapped his full attention to the entryway. Those who were sitting jumped to stand; those who were standing crouched into attack postures. Prostitutes were unceremoniously thrown aside. Handguns leaped from holsters and pointed at the door. Metallic clicks echoed through the room as safeties switched off, hammers cocked, cylinders spun, and slides latched.
+In a blink, handguns leaped from holsters and pointed at the door. Metallic clicks echoed through the room as safeties switched off, hammers cocked, cylinders spun, and slides latched.
 </p>
 <p>
-Through the door came a rasping, gravelly voice. “Easy, boys! It’s just me!”
-</p>
-<p>
-The double doors swung open, pushed apart by the arms of a cavalier middle-aged man in a three-piece suit. In the entryway stood the silver-haired, beak-nosed figure of Ivan Zheleznov. He strutted in like a king among loyal peasants. The mercenaries hooted greetings.
+Through the door came a rasping, gravelly voice. “Easy, boys! It’s just me!” The double doors swung open, pushed apart by the arms of a cavalier middle-aged man in a three-piece suit. In the entryway stood the silver-haired, beak-nosed figure of Ivan Zheleznov. He strutted in like a king among loyal peasants. The mercenaries hooted greetings.
 </p>
 <p>
 Passinsky rose from the deep couch. He stood humbly and greeted Ivan with a deferential nod.
 </p>
 <p>
-Ivan’s sharp voice spoke again. “Ah, Petya! You and I will settle up in a minute. For now, my brothers, show some love! We have a special guest!”
+“Ah, Petya!” said Ivan. “You and I will settle up in a minute. For now, my brothers, show some love! We have a special guest!”
 </p>
 <p>
-Three men followed Ivan, carrying a rolled-up corduroy rug bound with plastic cord. The cylindrical mass sagged and drooped, defying their efforts to haul it through the doorway.
+Three men followed him, carrying a rolled-up corduroy rug. The cylindrical mass sagged and drooped, defying their efforts to haul it through the doorway. Passinsky realized that the rug itself was squirming and bucking, trying to wriggle out of their grasp.
 </p>
 <p>
-Passinsky realized that the rug itself was squirming and bucking, trying to wriggle out of their grasp.
+Just inside the doorway, once the doors were closed, it succeeded. The rolled-up rug hit the floor and emitted a muffled, high-pitched grunt. It writhed on the ground of its own accord, making tiny growling sounds, and began to unfurl.
 </p>
 <p>
-Just inside the doorway, it succeeded. The rolled-up rug hit the floor and emitted a muffled, high-pitched grunt. It writhed on the ground of its own accord, making tiny growling sounds.
-</p>
-<p>
-The men closed the doors and made a circle around the corduroy mass. One reached down and, with a pull of a box-cutter blade, sliced away the plastic cords. It began to unfurl.
-</p>
-<p>
-From the inside of the rolled-up rug crawled a twelve-year-old girl.
+From out of the rolled-up rug crawled a twelve-year-old girl.
 </p>
 <p>
 Rosie Mukhayev’s hands were tied behind her back, and duct tape covered her mouth. She climbed to her feet and spun around, finding herself surrounded by large men.
 </p>
 <p>
-Her first reaction was to choose two of them at random and lunge forward to squeeze her small body quickly through the gap between them.
+One henchman clasped his calloused fingers around her elbows and held her in place. She tried going limp to slide out of his grasp, but all it did was twist her shoulder. Futilely, she kicked and body-checked against him, making small, furious noises.
 </p>
 <p>
-It didn’t work. One man clasped his calloused fingers firmly around her elbows and pulled her back against his torso, holding her in place. She tried going limp to slide out of his grasp, but all it did was twist her shoulder. Futilely, she kicked and body-checked against him, making small, furious noises.
+The circle of men parted to make way for Ivan as he approached the young girl. He cocked his head, studying her like an eagle eyeing a cornered rabbit. He reached out toward her face with a bony, gnarled hand, slid a jagged fingernail against the gag over her mouth, and yanked the tape from her skin with a loud rip. 
 </p>
 <p>
-The circle of men parted to make way for Ivan as he approached the young girl. He cocked his head, studying her like an eagle eyeing a cornered rabbit. “She’s a feisty one!” He took a step closer and slowly reached out toward her face with a bony, gnarled hand. He traced the back of one hairy knuckle against her soft cheek, slid a jagged fingernail against the gag over her mouth, and yanked the tape from her skin with a loud rip. 
+She took a deep breath, and screamed. Her shrill, piercing voice rang out like a steam whistle, slicing through the room like a storm of razors.
 </p>
 <p>
-A white cotton rag had been stuffed into her mouth. She wiggled her jaw and tongue to push out the saliva-soaked ball, and spit the wad to the floor.
+Ivan crossed his arms and laughed. It was a dry, hacking sound. “Little angel!” he said when her screaming faded. “Do you think anyone can hear you? Look around! Rooms like these are built for rock stars! There’s two meters of soundproofing under this floor. You could throw a dance party with a thousand people, and nobody would hear a thing downstairs. A grenade could go off, and people below would just think we’re watching a movie.”
 </p>
 <p>
-And screamed.
+In English, she sneered, “When my Daddy gets here, you are so fucked.”
 </p>
 <p>
-Her shrill, piercing voice rang out like a steam whistle, slicing through the room like a storm of razors.
-</p>
-<p>
-Ivan merely crossed his arms and laughed. It was a dry, hacking sound.
-</p>
-<p>
-The scream faded to silence. She eyed the middle-aged man with hatred and apprehension as he tittered diabolically at her.
-</p>
-<p>
-“Little angel, do you think anyone can hear you? Look around! Rooms like these are built for rock stars! There’s two meters of soundproofing under this floor. You could throw a dance party with a thousand people, and nobody would hear a thing downstairs. A grenade could go off, and people below would just think we’re watching a movie.”
-</p>
-<p>
-For a few moments she said nothing. Finally, in English, she sneered, “When my Daddy gets here, you are so fucked.”
-</p>
-<p>
-At this, Ivan burst into haughty laughter. “Your ‘Daddy?’ You know what happened last time your ‘Daddy’ tried to dance with me, right?” He leaned forward and jutted his face toward hers. “You don’t know who I am, do you?” His breath smelled of dental work and recently-eaten fish.
-</p>
-<p>
-She spit in his face.
-</p>
-<p>
-He stepped back and wiped the spit away with his sleeve. “Take her upstairs! She’ll need time to, shall we say, fully comprehend her new circumstances. Keep an eye on her tonight. We’ll take her back to St. Petersburg tomorrow. Then we can properly begin her ‘education.’”
+At this, Ivan burst into haughty laughter. “Your ‘Daddy?’ You know what happened last time your ‘Daddy’ tried to dance with me, right?” He leaned forward and jutted his face toward hers. “You don’t know who I am, do you?” His breath smelled of dental work and recently-eaten fish. Switching back to Russian, he commanded his men, “Take her upstairs! She’ll need time to, shall we say, fully comprehend her new circumstances. Keep an eye on her tonight. We’ll take her back to St. Petersburg tomorrow. Then we can properly begin her ‘education.’”
 </p>
 <p>
 The thug holding her nodded compliantly, and dragged her bucking, kicking, wriggling body up the wide spiral staircase, until her shouts and barks of protest faded somewhere in the carpeted hallways overhead.
@@ -114,7 +84,7 @@ The thug holding her nodded compliantly, and dragged her bucking, kicking, wrigg
 When they were gone, Ivan spun to face the living room, and clapped his hands. He flashed Dr. Passinsky a crocodile smile. “Petya! Come over here and join us!” Passinsky approached demurely. “It’s good to see you, Petya! I take it you’ve been able to resolve that little dilemma from this morning?”
 </p>
 <p>
-Passinsky nodded. He reached into his pocket, and produced the small translucent vial.
+Passinsky nodded. He reached into his pocket, and produced the vial.
 </p>
 <p>
 Ivan reached out and took it in his coarse hand. He held the vial in his palm and chuckled, looking eye to eye with the smiley face sticker on its side. “Such a small thing,” he said. “Yet a cause of so much fuss.”
@@ -150,19 +120,19 @@ Ivan eyed the vial in his hand. “That hardly matters anymore.”
 “I have what I need,” Ivan said with a shrug, and placed the vial in his chest pocket.
 </p>
 <p>
-Passinsky felt his blood run cold. “I… I’m afraid I don’t understand. What will happen to Tungsten?”
+“I… I’m afraid I don’t understand. What will happen to Tungsten?”
 </p>
 <p>
 “The hostile takeover will succeed,” Ivan said simply. “Whoever wants this company, they can have it.”
 </p>
 <p>
-“And the equipment? And the staff?” Passinsky repeated, going pale. “And me?”
+“And the equipment? And the staff?” Passinsky asked. “And me?”
 </p>
 <p>
 “Auctioned. Disbanded. And…” Ivan gave a wide, uncaring shrug. “Eh.”
 </p>
 <p>
-“We had an agreement!” Passinsky insisted hoarsely.
+“We had an agreement!” Passinsky insisted hoarsely. 
 </p>
 <p>
 “Did we now?” Ivan said with a smirk.

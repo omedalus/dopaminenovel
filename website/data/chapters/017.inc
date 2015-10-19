@@ -222,7 +222,7 @@ Jason smiled. “Which is exactly the kind of task that they’d give an intern.
 Julie nodded. “Exactly. It was my job to check on the batches. So when one of them finally produced an <em>E. coli</em> strain that was expressing <em>all</em> the cocaine biosynthesis genes, I was the first to see it.”
 </p>
 <p>
-“And you were supposed to call in the senior researchers. But…”
+“And you were supposed to call in the senior researchers. But instead, you…”
 </p>
 <p>
 “Yeah. I just… you know…”
@@ -237,7 +237,7 @@ Julie nodded. “They started to realize that something was up. Damned if I know
 “Are you okay?” Jason asked.
 </p>
 <p>
-“No, I’m not fucking okay!” she sobbed. “God, I don’t understand why everything has to be so fucking hard! Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘How could you miss those three percent?’ I work so fucking hard… All I want is to know that I did <em>something</em> right. <em>Anything</em>. I just wanted one big score, just to be able to say to the world, ‘Look at me, fuckers! I win! I don’t care what you say! I <em>am</em> good enough!’… I… I’m such a fuckup…”
+“No, I’m not fucking okay!” she sobbed. “God, I don’t understand why everything has to be so fucking hard! Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘Why not a hundred?’ I work so fucking hard… All I want is to know that I did <em>something</em> right. <em>Anything</em>. I just wanted one big score, just to be able to say to the world, ‘Look at me, fuckers! I win!’… I… I’m such a fuckup…”
 </p>
 <p>
 Gently, Jason asked, “Julie… There’s one more thing I need you to explain.”
@@ -261,28 +261,28 @@ She bolted back up furiously. “Oh fuck, come on!”
 “How’s it connected to cocaine?” asked Jason.
 </p>
 <p>
-“Cocaine is a dopamine reuptake inhibitor. You’ve heard of SSRIs, right? Selective <em>serotonin</em> reuptake inhibitors? Like Lexapro, Zoloft, Paxil, that kind of thing”
+“Cocaine is a dopamine reuptake inhibitor. You’ve heard of SSRIs, right? Selective <em>serotonin</em> reuptake inhibitors? Like Lexapro, Zoloft, Paxil…?”
 </p>
 <p>
 Jason nodded. “Antidepressants, right?”
 </p>
 <p>
-“Right,” said Julie. “See, we’ve gotten pretty good at managing serotonin. Basically, increasing serotonin levels makes people feel calmer and more mellow. In the 1950s, a French company called Rhône-Poulenc was working on antihistamines, and they accidentally stumbled onto a class of drugs called tricyclics. Turned out that tricyclics jam up the brain’s serotonin-draining machinery. Brain cells work by squirting neurotransmitters at each other across an intracellular gap called a synapse. After each neural impulse, the presynaptic neuron sucks back up all the hormone it just squirted out &mdash; basically cleaning up after itself. These tricyclics happen to be shaped, on a molecular level, just barely enough like serotonin to fit into the reuptake pump &mdash; but not enough to pass all the way through. So the presynaptic neuron sucks up a tricyclic molecule, and gets stuck. So the serotonin ends up pooling in the synapse. We can raise serotonin levels in a bunch of key areas of the brain with this way.”
+“Right,” said Julie. “See, we’ve gotten pretty good at managing serotonin. In the 1950s, a French chemistry company called Rhône-Poulenc was working on antihistamines, and they accidentally invented a class of drugs called tricyclics. Tricyclics jam up the brain’s serotonin-draining machinery. Brain cells work by squirting neurotransmitters at each other. Immediately after a neuron fires, it sucks back up all the hormone it just squirted out &mdash; basically cleaning up after itself. These tricyclics happen to be shaped, on a molecular level, just barely enough like serotonin to fit into the reuptake pump &mdash; but not enough to pass all the way through. So the neuron sucks up a tricyclic molecule, and gets stuck. And the serotonin it just squirted ends up pooling. We can raise serotonin levels in a bunch of key areas of the brain with this way.”
 </p>
 <p>
 “But, cocaine <em>isn’t</em> an SSRI, right?” asked Jason
 </p>
 <p>
-“There’s a new class of drugs called <em>D</em>RIs &mdash; <em>dopamine</em> reuptake inhibitors. That’s where Wellbutrin and Ritalin and Adderall come from. Researchers saw what tricyclics did with serotonin and were like, ‘Hey, let’s pull the same trick with dopamine!’ While modulating serotonin would simply make people feel calm, modulating <em>dopamine</em> could drastically change people’s key behavioral drivers. Motivation, excitement, attention, that kind of thing. Like, if you ace a test at school, the bolt of satisfaction when you see that A+ is the stimulation of the reward pathway. Or if you’re playing a sport and you score a point and you feel the thrill of victory. When the pathway activates, it sensitizes neural channels that correspond to whatever you’re doing at the time. So the rush you feel when you ace a test makes you more likely to choose to study in the future; when you score a goal, it makes you want to practice more. Dopamine drives the positive feedback system that makes the brain do more of what works and less of what doesn’t.”
+“There’s a new class of drugs called <em>D</em>RIs &mdash; <em>dopamine</em> reuptake inhibitors. That’s where Wellbutrin and Ritalin and Adderall come from. Researchers saw what tricyclics did with serotonin and were like, ‘Hey, let’s pull the same trick with dopamine!’ While modulating serotonin makes people feel mellow, modulating <em>dopamine</em> can drastically change people’s behavioral drivers. Motivation, excitement, attention, that kind of thing. Like, if you ace a test at school, the bolt of satisfaction when you see that A+ is the stimulation of the reward pathway. Or if you’re playing a sport and you score a point and you feel the thrill of victory. When the pathway activates, it sensitizes neural channels that correspond to whatever you’re doing at the time. So the rush you feel when you ace a test makes you more likely to choose to study in the future; when you score a goal, it makes you want to practice more. Dopamine drives the positive feedback system that makes the brain do more of what works and less of what doesn’t.”
 </p>
 <p>
 “And cocaine?” Jason tried.
 </p>
 <p>
-“Cocaine is the <em>original</em> DRI,” said Julie. “What we’re just figuring out how to do with artificial DRIs, the coca plant has been doing naturally for millions of years.”
+“Cocaine is the <em>original</em> DRI,” said Julie. “What we’re just figuring out how to do with synthetic drugs, the coca plant has been doing naturally for millions of years.”
 </p>
 <p>
-Jason nodded. “Throwing the brain’s reward system into overdrive. Which inclines the cocaine user to do more of whatever they were doing to make that happen…” said Jason.
+Jason nodded. “Throwing the brain’s reward system into overdrive. Which inclines the cocaine user to do more of whatever they were doing to make that happen…”
 </p>
 <p>
 “…Which happens to be snorting lines of coke,” concluded Julie.
@@ -297,58 +297,37 @@ Julie looked up at him. She tried to smile, but the corners of her mouth twitche
 “But you say it can actually <em>help</em> people?” Jason pressed. “The way that those other DRIs you mentioned do? Ritalin? Adderall?”
 </p>
 <p>
-“Yeah. For ADD, ADHD, Social Anxiety Disorder, things like that,” said Julie. “Basically, it’s for people who are a little bit ‘off’. Anybody that’s obsessive, or neurotic, or socially awkward, or prone to drifting off into daydreams.”
+“Yeah. For ADD, ADHD, Social Anxiety Disorder, things like that. Basically, anybody that’s obsessive, or neurotic, or socially awkward, or prone to drifting off into daydreams. You know, anybody who’s a little ‘off’.”
 </p>
 <p>
-“Oh, really…?” Jason’s head slowly swiveled toward Danny.
+“Oh, really…?” Jason’s head swiveled toward Danny.
 </p>
 <p>
-Danny was crouching next to the vat, gazing at the cloudy water. “Periscope down, ensign!” he said. “Helmsman, begin descent!” He pushed down on a protrusion, announcing, “Aye aye, captain!” He reached an arm around to the other side, and made kicking motions with two fingers. “Dive team! Dive team, do you copy?” Placing his other hand partly over his mouth, he made heavy breathing noises. “Aye, captain! No sign of the treasure yet…!”
+Danny was crouching next to the vat, gazing at the cloudy water. “Periscope down, ensign! Helmsman, begin descent!” He pushed down on a protrusion, announcing, “Aye aye!” He reached an arm around to the other side, and made kicking motions with two fingers. “Dive team! Do you copy?” Placing his other hand partly over his mouth, he made heavy breathing noises. “Aye, captain! No sign of the treasure yet…!”
 </p>
 <p>
 Jason just shook his head.
 </p>
 <p>
-Julie batted at Jason’s shoulder. “So, we had a deal…”
+Julie batted at Jason’s shoulder. “We had a deal…!”
 </p>
 <p>
-Jason sighed, and stood up with a grunt. “I’ll go talk to that Rex guy upstairs. Thank you, Julie. You’ve been… helpful.”
+Jason stood up with a grunt. “I’ll go talk to that Rex guy upstairs. Thank you, Julie. You’ve been… helpful.”
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">Captain Danny was guiding his submarine</span> through the treacherous Vat Sea when his crew encountered an enormous sea monster. From Captain Danny’s perspective, the creature looked like a horizontally stretched human face, almost like that of a young Asian woman as seen through a water-filled cylinder.
+<span class="caplead">Jason descended the stairs.</span> Rex closely followed with gun in hand. Julie kept her eyes fixed on them. “Well?”
 </p>
 <p>
-“Do you mind?” said the aquatic beast. “I set the environment for optimal growth conditions. Don’t screw it up.”
+Rex sat down on the folding chair and laid the gun across his lap. From his pocket he produced a small white package, which he laid on the table. With a rhythmic tapping of a razor blade against the metal tabletop, he chopped its contents into ever finer grains, and drew out thin parallel lines of powder.
 </p>
 <p>
-Danny stood and looked at Julie over the vat. She regained normal human proportions. “Sorry. It’s been a crazy day. I could really use some sleep.”
+Julie’s face lit up in an ecstatic grin. With her small body and oversized t-shirt, she looked like a child beaming at the sight of presents under the tree on a wintry white Christmas morning. But for her, the greatest present of all was the snow. 
 </p>
 <p>
-“Heh, I know something white and powdery that can fix that,” she said with a conspiratorial smirk.
-</p>
-<p>
-“I don’t do drugs,” Danny asserted. “I hate the idea of fucking with my brain.”
-</p>
-<p>
-Julie laughed at him. “Why? Because your neuroanatomy is some sort of sacred thing? Because your cognitive processes can’t use a bit of… reconfiguration? Just ask yourself one simple question: do you <em>really</em> think that your brain &mdash; <em>your</em> brain, in particular &mdash; is nearly as precise and fine-tuned a machine as you think it is?”
-</p>
-<p>
-Above them, the office door opened. Jason descended the stairs. Rex closely followed with gun in hand.
-</p>
-<p>
-Julie kept her eyes fixed on them. “Well?”
-</p>
-<p>
-Rex sat down on the folding chair and laid the gun across his lap. From his pocket he produced a small white package, which he laid on the table. With a rhythmic tapping of a razor blade against the table’s metal surface, he chopped its contents into ever finer grains, and drew out thin parallel lines of powder.
-</p>
-<p>
-Julie’s face lit up in an ecstatic grin as she gasped in anticipation. With her small body and oversized t-shirt, she looked like a child beaming at the sight of presents under the tree on a wintry white Christmas morning. But for her, the greatest present of all was the snow. 
-</p>
-<p>
-“You got any idea how much trouble I’d be in if the boss-man found out?” he grumbled as he worked. “We’re in lockdown. I was supposed to flush this.”
+“You got any idea how much trouble I’d be in if the boss-man found out?” Rex grumbled as he worked. “We’re in lockdown. I was supposed to flush this.”
 </p>
 <p>
 Julie stared transfixed at the rails of coke with an expression not unlike Pavlov’s dogs upon hearing a bell.
@@ -381,7 +360,7 @@ Rex eyed Jason dubiously. “Numbers? You don’t want any?”
 “Well shit. I hope I never get <em>that</em> old,” Rex grunted, rising from his chair.
 </p>
 <p>
-He had barely gotten his rear off of the seat before Julie slid in and grabbed the rolled-up bill. She dove straight into the next line on the table, snorting it up as quickly as her nose would allow. She held her breath for several seconds, looking like she was about to sneeze. Tears built up in her eyes. Her accelerating pulse was visible in her ears. 
+He had barely lifted his rear from of the seat before Julie slid in and grabbed the rolled-up bill. She dove straight into the next line on the table, snorting it up as quickly as her nose would allow. She held her breath for several seconds, looking like she was about to sneeze. Tears built up in her eyes. Her accelerating pulse was visible in her ears. 
 </p>
 <p>
 After several seconds of sitting motionless, she finally made a sound: a euphoric, delighted, childlike laugh.

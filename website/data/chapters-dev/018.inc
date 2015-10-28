@@ -1,63 +1,42 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Nothing in the world had any right</span> to look like what Danny saw happening before him. Such abominations belonged on the other side of a movie screen, projected in two dimensions and tempered by the audience’s knowledge that they were made of latex and CGI. It was a spectacle not meant to be witnessed up close, not in three dimensions, not complete with sound and smell and sensation. 
+<span class="caplead">Nothing in the world had any right</span> to look like what Danny saw before him. It belonged on a movie screen, tempered by the knowledge that it was nothing more than CGI and latex. It could not &mdash; must not &mdash; be real.
 </p>
 <p>
-The man brought his hands up to his acid-splashed face in a desperate, frantic effort to wipe the corrosive liquid away. Holes burned instantly in the sleeves of his denim jacket. Sores and welts appeared on his fingers, resembling the scabby wounds of chickenpox. Through the gaps between his fingers, the skin of his face could be seen frothing.
+The man tore at his face, frantically trying to wipe away the hissing, steaming froth that was forming on his flesh. His gun clattered to the concrete floor as he rose. He ran blindly a few stumbling steps before collapsing to his knees. His screams crescendoed so loud and high-pitched that they scarcely seemed human. Strands of blond hair fell from his head, curling and writhing on their own upon the floor. Within his eye sockets were two deformed cauldrons of bubbling white foam. Greenish-yellow cauliflower-like globules of fat spilled out from areas that had once been cheeks and chin.
 </p>
 <p>
-His gun clattered to the concrete floor as he rose and began running blindly. He only made it a few stumbling steps before tripping and collapsing to his knees.
+The stench was like vomit after a meal of putrescent meat.
 </p>
 <p>
-He didn’t start screaming right away. He at first let out an annoyed yelp, more out of surprise than pain. But in a matter of seconds it crescendoed to howls, then cries, then a shrieking that quickly grew so loud and high-pitched that it scarcely seemed human. His sounds of agony filled the small factory, rising and falling randomly until they dissolved into moist, gurgling atonal harmonics.
+And then there was an explosion of mechanical sound &mdash; a <em>rat-tat-tat-tat-tat</em>, like someone shoving a metal rod into the spokes of a spinning bicycle wheel. Several smoky black blurs streaked through the air, toward the shrieking faceless thing that had been Rex. He collapsed lifeless on the factory floor. The cardboard and packing peanuts on the floor around the body turned crimson. The screams mercifully ended.
 </p>
 <p>
-Strands of long stringy blond hair fell from his head, momentarily curling and writhing on their own upon the floor. Within his eye sockets were two deformed cauldrons of bubbling white foam, leaking a clear gelatinous fluid. Greenish-yellow cauliflower-like globules of fat spilled out from areas that had once been cheeks and chin.
+Julie exhaled a satisfied, “Ahhhhh!” She stood where Rex’s gun had fallen, holding the blocky weapon awkwardly in both of her small hands. Smoke wafted from its barrel.
 </p>
 <p>
-The smell was like vomit after a meal of putrescent meat.
+At the top of the stairs stood Eugene Mukhayev, and an immense middle-aged man that must have been Sergey. They stared with jaws slack, their eyes wide with horror and disgust.
 </p>
 <p>
-And then there was an explosion of mechanical sound &mdash; a loud <em>rat-tat-tat-tat-tat</em>, like someone trying to shove a metal rod into the spokes of a spinning bicycle wheel. A hot shockwave of pressure raced through the air, carrying with it the acrid, metallic smell of gunpowder. Several smoky black blurs streaked through the air, toward the shrieking faceless thing that had been Rex. Their impacts knocked him back and down, his body convulsing forcefully with each hit. 
+Julie swung the gun upward, pointed it at them, and opened fire without warning or hesitation.
 </p>
 <p>
-Only the first handful of shots made contact with him. The rest tore through the debris on the floor, or sunk into nearby laboratory machines, or shattered glassware, or scarred the walls with ricochet marks.
+The two men ducked and took cover in the office directly behind them. Eugene returned fire from a small revolver, making sporadic half-blind shots from around the door jamb.
 </p>
 <p>
-Julie grunted, “Ah, shit!” after the burst of gunfire stopped. It had come from her. 
+Julie shot in wild bursts, struggling against the recoil. Flakes of brick knocked loose from the walls around the stairs. The windows shattered under fire, raining shards of glass. Where the bullets hit the pale blue door, they splintered the plywood. Spent shell casings flew wildly from her gun, pinging upon the concrete floor.
 </p>
 <p>
-She stood where Rex’s gun had fallen, holding the blocky weapon awkwardly in both of her small hands. She examined the weapon quickly and intelligently, noting its protrusions and features. The girl experimentally placed her hands on different parts, unsure of how best to grip it to maintain control of its full-automatic spray.
+One brass cylinder hit the back of Danny’s hand, still scorching hot. At that moment it dawned on Danny that he wasn’t merely a passive observer. The bullets from the office above were meant for him just as much as for the coke-addled girl.
 </p>
 <p>
-The wretched, faceless creature gurgled for a moment and collapsed lifeless on the factory floor. Blood flowed freely from a handful of holes in its torso. The cardboard and packing peanuts on the floor around the body turned crimson. 
-</p>
-<p>
-Shadows watched the scene from above. In the doorway at the top of the stairs stood two figures &mdash; the athletic, leather-clad form of Eugene Mukhayev, and the large, imposing middle-aged man that must have been Sergey. They stared with jaws slack, their eyes wide with horror and disgust.
-</p>
-<p>
-Julie followed Danny’s gaze, her head turning quickly like a bird’s, her movements twitchy and animated. She swung the blocky gun upward, pointed it at the figures in the door, and opened fire without warning or hesitation.
-</p>
-<p>
-The two men ducked and fled back into the office room. Eugene returned fire from a small revolver, shooting haphazardly toward Julie before slamming the pale blue door shut behind him. The bang of Eugene’s pistol rang out through the factory, accompanying the <em>rat-tat-tat</em> of Julie’s machine gun with a slower syncopated tempo.
-</p>
-<p>
-Julie bobbed and weaved to make Eugene’s angle of fire as difficult as possible. She shot in wild bursts as she dodged, releasing two or three bullets at a time in a wide spread. Flakes of brick knocked loose from the walls around the stairs. She struggled against the recoil, mostly hitting the overhanging office room. The windows shattered under fire, causing shards of glass to rain into the office and onto the factory floor. Where the bullets happened to hit the pale blue door, they splintered the plywood.
-</p>
-<p>
-Spent shell casings flew wildly from her gun, pinging upon the concrete floor. One brass cylinder hit the back of Danny’s hand, still scorching hot from the exploding gunpowder it had contained only microseconds prior.
-</p>
-<p>
-At that moment it dawned on Danny that he wasn’t merely a passive observer. The bullets from the office above, he realized, were meant for him just as much as they were meant for the coke-addled Asian girl.
-</p>
-<p>
-He looked for somewhere to hide. Jason, for his part, had already bunkered himself under the metal table.
+He looked for somewhere to hide. Jason had already bunkered himself under the metal table.
 </p>
 <p>
 With his HERF gun in hand, Danny dove to shield himself from the firefight. He ducked behind the largest, most solid object nearby. 
 </p>
 <p>
-Unfortunately, Danny noticed a moment afterward that this object happened to be a blue 55-gallon drum filled with kerosene. 
+Unfortunately that object was a blue 55-gallon drum filled with kerosene. 
 </p>
 <p>
 An errant bullet from Eugene’s pistol plunked into the barrel, puncturing it. 
@@ -69,49 +48,40 @@ Danny had seen enough action movies and played enough first-person shooter games
 But that didn’t actually happen.
 </p>
 <p>
-The kerosene barrel did, however, begin leaking. The clear, pungent fluid began to spill out. The impact was not dead center on the barrel, and it carved a short slice out of the metal skin before coming to rest. The fluid ran down and around the side of the drum, spilling onto Danny’s borrowed floral-print sweatshirt.
+The barrel did, however, begin leaking its clear, pungent contents all over Danny’s borrowed floral-print sweatshirt. Kerosene poured onto the floor, forming an iridescent puddle on the concrete.
 </p>
 <p>
-Kerosene continued to pour onto the floor, forming an iridescent puddle on the concrete. The thin liquid spread toward a pile of packing debris. Cardboard absorbed it without incident. Styrofoam packing peanuts, however, melted on contact, dissolving into gloppy half-formed masses like ice cream on a hot summer sidewalk.
+The <em>rat-tat-tat</em> of Julie’s firearm abated, and she bounded up the stairs. Eugene had stopped shooting. From the office room came the spinning clicks of a revolver cylinder and the ding of empty rounds upon the floor.
 </p>
 <p>
-The <em>rat-tat-tat</em> of Julie’s firearm abated. Danny risked a peek around the side of the barrel to see her bounding up the stairs. She made it to the top and stared at the door to the office room. The door bore long wooden scars as though it had been clawed by a wild beast.
+Julie suddenly yelled, “Oh, you’re in trouble now!” She squeezed the trigger, and through the open doorway she sprayed the office wildly with aimless gunfire. Bullets tore into the floor, the walls, the desk, leaving gouges like clawmarks from a wild beast.
 </p>
 <p>
-Eugene stopped shooting, either unsure of where to aim or unable to tilt his gun to the proper angle. 
+The office’s front door swung open. The two gangsters fled outside, crouching low to avoid the girl’s gunfire, and slammed the heavy outer door shut behind them.
 </p>
 <p>
-Julie suddenly yelled, “Oh, you’re in trouble now!” She squeezed the trigger.
+Julie continued firing, until finally the weapon’s bolt made an idle click and ceased moving. It left an abrupt silence in its wake.
 </p>
 <p>
-Her bullets pounded against the plywood. On Julie’s side, they punched perfectly round holes no bigger than a penny, but jagged chunks of wood the size of books burst off from the opposite side. The door shuddered on its hinges. It quickly disintegrated into a patchwork of splinters and sawdust.
-</p>
-<p>
-Through the office windows, Danny saw the office’s front door open. The two gangsters fled outside, crouching low to avoid the girl’s gunfire, and slammed the heavy outer door shut behind them.
-</p>
-<p>
-Julie continued firing through the flimsy, flapping remains of the pale blue plywood, until finally the weapon’s bolt made an idle click and ceased moving. It left an abrupt silence in its wake.
-</p>
-<p>
-Realizing that she was out of ammunition, Julie wasted no time. She flung open the remnants of the pulverized interior door, sprinted to the other side of the small office, and twisted the front door’s deadbolts shut.
+Realizing that she was out of ammunition, Julie wasted no time. She sprinted to the other side of the small office and twisted the front door’s deadbolts shut.
 </p>
 <p>
 Outside, the men pounded against the front door and struggled with the locks, but they were seconds too late. They tried kicking it, bashing it, even shooting it, but the outer door wouldn’t yield. 
 </p>
 <p>
-The African-American guard’s voice could be heard saying, “Don’t bother, man. We made sure nobody could bust in. Your orders, remember?”
+The guard outside said, “Don’t bother, man. We made sure nobody could bust in. Your orders, remember?”
 </p>
 <p>
-Eugene yelled, “God fucking damn it, Deshaun! You standing in alley the whole time? What the fuck is wrong with you? You don’t hear the shooting? You don’t think to come up here and help us maybe?”
+Eugene yelled, “God fucking damn it, Deshaun! You standing in alley the whole time? You don’t hear the shooting? You don’t think to come up here and help us maybe?”
 </p>
 <p>
-“You guys told me to stay out here,” the guard retorted. “I thought Rex had you covered. I heard screaming, I figured you were, you know, working them over.”
+“You guys told me to stay out here. I thought Rex had you covered. I heard screaming. I figured you were, you know, working them over.”
 </p>
 <p>
 Sergey answered, “That screaming <em>was</em> Rex.”
 </p>
 <p>
-“Holy fuck. Guys, are you alright?” asked the guard.
+“Holy fuck. Guys, are you alright?”
 </p>
 <p>
 “No, I’m not alright,” Eugene grumbled. “Look what that girl did to my jacket! This is Italian custom-made lambskin! See here? Bullet graze. Here? Torn on glass. I swear to fucking God, that bitch is not making it out of there alive! I’ll tear that little whore’s throat out! I’ll kick her teeth in with my bare hands!”
@@ -123,7 +93,7 @@ Sergey said, “You kick with your hands, Zhenka?”
 Eugene sputtered, “I… with my… Shut up!”
 </p>
 <p>
-Inside, Julie leaned against the metal door, breathing heavily. A huge grin consumed her face. She let out a deep, satisfied sigh, and yelled, “Woooooohoooooo!”
+Inside, Julie leaned against the metal door, breathing heavily. A huge grin consumed her face. “Woooooohoooooo!”
 </p>
 <p>
 The rows of 55-gallon drums had served as a backstop for Eugene’s bullets. Most of them were leaking profusely, coating the floor of the factory in a mixture of kerosene and acetone. Styrofoam dissolved into thick bubbling puddles, filling the room with a soft hiss. Danny’s sweatshirt was soaked in kerosene, and felt damp and heavy against his skin. The mixed stench of jet fuel and nail polish remover assaulted Danny’s nose and burned his lungs. It was growing progressively harder to breathe. His eyes stung.
@@ -330,13 +300,13 @@ Deshaun offered, “Fuck these shitheads up?”
 
 <div class="chapsection">
 <p>
-<span class="caplead">The <em>rat-tat-tat</em> of Julie’s gun</span> burst out suddenly. She fired a few bullets through the broken office windows, announcing to the world that she had successfully reloaded. Danny couldn’t find anything helpful on the computer, but Julie had put it to use to figure out how to operate her firearm. Between Wikipedia, YouTube, and some gun enthusiast websites, she was able to identify it as a MAC-10 and determine how to swap the magazine and load a round into the chamber. 
+<span class="caplead">The <em>rat-tat-tat</em> of Julie’s gun</span> burst out suddenly. She fired a few bullets through the broken office windows, announcing that she had successfully reloaded. Danny couldn’t find anything helpful on the bullet-scarred computer, but Julie had put it to use to figure out how to operate her firearm. Between Wikipedia, YouTube, and some gun enthusiast websites, she was able to identify it as a MAC-10 and determine how to swap the magazine and load a round into the chamber. 
 </p>
 <p>
 “Jason,” Danny said. “Can’t you, like, talk us out of here?”
 </p>
 <p>
-“And how do you propose I do that?” Jason asked.
+“And how do you propose I do that?”
 </p>
 <p>
 “I don’t know. Negotiate or something?”
@@ -348,7 +318,7 @@ Deshaun offered, “Fuck these shitheads up?”
 “We still have our phones,” said Danny. “Is there anyone you can call?”
 </p>
 <p>
-“The cops?” Jason offered. “But, um…” He gestured out to the room &mdash; to the cocaine on the desk, to the bullet holes in the wall, to the mangled corpse in the factory below. “I can make shit up, Danny, but I can’t think of any innocent way to explain what we’re doing here.”
+“The cops?” Jason offered. “But, um…” He gestured out to the room &mdash; to the cocaine on the desk, to the bullet holes in the wall, to the mangled corpse below. “I can make shit up, Danny, but I can’t think of any innocent way to explain what we’re doing here.”
 </p>
 <p>
 Danny sighed. “So. Death or jail. That’s our options?”

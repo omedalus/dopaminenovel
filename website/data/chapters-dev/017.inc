@@ -282,7 +282,7 @@ Jason nodded. “Throwing the brain’s reward system into overdrive. Which incl
 Julie looked up at him. She tried to smile, but the corners of her mouth twitched downward. “They do say the stuff’s addictive.”
 </p>
 <p>
-“But you say it can actually <em>help</em> people?” Jason pressed. “The way that those other DRIs you mentioned do? Ritalin? Adderall?”
+“But you say it can actually <em>help</em> people?” Jason pressed. “Like Ritalin and Adderall?”
 </p>
 <p>
 “Yeah. For ADD, ADHD, Social Anxiety Disorder, things like that. Basically, anybody that’s obsessive, or neurotic, or socially awkward, or prone to drifting off into daydreams. You know, anybody who’s a little ‘off’.”
@@ -297,7 +297,7 @@ Danny was crouching next to the vat, gazing at the cloudy water. “Periscope do
 Jason just shook his head.
 </p>
 <p>
-Julie batted at Jason’s shoulder. “We had a deal…!”
+Julie batted at his shoulder. “We had a deal…!”
 </p>
 <p>
 Jason stood up with a grunt. “I’ll go talk to that Rex guy upstairs. Thank you, Julie. You’ve been… helpful.”

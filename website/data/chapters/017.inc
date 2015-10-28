@@ -249,37 +249,25 @@ She bolted back up furiously. “Oh fuck, come on!”
 “You’ve told me the <em>how</em>, but not the <em>why</em>. Tungsten was working full-time to develop this living cocaine dispenser. But from a business perspective, that doesn’t make any sense. The end product is illegal to sell. What was Tungsten’s market strategy?”
 </p>
 <p>
-“You mean like how to make money off of it?” asked Julie. “Fuck if I know. I was just on the science end of things. All I know are rumors. The scientists talked a lot about medical applications. They believe the future of psychopharmacology is dopamine.”
+“You mean like how to make money off of it?” asked Julie. “Fuck if I know. I was just on the science end of things. All I know are rumors. The scientists talked about medical applications. They believe the future of psychopharmacology is dopamine.”
 </p>
 <p>
 “Dopamine?”
 </p>
 <p>
-“It’s a neurotransmitter,” said Julie. “It’s the main hormone found in the nucleus accumbens, the ‘pleasure center’ or ‘reward center’ of the brain.”
+“It’s a neurotransmitter,” said Julie. “It runs the nucleus accumbens, the ‘pleasure center’ of the brain. Like, if you ace a test at school, the rush you feel at seeing that A+, that’s dopamine. Or if you’re playing piano and nail an arpeggio you’ve been struggling with, the dopamine rush is what makes you want to keep practicing. On a neurochemical level, the nucleus accumbens sensitizes neural pathways that were active prior to the reward stimulus. Behaviorally, that means dopamine drives the positive feedback system that makes you do more of what works and less of what doesn’t.”
 </p>
 <p>
-“How’s it connected to cocaine?” asked Jason.
+“And drugs can mess with that process?” said Jason.
 </p>
 <p>
-“Cocaine is a dopamine reuptake inhibitor. You’ve heard of SSRIs, right? Selective <em>serotonin</em> reuptake inhibitors? Like Lexapro, Zoloft, Paxil…?”
-</p>
-<p>
-Jason nodded. “Antidepressants, right?”
-</p>
-<p>
-“Right,” said Julie. “See, we’ve gotten pretty good at managing serotonin. In the 1950s, a French chemistry company called Rhône-Poulenc was working on antihistamines, and they accidentally invented a class of drugs called tricyclics. Tricyclics jam up the brain’s serotonin-draining machinery. Brain cells work by squirting neurotransmitters at each other. Immediately after a neuron fires, it sucks back up all the hormone it just squirted out &mdash; basically cleaning up after itself. These tricyclics happen to be shaped, on a molecular level, just barely enough like serotonin to fit into the reuptake pump &mdash; but not enough to pass all the way through. So the neuron sucks up a tricyclic molecule, and gets stuck. And the serotonin it just squirted ends up pooling. We can raise serotonin levels in a bunch of key areas of the brain with this way.”
-</p>
-<p>
-“But, cocaine <em>isn’t</em> an SSRI, right?” asked Jason
-</p>
-<p>
-“There’s a new class of drugs called <em>D</em>RIs &mdash; <em>dopamine</em> reuptake inhibitors. That’s where Wellbutrin and Ritalin and Adderall come from. Researchers saw what tricyclics did with serotonin and were like, ‘Hey, let’s pull the same trick with dopamine!’ While modulating serotonin makes people feel mellow, modulating <em>dopamine</em> can drastically change people’s behavioral drivers. Motivation, excitement, attention, that kind of thing. Like, if you ace a test at school, the bolt of satisfaction when you see that A+ is the stimulation of the reward pathway. Or if you’re playing a sport and you score a point and you feel the thrill of victory. When the pathway activates, it sensitizes neural channels that correspond to whatever you’re doing at the time. So the rush you feel when you ace a test makes you more likely to choose to study in the future; when you score a goal, it makes you want to practice more. Dopamine drives the positive feedback system that makes the brain do more of what works and less of what doesn’t.”
+“In very controlled, specific ways, if they’re designed right,” she answered. “Modulating dopamine can adjust a person’s behavioral drivers. Motivation, excitement, attention, that kind of thing. There’s this class of drugs called DRIs &mdash; dopamine reuptake inhibitors. They work by jamming the brain’s dopamine-draining machinery. Normally a dopaminergic neuron is supposed to clean up after itself after it fires, but DRI molecules get stuck in the reuptake pumps and make the dopaminergic pathway flood itself. Like Wellbutrin, Ritalin, Adderall &mdash; they’re all DRIs.”
 </p>
 <p>
 “And cocaine?” Jason tried.
 </p>
 <p>
-“Cocaine is the <em>original</em> DRI,” said Julie. “What we’re just figuring out how to do with synthetic drugs, the coca plant has been doing naturally for millions of years.”
+“Cocaine is the <em>original</em> DRI,” said Julie. “What we’re now figuring out how to do with synthetic drugs, the coca plant has been doing naturally for millions of years.”
 </p>
 <p>
 Jason nodded. “Throwing the brain’s reward system into overdrive. Which inclines the cocaine user to do more of whatever they were doing to make that happen…”
@@ -303,7 +291,7 @@ Julie looked up at him. She tried to smile, but the corners of her mouth twitche
 “Oh, really…?” Jason’s head swiveled toward Danny.
 </p>
 <p>
-Danny was crouching next to the vat, gazing at the cloudy water. “Periscope down, ensign! Helmsman, begin descent!” He pushed down on a protrusion, announcing, “Aye aye!” He reached an arm around to the other side, and made kicking motions with two fingers. “Dive team! Do you copy?” Placing his other hand partly over his mouth, he made heavy breathing noises. “Aye, captain! No sign of the treasure yet…!”
+Danny was crouching next to the vat, gazing at the cloudy water. “Periscope down, ensign! Helmsman, begin descent!” He pushed down on a protrusion, announcing, “Aye aye!” He reached an arm around to the other side, and made kicking motions with two fingers. “Dive team! Do you copy?” Placing his other hand partly over his mouth, he made heavy breathing noises. “No sign of the treasure yet, Captain…!”
 </p>
 <p>
 Jason just shook his head.

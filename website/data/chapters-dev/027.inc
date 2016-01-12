@@ -18,10 +18,10 @@ Danny braced his HERF gun against the yacht’s handrail. “Well, it has to sto
 Out past the HERF gun’s nozzle, across the the moonlit water, there spread the steep tree-lined banks of the Medina waterfront. And over that waterfront, dwarfing the personal mansions of tech tycoons, rose the twelve-story edifice of the Medina Gallante. Its floor-to-ceiling windows formed checkerboard patterns of iridescent green. Cobblestone pillars buttressed its walls. Sloped brown beams of cedar supported multi-leveled roofs. At the base of the hotel, a private wharf jutted out into the lake.
 </p>
 <p>
-“This is exactly what this device is designed for,” Danny explained as he made adjustments. “I built it during Claymore’s contract with Naval Base Kitsap. I told the Navy they needed to harden their electronics against directed electromagnetic pulses. They laughed and said that EMPs are, um, ‘sci-fi hootenanny’, were their exact words. Well, I told them, ‘Give me a high-power magnetron, and I’ll show you hootenanny.’ They did, just to humor me. And when I came back and demonstrated this device to prove my point, they were surprisingly displeased!”
+“This is exactly what this device is designed for,” Danny explained as he made adjustments. “I built it during Claymore’s contract with Naval Base Kitsap. I told the Navy they needed to harden their electronics against directed electromagnetic pulses. They laughed and said that EMPs are, um, ‘sci-fi hootenanny’, were their exact words. Well, I told them, ‘Give me a high-power magnetron, and I’ll show you hootenanny.’ They did, just to humor me. And when I came back and demonstrated this device to prove my point, they were surprisingly displeased…”
 </p>
 <p>
-“So <em>that’s</em> what happened to the Kitsap contract,” Jason said. “You know, the investment board never got a straight answer from you about it…”
+“So <em>that’s</em> what happened to the Kitsap contract,” Jason said. “You know, the investment board never got a straight answer from you about it.”
 </p>
 <p>
 “Yeah, well. My point is, the Coast Guard’s radar systems are the same kind as the Navy’s. Somewhere along that shoreline, there’s an automated radar station watching this stretch of water. It’s a plastic dome, about the size of a beach ball, painted to look like a rock. It’s sweeping the area with a 5-degree beam at 2.8 gigahertz…” He pulled the trigger. “…And now it’s not.”
@@ -30,7 +30,7 @@ Out past the HERF gun’s nozzle, across the the moonlit water, there spread the
 Jason asked, “That’s it? Just like that, the Coast Guard’s radar is down?”
 </p>
 <p>
-Danny nodded. “If by ‘down,’ you mean fried to a crisp. They’ll no doubt send a repair crew in the morning. But tonight, the sea is ours.”
+Danny nodded. “Fried to a crisp. They’ll no doubt send a repair crew in the morning. But tonight, the sea is ours.”
 </p>
 <p>
 “Alright then. I’ll take her in. Slowly. You go update the team.” Jason tapped the controls of the cherrywood console. A vibration quaked across the yacht. Water burbled behind the vessel.
@@ -127,9 +127,6 @@ She glared at him with a gaze so cold that her image almost began frosting the s
 </p>
 <p>
 “I hate you so much right now,” she said.
-</p>
-<p>
-He looked away meekly. “I know…”
 </p>
 <p>
 The rumble of the yacht’s engines cut out. On the deck above, Jason slung ropes to moor the yacht.

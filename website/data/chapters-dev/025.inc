@@ -13,12 +13,12 @@
 <br/>
 <strong>Title:</strong> Network handler corrupts player inventory
 <br/>
-<strong>Description:</strong> The Player class’s getInventory accessor returns a pointer to Inventory object, instead of scoped reference with a mutex lock (see PlayerNetworkHandler.cpp:2163). If a player can induce concurrent writes, random items will appear in their inventory (demonstrated in unit test #12271).
+<strong>Description:</strong> The Player class’s Inventory accessor returns a pointer instead of scoped reference with a mutex lock (see PlayerNetworkHandler.cpp:2163). If a player can induce concurrent writes, random items will appear. Demo: unit test #12271
 <br/>
 
 </div>
 <p>
-Satish typed details of the defect into the bug tracker. He was so engrossed in providing a thorough and accurate bug description that he didn’t notice someone entering his office until he heard the door close. He looked up from his monitor. The first thing he saw was a large cardboard box. The second was the man holding it. “<em>Danny?</em>”
+Satish typed details of the defect into the bug tracker, engrossed in his work. He didn’t notice someone entering his office until the door’s latch clicked closed. He looked up from his monitor. The first thing he saw was a large cardboard box. The second was the man holding it. “<em>Danny?</em>”
 </p>
 <p>
 “Hey.” Danny dropped the box. It fell lightly.
@@ -30,7 +30,7 @@ Satish eyed the box. “What’s that?”
 “This?” Danny idly kicked it with his toe. “Oh, nothing. It’s empty. I pulled it out of a recycling bin behind Building 34.”
 </p>
 <p>
-Satish shook his head. “How did you get inside the building? Do you have a visitor’s badge? Are you just walking around on Microsoft property without an escort?”
+Satish shook his head. “How did you get inside the building? Are you just walking around on Microsoft property without a visitor’s badge?”
 </p>
 <p>
 “Do you know what I just discovered a few minutes ago?” Danny said nonchalantly. “If you’re standing outside a doorway carrying a large, heavy-looking box and you act like you’re struggling to grab the door handle, then not only will people <em>not</em> ask you for ID, they’ll even hold the doors open for you.”
@@ -39,7 +39,7 @@ Satish shook his head. “How did you get inside the building? Do you have a vis
 Satish crossed his arms. “What are you doing here?”
 </p>
 <p>
-Danny sat down in a plastic chair beside the desk, near a bookshelf packed with reference manuals. Satish’s office was a dense, efficient work environment, with whiteboards, books, and paper trays organized with the intricacy of clockwork. “It appears that our project last night had some unfortunate consequences.”
+Danny sat down in a plastic chair beside the desk. “It appears that our project last night had some unfortunate consequences.”
 </p>
 <p>
 “No shit,” said Satish. “My friend is lying in a hospital bed right now with his head almost caved in.”

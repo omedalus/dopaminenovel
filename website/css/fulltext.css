@@ -7,9 +7,14 @@ body {
 }
 
 p {
-  margin-bottom: 1.2em;
+  margin-bottom: 0;
+  margin-top: 0;
   orphans: 3;
+  text-indent: 5ex;
   widows: 3;
+}
+.chapsection p:first-child {
+  text-indent: 0;
 }
 
 

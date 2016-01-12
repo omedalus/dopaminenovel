@@ -1,14 +1,13 @@
 <div class="chapsection">
 <p>
 <span class="caplead">
-Hernando Mejía wasn’t legally allowed</span>
- to be here. He spoke no English, and had no papers. He wasn’t stupid; he knew to keep his head down and his mouth shut. Stoically, he rubbed a Windex-coated cloth against the interior of the windows of the lower west wing of the Medina Gallante.
+Hernando Mejía spoke no English,</span> and had no papers. He wasn’t stupid; he knew to keep his head down and his mouth shut. Stoically, he rubbed a Windex-coated cloth against the interior of the windows of the lower west wing of the Medina Gallante.
 </p>
 <p>
 He saw motion outside. From the stone steps leading down to the wharf, a man’s head ascended into the light. A small Bluetooth device sat nestled in his ear, beneath a yellow safety helmet. He wore brown coveralls and a toolbelt, and carried a toolbox and a complex-looking device. He could’ve been a plumber or an electrician.
 </p>
 <p>
-The man proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. After 9:00 P.M., they needed a key to open from the outside. The man knocked on the glass, waved to Mejía, and said something in English. Mejía replied in Spanish, but the man simply shrugged.
+The man proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. The man knocked on the glass, waved to Mejía, and said something in English. Mejía replied in Spanish, but the man simply shrugged.
 </p>
 <p>
 Mejía weighed his options. His instincts told him to be wary. Paranoia was a virtue.
@@ -20,28 +19,28 @@ Paranoia, however, also told Mejía that, if this man was indeed simply a mainte
 Mejía opened the door.
 </p>
 <p>
-The man glided in and babbled something in English. Mejía simply gave him a thumbs-up. As the man walked off into the wide wood and marble halls of the hotel, Mejía returned to work.
+The man glided in, babbled something in English, and walked off into the wide wood and marble halls of the hotel. Mejía returned to work.
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">Lynnette Leffert was swamped.</span> The clientele of <em>Bistro</em> was awash with cash and never thought twice about paying extravagant prices for a garden salad and garlic bread, but they always made Leffert and her staff work for their profits. She’d spent the evening enduring insults about her food from a Parisian couple, sexual harassment from Kuwaiti investment bankers, and an impenetrable language barrier from Japanese technology executives. Even on the best of days, managing the premiere restaurant inside the Medina Gallante was not for the faint of heart.
+<span class="caplead">Lynnette Leffert was swamped.</span> The clientele of <em>Bistro</em> was awash with cash and never thought twice about paying extravagant prices for a garden salad and garlic bread, but they always made Leffert and her staff work for their profits. She’d spent the evening enduring culinary criticism from a Parisian couple, sexual harassment from Kuwaiti bankers, and an impenetrable language barrier from Japanese technology executives. Even on the best of days, managing the premiere restaurant inside the Medina Gallante was not for the faint of heart.
 </p>
 <p>
 She was checking the fridge inventory when Luke, the host, came to fetch her.
 </p>
 <p>
-“Hey, um, Lynette…?” said the thin, effete young man. “We’ve got some guy from Facilities here. He says he’s found some electrical problem…?”
+“Hey, um, Lynette…?” said the thin young man. “We’ve got some guy from Facilities here. He says he’s found some electrical problem…?”
 </p>
 <p>
 “Electrical problem?” she echoed, her concentration still set on counting foil-wrapped steaks.
 </p>
 <p>
-“He said it might have something to do with our computer?” said the slight young man. “Should I bring him over, or…?”
+“He said it might have something to do with our computer? Should I bring him over, or…?”
 </p>
 <p>
-Leffert shook her head. She closed the refrigerator door and marched out from the kitchen toward the front of the restaurant.
+Leffert shook her head. She closed the refrigerator door and marched out from the kitchen.
 </p>
 <p>
 <em>Bistro</em> opened out to a wide hallway that led to the elevators and lobby. Velvet ropes swooped out from the doorway, past a black easel listing the day’s specials in handwritten multi-colored chalk.

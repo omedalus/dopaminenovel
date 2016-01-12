@@ -3,19 +3,13 @@
 <span class="caplead">Beneath a star-filled sky, Jason’s yacht</span> rocked gently on wind-driven waves. “Can you make the boat hold still?” Danny insisted.
 </p>
 <p>
-On the bridge above, Jason manned the helm. “It’s on water. It’s as still as it’s going to get.”
+“It’s on water. It’s as still as it’s going to get,” said Jason from the helm. “Can you even hit anything from all the way out here?”
 </p>
 <p>
-Danny braced his HERF gun against the yacht’s handrail. “Well, it has to stop bobbing if I’m going to get a decent shot.”
+“Oh yeah,” Danny replied as he braced his HERF gun against the yacht’s handrail. “I can boost the gain up to thirty decibels. Those Coast Guard radar stations along the shore? I can knock them out from half a mile away. But boosting tightens the beam, so I need to line it up just right…”
 </p>
 <p>
-“Can you even hit anything from all the way out here?” Jason asked.
-</p>
-<p>
-“Oh yeah,” Danny replied, eyeing the gun’s indicator lamps. “I can boost the gain up to thirty decibels. Those Coast Guard radar stations along the shore? I can knock them out from half a mile away. But boosting tightens the beam, so I need to line it up just right…”
-</p>
-<p>
-Out past the HERF gun’s nozzle, across the the moonlit water, there spread the steep tree-lined banks of the Medina waterfront. And over that waterfront, dwarfing the personal mansions of tech tycoons, rose the twelve-story edifice of the Medina Gallante. Its floor-to-ceiling windows formed checkerboard patterns of iridescent green. Cobblestone pillars buttressed its walls. Sloped brown beams of cedar supported multi-leveled roofs. At the base of the hotel, a private wharf jutted out into the lake.
+Out past the HERF gun’s nozzle, across the the moonlit water, there spread the steep tree-lined banks of the Medina waterfront. And over that waterfront, dwarfing the personal mansions of tech tycoons, rose the twelve-story edifice of the Medina Gallante. Its windows formed checkerboard patterns of iridescent green. Cobblestone pillars buttressed cedar balcony awnings. At the base of the hotel, a private wharf jutted out into the lake.
 </p>
 <p>
 “This is exactly what this device is designed for,” Danny explained as he made adjustments. “I built it during Claymore’s contract with Naval Base Kitsap. I told the Navy they needed to harden their electronics against directed electromagnetic pulses. They laughed and said that EMPs are, um, ‘sci-fi hootenanny’, were their exact words. Well, I told them, ‘Give me a high-power magnetron, and I’ll show you hootenanny.’ They did, just to humor me. And when I came back and demonstrated this device to prove my point, they were surprisingly displeased…”
@@ -87,7 +81,7 @@ On a tree-lined residential road somewhere in Seattle’s eastern suburbs, a box
 “I… can’t complain…” Moshen said.
 </p>
 <p>
-Danny switched focus to Tina. Her dark hair framed her face as she looked downward, tinkering with objects offscreen. “Tina. Status?”
+Danny switched focus. “Tina. Status?”
 </p>
 <p>
 She replied with a tired half-smile, “I’ve been Betty Crockering all day. I’d never eat in this house again if I were you.”
@@ -105,13 +99,13 @@ She replied with a tired half-smile, “I’ve been Betty Crockering all day. I�
 “What does that mean?” she asked.
 </p>
 <p>
-“You know, like Uhura from Star Trek,” said Danny.
+“You know, like Uhura from Star Trek.”
 </p>
 <p>
 “Which means…?” she repeated.
 </p>
 <p>
-“The Gallante’s phone switch plugs into a Cisco VoIP system,” Danny explained, “which Mike will control. And their security guards have walkie-talkies that use a trunked P25 digital radio system with an RTP cross-bridge, which Satish will take over. We can route all voice traffic to a SIP user agent on your terminal…”
+“The Gallante’s phone switch plugs into a Cisco VoIP system,” Danny explained, “And their security guards have walkie-talkies that use a trunked P25 digital radio system with an RTP cross-bridge. We can route all voice traffic to a SIP user agent on your terminal…”
 </p>
 <p>
 “<em>Which means…?</em>”
@@ -144,7 +138,7 @@ Mike said, “Be careful, Danny. Stay out of sight.”
 Behind him, Jason descended into the cabin. “The ship’s secure. Danny, try not get killed. Come back here when you’re ready for extraction. I’ll be waiting.”
 </p>
 <p>
-“Actually, Jason,” Danny said, “there’s a very important task that I need you to handle.”
+“Actually, Jason, there’s a very important task that I need you to handle.”
 </p>
 <p>
 “What’s that?”

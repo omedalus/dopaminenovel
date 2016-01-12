@@ -126,13 +126,13 @@ Julie held up the vial. “No, this. <em>This</em> is a cocaine factory. You see
 Jason remained expressionless. “That L-Glutamine stuff…” he said, eyeing the purple labels on the jars. “Is it hard to get?”
 </p>
 <p>
-Julie looked at Jason with a face usually directed at the kid in class who eats paste. “It’s <em>glutamine</em>. It’s forty bucks a pound at any GNC store. Cheaper if you buy in bulk. And it converts to cocaine at almost 100% yield. So you’re basically making cocaine at ninety bucks a kilo.”
+Julie looked at Jason with a face usually directed at the kid in class who eats paste. “It’s <em>glutamine</em>. It’s forty bucks a pound at any GNC store.”
 </p>
 <p>
 “So, you incubate the germs in that vial, then you pour in that glutamine stuff, and then suddenly you have cocaine?”
 </p>
 <p>
-“More or less,” said Julie. “I mean, there’s a little more to it. You have to give it time to let the enzymes act, but after that you can process it just like leaves from a coca plant. Mix it with kerosene, grind it into a paste, separate with acetone, blah blah blah. The process kills the bacteria, so you need to keep a pure mother broth around. But in a nutshell, yeah.”
+“More or less,” said Julie. “You have to give it time to let the enzymes act, but after that you can process it just like leaves from a coca plant. Mix it with kerosene, grind it into a paste, separate with acetone, blah blah blah. The process kills the bacteria, so you need to keep a pure mother broth around. But in a nutshell, yeah.”
 </p>
 <p>
 Danny interrupted, “Wait, let me get this straight. This whole night, I’ve been chasing after some kind of germ that’s been injected with the gene for cocaine?”

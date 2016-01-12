@@ -138,28 +138,25 @@ Ivan eyed the vial in his hand. “That hardly matters anymore.”
 “Did we now?” Ivan said with a smirk.
 </p>
 <p>
-Passinsky’s thin lips curled downward. “Do you think I work for you because I enjoy gazing upon your face?” One look at Ivan’s eyes, and Passinsky knew he was treading very dangerous ground. “Forgive me, sir. I didn’t mean to be rude. But as a businessman, I’m sure you understand that our arrangement was supposed to further my own interests as well as yours. I have personal theories about the functioning of the brain that I’ve been waiting for <em>decades</em> to put to the test. At the Russian Academy of Sciences, my objectives were continuously sidelined by whatever pseudoscientific fixation captured the Politburo’s momentary attention. In the ’60s, it was Lysenkoism. Polywater in the ’70s. Telekinesis in the ’80s. And now, with the Soviet Union dissolved, my sole access to equipment and personnel lies in the private sector &mdash; which, in today’s Russia, means doing business with… gentlemen such as yourself. So, let there be no mistake. Your project was an intriguing diversion. But my labor for you was contingent on the understanding that, once I completed your R&amp;D goals &mdash; which I have! &mdash; then you would grant me full control of the laboratory with uninterrupted funding for the remainder of my lifetime.”
+Passinsky’s thin lips curled downward. “Do you think I work for you because I enjoy gazing upon your face?” One look at Ivan’s eyes, and Passinsky knew he was treading on very dangerous ground. “Forgive me, sir. I didn’t mean to be rude. But as a businessman, I’m sure you understand that our arrangement was supposed to further my own interests as well as yours. I have personal theories about the functioning of the brain that I’ve been waiting for <em>decades</em> to put to the test. At the Russian Academy of Sciences, my objectives were continuously sidelined by whatever pseudoscientific fixation captured the Politburo’s momentary attention. In the ’60s, it was Lysenkoism. Polywater in the ’70s. Telekinesis in the ’80s. And now, with the Soviet Union dissolved, my sole access to equipment and personnel lies in the private sector &mdash; which, in today’s Russia, means doing business with… gentlemen such as yourself. So, let there be no mistake. Your project was an intriguing diversion. But my labor for you was contingent on the understanding that, once I completed your R&amp;D goals &mdash; which I have! &mdash; then you would grant me full control of the laboratory with uninterrupted funding for the remainder of my lifetime.”
 </p>
 <p>
 Ivan replied condescendingly, “Well, that’s just it, Petya. It appears that your life simply won’t be all that long.”
 </p>
 <p>
-“Oh, I expect I have many good years left in me yet. I’ve maintained a strict nutrition and exercise regimen, and am in excellent health for a man my age.”
+“Oh, I expect I have many good years left in me yet. I’ve maintained a strict nutritional&mdash;”
 </p>
 <p>
-“Petya, I’m not referring to your age.”
+He stopped abruptly at the sensation of someone’s breath blowing down the hairs on the back of his neck. One of Ivan’s soldiers was standing behind him.
 </p>
 <p>
-Passinsky felt every muscle in his old body tense. To his side, two of the soldiers came to pick up the corduroy rug. They began smoothing it out on the floor nearby.
+“It’s a shame,” Ivan said, shaking his head. “That terrible accident you had this afternoon.”
 </p>
 <p>
-“I’m referring,” Ivan continued, “to that terribly unfortunate accident you had this afternoon.”
+Every muscle in Passinsky’s old body tensed as realization dawned.
 </p>
 <p>
-The hair on Passinsky’s neck stood on end. He felt the breath of one of the mercenaries standing inches behind him.
-</p>
-<p>
-“You know the accident I mean, yes?” Ivan said. “The one where you fell down the stairs in your house and broke your neck?”
+“A man your age really should be careful going down the stairs,” Ivan said. “So easy to fall and break your neck.”
 </p>
 <p>
 Passinsky opened his mouth to offer a response. He never got the chance.
@@ -168,6 +165,6 @@ Passinsky opened his mouth to offer a response. He never got the chance.
 A strong hand reached over Passinsky’s shoulder, grabbed his chin, and pulled. Another hand pushed the back of his head in the opposite direction.
 </p>
 <p>
-Passinsky realized bitterly that this would be a serious setback for his research.
+It occurred to Passinsky that this would be a serious setback for his research.
 </p>
 </div>

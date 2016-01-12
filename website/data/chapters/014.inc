@@ -422,13 +422,13 @@ Danny shrugged dumbly.
 “That crusty stuff is a panic room for germs?” said Danny.
 </p>
 <p>
-“Exactly,” said Tina. “They must’ve started forming it when they came out of the freezer and woke up to find themselves in glycerol solution.”
+“Exactly,” said Tina. “They must’ve started forming it when they came out of the freezer and woke up to find themselves in glycerol solution. They’re terrified out of their little wits.”
 </p>
 <p>
 “So what’s it mean for us?”
 </p>
 <p>
-“It means,” said Tina, looking closely at the vial, “that they’re still alive. They’re terrified out of their little wits, but they’re still kicking.”
+“It means,” said Tina, looking closely at the vial, “that they’re still alive.”
 </p>
 <p>
 “How long can they stay like that?” Danny asked.

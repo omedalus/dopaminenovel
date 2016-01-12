@@ -339,19 +339,13 @@ A gunshot boomed through the stairwell. A bullet struck Leo’s armor with a sha
 Danny screamed and fled. Gravity did most of the work for him as he jostled down the stairs. The flights melted into a whizzing blur before his eyes &mdash; a kaleidoscope of gray stairs, black railing, water pipes and fire alarms.
 </p>
 <p>
-Natalie’s voice appeared on the channel. “Danny, those shots are echoing all over the building. I can see people freaking out everywhere. Someone’s coming!”
-</p>
-<p>
-“What?” Danny said. “Who? Where?”
-</p>
-<p>
-“There’s two people with guns running to the stairwell,” she said.
+Natalie’s voice appeared on the channel. “Danny, there’s two people with guns running to the stairwell.”
 </p>
 <p>
 “More of Ivan’s men?”
 </p>
 <p>
-“No, just random hotel guests!” said Natalie. “At least, I <em>thought<em> they are. All over the building, everybody’s running away from the stairwell. But these two &mdash; one guy and one woman &mdash; they whipped out guns and started rushing <em>toward</em> the emergency exit. They’re both standing outside the stairwell right now &mdash; they’re on either side holding their guns out.”
+“No, just random hotel guests,” said Natalie. “At least, I <em>thought</em> they are. All over the building, everybody’s running away from the stairwell. But these two &mdash; one guy and one woman &mdash; they whipped out guns and started rushing <em>toward</em> the emergency exit. They’re both standing outside the stairwell right now &mdash; they’re on either side holding their guns out.”
 </p>
 <p>
 “What the fuck?” Danny screeched.
@@ -375,7 +369,7 @@ Danny held his breath.
 There were a few seconds of stillness. Danny gripped the railing tightly, holding every muscle taut, careful to avoid making a sound. He was a few landings below where the police had entered. <em>Both of you</em>, the woman had said, apparently referring to Leo and his attacker &mdash; meaning that they didn’t know Danny was below them. He willed himself to stay statue-like.
 </p>
 <p>
-The man above said, “Come on, buddy! I don’t care how big your gun is or how much armor you got on. How far you think you’ll make it on that bum leg?”
+The man above said, “Buddy, I don’t care how big your gun is or how much armor you got on. How far you think you’ll make it on that bum leg?”
 </p>
 <p>
 A gentle tap indicated a gun being placed on the floor. It was followed by the ratcheting clicks of handcuffs.
@@ -405,7 +399,7 @@ Below, Danny resumed descending the stairs, praying that the policeman’s voice
 Danny soon found himself stepping onto the wide landing of the ground floor. To his side, the stairs continued downward to the parking garage. Ahead, a fire door stood between him and the maintenance corridor. He opened it gently, and stepped out of the dim stairwell and into the “HOTEL STAFF ONLY” hallway, lit by harsh fluorescent tubes overhead.
 </p>
 <p>
-“Cops,” he gasped into the Bluetooth as he softly closed the door behind him. “Jesus. Tina, this whole building is going to be crawling with law enforcement soon. Tell Sergey and Eugene. They’ll need to be ready for extraction before the cavalry arrives.”
+“Cops,” he gasped into the Bluetooth. “Jesus. Tina, this whole building is going to be crawling with law enforcement soon. Tell Sergey and Eugene. They’ll need to be ready for extraction before the cavalry arrives.”
 </p>
 <p>
 “I lost them.” Tina said. “Sergey’s connection went dead, and Eugene is still on the channel but he isn’t responding.”
@@ -459,7 +453,7 @@ Moshen answered him. “Danny! I see you on camera! Sit tight!” There was the 
 “I don’t think so.” His boots slipped along the floor as the strength in his legs faltered. “Now, look… I know you and I met literally yesterday… But I just… I want you to know…”
 </p>
 <p>
-He was interrupted by a loud wailing from the hallway outside, starting far down the corridor but quickly growing closer. It was the sound of a young male voice screaming, “<em>Kyuuuuuaaaaaaaaah!</em>”
+He was interrupted by a loud wailing from the hallway outside. It was the sound of a young male voice screaming, “<em>Kyuuuuuaaaaaaaaah!</em>”
 </p>
 <p>
 There was a series of hard impacts, of grunts and smacks, of kicks in stomachs and fists in faces. Hands and heads crashed against the walls beside the closet door. It lasted for barely half a minute, and came to an abrupt stop.
@@ -468,16 +462,10 @@ There was a series of hard impacts, of grunts and smacks, of kicks in stomachs a
 Danny stood back, and let the door swing open.
 </p>
 <p>
-Moshen stood in the bright hallway. In both hands he held long, sturdy metal rods that Danny recognized as mounting brackets, pulled from the back of the Claymore Communications van. He looked unhurt. At the Asian kid’s feet, the three towel-clad men lay unconscious and bleeding.
+Moshen stood in the bright hallway. In both hands he held long, sturdy metal rods that Danny recognized as mounting brackets, pulled from the back of the Claymore Communications van. He looked unhurt. At his feet, the three towel-clad men lay unconscious and bleeding. “Come on, Danny,” he said. “Grab your zappy-gun and let’s go see what happened to Sergey.”
 </p>
 <p>
-“Moshen?” Danny gasped. “What the hell…?”
-</p>
-<p>
-“Come on, Danny!” said Moshen cheerfully. “Grab your zap-gun and let’s go check on Sergey!” 
-</p>
-<p>
-“How… How did you… How did <em>you</em>…?”
+“Moshen?” Danny gasped. “How… How did you… How did <em>you</em>…?”
 </p>
 <p>
 Moshen shrugged. “I told you when we first met, Danny: I know kung fu.”

@@ -1,14 +1,13 @@
 <div class="chapsection">
 <p>
 <span class="caplead">
-Hernando Mejía wasn’t legally allowed</span>
- to be here. He spoke no English, and had no papers. He wasn’t stupid; he knew to keep his head down and his mouth shut. Stoically, he rubbed a Windex-coated cloth against the interior of the windows of the lower west wing of the Medina Gallante.
+Hernando Mejía spoke no English,</span> and had no papers. He wasn’t stupid; he knew to keep his head down and his mouth shut. Stoically, he rubbed a Windex-coated cloth against the interior of the windows of the lower west wing of the Medina Gallante.
 </p>
 <p>
 He saw motion outside. From the stone steps leading down to the wharf, a man’s head ascended into the light. A small Bluetooth device sat nestled in his ear, beneath a yellow safety helmet. He wore brown coveralls and a toolbelt, and carried a toolbox and a complex-looking device. He could’ve been a plumber or an electrician.
 </p>
 <p>
-The man proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. After 9:00 P.M., they needed a key to open from the outside. The man knocked on the glass, waved to Mejía, and said something in English. Mejía replied in Spanish, but the man simply shrugged.
+The man proceeded toward the doors. When he pulled on their handles, they wouldn’t budge. The man knocked on the glass, waved to Mejía, and said something in English. Mejía replied in Spanish, but the man simply shrugged.
 </p>
 <p>
 Mejía weighed his options. His instincts told him to be wary. Paranoia was a virtue.
@@ -20,28 +19,28 @@ Paranoia, however, also told Mejía that, if this man was indeed simply a mainte
 Mejía opened the door.
 </p>
 <p>
-The man glided in and babbled something in English. Mejía simply gave him a thumbs-up. As the man walked off into the wide wood and marble halls of the hotel, Mejía returned to work.
+The man glided in, babbled something in English, and walked off into the wide wood and marble halls of the hotel. Mejía returned to work.
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">Lynnette Leffert was swamped.</span> The clientele of <em>Bistro</em> was awash with cash and never thought twice about paying extravagant prices for a garden salad and garlic bread, but they always made Leffert and her staff work for their profits. She’d spent the evening enduring insults about her food from a Parisian couple, sexual harassment from Kuwaiti investment bankers, and an impenetrable language barrier from Japanese technology executives. Even on the best of days, managing the premiere restaurant inside the Medina Gallante was not for the faint of heart.
+<span class="caplead">Lynnette Leffert was swamped.</span> The clientele of <em>Bistro</em> was awash with cash and never thought twice about paying extravagant prices for a garden salad and garlic bread, but they always made Leffert and her staff work for their profits. She’d spent the evening enduring culinary criticism from a Parisian couple, sexual harassment from Kuwaiti bankers, and an impenetrable language barrier from Japanese technology executives. Even on the best of days, managing the premiere restaurant inside the Medina Gallante was not for the faint of heart.
 </p>
 <p>
 She was checking the fridge inventory when Luke, the host, came to fetch her.
 </p>
 <p>
-“Hey, um, Lynette…?” said the thin, effete young man. “We’ve got some guy from Facilities here. He says he’s found some electrical problem…?”
+“Hey, um, Lynette…?” said the thin young man. “We’ve got some guy from Facilities here. He says he’s found some electrical problem…?”
 </p>
 <p>
 “Electrical problem?” she echoed, her concentration still set on counting foil-wrapped steaks.
 </p>
 <p>
-“He said it might have something to do with our computer?” said the slight young man. “Should I bring him over, or…?”
+“He said it might have something to do with our computer? Should I bring him over, or…?”
 </p>
 <p>
-Leffert shook her head. She closed the refrigerator door and marched out from the kitchen toward the front of the restaurant.
+Leffert shook her head. She closed the refrigerator door and marched out from the kitchen.
 </p>
 <p>
 <em>Bistro</em> opened out to a wide hallway that led to the elevators and lobby. Velvet ropes swooped out from the doorway, past a black easel listing the day’s specials in handwritten multi-colored chalk.
@@ -548,7 +547,7 @@ Danny stood in an undecorated emergency stairwell that ran down the full height 
 He stepped out to a wide antechamber. One side of the room was a full plate window looking out at the nighttime skyline. The door to the penthouse elevator sat closed next to the emergency exit on one end of the passageway. On the other, a large cedarwood double door stood ominously before him.
 </p>
 <p>
-Danny walked slowly across the room. He shook his head and arms limply to force himself to relax, and tapped his knuckles on the door. He stood patiently, toolbox in hand, waiting for a response.
+Danny shook his head and arms limply to force himself to relax, and tapped his knuckles on the door. He stood patiently, toolbox in hand, waiting for a response.
 </p>
 <p>
 There was shouting in Russian. After a few long moments, a lithe, aggressive man opened the door. He wordlessly bobbed his head to the side, motioning for Danny to come in.
@@ -563,13 +562,13 @@ No twelve-year-old girl was anywhere to be seen. He did, however, see Ivan Zhele
 The man descended the spiral staircase like a hawk swooping down on a field mouse. He wore a fine three-piece suit and slicked-back silver hair. Despite being the oldest and physically weakest man in the room, his presence imposed a greater sense of immediate peril than any of his bodyguards.
 </p>
 <p>
-“You come to fixing the air, yes?” he said in a dry, gravelly, impatient voice.
+“You come to fixing the air, yes?” he said in a gravelly, impatient voice.
 </p>
 <p>
 Danny found the thermostat on the wall, walked up to it, and pretended to fiddle for a few seconds. “The thermostat looks fine. I think there’s a loose heating element somewhere near the sensor,” Danny bluffed. “I’ll need to check your ducts.”
 </p>
 <p>
-He scanned the walls, and found an air vent near the ceiling. He marched toward it with as much bravado as he could muster, and pulled a chair over to the wall so he could stand on it for a closer look. The vent was about two feet wide and a foot tall. The frosty air blasted him in the face as he looked inside the faceplate, blowing around his helmet and across his ears. Holding his head level with the opening, he turned to check the view of the room. He could see most of the open downstairs area of the penthouse. This vent would serve him well.
+He scanned the walls, and found an air vent near the ceiling. He marched toward it with as much bravado as he could muster, and pulled a chair over so he could stand on it for a closer look. The vent was about two feet wide and a foot tall. The frosty air blasted him in the face as he looked inside the faceplate, blowing around his helmet and across his ears. Holding his head level with the opening, he turned to check the view of the room. He could see most of the open downstairs area of the penthouse. This vent would serve him well.
 </p>
 <p>
 With the help of a screwdriver from his toolbelt, he removed the grating. He spent several moments pretending to examine the dark interior of the air shaft.
@@ -581,7 +580,7 @@ With the help of a screwdriver from his toolbelt, he removed the grating. He spe
 The rest of his work would have to be done by sleight-of-hand.
 </p>
 <p>
-Danny picked up his toolbox and brought it up to the vent. The opening was big enough for him to rest the toolbox partway in the air duct, allowing him to use the red metal container to obscure his hands from the watchful eyes of Ivan and his men. Danny cracked the lid open and rummaged noisily through the box’s contents. Metallic echoes reflected back at him in the flowing air.
+Danny picked up his toolbox and brought it up to the vent. The opening was big enough for him to rest the toolbox partway in the air duct, obscuring his hands from the watchful eyes of Ivan and his men. Danny cracked the lid open and rummaged noisily through the box’s contents. Metallic echoes reflected back at him in the flowing air.
 </p>
 <p>
 From inside the toolbox, he inconspicuously fished out a small black device, roughly the size and shape of a pack of cigarettes. On one edge of the object, behind a lens the size of a dime, a camera iris expanded and contracted with a soft whir as it tried to accommodate the light levels of the room. Using his body to hide his actions, Danny wadded up a ball of Sticky Tack putty and used it to affix the wireless camera inside the air vent.
@@ -596,13 +595,13 @@ From his Bluetooth earpiece, Mike’s voice replied in tinny tones. “Right now
 Danny said under his breath, “Every second I’m here is a second too long. Satish, prepare to cut the air in five.” He gave the Sticky Tack one last gentle tug to make sure the camera was affixed securely, and took a deep breath. In one quick motion, he pulled his toolbox out of the vent and put the faceplate back over the opening, praying that he was fast enough to keep the Russians from seeing what he had installed behind it. He screwed the grate into place. His fingers shivered as he worked, but not from the cold. He couldn’t quite get the threads on the screws to align.
 </p>
 <p>
-As he fiddled with the cover, the wind blowing from the air vent abruptly died. A quiet stillness fell upon the room. The men and women on the balcony peeked their heads in, wondering if the repairman was finished.
+As he fiddled with the cover, the wind blowing from the air vent abruptly died. A quiet stillness fell upon the room.
 </p>
 <p>
 Danny climbed down from the chair. “Well, it appears my work here is done. Have a good day, gentlemen.” He gave Ivan a courteous nod. The balconyfolk began to file back inside.
 </p>
 <p>
-Danny’s instincts urged him to sprint out of the room, but he forced himself to maintain a professional facade. With toolbox in hand, he walked calmly toward the large cedarwood doors that stood between him and the penthouse anteroom. 
+Danny’s instincts urged him to sprint out of the room, but he forced himself to maintain a professional facade. With toolbox in hand, he walked calmly toward the large cedarwood doors that stood between him and the penthouse anteroom.
 </p>
 <p>
 And he had almost reached it before he heard a sound behind him.
@@ -644,7 +643,7 @@ In the earpiece, Danny heard his team panicking. “Sergey! Bail him out! Bail h
 With as much strength as he could conjure, Danny said, “We’re willing to negotiate.”
 </p>
 <p>
-Still chuckling, Ivan said, “Yes, I sure you are. You working for Sergey. I know this already. It is surprising, really. This…” He gestured with the spycam. “This not style of Sergey. Sergey, he more like, ‘Rahhhh! March! Go!’ Punch, kick, boom boom boom. You understand? This, this is more thinking, more like the chess. Maybe Sergey learning something as he getting older. Is too bad having to end working together like this.”
+Still chuckling, Ivan said, “Yes, I sure you are. You working for Sergey. I know this already. It is surprising, really. This…” He gestured with the spycam. “This not style of Sergey. Sergey, he more like, ‘Rahhhh! March! Go!’ Punch, kick, boom boom boom. You understand? This, this is more thinking, more like the chess. Maybe Sergey learning something as he getting older.”
 </p>
 <p>
 The Bluetooth headset buzzed with the voices of Danny’s cohorts. “We can’t just sit here!” Tina insisted. Mike replied, “There’s only one option. Satish! Moshen! Have we finished isolating the X10 controllers?”

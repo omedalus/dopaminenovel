@@ -1,6 +1,6 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Pain enveloped Mike like a cocoon.</span> It robbed him of all sense of time or direction. He felt like he was floating in the dark womb of some alien beast. He sat propped up in his hospital bed, covered in gauze, with Satish and Moshen and Natalie at his bedside keeping him awake. The pain diffused from his face to the rest of his body, until he felt it everywhere, inside and out. It sent his mind reeling, almost like a drug. The agony was borderline euphoric.
+<span class="caplead">Pain enveloped Mike like a cocoon,</span> robbing him of all sense of time or direction. He felt like he was floating in the dark womb of some alien beast. He sat propped up in his hospital bed, covered in gauze, with Satish and Moshen and Natalie at his bedside keeping him awake. The pain sent his mind reeling, almost like a drug. The agony was borderline euphoric.
 </p>
 <p>
 “It’s your endorphins kicking in,” Natalie said. “They work on your brain like morphine. That’s where the word ‘endorphin’ comes from, you know &mdash; ‘endogenous morphine.’ It’s basically natural heroin. Your body’s protecting itself. Making the damage easier to bear.”
@@ -18,7 +18,7 @@ Natalie’s attention was drawn away by a shadow on the other side of the privac
 “They know everything about me, Nat,” she was saying, her voice froggy. “They busted into my car. It was still sitting in the Tungsten parking lot. They got the registration and insurance papers and whatever else was in there. They know my address, my phone number, my Social Security Number…”
 </p>
 <p>
-Danny materialized beside her, carrying plastic bags. “Jason…” he said tensely. “I… I’m gonna need hazard pay.”
+Danny materialized beside her, carrying plastic bags. “Jason… I… I’m gonna need hazard pay.”
 </p>
 <p>
 “What the hell is going on?” Jason said.
@@ -42,7 +42,7 @@ Tina said meekly, “They want me to help them incubate the stuff in the Eppendo
 Tina eyed him suspiciously. “How do you know Julie?”
 </p>
 <p>
-Jason ignored the question. “Christina, is Julie working for these Russians?”
+“Christina, is Julie working for these Russians?” Jason asked.
 </p>
 <p>
 “I don’t know,” said Tina. “When that guy was holding me at gunpoint, he implied that she’s not exactly with them willingly.”
@@ -72,13 +72,13 @@ Tina stared at him incredulously. “You’re saying the mob is in a ‘position
 “We’re not dealing with a business here!” Tina cried. “We’re dealing with the mob!”
 </p>
 <p>
-Jason smiled. “What do you think the mob is? Whatever else may be true about them, they’re rational players. They have to watch their bottom line. I didn’t get rich by playing the lottery; I got rich by understanding what people want. So let’s try and understand these guys. What do we know about them? What can we deduce about their needs, their risks, their motivations? Anything?”
+Jason smiled. “What do you think the mob is? Whatever else may be true about them, they’re rational players. They have to watch their bottom line. I didn’t get rich by playing the lottery, you know. I made my money by understanding what people want. So let’s try and understand these guys. What do we know about them? What can we deduce about their needs, their risks, their motivations? Anything?”
 </p>
 <p>
-Danny, standing nearby, smiled wickedly. “I know a thing or two about them.” He handed a cellphone to Jason.
+Danny handed a cellphone to Jason. “I know a thing or two about them.”
 </p>
 <p>
-Jason looked at the small screen, perplexed. Slowly, his eyes went wide as understanding dawned. Satish and Moshen looked over excitedly. Mike craned his neck. Hoots and high-fives were exchanged.
+Jason looked at the small screen, perplexed at first, then excited. Satish and Moshen looked over enthusiastically. Mike craned his neck. Hoots and high-fives were exchanged.
 </p>
 <p>
 “A lot of the emails are in Russian,” said Danny. “Could you guys run them through an online translator?”
@@ -87,7 +87,7 @@ Jason looked at the small screen, perplexed. Slowly, his eyes went wide as under
 Moshen took the phone. “No problem, Danny,” he said, and twirled back to his laptop.
 </p>
 <p>
-Jason nodded approvingly. “We’ve got them by the balls and they don’t even know it. Christina, I can get you out of this. Do you trust me?”
+Jason nodded. “We’ve got them by the balls and they don’t even know it. Christina, I can get you out of this. Do you trust me?”
 </p>
 <p>
 “I don’t have much choice, do I?” she replied.
@@ -132,10 +132,10 @@ Danny suggested, “You know, that phone has GPS…” He took the Pantech from 
 Jason looked at it. “Promising, but there’s over three dozen addresses in that history list. Can we narrow it down?”
 </p>
 <p>
-“Moshen,” said Danny. “Hop on Google Maps and start looking up these addresses. They said they’re going to make her work at a factory or warehouse. Use Satellite View to check which of these are in industrial zones.” As Moshen got to work, Danny turned to Jason. “Assuming you do find this Julie girl, what’s your plan?”
+“Moshen,” said Danny. “Hop on Google Maps. They said they’re going to make her work at a factory or warehouse. Use Satellite View to check which of these addresses are in industrial zones.” As Moshen got to work, Danny turned to Jason. “Assuming you do find this Julie girl, what’s your plan?”
 </p>
 <p>
-“Bribery,” Jason answered. “Find some low-ranking worker and pay him to release Julie to us.”
+“Bribery,” Jason answered. “Find some low-ranking worker and pay him off.”
 </p>
 <p>
 Danny shook his head. “It’d have to be one hell of a bribe, Jason. A guy like that could end up at the bottom of Puget Sound.”

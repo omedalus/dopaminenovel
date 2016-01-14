@@ -93,22 +93,22 @@ Danny reached into his pocket and withdrew his data stick. “I got the source c
 Satish blinked in bewilderment. “Danny, this isn’t your fight! Have you lost your mind?”
 </p>
 <p>
-Danny smiled gently. “Quite the contrary. I think I’ve finally begun to find it.”
+“Quite the contrary. I think I’ve finally begun to find it.”
 </p>
 <p>
 Satish stared at him incredulously.
 </p>
 <p>
-Danny smiled and spoke softly. “You’re right, Satish. I could take you up on fleeing the country. I could abandon my house, my social contacts, my professional ambitions. My budding relationship with Tina. I could just drop it all, right this second, and run. But for what? Survival? At this point in my life, I’m far past the point of considering mere survival a win. I can do better. Survival is the <em>bottom</em> of Maslow’s Hierarchy. I’ve earned the right &mdash; no, the <em>obligation</em> &mdash; to reach for something higher.”
+Danny smiled and spoke softly. “You’re right, Satish. I could take you up on fleeing the country. I could abandon my house, my social contacts, my professional ambitions. My budding relationship with Tina. I could just drop it all, right this second, and run. But for what? Survival? At this point in my life, I’m far past the point of considering mere survival a win. I can do better. Reach for something higher.”
 </p>
 <p>
 “And getting involved in a drug war is your idea of ‘something higher’?” said Satish. “No pun intended.”
 </p>
 <p>
-“By itself, no,” said Danny. “But helping someone who desperately needs me right now, someone for whom I’m the only hope… That sounds like the right track.”
+“By itself, no. But helping someone who desperately needs me right now, someone for whom I’m the only hope… That sounds like the right track.”
 </p>
 <p>
-Satish scoffed, “Are you talking about that Russian guy? You feel like you need to be a hero on behalf of a cocaine dealer?”
+“Are you talking about that Russian guy? You feel like you need to be a hero on behalf of a cocaine dealer?”
 </p>
 <p>
 Danny laughed. “Do you know what cocaine <em>does</em>, Satish? It gives you a feeling of accomplishment. Just straight-up <em>gives</em> it to you. It’s no wonder people love the stuff so much, enough to keep guys like Sergey in business. Who needs to <em>actually</em> pursue dreams or achieve goals, when you can just get the resulting pride and satisfaction directly in powder form?
@@ -135,7 +135,7 @@ Danny laid the data stick on Satish’s desk, and slid it forcefully toward him.
 “Will you help me do that?” Danny said.
 </p>
 <p>
-Satish turned away from Danny to brood in quiet contemplation. Slowly, his hand moved toward the data stick lying on his desk. He tapped it rhythmically against his desk. Finally, he swung the data stick toward his workstation and plugged it into a USB port.
+Satish turned away from Danny to brood. Slowly, his hand moved toward the data stick lying on his desk. He tapped it rhythmically against his desk. Finally, he swung the data stick toward his workstation and plugged it into a USB port.
 </p>
 <p>
 “First thing we can do,” Satish said, opening colorful windows on his computer screen, “is search through all comments in the source code.”

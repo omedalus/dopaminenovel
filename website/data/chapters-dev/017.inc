@@ -39,7 +39,7 @@ She gave Jason no response, remaining as unreactive as a noble gas. Not a muscle
 “Don’t you want to get out of here?” he pressed.
 </p>
 <p>
-Julie’s lip trembled. “I want…” she scowled up at the windows of the overhead office and screamed, “…my <em>fucking blow</em>!” She grabbed a nearby piece of cardboard and threw it weakly upwards. “They fucking stole it! It’s mine, God damn it! Fuck…!” She threw herself down onto her mattress, sobbing.
+Julie’s lip trembled. “I want…” she looked up at the windows of the overhead office and screamed, “…my <em>fucking blow</em>!” She grabbed a nearby piece of cardboard and threw it weakly upwards. “They fucking stole it! It’s mine, God damn it! Fuck…!” She threw herself down onto her mattress, sobbing.
 </p>
 <p>
 Jason squatted beside her. “Julie… Are you alright?”

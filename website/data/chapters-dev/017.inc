@@ -48,10 +48,10 @@ Jason squatted beside her. “Julie… Are you alright?”
 “This is all my fault,” she said, her voice croaky. “I should have just done my job like a good little girl. I can’t do anything right.” She sniffled, wiped her nose with her sleeve, and added, “Your friend is gonna burn his hands off.”
 </p>
 <p>
-Danny was jabbing at the bottle with his HERF gun, watching the liquid jiggle back and forth. It looked like ordinary water, except for the fine white haze suspended just above its surface.
+Danny was jabbing at the bottle with his HERF gun, watching the liquid jiggle back and forth. It looked like ordinary water, except for the fine white haze suspended above its surface.
 </p>
 <p>
-Julie shuffled toward him. Without a word, she donned the black rubber gloves, strapped the goggles over her face, and gently pulled out the stopper. A translucent trail of pale vapor wafted upward. She grabbed a scrap of cardboard from the floor and waved it over the bottle, passing it through the finger of fog. Along the line of exposure, the cardboard blackened and charred. She gave the sheet a slight shake, and chunks crumbled to ash. She used the remains of the cardboard to wipe the stopper. Where it touched, the cardboard simply vanished. She re-sealed the bottle and removed her safety gear. “That’s why you don’t fuck with this stuff.”
+Julie shuffled toward him. Without a word, she donned the gloves, strapped the goggles over her face, and gently pulled out the stopper. A translucent trail of pale vapor wafted upward. She grabbed a scrap of cardboard from the floor and waved it over the bottle, passing it through the finger of fog. Along the line of exposure, the cardboard blackened and charred. She gave the sheet a slight shake, and chunks crumbled to ash. She used the remains of the cardboard to wipe the stopper. Where it touched, the cardboard simply vanished. She re-sealed the bottle and removed her safety gear. “That’s why you don’t fuck with this stuff.”
 </p>
 <p>
 Jason reached into his pocket. “Julie, listen. We brought you something…” He drew out the Eppendorf vial and extended it toward her.
@@ -63,7 +63,7 @@ Her head lifted high at the sight of it. “The mother strain!” She grabbed it
 “Can you incubate it?” asked Jason.
 </p>
 <p>
-“The second I finish a batch, the Russians will bullet through my head.”
+“The second I finish a batch, the Russians will put a bullet through my head.”
 </p>
 <p>
 “I might be able to talk them into letting you go.”

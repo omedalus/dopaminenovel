@@ -108,16 +108,7 @@ Danny smiled and spoke softly. “You’re right, Satish. I could take you up on
 “By itself, no. But helping someone who desperately needs me right now, someone for whom I’m the only hope… That sounds like the right track.”
 </p>
 <p>
-“Are you talking about that Russian guy? You feel like you need to be a hero on behalf of a cocaine dealer?”
-</p>
-<p>
-Danny laughed. “Do you know what cocaine <em>does</em>, Satish? It gives you a feeling of accomplishment. Just straight-up <em>gives</em> it to you. It’s no wonder people love the stuff so much, enough to keep guys like Sergey in business. Who needs to <em>actually</em> pursue dreams or achieve goals, when you can just get the resulting pride and satisfaction directly in powder form?
-</p>
-<p>
-“It’s a fake feeling, of course. You can’t outsmart your own mind. You yourself know perfectly well whether or not you’ve achieved your own goals, because you’re the one that defines those goals in the first place.
-</p>
-<p>
-“There’s something I’ve been starting to understand &mdash; something that may be obvious to a biologist, but I’m still wrapping my head around. Thinking, feeling, wanting, dreaming &mdash; they’re all <em>physical</em> processes. The brain chemical affected by cocaine &mdash; dopamine &mdash; is a real, measurable substance, and it plays a quantifiable role in the brain’s circuitry. When you understand how the components work, it becomes possible to analyze thoughts flowing through a human mind the same way you can analyze instructions flowing through a computer’s CPU. When a neurobiologist talks about what motivates a person, how a person perceives the world and acts on their desires… When you talk about that stuff armed with actual knowledge of how the machinery of the brain operates, you’re not talking philosophy. You’re talking engineering.
+“You know, there’s something I’ve been starting to understand &mdash; something that may be obvious to a biologist, but I’m still wrapping my head around. Thinking, feeling, wanting, dreaming &mdash; they’re all <em>physical</em> processes. The brain chemical affected by cocaine &mdash; dopamine &mdash; is a real, measurable substance, and it plays a quantifiable role in the brain’s circuitry. When you understand how the components work, it becomes possible to analyze thoughts flowing through a human mind the same way you can analyze instructions flowing through a computer’s CPU. When a neurobiologist talks about what motivates a person, how a person perceives the world and acts on their desires… When you talk about that stuff armed with actual knowledge of how the machinery of the brain operates, you’re not talking philosophy. You’re talking engineering.
 </p>
 <p>
 “I’m a Gen-X dot-com code-monkey. I’ve been programming since my hands could span a keyboard. Computers and I grew up together. I’m among the first-born children of the Information Age. I might not know anything about the mechanics of consciousness, but I do know that if you give me the schematics for an information processing system, I can bend it to my will.

@@ -474,33 +474,24 @@ Rex rolled in his wheelie-chair to the far wall and flipped a light switch. In t
 They illuminated a concrete floor twenty feet below, between walls of cinder-block and brick. The industrial space was big enough for a warehouse or machine shop, and extended beneath the overhanging office. Packing peanuts and torn-open cardboard boxes lay strewn around the floor. Throughout the room was a widely spread, haphazardly arranged array of chemistry and biology equipment, including racks of beakers and tubes, warning-labeled canisters of liquids, and machinery that looked like dishwashers, ovens, refrigerators, and water coolers.
 </p>
 <p>
-The blond man stomped loudly. The sharp pounding of his boot resounded through the industrial space below the office.
+The blond man stomped loudly. The sharp pounding of his boot resounded through the industrial space.
 </p>
 <p>
 “Rise and shine, princess!” he called out. 
 </p>
 <p>
-A faint shuffling noise rose from somewhere beneath the floor.
-</p>
-<p>
-“Come on, get up! You got company!” he yelled, and stomped some more.
-</p>
-<p>
-“Fuck off,” a young woman’s voice groaned from below.
+A faint shuffling noise rose from somewhere beneath the floor. “Fuck off,” a young woman’s voice groaned from below.
 </p>
 <p>
 “Move it, bitch! You know the drill,” he commanded. “Out where I can see you.”
 </p>
 <p>
- There was movement among the torn cardboard and packing peanuts below. Out from the space underneath the office room emerged a small Asian girl. She was dressed in an ill-fitting t-shirt, sweatpants, and bunny slippers. She had a bruised lip, but otherwise seemed unhurt.
+There was movement below. Out from the space underneath the office room emerged a young Asian woman. She was dressed in an ill-fitting t-shirt, sweatpants, and bunny slippers. She had a bruised lip, but otherwise seemed unhurt. She walked to a corner of the factory clearly visible from the open windows of the office above. 
 </p>
 <p>
-She walked to a corner of the factory clearly visible from the open windows of the office above. 
+“Good girl! Stay!” Rex shouted down to her. He put his earbuds back in, and muttered, “She’s all yours,” before resuming the video on his computer.
 </p>
 <p>
-“Good girl! Stay!” Rex shouted down to her. To Jason, he calmly said, “Go on down. She’ll behave herself.”
-</p>
-<p>
-Jason opened the door on the other side of the room, revealing an interior stairwell. Behind them, Rex put his headphone buds back into his ears and resumed a video on his computer. Danny followed Jason down the open stairwell to the factory floor below.
+Jason opened the door on the other side of the room, revealing an interior stairwell. Danny followed Jason down to the factory floor below.
 </p>
 </div>

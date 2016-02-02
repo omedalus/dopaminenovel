@@ -93,31 +93,22 @@ Danny reached into his pocket and withdrew his data stick. “I got the source c
 Satish blinked in bewilderment. “Danny, this isn’t your fight! Have you lost your mind?”
 </p>
 <p>
-Danny smiled gently. “Quite the contrary. I think I’ve finally begun to find it.”
+“Quite the contrary. I think I’ve finally begun to find it.”
 </p>
 <p>
 Satish stared at him incredulously.
 </p>
 <p>
-Danny smiled and spoke softly. “You’re right, Satish. I could take you up on fleeing the country. I could abandon my house, my social contacts, my professional ambitions. My budding relationship with Tina. I could just drop it all, right this second, and run. But for what? Survival? At this point in my life, I’m far past the point of considering mere survival a win. I can do better. Survival is the <em>bottom</em> of Maslow’s Hierarchy. I’ve earned the right &mdash; no, the <em>obligation</em> &mdash; to reach for something higher.”
+Danny smiled and spoke softly. “You’re right, Satish. I could take you up on fleeing the country. I could abandon my house, my social contacts, my professional ambitions. My budding relationship with Tina. I could just drop it all, right this second, and run. But for what? Survival? At this point in my life, I’m far past the point of considering mere survival a win. I can do better. Reach for something higher.”
 </p>
 <p>
 “And getting involved in a drug war is your idea of ‘something higher’?” said Satish. “No pun intended.”
 </p>
 <p>
-“By itself, no,” said Danny. “But helping someone who desperately needs me right now, someone for whom I’m the only hope… That sounds like the right track.”
+“By itself, no. But helping someone who desperately needs me right now, someone for whom I’m the only hope… That sounds like the right track.”
 </p>
 <p>
-Satish scoffed, “Are you talking about that Russian guy? You feel like you need to be a hero on behalf of a cocaine dealer?”
-</p>
-<p>
-Danny laughed. “Do you know what cocaine <em>does</em>, Satish? It gives you a feeling of accomplishment. Just straight-up <em>gives</em> it to you. It’s no wonder people love the stuff so much, enough to keep guys like Sergey in business. Who needs to <em>actually</em> pursue dreams or achieve goals, when you can just get the resulting pride and satisfaction directly in powder form?
-</p>
-<p>
-“It’s a fake feeling, of course. You can’t outsmart your own mind. You yourself know perfectly well whether or not you’ve achieved your own goals, because you’re the one that defines those goals in the first place.
-</p>
-<p>
-“There’s something I’ve been starting to understand &mdash; something that may be obvious to a biologist, but I’m still wrapping my head around. Thinking, feeling, wanting, dreaming &mdash; they’re all <em>physical</em> processes. The brain chemical affected by cocaine &mdash; dopamine &mdash; is a real, measurable substance, and it plays a quantifiable role in the brain’s circuitry. When you understand how the components work, it becomes possible to analyze thoughts flowing through a human mind the same way you can analyze instructions flowing through a computer’s CPU. When a neurobiologist talks about what motivates a person, how a person perceives the world and acts on their desires… When you talk about that stuff armed with actual knowledge of how the machinery of the brain operates, you’re not talking philosophy. You’re talking engineering.
+“You know, there’s something I’ve been starting to understand &mdash; something that may be obvious to a biologist, but I’m still wrapping my head around. Thinking, feeling, wanting, dreaming &mdash; they’re all <em>physical</em> processes. The brain chemical affected by cocaine &mdash; dopamine &mdash; is a real, measurable substance, and it plays a quantifiable role in the brain’s circuitry. When you understand how the components work, it becomes possible to analyze thoughts flowing through a human mind the same way you can analyze instructions flowing through a computer’s CPU. When a neurobiologist talks about what motivates a person, how a person perceives the world and acts on their desires… When you talk about that stuff armed with actual knowledge of how the machinery of the brain operates, you’re not talking philosophy. You’re talking engineering.
 </p>
 <p>
 “I’m a Gen-X dot-com code-monkey. I’ve been programming since my hands could span a keyboard. Computers and I grew up together. I’m among the first-born children of the Information Age. I might not know anything about the mechanics of consciousness, but I do know that if you give me the schematics for an information processing system, I can bend it to my will.
@@ -135,7 +126,7 @@ Danny laid the data stick on Satish’s desk, and slid it forcefully toward him.
 “Will you help me do that?” Danny said.
 </p>
 <p>
-Satish turned away from Danny to brood in quiet contemplation. Slowly, his hand moved toward the data stick lying on his desk. He tapped it rhythmically against his desk. Finally, he swung the data stick toward his workstation and plugged it into a USB port.
+Satish turned away from Danny to brood. Slowly, his hand moved toward the data stick lying on his desk. He tapped it rhythmically against his desk. Finally, he swung the data stick toward his workstation and plugged it into a USB port.
 </p>
 <p>
 “First thing we can do,” Satish said, opening colorful windows on his computer screen, “is search through all comments in the source code.”

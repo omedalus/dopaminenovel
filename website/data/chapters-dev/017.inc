@@ -6,7 +6,10 @@
 as they stepped down the interior stairs. “You told the guy I had Asperger’s?”
 </p>
 <p>
-Jason shrugged. “The best lies are based on truth.” The two of them kicked away bits of cardboard and styrofoam litter as they walked across the space. They passed fluid-filled vats, racks of glassware, and a row of 55-gallon drums marked “Kerosene” and “Acetone” and covered with hazard warnings.
+Jason shrugged. “The best lies are based on truth.”
+</p>
+<p>
+The two of them kicked away bits of packing litter as they walked past fluid-filled vats and racks of glassware. Behind them, 55-gallon drums marked “Kerosene” and “Acetone” sat stacked against the rear wall.
 </p>
 <p>
 Julie Yen stood beside a naked mattress strewn with ragged blankets. She greeted them with a scowl.
@@ -18,7 +21,7 @@ Julie Yen stood beside a naked mattress strewn with ragged blankets. She greeted
 “Right,” she scoffed.
 </p>
 <p>
-Danny paid less attention to the girl than to the supplies and equipment surrounding him. On a metal table sat an unmarked glass bottle of clear liquid, sealed with a stopper. Eye goggles and black rubber gloves lay beside it. He reached toward it.
+Danny gave her a cursory glance, then shifted his attention back to the equipment surrounding him. On a metal table sat an unmarked glass bottle of clear liquid, sealed with a stopper. He reached for it.
 </p>
 <p>
 “I wouldn’t touch that if I were you,” Julie called out.
@@ -27,37 +30,31 @@ Danny paid less attention to the girl than to the supplies and equipment surroun
 “What is it?” Danny asked.
 </p>
 <p>
-“Hydrochloric acid, eleven molar concentration. I told you idiots you only need three molar to stabilize the base. I’ll have to dilute the shit out of it.” She sighed. “Don’t know why I’m even stopping you. Go ahead, open it.”
+“Hydrochloric acid, eleven molar concentration. I told you idiots you only need three molar to stabilize the base. I’ll have to dilute the shit out of it.” She sighed. “Whatever. Go ahead, open it. I don’t care.”
 </p>
 <p>
 Jason whispered, “We’re not with the Russians, Julie. We’re here to bust you out.”
 </p>
 <p>
-She gave Jason no response, remaining as unreactive as a noble gas. Not a muscle on her face moved.
+She gave no indication of having heard him.
 </p>
 <p>
 “Don’t you want to get out of here?” he pressed.
 </p>
 <p>
-Julie’s lip trembled. “I want…” she looked up at the windows of the overhead office and screamed, “…my <em>fucking blow</em>!” She grabbed a nearby piece of cardboard and threw it weakly upwards. “They fucking stole it! It’s mine, God damn it! Fuck…!” She threw herself down onto her mattress, sobbing.
+Julie’s lip trembled. “I want…” she looked up at the windows of the overhead office and screamed, “…my <em>fucking blow</em>!” She grabbed a nearby piece of cardboard and threw it weakly upwards. “They fucking stole it! It’s mine, God damn it! Fuck…!” She sniffled, wiped her nose with her sleeve, and mumbled, “Your friend is gonna burn his hands off, by the way.”
 </p>
 <p>
-Jason squatted beside her. “Julie… Are you alright?”
+Danny, largely ignoring the conversation, was jabbing at the bottle with his HERF gun, transfixed by the liquid jiggling back and forth. It looked like ordinary water, except for the fine white haze suspended above its surface.
 </p>
 <p>
-“This is all my fault,” she said, her voice croaky. “I should have just done my job like a good little girl. I can’t do anything right.” She sniffled, wiped her nose with her sleeve, and added, “Your friend is gonna burn his hands off.”
-</p>
-<p>
-Danny was jabbing at the bottle with his HERF gun, watching the liquid jiggle back and forth. It looked like ordinary water, except for the fine white haze suspended above its surface.
-</p>
-<p>
-Julie shuffled toward him. Without a word, she donned the gloves, strapped the goggles over her face, and gently pulled out the stopper. A translucent trail of pale vapor wafted upward. She grabbed a scrap of cardboard from the floor and waved it over the bottle, passing it through the finger of fog. Along the line of exposure, the cardboard blackened and charred. She gave the sheet a slight shake, and chunks crumbled to ash. She used the remains of the cardboard to wipe the stopper. Where it touched, the cardboard simply vanished. She re-sealed the bottle and removed her safety gear. “That’s why you don’t fuck with this stuff.”
+Julie shuffled toward him. Without a word, she picked up a nearby pair of gloves and goggles, put them on, and gently pulled out the stopper. A translucent trail of pale vapor wafted upward. She grabbed a scrap of cardboard from the floor and passed it over the bottle, through the finger of fog. Along the line of exposure, the cardboard blackened and charred. She gave the sheet a slight shake, and chunks crumbled to ash. She used the remains of the cardboard to wipe the stopper. Where it touched, the cardboard simply vanished. She re-sealed the bottle and removed her safety gear. “That’s why you don’t fuck with this stuff.”
 </p>
 <p>
 Jason reached into his pocket. “Julie, listen. We brought you something…” He drew out the Eppendorf vial and extended it toward her.
 </p>
 <p>
-Her head lifted high at the sight of it. “The mother strain!” She grabbed it quickly from his grasp and held it up to her face. “It’s biofilming. That’s good. It’s supposed to. This is…!” Her eyes darted up toward the office. Her expression, momentarily eager, quickly soured again. “You shouldn’t have brought it here.”
+Her head lifted high at the sight of it. “The mother strain!” She grabbed it and held it up to her face. “It’s biofilming. That’s good. It’s supposed to. This is…!” Her eyes darted up toward the office. Her expression quickly soured again. “You shouldn’t have brought it here.”
 </p>
 <p>
 “Can you incubate it?” asked Jason.
@@ -72,7 +69,7 @@ Her head lifted high at the sight of it. “The mother strain!” She grabbed it
 “Fat chance.”
 </p>
 <p>
-“It’s worth a try,” said Jason. “But tell me more about it first.”
+“It’s worth a try,” said Jason.
 </p>
 <p>
 Julie frowned. “Can you get me some blow?”
@@ -84,7 +81,7 @@ Julie frowned. “Can you get me some blow?”
 “It’s a cocaine factory,” she said simply.
 </p>
 <p>
-Jason looked around. “Yeah, I gathered that.”
+Jason looked around the room. “Yeah, I gathered that.”
 </p>
 <p>
 Julie held up the vial. “No, this. <em>This</em> is a cocaine factory.” She pointed across the room, toward a pyramidal stack of large plastic jars labeled “L-Glutamine”. “You feed that stuff to these bacteria, and they poop out benzoylmethylecgonine.”
@@ -99,16 +96,16 @@ Julie held up the vial. “No, this. <em>This</em> is a cocaine factory.” She 
 Jason eyed the purple labels on the jars. “That L-Glutamine stuff… Is it hard to get?”
 </p>
 <p>
-Julie looked at Jason with a face usually directed at the kid in class who eats paste. “It’s <em>glutamine</em>. It’s forty bucks a pound at any GNC store.”
+Julie looked at Jason with an expression usually directed at the kid in class who eats paste. “It’s <em>glutamine</em>. It’s forty bucks a pound at any GNC store.”
 </p>
 <p>
 “So, you incubate the germs in that vial, then you pour in that glutamine stuff, and then suddenly you have cocaine?”
 </p>
 <p>
-“More or less,” said Julie. “You have to give it time to let the enzymes act, but after that you can process it just like leaves from a coca plant. Mix it with kerosene, grind it into a paste, separate with acetone, blah blah blah. The process kills the bacteria, so you need to keep a pure mother broth around. But basically, yeah.”
+“More or less,” said Julie. “You have to give it time to let the enzymes act, but after that you can process it just like leaves from a coca plant. Mix it with kerosene, grind it into a paste, separate with acetone, blah blah blah. The process does kill the bacteria, so you need to keep a pure mother broth around. But basically, yeah.”
 </p>
 <p>
-Danny interrupted, “Wait, let me get this straight. This whole night, I’ve been chasing after some kind of germ that’s been injected with the gene for cocaine?”
+“Wait, let me get this straight,” Danny said. “This whole night, I’ve been chasing after some kind of germ that’s been injected with the gene for cocaine?”
 </p>
 <p>
 Julie rolled her eyes. “There is no ‘gene for cocaine’. Cocaine isn’t a protein. It’s a crystalline tropane alkaloid. Do you have any idea how complicated its biosynthesis process is?”
@@ -117,7 +114,7 @@ Julie rolled her eyes. “There is no ‘gene for cocaine’. Cocaine isn’t a 
 “Umm… no?” Danny replied.
 </p>
 <p>
-“Look, cellular machinery can’t create cocaine directly through gene expression,” said Julie. “But it <em>can</em> create enzymes to catalyze precursors. That’s what happens in <em>Erythroxylon coca</em> &mdash; the coca plant. Unlike cocaine, enzymes <em>are</em> proteins. Enzymes <em>do</em> have genetic encodings. Which meeeeeans…” She paused, hoping that the implication would be obvious. The two men stared at her blankly. “…Which <em>means</em> that we can sequence those genes in the coca plant, and then splice them into <em>E. coli</em>. So the <em>E. coli</em> thinks they’re part of its own genome, and translates them into proteins. Got it?”
+“Look, cellular machinery can’t create cocaine directly through gene expression. But it <em>can</em> create enzymes to catalyze precursors. That’s what happens in <em>Erythroxylon coca</em> &mdash; the coca plant. Unlike cocaine, enzymes <em>are</em> proteins. Enzymes <em>do</em> have genetic encodings. Which meeeeeans…” She paused, hoping that the implication would be obvious. The two men stared at her blankly. “…Which <em>means</em> that we can sequence those genes in the coca plant, and then splice them into <em>E. coli</em>. So the <em>E. coli</em> thinks they’re part of its own genome, and translates them into proteins. Got it?”
 </p>
 <p>
 Danny nodded brightly. “Yeah!”
@@ -162,10 +159,10 @@ Julie glared at him. “I’m a key member of the research staff!”
 “You’re a college sophomore.”
 </p>
 <p>
-“God, shut the fuck up!” She stormed back to her mattress in a huff.
+She balled her small fists and roared furiously through clenched teeth. “God, shut the fuck up! You don’t understand!” She stormed to her mattress and sat down in a huff. “Just leave me alone!”
 </p>
 <p>
-Jason sat down beside her. After giving her a few moments to cool off, he asked her gently, “Tell me how it went down.”
+Jason took a deep breath, and calmly watched her for a few silent moments. Danny tried to approach, but Jason stopped him with a simple raise of his open palm. Finally, he stepped slowly toward Julie’s mattress, his face patient and kind. He sat down beside her and asked her gently, “Tell me what happened.”
 </p>
 <p>
 She picked idly at a loose thread. “Creating cocaine-producing <em>E. coli</em> wasn’t just some side-project. It’s the whole point of Tungsten. This vial is everything they’ve been working for.”
@@ -204,19 +201,19 @@ Julie nodded. “Exactly. It was my job to check on the batches. So when one of 
 “Took it.”
 </p>
 <p>
-Julie nodded. “They eventually realized that something was up. Damned if I know how. Sensor data from the robots, maybe? They were starting to suspect me after a couple weeks. But by then I’d already started making my own batches and dealing… And… And then…” She curled up on her side in a fetal position, the Eppendorf tube between her palms.
+Julie nodded. “They eventually realized that something was up. Damned if I know how. Sensor data from the robots, maybe? But by then I’d already started making my own batches and dealing… And… And then…” She curled up on her side in a fetal position, the Eppendorf tube between her palms.
 </p>
 <p>
 “Are you okay?” Jason asked.
 </p>
 <p>
-“No, I’m not fucking okay!” she sobbed. “God, I don’t understand why everything has to be so fucking hard! Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘Why not a hundred?’ I work so fucking hard… All I want is to know that I did <em>something</em> right. <em>Anything</em>. I just wanted one big score, just to be able to say to the world, ‘Look at me, fuckers! I win!’… I… I’m such a fuckup…”
+“No, I’m not fucking okay!” she sobbed. “God, I don’t understand why everything has to be so fucking hard! Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘Why not a hundred?’ I work so fucking hard… All I want is to know that I did <em>something</em> right. <em>Anything</em>…”
 </p>
 <p>
-Gently, Jason asked, “Julie… There’s one more thing I need you to explain.”
+Jason laid a hand softly on her shoulder and gave her a light shake. “Hey Julie… Julie… There’s one more thing I need you to explain.”
 </p>
 <p>
-She bolted back up furiously. “Oh fuck, come on!”
+Her sobs abated long enough for her to sit back up and focus her eyes back on him. 
 </p>
 <p>
 “You’ve told me the <em>how</em>, but not the <em>why</em>. Tungsten was working full-time to develop this living cocaine dispenser. But from a business perspective, that doesn’t make any sense. The end product is illegal to sell. What was Tungsten’s market strategy?”
@@ -231,34 +228,34 @@ She bolted back up furiously. “Oh fuck, come on!”
 “It’s a neurotransmitter,” said Julie. “It runs the nucleus accumbens, the ‘pleasure center’ of the brain. It controls motivation, excitement, attention, that kind of thing. There’s this class of drugs called DRIs &mdash; dopamine reuptake inhibitors. Wellbutrin, Ritalin, Adderall &mdash; they’re all DRIs. They jam the brain’s dopamine-draining machinery &mdash; they make dopaminergic pathways flood themselves, like running a sink with a clogged drain.”
 </p>
 <p>
-“And what effect does that have?” Jason asked.
+“What effect does that have?” Jason asked.
 </p>
 <p>
-“Well, it’s a rush. A thrill of victory, sort of. Like, if you ace a test at school, it’s how you feel at seeing that A+. Or you’re playing piano and nail an arpeggio you’ve been struggling with. Or you beat someone at a game, or win a bet…”
+“Well, it’s a rush. A thrill of victory, sort of. Like, if you ace a test at school, it’s how you feel at seeing that A+. Or you’re playing piano and nail an arpeggio you’ve been struggling with. Or you beat someone at a game. Or win a bet. Or score big in the stock market…”
 </p>
 <p>
-Jason gave a slow, knowing nod. “A cocaine high.”
+Jason nodded knowingly. “A cocaine high.”
 </p>
 <p>
 “Exactly,” Julie replied. “Cocaine is the <em>original</em> DRI. What we’re now figuring out how to do with synthetic drugs, the coca plant has been doing naturally for millions of years.”
 </p>
 <p>
-Danny stood near the center of the room, beside a cylindrical glass vat as tall as him, covered with hoses and pipes and gauges. He looked up from the dials and buttons he had been idly fiddling with, his mouth agape. “Jason! <em>You’ve</em> tried cocaine?”
+Danny looked up from the dials and buttons of a tall, cylindrical vat he had been idly fiddling with. His mouth was agape. “Jason! <em>You’ve</em> tried cocaine?”
 </p>
 <p>
-Jason rolled his eyes. “I made my first million in my mid-twenties in 1981, Danny. You do the math.” He turned his gaze back to the sullen, unwashed girl. “And I know what she’s going through right now. The withdrawal. The feeling that all your pride, all your joy, all your potential, has been drained out of your very soul, and nothing will ever make it come back. The feeling that you’re a worthless piece of human garbage who will live out the rest of your days accomplishing nothing.”
+Jason chuckled. “I made my first million in my mid-twenties in 1981, Danny. You do the math.” He turned his gaze back to the sullen, unwashed girl. “And I know what she’s going through right now. The withdrawal. The feeling that all your self-worth, all your joy, all your potential, has been drained out of your very soul, and nothing will ever make it come back.”
 </p>
 <p>
-Julie curled into her pajamas and turned away from him, remaining silent.
+Julie curled into her pajamas and turned away from him.
 </p>
 <p>
-“That’s what cocaine does, you know,” Jason continued. “Gives you a feeling of accomplishment. Just straight-up <em>gives</em> it to you &mdash; without you having to do anything to earn it. It’s great stuff, in a way. Who needs to actually pursue dreams or achieve goals, when you can just get the resulting pride and satisfaction directly in powder form?” He leaned into her and said quietly, “But you eventually learn it’s a fake feeling. You can’t outsmart your own mind. You yourself know perfectly well whether or not you’ve achieved your own goals, because you’re the one that defines those goals in the first place. And when that happens… When you reach that realization… After that point, no matter how much coke you do, it’s never, ever going to be enough. Julie… Isn’t that right?”
+“The thing about cocaine is,” Jason continued, “it gives you a feeling of accomplishment. Just straight-up <em>gives</em> it to you &mdash; without you having to do anything to earn it. It’s great stuff, in a way. Who needs to actually pursue dreams or achieve goals, when you can just snort pure pride and satisfaction right up your nose?” He leaned into her and said quietly, “But you eventually learn it’s a fake feeling. You can’t outsmart your own mind. You yourself know perfectly well whether or not you’ve achieved your own goals, because you’re the one that defines those goals in the first place. And when that happens… When you reach that realization… After that point, no matter how much you do, it’s never, ever going to be enough. Julie… Isn’t that right?”
 </p>
 <p>
 Julie jerked her head toward him and glared. “We had a deal…!”
 </p>
 <p>
-Jason stood up with a grunt. “I’ll go talk to that Rex guy upstairs. Thank you, Julie. You’ve been… helpful.”
+Jason gave her a last look and stood up with a grunt. “I’ll go talk to that Rex guy upstairs. Thank you, Julie. You’ve been… helpful.”
 </p>
 </div>
 

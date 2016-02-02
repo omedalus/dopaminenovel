@@ -34,11 +34,14 @@ Francisco’s lips trembled. “Her staple is better than your samplers, chief. 
 Eugene’s eyes narrowed. “What <em>is</em> the point, Francisco?”
 </p>
 <p>
-He murmured, “She charges a fifth of your prices.”</p>
+He murmured, “She charges a fifth of your prices.”
+</p>
 <p>
-Eugene leaned in, pulling Francisco’s face to his ear. “I don’t think I heard you right. She’s undercutting us by a <em>fifth</em>?”</p>
+Eugene leaned in, pulling Francisco’s face to his ear. “I don’t think I heard you right. She’s undercutting us by a <em>fifth</em>?”
+</p>
 <p>
-“Undercutting you <em>to</em> a fifth. What you sell for a grand, she sells for two hundred. They say she makes it locally, chief. She grows it in a tub of saltwater or something. Like with pot. What’s it called? ‘Hydroponic?’”</p>
+“Undercutting you <em>to</em> a fifth. What you sell for a grand, she sells for two hundred. They say she makes it locally, chief. She grows it in a tub of saltwater or something. Like with pot. What’s it called? ‘Hydroponic?’”
+</p>
 <p>
 Eugene rolled his eyes. “Francisco, how did you get to be a salesman without knowing shit about your product? Coca is not like hemp. A kilogram of coca leaves will only yield five grams of blow. Farms need to harvest acres of crop just to break even. You would know this if you were not an idiot.”
 </p>

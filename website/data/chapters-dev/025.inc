@@ -51,13 +51,7 @@ Danny looked away contritely. “It’s more than that. The drug lord &mdash; Se
 A moment of silence passed. Satish’s face was a complex mixture of shock, contempt, and sympathy.
 </p>
 <p>
-“There’s some kind of Russian mob war,” Danny explained. “Some kingpin kidnapped his daughter. He’s staying at the Medina Gallante hotel. Sergey is demanding that I join him to rescue her.”
-</p>
-<p>
-Satish stared at him, wordless.
-</p>
-<p>
-“I need your help.”
+“There’s some kind of Russian mob war. A kingpin kidnapped his daughter. He’s staying at the Medina Gallante hotel. Sergey is demanding that I rescue her. Satish… I need your help.”
 </p>
 <p>
 After a long pause, Satish replied, “Okay.”
@@ -75,7 +69,7 @@ After a long pause, Satish replied, “Okay.”
 “Now, is your passport valid?”
 </p>
 <p>
-Danny shook his head. “My… What?”
+“My… What?”
 </p>
 <p>
 “Flights from Sea-Tac to Chhatrapati Shivaji take between twenty to thirty hours. You can get an Indian visa on arrival. I have a brother that can meet you at the airport. He runs an English-language call center in Mumbai. I’ll ask him to set you up with a job. Now, as for buying the plane ticket…”
@@ -105,7 +99,7 @@ Danny smiled and spoke softly. “You’re right, Satish. I could take you up on
 “And getting involved in a drug war is your idea of ‘something higher’?” said Satish. “No pun intended.”
 </p>
 <p>
-“By itself, no. But helping someone who desperately needs me right now, someone for whom I’m the only hope… That sounds like the right track.”
+“By itself, no. But helping someone who desperately needs me right now, someone for whom I’m the only hope… That sounds like the right track.
 </p>
 <p>
 “You know, there’s something I’ve been starting to understand &mdash; something that may be obvious to a biologist, but I’m still wrapping my head around. Thinking, feeling, wanting, dreaming &mdash; they’re all <em>physical</em> processes. The brain chemical affected by cocaine &mdash; dopamine &mdash; is a real, measurable substance, and it plays a quantifiable role in the brain’s circuitry. When you understand how the components work, it becomes possible to analyze thoughts flowing through a human mind the same way you can analyze instructions flowing through a computer’s CPU. When a neurobiologist talks about what motivates a person, how a person perceives the world and acts on their desires… When you talk about that stuff armed with actual knowledge of how the machinery of the brain operates, you’re not talking philosophy. You’re talking engineering.

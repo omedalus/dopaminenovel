@@ -138,13 +138,13 @@ Jason stared at her quizzically. “You gene-spliced a coca plant into a laborat
 “What do you mean?” Julie replied.
 </p>
 <p>
-“How did <em>you</em> get that vial?” Jason prodded.
+“How did you get that vial?” Jason prodded.
 </p>
 <p>
 “I told you!” Julie said defiantly. “By sequencing the <em>Erythroxylon coca</em> genome…”
 </p>
 <p>
-“That answers how <em>Tungsten</em> created it,” said Jason. “It doesn’t answer how <em>you</em> ended up with it. Look, I don’t know much about science, but I do know about personnel management. The kind of engineering effort you’re describing would take years, even for a team of world-class researchers. You did <em>not</em> create it on your own as some intern summer project.”
+“That answers how <em>Tungsten</em> created it,” said Jason. “It doesn’t answer how <em>you</em> ended up with it. Look, I don’t know much about science, but I do know about personnel management. The kind of engineering effort you’re describing would take years, even for a team of world-class researchers. You did not create it on your own as some intern summer project.”
 </p>
 <p>
 “They couldn’t have finished it without me!” she protested.
@@ -162,7 +162,7 @@ Julie glared at him. “I’m a key member of the research staff!”
 She balled her small fists and roared furiously through clenched teeth. “God, shut the fuck up! You don’t understand!” She stormed to her mattress and sat down in a huff. “Just leave me alone!”
 </p>
 <p>
-Jason took a deep breath, and calmly watched her for a few silent moments. Danny tried to approach, but Jason stopped him with a simple raise of his open palm. Finally, he stepped slowly toward Julie’s mattress, his face patient and kind. He sat down beside her and asked her gently, “Tell me what happened.”
+Jason took a deep breath, and calmly watched her for a few silent moments. Danny stepped toward her awkwardly, but Jason stopped him with a simple raise of his open palm. Finally, Jason slowly approached Julie’s mattress, sat down beside her, and asked her with a gentle, soothing voice, “Tell me what happened.”
 </p>
 <p>
 She picked idly at a loose thread. “Creating cocaine-producing <em>E. coli</em> wasn’t just some side-project. It’s the whole point of Tungsten. This vial is everything they’ve been working for.”
@@ -201,25 +201,43 @@ Julie nodded. “Exactly. It was my job to check on the batches. So when one of 
 “Took it.”
 </p>
 <p>
-Julie nodded. “They eventually realized that something was up. Damned if I know how. Sensor data from the robots, maybe? But by then I’d already started making my own batches and dealing… And… And then…” She curled up on her side in a fetal position, the Eppendorf tube between her palms.
+Julie nodded. “They eventually realized that something was up. Damned if I know how. Sensor data from the robots, maybe? But by then I was already making batches of my own, and…”
 </p>
 <p>
-“Are you okay?” Jason asked.
+“You started selling it, didn’t you?”
 </p>
 <p>
-“No, I’m not fucking okay!” she sobbed. “God, I don’t understand why everything has to be so fucking hard! Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘Why not a hundred?’ I work so fucking hard… All I want is to know that I did <em>something</em> right. <em>Anything</em>…”
+Her lips curled into a shaky grin that was equal parts cocky and wistful. “I was building my own empire, man! I hired dealers at redneck dives and biker bars. You would not believe how fast the money poured in! In only a couple of weeks, I managed to take over the entire Valley Freeway corridor, from Renton to Puyallup. I could sell for cheaper than anything they’d ever seen, and I had no limit to my supply &mdash; so I was basically unstoppable.”
 </p>
 <p>
-Jason laid a hand softly on her shoulder and gave her a light shake. “Hey Julie… Julie… There’s one more thing I need you to explain.”
+Jason looked down at the uncovered mattress. “‘Unstoppable’. Right… I’m going to take a wild guess and infer that those dealers and distribution channels belonged to Sergey.”
 </p>
 <p>
-Her sobs abated long enough for her to sit back up and focus her eyes back on him. 
+Her grin disappeared. “Yeah.”
+</p>
+<p>
+Jason shook his head. “So. You were poaching an established drug lord’s workers. And encroaching on his territory. Julie… Jesus… What were you thinking?”
+</p>
+<p>
+She curled up on her side in a fetal position, the Eppendorf tube between her palms.
+</p>
+<p>
+“Of course,” Jason said with a sigh. “You thought you had a secret weapon. A disruptive technology. You thought you could outwit the entrenched powers at their own game. You had tasted the dream &mdash; the money, the power, the glamor &mdash; and you thought it was rightfully yours for the taking. You thought your fight was over &mdash; when really it was just beginning. You let yourself indulge in the fantasy of being a badass &mdash; when really you’re just a precocious child playing with forces you barely understand.”
+</p>
+<p>
+Julie started bawling. “You know what I don’t understand? Why everything has to be so fucking hard! Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘Why not a hundred?’ I work so fucking hard… All I want is to know that I did <em>something</em> right. <em>Anything</em>…”
+</p>
+<p>
+Jason laid a hand softly on her shoulder and gave her a light shake. “Hey Julie… Julie… I need you to explain one more thing.”
+</p>
+<p>
+Her sobs abated long enough for her to sit back up and focus her eyes back on him.
 </p>
 <p>
 “You’ve told me the <em>how</em>, but not the <em>why</em>. Tungsten was working full-time to develop this living cocaine dispenser. But from a business perspective, that doesn’t make any sense. The end product is illegal to sell. What was Tungsten’s market strategy?”
 </p>
 <p>
-“You mean like how to make money off of it?” asked Julie. “Fuck if I know. I was just on the science end of things. All I know are rumors. The scientists talked about medical applications. They believe the future of psychopharmacology is dopamine.”
+“You mean like how to make money off of it?” asked Julie. “All I know are rumors. The scientists talked about medical applications. They believe the future of psychopharmacology is dopamine.”
 </p>
 <p>
 “Dopamine?”

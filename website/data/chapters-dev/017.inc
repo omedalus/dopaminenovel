@@ -204,13 +204,13 @@ Julie nodded. “Exactly. It was my job to check on the batches. So when one of 
 Julie nodded. “They eventually realized that something was up. Damned if I know how. Sensor data from the robots, maybe? But by then I was already making batches of my own, and…”
 </p>
 <p>
-“You started selling it, didn’t you?”
+“You started selling it.”
 </p>
 <p>
-Her lips curled into a shaky grin that was equal parts cocky and wistful. “I was building my own empire, man! I hired dealers at redneck dives and biker bars. You would not believe how fast the money poured in! In only a couple of weeks, I managed to take over the entire Valley Freeway corridor, from Renton to Puyallup. I could sell for cheaper than anything they’d ever seen, and I had no limit to my supply &mdash; so I was basically unstoppable.”
+Her lips curled into a grin that was equal parts cocky and wistful. “I was building my own empire, man! I hired dealers at redneck dives and biker bars. You should have seen me! There I was, in these flannel-and-jeans trash pits with peanuts all over the floor, and I’m in a thousand-dollar nightclub dress and gladiator stilletos, looking like goddamned Miami Beach royalty, with guys tripping over themselves to see what I’m all about. In just two weeks, I managed to take over the entire Valley Freeway corridor, from Renton to Puyallup. You would not believe how fast the money poured in! I could sell for cheaper than anything they’d ever seen, and there was no limit to my supply &mdash; so I was basically unstoppable.”
 </p>
 <p>
-Jason looked down at the uncovered mattress. “‘Unstoppable’. Right… I’m going to take a wild guess and infer that those dealers and distribution channels belonged to Sergey.”
+Jason looked down at the uncovered mattress. “‘Unstoppable’. Right… I’m going to take a wild guess that those dealers and distribution channels belonged to Sergey.”
 </p>
 <p>
 Her grin disappeared. “Yeah.”
@@ -222,10 +222,10 @@ Jason shook his head. “So. You were poaching an established drug lord’s work
 She curled up on her side in a fetal position, the Eppendorf tube between her palms.
 </p>
 <p>
-“Of course,” Jason said with a sigh. “You thought you had a secret weapon. A disruptive technology. You thought you could outwit the entrenched powers at their own game. You had tasted the dream &mdash; the money, the power, the glamor &mdash; and you thought it was rightfully yours for the taking. You thought your fight was over &mdash; when really it was just beginning. You let yourself indulge in the fantasy of being a badass &mdash; when really you’re just a precocious child playing with forces you barely understand.”
+“Of course,” Jason said with a sigh. “You thought you had a secret weapon. A disruptive technology. You thought you could outwit the entrenched powers at their own game. You got a small taste of success, and it was too delicious to let go.”
 </p>
 <p>
-Julie started bawling. “You know what I don’t understand? Why everything has to be so fucking hard! Nothing I do ever fucking works! Nothing is ever good enough! I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘Why not a hundred?’ I work so fucking hard… All I want is to know that I did <em>something</em> right. <em>Anything</em>…”
+Julie started bawling. “Why <em>should</em> I have to let it go? Why can’t I just <em>win</em>? Why does everything have to be so fucking hard? Why can’t anything I ever do be good enough? I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘Why not a hundred?’ I work so fucking hard… All I want is to know that I did <em>something</em> right. <em>Anything</em>…”
 </p>
 <p>
 Jason laid a hand softly on her shoulder and gave her a light shake. “Hey Julie… Julie… I need you to explain one more thing.”

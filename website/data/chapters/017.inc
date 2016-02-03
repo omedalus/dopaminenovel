@@ -225,7 +225,7 @@ She curled up on her side in a fetal position, the Eppendorf tube between her pa
 “Of course,” Jason said with a sigh. “You thought you had a secret weapon. A disruptive technology. You thought you could outwit the entrenched powers at their own game. You got a small taste of success, and it was too delicious to let go.”
 </p>
 <p>
-Julie started bawling. “Why <em>should</em> I have to let it go? Why can’t I just <em>win</em>? Why does everything have to be so fucking hard? Why can’t anything I ever do be good enough? I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘Why not a hundred?’ I work so fucking hard… All I want is to know that I did <em>something</em> right. <em>Anything</em>…”
+Julie started bawling. “Why <em>should</em> I have to let it go? Why can’t I win just this once? Why is nothing I do ever good enough? I get a full scholarship to the University of Washington and my parents are like, ‘Why not Berkeley or MIT?’ I score 97% on my organic chemistry final, and they go, ‘Why not a hundred?’ I’ve worked so fucking hard…”
 </p>
 <p>
 Jason laid a hand softly on her shoulder and gave her a light shake. “Hey Julie… Julie… I need you to explain one more thing.”

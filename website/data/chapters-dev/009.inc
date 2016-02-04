@@ -87,55 +87,46 @@ She grabbed the handle of the deep-freezer’s massive metal door and yanked. Th
 
 <div class="chapsection">
 <p>
-<span class="caplead">Satish smacked the cellphone</span> out of Mike’s hand with “<span class="computer">91</span>” on the dialer. “No cops!”
+<span class="caplead">Jason smacked the cellphone</span> out of Mike’s hand with “<span class="computer">91</span>” on the dialer. “No cops!”
 </p>
 <p>
-“Look at this shit, Satish!” said Mike. “We <em>have</em> to call the police!”
+“Look at this shit, Jason!” said Mike. “We <em>have</em> to call the police!”
 </p>
 <p>
-“And tell them what, exactly?” Satish replied. “‘Oh, hi, me and my Dungeons and Dragons buddies were just hacking into this company, when we saw some scary stuff going on through their video feeds that we happened to hijack.’ Have you forgotten that what we’re doing here is illegal too?”
+“And tell them what, exactly?” Jason replied. He stood outside the car at the open window beside Mike, his arm still stretched inside. “‘Oh, hi, me and my Dungeons and Dragons buddies were just hacking into this company, when we saw some scary stuff going on through their video feeds that we happened to hijack.’ Have you forgotten that what we’re doing here is illegal too?”
 </p>
 <p>
 “You’re being paranoid,” said Mike.
 </p>
 <p>
-“No, I’m erring on the side of caution,” Satish insisted. “Let’s just mind our own business! There’s no point in risking our own necks. Let’s just let this… this whatever-is-going-on-here, let’s let it blow over, and resume the operation when everything’s nice and quiet again.”
+“With damn good reason!” Jason insisted. “Think about how much we each have to lose if any of this gets back to us &mdash; me especially. Now look, I know you’re a bunch of talented guys, and you <em>think</em> that maybe you can cover your tracks. But what if you’re wrong? Think about the kind of computer forensics experts that the cops can bring in on a case like this. They will zero in on the slightest, tiniest little mistake you could possibility make. And I can’t go home and sleep soundly tonight, or ever again, knowing that some FBI detective is out there somewhere working on hunting me down. I can’t live with that kind of constant fear. I won’t. So let’s just let this… this whatever-is-going-on-here, let’s let it blow over, and resume the operation when everything’s nice and quiet again.”
 </p>
 <p>
 Mike shook his head. “Let it ‘blow over’? But that girl in there is&mdash;!” 
 </p>
 <p>
-“She’s not our problem!” Satish insisted. 
+“She’s not our problem,” Jason said, avoiding eye contact. “I hate to say it that bluntly, but we didn’t cause her situation, so it’s not our responsibility to get her out of it.”
 </p>
 <p>
-Outside the car, Danny heard them arguing through the open window. With his gaze fixed on the live video of the dark-haired young woman held at gunpoint, Danny said to them gravely, “She <em>is</em>. She <em>is</em> our problem. This is all our fault.”
+Outside the car, Danny held his gaze on the live video of the dark-haired young woman held at gunpoint. “We <em>did</em>, though. We <em>did</em> cause this. This is all our fault.”
 </p>
 <p>
-“<em>Our</em> fault?” said Satish, incredulous. 
+“<em>Our</em> fault, Danny?” said Jason, incredulous. 
 </p>
 <p>
-“We tricked her into leaving her desk. We separated her from her computer and her phone. We created the window of opportunity for those guys to enter the building, and we deprived her of the means to call for help. <em>We</em> did this. This is on <em>us</em>.”
+Moshen, from behind them, murmured, “Our camera-spinning trick.”
 </p>
 <p>
-“No way, Danny,” said Satish. “Don’t get <em>me</em> into this. That camera trick was <em>your</em> idea.”
-</p>
-<p>
-Mike angrily barked at Satish, “Hey man, it was <em>you</em> who said we can’t proceed if she’s at her desk!” 
-</p>
-<p>
-“And you agreed!” Satish retorted. “So if anything, you’re just&mdash;”
-</p>
-<p>
-“Guys, stop…” Danny said, not so much as a command but as a plea. He looked back and forth between them and his screen. The girl in the video feed stood before the giant refrigerator, shivering. “God. Satish is right. Jason put <em>me</em> in charge…”
+Danny nodded gravely. “We lured her away from her desk. We separated her from her computer and her phone. We created the window of opportunity for those guys to enter the building, and we deprived her of the means to call for help. <em>We</em> did this. This is on <em>us</em>.” He looked back and forth between them and his screen. The girl in the video feed stood before the giant refrigerator, shivering. “God. Jason, you put <em>me</em> in charge, and I…”
 </p>
 <p>
 Jason interjected, “Whoa, Danny! I hired you to extract <em>data</em>. This project wasn’t supposed to involve <em>guns</em>!”
 </p>
 <p>
-Danny handed Jason the laptop and leaned back against the car, his hands at his temples. “But everything Satish said is true,” he muttered, his throat suddenly dry and hoarse. “I… God, I <em>don’t</em> know what I’m doing. I’m way out of my league. Sure, I can put on a <em>show</em> of competence, right? I can play at being a ’Leet Hacker Dude. And that’s perfectly good enough if there’s no actual shit hitting the fan. But when there’s the real possibility of someone getting hurt because of me… The real possibility of that girl…” He covered his face with his hands. His mind flashed on the memory of her tousled hair playing along the angles of her neck. The way her nose had scrunched up when she looked questioningly into the camera lens. Through narrowly splayed fingers, he peeked at the laptop screen. “My God, what have I done?”
+Danny handed Jason the laptop and leaned back against the car, his hands at his temples. “But I… God, I <em>don’t</em> know what I’m doing,” he said, his voice hoarse. “I’m way out of my league. Sure, I can put on a <em>show</em> of competence, right? I can play at being a ’Leet Hacker Dude. And that’s perfectly good enough if there’s no actual shit hitting the fan. But when there’s the real possibility of someone getting hurt because of me… The real possibility of that girl…” He covered his face with his hands. His mind flashed on the memory of her tousled hair playing along the angles of her neck. The way her nose had scrunched up when she looked questioningly into the camera lens. Through narrowly splayed fingers, he peeked at the laptop screen. “My God, what have I done?”
 </p>
 <p>
-Satish nodded smugly and said, “So you agree we should lay low, right?”
+Jason nodded and said, “So you agree we should lay low, right?”
 </p>
 <p>
 “<em>No!</em>” The force of Danny’s voice startled everyone, not least of which Danny himself. He shook his head vigorously, as though the motion could clear away his current reality like an Etch A Sketch doodle. “I have to <em>undo</em> this! I have to Control-Z. I have to reload an earlier save…” He turned to look at the building across the dark street. The gunman stood loitering by the front door. Danny gulped hard. “I have to go in there.”
@@ -186,19 +177,19 @@ Mike nodded his big furry head. “The cameras. You’re talking about going all
 “Not yet,” he said. “First, we need to find a way into the building…”
 </p>
 <p>
-Satish said grudgingly, “I can get you in.”
-</p>
-<p>
-“You can?” said Danny.
-</p>
-<p>
-“Yeah,” Satish answered. “I think you’re completely insane, but if you’ve decided to go get yourself killed then I guess I can help. Look at the outside camera. Zoom in on the keycard reader.”
+Mike said, “I think I can arrange that. Look at the outside camera. Zoom in on the keycard reader.”
 </p>
 <p>
 Danny pulled up the feed. As he watched, the green light popped on to indicate the door was unlocked. It stayed lit for several seconds.
 </p>
 <p>
-“A simple replay attack,” Satish explained. “When that guy opened the door, the keycard reader sent a UDP packet to an authentication database, which replied with a datagram to unlock the door. I saw it on my packet sniff, and noticed that there’s no crypto handshake. I just sent the keycard reader a copy of the authorization message.”
+“A simple replay attack,” Mike explained. “When that guy opened the door, the keycard reader sent a UDP packet to an authentication database, which replied with a datagram to unlock the door. I saw it on my packet sniff, and noticed that there’s no crypto handshake. I just sent the keycard reader a copy of the authorization message.”
+</p>
+<p>
+“Can you teach Moshen to do that?” asked Danny.
+</p>
+<p>
+Mike shrugged. “I can write a script for him to run. Should be pretty straightforward.”
 </p>
 <p>
 “Great,” Danny said with forced confidence. “Now all we need is a way to get that guy away from the front door. Let me think…” He stood staring at the ground. His body remained frozen, but his eyes darted rapidly in spastic patterns. His lips writhed with soundless mumbling. His fingers twitched as though drawing diagrams in an ethereal notebook. After a minute of fidgety silence, he looked up abruptly. “Jason. You’re part of this little Dungeons and Dragons group. How are your role-playing abilities?”
@@ -213,7 +204,7 @@ Mike cleared his throat and interjected, “He’s being extremely humble.”
 “Thanks, Mike…” Jason replied with a dubious smile. “When I was a young sales associate I did a lot of improv theater. It helped me build cold-calling skills.”
 </p>
 <p>
-“We’ll need your participation,” said Danny. “And your car. Do you have anything we can use as a weapon? A flare gun, maybe? Tire iron?”
+“We’ll need your participation,” said Danny. “And your car. Do you have anything we can use as a weapon? A flare gun, maybe?”
 </p>
 <p>
 “There’s a lug wrench in the trunk, under the spare tire,” Jason replied.
@@ -225,7 +216,7 @@ Danny turned to Mike. “You said you play hockey, right? Think you can handle b
 Mike grinned.
 </p>
 <p>
-“Moshen,” said Danny. “Get out of the car. You and Satish will stay right here.” 
+“Moshen,” said Danny. “Get out of the car. You’ll stay over here.” 
 </p>
 <p>
 “What about you, Danny?” asked Jason.

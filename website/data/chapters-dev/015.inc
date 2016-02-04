@@ -1,6 +1,6 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Pain enveloped Mike like a cocoon,</span> robbing him of all sense of time or direction. He felt like he was floating in the dark womb of some alien beast. He sat propped up in his hospital bed, covered in gauze, with Satish and Moshen and Natalie at his bedside keeping him awake. The pain sent his mind reeling, almost like a drug. The agony was borderline euphoric.
+<span class="caplead">Pain enveloped Mike like a cocoon,</span> robbing him of all sense of time or direction. He felt like he was floating in the dark womb of some alien beast. He sat propped up in his hospital bed, covered in gauze, with Moshen and Natalie at his bedside keeping him awake. The pain sent his mind reeling, almost like a drug. The agony was borderline euphoric.
 </p>
 <p>
 “It’s your endorphins kicking in,” Natalie said. “They work on your brain like morphine. That’s where the word ‘endorphin’ comes from, you know &mdash; ‘endogenous morphine.’ It’s basically natural heroin. Your body’s protecting itself. Making the damage easier to bear.”
@@ -78,7 +78,7 @@ Jason smiled. “What do you think the mob is? Whatever else may be true about t
 Danny handed a cellphone to Jason. “I know a thing or two about them.”
 </p>
 <p>
-Jason looked at the small screen, perplexed at first, then excited. Satish and Moshen looked over enthusiastically. Mike craned his neck. Hoots and high-fives were exchanged.
+Jason looked at the small screen, perplexed at first, then excited. Moshen looked over enthusiastically. Mike craned his neck. Hoots and high-fives were exchanged.
 </p>
 <p>
 “A lot of the emails are in Russian,” said Danny. “Could you guys run them through an online translator?”
@@ -246,37 +246,16 @@ Mary had a little lamb, whose fleece was white as snow.
 In reply, the Pantech chirped. Mike glanced at the screen and proudly held it up for all to see. 
 </p>
 <p>
-Satish eyed Danny reproachfully. “What kind of plan is this, Danny? So, you can forge their emails. So what?”
+Jason eyed Danny reproachfully. “What kind of plan is this, Danny? So, you can forge their emails. So what?”
 </p>
 <p>
-Danny replied, “Two words, Satish.”
+Danny replied, “Two words: Byzantine General.” 
 </p>
 <p>
-“And those would be…?” 
+All eyes in the room stared at Danny quizzically.
 </p>
 <p>
-“Byzantine General.” 
-</p>
-<p>
-Everyone besides Danny and Satish exchanged quizzical glances. 
-</p>
-<p>
-“What about it?” Satish asked.
-</p>
-<p>
-“You know how to break a Byzantine army, right?” Danny said. “Now that we can forge their emails, we can induce Byzantine failure.”
-</p>
-<p>
-“In what?” said Satish. “In their mailserver?”
-</p>
-<p>
-“No,” Danny said. “In their foot-soldiers.”
-</p>
-<p>
-Satish shook his head, aghast. “You’re insane.”
-</p>
-<p>
-“Yep!” Danny said. Turning, he asked, “Moshen, do you have a street address for us?”
+“Oh, come on!” he said, returning their gazes. “<em>None</em> of you knows how to break a Byzantine army?” He gave an exasperated sigh. “Ah well. Moshen, do you have a street address for us?”
 </p>
 <p>
 Moshen pivoted his laptop. A satellite image showed an overhead view of Seattle’s southward stretch of shipping yards lining the silty gray Duwamish River. “That looks like an industrial zone, right?”
@@ -285,6 +264,6 @@ Moshen pivoted his laptop. A satellite image showed an overhead view of Seattle�
 “Danny,” Jason asked, “what the hell is this Byzantine General thing?”
 </p>
 <p>
-“So glad you asked!” said Danny. “Grab your car keys. I’ll explain on the way.”
+“Grab your car keys,” said Danny. “I’ll explain on the way.”
 </p>
 </div>

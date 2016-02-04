@@ -78,9 +78,6 @@ Beside each message, the device displayed familiar faces.
 “<span class="computer">Wow, 50!!!! I vaguely remember it. :) I’ve got venue, catering, and entertainment all lined up. It’ll be a gala! Get plenty of rest the night before. You’re going to need it, old man! Welcome to the other side of the hill!</span>” The message was from Jason, whom Daniel hadn’t seen much of lately. Jason’s health was faltering &mdash; no technology could stop the march of time, and his age was beginning to take its toll. Nonetheless, Jason’s spirits were quite high, and his friendship with Danny and the projects of Tuttle Investment Partners brought him fulfillment.
 </p>
 <p>
-“<span class="computer">Daniel. It would be my pleasure to see you again, old friend,</span>” wrote Satish. “<span class="computer">My wife and daughters have not seen America yet, and it was very thoughtful of you to include them in the invitation. It’s a long flight from Mumbai, but we’ll make it happen.</span>”
-</p>
-<p>
 “<span class="computer">Sure! See you there!</span>” Moshen replied. Moshen still made a decent living with his web design work. He was married now, and would soon probably have kids of his own. In his spare time, he penned a popular online comic. It was about kung fu.
 </p>
 <p>

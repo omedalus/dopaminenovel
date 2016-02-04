@@ -30,10 +30,10 @@ There was some dispute over whether or not that actually happened.
 <hr/>
 
 <p>
-“I don’t care what you think I said before!” insisted Satish, a short, stout Indian man. “He has no healing spells!”
+“I don’t care what you think I said before!” insisted Moshen. “He has no healing spells!”
 </p>
 <p>
-Satish sat at the head of a lacquered table, on a leather bench that wrapped along the walls of a yacht’s wood-paneled cabin. Through round portholes, the water of Lake Washington glistened in the midday sun. The table held a disorganized pile of books, dice, and Cheetos. At the center, atop a plastic sheet with a hexagonal grid and dry-erase marker lines, stood two-inch painted pewter figurines &mdash; one axe-wielding barbarian, one wizard, and several orc figures lying face-down.
+Moshen, a scrawny Asian kid with thick glasses, sat at the head of a lacquered table, on a leather bench that wrapped along the walls of a yacht’s wood-paneled cabin. His face was mostly obscured by a laminated cardboard screen bearing pictures of knights and dragons. The table held a disorganized pile of books, dice, and Cheetos. At the center, atop a plastic sheet with a hexagonal grid, stood two-inch painted pewter figurines &mdash; one axe-wielding barbarian, one wizard, and several orc figures lying face-down.
 </p>
 <p>
 “This is bullshit!” Mike fired back, waving a handful of papers. He was dark-haired and tall, well-muscled but too fat and scruffy to show definition. “When we were in Salavina, I remember Zhan going to the Temple of Eir and learning a healing spell from the High Priestess.” He turned to his side. “Didn’t you?”
@@ -42,16 +42,10 @@ Satish sat at the head of a lacquered table, on a leather bench that wrapped alo
 Jason Tuttle sat next to Mike, chugging a soda and adding up experience points on a worn character sheet. “She taught me a prayer for good health, Mike. She didn’t grant me the authority to channel the power of her god.”
 </p>
 <p>
-“She did! She totally did! Ask Moshen!”
+“You talked me into helping you fight through these orc-infested caverns, and you can’t even cast any healing spells!?”
 </p>
 <p>
-Moshen, a scrawny Asian kid with thick glasses, sat near Mike, his nose deep in a rulebook. “Leave me out of this, man,” he said without looking up. “I’m still back at the inn, getting drunk and hitting on wenches.”
-</p>
-<p>
-Mike turned back to Jason. “You talked me into helping you fight through these orc-infested caverns, and you can’t even cast any healing spells!?”
-</p>
-<p>
-“Mike, quit being such a munchkin!” Satish railed. “It doesn’t make any sense for wizards to heal! Wizards throw lightning bolts and fireballs. Priests manipulate life energies. They operate on completely incompatible principles.”
+“Mike, quit being such a munchkin!” Moshen insisted. “It doesn’t make any sense for wizards to heal! Wizards throw lightning bolts and fireballs. Priests manipulate life energies. They operate on completely incompatible principles.”
 </p>
 <p>
 Jason shrugged. “Wizards can’t cast healing spells, dude. Everybody knows that.”
@@ -93,7 +87,7 @@ Jason wiggled his way from the table and crossed the compartment. He and Danny t
 “<em>This</em> is your hacker team?” asked Danny. “Where did you find these guys?”
 </p>
 <p>
-“They’re my gaming group,” Jason said innocently. “We play every Thursday at the Wizards of the Coast store in Crossroads Mall.”
+“They’re from my gaming group,” Jason said innocently. “We play every Thursday at the Wizards of the Coast store in Crossroads Mall.”
 </p>
 <p>
 “You play <em>Dungeons & Dragons</em>? Aren’t you like sixty? Don’t you have a wife and kids and a life and stuff?”
@@ -117,10 +111,7 @@ Jason replied coldly, “My ex-wife is none of your business.”
 Danny sighed, and turned to face the group. The men were poking through rulebooks or scribbling on papers. They looked up and mumbled greetings as he approached. “Guys. Good to meet you all. My name’s Danny. I’m the lead engineer at… um… Let’s just say I’ve overseen the demise of many small companies.”
 </p>
 <p>
-He shook hands with each of them.
-</p>
-<p>
-“Satish Srinivasan. I do whitebox testing and assembly optimization in Microsoft’s Xbox division.”
+He shook hands with both of them.
 </p>
 <p>
 “Moshen Chen. Web designer and developer. ASP.NET, Ruby on Rails, HTML 5, Angular, Closure, I do it all. You want a kick-ass website, I’m your man.”
@@ -129,7 +120,7 @@ He shook hands with each of them.
 “Mike Braun. I work at the Safeway on Queen Anne.” Danny stopped in mid-handshake. “And I’m taking Cisco certification classes at Bellevue College. Network administration &mdash; router setup, mail servers, domain name registrars, packet monitoring, that kind of stuff.”
 </p>
 <p>
-“And thinks wizards can cast <em>Cure Light Wounds</em>,” Satish interjected.
+“And thinks wizards can cast <em>Cure Light Wounds</em>,” Moshen interjected.
 </p>
 <p>
 “Oh shut up already!” Mike insisted.
@@ -138,7 +129,7 @@ He shook hands with each of them.
 “Isn’t <em>Cure Light Wounds</em> a priest spell?” said Danny before he could stop himself.
 </p>
 <p>
-“See!” said Satish, sticking his finger in Mike’s face.
+“See!” said Moshen, sticking his finger in Mike’s face.
 </p>
 <p>
 “You play?” Jason asked Danny eagerly.

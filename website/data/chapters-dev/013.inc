@@ -45,13 +45,7 @@ Jason suggested, “Why don’t you head back down to the car, Moshen? All your 
 “No way, man!” said Moshen. “This hood’s all gangbangers and drug dealers. I ain’t sitting out there by myself!”
 </p>
 <p>
-“I thought you said you know kung fu,” Danny teased.
-</p>
-<p>
-“Come on, dork,” said Satish condescendingly. “I’ll protect you.”
-</p>
-<p>
-Jason tossed Satish the keys to the SUV, and the two men turned around and left the apartment. Moshen’s sneezes receded down the hallway outside.
+“I thought you said you know kung fu,” Jason teased, tossing him the keys to the SUV. Moshen hurried out the door, his sneezes receding down the hallway outside.
 </p>
 <p>
 Natalie gave Mike some Tylenol and a glass of water. “Here, swallow these if you can.” She lifted the glass up to his mouth. Mike managed to comply.

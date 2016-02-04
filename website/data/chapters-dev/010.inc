@@ -90,7 +90,7 @@ Having lost Jason’s SUV, the man turned toward the Tungsten entrance. He thrus
 Danny crouched behind the corner of the Tungsten building, out of sight from the entrance. Beside him, his contraption whined faintly with a rising high-pitched tone, its tiny lights glowing red. “Mike, he’s coming for you,” Danny said into his cellphone. “Make sure he follows you to the stockroom. Moshen, keep him safe.”
 </p>
 <p>
-“Aye aye,” said Moshen. “Mike, Satish has you on camera, and I’ve got the guy after you. He’s in a hallway about fifty feet behind you.”
+“Aye aye,” said Moshen. “Mike, I’ve got the guy on camera. He’s in a hallway about fifty feet behind you.”
 </p>
 <p>
 Mike’s voice asked, “How do I get to the stockroom from here?”
@@ -129,7 +129,7 @@ Danny heard Mike grunting and straining. The sound was followed by a few popping
 “Holy shit!” yelled Danny. “Mike! Mike, are you alright? What’s happening?”
 </p>
 <p>
-Satish’s voice came across the call. “He looks fine. He tried to push over one of the shelves of inventory. The guy busted in on him and opened fire, but he managed to duck behind some old junk. He’s hiding behind an X-ray machine or something.”
+Moshen’s voice came across the call. “He looks fine. He tried to push over one of the shelves of inventory. The guy busted in on him and opened fire, but he managed to duck behind some old junk. He’s hiding behind an X-ray machine or something.”
 </p>
 <p>
 “What’s the guy doing?” Danny asked.
@@ -138,7 +138,7 @@ Satish’s voice came across the call. “He looks fine. He tried to push over o
 Moshen answered, “He’s crouched and ready, both hands on his gun, about thirty feet away from Mike. It looks like he doesn’t know where Mike is.”
 </p>
 <p>
-Danny cursed under his breath. “Guys, I’m going in. Satish, the front door, please.”
+Danny cursed under his breath. “Guys, I’m going in. Moshen, the front door, please.”
 </p>
 <p>
 The green light popped on above the card reader. Danny entered the building and hustled down the corridors, keeping his cellphone to his ear while carrying his contraption. Moshen’s voice guided him through the dark, unfamiliar office hallways, past strange apparatuses and doors marked with ominous warnings and hazard symbols.
@@ -147,7 +147,7 @@ The green light popped on above the card reader. Danny entered the building and 
 Jason’s voice came across the air. “I’m in position, Danny.”
 </p>
 <p>
-Satish said, “Mike’s pinned down. If he moves, he’ll get shot.”
+Moshen said, “Mike’s pinned down. If he moves, he’ll get shot.”
 </p>
 <p>
 Danny arrived at the hallway outside the stockroom. Before him was a metal door. It bore a small glass window, no bigger than a person’s face. The stockroom’s emergency lights made the square of glass emit a faint sickly yellow shine at the end of the dim hallway. On the wall was a glowing green button attached to a thin electrical conduit that ran up to the ceiling. The conduit split off and connected to a block that pressed up against a silvery rectangle at the top of the door &mdash; the armature plate of a standard magnetic lock system.

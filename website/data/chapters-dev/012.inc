@@ -360,19 +360,19 @@ They crashed into the lobby with the Russian gaining rapidly, his breath and str
 Tina looked out the glass front doors with the large frosted “W”. Outside, in the darkness of the parking lot, there flashed the distinct red and blue strobe pattern of a police car. A wave of relief washed over her. “Hey! Hey… you…”
 </p>
 <p>
-“My name’s Danny,” he said. 
+“My name’s Danny,” he said.
 </p>
 <p>
 “Look!” she said. “The cops are here! It’s all okay!”
 </p>
 <p>
-“That’s not the cops,” he replied. “That’s Satish.”
+“That’s not the cops,” he replied. “That’s Moshen.”
 </p>
 <p>
-A black SUV screeched to a halt in front of the entrance. In the SUV’s headlights, she could see two men standing in the parking lot. One looked small and scrawny with thick glasses, the other stocky and dark-skinned. They both carried open laptops on their arms.
+A black SUV screeched to a halt in front of the entrance. In the SUV’s headlights, she could see a young man standing in the parking lot. He looked small and scrawny with thick glasses, and carried an open laptop on his arm.
 </p>
 <p>
-She saw that the police car lights weren’t real. They were simply a video being played on the stocky man’s laptop.
+The police car lights weren’t real. They were simply a video being played on the scrawny kid’s laptop.
 </p>
 <p>
 The SUV let out a honk.
@@ -381,19 +381,19 @@ The SUV let out a honk.
 She grabbed her purse and hurried over to the scruffy guy. He was staring at the Russian and mumbling incoherently. She hustled him outside. The side door to the Navigator was open.
 </p>
 <p>
-The dark-skinned man helped them into the middle row of seats. “Mike! Mike, you big idiot, are you okay?” he said in an Indian accent.
+The scrawny kid helped them into the middle row of seats. “Mike! Mike, you big idiot, are you okay?”
 </p>
 <p>
-“Satish!” the injured man said. His furry, bloody face lit up with childlike glee. “I need to tell you something!”
+“Moshen!” the injured man said. His furry, bloody face lit up with childlike glee. “I need to tell you something!”
 </p>
 <p>
-“What is it, Mike?” Satish said, his face sunken with worry.
+“What is it, Mike?” Moshen said, his face sunken with worry.
 </p>
 <p>
 Mike slumped down into the far seat, resting his head against the window. “I rolled a natural twenty!”
 </p>
 <p>
-Satish answered, “What?”
+Moshen answered, “What?”
 </p>
 <p>
 “On the grapple attack,” said Mike. “Against the fighter-thief with the leather armor. You saw, right?”
@@ -498,10 +498,7 @@ Jason shook his head. “I can’t out-drive them!” he said hoarsely. They wat
 They listened. 
 </p>
 <p>
-“…No,” said Moshen.
-</p>
-<p>
-Satish said, “It’s an all-electric drive train. They don’t <em>have</em> an engine.”
+“…No,” said Moshen. “It’s an all-electric drive train. They don’t <em>have</em> an engine.”
 </p>
 <p>
 “Exactly,” Danny said. “Jason. Get us closer.”
@@ -531,7 +528,7 @@ Jason asked, “Closer?”
 “High-Energy Radio Frequency,” said Danny. “Specifically, a directional High Power Microwave emitter, but HERF more generally. It produces 3-megawatt bursts of S-band radiation in 50-nanosecond…”
 </p>
 <p>
-Satish barked, “Dude! Some other time!”
+Jason barked, “Dude! Some other time!”
 </p>
 <p>
 “Right. Sorry. Now let me think. One over ten to the two point four times four pi r squared…” Danny mumbled. His mouth kept moving even after words stopped coming out. Finally he said, “…About six poiiiint… Six point three meters.”
@@ -570,31 +567,28 @@ The suddenly unpowered Roadster, rolling along by sheer momentum, quickly recede
 Once the Roadster disappeared in the rearview mirror, Jason finally released the gas pedal, dropping the SUV down to street-legal speeds. They drove calmly, heading toward downtown Bellevue. 
 </p>
 <p>
-“Satish!” Mike drawled. “Can we tally up our experience points now?”
+“Moshen!” Mike drawled. “Can we tally up our experience points now?”
 </p>
 <p>
 Tina said, “This man needs to get to a hospital. Go to Overlake. It’s close.”
 </p>
 <p>
-“No hospitals,” said Satish. 
+“No hospitals,” said Jason. 
 </p>
 <p>
 “What?” said Tina.
 </p>
 <p>
-“Hospitals will ask questions,” Satish said.
-</p>
-<p>
-“He’s right,” said Jason. “I have a lot to lose if any of this gets back to me.”
+“Hospitals will ask questions,” Jason said.
 </p>
 <p>
 “Are you people serious?” screamed Tina. “He could slip into a coma!”
 </p>
 <p>
-Mike asked warily, “Satish…? How many hit points am I down to…?”
+Mike asked warily, “Moshen…? How many hit points am I down to…?”
 </p>
 <p>
-“I think you’re in the negatives, man,” Satish replied.
+“I think you’re in the negatives, man,” Moshen replied.
 </p>
 <p>
 Mike looked horrified. “I need Cure Light Wounds! Does anybody here know Cure Light Wounds?”
@@ -621,7 +615,7 @@ His senseless words gave Tina an idea. “I <em>do</em> know a priestess, actual
 “Head towards Swedish Medical Center, on First Hill,” Tina ordered.
 </p>
 <p>
-“I said no hospitals!” said Satish.
+“I said no hospitals!” said Jason.
 </p>
 <p>
 “Stop spazzing,” Tina said. “I have a friend that lives there. She’ll know what to do.”

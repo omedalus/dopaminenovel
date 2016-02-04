@@ -30,16 +30,34 @@ Danny nodded. “Fried to a crisp. They’ll no doubt send a repair crew in the 
 “Alright then. I’ll take her in. Slowly. You go update the team.” Jason tapped the controls of the cherrywood console. A vibration quaked across the yacht. Water burbled behind the vessel.
 </p>
 <p>
-Danny made his way across topside, and descended the stairs to the wood-paneled compartment where he had first met Mike and Moshen and Satish playing <em>Dungeons &amp; Dragons</em> the previous day. Upon the lacquered table sat several laptops, their screens showing floor plans, emails, and code. Freshly purchased cellphones and Bluetooth headsets lay on the leather bench seats.
+Danny made his way across topside, and descended the stairs to the wood-paneled compartment where he had first met Mike and Moshen playing <em>Dungeons &amp; Dragons</em> the previous day. Upon the lacquered table sat several laptops, their screens showing floor plans, emails, and code. Freshly purchased cellphones and Bluetooth headsets lay on the leather bench seats.
 </p>
 <p>
-A television on the room’s rear wall displayed the faces of Danny’s teammates in neatly tiled teleconference windows. In one corner, he could see Tina tending to glassware in his kitchen. In another, Satish examined source code. Mike and Natalie shared a feed from the hospital room, and bantered in obnoxiously cute tones. A small icon represented Moshen, available only by voice.
+A television on the room’s rear wall displayed the faces of Danny’s teammates in neatly tiled teleconference windows. In one corner, he could see Tina tending to glassware in his kitchen. Mike and Natalie shared a feed from the hospital room, and bantered in obnoxiously cute tones. A small icon represented Moshen, available only by voice.
 </p>
 <p>
 “Guys,” Danny announced. “It’s happening.”
 </p>
 <p>
-Mike responded, “I’m ready to poke through their network as soon as Satish gives me a back door. I’ve taught Nat-Nat how to work the camera feeds, so we’ll be your eyes and ears.”
+Mike responded, “I’m ready to probe their network as soon as you open a back door. Did you finish the trojan?”
+</p>
+<p>
+Danny held up a USB thumb drive, and nodded. “While poking through the RockBox source code, I found a weakness in the integration of their billing system. It was built by a different contractor than the security system. By themselves, both billing and security are pretty solid. But their connection is sloppy. I managed to write a rootkit that exploits the flaw. As soon as this program runs on a computer that accesses the Gallante’s billing system, we take complete control.”
+</p>
+<p>
+“But how do you plan to get that rootkit onto one of their computers in the first place?” asked Mike. “Remote access is not an option &mdash; you won’t be able to get it past their network firewall.”
+</p>
+<p>
+“I figured as much,” said Danny. “That’s why I plan on checking out the Gallante’s fine dining establishments.”
+</p>
+<p>
+“In person? Danny, you’ll be on your own in there at first. We can’t help you until that trojan is deployed. You’ll have to stay out of sight.”
+</p>
+<p>
+“Don’t worry. I’ve got that covered. I went and got myself…” He held up a laundry bag. From its open top hung a brown shirtsleeve. “…an invisibility suit.”
+</p>
+<p>
+“Speaking of visibility,” said Mike. “I’ve taught Nat-Nat how to work the camera feeds. She’ll be your eyes and ears.”
 </p>
 <p>
 Moshen’s voice chimed in. “‘Nat-Nat’? You call her ‘Nat-Nat’? What does she call you? ‘Snugglewumpus’?”
@@ -51,19 +69,7 @@ Natalie giggled. “Oooh, I like that one! My Snugglewumpus…”
 Mike cooed back, “I’ll totally be your Snugglewumpus!” They started making out on camera.
 </p>
 <p>
-Danny grabbed a mouse and hid their window. “Satish. Speaking of that back door, how’s our trojan coming?”
-</p>
-<p>
-“I found a weakness in the integration of their billing system,” Satish replied. “It was built by a different contractor than the security system. By themselves, both billing and security are pretty solid. But their connection is sloppy. I’ve sent you a rootkit. As soon as this program runs on a computer that accesses the Gallante’s billing system, I take complete control.”
-</p>
-<p>
-Danny checked his DropBox account. A new file awaited him.
-</p>
-<p>
-“It needs to be delivered by hand, Danny,” Satish warned. “Physically. You know what that means.”
-</p>
-<p>
-Danny nodded, and plugged his data stick into a USB port. “It means,” he said while copying files, “that I’ll be checking out the Gallante’s fine dining establishments.” Danny turned his attention to the small motionless icon. “Moshen, what’s your status?”
+Danny grabbed a mouse and hid their window. “Moshen,” he said, addressing the small motionless icon. “What’s your status?”
 </p>
 <p>
 Moshen’s disembodied voice replied, “I’m parked on a side-street five miles away.”
@@ -123,19 +129,13 @@ She glared at him with a gaze so cold that her image almost began frosting the s
 “I hate you so much right now,” she said.
 </p>
 <p>
-The rumble of the yacht’s engines cut out. On the deck above, Jason slung ropes to moor the yacht.
+The rumble of the yacht’s engines cut out.
 </p>
 <p>
 “It’s go-time, guys,” said Danny.
 </p>
 <p>
-Mike said, “Be careful, Danny. Stay out of sight.”
-</p>
-<p>
-“Don’t worry. I’ve got that covered. I went and got myself…” He held up a laundry bag. From its open top hung a brown shirtsleeve. “…an invisibility suit.”
-</p>
-<p>
-Behind him, Jason descended into the cabin. “The ship’s secure. Danny, try not get killed. Come back here when you’re ready for extraction. I’ll be waiting.”
+Behind him, Jason descended into the cabin. “The ship’s docked. Danny, try not get killed. Come back here when you’re ready for extraction. I’ll be waiting.”
 </p>
 <p>
 “Actually, Jason, there’s a very important task that I need you to handle.”

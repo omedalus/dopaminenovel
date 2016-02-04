@@ -123,16 +123,13 @@ He shook his head. “No, the fault’s not here. Your system’s fine.”
 <span class="caplead">Danny watched the old Claymore Communications van</span> roll through the gate toward a secluded corner of the hotel’s underground garage. He leaned against a concrete pillar, illuminated by jaundiced fluorescent lamps. “Did anyone see them enter?” he asked.
 </p>
 <p>
-“Negative,” Satish replied inside his earpiece. “Our virus went from the restaurant’s sale terminal to the hotel’s billing system, and from there to the security office. We control the cameras. And the garage gate, obviously.?” 
+“Negative,” Mike replied inside his earpiece. “Our virus went from the restaurant’s sale terminal to the hotel’s billing system, and from there to the security office. We control the cameras. And the garage gate, obviously.?” 
 </p>
 <p>
 Danny watched the parking barrier’s arm drop back down after the van finished passing. “And the doors?”
 </p>
 <p>
-“All ours,” Satish answered. “And the elevators. Mike is working on telephone landlines…”
-</p>
-<p>
-Mike’s voice interjected, “PSTN secured! Routing all phone calls to Tina…”
+“All ours,” Mike answered. “And the elevators. Still working on telephone landlines…” A moment later, he added, “PSTN secured! Routing all phone calls to Tina.”
 </p>
 <p>
 “Yay,” Tina said with a level of enthusiasm usually reserved for dental exams.
@@ -201,19 +198,19 @@ Sergey mumbled, “Over here, smartass,” and swung his MAC-10 out at Eugene’
 The two men laughed, and spoke in Russian with warm, familial tones.
 </p>
 <p>
-Danny’s attention was pulled away by the sound of Satish’s voice in his earpiece. “Danny, are you there?” 
+Danny’s attention was pulled away by the sound of Mike’s voice in his earpiece. “Danny, are you there?” 
 </p>
 <p>
-Danny turned away, his face hard with concentration. “Yeah, Satish. What’s up?”
+Danny turned away, his face hard with concentration. “What’s up?”
 </p>
 <p>
 “I have good news and bad news. I found several X10/IP bridges.”
 </p>
 <p>
-“That’s <em>spectacular</em> news,” said Danny. “What’s the bad news?”
+“That’s <em>spectacular</em>,” said Danny. “What’s the bad news?”
 </p>
 <p>
-“There’s a huge number of X10 controllers in the building,” said Satish. “Mike and I can’t tell which ones correspond to the penthouse. We need to go through them one by one to figure it out.”
+“There’s a huge number of X10 controllers in the building,” said Mike. “I can’t tell which ones correspond to the penthouse. We need to go through them one by one to figure it out.”
 </p>
 <p>
 “I’ll get you additional manpower,” said Danny. “Moshen! This X10 issue. Can you help?”
@@ -592,7 +589,7 @@ Trusting the rattle of the cold, windy air to obscure his voice from the Russian
 From his Bluetooth earpiece, Mike’s voice replied in tinny tones. “Right now all we can see is you, but it should be good enough for situational awareness once you’re out of there.”
 </p>
 <p>
-Danny said under his breath, “Every second I’m here is a second too long. Satish, prepare to cut the air in five.” He gave the Sticky Tack one last gentle tug to make sure the camera was affixed securely, and took a deep breath. In one quick motion, he pulled his toolbox out of the vent and put the faceplate back over the opening, praying that he was fast enough to keep the Russians from seeing what he had installed behind it. He screwed the grate into place. His fingers shivered as he worked, but not from the cold. He couldn’t quite get the threads on the screws to align.
+Danny said under his breath, “Every second I’m here is a second too long. Mike, prepare to cut the air in five.” He gave the Sticky Tack one last gentle tug to make sure the camera was affixed securely, and took a deep breath. In one quick motion, he pulled his toolbox out of the vent and put the faceplate back over the opening, praying that he was fast enough to keep the Russians from seeing what he had installed behind it. He screwed the grate into place. His fingers shivered as he worked, but not from the cold. He couldn’t quite get the threads on the screws to align.
 </p>
 <p>
 As he fiddled with the cover, the wind blowing from the air vent abruptly died. A quiet stillness fell upon the room.
@@ -646,7 +643,7 @@ With as much strength as he could conjure, Danny said, “We’re willing to neg
 Still chuckling, Ivan said, “Yes, I sure you are. You working for Sergey. I know this already. It is surprising, really. This…” He gestured with the spycam. “This not style of Sergey. Sergey, he more like, ‘Rahhhh! March! Go!’ Punch, kick, boom boom boom. You understand? This, this is more thinking, more like the chess. Maybe Sergey learning something as he getting older.”
 </p>
 <p>
-The Bluetooth headset buzzed with the voices of Danny’s cohorts. “We can’t just sit here!” Tina insisted. Mike replied, “There’s only one option. Satish! Moshen! Have we finished isolating the X10 controllers?”
+The Bluetooth headset buzzed with the voices of Danny’s cohorts. “We can’t just sit here!” Tina insisted. Mike replied, “There’s only one option! Have we finished isolating the X10 controllers?”
 </p>
 <p>
 Danny knew what his team was trying to do. With the gun still pressed to his chest, Danny mumbled, “I didn’t intend to be in the room for this. But I guess it doesn’t matter now, does it?” He looked at Ivan defiantly and said, “So, are you ready to start making a deal?”
@@ -655,7 +652,7 @@ Danny knew what his team was trying to do. With the gun still pressed to his che
 Ivan smirked. “<em>Deal</em>? Here making ‘deal’. We killing you soon, but not right now. First we having with you a little ‘conversation’. This man here, he is expert at having ‘conversations’ like this.” Ivan gestured to the lithe man holding the gun at Danny’s ribs. The man grunted happily. “You will telling us everything about where is Sergey and how you working with him. Then, when you done telling us, we finally letting you die. That is ‘deal’, understand?”
 </p>
 <p>
-In the earpiece, Satish said, “X10 packet injection check, receiver firmware mod check…” Mike pressed, “Then let’s do it already!”
+In the earpiece, Mike said, “X10 packet injection check, receiver firmware mod check… Let’s do it already!”
 </p>
 <p>
 Ivan leaned toward Danny. “Ah, so quiet! You having no last words?”

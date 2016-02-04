@@ -7,6 +7,6 @@ $ACT_BREAKS = array(
   2 => 'Act I',
   13 => 'Act II',
   22 => 'Act III',
-  31 => 'Epilogue'
+  30 => 'Epilogue'
 );
 

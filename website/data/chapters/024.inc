@@ -410,7 +410,7 @@ Messages began appearing in the windows on Danny’s display. He silently pumped
 The young man squawked, “Did it work? It doesn’t look like it’s doing anything…”
 </p>
 <p>
-“Oh, it’s doing stuff, alright!” Danny assured. “Don’t close that window, okay? I’ll terminate it when… I mean, it’ll terminate on its own when it’s done. Just leave it open. Thank you, young man. You’ve been… <em>helpful</em>.” He ended the call.
+“Oh, it’s doing stuff, alright!” Danny assured. “Don’t close that window, okay? I’ll terminate it when… I mean, it’ll terminate on its own when it’s done. Just leave it open. Thank you, young man! Have an <em>excellent</em> career!” He ended the call.
 </p>
 <p>
 Sergey stared at him in confusion. “What the hell was that?”
@@ -428,7 +428,13 @@ Danny moved his mouse cursor over a block of text. It read, “<span class="comp
 Sergey asked, “And with this you can get me into hotel?”
 </p>
 <p>
-“With this, we can perform whitebox analysis of their integrated security framework,” Danny explained. “If we can find and exploit some flaw, we might be able to take over the system. No code project is ever completely free of defects, especially not one with this many different components and built by this many different people. There has to be a chink somewhere in this armor. It’s just a matter of finding it.”
+“With this, we can perform whitebox analysis of their integrated security framework,” Danny explained. “We can study how the engineers of this system went about building it, and read notes that they left for themselves in the comments of their code. By examining their unit tests, we’ll see which parts of the system they paid extra attention to &mdash; and which parts they didn’t. We can study the message-passing framework between different subsystems, and&mdash;”
+</p>
+<p>
+Sergey wrung his hands in frustration. “What is any of this <em>mean</em>?”
+</p>
+<p>
+“It means we might be able to find a flaw and exploit it. And, if the flaw is bad enough, maybe even take over the entire system. No code project is ever completely free of defects, especially not one with this many different components and built by this many different people. There has to be a chink somewhere in this armor. We just have to find it.”
 </p>
 <p>
 “You need how much time to do this?” Sergey demanded. “A day? Two?” 
@@ -440,18 +446,24 @@ Danny laughed humorlessly. “Sergey, something like this could take months.”
 “You are full of shit,” Sergey grumbled.
 </p>
 <p>
-Danny loaded one of the source code files into an editor and expanded it to full-screen. Countless multicolored blocks of text overwhelmed the display. “Can <em>you</em> read that?”
+Danny loaded one of the source code files into an editor and expanded it full-screen. Countless multicolored blocks of text overwhelmed the display. “Can <em>you</em> read that?”
 </p>
 <p>
 “This is what you are for,” Sergey retorted.
 </p>
 <p>
-Danny shook his head. “Looking for defects in source code is a very specialized art. I can’t do this alone. I need to bring more people into this.”
+Danny shook his head. “Looking for defects in source code is a very specialized art. I can’t do this alone. I need to bring more people in.”
 </p>
 <p>
-Sergey looked at him coldly. “There is no other choice, is there? Very well. You need help? Go get it.”
+Sergey looked at him coldly. “There is no other choice, is there?” He slowly bowed his large head, remaining silent for several long seconds. “I have no way to make you cooperate,” he finally growled, almost choking on the words. “I know if I let you reach help, you will think your way around any threat I can make. Maybe you will call police. Maybe you will run away. You are smart. That is entire reason why I need you. And that is also reason why I cannot control you.” He looked up at Danny. His eyes were reddened and moist. “This is my daughter. Zheleznov has stolen her. Do you know what he plans to do to her? Daniel… Please… <em>You must not let him take her back to Saint Petersburg!</em>”
 </p>
 <p>
-Danny nodded. “I know just the man for the job.”
+Danny gulped, and looked him in the eye. “If… <em>If</em> I agree to help you… I would <em>only</em> do it for the sake of your daughter.”
+</p>
+<p>
+In a tone so low that it was almost inaudible, Sergey said, “As long as you do it.” He swept his thick arm in the direction of Danny’s phone. “You need help for this hacking? Go get it.”
+</p>
+<p>
+Danny nodded. “I know just the men for the job.”
 </p>
 </div>

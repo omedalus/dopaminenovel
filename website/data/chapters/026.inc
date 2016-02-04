@@ -1,170 +1,149 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Pyotr Passinsky watched calmly</span> as one of the Russian bodyguards blasted another’s skull open with a Dragunov rifle. 
+<span class="caplead">Beneath a star-filled sky, Jason’s yacht</span> rocked gently on wind-driven waves. “Can you make the boat hold still?” Danny insisted.
 </p>
 <p>
-“Boom! Headshot!” the sniper cheered.
+“It’s on water. It’s as still as it’s going to get,” said Jason from the helm. “Can you even hit anything from all the way out here?”
 </p>
 <p>
-“Son of a bitch!” yelled the victim, and slammed his PlayStation controller on the glass coffee table. 
+“Oh yeah,” Danny replied as he braced his HERF gun against the yacht’s handrail. “I can boost the gain up to thirty decibels. Those Coast Guard radar stations along the shore? I can knock them out from half a mile away. But boosting tightens the beam, so I need to line it up just right…”
 </p>
 <p>
-“Easy, brother!” the assassin said, laughing. “It’s not the table’s fault you suck ass.”
+Out past the HERF gun’s nozzle, across the the moonlit water, there spread the steep tree-lined banks of the Medina waterfront. And over that waterfront, dwarfing the personal mansions of tech tycoons, rose the twelve-story edifice of the Medina Gallante. Its windows formed checkerboard patterns of iridescent green. Cobblestone pillars buttressed cedar balcony awnings. At the base of the hotel, a private wharf jutted out into the lake.
 </p>
 <p>
-“Shut it, dick-muncher,” he replied. “I’ve seen you with a real Dragunov. You can’t shoot your way out of a wet paper bag.”
+“This is exactly what this device is designed for,” Danny explained as he made adjustments. “I built it during Claymore’s contract with Naval Base Kitsap. I told the Navy they needed to harden their electronics against directed electromagnetic pulses. They laughed and said that EMPs are, um, ‘sci-fi hootenanny’, were their exact words. Well, I told them, ‘Give me a high-power magnetron, and I’ll show you hootenanny.’ They did, just to humor me. And when I came back and demonstrated this device to prove my point, they were surprisingly displeased…”
 </p>
 <p>
-Another mercenary broke away from a heavy petting session with a waifish whore in one corner of the wide leather couch. He slid over and grabbed the controller. “My turn!”
+“So <em>that’s</em> what happened to the Kitsap contract,” Jason said. “You know, the investment board never got a straight answer from you about it.”
 </p>
 <p>
-Passinsky, for his part, merely gazed at the graphics, marveling over the game system’s capabilites. 
+“Yeah, well. My point is, the Coast Guard’s radar systems are the same kind as the Navy’s. Somewhere along that shoreline, there’s an automated radar station watching this stretch of water. It’s a plastic dome, about the size of a beach ball, painted to look like a rock. It’s sweeping the area with a 5-degree beam at 2.8 gigahertz…” He pulled the trigger. “…And now it’s not.”
 </p>
 <p>
-They sat in a red-carpeted sunken living room inside the Presidential Suite of the Medina Gallante, a luxurious penthouse built of cedar, marble, and glass. The young men had co-opted the enormous TV hanging on one wall to rowdily challenge each other in <em>Call of Duty</em>. Throughout the suite, a dozen or so brash men in their twenties and thirties chatted and drank beer and fiddled with loaded handguns.
+Jason asked, “That’s it? Just like that, the Coast Guard’s radar is down?”
 </p>
 <p>
-On the coffee table, there sat a crystal punch-bowl filled with fine white powder. It was freely available to the men to enjoy at their discretion. At the moment, the contents of the bowl were being gently picked at by the hot-pink fingernails of an anorexic young woman with more make-up than clothing. She, too, was there strictly for the men’s enjoyment, provided free of charge as a perk of employment by Ivan Zheleznov.
+Danny nodded. “Fried to a crisp. They’ll no doubt send a repair crew in the morning. But tonight, the sea is ours.”
 </p>
 <p>
-A spiral staircase wound upwards through the high ceiling to the bedrooms above. French doors opened to a balcony overlooking Lake Washington and the Seattle skyline, the city silhouetted in rich hues of orange and pink as the sun set behind the Olympic Mountains.
+“Alright then. I’ll take her in. Slowly. You go update the team.” Jason tapped the controls of the cherrywood console. A vibration quaked across the yacht. Water burbled behind the vessel.
 </p>
 <p>
-There was a commotion outside the room. The men perked their ears. With a press of a button, the video game system went mute.
+Danny made his way across topside, and descended the stairs to the wood-paneled compartment where he had first met Mike and Moshen and Satish playing <em>Dungeons &amp; Dragons</em> the previous day. Upon the lacquered table sat several laptops, their screens showing floor plans, emails, and code. Freshly purchased cellphones and Bluetooth headsets lay on the leather bench seats.
 </p>
 <p>
-The entrance of the Presidential Suite of the Medina Gallante was a pair of large cedar doors, latched with wide curving brass handles. One of those handles turned.
+A television on the room’s rear wall displayed the faces of Danny’s teammates in neatly tiled teleconference windows. In one corner, he could see Tina tending to glassware in his kitchen. In another, Satish examined source code. Mike and Natalie shared a feed from the hospital room, and bantered in obnoxiously cute tones. A small icon represented Moshen, available only by voice.
 </p>
 <p>
-In a blink, handguns leaped from holsters and pointed at the door. Metallic clicks echoed through the room as safeties switched off, hammers cocked, cylinders spun, and slides latched.
+“Guys,” Danny announced. “It’s happening.”
 </p>
 <p>
-Through the door came a rasping, gravelly voice. “Easy, boys! It’s just me!” The double doors swung open, pushed apart by the arms of a cavalier middle-aged man in a three-piece suit. In the entryway stood the silver-haired, beak-nosed figure of Ivan Zheleznov. He strutted in like a king among loyal peasants. The mercenaries hooted greetings.
+Mike responded, “I’m ready to poke through their network as soon as Satish gives me a back door. I’ve taught Nat-Nat how to work the camera feeds, so we’ll be your eyes and ears.”
 </p>
 <p>
-Passinsky rose from the deep couch. He stood humbly and greeted Ivan with a deferential nod.
+Moshen’s voice chimed in. “‘Nat-Nat’? You call her ‘Nat-Nat’? What does she call you? ‘Snugglewumpus’?”
 </p>
 <p>
-“Ah, Petya!” said Ivan. “You and I will settle up in a minute. For now, my brothers, show some love! We have a special guest!”
+Natalie giggled. “Oooh, I like that one! My Snugglewumpus…”
 </p>
 <p>
-Three men followed him, carrying a rolled-up corduroy rug. The cylindrical mass sagged and drooped, defying their efforts to haul it through the doorway. Passinsky realized that the rug itself was squirming and bucking, trying to wriggle out of their grasp.
+Mike cooed back, “I’ll totally be your Snugglewumpus!” They started making out on camera.
 </p>
 <p>
-Just inside the doorway, once the doors were closed, it succeeded. The rolled-up rug hit the floor and emitted a muffled, high-pitched grunt. It writhed on the ground of its own accord, making tiny growling sounds, and began to unfurl.
+Danny grabbed a mouse and hid their window. “Satish. Speaking of that back door, how’s our trojan coming?”
 </p>
 <p>
-From out of the rolled-up rug crawled a twelve-year-old girl.
+“I found a weakness in the integration of their billing system,” Satish replied. “It was built by a different contractor than the security system. By themselves, both billing and security are pretty solid. But their connection is sloppy. I’ve sent you a rootkit. As soon as this program runs on a computer that accesses the Gallante’s billing system, I take complete control.”
 </p>
 <p>
-Rosie Mukhayev’s hands were tied behind her back, and duct tape covered her mouth. She climbed to her feet and spun around, finding herself surrounded by large men.
+Danny checked his DropBox account. A new file awaited him.
 </p>
 <p>
-One henchman clasped his calloused fingers around her elbows and held her in place. She tried going limp to slide out of his grasp, but all it did was twist her shoulder. Futilely, she kicked and body-checked against him, making small, furious noises.
+“It needs to be delivered by hand, Danny,” Satish warned. “Physically. You know what that means.”
 </p>
 <p>
-The circle of men parted to make way for Ivan as he approached the young girl. He cocked his head, studying her like an eagle eyeing a cornered rabbit. He reached out toward her face with a bony, gnarled hand, slid a jagged fingernail against the gag over her mouth, and yanked the tape from her skin with a loud rip. 
+Danny nodded, and plugged his data stick into a USB port. “It means,” he said while copying files, “that I’ll be checking out the Gallante’s fine dining establishments.” Danny turned his attention to the small motionless icon. “Moshen, what’s your status?”
 </p>
 <p>
-She took a deep breath, and screamed. Her shrill, piercing voice rang out like a steam whistle, slicing through the room like a storm of razors.
+Moshen’s disembodied voice replied, “I’m parked on a side-street five miles away.”
 </p>
 <p>
-Ivan crossed his arms and laughed. It was a dry, hacking sound. “Little angel!” he said when her screaming faded. “Do you think anyone can hear you? Look around! Rooms like these are built for rock stars! There’s two meters of soundproofing under this floor. You could throw a dance party with a thousand people, and nobody would hear a thing downstairs. A grenade could go off, and people below would just think we’re watching a movie.”
+“Great,” Danny said. “How are you feeling? Confident? Nervous?”
 </p>
 <p>
-In English, she sneered, “When my Daddy gets here, you are so fucked.”
+Moshen said, “Um…”
 </p>
 <p>
-At this, Ivan burst into haughty laughter. “Your ‘Daddy?’” he replied with a heavy accent. “You know what happen before, when your ‘Daddy’ dance with me?” Switching back to Russian, he commanded, “Take her upstairs! She’ll need time to, shall we say, fully comprehend her new circumstances. Keep an eye on her tonight. We’ll take her back to St. Petersburg tomorrow. Then we can properly begin her ‘education.’”
+On a tree-lined residential road somewhere in Seattle’s eastern suburbs, a boxy gray van marked “Claymore Communications” stood on the curb. Moshen sat in the driver’s seat, his thin arms clutching the steering wheel. To his right, Sergey Mukhayev stared brooding, his hulking form breathing tensely as he gazed into the night. Behind them, Leo adjusted the suppressor on his handgun while Eugene deftly twirled a butterfly knife.
 </p>
 <p>
-The thug holding her nodded compliantly, and dragged her bucking, kicking, wriggling body up the wide spiral staircase, until her shouts and barks of protest faded somewhere in the carpeted hallways overhead.
+“I… can’t complain…” Moshen said.
 </p>
 <p>
-When they were gone, Ivan spun to face the living room, and clapped his hands. He flashed Dr. Passinsky a crocodile smile. “Now then. Petya! It’s good to see you! I take it you’ve been able to resolve that little dilemma from this morning?”
+Danny switched focus. “Tina. Status?”
 </p>
 <p>
-Passinsky nodded. He reached into his pocket, and produced the vial.
+She replied with a tired half-smile, “I’ve been Betty Crockering all day. I’d never eat in this house again if I were you.”
 </p>
 <p>
-Ivan took it in his coarse hand and chuckled, looking eye to eye with the smiley face sticker on its side. “Such a small thing, yet a cause of so much fuss!”
+“I have a job for you,” Danny said. “It’s a job you’re best prepared for out of all of us, and it’s mission-critical.”
 </p>
 <p>
-“It is the product of years of research,” said Passinsky.
+“As long as it gets me out of the kitchen,” she replied. “What do you need?”
 </p>
 <p>
-“And the cultivation instructions?” Ivan asked.
+“You’re not going to like it.” He hesitated, and finally said, “Communications officer.”
 </p>
 <p>
-“I’ve emailed you documents on proper incubation procedures and optimal yield formulas,” said Passinsky. “This bacterial strain appears to be particularly hardy and will probably thrive even in poorly calibrated incubation environments.”
+“What does that mean?” she asked.
 </p>
 <p>
-Ivan smirked. “Thank you, Petya. You have done well.”
+“You know, like Uhura from Star Trek.”
 </p>
 <p>
-Passinsky shrugged off the praise. “Have you had a chance to speak with Tungsten’s former creditors?”
+“Which means…?” she repeated.
 </p>
 <p>
-“What for?” Ivan said casually.
+“The Gallante’s phone switch plugs into a Cisco VoIP system,” Danny explained, “And their security guards have walkie-talkies that use a trunked P25 digital radio system with an RTP cross-bridge. We can route all voice traffic to a SIP user agent on your terminal…”
 </p>
 <p>
-“What do you mean, ‘what for?’” Passinsky said, and instantly regretted it. “At the risk of sounding impertinent, sir… I was under the impression that the whole purpose of your visit was to discuss the recent reinstatement of Tungsten’s debts.”
+“<em>Which means…?</em>”
 </p>
 <p>
-Ivan eyed the vial in his hand. “That hardly matters anymore.”
+“…You’ll be answering phones,” Danny said.
 </p>
 <p>
-“It… doesn’t matter?” Passinsky asked suspiciously.
+She glared at him with a gaze so cold that her image almost began frosting the screen.
 </p>
 <p>
-“I have what I need,” Ivan said with a shrug, and placed the vial in his chest pocket.
+“…You know, because… Your day job…” Danny stammered.
 </p>
 <p>
-“I… I’m afraid I don’t understand. What will happen to Tungsten?”
+“I hate you so much right now,” she said.
 </p>
 <p>
-“The hostile takeover will succeed,” Ivan said. “Whoever wants this company, they can have it.”
+The rumble of the yacht’s engines cut out. On the deck above, Jason slung ropes to moor the yacht.
 </p>
 <p>
-“And the equipment? And the staff?” Passinsky demanded. “And <em>me</em>?”
+“It’s go-time, guys,” said Danny.
 </p>
 <p>
-“Auctioned. Disbanded. And…” Ivan gave a wide, uncaring shrug. “Eh.”
+Mike said, “Be careful, Danny. Stay out of sight.”
 </p>
 <p>
-“We had an agreement!” Passinsky insisted hoarsely. 
+“Don’t worry. I’ve got that covered. I went and got myself…” He held up a laundry bag. From its open top hung a brown shirtsleeve. “…an invisibility suit.”
 </p>
 <p>
-“Did we now?” Ivan said with a smirk.
+Behind him, Jason descended into the cabin. “The ship’s secure. Danny, try not get killed. Come back here when you’re ready for extraction. I’ll be waiting.”
 </p>
 <p>
-Passinsky’s thin lips curled downward. “Do you think I work for you because I enjoy gazing upon your face?” One look at Ivan’s eyes, and Passinsky knew he was treading on very dangerous ground. “Forgive me, sir. I didn’t mean to be rude. But as a businessman, I’m sure you understand that our arrangement was supposed to further my own interests as well as yours. I have personal theories about the functioning of the brain that I’ve been waiting for <em>decades</em> to put to the test. At the Russian Academy of Sciences, my objectives were continuously sidelined by whatever pseudoscientific fixation captured the Politburo’s momentary attention. In the ’60s, it was Lysenkoism. Polywater in the ’70s. Telekinesis in the ’80s. And now, with the Soviet Union dissolved, my sole access to equipment and personnel lies in the private sector &mdash; which, in today’s Russia, means doing business with… gentlemen such as yourself. So, let there be no mistake. Your project was an intriguing diversion. But my labor for you was contingent on the understanding that, once I completed your R&amp;D goals &mdash; which I have! &mdash; then you would grant me full control of the laboratory with uninterrupted funding for the remainder of my lifetime.”
+“Actually, Jason, there’s a very important task that I need you to handle.”
 </p>
 <p>
-Ivan replied condescendingly, “Well, that’s just it, Petya. It appears that your life simply won’t be all that long.”
+“What’s that?”
 </p>
 <p>
-“Oh, I expect I have many good years left in me yet. I’ve maintained a strict nutritional&mdash;”
-</p>
-<p>
-He stopped abruptly at the sensation of someone’s breath blowing down the hairs on the back of his neck. One of Ivan’s soldiers was standing behind him.
-</p>
-<p>
-“It’s a shame,” Ivan said, shaking his head. “That terrible accident you had this afternoon.”
-</p>
-<p>
-Every muscle in Passinsky’s old body tensed as realization dawned.
-</p>
-<p>
-“A man your age really should be careful going down the stairs,” Ivan said. “So easy to fall and break your neck.”
-</p>
-<p>
-Passinsky opened his mouth to offer a response. He never got the chance.
-</p>
-<p>
-A strong hand reached over Passinsky’s shoulder, grabbed his chin, and pulled. Another hand pushed the back of his head in the opposite direction.
-</p>
-<p>
-It occurred to Passinsky that this would be a serious setback for his research.
+“The same thing I did for you forty-eight hours ago. I need you to prepare a PowerPoint presentation.” 
 </p>
 </div>

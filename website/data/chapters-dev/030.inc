@@ -6,13 +6,13 @@
 “I just want to say, before we move on,” said the throaty, energetic voice of a young man freshly in his twenties, “that we really appreciate this opportunity to present our work to you.”
 </p>
 <p>
-On an upper floor of a soaring corporate tower, there was a long marble-floored anteroom. Beside a reception desk, there stood a museum-like pedestal lined with red felt. Upon it, the ramshackle HERF gun prototype, built out of PVC and held together by Velcro and karabiners, sat inside a glass case, like some kind of curious historical relic from a bygone era. Which it was.
+On an upper floor of a soaring corporate tower, there was a marble-floored anteroom. Beside a reception desk, there stood a museum-like pedestal lined with red felt. Upon it, the ramshackle HERF gun prototype, built out of PVC and held together by Velcro and karabiners, sat inside a glass case, like some kind of curious historical relic from a bygone era. Which it was.
 </p>
 <p>
-“We’re both techies, you know? I’m all about nanomaterials, and my partner’s a biomachinist. We’re science dudes, not money dudes. But when we talk to most venture capital people, they ask us about partnership strategies and market penetration projections. So it’s, like, great to see potential financial contributors showing a genuine interest in our engineering efforts.”
+“We’re both techies, you know? Nanomaterials, biomachinery &mdash; you ask us about that stuff, and we’re golden. But when we talk to other investors, they go into, like, partnership strategies and market penetration projections. So it’s kind of a relief to see you guys showing a genuine interest in our engineering efforts.”
 </p>
 <p>
-Video display monitors, barely thicker than paper, hung from the ceiling of the reception area. The monitors showed proud videos of recent projects. One presented a focused young woman carefully measuring the electrical current flowing through an organic fractal assembly. One displayed an aging amputee playing the piano with a hand built of polymer and silicon. One had a Navy admiral demonstrating an aquatic robot darting through the water with a dolphin-like tail.
+Along the hallway, video display monitors showed proud videos of recent projects. One presented a focused young woman carefully measuring the electrical current flowing through an organic fractal assembly. One displayed an aging amputee playing the piano with a hand built of polymer and silicon. One had a Navy admiral demonstrating an aquatic robot darting through the water with a dolphin-like tail.
 </p>
 <p>
 And another displayed a title screen announcing, “We are a proud sponsor of the Mukhayev Memorial Foundation.” Talking heads gave closed-captioned testimonials about overcoming drug addiction.

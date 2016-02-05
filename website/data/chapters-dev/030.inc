@@ -1,24 +1,21 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Seattle’s downtown skyline glinted</span> in clear summer daylight. Tall buildings rose above the shoreline, their windows shimmering with reflections of surf and sky. They towered above parks where children and dogs played; above markets raucous with tourists and musicians; above sparkling blue waters teeming with yachts and freighters. The blue Olympic Mountains crowned the western horizon, the gray Cascades and the enormous sleeping volcano of Mount Rainier lined the east. Tucked amidst majesty of geological proportions, the man-made spires jutted upward from low-lying gray urban periphery like immense gemstones &mdash; the obsidian shard of the Columbia Center, the waterfall mesa of sandstone and sapphire at 1201 Third, the bizarre white alien stalagmite of the Space Needle. Seattle wasn’t merely adorned with jewels; she was made of them. She was the Emerald City.
+<span class="caplead">Seattle’s downtown skyline glinted</span> in clear summer daylight. Buildings rose above the shoreline, their windows shimmering with reflections of surf and sky. These man-made spires jutted upward from low-lying gray urban periphery like gemstones &mdash; the obsidian shard of the Columbia Center, the waterfall mesa of sandstone and sapphire at 1201 Third, the pale stalagmite of the Space Needle. Seattle wasn’t merely adorned with jewels; she was made of them. She was the Emerald City.
 </p>
 <p>
-“I just want to say, before we move on,” said the throaty, energetic voice of a young man freshly in his twenties, “that we both really appreciate this opportunity to present this work to you.”
+“I just want to say, before we move on,” said the throaty, energetic voice of a young man freshly in his twenties, “that we really appreciate this opportunity to present our work to you.”
 </p>
 <p>
-On an upper floor of a soaring corporate tower, at the end of a long marble-floored lobby, there stood a pair of wide glass double doors. Frosted upon their surface were the words, “Tuttle Investment Partners.”
+On an upper floor of a soaring corporate tower, there was a long marble-floored anteroom. Beside a reception desk, there stood a museum-like pedestal lined with red felt. Upon it, the ramshackle HERF gun prototype, built out of PVC and held together by Velcro and karabiners, sat inside a glass case, like some kind of curious historical relic from a bygone era. Which it was.
 </p>
 <p>
 “We’re both techies, you know? I’m all about nanomaterials, and my partner’s a biomachinist. We’re science dudes, not money dudes. But when we talk to most venture capital people, they ask us about partnership strategies and market penetration projections. So it’s, like, great to see potential financial contributors showing a genuine interest in our engineering efforts.”
 </p>
 <p>
-In the Tuttle office’s anteroom, beside the reception desk, stood a museum-like pedestal lined with red felt. Upon it, the ramshackle HERF gun prototype, built out of PVC and held together by Velcro and karabiners, sat inside a glass case, like some kind of curious historical relic from a bygone era. Which it was.
+Video display monitors, barely thicker than paper, hung from the ceiling of the reception area. The monitors showed proud videos of recent projects. One presented a focused young woman carefully measuring the electrical current flowing through an organic fractal assembly. One displayed an aging amputee playing the piano with a hand built of polymer and silicon. One had a Navy admiral demonstrating an aquatic robot darting through the water with a dolphin-like tail.
 </p>
 <p>
-Video display monitors, barely thicker than paper, hung from the ceiling of the reception area. The monitors showed proud videos of Tuttle projects. One presented a focused young woman carefully measuring the electrical current flowing through an organic fractal assembly. One displayed an aging paraplegic playing the piano with a hand built of polymer and silicon. One had a Navy admiral demonstrating an aquatic robot darting through the water with a dolphin-like tail.
-</p>
-<p>
-And another displayed a title screen announcing, “Tuttle Investment Partners is a proud sponsor of the Mukhayev Memorial Foundation.” Talking heads gave closed-captioned testimonials about overcoming drug addiction.
+And another displayed a title screen announcing, “We are a proud sponsor of the Mukhayev Memorial Foundation.” Talking heads gave closed-captioned testimonials about overcoming drug addiction.
 </p>
 <p>
 A woman’s voice spoke. It was an older voice, well-educated and self-assured. “It’s our pleasure to hear your ideas. We succeed financially by making informed investments, and that means understanding the science behind proposals to judge whether or not they sound promising.”
@@ -27,7 +24,7 @@ A woman’s voice spoke. It was an older voice, well-educated and self-assured. 
 “And… Do…” The young voice stammered nervously. “Do you think we sound promising?”
 </p>
 <p>
-The speaker stood in a small corporate conference room just beyond the reception hall. He was tall and charismatic, and brimmed with infectious excitement. His partner, a slightly older student with a heavy-set body and a shy demeanor, stood quietly at his side. Behind them, a large screen displayed a rotating protein structure with numerical readouts and a bulleted list of molecular properties. Words along the top of the diagram read, “Pluripotentiated Nanofacturing: A New Application For Cellular Multiplexing.”
+The speaker stood in a small corporate conference room just beyond the reception hall. He was tall and charismatic, and brimmed with infectious excitement. His partner, a slightly older student with a heavy-set body and a shy demeanor, stood quietly at his side. Behind them, a large screen displayed a rotating protein structure. Words along the top of the diagram read, “Pluripotentiated Nanofacturing: A New Application For Cellular Multiplexing.”
 </p>
 <p>
 The woman chuckled. “We’ll see.”
@@ -51,7 +48,7 @@ A device on Daniel’s wrist suddenly buzzed with a gentle vibration. Daniel gla
 One side of the pop-up was dominated by a cropped square image of Rosie’s face. She used her glamor shot for her profile picture, which meant that every time she messaged, he saw her pressing her fingers erotically against her glossy purple lips, looking sensuously upward with mascara-rimmed eyes below a mane of iridescent platinum hair. The image made him feel awfully awkward every time. He flicked the pop-up away.
 </p>
 <p>
-“On a more serious note, I do have concerns,” Daniel said. “For starters, there’s heat buildup. You’ve got powered components placed microns apart. And your substrate is organic, which means it’s flammable. Tina, what do you think? Is there some cellular mechanism these kids could use to interweave some kind of metallic rodlike structures?”
+“On a more serious note, I do have concerns,” Daniel said. “For starters, there’s heat buildup. You’ve got powered components placed microns apart. And your substrate is organic, which means it’s flammable. You’ll need a heatsink. Tina, what do you think? Is there some cellular mechanism these kids could use to interweave some kind of metallic rodlike structures?”
 </p>
 <p>
 Tina thought for a moment. “Would silica work? There’s a type of protozoan called ‘radiolaria’ that grow thin, spiny biosilicate skeletons. Maybe they could integrate part of its genome.”
@@ -75,7 +72,7 @@ Beside each message, the device displayed familiar faces.
 “<span class="computer">Dude! Your 50th birthday? We wouldn’t miss it for the world! Count us in 110%!</span>” announced one message, beside a picture of Mike and Natalie. They’d been married for almost a decade. Their youngest child had just entered pre-school. Natalie had her own clinical practice. Mike worked as a network administrator for REI’s corporate offices. In their free time, they made costumes and crafts for the Washington Midsummer Renaissance Faire. They were ridiculously happy.
 </p>
 <p>
-“<span class="computer">Wow, 50!!!! I vaguely remember it. :) I’ve got venue, catering, and entertainment all lined up. It’ll be a gala! Get plenty of rest the night before. You’re going to need it, old man! Welcome to the other side of the hill!</span>” The message was from Jason, whom Daniel hadn’t seen much of lately. Jason’s health was faltering &mdash; no technology could stop the march of time, and his age was beginning to take its toll. Nonetheless, Jason’s spirits were quite high, and his friendship with Danny and the projects of Tuttle Investment Partners brought him fulfillment.
+“<span class="computer">Wow, 50!!!! I vaguely remember it. :) I’ve got venue, catering, and entertainment all lined up. It’ll be a gala! Get plenty of rest the night before. You’re going to need it, old man! Welcome to the other side of the hill!</span>” The message was from Jason, whom Daniel hadn’t seen much of lately. Jason’s health was faltering &mdash; no technology could stop the march of time, and his age was beginning to take its toll. Nonetheless, Jason’s spirits were quite high, and his friendship with Danny and his investments brought him fulfillment.
 </p>
 <p>
 “<span class="computer">Sure! See you there!</span>” Moshen replied. Moshen still made a decent living with his web design work. He was married now, and would soon probably have kids of his own. In his spare time, he penned a popular online comic. It was about kung fu.
@@ -114,7 +111,7 @@ Daniel sighed gently and put the device away. He looked back and forth at Tina a
 The charismatic young man said, crestfallen, “But our project…!”
 </p>
 <p>
-He gave the two of them a warm smile. “Listen,” said Daniel as he stood up. “You kids have a lot of very, very hard work ahead of you. But Tuttle Investment Partners might be able to help you out. No promises yet. But we’ll talk soon.”
+He gave the two of them a warm smile. “Listen,” said Daniel as he stood up. “You kids have a lot of very, very hard work ahead of you. But we might be able to help you out. No promises yet. But we’ll talk soon.”
 </p>
 <p>
 Tina asked him, “Is everything alright?”

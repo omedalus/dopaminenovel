@@ -6,7 +6,7 @@
 And felt sick to his stomach.
 </p>
 <p>
-His life was a hedonistic montage of groupies, drugs, and mansions &mdash; and he hated every second of it. The sex, now so easy to get, was hollow and joyless. The drugs numbed him but brought him no pleasure. The mansions were only good for parties, and he could no longer stand the people he partied with. He was in his late thirties now, and finally admitting to himself that it was all shit.
+His life was a hedonistic montage of rock god glory &mdash; and he hated every second of it. Sex, now so easy to get, was hollow and joyless. Drugs numbed him but brought him no pleasure. Mansions were only good for parties, and he could no longer stand the people he partied with.
 </p>
 <p>
 He cancelled his tour. In the back of his garage, behind the sports cars and SUVs, he still kept the dented Ford F-150 that had brought him out to Los Angeles so many years ago. He started up that clanky old engine, and drove it all the way back to his home town. Down the street from his high school, a Blockbuster had been replaced by a coffee shop. He booked a gig there under his original name, and played a few sombre tunes that he had never gotten a chance to release because they didn’t fit his “image”. There were only six people in that audience, but he looked into each of their eyes as he sang. And when his set was over, he went out back for a cigarette, and sobbed with joy.
@@ -26,7 +26,7 @@ He cancelled his tour. In the back of his garage, behind the sports cars and SUV
 </p>
 <hr/>
 <p>
-Client 4.8.1 had vowed for years that someday she would just drop everything &mdash; her six-figure legal career, her Chelsea loft, her yoga studio &mdash; and go open a small cupcake shop in Maine. Her friends had always thought it was joke, a mere idle fantasy, until the day she finally mustered up the courage to do it. They told her she would hate it. She told <em>herself</em> she would hate it. But seeing people buy up her colorful puffballs, seeing their eyes light up when they took a bite and hearing that little squeal they made through a mouth full of soft deliciousness, gave her a genuine thrill every time. It was hard work, and business was frequently uneasy and uncertain. It definitely wasn’t always peaches and cream &mdash; not even the “Peaches ’n Cream”. Yet here she was, turning on her bakery lights at 5am on a frigid orange-leafed autumn morning, ready to bake a breakfast selection of Halloween-themed pastries. And she couldn’t be happier.
+Client 4.8.1 had vowed for years that someday she would just drop everything &mdash; her six-figure legal career, her Chelsea loft, her wine-guzzling girlfriends &mdash; and go open a small cupcake shop in Maine. It was just a joke, a mere idle fantasy, until the day she finally mustered her courage and did it. At first she was terrified that she would hate it. But seeing people buy up her colorful puffballs &mdash; seeing their eyes light up when they took a bite and hearing that little squeal they made through a mouth full of soft deliciousness &mdash; gave her a genuine thrill every time. It was hard work, and business was frequently uneasy and uncertain. Yet here she was, turning on her bakery lights at 5am on a frigid orange-leafed autumn morning, ready to bake a breakfast selection of Halloween-themed pastries. And she couldn’t be happier.
 </p>
 <p>
 If only the lights in her eyes didn’t make her queasy for some reason…
@@ -60,7 +60,7 @@ He smiled. “Ah. Of course. That <em>is</em> the entire point.”
 
 <div class="chapsection">
 <p>
-<span class="caplead">Alyssa Crawford felt the cushion</span> beneath her back, the headset straps behind her ears. Her hands clutched at the armrests of her recliner, and she started to pull herself up. Tried to, anyway. Her fingers and arms felt clumbsy and weak &mdash; almost paralyzed.
+<span class="caplead">Alyssa Crawford felt the cushion</span> beneath her back, the headset straps behind her ears. Her hands clutched at the armrests of her recliner, and she started to pull herself up.
 </p>
 <p>
 “No no! Not yet! Take it easy. Let your mind come back into your body.” The woman’s soft voice was simultaneously soothing and authoritative, like a wise matriarch. “We’re going to take off your goggles now, alright? On the count of ten, nine, eight…”
@@ -84,16 +84,16 @@ Alyssa gasped. “It… It felt like <em>years</em>…”
 “Talk to me about your experience,” Dr. Rosenbaum-Braun encouraged.
 </p>
 <p>
-Alyssa struggled for words as reality returned to her. “I… I <em>knew</em> it was a simulation the whole time. But <em>while</em> it was happening, it didn’t matter, you know? You ever have dreams like that? Where you know it’s a dream, but that doesn’t change how real it all seems at the time? I came up with such a great recipe for a spice-infused devil’s food brownie… I… I’m trying to remember it now, but…”
+Alyssa struggled for words as reality returned to her. “I… I <em>knew</em> it was a simulation the whole time. But it didn’t matter, you know? You ever have dreams like that? Where you know it’s a dream, but that doesn’t change how real it all seems at the time? I came up with such a great recipe for a spice-infused devil’s food brownie… I… I’m trying to remember it now, but…”
 </p>
 <p>
-The doctor smiled kindly. “Let’s not fixate on that. You didn’t <em>really</em> live through several years in the last few hours, after all. We just alter the way your brain records memories, to make you <em>remember</em> it as though you did. You can’t <em>really</em> learn new skills or build experience during the process. But the <em>effects</em> of having that skill and experience on you as a person &mdash; how they would affect your perception of yourself and the way you interact with the world &mdash; <em>that</em> part can teach us something. Let’s focus on <em>that</em>. How is Maine Cupcake Alyssa different from who you are now?”
+The doctor smiled kindly. “Let’s not fixate on that. You didn’t <em>really</em> live through several years in the last few hours, after all. We just alter the way your brain records memories, to make you <em>remember</em> it as though you did. You can’t actually learn new skills or produce creative works while you’re under. We have clients, for example, that imagine writing a movie, but they don’t wake up with a full screenplay in their heads. Or they become a piano virtuoso, but you can’t squeeze ten thousand hours of practice into a two-hour augmented hypnotherapy simulation. But the <em>effects</em> of having those skills and producing those works &mdash; the impact on you as a person, how they would affect your perception of yourself and the way you interact with the world &mdash; <em>that</em> part can teach us something. Let’s focus on <em>that</em>. How is Maine Cupcake Alyssa different from who you are now?”
 </p>
 <p>
 Alyssa caught herself laughing. “Doctor… Real-Life Me does divorce litigation. When somebody hires me, they’re literally going through the worst times of their lives. And half the time, I just end up nurturing their bitterness and grievance and making it worse. But <em>in there</em>, I made people <em>happy</em>. I could <em>see</em> them smile before my eyes. And… I had no idea that something like that was missing from my life until now. Sure, I mean, it’s just a cupcake. It’s just a fleeting moment of pleasure. But it’s <em>real</em> pleasure, you know? I don’t know; maybe I’m doing more overall good in the world where I am now &mdash; or at least making there be less bad. But… maybe <em>I</em> don’t have to be the one doing it. It’s not like Manhattan has a shortage of divorce lawyers.”
 </p>
 <p>
-Dr. Rosenbaum-Braun coaxed her to lift her head, and removed a flexible cap of electrodes from her skull, carefully separating it from her hair. “Let’s not be too hasty. You shouldn’t start making major decisions after <em>one</em> treatment. Eventually you might decide to practice a different kind of law. Or you might take on some volunteer work. Or you might change nothing &mdash; at least, not on the surface &mdash; but simply learn to see your current life and work in a different light.” The doctor held her hand and helped her stand up. “You’re certainly not alone. Many of our clients don’t know what they want until they see it played out before them. Some <em>think</em> they know what they want, only to find that actually <em>having</em> it brings them no joy. And others realize that the thing they thought they needed was something they already had all along. We get plenty of people wanting to choose a path of money and wealth and power, and they think that getting a taste of that life will give them the courage to pursue it &mdash; but they find that we can give them all of it and they’re still miserable. Or they <em>do</em> find fulfillment, but never for the reasons they think. There’s always some goal waiting one more step up on Maslow’s Hierarchy, and the higher you go the harder that goal is to recognize. And the easier it is to mistake things that <em>might</em> make you happy, things that other people will tell you will make you happy, with what actually will. That’s why we’re here.”
+Dr. Rosenbaum-Braun coaxed her to lift her head, and removed a flexible cap of electrodes from her skull, carefully separating it from her hair. “Let’s not be too hasty. You shouldn’t start making major decisions after <em>one</em> treatment. Eventually you might decide to practice a different kind of law. Or you might take on some volunteer work. Or you might change nothing &mdash; at least, not on the surface &mdash; but simply learn to see your current life and work in a different light.” The doctor held her hand and helped her stand up. “You’re certainly not alone. Many of our clients don’t know what they want until they see it played out before them. Some <em>think</em> they know what they want, only to find that actually <em>having</em> it brings them no joy. And others realize that the thing they thought they needed was something they already had all along. That’s why we’re here.”
 </p>
 <p>
 “Doctor, I do have one question,” Alyssa said, still unsteady on her feet. “Why exactly did two of my cupcakes grow arms and legs and start kung-fu fighting each other?”
@@ -111,7 +111,7 @@ Moshen, giggling hysterically, sat at a desk similar to Daniel’s. His wraparou
 “Do you think that was <em>funny</em>?” Daniel demanded.
 </p>
 <p>
-Beside Moshen’s desk were two others, both as large and messy as his. Mike sat at one, his thick scruff now graying. His screen was strewn with pictures of people’s faces &mdash; some photographed, some rendered, and some simply cartoons &mdash; marked with paragraph bios and handwritten notes. At the other sat Rosie, grown well into adulthood, holding a stylus in her hand and wearing polarized glasses to view her console &mdash which was filled with 3D wireframe models of houses, furniture, trees, and shops. Above their desks, respectively, stood placards reading “PLOT”, “CHARACTER”, and “SETTING”. 
+Beside Moshen’s desk were two others, both as large and messy as his. Mike sat at one, his thick scruff now graying. His screen was strewn with annnotated pictures of people’s faces &mdash; some photographed, some rendered, and some simply cartoons. At the other sat Rosie, grown well into adulthood, holding a stylus in her hand and wearing polarized glasses to view her console &mdash; which was filled with 3D wireframe models of houses, furniture, trees, and shops. Above their desks, respectively, stood placards reading “PLOT”, “CHARACTER”, and “SETTING”. 
 </p>
 <p>
 All three of them were silently laughing. Their shoulders shook, their eyes twinkled at him.
@@ -120,7 +120,7 @@ All three of them were silently laughing. Their shoulders shook, their eyes twin
 Daniel’s visage of sternness collapsed into a chuckle. “Alright, fine,” he said, feeling the skin at the corner of his eyes crinkle. “That <em>was</em> pretty cute, guys.”
 </p>
 <p>
-From across the room, past the desks of two dozen other supporting employees, Daniel heard a loud, “Ahem!” Jason stood before a group of four investors, recognizable by the suits on the men and the shoulder pads on the women. With a voice growing dry with age, Jason called him over. “And here, folks, is the founder and CTO of this organization &mdash; as well as the inventor of a lot of these technologies.” The four murmured their approval.
+From across the room, past the desks of two dozen other supporting employees, Daniel heard a loud, “Ahem!” Jason stood before a small herd of visiting investors, recognizable by the suits on the men and the shoulder pads on the women. With a voice growing dry with age, Jason called him over. “And here, folks, is the founder and CTO of this organization &mdash; as well as the inventor of a lot of these technologies.” The suitfolk murmured their approval.
 </p>
 <p>
 “Co-inventor,” Daniel corrected as he walked over. “I couldn’t have done any of this without T. And none of it would work without the efforts of everyone in this room.”
@@ -153,7 +153,7 @@ The other investors protested at his outburst, but Daniel calmed them down. “T
 The tall skeptical investor scoffed. “Okay, so that accounts for the molehill, but not the mountain. What about all the money in the Zheleznov consortium account?”
 </p>
 <p>
-Daniel exchanged a wry look with Jason. “We never actually hacked that account.” He was met with four pairs of confused eyes &mdash; some with brows arched, others furrowed, some wide, others blinking. “We were able to deduce its balance, yes. But we never managed to crack into it. Ivan used an OTP keyfob, and all transfers required dual authentication. Even if we had gotten his password, we never would have been able to move funds into or out of it. Our promise to split the fortune among his men… It was a bluff. A piece of information that itself was fake, but designed to have a real effect. In other words, a hack.”
+Daniel exchanged a wry look with Jason. “We never actually hacked that account.” He was met with many pairs of confused eyes &mdash; some with brows arched, others furrowed, some wide, others blinking. “We were able to deduce its balance, yes. But we never managed to crack into it. Ivan used an OTP keyfob, and all transfers required dual authentication. Even if we had gotten his password, we never would have been able to move funds into or out of it. Our promise to split the fortune among his men… It was a bluff. A piece of information that itself was fake, but designed to have a real effect. In other words, a hack.”
 </p>
 <p>
 The investor looked around the room and said, “So where <em>did</em> the seed capital for all this come from?”

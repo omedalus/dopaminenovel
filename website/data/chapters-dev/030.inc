@@ -9,7 +9,7 @@ And felt sick to his stomach.
 His life was a hedonistic montage of rock god glory &mdash; and he hated every second of it. Sex was cheap and joyless. Drugs numbed him but brought him no pleasure. Mansions were only good for parties, and he could no longer stand the people he partied with.
 </p>
 <p>
-He cancelled his tour, revved up his dusty old Ford F-150, and drove that rust bucket all the way back to his home town. Down the street from his high school, a Blockbuster had been replaced by a coffee shop. He booked a gig there under his original name, and played a few sombre tunes that he had never gotten a chance to release because they didn’t fit his “image”. There were only six people in that audience, but he looked into each of their eyes as he sang. And when his set was over, he went out back for a cigarette, and sobbed with joy.
+He cancelled his tour, revved up his rusty old Ford F-150, and drove all the way back to his home town. Down the street from his high school, he found a coffee shop at a glitzy new shopping center. He booked a gig there under his original name, and played a few sombre tunes that he had never gotten a chance to release because they didn’t fit his “image”. There were only six people in that audience, but he looked into each of their eyes as he sang. And when his set was over, he went out back for a cigarette, and sobbed with joy.
 </p>
 <hr/>
 <p>
@@ -26,7 +26,7 @@ He cancelled his tour, revved up his dusty old Ford F-150, and drove that rust b
 </p>
 <hr/>
 <p>
-Client 4.8.1 had vowed for years that someday she would just drop everything &mdash; her six-figure legal career, her Chelsea loft, her wine-guzzling girlfriends &mdash; and go open a small cupcake shop in Maine. It was just a joke, a mere idle fantasy, until the day she finally mustered her courage and did it. At first she was terrified that she would hate it. But watching people buy up her colorful puffballs &mdash; seeing their eyes light up when they took a bite and hearing that little squeal they made through a mouth full of soft deliciousness &mdash; gave her a genuine thrill every time. It was hard work, and business was frequently uneasy and uncertain. Yet here she was, turning on her bakery lights at 5am on a frigid orange-leafed autumn morning, ready to bake a breakfast selection of Halloween-themed pastries. And she couldn’t be happier.
+Client 4.8.1 had vowed for years that someday she would just drop everything &mdash; her six-figure legal career, her Chelsea loft, her wine-guzzling girlfriends &mdash; and go open a small cupcake shop in Maine. It was just a joke, a mere idle fantasy, until the day she finally mustered her courage and did it. At first she was terrified that she would hate it. But watching people buy her colorful puffballs &mdash; seeing their eyes light up when they took a bite and hearing that little squeal they made through a mouth full of soft deliciousness &mdash; gave her a genuine thrill every time. It was hard work, and business was frequently uneasy and uncertain. Yet here she was, turning on her bakery lights at 5am on a frigid orange-leafed autumn morning, ready to bake a breakfast selection of Halloween-themed pastries. And she couldn’t be happier.
 </p>
 <p>
 If only the lights in her eyes didn’t make her queasy for some reason…
@@ -42,7 +42,7 @@ If only the lights in her eyes didn’t make her queasy for some reason…
 Daniel sat before a translucent screen wide enough to wrap in a half-circle around his desk. His head was silhouetted in its light &mdash; the smooth dome of his cranium, the loose strands around his temples, the fluffy silver fur around his chin.
 </p>
 <p>
-The screen itself glowed with a maze of windows. Some held software develpment environments, with colorful cascades of indented text. Some held rotating three-dimensional wire-mesh diagrams of organic structures &mdash; some molecular, some neuroanatomical. Some displayed rendered animations of mundane scenes &mdash; a small-town coffee shop, a bakery in Maine.
+The screen itself glowed with a maze of windows. Some held software develpment environments, with colorful cascades of indented text. Some showed rotating three-dimensional wire-mesh diagrams of organic structures. Some displayed rendered animations of mundane scenes &mdash; a small-town coffee shop, a bakery in Maine.
 </p>
 <p>
 But the window he focused on now was a long, jagged graph of parallel sensor readouts. 
@@ -72,10 +72,10 @@ The pale glowing nothingness lifted away, and her eyes regained focus. Before he
 “Your name is Alyssa Crawford,” Dr. Rosenbaum-Braun said in that calming yet powerful voice. “You’re a thirty-one-year-old divorce attorney in New York City. Right now you’re in Seattle, in the Life Choices Projection Clinic…”
 </p>
 <p>
-As the doctor spoke, Alyssa slowly grew aware of medical equipment surrounding her &mdash; glowing displays of jumpy lines, transparent plastic bags of fluid hanging from metal clips. Tubes punctured her skin, running into her body through the back of her hand and the inside of her elbow. Nurses and technicians scurried around her, making announcements such as, “Prefrontal suppressors fully drained,” or, “Melatonin and GABA levels both back to baseline.”
+As the doctor spoke, Alyssa slowly grew aware of medical equipment surrounding her &mdash; glowing displays of jumpy lines, transparent plastic bags of fluid hanging from metal clips. Nurses and technicians scurried around her, making announcements such as, “Prefrontal suppressors fully drained,” or, “Melatonin and GABA levels both back to baseline.”
 </p>
 <p>
-“You were in an induced twilight-conscious REM-like state for just under two hours,” said the doctor as she removed a needle from Alyssa’s flesh.
+“You were in an induced REM-like state for just under two hours,” said the doctor as she removed tubes from the back of her hand.
 </p>
 <p>
 Alyssa gasped. “It… It felt like <em>years</em>…”
@@ -102,7 +102,7 @@ Dr. Rosenbaum-Braun coaxed her to lift her head, and removed a flexible cap of e
 
 <div class="chapsection">
 <p>
-<span class="caplead">“<em>God damn it, Moshen!</em>”</span> Daniel crashed through the double doors of the Realtime Creative Control Room.  
+<span class="caplead">“God damn it, Moshen!”</span> Daniel crashed through the double doors of the Realtime Creative Control Room.  
 </p>
 <p>
 Moshen, giggling hysterically, sat at a desk similar to Daniel’s. His wraparound screen, however, was covered in tree-like diagrams and artistic sketches &mdash; a sort of nonlinear comic strip, where each square had three or four different panels that could potentially follow it. Unlike Daniel’s pristine console, Moshen’s workstation was littered with soda and Cheetos; and while Daniel’s monitor was translucent, the screen before Moshen’s face sported an animated background of knights and dragons. Moshen himself was neither small nor scrawny anymore, but he still laughed with the sly mirth of a prank-pulling adolescent boy.
@@ -117,7 +117,7 @@ Beside Moshen’s desk were two others. Mike sat at one, his thick scruff now gr
 All three of them were silently laughing. Their shoulders shook, their eyes twinkled at him.
 </p>
 <p>
-Daniel’s visage of sternness collapsed into a chuckle. “Alright, yes. That <em>was</em> pretty cute, guys.”
+Daniel’s stern face collapsed into a chuckle. “Alright, yes. That <em>was</em> pretty cute, guys.”
 </p>
 <p>
 From across the room, past the desks of two dozen other supporting employees, Daniel heard a loud, “Ahem!” Jason sat at a small conference table behind a glass partition near the reception area. Seated across from him was a tall, thin, bespectacled man in a well-worn suit. Jason was smiling; the man was not. With a voice growing dry with age, Jason said, “And here, Mr. Caldwell, is the CTO and co-founder of this organization.” As Daniel trod over and exchanged handshakes and pleasure-to-meet-yous with the visitor, Jason said, “Mr. Caldwell is a compliance officer at Morgan Stanley.”
@@ -162,7 +162,7 @@ Caldwell looked around the room. “So where <em>did</em> the seed capital for a
 Daniel smiled wistfully. “From me, actually. But I was only able to do it thanks to this guy.” He jerked his thumb at Jason, who blushed. “When the assets of Tungsten, my old company, finally went up for auction, he used his private funds to make winning bids on everything that I had personally developed during my years there. My patents, my code, my designs &mdash; all the intellectual property that I had produced while salaried for them, he bought up. And then… he gave it all to me. Gifted it. He called it a bonus.”
 </p>
 <p>
-Jason bashfully added, “You were right from the very start, Dan. It was all rightfully yours.”
+Jason added, “You were right from the very start, Dan. It was all rightfully yours.”
 </p>
 <p>
 “I licensed my technologies to cellular providers,” Daniel continued. “And <em>that</em> is where I got the revenue to build this place.”

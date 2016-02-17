@@ -75,25 +75,28 @@ The men leaned in to see Danny’s screen. The message “<span class="computer"
 Mike, sitting behind Danny, announced, “It works. I’m connected.”
 </p>
 <p>
-“Start scanning, Mike,” Danny directed. “Now that we’re behind their firewall, we should be able to reach every machine on their network.”
+“Start scanning,” Danny directed. “Now that we’re behind their firewall, we should be able to reach every machine on their network.”
 </p>
 <p>
-Satish asked, “Do you want to see their camera feeds?”
+Mike asked, “Do you want to see their camera feeds?”
 </p>
 <p>
 “Yes!” Danny said. “You have video streams?”
 </p>
 <p>
-“I have everything,” said Satish. “I’m doing a promiscuous packet sniff. Look at port 80 on 192.168.2.57. I’m seeing an MPEG-4 stream inside an HTTP session.”
+“I have everything,” said Mike. “I’m doing a promiscuous packet sniff. Look at port 80 on 192.168.2.57. I’m seeing an MPEG-4 stream inside an HTTP session.”
 </p>
 <p>
 Upon entering the numbers, Danny’s screen filled with a picture of the driveway in front of the Tungsten building. A narrow ribbon of text ran along the bottom, showing the current date and time. A rectangle labeled “PTZ” contained icons of arrows and magnifying glasses. Danny clicked on them and found that he could move the camera &mdash; pan, tilt, and zoom.
 </p>
 <p>
-“I’m seeing user activity,” said Satish. “There’s a chat session, and there’s a FireFox browser making requests to stuffonmycat.com. I’m pretty sure someone’s still in the building.”
+“I’m also seeing user activity,” Mike added. “There’s a chat session, and there’s a FireFox browser making requests to stuffonmycat.com. I’m pretty sure someone’s still in the building.”
 </p>
 <p>
-“I’m seeing a bunch more HTTP servers, too, Danny,” said Mike. “Same subnet. Dot-84, dot-91, dot-95…”
+“Any more video feeds?” Danny asked.
+</p>
+<p>
+“A bunch,” said Mike. “Same subnet. Dot-84, dot-91, dot-95…”
 </p>
 <p>
 Danny brought up each one. They were all video feeds from security cameras.  He saw office hallways; conference rooms and cubicles with whiteboards covered with chemical formulas; laboratories full of beakers, refrigerators, and centrifuges; a large warehouse-like storage room filled with scientific and medical equipment. 
@@ -165,16 +168,16 @@ Danny chuckled a bit. “Not surprising. All of their network administration is 
 Mike nodded his large, furry head. “Yeah, most of these machines seem really badly maintained. Some look like they’ve gone months without a patch or an upgrade.”
 </p>
 <p>
-From the back, Satish grumbled in displeasure. “Guys, call me paranoid, but I really don’t think that girl should be at her computer while we do this.”
+From the back, Moshen grumbled in displeasure. “Guys, call me paranoid, but I really don’t think that girl should be at her computer while we do this.”
 </p>
 <p>
 “What’s the big deal?” Danny asked. “You said she’s just chatting and surfing the web.”
 </p>
 <p>
-“If we want to take over her machine,” Satish insisted, “then we don’t want her sitting there watching her screen while her cursor moves all by itself and her files start dragging and dropping.”
+“If we want to take over her machine,” Moshen insisted, “then we don’t want her sitting there watching her screen while her cursor moves all by itself and her files start dragging and dropping.”
 </p>
 <p>
-Mike grunted in agreement. “I think Satish is right, Danny. According to my scan, it doesn’t look like there’s that many Windows boxes on the network. Most of their machines look like highly customized Linux distros. The receptionist’s desktop machine might be the most logical place to start. Which means…”
+Mike grunted in agreement. “I think Moshen is right, Danny. According to my scan, it doesn’t look like there’s that many Windows boxes on the network. Most of their machines look like highly customized Linux distros. The receptionist’s desktop machine might be the most logical place to start. Which means…”
 </p>
 <p>
 Danny reluctantly nodded. “Which means we have to find some way to make her go away.” He rubbed his chin and pondered. Gingerly, he pressed the lobby camera’s PTZ buttons. The image panned upward and sideways. Through the glass wall of the Tungsten lobby, embedded in the ceiling of the building’s main corridor, was another camera dome.
@@ -219,10 +222,7 @@ Mike stared at his screen in confusion. “Not yet, Danny. I’m seeing somethin
 “Heh. Don’t be ridiculous,” said Danny. “Everything uses IP.” He noticed a quizzical expression from Jason. “IP is the digital language of the Internet. Has been for twenty years. Mike, if they’re not using IP, how are they talking to one another?”
 </p>
 <p>
-“It’s…,” said Mike. “I think they’re…”
-</p>
-<p>
-Satish chimed in. “Novell Netware. Raw IPX/SPX on the 802.3 frame. I’ve been trying to decode them with WireShark. I thought it was a parsing error this whole time.”
+“It’s…,” said Mike. “I think they’re… Novell Netware, Danny. Raw IPX/SPX on the 802.3 frame. I’ve been trying to decode them with WireShark. I thought it was a parsing error this whole time.”
 </p>
 <p>
 “Are you serious?” Danny asked. “Novell hasn’t used that protocol since the mid nineties. I haven’t heard anybody mention it since I was in college.”

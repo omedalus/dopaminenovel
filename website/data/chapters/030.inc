@@ -1,247 +1,195 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Seattle’s downtown skyline glinted</span> in clear summer daylight. Tall buildings rose above the shoreline, their windows shimmering with reflections of surf and sky. They towered above parks where children and dogs played; above markets raucous with tourists and musicians; above sparkling blue waters teeming with yachts and freighters. The blue Olympic Mountains crowned the western horizon, the gray Cascades and the enormous sleeping volcano of Mount Rainier lined the east. Tucked amidst majesty of geological proportions, the man-made spires jutted upward from low-lying gray urban periphery like immense gemstones &mdash; the obsidian shard of the Columbia Center, the waterfall mesa of sandstone and sapphire at 1201 Third, the bizarre white alien stalagmite of the Space Needle. Seattle wasn’t merely adorned with jewels; she was made of them. She was the Emerald City.
+<span class="caplead">Client 4.7.3 played</span> before an adoring throng of pink-haired girls and slim-hipped guys. His electric guitar screamed in ecstasy beneath his motion-blurred fingers. The song finished, and he spread his arms to embrace the spotlight.
 </p>
 <p>
-“I just want to say, before we move on,” said the throaty, energetic voice of a young man freshly in his twenties, “that we both really appreciate this opportunity to present this work to you.”
+And felt sick to his stomach.
 </p>
 <p>
-On an upper floor of a soaring corporate tower, at the end of a long marble-floored lobby, there stood a pair of wide glass double doors. Frosted upon their surface were the words, “Tuttle Investment Partners.”
+His life was a hedonistic montage of rock god glory &mdash; and he hated every second of it. Sex was cheap and joyless. Drugs numbed him but brought him no pleasure. Mansions were only good for parties, and he could no longer stand the people he partied with.
 </p>
 <p>
-“We’re both techies, you know? I’m all about nanomaterials, and my partner’s a biomachinist. We’re science dudes, not money dudes. But when we talk to most venture capital people, they ask us about partnership strategies and market penetration projections. So it’s, like, great to see potential financial contributors showing a genuine interest in our engineering efforts.”
+He cancelled his tour, revved up his rusty old Ford F-150, and drove all the way back to his home town. Down the street from his high school, at a glitzy new shopping center, he found a small independent coffee shop. He booked a gig there under his original name, and played a few sombre tunes that he had never gotten a chance to release because they didn’t fit his “image”. There were only six people in that audience, but he looked into each of their eyes as he sang. And when his set was over, he went out back for a cigarette, and sobbed with joy.
+</p>
+<hr/>
+<p>
+“We’re still detecting photostimulation-induced emetic potentition.”
 </p>
 <p>
-In the Tuttle office’s anteroom, beside the reception desk, stood a museum-like pedestal lined with red felt. Upon it, the ramshackle HERF gun prototype, built out of PVC and held together by Velcro and karabiners, sat inside a glass case, like some kind of curious historical relic from a bygone era. Which it was.
+“I thought the nausea was part of the narrative this time.”
 </p>
 <p>
-Video display monitors, barely thicker than paper, hung from the ceiling of the reception area. The monitors showed proud videos of Tuttle projects. One presented a focused young woman carefully measuring the electrical current flowing through an organic fractal assembly. One displayed an aging paraplegic playing the piano with a hand built of polymer and silicon. One had a Navy admiral demonstrating an aquatic robot darting through the water with a dolphin-like tail.
+“Creative Control worked the defect into the storyboard with some very quick thinking. But it’s a bug, not a feature.”
 </p>
 <p>
-And another displayed a title screen announcing, “Tuttle Investment Partners is a proud sponsor of the Mukhayev Memorial Foundation.” Talking heads gave closed-captioned testimonials about overcoming drug addiction.
+“Alright. I’ll patch it in the next release build.”
+</p>
+<hr/>
+<p>
+Client 4.8.1 had vowed for years that someday she would just drop everything &mdash; her six-figure legal career, her Chelsea loft, her wine-guzzling girlfriends &mdash; and go open a small cupcake shop in Maine. It was just a joke, a mere idle fantasy, until the day she finally mustered her courage and did it. At first she was terrified that she would hate it. But watching people buy her colorful puffballs &mdash; seeing their eyes light up when they took a bite and hearing that little squeal they made through a mouth full of soft deliciousness &mdash; gave her a genuine thrill every time. It was hard work, and business was frequently uneasy and uncertain. Yet here she was, turning on her bakery lights at 5am on a frigid orange-leafed autumn morning, ready to bake a breakfast selection of Halloween-themed pastries. And she couldn’t be happier.
 </p>
 <p>
-A woman’s voice spoke. It was an older voice, well-educated and self-assured. “It’s our pleasure to hear your ideas. We succeed financially by making informed investments, and that means understanding the science behind proposals to judge whether or not they sound promising.”
+If only the lights in her eyes didn’t make her queasy for some reason…
+</p>
+<hr/>
+<p>
+“I thought you said you fixed that.”
 </p>
 <p>
-“And… Do…” The young voice stammered nervously. “Do you think we sound promising?”
+“I thought I did! Here, come take a look…”
 </p>
 <p>
-The speaker stood in a small corporate conference room just beyond the reception hall. He was tall and charismatic, and brimmed with infectious excitement. His partner, a slightly older student with a heavy-set body and a shy demeanor, stood quietly at his side. Behind them, a large screen displayed a rotating protein structure with numerical readouts and a bulleted list of molecular properties. Words along the top of the diagram read, “Pluripotentiated Nanofacturing: A New Application For Cellular Multiplexing.”
+Daniel sat before a translucent screen wide enough to wrap in a half-circle around his desk. His head was silhouetted in its light &mdash; the smooth dome of his cranium, the loose strands around his temples, the fluffy silver fur around his chin.
 </p>
 <p>
-The woman chuckled. “We’ll see.”
+The screen itself glowed with a maze of windows. Some held software develpment environments, with colorful cascades of indented text. Some showed rotating three-dimensional wire-mesh diagrams of organic structures. Some displayed rendered animations of mundane scenes &mdash; a small-town coffee shop, a bakery in Maine.
 </p>
 <p>
-The woman was Tina. She sat at a small conference table, watching the presentation and taking notes. She wore a crisp, conservative business dress. The march of time had chiseled the contours of her face into a firm visage of competence and confidence, smart and strong and feminine. She radiated a kind of mature beauty only expressed in those who have rightfully earned it.
+But the window he focused on now was a long, jagged graph of parallel sensor readouts. 
 </p>
 <p>
-As the two young men fidgeted before their presentation, Tina turned to her side and said jokingly, “What do you think? Should we continue hearing these guys out, or are they a waste of our time?”
+“What do you think, T? I’m not doing that, am I?”
 </p>
 <p>
-Daniel sat at the table beside her, wearing a timeless gray business suit. The color of his clothes matched the tone of his hair, which had receded high above his forehead to form a salt-and-pepper crown. The hair he had lost from the top of his head, he made up for with a neatly trimmed beard, dark and flecked with silver.
+“You are.” Tina leaned her face beside his, studying the chart. She draped an arm over Daniel’s shoulder, and he reciprocated with a hand on the small of her back. The march of time had chiseled her contours into a firm visage of competence and confidence, smart and strong and feminine. She radiated a kind of mature beauty only expressed in those who have rightfully earned it. “The <em>area postrema</em> is extremely dopamine-sensitive. You’re trying too hard. Turn down the external stimulation. Let the cognitive systems do the work. Let them come to their conclusions on their own.”
 </p>
 <p>
-“Eh. I say cut them some slack,” he said, the creases at the corners of his mouth and eyes deepening as he smiled. “I remember giving a presentation to an investor group myself a long time ago, and it was a… stressful experience.” He gave her a wink. “Of course, back then, the term ‘cellular multiplexing’ meant something completely different.”
-</p>
-<p>
-A device on Daniel’s wrist suddenly buzzed with a gentle vibration. Daniel glanced down at the screen. A pop-up window bore the words, “<span class="computer">Rosie: 6 unread messages (10 unread total).</span>”
-</p>
-<p>
-One side of the pop-up was dominated by a cropped square image of Rosie’s face. She used her glamor shot for her profile picture, which meant that every time she messaged, he saw her pressing her fingers erotically against her glossy purple lips, looking sensuously upward with mascara-rimmed eyes below a mane of iridescent platinum hair. The image made him feel awfully awkward every time. He flicked the pop-up away.
-</p>
-<p>
-“On a more serious note, I do have concerns,” Daniel said. “For starters, there’s heat buildup. You’ve got powered components placed microns apart. And your substrate is organic, which means it’s flammable. Tina, what do you think? Is there some cellular mechanism these kids could use to interweave some kind of metallic rodlike structures?”
-</p>
-<p>
-Tina thought for a moment. “Would silica work? There’s a type of protozoan called ‘radiolaria’ that grow thin, spiny biosilicate skeletons. Maybe they could integrate part of its genome.”
-</p>
-<p>
-Daniel nodded thoughtfully. “Silica might work. Could we infuse it with…?”
-</p>
-<p>
-His device buzzed again. “<span class="computer">Rosie: 7 unread messages (11 unread total).</span>”
-</p>
-<p>
-He looked up at the two young hopeful engineers. Their faces were anxious and self-conscious. “Gentlemen,” Daniel said apologetically. “I hate to be rude, but…” He turned away in his chair and focused on his device.
-</p>
-<p>
-He maneuvered to the fresh pile of messages in his Inbox. The texts from Rosie weren’t at the top of his queue. Instead, he first had to flip through several messages that fell under a heading titled, “<span class="computer">HALF-CENTURY BIRTHDAY BLOWOUT!!11!one!</span>”
-</p>
-<p>
-Beside each message, the device displayed familiar faces.
-</p>
-<p>
-“<span class="computer">Dude! Your 50th birthday? We wouldn’t miss it for the world! Count us in 110%!</span>” announced one message, beside a picture of Mike and Natalie. They’d been married for almost a decade. Their youngest child had just entered pre-school. Natalie had her own clinical practice. Mike worked as a network administrator for REI’s corporate offices. In their free time, they made costumes and crafts for the Washington Midsummer Renaissance Faire. They were ridiculously happy.
-</p>
-<p>
-“<span class="computer">Wow, 50!!!! I vaguely remember it. :) I’ve got venue, catering, and entertainment all lined up. It’ll be a gala! Get plenty of rest the night before. You’re going to need it, old man! Welcome to the other side of the hill!</span>” The message was from Jason, whom Daniel hadn’t seen much of lately. Jason’s health was faltering &mdash; no technology could stop the march of time, and his age was beginning to take its toll. Nonetheless, Jason’s spirits were quite high, and his friendship with Danny and the projects of Tuttle Investment Partners brought him fulfillment.
-</p>
-<p>
-“<span class="computer">Daniel. It would be my pleasure to see you again, old friend,</span>” wrote Satish. “<span class="computer">My wife and daughters have not seen America yet, and it was very thoughtful of you to include them in the invitation. It’s a long flight from Mumbai, but we’ll make it happen.</span>”
-</p>
-<p>
-“<span class="computer">Sure! See you there!</span>” Moshen replied. Moshen still made a decent living with his web design work. He was married now, and would soon probably have kids of his own. In his spare time, he penned a popular online comic. It was about kung fu.
-</p>
-<p>
-Finally, Danny found the litany of texts from Rosie.
-</p>
-<p>
-“<span class="computer">Dan my suit isn’t working. Can you fix it?</span>”
-</p>
-<p>
-“<span class="computer">I'm supposed to be doing a dress rehearsal right now but my suit is broken!!! Biggest venue I've ever booked. Kinda starting to fraz here...</span>”
-</p>
-<p>
-“<span class="computer">FUCK DAN I'M IN DEEP SHIT. The talent scouts from Epic and Columbia both watched me rehearsing and they're all like Where's your suit? And I'm like, It'll be working by showtime I PINKIE-SWEAR! DAN PLEASE PLEASE HELP!</span>”
-</p>
-<p>
-“<span class="computer">It ons alright, but then it turds out this message "Segmentation Fault: NullPointerException in IOBuffer::integrateFrame" WTF?</span>”
-</p>
-<p>
-“<span class="computer">Shit, I think I just made it worse...</span>”
-</p>
-<p>
-“<span class="computer">DAN I CAN'T GO ON WITHOUT MY SUIT! WHERE ARE YOU?</span>”
-</p>
-<p>
-“<span class="computer">Hello...?</span>”
-</p>
-<p>
-Daniel sighed gently and put the device away. He looked back and forth at Tina and the young men. They were patiently waiting for him to finish.
-</p>
-<p>
-“I’m so sorry,” he said. “I have to go.”
-</p>
-<p>
-The charismatic young man said, crestfallen, “But our project…!”
-</p>
-<p>
-He gave the two of them a warm smile. “Listen,” said Daniel as he stood up. “You kids have a lot of very, very hard work ahead of you. But Tuttle Investment Partners might be able to help you out. No promises yet. But we’ll talk soon.”
-</p>
-<p>
-Tina asked him, “Is everything alright?”
-</p>
-<p>
-“Yeah,” he said. “Rosie’s just freaking out. Or ‘frazzing’ or whatever the hell the kids say today.” They exchanged a quick but warm kiss. “I’ll see you there, right?”
-</p>
-<p>
-“Hell yeah,” Tina answered. “I already talked to the babysitter &mdash; she’ll pick the boys up from school, and we’re good ’til morning. But, Danny… Rosie’s show isn’t until eight o’clock. She wants you there right now?”
-</p>
-<p>
-“Yeah,” Daniel replied, and headed for the door.
-</p>
-<p>
-“What for?”
-</p>
-<p>
-He answered over his shoulder, “Tech support.”
+He smiled. “Ah. Of course. That <em>is</em> the entire point.”
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">Rosie greeted him completely naked</span> at the door to her dressing room, with the arm of a very muscular young man draped around her sculpted waist.
+<span class="caplead">Alyssa Crawford felt the cushion</span> beneath her back, the headset straps behind her ears. Her hands clutched at the armrests of her recliner, and she started to pull herself up.
 </p>
 <p>
-“Dan! Thank fucking Jesus!” She turned around, pivoting in place with perfect poise. She briskly padded barefoot across the disheveled room, moving effortlessly with a dancer’s grace.
+“No no! Not yet! Let your mind come back into your body.” The woman’s soft voice was simultaneously soothing and authoritative, like a wise matriarch. “We’re going to take off your goggles now, alright? On the count of ten, nine, eight…”
 </p>
 <p>
-Her beefy boy-toy watched her with rapture in his eyes. Daniel knew that look. He’d seen it on every gentleman-caller Rosie had ever brought home. Whoever this fellow was, he was already hopelessly in love. After tonight, he’d probably never see her again.
+The pale glowing nothingness lifted away, and her eyes regained focus. Before her, she saw the warm, kind face of her clinician, Dr. Natalie Rosenbaum-Braun.
 </p>
 <p>
-“It’s over here!” she called from somewhere inside the cluttered chamber. Several young men and women puttered around, examining instruments and equipment. One lean geeky-looking guy sat in front of a clothing rack. Rosie looked down at him and shooed him with her hands, saying, “Ksssst! Scat!” The guy scurried out of his chair.
+“Your name is Alyssa Crawford,” Dr. Rosenbaum-Braun said in that calming yet powerful voice. “You’re a thirty-one-year-old divorce attorney in New York City. Right now you’re in Seattle, in the Life Choices Projection Clinic…”
 </p>
 <p>
-Daniel took a few awkward steps into the dressing room, avoiding looking in her direction. “Rosie, could you maybe put on a robe or something?”
+As the doctor spoke, Alyssa slowly grew aware of medical equipment surrounding her &mdash; glowing displays of jumpy lines, transparent plastic bags of fluid hanging from metal clips. Nurses and technicians scurried around her, making announcements such as, “Prefrontal suppressors fully drained,” or, “Melatonin and GABA levels both back to baseline.”
 </p>
 <p>
-Rosie flicked her hand manically at the clothes rack. “Just… just fix it! Please?”
+“You were in an induced REM-like state for just under two hours,” said the doctor as she removed tubes from the back of her hand.
 </p>
 <p>
-The rack only held one garment: a one-piece jumpsuit. It was made from a material that felt to the touch like something between cellophane and polyester. A flexible column of gray opaque plates ran down the spine and across the shoulders. The plates bore jacks for data and power, as well as elaborate heatsink structures &mdash; heatsinks that would only work properly when in direct full-surface contact with naked flesh. Like a scuba suit, it left only the head and hands exposed. Unlike a scuba suit, it was completely transparent.
+Alyssa gasped. “It… It felt like <em>years</em>…”
 </p>
 <p>
-Daniel pressed a power button on the spine. From neck to toe, the jumpsuit immediately turned solid black. Bars of color appeared down one thigh, denoting battery level, temperature, storage capacity, and CPU and memory utilization. Blocky gray text materialized line by line across the suit’s abdomen, distorted by the curvature of the display fabric.
-</p>
-
-<pre class="computer">
-RedRaven BIOS v8.2.006
-VESA Omnibulus HyperGL
-Processor: Phobion LXZ-8881 512GHz 
-Memory: 32T OK
-INIT runlevel 4
-Filesystem check........................[ OK ]
-Starting system logger..................[ OK ]
-Network initialization..................[ OK ]
-Setting localhost.......................[ OK ]
-</pre>
-
-<p>
-The waterfall of text suddenly spat out: “<span class="computer">Segmentation fault (core dumped)</span>”. The suit performed no further theatrics.
+“Talk to me about your experience.”
 </p>
 <p>
-“See?” Rosie whined. She stood at a nearby closet, slipping into a bathrobe. “That’s all it does!”
+Alyssa struggled for words as reality returned to her. “I… I <em>knew</em> it was a simulation the whole time. But it didn’t matter, you know? You ever have dreams like that? Where you know it’s a dream, but that doesn’t change how real it all seems at the time? I came up with such a great recipe for a spice-infused devil’s food brownie… I… I’m trying to remember it now, but…”
 </p>
 <p>
-Daniel raised a hand and motioned for her to calm down, and studied the reams of text on the suit’s surface. After about twenty seconds, he let out a slight chuckle. “Well, duh. Here’s your problem…”
+Dr. Rosenbaum-Braun doctor smiled kindly. “Let’s not fixate on that. You didn’t <em>really</em> live through several years in the last few hours, after all. We just alter the way your brain records memories, to make you <em>remember</em> it as though you did. You can’t actually learn new skills or produce creative works while you’re under. If you wanted to become a piano virtuoso, for example, we wouldn’t squeeze decades of practice into a two-hour augmented hypnotherapy session. But the <em>effects</em> of having those skills &mdash; the impact on you as a person, how they would affect your perception of yourself and the way you interact with the world &mdash; <em>that</em> part can teach us something. Let’s expore that. How is Maine Cupcake Alyssa different from who you are now?”
+</p>
+<p>
+Alyssa caught herself laughing. “Doctor… Real-Life Me works with people that are literally going through the worst time of their lives. They’re hurt and bitter and vindictive. People hire me to stick it to their soon-to-be exes, or justify their cheating. It… It gets so ugly. But <em>in there</em>, I made people <em>happy</em>. I could <em>see</em> them smile before my eyes. And… I had no idea that something like that was missing from my life until now. Sure, I mean, it’s just a cupcake. It’s just a fleeting moment of pleasure. But it’s <em>real</em> pleasure. I don’t know; maybe I’m doing more overall good in the world where I am now. But… maybe <em>I</em> don’t have to be the one doing it. It’s not like Manhattan has a shortage of divorce lawyers.”
+</p>
+<p>
+Dr. Rosenbaum-Braun coaxed her to lift her head, and removed a flexible cap of electrodes from her skull, carefully separating it from her hair. “Let’s not be too hasty. You shouldn’t make major decisions after <em>one</em> treatment. Eventually you might decide to practice a different kind of law. Or take on some volunteer work. Or you might change nothing &mdash; at least, not on the surface &mdash; but simply learn to see your current situation in a different light.” The doctor held her hand and helped her stand up. “You’re certainly not alone. Many of our clients don’t know what they want until they see it played out before them. Some <em>think</em> they know what they want, only to find that actually <em>having</em> it brings them no joy. And others realize that the thing they thought they needed was something they already had all along. That’s why we’re here.”
+</p>
+<p>
+“Doctor, I do have a question,” Alyssa said, still unsteady on her feet. “Around the end there, while I was waking up… Why did all of my cupcakes grow arms and legs and start kung-fu fighting?”
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">Daniel got the suit working</span> about half an hour before showtime. Rosie began pulling it on before he could even complete a power cycle. “Yes! Thank you! You’re the best, Dan!” she squealed as she rolled her shoulders to straighten the plates on her back. One of her lackeys zipped her up from behind. She flexed her limbs to smooth out any kinks and wrinkles, and barked orders to her bandmates to prepare various filters and sequences. 
+<span class="caplead">“God damn it, Moshen!”</span> Daniel crashed through the double doors of the Realtime Creative Control Room.  
 </p>
 <p>
-The suit, now operational, responded to her movements with iridescent ripples that shimmered across her skin like waves upon an ocean of fluid energy. Flicks of her wrist and ankles sent ribbons of light spinning like whirlwinds upon her body. Shining upon her swaying form, swirls of ethereal color complemented her motions. She looked immaterial, transcendent, detached from physical reality; like a being that belonged to a different plane of existence &mdash; one purer, more celestial, more proximate to God.
+Moshen, giggling hysterically, sat at a desk similar to Daniel’s. His wraparound screen was covered in tree-like diagrams and artistic sketches &mdash; a sort of nonlinear comic strip, where each square had three or four different panels to follow it. Unlike Daniel’s pristine console, Moshen’s workstation was littered with soda and Cheetos; and while Daniel’s monitor was translucent, the screen before Moshen’s face sported an animated background of knights and dragons. Moshen himself was neither small nor scrawny anymore, but he still laughed with the sly mirth of a prank-pulling adolescent boy.
 </p>
 <p>
-She dismissed her pit crew and told her band to go prep the stage for soundcheck and last-minute rehearsal. At her command, they took their equipment and shuffled out the door. She and Daniel were alone.
+“Do you think that was <em>funny</em>?” Daniel demanded.
 </p>
 <p>
-At the sound of the door closing, her bossiness and bravado disappeared like an extinguished candle flame. Where once stood a brash diva, there remained only a frightened, watery-eyed little girl. “Dan…” she said with a quavering voice.
+Beside Moshen’s desk were two others. Mike sat at one, his thick scruff now graying. His screen was strewn with annnotated pictures of people’s faces &mdash; some photographed, some rendered, and some simply cartoons. At the other sat Rosie, grown well into adulthood, holding a stylus in her hand and wearing polarized glasses to view her console &mdash; which was filled with 3D wireframe models of houses, furniture, trees, and shops. Above their desks, respectively, stood placards reading “PLOT”, “CHARACTER”, and “SETTING”. 
 </p>
 <p>
-He stepped toward her and wrapped her protectively in his arms. “Shhh… It’s alright, Rosie,” he said as he gently kissed the top of her platinum-haired scalp. Her show-ready hair tasted like melted plastic. “It’s alright to be afraid. I would be too. You’re going to do great out there.”
+All three of them were silently laughing. Their shoulders shook, their eyes twinkled at him.
 </p>
 <p>
-“Thanks,” she said nervously. “Everybody’s telling me that. I’ll do my best.”
+Daniel’s stern face collapsed into a chuckle. “Alright, yes. That <em>was</em> pretty cute, guys.”
 </p>
 <p>
-“I wasn’t saying it to be supportive,” Danny replied. “I was being sympathetic.”
+From across the room, past the desks of two dozen other supporting employees, Daniel heard a loud, “Ahem!” Jason sat at a small conference table behind a glass partition near the reception area. Seated across from him was a tall, thin, bespectacled man in a well-worn suit. With a voice growing dry with age, Jason said, “And here, Mr. Caldwell, is the CTO and co-founder of this organization.” As Daniel trod over and exchanged handshakes and pleasure-to-meet-yous with the visitor, Jason said, “Mr. Caldwell is a compliance officer at Morgan Stanley.”
 </p>
 <p>
-She pulled a few inches away and looked up with her mascara-rimmed eyes. “I don’t follow…”
+“Ah, you must be here about our IPO!” Daniel replied.
 </p>
 <p>
-“Think about it,” he said. “If you do poorly out there, it won’t really affect anything. You’ll continue performing in obscurity, booking coffee shops and indie festivals. Your life will go on as is, and this becomes just some random night when nothing noteworthy happened, and the achievement of your dreams will forever be simply some hypothetical alternate reality.”
+“I am,” Caldwell said humorlessly as Daniel sat down across from him. “I need to make sure that all of your assets are properly accounted for before we can move forward with the underwriting. I’m hoping you can resolve a few anomalies about the origins of this facility.”
 </p>
 <p>
-Her bright pink lips curled into a sly, defiant smirk. “But I <em>won’t</em> do bad. I’m going to blow them away!”
+Daniel took a deep breath, leaned back slowly, and splayed his fingers toward the newcomer. “We have nothing to hide, Mr. Caldwell. T and I built this place from scratch. &mdash; Er, that’s Christina, I mean. My partner. In every sense.” He proudly rubbed his wedding ring. “She should meet you, actually. She’s doing post-session diagnostics right now, but I can call her once she’s done.”
 </p>
 <p>
-He smiled at her warmly. “Damn straight you will, Rosie! And that means everything changes. Everything. You’ll no longer be the girl struggling to make it. You’ll become the young woman that’s making it. The person you are now, ends tonight. And that’s pretty damn terrifying, isn’t it?”
+“Perhaps,” replied Caldwell, jotting notes. “Does she know about the illegal source of your seed capital?”
 </p>
 <p>
-She nodded briskly. With a choked voice that betrayed her efforts to look brave, she said, “So, what can I do about it?”
+Daniel cocked his head. “I beg your pardon?”
 </p>
 <p>
-“What can you <em>do</em> about it?” Daniel repeated with a kind laugh. “<em>Embrace it!</em> Rosie, that arena out there is about to be filled with adoring fans all dying to feel your magic! The world is waiting &mdash; craving, aching &mdash; to be shown what you’re made of. And if it consumes you in the process &mdash; if you’re burned away in the flame of your own ignition &mdash; then that’s how you know you’ve lived your destiny. Now get out there, and make it happen!”
+“The Zheleznov fortune,” said Caldwell, punctuating the statement by pushing his glasses higher up the bridge of his nose. “Let’s speak frankly here. Both Sergey Mukhayev’s and Ivan Zheleznov’s accounts were compromised during the events of the Medina Gallante. Both men died that day. You were identified and investigated, but ultimately no prosecutor could find enough evidence to implicate you. Hard drives were found scrubbed, log files were missing, phone records were obfuscated. Several years later, you returned from relative obscurity, with millions of dollars to pour into this project here. The obvious conclusions are a bit unsavory.”
+</p>
+<p>
+Daniel looked directly into Caldwell’s eyes. “That <em>is</em> the impression that you might be left with, if all your information comes from my interviews with <em>Time</em> and <em>Wired</em> and Gawker. And I imagine those media outlets edited me like that intentionally &mdash; controversy generates click revenue, after all. But let me clarify a few things. First, the police seized most of Sergey’s money. The little that was left, we were going to spend on Leo’s legal defense fund. But he insisted we use it for private school and college for Rosie. That’s why Leo ended up taking the fall for all Mukhayev family operations, and why he’s still in prison. Rosie still visits him regularly.”
+</p>
+<p>
+Caldwell scoffed. “That accounts for the molehill, but not the mountain. What about all the money from the Zheleznov consortium?”
+</p>
+<p>
+Daniel exchanged a wry look with Jason. “We never actually hacked that account.”
+</p>
+<p>
+Caldwell peered over the top of his glasses.
+</p>
+<p>
+“We were able to deduce its balance, yes,” said Daniel. “But we never managed to crack into it. Ivan used an OTP keyfob, and all transfers required two-factor authentication. Our promise to split the fortune among his men… It was a bluff. Even if we had gotten his password, we never would have been able to move his money. We were never particularly good hackers.”
+</p>
+<p>
+Caldwell looked around the room. “So where <em>did</em> the support for all this come from?”
+</p>
+<p>
+Daniel smiled. “From me, actually. But I was only able to do it thanks to this guy.” He jerked his thumb at Jason, who blushed. “When the assets of Tungsten, my old company, finally went up for auction, he used his private funds to make winning bids on everything that I had personally developed during my years there. My patents, my code, my designs &mdash; all the intellectual property that I had produced while salaried for them. He bought it up. And then… he gave it all to me. Gifted it. He called it a bonus.”
+</p>
+<p>
+Jason added, “You were right from the very start, Dan. It was rightfully yours.”
+</p>
+<p>
+“I licensed my technologies to cellular providers,” Daniel continued. “And <em>that</em> is where I got the revenue to build this place.”
+</p>
+<p>
+Caldwell made a few noncommittal grunts as he scribbled on his notepad. Daniel couldn’t tell if the banker was relieved or disappointed. “Technology licensing,” he said without looking up. “I understand that’s your post-IPO revenue strategy, yes?”
+</p>
+<p>
+“That’s right,” said Daniel. “We want to release these capabilities for third-party development. Other people will build upon what we’ve created here in ways that we haven’t yet imagined. Maybe they’ll run virtual vacation companies where they sell the secret agent missions to Mars; or perhaps enter the dreams of billionaire heirs to convince them to dissolve their fathers’ conglomerates. But for me and T and the rest of us here, we figured we would use it for something a bit more therapeutic.”
+</p>
+<p>
+“Then I have the same question about your technologies as I do about your finances,” Caldwell replied. “No other party can lay claim to your intellectual property? Contest your patents? Demand royalties?”
+</p>
+<p>
+“Mr. Caldwell, I wouldn’t even be <em>able</em> to enjoy any of this if it was the spoils of theft. What my friends and I have created here, we’ve created ourselves.”
+</p>
+<p>
+Caldwell checked his tablet screen. “So you would be able to speak about the process by which all of this was developed, I presume?”
+</p>
+<p>
+Daniel laughed warmly. “Most people can’t get me to <em>stop</em> speaking about it! You see, our technology is all based on one simple premise: that it’s possible to work with the brain as neurochemical machinery. Thinking, feeling, wanting, dreaming &mdash; they’re all <em>physical</em> processes. When you understand how the components work, it becomes possible to analyze thoughts flowing through a human mind the same way you analyze instructions flowing through a computer’s CPU. When a neurobiologist talks about what motivates a person, how a person perceives the world and acts on their desires… When you speak about such matters armed with actual knowledge of how the brain operates, you’re not talking philosophy. You’re talking <em>engineering</em>. We each have the power to <em>reprogram ourselves</em>. This facility is simply a way to help people to that. A dev kit, if you will. The question is: What kind of apps will you write on the platform that is your brain? The answer to that, is entirely up to you.”
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">Daniel sat beside Tina</span> in the VIP booth, above a chattering crowd of tattooed teenagers and twentysomethings slowly growing more inebriated. On the stage, Rosie’s bandmates stood tense and anxious.
-</p>
-<p>
-Suddenly, the lights cut out, and the crowd began to howl and cheer. Delicate chords swelled from the lightless depths of the stage.
-</p>
-<p>
-A glowing figure appeared, dancing through the darkness like an angel across the void of space. It looked not human, but something beyond humanity &mdash; an incarnation of ingenuity and sensuality, an embodiment of mind and spirit. She was a creature born of technology and biology, a unity between mankind’s origin and destination wrapped in song and motion. She was a being for whom the worlds of the natural and the designed, the human and the divine, had no boundaries. For her, the limitless reaches of imagination would be manifest in physical reality.
-</p>
-<p>
-She floated on gossamer limbs toward the microphone, cheered on by an adoring throng of pink-haired girls and slim-hipped guys. Iridescent arms spread to embrace the spotlight. Breath drew sharply into lungs made of starstuff and nebulae. Her voice rang out, carrying her song to the audience, to the world. And from that night on, her music played.
+<span class="caplead">Clients 7.1.1, 7.1.2, and 7.1.3</span> filled out the forms, strapped the caps and goggles over their heads, let the nurses attach tubes to their bodies, and settled into their recliners. They didn’t know exactly what awaited them, but the elevated heart rate readouts on their monitoring terminals conveyed their excitement. Reading reviews and listening to friends, they had heard that the process enabled them to discover what it would be like to live out their heart’s desires. And, in the process, possibly even discover what those desires might be. 
 </p>
 </div>
 

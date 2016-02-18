@@ -159,7 +159,7 @@ Caldwell peered over the top of his glasses.
 Caldwell looked around the room. “So where <em>did</em> the support for all this come from?”
 </p>
 <p>
-Daniel smiled. “From me, actually. But I was only able to do it thanks to this guy.” He jerked his thumb at Jason, who blushed. “When the assets of Tungsten, my old company, finally went up for auction, he used his private funds to make winning bids on everything that I had personally developed during my years there. My patents, my code, my designs &mdash; all the intellectual property that I had produced while salaried for them. He bought it up. And then… he gave it all to me. Gifted it. He called it a bonus.”
+Daniel smiled. “From me, actually. But I was only able to do it thanks to this guy.” He jerked his thumb at Jason, who blushed. “When the assets of Claymore Communications, my old company, finally went up for auction, he used his private funds to make winning bids on everything that I had personally developed during my years there. My patents, my code, my designs &mdash; all the intellectual property that I had produced while salaried for them. He bought it up. And then… he gave it all to me. Gifted it. He called it a bonus.”
 </p>
 <p>
 Jason added, “You were right from the very start, Dan. It was rightfully yours.”
@@ -171,7 +171,7 @@ Jason added, “You were right from the very start, Dan. It was rightfully yours
 Caldwell made a few noncommittal grunts as he scribbled on his notepad. Daniel couldn’t tell if the banker was relieved or disappointed. “Technology licensing,” he said without looking up. “I understand that’s your post-IPO revenue strategy, yes?”
 </p>
 <p>
-“That’s right,” said Daniel. “We want to release these capabilities for third-party development. Other people will build upon what we’ve created here in ways that we haven’t yet imagined. Maybe they’ll run virtual vacation companies where they sell the secret agent missions to Mars; or perhaps enter the dreams of billionaire heirs to convince them to dissolve their fathers’ conglomerates. But for me and T and the rest of us here, we figured we would use it for something a bit more therapeutic.”
+“That’s right,” said Daniel. “We want to release these capabilities for third-party development. Other people will build upon what we’ve created here in ways that we haven’t yet imagined. Maybe they’ll run virtual vacation companies that send people on secret-agent missions to Mars. Or perhaps they’ll enter the dreams of billionaire heirs to convince them to dissolve their fathers’ conglomerates. But for me and T and the rest of us here, we figured we would use it for something a bit more therapeutic.”
 </p>
 <p>
 “Then I have the same question about your technologies as I do about your finances,” Caldwell replied. “No other party can lay claim to your intellectual property? Contest your patents? Demand royalties?”
@@ -189,7 +189,7 @@ Daniel laughed warmly. “Most people can’t get me to <em>stop</em> speaking a
 
 <div class="chapsection">
 <p>
-<span class="caplead">Clients 7.1.1, 7.1.2, and 7.1.3</span> filled out the forms, strapped the caps and goggles over their heads, let the nurses attach tubes to their bodies, and settled into their recliners. They didn’t know exactly what awaited them, but the elevated heart rate readouts on their monitoring terminals conveyed their excitement. Reading reviews and listening to friends, they had heard that the process enabled them to discover what it would be like to live out their heart’s desires. And, in the process, possibly even discover what those desires might be. 
+<span class="caplead">Clients 7.1.1, 7.1.2, and 7.1.3</span> filled out the forms, strapped the caps and goggles over their heads, let the nurses attach tubes to their bodies, and settled into their recliners. They didn’t know exactly what awaited them, but the elevated heart rate readouts on their monitoring terminals conveyed their excitement. They were about to discover what it would be like to live out their heart’s desires. And, in the process, possibly even discover what those desires might be. 
 </p>
 </div>
 

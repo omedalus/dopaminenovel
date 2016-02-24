@@ -277,7 +277,7 @@ Tina shrugged. “Depends on how well I prepped that broth. Maybe hours. Maybe a
 “So,” said Danny, his eyes fixed on hers. “What’s left for us to do here?”
 </p>
 <p>
-“I don’t know,” Tina said. “You tell me.”
+“I don’t know. You tell me.”
 </p>
 <p>
 Beside the stove, the power relay brought the burner back to life with a loud, “<em>Click!</em>”
@@ -331,10 +331,7 @@ At last he released her wrists, tossing her white shirt mindlessly aside and dro
 His arms wrapped around to her front. One hand climbed upward to massage and caress her naked breast, molding around its soft round form. He gently pinched her nipple between two fingers, eliciting moans of delight from her parted lips.
 </p>
 <p>
-His other hand reached around the curve of her hip and climbed downward, past her abdomen, past her navel. He unthreaded her belt from its loops. Pulled it away from the buckle. Slid it open, letting its leather ends dangle aside. Nimbly unbuttoned her black slacks. Drew down the zipper.
-</p>
-<p>
-He took his time, savoring every moment, enjoying hearing her gasp. 
+His other hand reached around the curve of her hip and climbed downward, past her abdomen, past her navel. He unthreaded her belt from its loops. Pulled it away from the buckle. Slid it open, letting its leather ends dangle aside. Nimbly unbuttoned her black slacks. Drew down the zipper. He took his time, enjoying hearing her gasp. 
 </p>
 <p>
 His fingers first stroked teasingly outside her panties, indulging in the slickness of her hot, moist passion. He kept his ministrations on the outside of the thin fabric until her face contorted in agony; then he finally granted her the relief of feeling him touch her with his bare fingers. He rubbed and stroked with a steady, pulse-like rhythm, matching his motions to the pace of her breathing. He keenly watched her face, relishing her pleasure.

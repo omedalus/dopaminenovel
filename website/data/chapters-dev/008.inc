@@ -210,37 +210,28 @@ Mike stared at his screen in confusion. “Not yet, Danny. I’m seeing somethin
 “Weird how?” Danny asked.
 </p>
 <p>
-“Well, it’s really messed up,” he said. “See… Some of those machines in there… I don’t… I’m not sure I’m reading this right… They’re on the Ethernet segment, but…” 
+“Well, it’s really messed up. See… Some of those machines in there… I don’t… I’m not sure I’m reading this right… They’re on the Ethernet segment, but… they’re not using IP.”
 </p>
 <p>
-“Just say it, Mike,” Danny said.
+“Heh. Don’t be ridiculous. Everything uses IP.” He noticed a quizzical expression from Jason. “IP is the digital language of the Internet. Has been for twenty years. Mike, if they’re not using IP, how are they talking to one another?”
 </p>
 <p>
-“They’re not using IP,” Mike replied hesitantly.
+“It’s… I think they’re… Novell Netware, Danny. Raw IPX/SPX on the 802.3 frame.”
 </p>
 <p>
-“Heh. Don’t be ridiculous,” said Danny. “Everything uses IP.” He noticed a quizzical expression from Jason. “IP is the digital language of the Internet. Has been for twenty years. Mike, if they’re not using IP, how are they talking to one another?”
+“Are you serious?” Danny asked. “Novell hasn’t used that protocol since the mid nineties. Not since I was in college.”
 </p>
 <p>
-“It’s…,” said Mike. “I think they’re… Novell Netware, Danny. Raw IPX/SPX on the 802.3 frame. I’ve been trying to decode them with WireShark. I thought it was a parsing error this whole time.”
-</p>
-<p>
-“Are you serious?” Danny asked. “Novell hasn’t used that protocol since the mid nineties. I haven’t heard anybody mention it since I was in college.”
-</p>
-<p>
-Mike said. “Yeah! I’m seeing something called DECnet Routing Protocol. Danny, what <em>is</em> this?”
+Mike said. “Yeah! And there’s something called DECnet Routing Protocol. Danny, what <em>is</em> this?”
 </p>
 <p>
 Danny shook his head. “It’s ancient…” 
 </p>
 <p>
-On his laptop, he found a camera that Moshen wasn’t spinning at the moment. He brought up a video feed in a room with large steel refrigerators along the walls. One of the refrigerators had a massive metal door with a special lever-like handle. A clunky computer sat next to it, beige with black trim. A small CRT monitor was built into its body, showing a screen of blocky green text. The keyboard was two inches thick and looked heavy enough to use as a bludgeoning weapon. 
+On his laptop, he found a camera that Moshen wasn’t spinning at the moment. He brought up a video feed in a room with large steel refrigerators along the walls. A clunky console sat next to it, beige with black trim. A small CRT monitor was built into its body, showing a screen of blocky green text. The keyboard was two inches thick and looked heavy enough to use as a bludgeoning weapon. 
 </p>
 <p>
-Danny recognized it. It was a relic. An honest-to-God DEC VT100 terminal. It wasn’t even a real computer. Digital Equipment Corporation discontinued those machines when Danny was in junior high. 
-</p>
-<p>
-DEC itself, even for Danny, was barely even a memory anymore. After forty years as a multi-billion-dollar industry leader, DEC finally went defunct in 1998, unable to compete against the low-cost Intel x86-based Windows PCs flooding the market. DEC was bought out by Compaq, who manufactured the very machines that had caused DEC’s demise. Compaq, in turn, was bought out by Hewlett-Packard in 2002. There was a time when DEC terminals were as common as telephones &mdash; yet Danny realized that, today, even the most computer-savvy twentysomethings had never even heard of them.
+Danny recognized it. It was a relic. An honest-to-God DEC VT100 terminal. Digital Equipment Corporation discontinued those machines when Danny was in junior high &mdash; and a few years later, in 1998, after forty years as a multi-billion-dollar industry leader, DEC shuttered its doors. There was a time when those VT100s were as common as telephones. Yet Danny realized that, today, even the most computer-savvy twentysomethings had never even heard of them.
 </p>
 <p>
 He switched to a camera in the cramped warehouse-like storeroom. In the light of weak yellow lamps, Danny could make out computers scattered among the rest of the unused equipment. There was the curvy purple case of an SGI O2+ workstation. There was a black NeXT cube. There was equipment by Solaris. By Sun Microsystems. By Amiga. By Tandy.
@@ -255,13 +246,13 @@ The first program Danny ever wrote was a BASIC script on a brand-new, cutting-ed
 Tandy went defunct in 2000.
 </p>
 <p>
-His first job in college was porting one of the University’s data entry systems from a DEC PDP-11 to IBM’s OS/2. He laughed at the primitive design of the original PDP-based software &mdash; it wasn’t until many years later that he realized that the engineer who had built <em>that</em> system had needed, in turn, to keep it compatible with something even older. Danny knew everything back then. There was no technical challenge that wouldn’t crumble under the might of his intellect. He was eighteen years old.
+His job in college was porting the University’s data entry systems from a DEC PDP-11 to IBM’s OS/2. He laughed at the primitive design of the original software &mdash; until he realized that the engineer who had built <em>that</em> system had, in turn, ported it from something even older. Danny knew everything back then. There was no technical challenge that wouldn’t crumble under the might of his intellect. He was eighteen years old.
 </p>
 <p>
 IBM discontinued OS/2 in 2001.
 </p>
 <p>
-His master’s thesis was on techniques for transistor placement to optimize thermal dissipation in 3D VLSI layout. His education was funded by Cray Computer Corporation. Danny’s research was a key part of the company’s efforts to keep supercomputer architectures competitive against new “massively parallel” systems. He even had the profound honor of attending a dinner with the legendary Seymour Cray himself, once when he was twenty-two years old.
+His master’s thesis was on transistor placement to optimize thermal dissipation in 3D VLSI layout. His research was funded by Cray Computer Corporation, as part of the company’s efforts to keep supercomputer architectures competitive against new “massively parallel” systems. He even had the profound honor of attending a dinner with the legendary Seymour Cray himself once, when he was twenty-two years old.
 </p>
 <p>
 “Danny?” Jason said softly.
@@ -279,16 +270,13 @@ He slammed his laptop shut.
 “Danny, are you okay?” Jason asked.
 </p>
 <p>
-“Yeah, I’m f&mdash;,” Danny began to say, but felt his voice crack. He was crying. 
-</p>
-<p>
-The SUV was silent. He could feel everyone looking at him. He didn’t dare turn his face and let them see his eyes. “I’m fine!” he insisted, and hopped out of the car, slamming the door behind him. He sat down on the pavement against the tire, set his laptop down by his feet, and buried his face in his hands.
+“Yeah, I’m f&mdash;,” Danny began to say, but felt his voice crack. He blinked away the moisture in his eyes. “I’m fine!” He jumped out of the car, slamming the door behind him. He sat down on the pavement against the tire, set his laptop down by his feet, and buried his face in his hands.
 </p>
 <p>
 Jason exited the SUV and came around. “You alright?” he asked, sitting down beside him.
 </p>
 <p>
-Danny sighed. He poked at his laptop with his foot. “I hate these things,” he said.
+Danny sighed. He poked at his laptop with his foot. “I hate these things.”
 </p>
 <p>
 “Laptops?”
@@ -300,13 +288,13 @@ Danny sighed. He poked at his laptop with his foot. “I hate these things,” h
 “What’s going on with you, Danny?” Jason’s tone was professional but kind.
 </p>
 <p>
-“Six years at one dead company. Six years at another. And another. And another…” Danny stared away emptily. “I hate the computer industry. It’s such a goddamned waste of life. I’ve been doing this for over twenty years, and everything I’ve ever built just gets swept away by the next great wave. My resume reads like the dot-com obituaries. They all start out as brilliant ideas and then become obsolete and useless in the time it takes to put those ideas into action.”
+“Six years at one dead company. Six years at another. And another…” Danny stared away emptily. “The tech industry is such a goddamned waste of life. Everything I’ve ever built just gets swept away by the next great wave. My resume reads like the dot-com obituaries. They all start out as brilliant ideas and then become obsolete in the time it takes to put those ideas into action.”
 </p>
 <p>
-Jason thought for a few moments before replying. “You remember what I said, Danny, when I saw you holding that invention of yours back at the club? You love your work. I know you do.”
+Jason thought for a few moments. “You remember what I said, Danny, when I saw you holding that invention of yours back at the club? You love your work.”
 </p>
 <p>
-“I do, Jason. I love it so much it’s heartbreaking. Do you know how much it hurts to love something that dies so quickly? You learn some amazing complex system, and then bam! Obsolete overnight. Do you have any idea how much outdated technical shit is in my head? I can rattle off every opcode in the Motorola 68K instruction set. I know the full pin-out structure for the Intel 80286 CPU. I know a thousand things that, at their time, were cutting-edge. I was fucking awesome. And now what? Time has left them in the dust, and all that shit is still in my head, like the abandoned ruins of some ancient civilization. All that skill, that hard-won knowledge… it’s useless. Completely, utterly useless.” He gulped painfully. “Just like me.”
+“I do, Jason. And do you know how much it hurts to love something that dies so quickly? You learn some amazing complex system, and then bam! Obsolete overnight. I can rattle off every opcode in the Motorola 68K instruction set. I know the full pin-out structure for the Intel 80286 CPU. I know a thousand things that, at their time, were cutting-edge. I was fucking awesome. And now? Now they’re dust. And all that shit is still in my head, like the abandoned ruins of some ancient civilization. All that skill, that hard-won knowledge… it’s useless. Useless.”
 </p>
 <p>
 Jason stood up beside him and reached his hand down toward Danny. “Listen. I’m not sure exactly what triggered this, but if you really take pride in your work, then… Well, you’re at work this very minute, remember? Stop sulking. You’re on the clock. You’ve got a job to do.”

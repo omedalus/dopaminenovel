@@ -354,7 +354,7 @@ Natalie’s voice appeared on the channel. “Danny, there’s two people with g
 “One’s pulling out something from her pocket,” Natalie added. “It’s black with something shiny attached. The other’s talking on his cellphone in one hand with his gun in the other… Danny, the woman looks like she’s getting ready to body-check the door. The dude’s holding back a few feet, like he’s giving her cover.”
 </p>
 <p>
-“Jesus. Sounds like they’ve got training!” Danny said. “Who the hell <em>are</em> they?”
+“Jesus. Sounds like they’re pros,” Danny said. “Who the hell <em>are</em> they?”
 </p>
 <p>
 A fire door a few levels above burst open. A woman’s voice rang out, “Freeze! Police!”
@@ -372,16 +372,7 @@ There were a few seconds of stillness. Danny gripped the railing tightly, holdin
 The man above said, “Buddy, I don’t care how big your gun is or how much armor you got on. How far you think you’ll make it on that bum leg?”
 </p>
 <p>
-A gentle tap indicated a gun being placed on the floor. It was followed by the ratcheting clicks of handcuffs.
-</p>
-<p>
-The policewoman called out, “Hey, Mack! This guy took a two-twenty-three to the gut. He’s not doing too good.”
-</p>
-<p>
-The male cop replied, “Yeah, mine took a shot to the knee. Calling for medical, hold on.”
-</p>
-<p>
-Danny heard the distinct static of a two-way radio. The device that Natalie had seen wasn’t a cellphone &mdash; it was a walkie-talkie.
+A gentle tap indicated a gun being placed on the floor, followed by the ratcheting clicks of handcuffs. Then came the distinct static of a two-way radio. The device that Natalie had seen wasn’t a cellphone &mdash; it was a walkie-talkie.
 </p>
 <p>
 “Dispatch, come in,” said the man. “This is Detective Macintyre, with Detective Santello, on plainclothes investigation at the Medina Gallante hotel. We picked up a company van marked ‘Claymore Communications’ on the Medina neighborhood camera system, and gave it a routine tail. Dispatch, we’ve got a situation here…”
@@ -396,7 +387,7 @@ Leo interrupted. “I… need a bandage.”
 Below, Danny resumed descending the stairs, praying that the policeman’s voice would mask the sound of his movements.
 </p>
 <p>
-Danny soon found himself stepping onto the wide landing of the ground floor. To his side, the stairs continued downward to the parking garage. Ahead, a fire door stood between him and the maintenance corridor. He opened it gently, and stepped out of the dim stairwell and into the “HOTEL STAFF ONLY” hallway, lit by harsh fluorescent tubes overhead.
+Danny soon found himself stepping onto the wide landing of the ground floor. To his side, the stairs continued downward to the parking garage. Ahead, a fire door stood between him and the maintenance corridor. He opened it gently, and stepped out of the dim stairwell into the fluorescent-lit “HOTEL STAFF ONLY” hallway.
 </p>
 <p>
 “Cops,” he gasped into the Bluetooth. “Jesus. Tina, this whole building is going to be crawling with law enforcement soon. Tell Sergey and Eugene. They’ll need to be ready for extraction before the cavalry arrives.”
@@ -426,7 +417,7 @@ The three towel-clad Russian mercenaries had broken free of Eugene’s knotwork.
 “Oh, God damn it,” Danny mumbled, and bolted.
 </p>
 <p>
-The mercenaries gave chase, each self-consciously keeping one hand on the white towel around his waist. Danny sprinted toward the door at the end of the corridor, which would lead him out to the hotel’s spacious lobby. Still dizzy from the flash grenade, he nearly tripped over his own feet. Like a nightmare, the exit seemed to recede farther with each step he took toward it. He knew he’d never make it.
+The mercenaries gave chase, each self-consciously keeping one hand on the white towel around his waist. Danny sprinted toward the door at the end of the corridor, which would lead him out to the hotel’s spacious lobby. Like a nightmare, the exit seemed to recede farther with each step he took toward it. He knew he’d never make it.
 </p>
 <p>
 A nondescript gray door passed on his side as he ran. With the men only a few feet behind him, he grabbed the handle and pushed it open, revealing a small, cramped janitor’s closet. He hurled himself inside and slammed the door behind him. He dug his heels into the floor and pressed his back against the doort as the naked Russians beat and kicked against the outside.

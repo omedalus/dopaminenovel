@@ -67,10 +67,10 @@ Danny stuck his head over Moshen’s shoulder. The screen displayed:
 </p>
 
 <pre class="computer">
-68.178.232.100 - - [20/Jul/2014:01:46:47 +0000] "GET /imag
+68.178.232.100 - - [20/Jul/2011:01:46:47 +0000] "GET /imag
 es/logo.gif?tracker=73567354756 HTTP/1.1" 200 1537 "-" "Mo
 zilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 
-Thunderbird/24.0.1"
+Thunderbird/3.0.1"
 </pre>
 
 <p>

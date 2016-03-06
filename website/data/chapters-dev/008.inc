@@ -312,10 +312,10 @@ A sound that came, oddly, with no corresponding engine rumble.
 A gleaming white Tesla Roadster made its way up the street adjoining the office complexes.
 </p>
 <p>
-Several cars had already driven by. What made Danny and Jason notice this one, besides its stylishness and the unusual, eerily quiet way it moved, was that it slowed down and turned into the Tungsten parking lot.
+Several cars had already driven by. What made Danny and Jason notice this one, besides its stylishness and the unusual, eerily quiet way it moved, was that it slowed down and swerved into the Tungsten parking lot.
 </p>
 <p>
-Through the pine trees, they could see the Roadster stop just in front of Tungsten’s entrance. Two male figures emerged, clad in dark jackets and leather gloves. They stood outside talking in the light pouring from the lobby.
+Through the pine trees, they could see the Roadster stop just in front of Tungsten’s entrance. Two male figures emerged, clad in dark jackets and leather gloves.
 </p>
 <p>
 “Danny! Jason!” Mike’s voice came from the SUV. “Are you watching the two guys?”
@@ -333,10 +333,7 @@ Danny and Jason hid behind the black Navigator. “What’s going on?” asked D
 “Look at the parking lot camera,” said Mike.
 </p>
 <p>
-Danny brought up the video feed.
-</p>
-<p>
-The two men stood in front of their car, talking. They had athletic bodies, and hard faces that looked like they were comfortable and familiar with danger. They had slim cellphones with Bluetooth headsets, which they set up and put into their ears.
+Danny brought up the video feed. The newcomers had athletic bodies, and hard faces that looked like they were comfortable and familiar with danger. They had slim cellphones with Bluetooth headsets, which they set up and put into their ears.
 </p>
 <p>
 And they had guns.
@@ -345,7 +342,7 @@ And they had guns.
 One carried a thin semiautomatic handgun; the other, a short silver revolver with a disproportionately large opening. The men held the firearms nonchalantly, casually gesturing with them as they talked. 
 </p>
 <p>
-With a nod, the one with the revolver tucked his gun into a jacket pocket. He opened the Roadster’s door and retrieved an object from inside. Danny zoomed in on the man’s hands. It was a woman’s handbag &mdash; a Hello Kitty purse. The man pulled a keycard out of it, threw the purse back into the car, and walked out of frame. Danny zoomed back out, following the man’s movement to the entrance of Tungsten’s headquarters. A green light popped on above the door’s keycard reader. The man handed the keycard to his partner and entered the building.
+With a nod, the one with the revolver opened the Roadster’s door and retrieved something from inside &mdash; a Hello Kitty purse. The man pulled a keycard out of it, threw the purse back into the car, and walked to the entrance of Tungsten’s headquarters. A green light popped on above the door’s keycard reader. The man handed the keycard to his partner and entered the building.
 </p>
 <p>
 The other man remained out front, standing beside the front doors. He pulled back the slide on his weapon and deftly screwed a long black silencer onto the end of the barrel. With the silencer firmly installed, he pushed a clip into the gun’s handgrip and released the slide, causing it to snap forward. He took off his jacket and draped it over his hand, concealing the weapon. Crooking his arm casually at his side, he leaned against the wall as though idly waiting for someone.

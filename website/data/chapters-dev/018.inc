@@ -570,16 +570,10 @@ Jason found a loose sheet of paper, careful to keep it from making too much rust
 Danny shook his head. “I need something with more heat capacity. Something that will stay burning long enough to raise the temperature to its flash point. There’s got to be something here that will hold a decent flame…”
 </p>
 <p>
-Jason looked at Danny and said pointedly, “Take your shirt off.”
+Jason looked at Danny and said, “Your shirt. It’s soaking wet.”
 </p>
 <p>
-“What?”
-</p>
-<p>
-“Your shirt,” said Jason. “It’s soaking wet.”
-</p>
-<p>
-“Yeah, it’s pretty uncomfortable,” said Danny, “but that’s the least of my… Oh!”
+“Yeah, it’s pretty uncomfortable, but that’s the least of my… Oh!”
 </p>
 <p>
 Danny wriggled awkwardly in the cramped space. The wrestling match with the kerosene-soaked fabric seemed interminable, but Danny ultimately prevailed. He pulled the damp floral-print away from his head, and laid it down as a wad on the linoleum floor.
@@ -623,7 +617,7 @@ Danny reached down. With one hand he grabbed his HERF gun. With the other, heedl
 <p>
 <span class="caplead">
 The factory was ablaze before</span> 
-the burning sweatshirt even touched the floor. The volatile vapors of acetone flashed first, sending an ignition wave racing out to the corners of the room. The kerosene, harder to light but burning hotter, erupted milliseconds later. The Styrofoam and cardboard followed, lifting dirty, noxious residue into the air as they combusted. In a blink, the small factory transformed into a roaring inferno.
+the burning sweatshirt even touched the floor. The volatile vapors of acetone flashed first, sending an ignition wave racing out to the corners of the room. The Styrofoam and cardboard followed, lifting dirty, noxious residue into the air as they combusted. In a blink, the small factory transformed into a roaring inferno.
 </p>
 <p>
 Danny had just barely cleared the landing when the wave of heat blasted out behind him, carrying glowing embers and ash amidst arcs of flame. 
@@ -653,16 +647,10 @@ Instead, Jason stood despondently next to the Navigator, looking down. All four 
 On the ground outside the factory, on the opposite side of the BMW, Eugene rolled frantically to extinguish himself. The Italian lambskin material of his jacket melted off in rivulets from his sides and sleeves.
 </p>
 <p>
-Danny scanned the alley, lit with the orange glow of the blazing factory. A handful of other cars had parked there overnight, spread far apart and separated by dumpsters and stacks of wooden pallets. 
+Danny scanned the alley. Here and there, amid dumpsters and discarded pallets, a handful of other cars had parked there overnight. One was a red Ford F-150. Its rear bumper and window were covered with stickers of Seattle grunge and metal bands &mdash; logos of Nirvana, Pearl Jam, Soundgarden, Queensrÿche, and Alice in Chains. 
 </p>
 <p>
-One of the cars was a red Ford F-150. Its rear bumper and window were covered with stickers of Seattle grunge and metal bands &mdash; logos of Nirvana, Pearl Jam, Soundgarden, Queensrÿche, and Alice in Chains. 
-</p>
-<p>
-Danny felt in his pocket, and pulled out the keychain he had lifted from Rex’s body &mdash; the one with the Ford remote and the Kurt Cobain plushie.
-</p>
-<p>
-He tried a button on the remote. The taillights of the red Ford blinked a greeting.
+Danny felt in his pocket, and pulled out the keychain he had lifted from Rex’s body &mdash; the one with the Ford remote and the Kurt Cobain plushie. He tried a button on the remote. The taillights of the red Ford blinked a greeting.
 </p>
 <p>
 Jason and Danny wasted no time getting to the late Rex’s pickup truck. The two men scrambled into the Ford. Force of habit drove Danny to the passenger’s side, and he passed the keys to Jason. The moment the key turned, the ignition was drowned out by the distorted chords of a grunge guitar riff that blasted out at jarring volumes. Danny switched off the stereo while Jason hit the gas.

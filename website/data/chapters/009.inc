@@ -213,19 +213,19 @@ Mike grinned.
 “Me? I’ll be going in with <em>this</em>.” 
 </p>
 <p>
-He opened the passenger door and grabbed his Claymore tote bag. He began pulling out bits of metal and plastic, starting with the piece that looked like a narrow homemade bullhorn with the pistol grip and the large rubber-coated blocks on the back.
+He opened the passenger door and grabbed his Claymore tote bag. He began pulling out bits of metal and plastic, and clipping and twisting them together.
 </p>
 <p>
-After the bullhorn came a row of plastic blocks, each as big as a Rubik’s Cube. Next came a group of heavy blue cylinders, each one the size and shape of a beer can, arranged like an eight-pack. Each component was strung on cables, the junction points buried under slathers of caulk and epoxy. 
+First came the narrow bullhorn-looking device, with its pistol-like handle. It was followed by a row of plastic blocks, each as big as a Rubik’s Cube. Next emerged a group of heavy blue cylinders, each one the size and shape of a beer can, arranged like an eight-pack. Each component was strung on cables, the junction points buried under slathers of caulk and epoxy. 
 </p>
 <p>
-A two-foot-long white hollow plastic tube, about four inches wide with slots and grooves all along its length, stuck out from the top of the bag. Danny grabbed it and began screwing it onto the back of the horn.
+A two-foot-long white hollow plastic tube, about four inches wide with slots and grooves all along its length, stuck out from the top of the bag. Danny screwed it onto the back of the horn.
 </p>
 <p>
 “The hell’s that thing?” asked Moshen.
 </p>
 <p>
-“Well,” said Danny as he worked, “this part in front is a magnetron that I ‘borrowed’ from a battleship radar system at Naval Base Kitsap.” He took the eight-pack of cylinders and clipped it to the back of the white tube. “<em>This</em> is a bank of high-voltage ultracapacitors from a hybrid car powertrain. <em>This</em>…” He Velcro’ed the plastic cubes along the length of the tube. “…is a set of relays for switching between serial charge and parallel discharge…” He pulled out a slotted metal box with vents and a socket. “This is the power conversion module,” Danny said as he attached it to the tube. “And <em>this</em>…” He pulled out a stack of laptop batteries. “…is a stack of laptop batteries.” The stack was about a dozen batteries high, all duct-taped together with their metal contacts tethered to one another with coils of cable.
+“Well,” said Danny as he worked, “this part in front is a magnetron that I ‘borrowed’ from a battleship radar system at Naval Base Kitsap.” He took the eight-pack of cylinders and affixed it to the back of the white tube. “<em>This</em> is a bank of high-voltage ultracapacitors from a hybrid car powertrain. <em>This</em>…” He Velcro’ed the plastic cubes along the length of the tube. “…is a set of relays for switching between serial charge and parallel discharge…” He pulled out a slotted metal box with vents and a socket. “This is the power conversion module,” Danny said as he attached it to the tube. “And <em>this</em>…” He pulled out a stack of laptop batteries. “…is a stack of laptop batteries.” The stack was about a dozen batteries high, all duct-taped together with their metal contacts tethered to one another with coils of cable.
 </p>
 <p>
 He stood up and held the device in both hands. Fully assembled, it was about four feet long. With the flick of a few switches, tiny lights lit up near the capacitor bank. Small fans whirred to life inside the power supply box. The device emitted a faint high-pitched whine that rose until it passed above the range of human hearing, like a high-end camera flashbulb charging up for a photograph.

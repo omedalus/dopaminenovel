@@ -6,13 +6,7 @@
 The car came to a stop near the entrance. The driver-side window rolled down, revealing a middle-aged man with gelled gray hair.
 </p>
 <p>
-Jason’s head drooped. His mouth hung open and his eyes didn’t focus. He said in a slow, raspy whisper, “Is this the Weisenbaum Clinic?”
-</p>
-<p>
-The man made a shooing motion with his free hand.
-</p>
-<p>
-“It’s supposed to be here,” Jason whined, his voice hoarse and nasal. “I see the big ‘W’ on the door.”
+Jason’s head drooped. His mouth hung open and his eyes didn’t focus. He said in a slow, raspy whisper, “Is this the Weisenbaum Clinic? I see the big ‘W’ on the door…”
 </p>
 <p>
 “This isn’t a clinic,” the man barked.
@@ -48,16 +42,10 @@ The man said something in Russian into his headset, his tone of annoyance crossi
 The man growled. 
 </p>
 <p>
-He was spending so much concentration trying to dial Jason’s number that he didn’t notice the green light pop on above the keycard reader behind him.
+With his attention focused on trying to dial Jason’s number, he didn’t notice the green light pop on above the keycard reader behind him. Nor did he notice Mike tiptoeing his way along the wall, making his way silently toward the entrance.
 </p>
 <p>
-Nor did he notice Mike tiptoeing his way along the wall, making his way silently toward the entrance.
-</p>
-<p>
-Until Mike finally ducked through the big glass door.
-</p>
-<p>
-The whole area illuminated by the light coming from the lobby. Mike had to step into the light in order to pass through the large glass doors. His shadow swept across the man and the black SUV.
+Until Mike finally ducked through the big glass door. As Mike’s body slid into the light pouring from the lobby, his shadow swept across the parking lot.
 </p>
 <p>
 Danny cursed silently. He should’ve anticipated that. He hadn’t.

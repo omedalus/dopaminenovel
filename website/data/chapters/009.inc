@@ -135,7 +135,7 @@ Eyebrows cocked around him.
 Jason shrugged. “And…?”
 </p>
 <p>
-“And so are we,” said Danny. “The difference is, <em>they</em> seem to know what they’re looking for. We’re here to steal Tungsten’s secrets, right? Well, <em>something</em> is in that freezer. Something valuable. I say we take it. We’re hackers, right? Let’s hack their theft and make it our own.”
+“And so are we,” said Danny. “The difference is, <em>they</em> seem to know what they’re looking for. We’re here to steal Tungsten’s secrets, right? <em>Something</em> is in that freezer. Something valuable. I say we take it. We’re hackers, right? Let’s hack their theft and make it our own.”
 </p>
 <p>
 Jason looked at him aghast. “Jesus. You’re serious. Danny, have you lost your mind? They’ll <em>kill you</em>.”
@@ -144,7 +144,7 @@ Jason looked at him aghast. “Jesus. You’re serious. Danny, have you lost you
 Danny looked down, his brow furrowed in thought. “Not necessarily. I think can out-maneuver them in there.”
 </p>
 <p>
-“How?” the financier asked. “Look at those guys! They’re not new at this. They have guns, they have training, they have experience…”
+“How?” the financier asked. “Look at those guys! They’re not new at this. They have guns, training, experience…”
 </p>
 <p>
 “We’ve got a massive tactical advantage,” Danny said. He tapped on the screen of his laptop.

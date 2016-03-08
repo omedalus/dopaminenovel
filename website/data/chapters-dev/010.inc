@@ -1,6 +1,6 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The black Lincoln Navigator</span> wound awkwardly around Tungsten’s parking lot, driving slowly and weaving back and forth. The man standing by the door studied the oddly-moving SUV apprehensively, and said something into his Bluetooth headset.
+<span class="caplead">The black Lincoln Navigator</span> wound slowly around Tungsten’s parking lot, awkwardly weaving back and forth. The man standing by the door studied the oddly-moving SUV apprehensively, and said something into his Bluetooth headset.
 </p>
 <p>
 The car came to a stop near the entrance. The driver-side window rolled down, revealing a middle-aged man with gelled gray hair.
@@ -60,7 +60,7 @@ That’s when the man’s cellphone exploded.
 The phone jumped in his hand with a loud “<em>crack!</em>” A shower of white sparks burst somewhere within, spilling out from the sides and from the seams around the buttons. Arcs of electricity flashed across its face. The man yelped and dropped it to the ground.
 </p>
 <p>
-Jason slammed on the gas. The SUV’s tires squealed in place before hurling the car forward. He steered a zigzagging pattern back out to the street.
+Jason slammed on the gas. The SUV’s tires squealed on the pavement. He steered a zigzagging pattern back out to the street.
 </p>
 <p>
 The man’s head swiveled from the building to the car. He let his jacket fall to the ground and drew the silenced semiautomatic up to shoulder height. He held the gun with both hands, took aim, and pulled the trigger several times. The gun didn’t make a “<em>bang!</em>” It did, however, make a distinct popping noise, together with the loud “<em>clack!</em>” of interlocking spring-loaded metal parts snapping into place.

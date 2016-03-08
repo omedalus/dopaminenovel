@@ -4,13 +4,13 @@
 Clanging and clattering came from the cookware cabinet</span> as Danny dug around. He produced a two-gallon pot with lid.
 </p>
 <p>
-“Here, wipe down the inside,” said Tina as she tossed him some alcohol wipes. Danny watched her working at his kitchen counter, where she had arranged a row of bottles and bowls. The sleeves of her simple white button-down shirt were rolled up to her elbows, and her hands were wrapped in rubber gloves. “Fill the pot with hot water,” she instructed, “and pre-heat the oven.”
+“Here, wipe down the inside,” said Tina as she tossed him some alcohol wipes. She had arranged a row of bottles and bowls. The sleeves of her simple white button-down shirt were rolled up to her elbows, and her hands were wrapped in rubber gloves. “Fill the pot with hot water, and pre-heat the oven.”
 </p>
 <p>
 Danny went to prepare the stove. Its clock read 2:17am.
 </p>
 <p>
-His exhaustion felt like a lead shawl draped upon his shoulders. He barely felt strong enough to stand. He put the pot into the sink, leaning heavily against the counter. With unfocused vision, he watched the hot water rise against the steel. 
+His exhaustion felt like a lead shawl draped across his shoulders. He put the pot into the sink, leaning heavily against the counter. With unfocused vision, he watched the hot water rise against the steel. 
 </p>
 <p>
 From behind him, Tina announced, “Incoming!” She glided in with a Pyrex bowl filled with a flour-like powder, which she poured into the pot.
@@ -19,7 +19,7 @@ From behind him, Tina announced, “Incoming!” She glided in with a Pyrex bowl
 She stood close enough for him to see the smudges on her face from hastily applied makeup, smell her floral perfume. He found himself subtly leaning into her. He wasn’t sure whether or not she caught him doing it; she simply kept standing there, stirring the pot as it filled, her eyes fixed downward to her task. He did notice, though, that her cheeks were rosy, and her lips were drawn up in a coquettish smile.
 </p>
 <p>
-The water neared the brim of the pot. Tina shut off the tap, and silence abruptly filled the house. She stood motionless for a moment, her hand frozen on the water knob.
+The water neared the brim. Tina shut off the tap, and silence abruptly filled the house. She stood motionless for a moment, her hand frozen on the water knob.
 </p>
 <p>
 Danny looked down nervously at the pot.
@@ -31,34 +31,28 @@ Tina broke the stillness with a sharp inhale. “Okay, then.” She closed its l
 With the water busy heating, Danny grabbed a seat at the counter. “So, what happens now?” he asked, resting his head limply on his hands.
 </p>
 <p>
-“After the water boils,” said Tina, “I’ll turn down the heat and let it simmer.”
+“After the water boils, I’ll turn down the heat and let it simmer.” Tina came around and sat down beside him. “A real autoclave would suck out all the air and then blast it with pressurized steam for twenty minutes. But what we’re doing should be good enough.”
 </p>
 <p>
-Danny let out a big yawn. “Cooooool.”
-</p>
-<p>
-Tina sat down next to him. “A real autoclave would suck out all the air and then blast it with pressurized steam for twenty minutes. But what we’re doing should be good enough. We’ll lose some water in the boiling, so the broth will be thick. But hopefully the <em>E. coli</em> will like that.”
-</p>
-<p>
-Danny folded his arms lazily on the countertop. He groggily said, “Yay, happy germs,” before laying his head down and closing his eyes. “So tired…”
+Danny folded his arms lazily on the countertop. He groggily said, “Cooooool,” before laying his head down and closing his eyes.
 </p>
 <p>
 “Aww.” She reached out to touch his head. Her fingernails scratched lightly at his scalp. A contented purr escaped beneath his breath.
 </p>
 <p>
-The oven clanked. Danny rose quickly and looked with fear, mustering whatever alertness he could.
+The oven clanked. Danny jumped alert.
 </p>
 <p>
 Tina giggled. “It’s just the lid. The water’s starting to boil. We’ll give it another few minutes.”
 </p>
 <p>
-“And then it’ll be sterile?” asked Danny.
+“And then it’ll be sterile?”
 </p>
 <p>
-Tina shook her head. “Not by a long shot. ‘Sterile’ literally means there’s nothing alive. There’s no way we’ll achieve that without a real autoclave. The air, the water, the inside of the pot, it’s all teeming with life.”
+She shook her head. “Not by a long shot. ‘Sterile’ literally means there’s nothing alive. There’s no way we’ll achieve that. The air, the water, the inside of the pot, it’s all teeming with life.”
 </p>
 <p>
-“No, the water’s clean,” Danny murmured. “It just came out of the sink.”
+“No, the water’s clean. It just came out of the sink.”
 </p>
 <p>
 “Heh. Try looking at tap water under a microscope sometime,” Tina replied. “The hardest part will come afterwards. See, when we take the broth out of the oven, we’ll need to cool it down just the right amount. If we put the bacteria in when the water’s still boiling, it’ll kill them. But if we let it cool all the way down to room temperature, they won’t grow. We need to find a way to keep the broth just warm enough for incubation.”
@@ -67,10 +61,10 @@ Tina shook her head. “Not by a long shot. ‘Sterile’ literally means there�
 Danny nodded. “And how warm is that?”
 </p>
 <p>
-Tina walked over to the bags and pulled out the digital thermometer. “Body temperature. Ninety-eight point six. But keeping it there will be tricky,” Tina said. “An electric stove’s lowest setting is around 200. We’d have to keep the pot on your range, and take shifts checking the thermometer, turning the heat on and off every few minutes. Unless you’ve got any other suggestions.”
+Tina walked over to the bags and pulled out the digital thermometer. “Body temperature. Ninety-eight point six. But keeping it there will be tricky. An electric stove’s lowest setting is around 200. We’d have to keep the pot on your range, and take shifts checking the thermometer, turning the heat on and off every few minutes. Unless you’ve got any other suggestions.”
 </p>
 <p>
-Danny groaned uncertainly. “Build a nest and sit on it?”
+“Build a nest and sit on it?”
 </p>
 <p>
 Tina laughed. “That would get the job done.”
@@ -85,16 +79,16 @@ Tina laughed. “That would get the job done.”
 He walked mechanically to the door leading out to his garage. Circuit schematics materialized in his head. In his mind’s eye appeared fine gray rectilinear diagrams of transistors, power supplies, crossovers… It was child’s play.
 </p>
 <p>
-By the time Tina followed, he was already seated at his workbench. The thermometer was clamped into a vise beneath a table-mounted magnifying glass with a built-in lamp. He was slicing its translucent plastic shell with an X-ACTO knife.
+By the time Tina followed, he was already seated at his workbench. The thermometer was clamped into a vise beneath a table-mounted magnifying glass. He was slicing its translucent plastic shell with an X-ACTO knife.
 </p>
 <p>
 “Can I watch?” she asked, and leaned over his shoulder.
 </p>
 <p>
-He gently tapped the metal bulb at the tip of the thermometer with his blade. “See that?” he said. “That’s the casing for a little thing called a ‘thermistor…’”
+He gently tapped the metal bulb at the tip of the thermometer with his blade. “See that? That’s the casing for a little thing called a ‘thermistor…’”
 </p>
 <p>
-With a few more strokes of the knife, the thermometer’s shell split in half. While the wide end with the digital display stayed clamped in the vise, the narrow end fell away. It dangled by two thin orange wires, barely as thick as a hair. Working carefully under the magnifying glass, he severed the two wires, worked their naked tips with a soldering iron, and attached them to extensions several feet long.
+The thermometer’s shell split in half beneath his knife. The narrow end dangled by two thin orange wires, barely as thick as a hair. Working carefully under the magnifying glass, he severed the two wires, worked on their naked tips with a soldering iron, and attached them to extensions several feet long.
 </p>
 <p>
 “Is that the temperature sensor?” asked Tina.
@@ -130,16 +124,13 @@ Their eyes still locked, she drew her hand away from his and turned the thermome
 Danny found himself forgetting to breathe.
 </p>
 <p>
-He abruptly stood up from the workbench and turned away. He stepped to a case of narrow shelves, each bearing plastic bins filled with assorted electronic components. “So anyway… It won’t need much…” he mumbled. “One transistor… A switching power supply… MOSFET… Relay… A rheostat for calibration…”
-</p>
-<p>
-He returned to the workbench with a handful of black and silver objects, which he spilled onto the table like jacks as he sat back down. He selected a breadboard, an index-card-sized rectangle of white plastic dotted with a grid of hundreds of tiny holes. Into two of the countless sockets, he inserted the loose ends of the long wires soldered to the thermistor, still hanging from Tina’s mouth as she stood there blinking. He then began drawing pieces from his pile of components and adding them to the breadboard. After barely a few minutes of silent labor, he announced, “There!”
+He abruptly stood up from the workbench and turned away. He stepped to a case of narrow shelves, each bearing plastic bins filled with assorted electronic components. “So anyway… It won’t need much… One transistor… A switching power supply… MOSFET… Relay… A rheostat for calibration…” He returned to the workbench with a handful of black and silver objects. He selected a breadboard, an index-card-sized rectangle of white plastic dotted with a grid of hundreds of tiny holes. Into two of the countless sockets, he inserted the loose ends of the long wires soldered to the thermistor, still hanging from Tina’s mouth as she stood there blinking. He then began drawing pieces from his pile of components and adding them to the breadboard. “There!”
 </p>
 <p>
 Tina looked on. “Sho, umm… What’sh shish shing shupposhed to do?”
 </p>
 <p>
-“It’s a thermostat,” Danny answered. “Watch. See this LED?” He pointed to a small glass gumdrop-like object on the breadboard. 
+“It’s a thermostat. Watch. See this LED?” He pointed to a small glass bead. 
 </p>
 <p>
 “Mm-hmm,” Tina replied.
@@ -148,13 +139,13 @@ Tina looked on. “Sho, umm… What’sh shish shing shupposhed to do?”
 “Pretend that’s a burner on my stove. Now, I’ve tuned the thermostat to your body heat. When the thermometer is at body temperature or higher, it’s turned off. But if it cools down…”
 </p>
 <p>
-He reached toward her face. She puckered her lips. He pulled the dismantled thermometer from her mouth, possibly more slowly than necessary. He shook the moist tip through the air. After a few seconds, the small glass bubble on the breadboard popped aglow with a bright green light.
+He reached toward her face. She puckered her lips. He pulled the dismantled thermometer from her mouth, possibly more slowly than necessary, and shook the moist tip through the air. The glass bead popped aglow with a bright green light.
 </p>
 <p>
 Tina nodded. “So if you put the thermometer tip inside the pot, then it can turn the burner on and off automatically. Which will keep the broth at a steady temperature without us having to keep a vigil on it.”
 </p>
 <p>
-“Bingo,” said Danny. “Of course, I’ll seal the whole thing in epoxy resin to make it watertight, so the electronics won’t short out.”
+“Bingo. Of course, I’ll seal the whole thing in epoxy resin to make it watertight, so the electronics won’t short out.”
 </p>
 <p>
 Tina raised an eyebrow. “How’ll you connect this to your stove?”
@@ -166,40 +157,28 @@ Tina raised an eyebrow. “How’ll you connect this to your stove?”
 Tina shrugged uncomprehendingly, but her eyes were gleaming. “I have to go check on the broth. Meet you in the kitchen?” He nodded, and she skipped away.
 </p>
 <p>
-By the time Danny finished his makeshift thermostat, Tina had already taken the pot out of the oven. The kitchen sink was plugged and filled with a watery slurry of ice. Tina held the hot vessel with oven mitts and gently rocked and rotated it in the ice bath.
+By the time Danny finished his makeshift thermostat, Tina had already taken the pot out of the oven. The kitchen sink was plugged and filled with a watery slurry of ice from the freezer. Tina held the hot vessel with oven mitts and gently rocked it in the ice bath.
 </p>
 <p>
-Danny entered the kitchen wearing thick electrical gloves. He walked up to the stove, grabbed it, and pulled. The stove slid hesitantly from its space along the wall, scraping against the floor tiles, just far enough to expose the black cord that plugged the stove into the house’s 220VAC circuit. He pulled the plug out of the wall. The stove’s clock went dead. He then produced his X-ACTO knife and slashed open the stove’s power cable. He slid the blade slowly down the rubber insulation until he had formed a slit almost a foot long. Multicolored wires and metallic coating protruded from the gash.
+Danny entered the kitchen wearing thick electrical gloves. He walked up to the stove and pulled. The stove slid out, scraping against the floor tiles, just far enough to expose the black cord that plugged it into the house’s 220VAC circuit. He pulled the plug out of the wall. The stove’s clock went dead. He then produced his X-ACTO knife and slashed open the stove’s power cable, sliding the blade slowly down the rubber insulation until he had formed a slit almost a foot long. Multicolored wires and metallic coating protruded from the gash.
 </p>
 <p>
 “Is that safe?” Tina asked.
 </p>
 <p>
-“Not in the slightest.” He severed and stripped one of the exposed wires, and spliced its ends with the power relay. He sealed his work with generous helpings of duct tape. When he was finished, the breadboard and power supply lay on the floor beside the displaced stove, electrically implanted into its power cord. Gingerly, he plugged the appliance back into the wall. Much to his relief, nothing caught fire. The stove came back to life, its clock blinking 00:00.
+“Not in the slightest.” He severed and stripped one of the exposed wires, and spliced its ends with the power relay/ Gingerly, he plugged the appliance back into the wall. Much to his relief, nothing caught fire. The stove came back to life, its clock blinking 00:00.
 </p>
 <p>
-“Not bad,” Tina said with a smirk. She lifted the two-gallon pot, carried it to the stove, and set it on the largest burner.
+“Not bad,” Tina said with a smirk. She lifted the two-gallon pot, and carried it to the stove.
 </p>
 <p>
 Danny took off his electrical gloves and offered her the thermometer. “Shall we?”
 </p>
 <p>
-Tina looked at the transparent bag in his hand with utter disgust on her lips and a glint of humor in her eye. “Ugh! I think not! That thing hasn’t been cleaned! You want to stick that bacteria-covered monstrosity into my nice, warm, nutritious broth? I’ll have you know that I am a <em>lady</em>, good sir…!”
+She nodded, and with a deft, quick motion, she slid the lid aside just barely widely enough to accommodate Danny’s device. A warm, salty, sweet scent rose from the pot, organic yet pure. The thermometer made a soft plop as it entered the broth. Its wires protruded from the rim, preventing the lid from closing completely. Tina applied a generous coat of Saran Wrap to form an approximately airtight seal.
 </p>
 <p>
-She strutted past him in a mock huff toward the row of Rite Aid supplies on the counter. She grabbed the bottle of rubbing alcohol and found a large bowl to pour it into. The liquid’s sharp scent stung their noses. She took the thermometer from him and immersed it in the rubbing alcohol, sloshing it around and making sure that every bit of its exterior received a thorough soaking.
-</p>
-<p>
-“There!” she said. “<em>Now</em> you may plunge your doohickey into my pot.” 
-</p>
-<p>
-With a deft, quick motion, she slid the lid aside just barely widely enough to accommodate Danny’s device. A warm, salty, sweet scent rose from the pot, organic yet pure. The thermometer made a soft plop as it entered the broth. With a metallic scraping sound, Tina quickly replaced the cover. The wires from the thermostat protruded from the rim, preventing the lid from closing completely. Tina applied a generous coat of Saran Wrap to form an approximately airtight seal, and the pot was safe from airborne bacteria.
-</p>
-<p>
-The two of them watched it for a few moments. 
-</p>
-<p>
-From beside the stove, the power relay emitted a loud “<em>Click!</em>”, and the stove’s power died. Its clock showed a dead black face.
+The power relay emitted a loud “<em>Click!</em>”, and the stove’s power cut out. Its clock showed a dead black face.
 </p>
 <p>
 “Is it supposed to do that?” asked Tina.
@@ -217,19 +196,10 @@ Danny nodded.
  “So all that’s left,” said Tina, “is the…” 
 </p>
 <p>
-“Yeah, the…,” Danny repeated.  
-</p>
-<p>
 They both turned their heads and stared at the white latex glove on the granite counter, inside-out, twisted and tied off.
 </p>
 <p>
-Tina approached the counter and picked up the glove. She held one of the fingers pinched shut, and with a pair of scissors she cut the finger away. She held it up before her eyes and examined it carefully.
-</p>
-<p>
-“Is the crusty stuff in there?” Danny asked.
-</p>
-<p>
-“Yeah,” Tina said, and slowly walked back to the stove. The footsteps of her shoes on the kitchen tile punctuated the tense stillness of the air. Keeping a pinch on the open top of the severed latex finger, she held it near the pot. “You ready?”
+Tina picked it up. She held one of the glove’s fingers pinched shut, and with a pair of scissors she cut the finger away. “You ready?”
 </p>
 <p>
 Danny whispered thickly, “Let’s do it.”
@@ -238,7 +208,7 @@ Danny whispered thickly, “Let’s do it.”
 Tina inhaled sharply and held her breath, her breasts stretching her white button-down shirt. 
 </p>
 <p>
-She quickly peeled back the plastic wrap and pushed the lid aside barely an inch, leaving a narrow crescent of broth momentarily exposed. With both gloved hands, she gently tapped the latex finger. The lone yellowish-white grain tumbled out. It alighted on the water’s surface like a flake of fish food, buoyant in the salty broth.
+She peeled back the plastic wrap and pushed the lid aside barely an inch, leaving a narrow crescent of broth momentarily exposed. With both gloved hands, she gently tapped the latex finger. The lone yellowish-white grain tumbled out. It alighted on the water’s surface like a flake of fish food.
 </p>
 <p>
 Tina rapidly closed the cover and re-wrapped the plastic. She peeled off her gloves, and finally let herself exhale.
@@ -253,16 +223,16 @@ Danny stood beside her, both of them looking down at the two-gallon stainless st
 “Nothing?”
 </p>
 <p>
-“Now we just wait for them to multiply,” Tina replied. She flexed her fingers, her black nail polish giving off a hint of iridescence as it caught the light. “They’ll fill the whole pot eventually.”
+“We wait for them to multiply,” Tina replied. She flexed her fingers, her black nail polish giving off a hint of iridescence as it caught the light. “They’ll fill the whole pot eventually.”
 </p>
 <p>
-“How long will that take?” asked Danny.
+“How long will that take?”
 </p>
 <p>
 Tina shrugged. “Depends on how well I prepped that broth. Maybe hours. Maybe a couple of days. Maybe weeks. It’s a big pot.”
 </p>
 <p>
-“Hrmm. This thing could be on my stove for a couple of weeks?” said Danny.
+“Hrmm. This thing could be on my stove for a couple of weeks?” 
 </p>
 <p>
 “Yep,” she said, turning to face him with mischievous eyes. Her full, pink lips were stretched in an elfish smile. “Sucks to be you, doesn’t it?”

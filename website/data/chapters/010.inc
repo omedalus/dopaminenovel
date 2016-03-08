@@ -1,18 +1,18 @@
 <div class="chapsection">
 <p>
-<span class="caplead">The black Lincoln Navigator</span> wound slowly around Tungsten’s parking lot, awkwardly weaving back and forth. The man standing by the door studied the oddly-moving SUV apprehensively, and said something into his Bluetooth headset.
+<span class="caplead">The black Lincoln Navigator</span> wound slowly around Tungsten’s parking lot, awkwardly weaving back and forth. The man standing by the door studied it apprehensively, and said something into his Bluetooth headset.
 </p>
 <p>
 The car came to a stop near the entrance. The driver-side window rolled down, revealing a middle-aged man with gelled gray hair.
 </p>
 <p>
-Jason’s head drooped. His mouth hung open and his eyes didn’t focus. He said in a slow, raspy whisper, “Is this the Weisenbaum Clinic? I see the big ‘W’ on the door…”
+Jason’s head drooped, his mouth hanging open and eyes unfocused. He said in a slow, raspy whisper, “Is this the Weisenbaum Clinic? I see the big ‘W’ on the door…”
 </p>
 <p>
-“This isn’t a clinic,” the man barked.
+“No,” the man barked. “Go away.”
 </p>
 <p>
-“Please, it’s very important,” Jason said, drawing out and enunciating each word. “I have an urgent medical condition. I need to go see…” His speech degenerated into a series of wheezes and coughs. “Please, I just need the address. Can you… Can you come closer please? It hurts for me to talk so loud.”
+“Please, it’s very important,” Jason said, drawing out and enunciating each word. “I have an urgent medical condition. I need to go see…” His speech degenerated into a series of wheezes and coughs. “Can… Can you come closer please? It hurts for me to talk so loud.”
 </p>
 <p>
 With an exasperated sigh, the man took a few steps toward the SUV.

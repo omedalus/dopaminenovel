@@ -99,7 +99,7 @@ She grabbed the handle of the deep-freezer’s massive metal door and yanked. Th
 “You’re being paranoid,” said Mike.
 </p>
 <p>
-“With damn good reason!” Jason insisted. “Think about how much we each have to lose if any of this gets back to us &mdash; me especially. Now look, I know you’re a bunch of talented guys, and you <em>think</em> that maybe you can cover your tracks. But what if you’re wrong? Think about the kind of computer forensics experts that the cops can bring in on a case like this. They will zero in on the slightest, tiniest little mistake you could possibility make. And I can’t go home and sleep soundly tonight, or ever again, knowing that some FBI detective is out there somewhere working on hunting me down. I can’t live with that kind of constant fear. I won’t. So let’s just let this… this whatever-is-going-on-here, let’s let it blow over, and resume the operation when everything’s nice and quiet again.”
+“With damn good reason!” Jason insisted. “Think about how much we each have to lose if any of this gets back to us &mdash; me especially. Now look, I know you’re a bunch of talented guys, and you <em>think</em> that maybe you can cover your tracks. But what if you’re wrong? Think about the kind of computer forensics experts that the cops can bring in on a case like this. They will zero in on the slightest, tiniest little mistake you could possibility make. So let’s just let this… this whatever-is-going-on-here, let’s let it blow over, and resume the operation when everything’s nice and quiet again.”
 </p>
 <p>
 Mike shook his head. “Let it ‘blow over’? But that girl in there is&mdash;!” 
@@ -108,7 +108,7 @@ Mike shook his head. “Let it ‘blow over’? But that girl in there is&mdash;
 “She’s not our problem,” Jason said, avoiding eye contact. “I hate to say it that bluntly, but we didn’t cause her situation, so it’s not our responsibility to get her out of it.”
 </p>
 <p>
-Outside the car, Danny held his gaze on the live video of the dark-haired young woman held at gunpoint. “We <em>did</em>, though. We <em>did</em> cause this. This is all our fault.”
+Danny stared at the live video of the dark-haired young woman held at gunpoint. “We <em>did</em>, though. We <em>did</em> cause this. This is all our fault.”
 </p>
 <p>
 “<em>Our</em> fault, Danny?” said Jason, incredulous. 
@@ -117,28 +117,16 @@ Outside the car, Danny held his gaze on the live video of the dark-haired young 
 Moshen, from behind them, murmured, “Our camera-spinning trick.”
 </p>
 <p>
-Danny nodded gravely. “We lured her away from her desk. We separated her from her computer and her phone. We created the window of opportunity for those guys to enter the building, and we deprived her of the means to call for help. <em>We</em> did this. This is on <em>us</em>.” He looked back and forth between them and his screen. The girl in the video feed stood before the giant refrigerator, shivering. “God. Jason, you put <em>me</em> in charge, and I…”
+Danny nodded gravely. “We lured her away from her desk. We separated her from her computer and her phone. We created the window of opportunity for those guys to enter the building, and we deprived her of the means to call for help. <em>We</em> did this. This is on <em>us</em>.” He looked back and forth between them and his screen. The girl in the video feed stood before the giant refrigerator, shivering. “God. Jason, you put <em>me</em> in charge, and I…” He shook his head vigorously, as though the motion could clear away his current reality like an Etch A Sketch doodle. “I have to Control-Z. I have to reload an earlier save… I have to <em>undo</em> this!”
 </p>
 <p>
-Jason interjected, “Whoa, Danny! I hired you to extract <em>data</em>. This project wasn’t supposed to involve <em>guns</em>!”
+“Don’t be silly, Danny,” Jason insisted. “Let’s just lay low and…”
 </p>
 <p>
-Danny handed Jason the laptop and leaned back against the car, his hands at his temples. “But I… God, I <em>don’t</em> know what I’m doing,” he said, his voice hoarse. “I’m way out of my league. Sure, I can put on a <em>show</em> of competence, right? I can play at being a ’Leet Hacker Dude. And that’s perfectly good enough if there’s no actual shit hitting the fan. But when there’s the real possibility of someone getting hurt because of me… The real possibility of that girl…” He covered his face with his hands. His mind flashed on the memory of her tousled hair playing along the angles of her neck. The way her nose had scrunched up when she looked questioningly into the camera lens. Through narrowly splayed fingers, he peeked at the laptop screen. “My God, what have I done?”
+“<em>No!</em>” The sudden strength of Danny’s voice startled them all &mdash; particularly Danny himself. He took a deep breath. “Listen, we’re still here to do a job. I think maybe… Instead of bailing, we might be able to use this situation to our advantage. ”
 </p>
 <p>
-Jason nodded and said, “So you agree we should lay low, right?”
-</p>
-<p>
-“<em>No!</em>” The force of Danny’s voice startled everyone, not least of which Danny himself. He shook his head vigorously, as though the motion could clear away his current reality like an Etch A Sketch doodle. “I have to <em>undo</em> this! I have to Control-Z. I have to reload an earlier save…” He turned to look at the building across the dark street. The gunman stood loitering by the front door. Danny gulped hard. “I have to go in there.”
-</p>
-<p>
-Eyebrows cocked all around him. 
-</p>
-<p>
-He eyed his teammates. He needed them. He couldn’t do this alone. Taking a deep breath, he leveled his voice, determined to sound reasonable. “Guys, we’re still here to do a job. I think maybe… Instead of bailing, we might be able to use this situation to our advantage.”
-</p>
-<p>
-Jason asked cautiously, “What do you mean, Danny?”
+Eyebrows cocked around him.
 </p>
 <p>
 “That guy is making Christina dig through the freezer. They’re looking for something. What we’re watching isn’t a kidnapping. They’re pulling off a robbery.”
@@ -192,7 +180,7 @@ Danny pulled up the feed. As he watched, the green light popped on to indicate t
 Mike shrugged. “I can write a script for him to run. Should be pretty straightforward.”
 </p>
 <p>
-“Great,” Danny said with forced confidence. “Now all we need is a way to get that guy away from the front door. Let me think…” He stood staring at the ground. His body remained frozen, but his eyes darted rapidly in spastic patterns. His lips writhed with soundless mumbling. His fingers twitched as though drawing diagrams in an ethereal notebook. After a minute of fidgety silence, he looked up abruptly. “Jason. You’re part of this little Dungeons and Dragons group. How are your role-playing abilities?”
+“Great,” Danny said with forced confidence. “Now all we need is a way to get that guy away from the front door. Let me think…” He stood staring at the ground. His body remained frozen, but his eyes darted rapidly in spastic patterns. His fingers twitched as though drawing diagrams in an ethereal notebook. After a minute of fidgety silence, he looked up abruptly. “Jason. You’re part of this little Dungeons and Dragons group. How are your role-playing abilities?”
 </p>
 <p>
 “Uhh… pretty good, I guess…” Jason said apprehensively.
@@ -228,7 +216,7 @@ Mike grinned.
 He opened the passenger door and grabbed his Claymore tote bag. He began pulling out bits of metal and plastic, starting with the piece that looked like a narrow homemade bullhorn with the pistol grip and the large rubber-coated blocks on the back.
 </p>
 <p>
-After the bullhorn came a row of plastic blocks, each as big as a Rubik’s Cube. Next came a group of eight heavy blue cylinders, each one the size and shape of a beer can, arranged like an eight-pack. Each component was strung on cables, the junction points buried under slathers of caulk and epoxy. 
+After the bullhorn came a row of plastic blocks, each as big as a Rubik’s Cube. Next came a group of heavy blue cylinders, each one the size and shape of a beer can, arranged like an eight-pack. Each component was strung on cables, the junction points buried under slathers of caulk and epoxy. 
 </p>
 <p>
 A two-foot-long white hollow plastic tube, about four inches wide with slots and grooves all along its length, stuck out from the top of the bag. Danny grabbed it and began screwing it onto the back of the horn.
@@ -237,10 +225,10 @@ A two-foot-long white hollow plastic tube, about four inches wide with slots and
 “The hell’s that thing?” asked Moshen.
 </p>
 <p>
-“Well,” said Danny as he worked, “this part in front is a magnetron that I ‘borrowed’ from a battleship radar system at Naval Base Kitsap.” He took the eight-pack of cylinders and clipped it to the back of the white tube. “<em>This</em> is a bank of high-voltage ultracapacitors from a hybrid car powertrain. <em>This</em>…” He Velcro’ed the plastic cubes along the length of the tube like the spine of some ancient reptilian creature. “…is a set of relays for switching between serial charge and parallel discharge…” He pulled out a slotted metal box with vents and a socket. “This is the power conversion module,” Danny said as he attached it to the tube. “And <em>this</em>…” He pulled out a stack of laptop batteries. “…is a stack of laptop batteries.” The stack was about a dozen batteries high, all duct-taped together with their metal contacts tethered to one another with coils of cable.
+“Well,” said Danny as he worked, “this part in front is a magnetron that I ‘borrowed’ from a battleship radar system at Naval Base Kitsap.” He took the eight-pack of cylinders and clipped it to the back of the white tube. “<em>This</em> is a bank of high-voltage ultracapacitors from a hybrid car powertrain. <em>This</em>…” He Velcro’ed the plastic cubes along the length of the tube. “…is a set of relays for switching between serial charge and parallel discharge…” He pulled out a slotted metal box with vents and a socket. “This is the power conversion module,” Danny said as he attached it to the tube. “And <em>this</em>…” He pulled out a stack of laptop batteries. “…is a stack of laptop batteries.” The stack was about a dozen batteries high, all duct-taped together with their metal contacts tethered to one another with coils of cable.
 </p>
 <p>
-He stood up and held the device in both hands. Fully assembled, it was about four feet long. With the flick of a few switches, tiny lights lit up near the capacitor bank. Small fans whirred to life inside the power supply box. The device emitted a faint high-pitched whine that rose until it passed above the range of human hearing.
+He stood up and held the device in both hands. Fully assembled, it was about four feet long. With the flick of a few switches, tiny lights lit up near the capacitor bank. Small fans whirred to life inside the power supply box. The device emitted a faint high-pitched whine that rose until it passed above the range of human hearing, like a high-end camera flashbulb charging up for a photograph.
 </p>
 <p>
 He held the pistol grip of the magnetron horn with his right hand, and slung the end of the PVC tube over his arm. His right shoulder bore the weight of the assorted duct-taped and snapped-in components on the back of the device.

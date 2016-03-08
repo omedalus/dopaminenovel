@@ -99,7 +99,7 @@ She grabbed the handle of the deep-freezer’s massive metal door and yanked. Th
 “You’re being paranoid,” said Mike.
 </p>
 <p>
-“With damn good reason!” Jason insisted. “Think about how much we each have to lose if any of this gets back to us &mdash; me especially. Now look, I know you’re a bunch of talented guys, and you <em>think</em> that maybe you can cover your tracks. But what if you’re wrong? Think about the kind of computer forensics experts that the cops can bring in on a case like this. They will zero in on the slightest, tiniest little mistake you could possibility make. And I can’t go home and sleep soundly tonight, or ever again, knowing that some FBI detective is out there somewhere working on hunting me down. I can’t live with that kind of constant fear. I won’t. So let’s just let this… this whatever-is-going-on-here, let’s let it blow over, and resume the operation when everything’s nice and quiet again.”
+“With damn good reason!” Jason insisted. “Think about how much we each have to lose if any of this gets back to us &mdash; me especially. Now look, I know you’re a bunch of talented guys, and you <em>think</em> that maybe you can cover your tracks. But what if you’re wrong? Think about the kind of computer forensics experts that the cops can bring in on a case like this. They will zero in on the slightest, tiniest little mistake you could possibility make. So let’s just let this… this whatever-is-going-on-here, let’s let it blow over, and resume the operation when everything’s nice and quiet again.”
 </p>
 <p>
 Mike shook his head. “Let it ‘blow over’? But that girl in there is&mdash;!” 
@@ -117,28 +117,16 @@ Danny stared at the live video of the dark-haired young woman held at gunpoint. 
 Moshen, from behind them, murmured, “Our camera-spinning trick.”
 </p>
 <p>
-Danny nodded gravely. “We lured her away from her desk. We separated her from her computer and her phone. We created the window of opportunity for those guys to enter the building, and we deprived her of the means to call for help. <em>We</em> did this. This is on <em>us</em>.” He looked back and forth between them and his screen. The girl in the video feed stood before the giant refrigerator, shivering. “God. Jason, you put <em>me</em> in charge, and I…”
+Danny nodded gravely. “We lured her away from her desk. We separated her from her computer and her phone. We created the window of opportunity for those guys to enter the building, and we deprived her of the means to call for help. <em>We</em> did this. This is on <em>us</em>.” He looked back and forth between them and his screen. The girl in the video feed stood before the giant refrigerator, shivering. “God. Jason, you put <em>me</em> in charge, and I…” He shook his head vigorously, as though the motion could clear away his current reality like an Etch A Sketch doodle. “I have to Control-Z. I have to reload an earlier save… I have to <em>undo</em> this!”
 </p>
 <p>
-Jason interjected, “Whoa, Danny! I hired you to extract <em>data</em>. This project wasn’t supposed to involve <em>guns</em>!”
+“Don’t be silly, Danny,” Jason insisted. “Let’s just lay low and…”
 </p>
 <p>
-Danny handed Jason the laptop and leaned back against the car, his hands at his temples. “But I… What am I even <em>doing</em>? I’m not a hacker! Sure, I can put on a <em>show</em> of competence, right? I can play along. But when someone might actually get hurt because of me… When that girl…” His mind flashed on the memory of her tousled hair playing along the angles of her neck. The way her nose had scrunched up when she looked questioningly into the camera lens. “My God, what have I done?”
+“<em>No!</em>” The sudden strength of Danny’s voice startled them all &mdash; particularly Danny himself. He took a deep breath. “Listen, we’re still here to do a job. I think maybe… Instead of bailing, we might be able to use this situation to our advantage. ”
 </p>
 <p>
-Jason nodded and said, “So you agree we should lay low, right?”
-</p>
-<p>
-“<em>No!</em>” He shook his head vigorously, as though the motion could clear away his current reality like an Etch A Sketch doodle. “I have to <em>undo</em> this! I have to Control-Z. I have to reload an earlier save…” He turned to look at the building across the dark street. The gunman stood loitering by the front door. Danny gulped hard. “I have to go in there.”
-</p>
-<p>
-Eyebrows cocked all around him. 
-</p>
-<p>
-He eyed his teammates. Taking a deep breath, he leveled his voice, determined to sound reasonable. “Guys, we’re still here to do a job. I think maybe… Instead of bailing, we might be able to use this situation to our advantage.”
-</p>
-<p>
-Jason asked cautiously, “What do you mean, Danny?”
+Eyebrows cocked around him.
 </p>
 <p>
 “That guy is making Christina dig through the freezer. They’re looking for something. What we’re watching isn’t a kidnapping. They’re pulling off a robbery.”

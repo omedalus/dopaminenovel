@@ -3,7 +3,7 @@
 <span class="caplead">The mercenaries stared at the screen</span>, murmuring. Ivan barked at them.
 </p>
 <p>
-Danny interrupted, “Don’t bother listening to him! He’s finished. As of right now, he has no money and no power. He’s not your boss anymore. He’s nothing but a penniless old man.”
+Danny interrupted, “Don’t bother listening to him! He’s finished. As of right now, he has no money and no power. He’s nothing but a penniless old man.”
 </p>
 <p>
 Ivan stared at him through narrowed, wrinkly eyes. “You are such idiot. You think <em>that</em> is all my money?” He pointed at the bank balance on the screen. “That is <em>pocket change</em>! That is one weekend gambling in Monaco! You think you stealing this one account making me ‘penniless’?”
@@ -387,7 +387,7 @@ Leo interrupted. “I… need a bandage.”
 Below, Danny resumed descending the stairs, praying that the policeman’s voice would mask the sound of his movements.
 </p>
 <p>
-Danny soon found himself stepping onto the wide landing of the ground floor. To his side, the stairs continued downward to the parking garage. Ahead, a fire door stood between him and the maintenance corridor. He opened it gently, and stepped out of the dim stairwell into the fluorescent-lit “HOTEL STAFF ONLY” hallway.
+Danny soon found himself on the wide landing of the ground floor. To his side, the stairs continued downward to the parking garage. Ahead, a fire door stood between him and the maintenance corridor. He opened it gently, and stepped out of the dim stairwell into the fluorescent-lit “HOTEL STAFF ONLY” hallway.
 </p>
 <p>
 “Cops,” he gasped into the Bluetooth. “Jesus. Tina, this whole building is going to be crawling with law enforcement soon. Tell Sergey and Eugene. They’ll need to be ready for extraction before the cavalry arrives.”
@@ -411,16 +411,16 @@ The corridor was silent, save for the faint hum of fluorescent tubes. When he ca
 Inside the room, an odd odor hung in the air: the acrid stink of burnt plastic. It came from the far end of the room, where Eugene had tied up the captives.
 </p>
 <p>
-The three towel-clad Russian mercenaries had broken free of Eugene’s knotwork. One was hastily untying another, his own nylon cords lying undone at his feet. The third was rubbing his wrists, which looked reddened and swollen. On the floor, between the trio of underdressed Russians and the stout Latina security guard, lay a cigarette lighter. They turned toward Danny and growled.
+The trio of towel-clad mercenaries had broken free of Eugene’s knotwork. On the floor, near the stout Latina security guard, lay a cigarette lighter. The three underdressed Russians turned toward Danny and growled.
 </p>
 <p>
 “Oh, God damn it,” Danny mumbled, and bolted.
 </p>
 <p>
-The mercenaries gave chase, each self-consciously keeping one hand on the white towel around his waist. Danny sprinted toward the door at the end of the corridor, which would lead him out to the hotel’s spacious lobby. Like a nightmare, the exit seemed to recede farther with each step he took toward it. He knew he’d never make it.
+The mercenaries gave chase, each self-consciously keeping one hand on the white towel around his waist. Danny sprinted toward the end of the corridor. Like a nightmare, the exit seemed to recede farther with each step. He knew he’d never make it.
 </p>
 <p>
-A nondescript gray door passed on his side as he ran. With the men only a few feet behind him, he grabbed the handle and pushed it open, revealing a small, cramped janitor’s closet. He hurled himself inside and slammed the door behind him. He dug his heels into the floor and pressed his back against the doort as the naked Russians beat and kicked against the outside.
+A nondescript gray door passed on his side. With the men only a few feet behind him, he grabbed the handle and pushed it open, revealing a small, cramped janitor’s closet. He hurled himself inside and slammed the door behind him. He dug his heels into the floor and pressed his back against the door as the naked Russians beat and kicked against the outside.
 </p>
 <p>
 “Guys…” he said with a gulp. “I might have made a slight miscalculation…”
@@ -438,13 +438,13 @@ Moshen answered him. “Danny! I see you on camera! Sit tight!” There was the 
 “Listen… It really doesn’t look good for me here…”
 </p>
 <p>
-“Danny, come on!” Tina protested. “You’ll think of a way out of this!”
+“Danny, come on! You’ll think of a way out of this!”
 </p>
 <p>
-“I don’t think so.” His boots slipped along the floor as the strength in his legs faltered. “Now, look… I know you and I met literally yesterday… But I just… I want you to know…”
+His boots slipped along the floor as the strength in his legs faltered. “Look… I know you and I met literally yesterday… But I just… I want you to know…”
 </p>
 <p>
-He was interrupted by a loud wailing from the hallway outside. It was the sound of a young male voice screaming, “<em>Kyuuuuuaaaaaaaaah!</em>”
+He was interrupted by a loud wailing from the hallway outside. A young male voice screamed, “<em>Kyuuuuuaaaaaaaaah!</em>”
 </p>
 <p>
 There was a series of hard impacts, of grunts and smacks, of kicks in stomachs and fists in faces. Hands and heads crashed against the walls beside the closet door. It lasted for barely half a minute, and came to an abrupt stop.

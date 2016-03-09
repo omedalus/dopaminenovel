@@ -12,7 +12,7 @@ Danny walked in carrying a Claymore tote bag full of electronic junk. Wires and 
 “I hung out in the office after our chat,” Danny said as he sat down to join him. “Figured I’d soak in the vibe one last time. Play with the Foosball table. Kick the vending machine.”
 </p>
 <p>
-“But you didn’t walk away empty-handed,” said Jason, eyeing Danny’s bag.
+Jason gestured at Danny’s bag. “But you didn’t walk away empty-handed, I see.”
 </p>
 <p>
 “This? Just a souvenir. Something I made during the Naval Base Kitsap contract. Nothing that anyone but me would miss.”
@@ -27,7 +27,7 @@ Danny walked in carrying a Claymore tote bag full of electronic junk. Wires and 
 “Yes, actually. We’re auctioning off Claymore’s assets. Everything’s up for appraisal. The software, the hardware, the furniture, the company van. It’s all for sale. Including whatever <em>that</em> is.”
 </p>
 <p>
-Danny gazed into the bag’s metal-strewn depths. “For <em>sale</em>? You… No. It’s not <em>yours</em>. <em>I</em> designed and built it…”
+Danny gazed into the bag’s metal-strewn depths. “For <em>sale</em>? You… No. It’s not yours. <em>I</em> designed and built it…”
 </p>
 <p>
 “<em>For</em> Claymore,” Jason insisted.
@@ -48,13 +48,7 @@ Jason shook his head. “None of that means anything to me.”
 Danny broke his eyes away from the contraption to shoot Jason a cold glare. “Exactly.”
 </p>
 <p>
-Jason’s face crinkled into a smile. “I see you take pride in your work.”
-</p>
-<p>
-Danny looked down and shrugged. “It keeps me going.”
-</p>
-<p>
-“Tell you what. Hear me out on this little project. If you decide to accept it, consider your gizmo there as a starting bonus. Sound good?”
+Jason’s face crinkled into a smile. “I see you take pride in your work. Tell you what. Hear me out on this little project. If you decide to accept it, consider your gizmo there as a starting bonus. Sound good?”
 </p>
 <p>
 Danny put the device back in the bag and gave Jason his attention.

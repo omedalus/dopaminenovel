@@ -540,10 +540,10 @@ Sergey gently turned Eugene’s head. Eugene’s cheeks and nose were encrusted 
 Eugene had fallen face-down into the pile. Unconscious and helpless, he had lain there inhaling the stimulant.
 </p>
 <p>
-Sergey pulled the dented helmet away and pried open one of Eugene’s eyes. The pupils were so wide that the iris was invisible. The other eye opened in response, and the two enormous black dots darted back and forth in unison. His face was pale and damp with sweat. His jaw was clenched tight.
+Sergey pulled the dented helmet away and pried open Eugene’s eyes. The pupils were so wide that the iris was invisible. His face was pale and damp with sweat.
 </p>
 <p>
-Sergey propped Eugene to his feet. Violent spasms shook his limbs. He balanced for a moment, then clutched his stomach, collapsed to his hands and knees, and began dry-heaving.
+Sergey propped him to his feet. Violent spasms shook his limbs. He balanced for a moment, then clutched his stomach, collapsed to his hands and knees, and began dry-heaving.
 </p>
 <p>
 A thin, scared voice came from the stairs. “<em>Zhenya…?</em>” Rosie ran toward the living room.
@@ -558,19 +558,19 @@ Eugene slowly climbed back onto his unsteady feet. He began vigorously brushing 
 Danny looked at Moshen. “The cops have a medical team on the way. If we can get Eugene to them…” 
 </p>
 <p>
-Moshen gingerly put a hand on Eugene’s back. Eugene jumped and began throwing wild punches. Moshen leaned away and waited for the flurry to finish, then gently coaxed him to follow. He walked in jerky, halting steps, babbling rapidly. The two headed toward the stairwell.
+Moshen gingerly put a hand on Eugene’s back. Eugene jumped and began throwing wild punches. Moshen leaned away, then gently coaxed him to follow. He walked in jerky, halting steps, babbling rapidly. The two headed toward the stairwell.
 </p>
 <p>
-Danny came up to Sergey, still holding his daughter. “We need to haul our asses to the yacht, Sergey. The Claymore van is no good to us anymore &mdash; the Medina camera system will flag it the moment it hits the streets. But we can still make it to the boat.”
+Danny came up to Sergey, still holding his daughter. “We need to haul our asses to the yacht. The Claymore van is no good to us anymore &mdash; the Medina camera system will flag it the moment it hits the streets. But we can still make it to the boat.”
 </p>
 <p>
-Slowly, Sergey turned toward him. His face was almost crimson with fury. Tears streamed from his eyes. He stepped away from Rosie, looked around the room, and roared something in Russian. All around him, the survivors of his rampage watched him with scared, silent faces. Sergey spun in place, meeting each of their eyes, repeating the same Russian question in steadily angrier tones. “One of you must know!” he screamed.
+Slowly, Sergey turned toward him. His face was almost crimson with fury. Tears streamed from his eyes. He stepped away from Rosie, looked around the room, and roared something in Russian. All around him, the survivors of his rampage watched him with scared, silent faces. Sergey spun in place, meeting each of their eyes, repeating the same Russian question in steadily angrier tones. “One of you must know!”
 </p>
 <p>
 “Know what?” Danny asked.
 </p>
 <p>
-“Ivan!” Sergey roared. “He is here somewhere! I saw him slink away like a rat! He is here, and by God I swear he will pay, once and for all!” He bowed his head, and said quietly, “Help me, Daniel. Help me to stop this man. Help me make this wretched curse finally end.”
+“Ivan! He is here somewhere! I saw him slink away like a rat! He is here, and by God I swear he will pay, once and for all!” He bowed his head, and said quietly, “Help me, Daniel. Help me to stop this man.”
 </p>
 <p>
 “Which way did you see him go?” Danny asked.
@@ -579,7 +579,7 @@ Slowly, Sergey turned toward him. His face was almost crimson with fury. Tears s
 Sergey pointed with his gun toward the antechamber.
 </p>
 <p>
-Danny stood and pondered. “Well, he couldn’t have gone far. We control the elevator, so he must’ve taken the stairs. My team’s been watching the video feeds, and they haven’t seen him step out onto any of the floors, nor into the maintenance corridor on the ground level, nor the parking garage below that. The only other place where the stairs go, is <em>up</em>. To the…”
+Danny stood and pondered. “Well, he couldn’t have gone far. We control the elevator, so he must’ve taken the stairs. My team’s been watching the video feeds, and they haven’t seen him step out onto any of the floors below. The only other place where the stairs go, is <em>up</em>. To the…”
 </p>
 <p>
 He was interrupted by a noise from outside: a distant, rapid thumping.
@@ -639,37 +639,25 @@ Sergey looked somberly back and forth between Danny and Rosie. He hugged his dau
 And with those words, he bounded through the suite, out the cedarwood doors, and across the antechamber to the stairwell.
 </p>
 <p>
-Danny and Rosie looked at one another awkwardly. Danny gulped.
+Danny and Rosie looked at one another awkwardly. Danny gulped. The two of them stood in tense, uncomfortable silence.
 </p>
 <p>
-“Don’t worry!” Rosie said insistently. “He’ll be fine! He’s my Dad! He knows how to do this stuff! He…” Her voice cracked.
+A voice chattered on Danny’s headset. “Danny! Are you there?”
 </p>
 <p>
-Danny couldn’t think of anything to say. The two of them stood in tense, uncomfortable silence.
+“Moshen!” Danny asked. “Did you get Eugene to the cops?”
 </p>
 <p>
-A voice chattered on Danny’s headset. It was Moshen. “Danny! Are you there?”
+Moshen answered, “Yes, but… Danny, you’d better listen to this…”
 </p>
 <p>
-“Moshen?” Danny asked. “Did you get Eugene to the cops?”
+In the background, Danny could hear shouting. “…You sent me a <em>squad car</em>!?” Danny recognized the voice of a detective he had dodged in the stairwell. “Santello and I found all the security guards &mdash; <em>all</em> of them, do you understand me? &mdash; <em>bound and gagged</em>, and you send me a goddamned <em>squad car</em>? There’s machine gun fire from the upper levels, there’s a fallen body on the ground, all phone lines are compromised… Captain, do you think this is fucking Disneyland? We’re in the middle of some kind of military operation! We need SWAT out here! We need choppers, we need snipers, we need Coast Guard! We need the wrath of God coming down on this place, and we need it <em>right fucking now!</em>”
 </p>
 <p>
-Moshen answered, “I found the cops, but… Danny, you’d better listen to this…”
+Danny’s throat went dry. “Moshen… Come up here. Grab Rosie. Take her down to the dock. And get out of here like a bat out of Hell.” Danny turned to the girl, knelt down, and placed his hands on her shoulders. “Rosie, stay right here. My friends will get you out of here safely.” Into the headset, he said, “Jason. The whole lake is going to be swarming with Coastie boats in a matter of minutes. Get under way the second Moshen and Rosie are aboard. Set course for the Kirkland Marina. It’s only a few miles away. Sergey and I will get there on foot.”
 </p>
 <p>
-In the background, Danny could hear shouting. “…You sent me a <em>squad car</em>!?” Danny recognized the voice of the male detective he had dodged in the stairwell. “Santello and I found all the security guards &mdash; <em>all</em> of them, do you understand me? &mdash; <em>bound and gagged</em>, and you send me a goddamned <em>squad car</em>? There’s machine gun fire from the upper levels, there’s a fallen body on the ground, all phone lines are compromised… Captain, do you think this is fucking Disneyland? We’re in the middle of some kind of military operation! We need SWAT out here! We need choppers, we need snipers, we need Coast Guard! We need the wrath of God coming down on this place, and we need it <em>right fucking now!</em>”
-</p>
-<p>
-Danny’s throat went dry. “Moshen… Come up here. Grab Rosie. Take her down to the dock. And get out of here like a bat out of Hell.” Danny turned to the girl, knelt down, and placed his hands on her shoulders. “Rosie, stay right here. My friends will get you out of here safely.” Into the headset, he said, “Jason. The whole lake is going to be swarming with Coastie boats in a matter of minutes. Get under way the second Moshen and Rosie are aboard.”
-</p>
-<p>
-Jason asked, “What about you, Danny? And Sergey?”
-</p>
-<p>
-“Set course for the Kirkland Marina, Jason. It’s only a few miles away. We’ll get there on foot.”
-</p>
-<p>
-Air rushed in from the balcony. On the deck outside, brass shell casings clinked in a downdraft. The helicopter thumped somewhere high overhead.
+On the deck outside, brass shell casings clinked in the downdraft of the rotor blades.
 </p>
 <p>
 Tina said, “Danny… What’s your plan?”

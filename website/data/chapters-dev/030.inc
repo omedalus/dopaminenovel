@@ -30,19 +30,13 @@ Danny climbed into the passenger seat. “My cellphone’s dead. I have no GPS.�
 
 <div class="chapsection">
 <p>
-<span class="caplead">In the cabin of Jason’s yacht,</span> Rosie and Moshen sat next to one another on the wide leather bench by the highly lacquered table. They had cleared out a space among the laptops and electronics, and filled it with markers and pencils and blank pieces of paper from Jason’s <em>Dungeons &amp; Dragons</em> kit. Moshen kept the girl distracted by flipping through the illustrated rulebooks and teaching her how to draw pictures of dragons, orcs, and fairies, of knights and priests and wizards.
-</p>
-<p>
-The table was littered with loose pages of such images. Rosie’s pictures were stylized and cartoonish, but showed a distinct eye for movement and action. They all portrayed fierce, violent combat. Each of her scenes featured a mighty, barrel-chested knight. In one, he was single-handedly slaying an army of orcs. In another, he was rescuing a princess trapped in a tower. In a third, he was hanging from the claw of a soaring dragon. The knight wore dark armor and carried a large rectangular shield.
-</p>
-<p>
-On the screen behind them, the conference call had stayed active. Mike and Natalie remained telepresent. 
+<span class="caplead">In the cabin of Jason’s yacht,</span> Rosie and Moshen sat next to one another on the leather bench by the lacquered table. They had cleared out a space among the laptops and electronics, and filled it with markers and pencils and blank pieces of paper from Jason’s <em>Dungeons &amp; Dragons</em> kit. Moshen kept the girl distracted by flipping through the illustrated rulebooks and teaching her how to draw pictures of dragons, orcs, and fairies, of knights and priests and wizards. On the screen behind them, the conference call had stayed active, keeping Mike and Natalie telepresent. 
 </p>
 <p>
 All eyes turned towards the cabin stairs as Danny, Tina, and Jason descended from the deck.
 </p>
 <p>
-Rosie, seeing them climbing down the steps, erupted in a joyous, expectant smile. Once the three of them descended, her smile lingered briefly, then sank into a perplexed frown.
+Rosie erupted in a joyous, expectant smile. Once the three of them descended, her smile lingered briefly, then sank into a perplexed frown.
 </p>
 <p>
 “Where’s my Dad?” she asked nervously.
@@ -51,7 +45,7 @@ Rosie, seeing them climbing down the steps, erupted in a joyous, expectant smile
 Danny’s face went pale. 
 </p>
 <p>
-She stared into his eyes. “Where’s my Dad!?” she repeated with fierce insistence.
+“Where’s my Dad!?” she repeated with fierce insistence.
 </p>
 <p>
 Silent seconds drifted by. The child’s face slowly melted into a grimace of agonized horror. “<em>Where’s my Dad?</em>” she screamed, knowing the answer.
@@ -63,13 +57,13 @@ Danny tried to say something, but only stammered. The young girl stifled tears w
 Jason clasped a hand on Danny’s shoulder and said, “I’ve raised children of my own,” before briskly ascending the steep cabin stairway after her.
 </p>
 <p>
-Danny’s eyes, wide with heartbroken delirium, drifted to each of his comrades in turn. “You… You didn’t tell her…?” he asked them all.
+Danny’s eyes, wide with heartbroken delirium, drifted to each of his comrades in turn. “You… You guys didn’t tell her…?”
 </p>
 <p>
 The cabin responded with silence. On the deck above, the child’s hysterical sobs shattered the night.
 </p>
 <p>
-“What’s going to happen to her,” Danny asked, his stomach lurching.
+“What’s going to happen to her?” Danny asked, his stomach lurching.
 </p>
 <p>
 Several more moments of silence passed. Tina finally broke it. “She has no other family. We asked her while we were waiting for you. She has nowhere to go.”
@@ -78,7 +72,7 @@ Several more moments of silence passed. Tina finally broke it. “She has no oth
 “Sergey was adamant that she doesn’t end up in foster care,” said Danny, his head spinning. “You remember, right? In my bedroom? He said a girl her age would never…”
 </p>
 <p>
-“I remember, Danny,” Tina replied.
+“I remember, Danny.”
 </p>
 <p>
 “Sergey told her to listen to me. That I’d protect her,” Danny leaned heavily against the wood-paneled cabin wall. “He told me to take care of her. Those were his last words.”
@@ -90,16 +84,16 @@ Tina gently began, “Danny, you didn’t…”
 He cut her off. “<em>Because of me,</em> those were his last words.”
 </p>
 <p>
-Natalie intervened via the screen. “Danny, listen to me. It’s natural to feel guilty over something like this. Possibly even indebted. But, Danny, you couldn’t have known. What happened wasn’t your fault. Feelings of remorse are unnecessary right now.”
+Natalie intervened via the screen. “Danny, listen to me. It’s natural to feel guilty over something like this. Possibly even indebted. But you couldn’t have known. What happened wasn’t your fault. Feelings of remorse are unnecessary right now.”
 </p>
 <p>
-He listened to the child’s cries on the moonlit deck above. He replied to Natalie, “What <em>should</em> I be feeling right now, then?”
+He listened to the child’s cries on the moonlit deck above. “What <em>should</em> I be feeling right now, then?”
 </p>
 <p>
 Natalie responded, “How about, proud of yourself for simply getting out alive?”
 </p>
 <p>
-Danny emitted a hollow, humorless, sorrowful chuckle. “The things I choose to perceive as meriting pride are pretty arbitrary, don’t you think?” 
+Danny emitted a hollow, humorless chuckle. “The things I choose to perceive as meriting pride are pretty arbitrary, don’t you think?” 
 </p>
 <p>
 The sobbing outside began to soften. Jason’s voice could be heard offering soothing, indistinct words.
@@ -117,7 +111,7 @@ Danny smiled warmly. “Exactly. But… my own greatness isn’t really <em>abou
 Small, light footsteps descended behind him. Rosie had broken away from Jason above. With sobs still racking her small shoulders, she ran to Danny and buried her face against his shirt. 
 </p>
 <p>
-He instinctively reached out to hug her, and stroked her hair as her whimpers tapered to silence. “I <em>do</em> want to create something amazing,” he said as he wiped the child’s tears away on the cloth of his shirt. “I <em>do</em> want to shape the world. Maybe this is how.”
+He instinctively reached out to hug her, and stroked her hair as her whimpers tapered to silence. “I <em>do</em> want to create something amazing,” he said as he wiped the child’s tears. “I <em>do</em> want to shape the world. Maybe this is how.”
 </p>
 
 </div>

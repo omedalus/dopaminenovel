@@ -1,123 +1,188 @@
 <div class="chapsection">
 <p>
-<span class="caplead">With the watchful eyes of his team</span> and a few well-timed HERF pulses, Danny managed to stay out of sight of the police combing the Gallante. There were a few close calls, but he slipped out of the building unnoticed. 
+<span class="caplead">Danny burst through a heavy gray door</span>, and was greeted by wind blasting from the helicopter’s blades. His hair swept back away from his face; his clothes flapped in the gale. With his energy rifle in his hands, he paused in the doorway and surveyed the roof.
 </p>
 <p>
-The battery in his cellphone gave out after he left the hotel. In silence and moonlit darkness, Danny cut through the evergreen-fringed backyards of Medina billionaires. He looked out for security cameras and motion-detecting floodlights, zapping them when necessary. After slow, tentative progress across private property, he felt he had put a comfortable distance between himself and the hotel. He climbed over a retaining wall and arrived at a wide, well-lit road running through downtown Bellevue. There, he pulled off his overalls, leaving himself in a t-shirt and jeans. He stuffed his electrician disguise down a gutter grate. 
+The asphalt expanse was bedecked with HVAC equipment and water tanks. The helipad, a wide smooth square painted with a circled letter “H”, dominated the rooftop.
 </p>
 <p>
-Then he figured out which direction led toward the Kirkland Marina, slung his HERF gun back over his shoulder, and began walking.
+The chopper hovered forty feet above, illuminated by bright white landing lights. Inside the glass bubble of its cockpit, Ivan held his pistol trained on the terrified pilot.
 </p>
 <p>
-And he walked.
+Sergey Mukhayev hung from one of its landing skids. He swayed by one arm, swinging wildly as he twisted and kicked to hoist himself up, his muscles bulging and straining beneath his armor. 
 </p>
 <p>
-And walked.
+Danny studied the machine. On the back of the two-seat chopper, tucked beneath its tail, he could clearly see an exhaust manifold. Superheated air streamed from the pipe, creating transparent ripples of optical distortion. The helicopter was powered by a simple four-cylinder internal combustion engine. An electromagnetic pulse would do nothing to its pistons or drive belts. But maybe… just <em>maybe</em>… its electronically regulated fuel injection system and digitally-timed spark gaps wouldn’t be so lucky.
 </p>
 <p>
-He had no idea how much time had passed. He wore no watch, and his dead cellphone wouldn’t tell him the hour. The occasional car zoomed by, paying him no mind. He walked past gas stations, past strip malls, past ghostly-quiet four-way intersections whose stoplight signals changed color for nobody. 
+It was worth a shot.
 </p>
 <p>
-Danny heard the hum of an engine slowing down behind him. He turned around.
+Danny drew his HERF gun up to his shoulder, took aim, and pulled the trigger.
 </p>
 <p>
-Tina waved at him through the windows of Natalie’s car. “Danny! There you are!” she said as she pulled up beside him. “God, I’m glad to see you! I’ve been looking everywhere. You’re going the wrong way!”
+Above, the cockpit went dark. From the exhaust pipe, the rippling stream of air vanished. With its rotor blades still whirling by sheer momentum, the vehicle began to sink back down toward the helipad.
 </p>
 <p>
-Danny climbed into the passenger seat. “My cellphone’s dead. I have no GPS.”
-</p>
-</div>
-
-<div class="chapsection">
-<p>
-<span class="caplead">In the cabin of Jason’s yacht,</span> Rosie and Moshen sat next to one another on the wide leather bench by the highly lacquered table. They had cleared out a space among the laptops and electronics, and filled it with markers and pencils and blank pieces of paper from Jason’s <em>Dungeons &amp; Dragons</em> kit. Moshen kept the girl distracted by flipping through the illustrated rulebooks and teaching her how to draw pictures of dragons, orcs, and fairies, of knights and priests and wizards.
+And Sergey’s entire body went limp. He stopped kicking and his legs went slack. His free hand momentarily clutched his chest before dropping loosely to his hip.
 </p>
 <p>
-The table was littered with loose pages of such images. Rosie’s pictures were stylized and cartoonish, but showed a distinct eye for movement and action. They all portrayed fierce, violent combat. Each of her scenes featured a mighty, barrel-chested knight. In one, he was single-handedly slaying an army of orcs. In another, he was rescuing a princess trapped in a tower. In a third, he was hanging from the claw of a soaring dragon. The knight wore dark armor and carried a large rectangular shield.
+Danny looked on, realizing something was horribly wrong. “Sergey…?”
 </p>
 <p>
-On the screen behind them, the conference call had stayed active. Mike and Natalie remained telepresent. 
+He dangled from the landing skid, unpowered and inanimate, like an armor-clad rag doll.
 </p>
 <p>
-All eyes turned towards the cabin stairs as Danny, Tina, and Jason descended from the deck.
+And slowly, the fingers of his meaty hand slipped from the rail. His body plummeted through the air.
 </p>
 <p>
-Rosie, seeing them climbing down the steps, erupted in a joyous, expectant smile. Once the three of them descended, her smile lingered briefly, then sank into a perplexed frown.
+“Sergey!”
 </p>
 <p>
-“Where’s my Dad?” she asked nervously.
+Above, the chopper sprang sideways the instant it was free of its imbalanced load. The pilot fought furiously with the controls to execute an emergency landing.
 </p>
 <p>
-Danny’s face went pale. 
+Sergey hit the concrete with a dull thud.
 </p>
 <p>
-She stared into his eyes. “Where’s my Dad!?” she repeated with fierce insistence.
+Danny sprinted across the helipad and knelt beside the fallen body. His hands made frantic, confused motions over the crumpled form. Bones had surely broken in the fall, but Danny could see no bullet wounds, no head trauma, nothing that would explain Sergey’s sudden collapse.
 </p>
 <p>
-Silent seconds drifted by. The child’s face slowly melted into a grimace of agonized horror. “<em>Where’s my Dad?</em>” she screamed, knowing the answer.
+“Come on, man! Get up! What happened?”
 </p>
 <p>
-Danny tried to say something, but only stammered. The young girl stifled tears with a wet gulp. She sprang from her seat, pushed past Danny, and bolted up the steps. Danny watched her helplessly, his mouth agape.
+Danny grabbed his face in both hands, feeling the bristly skin of his cheeks, and rotated his head to face him. Sergey’s jaw was slack. Behind drooping lids, his eyes were misaligned and unfocused.
 </p>
 <p>
-Jason clasped a hand on Danny’s shoulder and said, “I’ve raised children of my own,” before briskly ascending the steep cabin stairway after her.
+Across the helipad, the pilot managed to safely ground his crippled vehicle. Even as the chopper was still settling, the passenger door opened. Fine black shoes stepped out onto the concrete, matching the crisply-pressed pants of a three-piece suit.
 </p>
 <p>
-Danny’s eyes, wide with heartbroken delirium, drifted to each of his comrades in turn. “You… You didn’t tell her…?” he asked them all.
+As Danny drew his hands away from Sergey’s face, the white outlines of his fingers lingered on the Russian’s skin, like handprints in cement. Living flesh, with flowing blood and full capillaries, would’ve quickly regained color. Sergey’s didn’t.
 </p>
 <p>
-The cabin responded with silence. On the deck above, the child’s hysterical sobs shattered the night.
+Danny grabbed a wrist and felt for a pulse. There was none. He tried to locate it on his neck, but to no avail. Sergey’s heart wasn’t beating.
 </p>
 <p>
-“What’s going to happen to her,” Danny asked, his stomach lurching.
+“God, why!?” Danny shrieked. “For fuck’s sake, why!?”
 </p>
 <p>
-Several more moments of silence passed. Tina finally broke it. “She has no other family. We asked her while we were waiting for you. She has nowhere to go.”
+He pushed Sergey flat onto his back. With trembling hands he hurriedly undid the clasps and zippers of Sergey’s armor. Danny didn’t know CPR. What he did know, however, is that the heart is just an electromechanical hydraulic pump. A machine. Surely it could be rebooted…
 </p>
 <p>
-“Sergey was adamant that she doesn’t end up in foster care,” said Danny, his head spinning. “You remember, right? In my bedroom? He said a girl her age would never…”
+He pulled the armor away from Sergey’s torso, leaving him in a sweat-drenched button-down shirt. Danny curled his hand into a fist and raised it above his head, preparing to give a sharp blow to the sternum.
 </p>
 <p>
-“I remember, Danny,” Tina replied.
+It was then that he saw Sergey’s wounds.
 </p>
 <p>
-“Sergey told her to listen to me. That I’d protect her,” Danny leaned heavily against the wood-paneled cabin wall. “He told me to take care of her. Those were his last words.”
+Beneath a dense mat of chest hair, the skin bore long, pale scars, running along the left pectoral. They were thick and raised and slightly striated, resembling earthworms. Thin white branches extended from each line, indicating stitching. The scars were clearly surgical.
 </p>
 <p>
-Tina gently began, “Danny, you didn’t…”
+And on the left side of his chest, below the shoulder, the flesh was raised in the outline of a smooth round disc, about two inches across, implanted beneath the skin.
 </p>
 <p>
-He cut her off. “<em>Because of me,</em> those were his last words.”
+A pacemaker.
 </p>
 <p>
-Natalie intervened via the screen. “Danny, listen to me. It’s natural to feel guilty over something like this. Possibly even indebted. But, Danny, you couldn’t have known. What happened wasn’t your fault. Feelings of remorse are unnecessary right now.”
+Danny felt the blood rush from his face. He looked at his HERF gun. His stomach lurched.
 </p>
 <p>
-He listened to the child’s cries on the moonlit deck above. He replied to Natalie, “What <em>should</em> I be feeling right now, then?”
+“Oh dear God, no…”
 </p>
 <p>
-Natalie responded, “How about, proud of yourself for simply getting out alive?”
+He brought his fist down on Sergey’s chest. “No!” he screamed, and raised his fist again. “No no <em>no</em>!” He pounded futilely on motionless ribs. Eventually, his fist slowed and his arm weakened, and he brought it to rest softly upon Sergey’s lifeless body. His head followed, curling downward to rest his forehead upon Sergey’s chest. “I’m sorry… I’m so, so sorry…”
 </p>
 <p>
-Danny emitted a hollow, humorless, sorrowful chuckle. “The things I choose to perceive as meriting pride are pretty arbitrary, don’t you think?” 
+From somewhere nearby, Danny heard laughter. It was dry and dark. It was laughter dripping with condescension and schadenfreude, a chortling cackle of evil victory.
 </p>
 <p>
-The sobbing outside began to soften. Jason’s voice could be heard offering soothing, indistinct words.
+Kneeling over Sergey’s body, Danny looked up with red, moist eyes.
 </p>
 <p>
-Danny looked at Tina and locked eyes with her. “Remember what we talked about back in the Rite Aid, Tina?”
+Before him stood Ivan Zheleznov. His mouth was spread wide in a horrid grin. In his hand, his gun glinted in the helipad landing lights.
 </p>
 <p>
-Tina nodded. “Of course I do, Danny. You talked about how you believed you had an unclaimed destiny of greatness. How you’re supposed to create something amazing that would shape the whole world. Something like that, yes?”
+Danny, on his knees, watched the laughing Russian kingpin raise the firearm and point it at him. Unblinking, he saw the barrel aim between his eyes.
 </p>
 <p>
-Danny smiled warmly. “Exactly. But… my own greatness isn’t really <em>about</em> me, is it? It never has been. That’s the whole point…”
+A deafening bang resounded across the rooftop.
 </p>
 <p>
-Small, light footsteps descended behind him. Rosie had broken away from Jason above. With sobs still racking her small shoulders, she ran to Danny and buried her face against his shirt. 
+Ivan fell sideways.
 </p>
 <p>
-He instinctively reached out to hug her, and stroked her hair as her whimpers tapered to silence. “I <em>do</em> want to create something amazing,” he said as he wiped the child’s tears away on the cloth of his shirt. “I <em>do</em> want to shape the world. Maybe this is how.”
+As he dropped away, the first thing Danny saw, several yards behind him, was a small silver revolver with a short, squat barrel with an enormous opening.
 </p>
-
+<p>
+It was held by Eugene Mukhayev.
+</p>
+<p>
+The athletic man stood uneasily, halfway doubled over. His body quivered, his face was pale, his eyes darted uncontrollably. The revolver shook in his hand.
+</p>
+<p>
+Ivan lay on the smooth concrete, bleeding from the leg. He turned to face Eugene, and fired off a few shots.
+</p>
+<p>
+Eugene grunted as the bullets hit his armored body, but remained standing. He took aim.
+</p>
+<p>
+Ivan tried to scramble to his feet, but succeeded only in a rapid half-crawl.
+</p>
+<p>
+Eugene’s revolver let out another boom, then another. Fire spat forth from the large black opening. But his hand was shaking too violently to aim at a moving target. The shots chipped away concrete near Ivan, but none managed to hit him. Out of bullets, Eugene charged forward.
+</p>
+<p>
+Ivan limped away, trying to flee. His bleeding leg left a crimson trail across the helipad’s surface.
+</p>
+<p>
+Eugene slammed into him at full sprint, checking his shoulder into the small of the limping kingpin’s back. He knocked him forward past the edge of the helipad, toward the stone balustrade that ringed the top of the building.
+</p>
+<p>
+As Ivan continued trying to crawl away, Eugene grabbed him by his three-piece suit and threw him against the concrete rail.
+</p>
+<p>
+The two of them wrestled against the balusters. Eugene fought not only against the aging kingpin but also against his own body, which misinterpreted the commands of his mind into spastic, sloppy motions. His neurons misfired and short-circuited like frayed electrical wires, sending his muscles twitching and twisting against his will. His extensive martial skills failed him, as his malfunctioning brain proved incapable of translating his thoughts into coherent action.
+</p>
+<p>
+Ivan, wounded and bleeding, pulled himself up on Eugene’s armor. He lacked Eugene’s strength and training, but the old kingpin was a twisty, writhing thing, and he resisted Eugene’s attempts to grapple him. In his hand he still wielded the glinting gun; he tried repeatedly to put it to Eugene’s head.
+</p>
+<p>
+With Herculean exertion and mental focus, Eugene managed to overcome the waves of convulsions long enough to get an arm around Ivan’s neck, trapping him in a headlock.
+</p>
+<p>
+The aging kingpin writhed and bucked, but couldn’t slip out of the hold. He pushed and kicked with his legs, trying to make Eugene stumble.
+</p>
+<p>
+Eugene stabilized himself by pushing his back against the waist-high balustrade. With his arm around Ivan’s neck, he grabbed his own elbow with his opposite hand and squeezed.
+</p>
+<p>
+Ivan, weakening, lifted his glinting handgun over his head and pressed the muzzle against Eugene’s temple.
+</p>
+<p>
+With Ivan’s neck still in his arms and the stone balustrade behind him, knowing that a shot from Ivan’s gun was imminent, Eugene leaned backward. Together, they tipped over the rim of the roof of the Medina Gallante.
+</p>
+<p>
+Danny raced toward the point from where they fell. He hurried past the helicopter, whose blades had slowed to a smooth, silent rotation; inside, the pilot sat low in his seat, trying desperately to call for help on his nonfunctional radio. Danny hopped down from the helipad onto the asphalt rooftop and dashed to the balustrade nearby, streaked with blood.
+</p>
+<p>
+A dozen stories beneath him, past rows of windows and the dark green thicket of the surrounding pine canopy, Ivan Zheleznov and Eugene Mukhayev lay motionless upon the stone tiles of a wide pavilion. A dark crimson pool spread outward. Their bodies, broken and lifeless, remained locked in battle.
+</p>
+<p>
+A crowd began to form around them &mdash; hotel guests, staff, and a growing number of police. Danny ducked away when he noticed that they were looking upward.
+</p>
+<p>
+Thumping noises in the distance alerted him to look around. In the sky, above the wooded suburban skyline, multiple helicopters closed in on the Medina Gallante. In the waters of Lake Washington, patrol boats approached the hotel’s wharf. From the ground, sirens and radio chatter could be heard even on the rooftop.
+</p>
+<p>
+He noticed the voices of his comrades in the Bluetooth. “Danny! Danny!” Mike hollered. “Can you hear us?”
+</p>
+<p>
+“Yeah,” Danny said, and calmly rounded the perimeter of the helipad to go retrieve his energy rifle.
+</p>
+<p>
+“The place is swarming with cops!”
+</p>
+<p>
+“Yeah, I see that. Don’t worry, Mike. I’ll be fine. They’re all talking on radios.” He checked the lights on the HERF gun. It had enough charge left for a dozen more shots.
+</p>
 </div>

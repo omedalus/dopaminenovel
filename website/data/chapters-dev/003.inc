@@ -57,7 +57,7 @@ Danny put the device back in the bag and gave Jason his attention.
 “Tell me, Danny. How much do you know about me?”
 </p>
 <p>
-“Nothing. I didn’t know your name until this afternoon. I Googled you, of course. Got a bunch of hits on a company called Tungsten Medical Technologies. Some kind of medical supply retailer?”
+“Nothing. I didn’t even know your name until this afternoon. I Googled you, of course. Got a bunch of hits on a company called Tungsten Medical Technologies. Some kind of medical supply retailer?”
 </p>
 <p>
 Jason nodded. “Yes, Tungsten. That’s what I was hoping to talk about.”
@@ -81,7 +81,7 @@ Jason nodded. “Yes, Tungsten. That’s what I was hoping to talk about.”
 Jason shook his head. “Back then, no. We were just re-sellers.”
 </p>
 <p>
-“Sounds simple, but I feel like I’m missing something,” said Danny. “Why would a customer bother going through a middleman? I mean, if I’m a surgeon looking for a shiny new scalpel or something, I’d just go to the manufacturer’s website.”
+“Sounds simple, but I feel like I’m missing something,” said Danny. “Why would a customer bother going through a middleman? I mean, if I were a surgeon looking for a shiny new scalpel or something, I’d just go to the manufacturer’s website.”
 </p>
 <p>
 Jason answered, “And how exactly would you do that in the late seventies?”
@@ -114,13 +114,13 @@ Danny nodded wistfully. “Heh. Biotech…”
 Danny shook his head with a distant smile. The very word “biotechnology” conjured images he had long forgotten. There was a time before the Internet boom when a young computer enthusiast wasn’t seen as a potential millionaire, but a pimple-pocked pariah suited solely for locker-stuffing and atomic wedgies. It was a time when his fellow Generation X nerds were all reading William Gibson’s <em>Neuromancer</em> and playing <em>Shadowrun</em> and dressing like <em>The Matrix</em>; when they said to each other with heady excitement, “The future is <em>digital</em>!” Growing up, they had made that future real &mdash; configuring ISDN lines, building websites, creating dot-coms. They were homesteaders and gold prospectors taming the West.
 </p>
 <p>
-Yet now, <em>because</em> they had made it real, by definition it wasn’t futuristic anymore. Danny’s first few jobs made him feel like a pioneer in a vast uncharted wilderness. Now he felt like a soulless office drone.
+Yet now, <em>because</em> they had made it real, by definition it wasn’t futuristic anymore.
 </p>
 <p>
-But <em>biotechnology</em>, Danny mused. Biotech still held unscaled vistas and unseen horizons &mdash; the next “virtual reality,” the next “information superhighway,” the next “cyberspace.” The future <em>used</em> to be digital. Now the <em>present</em> was digital. The future was squishy.
+But <em>biotechnology</em> was still an uncharted frontier. Biotech still held unscaled vistas and unseen horizons &mdash; the next “virtual reality,” the next “information superhighway,” the next “cyberspace.” The future <em>used</em> to be digital. Now the <em>present</em> was digital. The future was squishy.
 </p>
 <p>
-“Not even a little,” Danny answered. “But I have friends who work at the Fred Hutchinson Cancer Research Center. I see the smokestacks of the ZymoGenetics building twice a day on my commute. I’ve driven through the construction zone in South Lake Union, where Paul Allen is building that gigantic Institute for Brain Science. I know Seattle’s quickly becoming a nexus of biotech, like it was once a nexus of the Information Age. I’ve always heard biotech’s right around the corner for decades. I guess it’s finally happening.”
+“Not at all,” Danny answered. “But I have friends who work at the Fred Hutchinson Cancer Research Center. And ZymoGenetics. And the Allen Institute for Brain Science. I’ve been hearing for decades that biotech is just around the corner. I guess it’s finally happening.”
 </p>
 <p>
 Jason nodded. “Exactly. Biotechnology is getting big. But Tungsten isn’t.”

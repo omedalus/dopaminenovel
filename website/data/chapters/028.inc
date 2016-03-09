@@ -12,13 +12,10 @@ Ivan stared at him through narrowed, wrinkly eyes. “You are such idiot. You th
 “No,” Danny said slowly. “I’m not talking about the account. What I’m talking about, Ivan, is your business ventures.”
 </p>
 <p>
-The television flashed. The image cut to a pie chart superimposed on a density-colored map of Eastern Europe. One small pink wedge was marked with a pin-up silhouette; a steel-gray section showed a handgun; a brown slice bore a hypodermic needle. But by far the largest wedge, taking up over half the pie, was colored white, besided an image of a line of cocaine.
+The television flashed. The image cut to a pie chart overlaid on a map of Eastern Europe. One small pink wedge was marked with a pin-up silhouette; a steel-gray section showed a handgun; a brown slice bore a hypodermic needle. But by far the largest wedge, taking up over half the pie, was colored white, besided a line of cocaine.
 </p>
 <p>
-Ivan sneered at the screen. “What in Devil is that?”
-</p>
-<p>
-“You know what this is, Ivan,” said Danny. “And so do your men. This is how much of your gross revenue comes from your various operations. Some prostitution. Some arms trading. But the majority of your total income comes, of course, from drugs &mdash; specifically, cocaine. In fact, cocaine is the only thing that keeps your aggregated portfolio cash-flow positive. And so it appears, Ivan, that you have made…” The screen cut to a photograph of the Tungsten Medical Technologies building. “…a very poor investment decision.”
+“We’ve examined your finances, Ivan,” said Danny. “This is how much of your revenue comes from various operations. Some prostitution. Some arms trading. But the majority of your total income comes, of course, from drugs &mdash; specifically, cocaine. And so it appears, Ivan, that you have made…” The screen cut to a photograph of the Tungsten Medical Technologies building. “…a very poor investment decision.”
 </p>
 <p>
 Ivan laughed dryly. “You know so little!” He reached into his chest pocket and produced the small translucent smiley-faced Eppendorf vial. “Tungsten is best investment I ever make!”
@@ -48,7 +45,7 @@ The smirk on Ivan’s face slowly sank.
 “Each one is cloned directly from that batch you’re holding in your hand,” Danny explained. “That <em>is</em> why you had Tungsten create this bacterium in the first place, after all &mdash; to produce a source of cocaine that’s portable, durable, and easily replaced. Well, guess what, Ivan? You wanted ‘easily replaced’? You got it.
 </p>
 <p>
-“You see, you’re a businessman, Ivan. You think in terms of investments, rates of return, buy low, sell high, yaddah yaddah. You saw this genetic engineering project as a chance to establish vertical integration &mdash; a way to control your entire supply chain, without having to depend on manufacturers in South America.
+“You see, you’re a businessman, Ivan. You saw this genetic engineering project as a chance to control your entire supply chain, without having to depend on manufacturers in South America.
 </p>
 <p>
 “But, Ivan, you’ve clearly never invested in technology before. You see, there’s a name for what you’ve done. It’s called ‘disruptive innovation’. It’s a creation whose very existence completely changes the marketplace &mdash; and once it’s created, the world is never the same.”
@@ -75,16 +72,16 @@ On the television screen appeared a YouTube video page. The frame showed a t-shi
 The Fawkes-faced young man held up a goo-filled vial.
 </p>
 <p>
-“So, obviously I’m like, ‘What’s that?’ He says, ‘It’s the next logical step for hackers. Hacking <em>computers</em> is overdone. This is <em>bio</em>-hacking. This is hacking DNA.’ The girl walks me through how to grow it &mdash; like sea monkeys, kinda. So we whip up a batch, and he gives me a bunch of empty test tubes and says, ‘Spread this out to as many people as you can, and do it <em>fast</em>.’ And I’m like, ‘Why? What <em>is</em> this stuff?’ So, he says nothing, he reaches into his bag, and he pulls out…”
+“So, obviously I’m like, ‘What’s that?’ He says, ‘It’s the next logical step for hackers. Computers are overdone. This is hacking DNA.’ The girl walks me through how to grow it &mdash; like sea monkeys, kinda. So we whip up a batch, and he gives me a bunch of empty test tubes and says, ‘Spread this out to as many people as you can, and do it <em>fast</em>.’ And I’m like, ‘Why? What <em>is</em> this stuff?’ So, he says nothing, he reaches into his bag, and he pulls out…”
 </p>
 <p>
 The young man held up a cellophane-wrapped brick of white powder.
 </p>
 <p>
-“Now, that, kids, is exactly what it looks like. And this dude had like a dozen of them. That’s right, folks. This little tube of snot literally makes coke by the kilo. This is a straight-up game-changer, folks. You’re witnessing drug history in the making. This goop here turns the entire cocaine industry into a do-it-yourself project. Raising this stuff is easier than growing your own pot. It’s easier than brewing your own beer. And I tried a bit. It’s a hundred percent the real deal.
+“Now, that, kids, is exactly what it looks like. I tried a bit. It’s a hundred percent the real deal. And this dude had like a dozen of them. That’s right, folks. This little tube of snot literally makes coke by the kilo. This is a straight-up game-changer, folks. You’re witnessing history in the making. This goop here turns the entire cocaine industry into a do-it-yourself project.
 </p>
 <p>
-“So, I’m calling out all my bros and sisters in the 206. Get your butts over here. This dude gave it to me, now I’m gonna give it to you. And then tomorrow you guys give it to others. And they’ll give it to others too. This shit’s about to go viral &mdash; pun intended. The revolution’s already started, it’s up to you to be part of it.”
+“So, I’m calling all my bros and sisters in the 206. Get your butts over here. This dude gave it to me, now I’m gonna give it to you. And then tomorrow you guys give it to others. This shit’s about to &mdash; heh &mdash; go viral.”
 </p>
 <p>
 Underneath the video, the comment section’s count was already into quadruple digits.
@@ -120,10 +117,10 @@ Danny gave him a sweet smile. “I can’t! Don’t you understand? The propagat
 “Isn’t this what you wanted, Ivan? You set out to create a technology that you could use to liberate yourself from Columbian drug cartels. Well, guess what? Now that you’ve created it, that exact same technology can be used just as easily by anyone else to liberate themselves from <em>you</em>.
 </p>
 <p>
-“The truth is, Ivan, you should be proud of yourself. I truly mean that. Oh sure, as a businessman, this might be an unmitigated disaster. But as a <em>technologist</em>, what you’ve done is what people like me <em>dream</em> of doing. You’ve changed the world. In fact, you’ve changed it so thoroughly that you no longer even have a place in it. You’ve pushed the world so far forward that it’s left you behind. You stand here now completely spent, having given to the world everything you have to offer. And now, all your talents, all your efforts, everything that has enabled you to achieve this triumph &mdash; all of it, specifically <em>because</em> you’ve achieved it, is now useless. Obsolete and useless.
+“The truth is, Ivan, you should be proud of yourself. I truly mean that. Oh sure, as a businessman, this might be an unmitigated disaster. But as a <em>technologist</em>, what you’ve done is what people like me <em>dream</em> of doing. You’ve changed the world. In fact, you’ve changed it so thoroughly that you no longer even have a place in it. You’ve pushed the world so far forward that it’s left you behind. You stand here now completely spent, having given to the world everything you have to offer. And now, all your talents, all your efforts, everything that has enabled you to achieve this triumph &mdash; all of it, specifically <em>because</em> you’ve achieved it, is now obsolete and useless.
 </p>
 <p>
-“And you know what the real irony is? Finding yourself obsolete and useless? That’s <em>not</em> defeat. It’s the exact opposite: it’s how you know your mission’s been accomplished. It’s how you know you’ve achieved your goals. Becoming obsolete and useless isn’t a hallmark of failure; it’s the pinnacle of victory. When you’ve used yourself up… When you’ve rendered yourself pointless by your own hand… When you feel your knees buckle from fatigue and you collapse, exhausted and weak and old, onto the dusty path along which you’ve been pushing the world, and it rolls away from you, propelled forward by the momentum you had spent your life imparting to it, and you watch the world recede toward the horizon carrying the next generation onward to a future you’ve made possible and yet you will never see… …Then! <em>Then</em> is when you can finally let your head drop down into the dirt with a smile on your lips, when you can finally rest; because <em>then</em> is when you know that you’ve succeeded.
+“And you know what the real irony is? Finding yourself obsolete and useless? That’s <em>not</em> defeat. It’s the exact opposite: it’s how you know your mission’s been accomplished. It’s how you know you’ve achieved your goals. It isn’t a hallmark of failure; it’s the pinnacle of victory. When you’ve used yourself up… When you’ve rendered yourself pointless by your own hand… When you feel your knees buckle from fatigue and you collapse, exhausted and weak and old, onto the dusty path along which you’ve been pushing the world, and it rolls away from you, propelled forward by the momentum you had spent your life imparting to it, and you watch the world recede toward the horizon carrying the next generation onward to a future you’ve made possible and yet you will never see… …Then! <em>Then</em> is when you can finally let your head drop down into the dirt with a smile on your lips, when you can finally rest; because <em>then</em> is when you know that you’ve succeeded.
 </p>
 <p>
 “And, Ivan? You’ve succeeded.”
@@ -144,7 +141,7 @@ Danny interrupted, “Actually, Ivan, I really don’t care what you think. This
 The mercenaries and prostitutes all looked back at Danny with expressions that spread across a wide spectrum, from contempt to curiosity to simply being impressed by his gall.
 </p>
 <p>
-“What do you think, ladies and gentlemen?” Danny said. “Do you think this guy is going to be a stable employer for much longer? Do you think he’ll still be able to take you on private jets to luxury hotels around the world a month from now? Hook you up with corporate perks? Pay for your health insurance and a nice pension plan? If you ask me, your prospects with this guy don’t look promising.”
+“What do you all think?” Danny said. “Do you think this guy is going to be a stable employer for much longer? Do you think he’ll still be able to take you on private jets to luxury hotels around the world a month from now? Hook you up with corporate perks? Pay for your health insurance and a nice pension plan? If you ask me, your prospects with this guy don’t look promising.”
 </p>
 <p>
 The television flipped back to Ivan’s bank account.
@@ -243,7 +240,7 @@ It slammed the shark-faced man in the chest. The projectile did not penetrate hi
 But Danny didn’t actually see or hear them land. For, in the instant that it took for them to drop, the thing that had struck the man’s chest exploded.
 </p>
 <p>
-It had come from the underslung M203 projectile launcher of Leo’s rifle. It was black with a rubbery surface, shaped like a bullet but about the size of a pill bottle. Its pyrotechnic formula was designed to throw no shrapnel and spout no flame. Instead, for one infinitessimal instant, it burned twice as bright as the sun and boomed louder than a jet engine.
+It had come from the underslung M203 projectile launcher of Leo’s rifle. It was black with a rubbery surface, about the size of a pill bottle. Its pyrotechnic formula was designed to throw no shrapnel and spout no flame. Instead, for one infinitessimal instant, it burned twice as bright as the sun and boomed louder than a jet engine.
 </p>
 <p>
 It was a 40-millimeter spin-stabilized flash grenade. And when it went off, Danny was looking at it.
@@ -252,13 +249,13 @@ It was a 40-millimeter spin-stabilized flash grenade. And when it went off, Dann
 
 <div class="chapsection">
 <p>
-<span class="caplead">There was a crushing sensation</span> as his body was slammed against a wall of solid sound. The very air around him was trying to squeeze the life out of him.
+<span class="caplead">There was a crushing sensation</span> as his body was slammed against a wall of solid sound. The very air around him tried to squeeze the life out of him.
 </p>
 <p>
-Suddenly, there was no gunfire. There were no men screaming and diving to the floor, no bullets slicing through the air. There was no air, and there was no floor. There was no gravity, no up or down or sideways. There was only the pale void &mdash; directionless, infinite.
+Suddenly, there was no gunfire. There were no men shouting, no bullets slicing through the air. There was no gravity, no up or down or sideways. There was only the pale void &mdash; directionless, infinite.
 </p>
 <p>
-Danny couldn’t tell how long he spent floating in that emptiness, blind and deaf and unable to balance. He knew it could only have been a few seconds at most, but within that senseless expanse, time didn’t pass. The flash grenade was a nonlethal munition, but it was unmistakably a weapon &mdash; an energy weapon. It was a perfectly crafted attack against the human body’s sensory systems, exploiting overflow vulnerabilities in its acoustic and electromagnetic transduction machinery. And in that moment, Danny realized that he now knew exactly what it was like to be an electronic device getting hit by a pulse from his HERF gun.
+Danny couldn’t tell how long he spent floating in that emptiness, blind and deaf and without bearing. The flash grenade was a nonlethal munition, but it was unmistakably a weapon &mdash; an energy weapon. It was a perfectly crafted attack against the human body’s sensory systems, exploiting overflow vulnerabilities in its acoustic and electromagnetic transduction machinery. And in that moment, Danny knew exactly what it was like to be an electronic device getting hit by a pulse from his HERF gun.
 </p>
 <p>
 Formless ripples eventually danced in the milky emptiness. Shimmering ghosts coalesced into shapes. Colors and hues, pale and washed-out at first, slowly re-saturated.

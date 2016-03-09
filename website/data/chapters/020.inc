@@ -66,7 +66,7 @@ Danny smiled. “Glad <em>something</em> good can come from this night, I guess.
 Danny looked away. “She’s dead,” he said, just as the kettle whistled.
 </p>
 <p>
-Danny poured cups for the two of them and joined her at the counter. There, in the calm stillness of his house in the painfully late hour, he recounted the events of the factory. He told her about what he’d learned from Julie &mdash; about the glutamine-eating cocaine-making <em>E. coli</em>. He told Tina about Julie’s acid attack, about the gunfight, about the loss of Julie and the vial, about his and Jason’s narrow escape. They sipped their tea, refilled their cups, and spoke.
+Danny poured cups for the two of them and joined her at the counter. There, in the calm stillness of his house in the painfully late hour, he recounted the events of the factory. They sipped their tea, refilled their cups, and spoke.
 </p>
 <p>
 And as he talked, Tina noticed him relax. While initially his muscles were tight and his speech was halting, the more he told her the more he grew visibly at peace. As he finished his tale, he said quietly, “Thank you for coming over tonight, Tina.”

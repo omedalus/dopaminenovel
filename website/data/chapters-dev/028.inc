@@ -90,22 +90,16 @@ Guys, I'm a bioengineering PhD student @UCDavis and to everyone saying this is b
 </div>
 
 <p>
-“And it’s not just on YouTube,” said Danny. “It’s on Twitter, it’s on Craigslist, it’s on reddit. People are contacting each other and cloning that bacterial strain as we speak. There’s a hundred copies floating around the city by now. In two days, there’ll be a thousand. In a week, there’ll be hundreds of thousands across the country. You’ve created a living thing here, Ivan. And do you know what a living thing does, by definition? It multiplies.
-</p>
-<p>
-“So, Ivan, the question is: What will this do to the market value of cocaine? Your single most profitable product? The only product that keeps your entire empire in the black? Well, you’re a businessman. You do the math.”
-</p>
-<p>
-The kingpin’s eyes flared. He grabbed Danny by the collar. “Undo this!”
-</p>
-<p>
-Danny gave him a sweet smile. “I can’t! Don’t you understand? The propagation of your little germ there isn’t caused by me. It’s caused by the nature of the product itself. What you see on that screen, that’s <em>your</em> doing, not mine.
+“And it’s not just on YouTube,” said Danny. “It’s on Twitter, Craigslist, reddit, SMS. There’s a hundred cloned vials floating around the city by now. In two days, there’ll be a thousand. In a week, there’ll be hundreds of thousands across the country. You’ve created a living thing here, Ivan. And do you know what a living thing does, by definition? It multiplies.
 </p>
 <p>
 “Isn’t this what you wanted, Ivan? You set out to create a technology that you could use to liberate yourself from Columbian drug cartels. Well, guess what? Now that you’ve created it, that exact same technology can be used just as easily by anyone else to liberate themselves from <em>you</em>.
 </p>
 <p>
-“The truth is, Ivan, you should be proud of yourself. I truly mean that. Oh sure, as a businessman, this might be an unmitigated disaster. But as a <em>technologist</em>, what you’ve done is what people like me <em>dream</em> of doing. You’ve changed the world. In fact, you’ve changed it so thoroughly that you no longer even have a place in it. You’ve pushed the world so far forward that it’s left you behind. You stand here now completely spent, having given to the world everything you have to offer. And now, all your talents, all your efforts, everything that has enabled you to achieve this triumph &mdash; all of it, specifically <em>because</em> you’ve achieved it, is now obsolete and useless.
+“So, Ivan, the question is: What will this do to the market value of cocaine? Your single most profitable product? The only product that keeps your entire empire in the black? Well, you’re a businessman. You do the math. 
+</p>
+<p>
+“The truth is, Ivan, you should be proud of yourself. I truly mean that. Oh sure, financially, this might be an unmitigated disaster. But as a <em>technologist</em>, what you’ve done is what people like me <em>dream</em> of doing. You’ve changed the world. In fact, you’ve changed it so thoroughly that you no longer even have a place in it. You’ve pushed the world so far forward that it’s left you behind. You stand here now completely spent, having given to the world everything you have to offer. And now, all your talents, all your efforts, everything that has enabled you to achieve this triumph &mdash; all of it, specifically <em>because</em> you’ve achieved it, is now obsolete and useless.
 </p>
 <p>
 “And you know what the real irony is? Finding yourself obsolete and useless? That’s <em>not</em> defeat. It’s the exact opposite: it’s how you know your mission’s been accomplished. It’s how you know you’ve achieved your goals. It isn’t a hallmark of failure; it’s the pinnacle of victory. When you’ve used yourself up… When you’ve rendered yourself pointless by your own hand… When you feel your knees buckle from fatigue and you collapse, exhausted and weak and old, onto the dusty path along which you’ve been pushing the world, and it rolls away from you, propelled forward by the momentum you had spent your life imparting to it, and you watch the world recede toward the horizon carrying the next generation onward to a future you’ve made possible and yet you will never see… …Then! <em>Then</em> is when you can finally let your head drop down into the dirt with a smile on your lips, when you can finally rest; because <em>then</em> is when you know that you’ve succeeded.
@@ -120,10 +114,10 @@ On the television, a map of the Seattle metropolis appeared. It was sprinkled wi
 The suite’s overhead lights flicked back to life.
 </p>
 <p>
-Ivan glared at Danny. Coldly, he hissed, “You will regret what you have done! If you thinking I would letting this… letting this crime against me…”
+Ivan glared at Danny. “You will regret what you have done! If you thinking I would letting this… this crime against me…”
 </p>
 <p>
-“Ivan, this presentation you just saw… Do you think <em>you</em> were the target audience? None of this was for you.” Danny slowly swept his arm around the room to gesture at Ivan’s entourage. “It was for them.”
+“Ivan, this presentation you just saw… Do you think <em>you</em> were the target audience? None of this was for you.” Danny slowly swept his arm around the room to Ivan’s entourage. “It was for them.”
 </p>
 <p>
 The mercenaries and prostitutes all looked back at Danny with expressions that spread across a wide spectrum, from contempt to curiosity to simply being impressed by his gall.

@@ -3,7 +3,7 @@
 <span class="caplead">The mercenaries stared at the screen</span>, murmuring. Ivan barked at them.
 </p>
 <p>
-Danny interrupted, “Don’t bother listening to him! He’s finished. As of right now, he has no money and no power. He’s nothing but a penniless old man.”
+Danny interrupted, “He’s finished! As of right now, he has no money and no power. He’s nothing but a penniless old man.”
 </p>
 <p>
 Ivan stared at him through narrowed, wrinkly eyes. “You are such idiot. You think <em>that</em> is all my money?” He pointed at the bank balance on the screen. “That is <em>pocket change</em>! That is one weekend gambling in Monaco! You think you stealing this one account making me ‘penniless’?”
@@ -15,19 +15,16 @@ Ivan stared at him through narrowed, wrinkly eyes. “You are such idiot. You th
 The television flashed. The image cut to a pie chart overlaid on a map of Eastern Europe. One small pink wedge was marked with a pin-up silhouette; a steel-gray section showed a handgun; a brown slice bore a hypodermic needle. But by far the largest wedge, taking up over half the pie, was colored white, besided a line of cocaine.
 </p>
 <p>
-“We’ve examined your finances, Ivan,” said Danny. “This is how much of your revenue comes from various operations. Some prostitution. Some arms trading. But the majority of your total income comes, of course, from drugs &mdash; specifically, cocaine. And so it appears, Ivan, that you have made…” The screen cut to a photograph of the Tungsten Medical Technologies building. “…a very poor investment decision.”
+“We’ve examined your finances, Ivan,” said Danny. “This is the breakdown of your revenue. There’s the usual &mdas; sex trafficking, arms trading. But most of your income is from drugs &mdash; specifically, cocaine. And so it appears, Ivan, that you have made…” The screen cut to a photograph of the Tungsten Medical Technologies building. “…a very poor investment decision.”
 </p>
 <p>
 Ivan laughed dryly. “You know so little!” He reached into his chest pocket and produced the small translucent smiley-faced Eppendorf vial. “Tungsten is best investment I ever make!”
 </p>
 <p>
-“There’s something I’d like to show you,” said Danny. “It’s inside my toolbox. May I open it?”
+“There’s something I’d like to show you,” said Danny. “It’s inside my toolbox.”
 </p>
 <p>
-Ivan spoke a few gruff words to a nearby bodyguard. The man marched up to Danny and yanked the box from his grasp. He set it down on the coffee table, cautiously unbuckled the lid, and reached within.
-</p>
-<p>
-Slowly, the bodyguard drew from the box a small translucent Eppendorf vial filled with pale brown goo.
+Ivan spoke a few gruff words to a nearby bodyguard. The man yanked the box from Danny, set it down on the coffee table, and cautiously unbuckled the lid. Slowly, he drew from the box a small translucent Eppendorf vial filled with pale brown goo.
 </p>
 <p>
 The other men crowded in to take a closer look. Their eyes shifted between the vial in Ivan’s hand and the one pulled from the box.
@@ -36,31 +33,22 @@ The other men crowded in to take a closer look. Their eyes shifted between the v
 “Pass them around,” Danny said pleasantly. “I brought enough for everybody.”
 </p>
 <p>
-The bodyguard pulled out another identical Eppendorf vial. And another. And another.
+The bodyguard pulled out another Eppendorf vial, identical to the first. Then another. And another.
 </p>
 <p>
-The smirk on Ivan’s face slowly sank. 
+“Each one is cloned directly from that batch you’re holding in your hand,” Danny explained. “You’re a businessman, Ivan. You saw this genetic engineering project as a chance to control your entire supply chain, without having to depend on manufacturers in South America. That’s why you had Tungsten create this bacterium &mdash; to produce a source of cocaine that’s portable, durable, and easily replaced. Well, guess what, Ivan? You wanted ‘easily replaced’? You got it.
 </p>
 <p>
-“Each one is cloned directly from that batch you’re holding in your hand,” Danny explained. “That <em>is</em> why you had Tungsten create this bacterium in the first place, after all &mdash; to produce a source of cocaine that’s portable, durable, and easily replaced. Well, guess what, Ivan? You wanted ‘easily replaced’? You got it.
-</p>
-<p>
-“You see, you’re a businessman, Ivan. You saw this genetic engineering project as a chance to control your entire supply chain, without having to depend on manufacturers in South America.
-</p>
-<p>
-“But, Ivan, you’ve clearly never invested in technology before. You see, there’s a name for what you’ve done. It’s called ‘disruptive innovation’. It’s a creation whose very existence completely changes the marketplace &mdash; and once it’s created, the world is never the same.”
+“See, we in the technology industry have a name for what you’ve done. ‘Disruptive innovation’. It’s a creation whose very existence completely changes the marketplace forever.”
 </p>
 <p>
 The screen filled with a collage of images: a printing press, a flint-lock firearm, a light bulb, a Model T Ford, an airplane, a nuclear explosion, an IBM mainframe computer, an iPhone. The photograph of the Eppendorf vial with the Tungsten logo floated in a corner.
 </p>
 <p>
-“When you work in technology,” Danny continued, “you never know where your own place will be in the new world order that you usher in. To create a new technology, you have to become an expert in the tech leading up to it &mdash; but then, when you build something that surpasses the contemporary state of the art, you make your own expertise obsolete. The skills that you spend your entire life honing are rendered defunct by your own hand.
+“Here’s the bittersweet secret about the tech world,” Danny continued. “Those of us who help overturn outdated methods and old paradigms render ourselves obsolete by our own innovations. We find ourselves at a competitive disadvantage against younger, fresher minds &mdash; minds that are uncluttered by knowledge of derelict systems that we had to learn in order to replace. The youth that follow will only know the world we have made for them; they will never know the world we came from. The pinnacle of our achievements, the greatest heights to which we can climb, will for them be merely their starting point. They will take for granted our lifetimes of work and claim it as their birthright. They’ll use our own accomplishments to leave us in the dust. The world moves on &mdash; and it does so because we <em>make</em> it move on. Because, as a technologist, that’s the whole point.
 </p>
 <p>
-“And you might think that you, as the innovator, might have some kind of natural position of merit, some kind of intrinsic value. But you’d be wrong. Instead, you find yourself at a competitive disadvantage against younger, fresher minds &mdash; minds that are uncluttered by knowledge of the derelict systems that you had to learn in order to replace; minds that are unhindered by outdated methods and paradigms that you yourself helped overturn. The youth that follow will only know the world you have made for them; they will never know the world you came from. The pinnacle of your achievements, the greatest heights to which you can climb, will for them be merely their starting point. They will take for granted your lifetime of work and claim it as their birthright. They’ll use your own accomplishments to leave you in the dust. The world moves on &mdash; and it does so because you <em>make</em> it move on. Because, as a technologist, that’s the whole point.
-</p>
-<p>
-“Now, Ivan, would you like to see what the youth of today are doing with <em>your</em> accomplishments right this minute? Take a look. You might find this… inspirational.”
+“And now, Ivan… Take a look at what the youth of today are doing with <em>your</em> accomplishments right this minute.”
 </p>
 <p>
 On the television screen appeared a YouTube video page. The frame showed a t-shirted young man sitting in a dark room. His face was hidden behind a pale mask bearing the smug countenance of Guy Fawkes, the subversive mascot of the Anonymous hacker collective.
@@ -135,7 +123,7 @@ The suite’s overhead lights flicked back to life.
 Ivan glared at Danny. Coldly, he hissed, “You will regret what you have done! If you thinking I would letting this… letting this crime against me…”
 </p>
 <p>
-Danny interrupted, “Actually, Ivan, I really don’t care what you think. This presentation you just saw… Do you think <em>you</em> were the target audience? None of this was for you.” Danny slowly swept his arm around the room to gesture at Ivan’s entourage. “It was for them.”
+“Ivan, this presentation you just saw… Do you think <em>you</em> were the target audience? None of this was for you.” Danny slowly swept his arm around the room to gesture at Ivan’s entourage. “It was for them.”
 </p>
 <p>
 The mercenaries and prostitutes all looked back at Danny with expressions that spread across a wide spectrum, from contempt to curiosity to simply being impressed by his gall.

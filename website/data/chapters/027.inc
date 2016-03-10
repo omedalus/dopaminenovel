@@ -661,7 +661,7 @@ Ivan leaned toward Danny. “Ah, so quiet! You having no last words?”
 A diabolical smile crept onto Danny’s face.
 </p>
 <p>
-In a blink, the room lights died. The suite went dark, save for the glow from the plasma TV. Its image flicked to aan online banking interface, logged in to a corporate account. The ledger was listed in euros, and showed a balance of seven figures. Across the top, in both Russian and English, it displayed the title, “Zheleznov Consortium Holdings”.
+In a blink, the room lights died. The suite went dark, save for the glow from the plasma TV. Its image flicked to an online banking interface, logged in to a corporate account. The ledger was listed in euros, and showed a balance of seven figures. Across the top, in both Russian and English, it displayed the title, “Zheleznov Consortium Holdings”.
 </p>
 <p>
 In the light of the television screen, with every gun in the room pointed at him, Danny looked Ivan in the eyes and grinned.“Actually, yeah. I’ve got a few things to say.”

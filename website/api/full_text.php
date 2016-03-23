@@ -6,6 +6,11 @@ $dirname = $dev == "true" ? "chapters-dev" : "chapters";
 $mturk = $_GET['mturk'] == 'true';
 $mturkscript = $mturk ? '<script src="api/mturk.js"></script>' : '';
 
+$showtitle = !($_GET['showtitle'] == 'false');
+$showcopyright = !($_GET['showcopyright'] == 'false');
+$showtoc = !($_GET['showtoc'] == 'false');
+
+
 require_once('act_breaks.php');
 header('Content-Type: text/html; charset=utf-8');
 
@@ -31,11 +36,10 @@ echo <<<EOL
 
 </head>
 <body>
+EOL;
 
-<div class="blankpage printonly">
-  This page intentionally left blank.
-</div>
-
+if ($showtitle) {
+  echo <<<EOL
 <div class="titlepage">
   <div class="booktitle">
     Dopamine
@@ -47,7 +51,12 @@ echo <<<EOL
     Mikhail Voloshin
   </div>
 </div>
+EOL;
+}
 
+
+if ($showcopyright) {
+  echo <<<EOL
 <div class="copyrightpage">
   <div class="booktitle-redux">
     Dopamine
@@ -61,45 +70,47 @@ echo <<<EOL
     All rights reserved.
   </div>
 </div>
-
 EOL;
+}
 
 $chapter_dir = "../data/" . $dirname . "/";
 $all_files = scandir($chapter_dir);
 $chapter_files = array_values(preg_grep("/\d+\.inc/", $all_files));
 
-echo <<<EOL
+if ($showtoc) {
+  echo <<<EOL
 <div class="tocpage">
 <a id="TOC"><h3>Table of contents</h3></a>
 
 <nav id="toc">
 <ol>
-
 EOL;
-$tocsection = '';
-foreach ($chapter_files as $chapter_file) {
-  $chapter_number = intval($chapter_file);
+  $tocsection = '';
+  foreach ($chapter_files as $chapter_file) {
+    $chapter_number = intval($chapter_file);
 
-  $chapter_anchor = "chapter_" . $chapter_number;
-  if ($chapter_number == 1) {
-    $chapter_anchor = "start";
-  }
+    $chapter_anchor = "chapter_" . $chapter_number;
+    if ($chapter_number == 1) {
+      $chapter_anchor = "start";
+    }
 
-  $newsection = $ACT_BREAKS[$chapter_number];
-  if ($newsection) {
-    $tocsection = $newsection;
-  }
+    $newsection = $ACT_BREAKS[$chapter_number];
+    if ($newsection) {
+      $tocsection = $newsection;
+    }
 
-  echo <<<EOL
+    echo <<<EOL
   <li><a href="/api/full_text.php#$chapter_anchor">$tocsection &mdash; Chapter $chapter_number</a></li>
 EOL;
-}
-echo <<<EOL
+  }
+  echo <<<EOL
 
 </ol>
 </nav>
 </div>
 EOL;
+}
+
 
 $cursection = '';
 foreach ($chapter_files as $chapter_file) {

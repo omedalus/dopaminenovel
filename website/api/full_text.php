@@ -9,6 +9,17 @@ $mturkscript = $mturk ? '<script src="api/mturk.js"></script>' : '';
 $showtitle = !($_GET['showtitle'] == 'false');
 $showcopyright = !($_GET['showcopyright'] == 'false');
 $showtoc = !($_GET['showtoc'] == 'false');
+$includescripts = !($_GET['includescripts'] == 'false');
+$internalcss = $_GET['internalcss'] == 'true';
+
+$exportable = $_GET['exportable'] == 'true';
+if ($exportable) {
+  $showtitle = false;
+  $showcopyright = false;
+  $showtoc = false;
+  $includescripts = false;
+  $internalcss = true;
+}
 
 
 require_once('act_breaks.php');
@@ -18,22 +29,41 @@ echo <<<EOL
 <!DOCTYPE html>
 <html lang="en-us" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+  <title>Dopamine</title>
   <base href=".." target="_self" />
 
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="favicons/favicon.ico?v=3" />
+EOL;
+
+if ($includescripts) {
+  echo <<<EOL
   <script src="thirdparty/jquery-1.10.2.min.js"></script>
   <script src="thirdparty/underscore-min.js"></script>
 
   <script src="api/script.js"></script>
   $mturkscript
+EOL;
+}
 
-  <title>Dopamine</title>
+if ($internalcss) {
+  echo <<<EOL
+  <style>
+EOL;
+  require_once('../css/fulltext.css');
 
+  echo <<<EOL
+  </style>
+EOL;
+} else {
+  echo <<<EOL
   <link rel="stylesheet" type="text/css" href="css/fulltext.css" />
+EOL;
+}
 
-  <!-- Favicon -->
-  <link rel="shortcut icon" href="favicons/favicon.ico?v=3" />
-
+echo <<<EOL
 </head>
 <body>
 EOL;

@@ -9,7 +9,7 @@ Unfortunately, that never actually happened.
 <span class="think">It should be louder than this</span>, thought Danny. <span class="think">I gave a great performance. They should be whistling and howling and throwing their underwear at me.</span>
 </p>
 <p>
-Danny looked around and decided it’s best if they didn’t.
+Danny looked around and decided it best that they didn’t.
 </p>
 <p>
 The smattering of polite, professional applause came from two dozen 50-something men. In place of tattoos and piercings were hair plugs and dental veneers. What should have been a stadium glittering with cellphone flashes was instead a bland conference room awash in the sickly light of fluorescent bulbs. Half of the audience were wearing gray suits, like Danny. The rest were in khakis and polos, doubtlessly planning to get back to their sailboats or golf courses after the meeting.
@@ -24,7 +24,7 @@ There was no microphone in Danny’s hand, only a laser pointer. No spotlight, o
 Danny’s boss, Brent Thurston, stepped deftly forward. “That’ll conclude the technical portion of this meeting. And folks, I just want to say before we move on, that Danny and I really appreciate this opportunity to present this work to you. It’s great to see Claymore’s financial contributors showing a genuine interest in the engineering efforts of the company.” 
 </p>
 <p>
-“Oh, our pleasure!” said the man in the Nine Inch Nails T-shirt. “Danny’s presentation was amazing, but what’s even more exciting his technology. What you’ve shown here is an upcoming wireless revolution, and I’m proud to help it come to fruition!” Later that day, NIN Man would buy Claymore Communications with his personal funds, and the company would go public. Danny would cash in his stock options to buy a downtown penthouse, and spend the next several years building Claymore into the world’s premier data systems provider. He would be featured in <em>Time</em> magazine as the face of digital communication in the 21<sup>st</sup> century.
+“Oh, our pleasure!” said the man in the Nine Inch Nails T-shirt. “Danny’s presentation was amazing, but what’s even more exciting is his technology. What you’ve shown here is an upcoming wireless revolution, and I’m proud to help it come to fruition!” Later that day, NIN Man would buy Claymore Communications with his personal funds, and the company would go public. Danny would cash in his stock options to buy a downtown penthouse, and spend the next several years building Claymore into the world’s premier data systems provider. He would be featured in <em>Time</em> magazine as the face of digital communication in the 21<sup>st</sup> century.
 </p>
 <p>
 Only, that never actually happened, either.
@@ -48,7 +48,7 @@ Brent beamed. “Yes, Danny’s been a great asset to the company. He’s been C
 Danny answered on his own behalf. “Sure thing. I can put this up on the Claymore website right now…” His hand moved inside his jacket toward his cellphone.
 </p>
 <p>
-The room erupted in murmurs of protest and clearing of throats. The one-percenters exchanged nervous glances and inched forward in their seats. Danny stood frozen with his hand halfway to his chest pocket, as though he was caught drawing a gun. He blinked dumbly at Brent for help.
+The room erupted in murmurs of protest and clearing of throats. The one-percenters exchanged nervous glances and inched forward in their seats. Danny stood frozen with his hand halfway to his chest pocket as though caught drawing a gun. He blinked dumbly at Brent for help.
 </p>
 <p>
 Brent returned Danny’s look with an embarrassed half-smile. “The company’s website is maybe not the best place for proprietary technical data, Danny.” To the investors, he said, “But we’ll be delighted to email this presentation to each of you as soon as we wrap up.”
@@ -57,7 +57,7 @@ Brent returned Danny’s look with an embarrassed half-smile. “The company’s
 “Please make sure I get a personal copy,” NIN man insisted. “You can reach me at Jason Tuttle at AOL dot com. That’s J, A, S...”
 </p>
 <p>
-Brent quieted him down with a reassuring handwave. “You’ll get one, Jason. You’ll all get one. And I’ll send out Danny’s contact info for further technical questions.”
+Brent assuaged him with a handwave. “You’ll get one, Jason. You’ll all get one. And I’ll send out Danny’s contact info for further technical questions.”
 </p>
 <p>
 And just like that, Brent Thurston took the room. He launched his own set of PowerPoint slides, discussing things like potential partnership strategies and market penetration projections. Danny stood aside to let the big boys play.
@@ -78,7 +78,7 @@ Reality sucked.
 <span class="think">Crap! I didn't say that out loud, did I?</span>
 </p>
 <p>
-The words had escaped under his breath. All eyes turned to Danny. Brent’s jaw hung open.
+The words had escaped under his breath. All eyes turned to Danny. Brent’s jaw caverned open.
 </p>
 <p>
 “I… Sorry,” Danny said. “I was just… My mind was somewhere else.”
@@ -102,7 +102,7 @@ Danny took the hint. As he fled the room, he heard Brent resume the presentation
 <span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. It glowed with a shade of red slightly deeper than the visible spectrum: infrared. Every object in the universe emitted black-body radiation based on its temperature. Danny mentally computed the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law: the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times…
 </p>
 <p>
-A vibration on his chest broke his trance. His cellphone signaled an incoming email. Judging by the time, Brent’s Q&amp;A had come to a close several minutes ago. The investors had probably cleared out by now and were already driving their Beamers and Lexi home.
+A vibration on his chest broke his trance. His cellphone signaled an incoming email. Judging by the time, Brent’s Q&amp;A had ended several minutes ago. The investors had probably cleared out and were already driving their Beamers and Lexi home.
 </p>
 
 <div class="computer email">
@@ -139,10 +139,10 @@ Verizon Communications
 The email continued with a chain of forwards and replies by random corporate people. The attachment was the PowerPoint presentation that Danny had delivered less than half an hour ago.
 </p>
 <p>
-“<span class="computer">Sure</span>,” Danny typed in reply. “<span class="computer">Put simply, the phase angle deltas are part of the encoding scheme. To solve the obvious physical reception problems, we’ve developed a polyradial antenna</span>…”
+“<span class="computer">Sure</span>,” Danny typed in reply. “<span class="computer">Put simply, the phase angle deltas are part of the encoding scheme. To solve the obvious physical reception problems, we’ve developed a polyradial antenna</span>&mdash;”
 </p>
 <p>
-His fingers abruptly froze. A conundrum pestered him from the back of his mind, distracting him from NIN Man’s request. The email thread, after all, was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain. The conundrum, on the other hand, involved understanding social cues. The latter was a much more complicated matter than the former.
+His fingers froze. A surge of doubt swelled from the back of his mind, eclipsing NIN Man’s request. It dawned on him that there was a much more challenging conundrum before him. The email thread was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain. The conundrum, on the other hand, involved social cues and verbal subtexts &mdash; something far more complicated.
 </p>
 <p>
 Danny deleted his reply-in-progress and replaced it with:

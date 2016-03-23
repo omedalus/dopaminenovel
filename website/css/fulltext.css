@@ -242,7 +242,7 @@ hr {
 
 /* Thoughts. */
 .think {
-  color: #448;
+/*  color: #448;*/
   font-style: italic;
 }
 
@@ -272,8 +272,6 @@ hr {
 .computer {
   color: #040;
   font-family: "Courier New", Courier, monospace;
-  font-size: 14px;
-  line-height: 20px;
 }
 
 pre.computer, .computer.email {
@@ -281,7 +279,6 @@ pre.computer, .computer.email {
 }
 
 span.computer {
-  font-size: 15px;
 }
 
 .formcommentbox {

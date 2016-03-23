@@ -3,13 +3,13 @@
 <span class="caplead">Mercury was adorned with grinning gargoyles</span> and occult symbols. Mannequins stood in corners, as though the Medusa sculpture by the door had turned patrons to plastic. Young people with bits of metal in their skin sipped colorful drinks to the buzzing, beeping background music.
 </p>
 <p>
-Danny walked in carrying a Claymore tote bag full of electronic junk. Wires and tubes poked out from the top. He spotted Jason Tuttle alone at a table.
+Danny walked in carrying a Claymore tote bag full of electronic junk. Wires and tubes protruded from the top. He spotted Jason Tuttle alone at a table.
 </p>
 <p>
 “I take it you haven’t been home?” Jason said, eyeing the suit Danny was still wearing from the afternoon’s presentation.
 </p>
 <p>
-“I hung out in the office after our chat,” Danny said as he sat down to join him. “Figured I’d soak in the vibe one last time. Play with the Foosball table. Kick the vending machine.”
+“I hung out in the office after our chat.” Danny sat down to join him. “Figured I’d soak in the vibe one last time. Play with the Foosball table. Kick the vending machine.”
 </p>
 <p>
 Jason gestured at Danny’s bag. “But you didn’t walk away empty-handed, I see.”
@@ -72,10 +72,10 @@ Jason nodded. “Yes, Tungsten. That’s what I was hoping to talk about.”
 “I’ve never heard of it before. Is it big?” Danny asked.
 </p>
 <p>
-“At its height it was maybe three hundred people. Mostly sales teams. We had guys who bought equipment from manufacturers, and other guys who’d turn around and sell it to schools and hospitals.”
+“At its height, maybe three hundred people. Mostly sales teams. We had guys who bought equipment from manufacturers, and other guys who’d turn around and sell it to schools and hospitals.”
 </p>
 <p>
-“So this Tungsten company doesn’t actually make anything, then?”
+“So this Tungsten company doesn’t actually <em>make</em> anything, then?”
 </p>
 <p>
 Jason shook his head. “Back then, no. We were just re-sellers.”
@@ -84,10 +84,10 @@ Jason shook his head. “Back then, no. We were just re-sellers.”
 “Sounds simple, but I feel like I’m missing something,” said Danny. “Why would a customer bother going through a middleman? I mean, if I were a surgeon looking for a shiny new scalpel or something, I’d just go to the manufacturer’s website.”
 </p>
 <p>
-Jason answered, “And how exactly would you do that in the late seventies?”
+“And how exactly would you have done that in the late seventies?”
 </p>
 <p>
-Danny laughed at himself. It was easy for him to forget just how recent the dot-com revolution was. Something as simple and ubiquitous as online shopping was not yet even two decades old.
+Danny laughed inwardly. It was easy to forget just how recent the dot-com revolution was. Something as simple and ubiquitous as online shopping was not yet even two decades old.
 </p>
 <p>
 “You hit the nail on the head, though,” Jason continued. “The Internet hasn’t been kind to Tungsten. It made our core business model obsolete. Tungsten spent the last ten years in a death spiral. When the recession hit, the company finally fell apart. We laid off almost everybody. I took severance. It was a hard decision, but I could tell we were finished. The company got ready to sell off its stockroom and close its doors.”
@@ -96,13 +96,13 @@ Danny laughed at himself. It was easy for him to forget just how recent the dot-
 “But it managed to survive?” asked Danny.
 </p>
 <p>
-“Yes, but… it’s changed. Two years ago, some nameless overseas consortium swooped in and bought the company. These guys &mdash; Russian, Estonian, something like that &mdash; they were able to get it for a steal. They installed this old scientist to run the whole shop. Dr. Pyotr Passinsky. The investment consortium wires him money, and he pays the bills and keeps the staff in line.”
+“Yes, but… it’s <em>changed</em>. Two years ago, some nameless overseas consortium swooped in and bought the company. These guys &mdash; Russian, Estonian, something like that &mdash; they were able to get it for a steal. They installed this old scientist to run the whole shop. Dr. Pyotr Passinsky. The investment consortium wires him money, and he pays the bills and keeps the staff in line.”
 </p>
 <p>
 “So there’s still a staff around.”
 </p>
 <p>
-“Yeah,” said Jason. “Dr. Passinsky kept some of the technical salesmen who knew their way around the old equipment. Then he went and hired about a dozen new people. Very pricey people. Geneticists, chemical engineers, neurobiologists. The consortium apparently has this vision to re-vamp Tungsten into a cutting-edge research shop for pharmaceutical biotechnology.”
+“Yeah,” said Jason. “Dr. Passinsky kept some of the technical salesmen who knew their way around the old equipment. Then he went and hired about a dozen new people. Very pricey people &mdash; geneticists, chemical engineers, neurobiologists. The consortium apparently has this vision to revamp Tungsten into a cutting-edge research shop for pharmaceutical biotechnology.”
 </p>
 <p>
 Danny nodded wistfully. “Heh. Biotech…”
@@ -111,13 +111,13 @@ Danny nodded wistfully. “Heh. Biotech…”
 “Yes,” said Jason. “Are you familiar with that technology space at all?”
 </p>
 <p>
-Danny shook his head with a distant smile. The very word “biotechnology” conjured images he had long forgotten. There was a time before the Internet boom when a young computer enthusiast wasn’t seen as a potential millionaire, but a pimple-pocked pariah suited solely for locker-stuffing and atomic wedgies. It was a time when his fellow Generation X nerds were all reading William Gibson’s <em>Neuromancer</em> and playing <em>Shadowrun</em> and dressing like <em>The Matrix</em>; when they said to each other with heady excitement, “The future is <em>digital</em>!” Growing up, they had made that future real &mdash; configuring ISDN lines, building websites, creating dot-coms. They were homesteaders and gold prospectors taming the West.
+Danny shook his head, smiling distantly. The very word “biotechnology” conjured images he’d long forgotten. There was a time before the Internet boom when a young computer enthusiast wasn’t seen as a potential millionaire, but a pimple-pocked pariah suited solely for locker-stuffing and atomic wedgies. It was a time when his fellow Generation X nerds were all reading William Gibson’s <em>Neuromancer</em> and playing <em>Shadowrun</em> and dressing like <em>The Matrix</em>; when they said to each other with heady excitement, “The future is <em>digital</em>!” Growing up, they had made that future real &mdash; configuring ISDN lines, building websites, creating dot-coms. They were homesteaders and gold prospectors taming the West.
 </p>
 <p>
 Yet now, <em>because</em> they had made it real, by definition it wasn’t futuristic anymore.
 </p>
 <p>
-But <em>biotechnology</em> was still an uncharted frontier. Biotech still held unscaled vistas and unseen horizons &mdash; the next “virtual reality,” the next “information superhighway,” the next “cyberspace.” The future <em>used</em> to be digital. Now the <em>present</em> was digital. The future was squishy.
+But <em>biotechnology</em> was still an uncharted frontier. Biotech still held unscaled vistas and unseen horizons &mdash; the next “virtual reality”, the next “information superhighway”, the next “cyberspace”. The future <em>used</em> to be digital. Now the <em>present</em> was digital. The future was squishy.
 </p>
 <p>
 “Not at all,” Danny answered. “But I have friends who work at the Fred Hutchinson Cancer Research Center. And ZymoGenetics. And the Allen Institute for Brain Science. I’ve been hearing for decades that biotech is just around the corner. I guess it’s finally happening.”
@@ -129,13 +129,13 @@ Jason nodded. “Exactly. Biotechnology is getting big. But Tungsten isn’t.”
 “You don’t think so?” asked Danny.
 </p>
 <p>
-“They’re playing a very strange game over there right now,” said Jason. “In the entire two years under Dr. Passinsky, they haven’t filed a single patent. They haven’t published any papers or presented at any conferences.”
+“They’re playing a very strange game over there right now. In the entire two years under Dr. Passinsky, they haven’t filed a single patent. They haven’t published any papers or presented at any conferences.”
 </p>
 <p>
-“And that’s unusual?” Danny said naively.
+Danny felt a little stupid. “And that’s unusual?”
 </p>
 <p>
-“Very. See, if Tungsten was really trying to join the pharmaceuticals race, they’d be building a reputation for themselves and negotiating with someone like Johnson & Johnson for a buyout,” Jason explained. “FDA approval is a long and painful process, and a tiny player like Tungsten should be trying to join some ‘mega-corporation’ to leverage their clinical trial pipeline. Take ICOS Biologics, over in Bothell. They used to be the biggest biotechnology firm in Seattle. They developed Cialis, the drug for erectile dysfunction. What did they do? Sold to Eli Lilly. Or take ID Biomedical &mdash; they created a flu vaccine mist that you spray up your nose. They sold to GlaxoSmithKline. That’s how this game goes. But Tungsten isn’t playing.”
+“Very. See, if Tungsten <em>really</em> wanted to join the pharmaceuticals race, they’d be building a reputation and soliciting a buyout,” Jason explained. “FDA approval is a long and painful process, and a tiny player like Tungsten should be trying to join some ‘mega-corporation’ to leverage their clinical trial pipeline. Take ICOS Biologics for example, over in Bothell. They used to be the biggest private biotechnology firm in the Pacific Northwest. They developed Cialis, the drug for erectile dysfunction. What did they do? Sold to Eli Lilly. Or take ID Biomedical &mdash; they created a flu vaccine mist that you spray up your nose. They sold to GlaxoSmithKline. That’s how this game goes. But Tungsten isn’t playing.”
 </p>
 <p>
 “Have you talked to them?” asked Danny. “You were their COO. You had a long history with them. Can’t you just call them?”

@@ -165,7 +165,7 @@ It's not your concern. Please answer Dorothy's question.<br/>
 </div>
 
 <p>
-Danny cringed at being so unceremoniously relegated to the role of worker-gnome. He went back to Jason’s original email, hoping for clues. Bundled with the forward was a long heavily-indented list of prior emails. Danny began scrolling.
+Danny cringed, and went back to Jason’s original email in search of clues. Bundled with the forward was a long heavily-indented list of prior emails. Danny began scrolling.
 </p>
 
 <div class="computer email">
@@ -185,7 +185,7 @@ I got a green light from my director. Verizon will join the auction for the inte
 </div>
 
 <p>
-Danny stared at that email. There were more below it, with other Verizon personnel and Claymore investors. But Danny’s eyes kept reading that message over and over again, bouncing off the bottom of the screen back to the top like a program caught in an infinite loop.
+Danny stared at that email. More pooled below it, with other Verizon personnel and Claymore investors. But Danny’s eyes kept rereading that message, bouncing off the bottom of the screen back to the top like a program caught in an infinite loop.
 </p>
 <p>
 Eventually, he fought through his bewilderment to write one simple question.
@@ -245,7 +245,7 @@ Danny responded.
 <br/>
 
 <p>
-For a second Danny thought about composing an explanation about why Gödel’s Incompleteness Theorem makes it technically impossible for any information-processing system, including a human mind, to operate under the premise of not having a piece of information that it does in fact have. But there was a much bigger issue to address.
+For a second Danny thought about explaining that Gödel’s Incompleteness Theorem makes it impossible for any data-processing system, including a human mind, to operate under the premise of not having a datum that it does in fact have. But there was a bigger issue to address.
 </p>
 
 <br/>
@@ -488,7 +488,7 @@ Danny let out a cold, bitter laugh.
 <br/>
 
 <p>
-Danny leaned against the wall and let himself sink slowly down until he sat on the floor, his head dangling limply between his knees. A silent minute passed. His cellphone vibrated again in his hand.
+Danny pressed his shoulder blades against the wall and slid down until he sat on the floor, his head dangling between his knees. A silent minute ground by. Then his phone vibrated again in his hand.
 </p>
 
 <br/>
@@ -500,7 +500,7 @@ Danny leaned against the wall and let himself sink slowly down until he sat on t
     Believe it or not, I've been in your shoes. I know firsthand that there are other things at stake. Deeper things.
   </div>
   <div class="message messagein">
-    Dignity. Pride. A sense of accomplishment. Being valued.
+    Dignity. Pride. A sense of accomplishment.
   </div>
   <div class="message messagein">
     So here's what I'm thinking.
@@ -518,10 +518,10 @@ Danny leaned against the wall and let himself sink slowly down until he sat on t
 <br/>
 
 <p>
-Danny sat on the floor as the messages rolled in. He looked around the kitchen. The table, the coffee pot, the fridge, the OSHA notices, the community corkboard with postings from his coworkers looking for babysitters or carpool partners. In a week, it would all be gone.
+Danny sat transfixed as the messages rolled in. He scanned the kitchen. The coffee pot, the fridge, the OSHA notices, the community corkboard with postings from his coworkers looking for babysitters and carpool partners. In a week, it would all be gone.
 </p>
 <p>
-It certainly wasn’t the first dot-com he’d seen die with a whimper. And, though it stabbed him through the heart to think of it, it probably wouldn’t be the last.
+It certainly wasn’t the first dot-com he’d seen die with a whimper. And, though it stabbed him through the heart to think it, it probably wouldn’t be the last.
 </p>
 
 <br/>

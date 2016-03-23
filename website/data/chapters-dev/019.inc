@@ -166,28 +166,28 @@ Danny froze with his hand on the door handle. “What’s there to discuss?”
 Danny slumped back into his seat with an intense frown. “I don’t want to do this anymore, alright?”
 </p>
 <p>
-“But Danny, I <em>need</em> you…” Jason insisted.
+“But Danny, I <em>need</em> you,” Jason insisted.
 </p>
 <p>
-“I’m not a hacker, Jason,” Danny replied. “This is Seattle. There’s dozens of top-notch hacker outfits you could hire, both legal and illegal. IOActive. Leviathan Security. The Ghetto Hackers. The Schmoo Group. There’s literally a thousand people in this city that would do a better job at this than me, for a lower price.”
+“I’m not a hacker, Jason. This is Seattle. There’s dozens of top-notch infosec outfits you could hire, both legal and illegal. IOActive. Leviathan Security. The Ghetto Hackers. The Schmoo Group. There’s literally a thousand people in this city that would do a better job at this than me, for a lower price.”
 </p>
 <p>
-“Danny, I don’t have any inroads to folks like that,” Jason defended. “It’s not like I can just type ‘Seattle hackers’ into Google and get contact information for…”
+“Danny, I don’t have any inroads to folks like that. It’s not like I can just type ‘Seattle hackers’ into Google and get contact information for&mdash;”
 </p>
 <p>
-“Yes, you can,” Danny interrupted. “You can do <em>exactly</em> that. Try it.”
+“Yes, you can. You can do <em>exactly</em> that.”
 </p>
 <p>
 “Right. And I’m supposed to work with some random guy off the Internet who happens to be a semi-professional criminal?”
 </p>
 <p>
-Danny glared at him. “For a <em>criminal</em> activity? Yes.”
+“For a <em>criminal</em> activity? Yes.”
 </p>
 <p>
-“I need someone smart who could do the job,” Jason countered. 
+“I need someone smart who could do the job.”
 </p>
 <p>
-“And you thought <em>I</em> would be the right guy for it?” Danny fired back. “I’m an engineer. I’m a builder, not a breaker. All this cloak-and-dagger bullshit isn’t what I do. <em>This</em> is what I do…” He held up his HERF gun. “<em>This</em> is what I do…” He held up his cellphone. “I don’t do <em>this</em>…” He fished Eugene’s hacked Pantech out of his pocket. “…And I sure as shit don’t do <em>this</em>…” He turned his shoulder to display the dressing over his bullet wound. “You think I want to keep working with you? Are you <em>kidding me</em>? Right now, all I want is to rewind back to yesterday afternoon, when you offered me this little project, so I could tell you, ‘No, thanks.’ And in that alternate universe, I’ve spent all night tonight updating my LinkedIn profile and fiddling with my resume and flipping through job openings on Craigslist, and right now I’m staying up late re-playing Skyrim because I know I don’t have work tomorrow. <em>That’s</em> where I’m supposed to be. <em>That’s</em> my life. <em>That’s</em> my home universe. But instead, I’m <em>here</em>. And <em>here</em>, I’ve spent the night… in…”
+Danny glared at him. “And you thought <em>I</em> would be the right guy for it?” Danny fired back. “I’m an engineer. I’m a builder, not a breaker. All this cloak-and-dagger bullshit isn’t what I do. <em>This</em> is what I do…” He held up his HERF gun. “<em>This</em> is what I do…” He held up his cellphone. “I don’t do <em>this</em>…” He fished Eugene’s hacked Pantech out of his pocket. “…And I sure as shit don’t do <em>this</em>…” He turned his shoulder to display the dressing over his bullet wound. “You think I want to keep working with you? Are you <em>kidding me</em>? Right now, all I want is to rewind back to yesterday afternoon, when you offered me this little project, so I could tell you, ‘No, thanks.’ And in that alternate universe, I’ve spent all night tonight updating my LinkedIn profile and fiddling with my resume and flipping through job openings on Craigslist, and right now I’m staying up late re-playing Skyrim because I know I don’t have work tomorrow. <em>That’s</em> where I’m supposed to be. <em>That’s</em> my life. <em>That’s</em> my home universe. But instead, I’m <em>here</em>. And <em>here</em>, I’ve spent the night… in…”
 </p>
 <p>
 He looked down at himself, at his shirtless torso and his wounded hand. He felt his shoulder throbbing. He took a long, slow, deep breath. 

@@ -186,22 +186,10 @@ But then he noticed that the main screen displayed, “<span class="computer">NU
 “Uh, Jason, I’ll be honest,” said Danny. “My skills might be a little rusty.”
 </p>
 <p>
-“Don’t worry. I’ve already assembled a team,” said Jason. “I’ll introduce you tomorrow. Three other guys. Very skilled. I want you to lead them. What do you say?”
+“Don’t worry. I’ve already assembled a team,” said Jason. “I’ll introduce you tomorrow. Very skilled guys. I want you to lead them.”
 </p>
 <p>
-Danny looked away. “I don’t know.”
-</p>
-<p>
-“What’s not to know?” Jason asked. “I can plainly see you practically beaming at the idea.”
-</p>
-<p>
-He said hesitantly, “What you’re asking for is illegal.”
-</p>
-<p>
-“Which is exactly why I need someone I can work closely with,” said Jason. “Someone I can trust. Danny, I know there are professional hacker organizations out there &mdash; there are entire companies that do information security operations. But the legitimate ones won’t take on a project like this, and the illegitimate ones are, um, not the kind of people I want to do business with. I need someone I already have an established working relationship with &mdash; and technically you’ve been on my payroll for the last six years. I need <em>you</em>, Danny.”
-</p>
-<p>
-“<em>Me</em>? But… I don’t think I’m…” he stammered. “Look, Jason, the skills for <em>building</em> data systems aren’t the same as the skills for <em>breaking</em> them. It’s a different mindset.”
+“<em>Me</em>? But… I don’t think I’m… Look, Jason, the skills for <em>building</em> data systems aren’t the same as the skills for <em>breaking</em> them. It’s a different mindset.”
 </p>
 <p>
 “So you don’t think you’d be able to do the job?” Jason asked.

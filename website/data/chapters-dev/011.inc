@@ -195,7 +195,7 @@ She realized that, even if she couldn’t take the gun, maybe she could empty it
 The sound wasn’t just deafening. It was so loud it was blinding.
 </p>
 <p>
-A foot-long arc of black and orange flame flashed from the barrel. A hot shock wave blasted across Tina’s face, jostling her hair. Her nostrils filled with the sharp, earthy odor of gunpowder.
+A foot-long arc of black and orange flame flashed from the barrel. A hot shock wave blasted across Tina’s face, jostling her hair. Her nostrils filled with the sharp, metallic odor of gunpowder.
 </p>
 <p>
 The gun’s recoil hit her palm like a baseball bat in full swing. Her hand was knocked back as the revolver flew upward, escaping her grasp. The Russian, his arms longer and his grip stronger, was just barely able to keep hold of the weapon. Grainy white dust sprinkled from the wall nearby. There was a hole in the drywall, the size of a man’s fist.

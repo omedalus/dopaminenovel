@@ -48,7 +48,7 @@ The woman exclaimed, “Tina!?”
 Tina jumped, and looked up apologetically from the console.
 </p>
 <p>
-“Tina, what are you <em>doing here</em>?” Her tone was that of a duchess addressing a chambermaid caught in the boudoir trying on a set of pearls.
+“What are you <em>doing here</em>?”
 </p>
 <p>
 Tina started to back away, but a final glance at the screen convinced her to stand her ground. “Your reporter. You’re using gfp, right? Why wouldn’t you just use a selectable marker? CAT is standard for <em>E. coli</em>, isn’t it?”

@@ -27,13 +27,13 @@ Jason gestured at Danny’s bag. “But you didn’t walk away empty-handed, I s
 “Yes, actually. We’re auctioning off Claymore’s assets. Everything’s up for appraisal. The software, the hardware, the furniture, the company van. It’s all for sale. Including whatever <em>that</em> is.”
 </p>
 <p>
-Danny gazed into the bag’s metal-strewn depths. “For <em>sale</em>? You… No. It’s not yours. <em>I</em> designed and built it…”
+Danny gazed into the bag’s metal-strewn depths. “For <em>sale</em>? You&mdash; No. It’s not <em>yours</em>. <em>I</em> designed and built it &mdash;”
 </p>
 <p>
 “<em>For</em> Claymore,” Jason insisted.
 </p>
 <p>
-Danny reached inside and fished out a foot-long, six-inch-wide flared metal tube. Attached was a rubber-coated handle with a plastic trigger near the top. Metal blocks protruded from its back, connected to cables that dangled down into the bag. Danny held the assembly delicately by the pistol grip. His eyes traced the device’s contours like fingertips across a lover’s body.
+Danny reached inside and fished out a foot-long, six-inch-wide flared metal tube. Attached was a rubber-coated handle with a plastic trigger near the top. Metal blocks extended from its back, connected to cables that dangled down into the bag. Danny held the assembly delicately by the pistol grip. His eyes traced the device’s contours like fingertips across a lover’s body.
 </p>
 <p>
 “What is it?” asked Jason.

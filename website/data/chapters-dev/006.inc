@@ -153,7 +153,7 @@ Jason prodded, “Their what? ‘DenyHosts IPS’?”
 Danny mumbled through his palms, “Their Intrusion Prevention System.”
 </p>
 <p>
-Mike explained, “It’s another program that corporate servers use alongside SSH. A watchdog, basically. It monitors incoming network connections to detect potential hacker activity. And you know what it considers a giant red flag? When it sees the same machine connecting over and over very fast, trying lots of different logins.”
+“It’s another program that corporate servers use alongside SSH,” Mike explained. “A watchdog, basically. It monitors incoming network connections to detect potential hacker activity. And you know what it considers a giant red flag? When it sees the same machine connecting over and over very fast, trying lots of different logins.”
 </p>
 <p>
 Danny looked down. “So when I ran SSHatter on Moshen’s computer…” 
@@ -168,7 +168,13 @@ Danny said nothing.
 Mike looked at him sidelong. “Danny, you… Um… You couldn’t seriously think it would be that easy, right? That you could just crack your way through SSH with some app you download from a website? If an SSH-cracking tool like that existed, do you have any idea what that would do to the entire Internet? Hell, system administrators have taken entire companies offline because of <em>rumors</em> about stuff like that! Don’t take this the wrong way, Danny, but… Are you sure you know what you’re doing?”
 </p>
 <p>
-Staring at the floor, his chest tight, Danny managed to squeeze out, “I have everything perfectly under control.” He took a few deep breaths to steady his nerves. As he slowly lifted his head, he caught sight of the coffee shop’s waitstaff. He watched them for a few silent seconds as they scurried about the tables and counters. “Mike… Tell me that part again about how some system administrators took their companies offline because of rumors of an SSH-cracking tool?”
+Staring at the floor, his chest tight, Danny squeezed out, “I have everything perfectly under control.”
+</p>
+<p>
+After a few deep breaths, he raised his head and looked blankly around the coffee shop. The apron-clad waitstaff scurried about the tables and counters. He watched them for several silent seconds.
+</p>
+<p>
+“Mike… Tell me that part again about how some system administrators took their companies offline because of rumors of an SSH-cracking tool?”
 </p>
 <p>
 “Not much to tell,” Mike replied. “A couple years ago, somebody hacked a website called ImageShack. A hacker group called ‘anti-sec’ publicly announced that they were responsible for the break-in, and that they used a brand-new all-powerful hacker tool to do it. System administrators all over the world freaked out. They completely disabled SSH on their networks &mdash; they figured it’s better to not let <em>anybody</em> connect, not even legitimate users, than to give a hacker a route of entry.”
@@ -177,7 +183,7 @@ Staring at the floor, his chest tight, Danny managed to squeeze out, “I have e
 “That sounds like more than just a rumor,” said Danny. “That’s a serious threat.”
 </p>
 <p>
-“It would have been, if it was real,” said Mike. “But it turned out that the hacker group lied. There was no such tool. It was all a giant hoax. Just a bunch of punks trying to make themselves look powerful, freak people out. Which, granted, it did. But so what? All it proves is how crazy everything would be <em>if</em> there was a vulnerability in SSH. But there isn’t.”
+“It would have been, if it was real,” continued Mike. “But it turned out that the hacker group lied. There was no such tool. It was all a giant hoax. Just a bunch of punks trying to make themselves look powerful, freak people out. Which, granted, it did. But so what? All it proves is how crazy everything would be <em>if</em> there was a vulnerability in SSH. But there isn’t.”
 </p>
 <p>
 Danny thought for a moment. “Not even through its own system administrators?”

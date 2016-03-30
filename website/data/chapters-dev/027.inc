@@ -450,10 +450,10 @@ The men laughed. Moisture condensed on their bodies and beaded with their sweat.
 One of them asked tentatively, “Hey, do you guys like it turned up this high?”
 </p>
 <p>
-They looked at the control board. A small black screen reported: <span class="computer"180°F (82°C)</span>.
+They looked at the control board. A small black screen reported: <span class="computer">212°F (100°C)</span>.
 </p>
 <p>
-“Yeah, that’s a little too high,” one conceded, and pressed a down-arrow button repeatedly until the screen displayed <span class="computer">120°F (49°C)</span>.
+“Yeah, that’s a little too high,” one conceded, and pressed a down-arrow button repeatedly until the screen displayed <span class="computer">158°F (70°C)</span>.
 </p>
 <p>
 They let a minute go by, but felt no improvement. All three began breathing a little bit more heavily.
@@ -465,16 +465,16 @@ They let a minute go by, but felt no improvement. All three began breathing a li
 “I did! Look!”
 </p>
 <p>
-The screen again showed <span class="computer">180°F (82°C)</span>.
+The screen again showed <span class="computer">212°F (100°C)</span>.
 </p>
 <p>
 “Idiot doesn’t know how to work the sauna.”
 </p>
 <p>
-“Shut up, asshole.” He punched it back down, watching the numbers descend until they again hit <span class="computer">120°F (49°C)</span>.
+“Shut up, asshole.” He punched it back down, watching the numbers descend until they again hit <span class="computer">158°F (70°C)</span>.
 </p>
 <p>
-The moment he took his finger away, the numbers immediately jumped back up to <span class="computer">180°F (82°C)</span>.
+The moment he took his finger away, the numbers immediately jumped back up to <span class="computer">212°F (100°C)</span>.
 </p>
 <p>
 “What the hell? Stupid piece of crap. I’ll go yell at someone about it.” He rose, wrapped his towel around his waist, and pushed on the door.

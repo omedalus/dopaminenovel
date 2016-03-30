@@ -386,9 +386,6 @@ He stared at Jason’s answer. Fury and self-pity knotted together in his gut. T
     You tricked me into being my own executioner.
   </div>
   <div class="message messageout">
-    You made me render myself obsolete and useless.
-  </div>
-  <div class="message messageout">
     You and the rest of the investors.
   </div>
   <div class="message messageout">
@@ -463,9 +460,6 @@ Danny let out a cold, bitter laugh.
   <div class="message messagein">
     I can make it profitable for you to just forget this entire conversation.
   </div>
-  <div class="message messagein">
-    You're obviously going to need some extra cash soon anyway, so it really would be in your best interest.
-  </div>
   <div class="message messageout">
     Are you serious?
   </div>
@@ -512,7 +506,7 @@ Danny pressed his shoulder blades against the wall and slid down until he sat on
     I personally have one very hot iron in the fire.
   </div>
   <div class="message messagein">
-    It's high-priority for me, it's urgent, and it's EXTREMELY sensitive. I already have personnel selected, but none of my current picks is suitable for the role of lead engineer. The same role you've proven yourself in for the last six years. Now that I think about it, this unfortunate situation could potentially work out very well for both of us. I could really use a man of your talents.
+    It's high-priority for me, it's urgent, and it's EXTREMELY sensitive. I already have personnel selected, but none of my current picks is suitable for the role of lead engineer. The role you've proven yourself in for the last six years. Now that I think about it, this unfortunate situation could potentially work out very well for both of us. I could really use a man of your talents.
   </div>
 </div>
 <br/>
@@ -536,7 +530,7 @@ It certainly wasn’t the first dot-com he’d seen die with a whimper. And, tho
     Yes.
   </div>
   <div class="message messagein">
-    Not so much a job in the sense of W-2s and dental benefits and all that. This is more of a one-off consulting project. With cash payment.
+    Not so much a job in the sense of W-2s and dental benefits. More of a one-off consulting project. With cash payment.
   </div>
   <div class="message messageout">
     Instead of a bribe? So basically you still want to shut me up with money, but this way I have to work for it.
@@ -563,7 +557,7 @@ It certainly wasn’t the first dot-com he’d seen die with a whimper. And, tho
     Do you know the Mercury club on Capitol Hill?
   </div>
   <div class="message messagein">
-    Meet me in an hour. I'll tell you all about it.
+    Meet me there in an hour. We have much to discuss.
   </div>
 </div>
 <br/>

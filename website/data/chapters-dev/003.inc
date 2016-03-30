@@ -111,13 +111,13 @@ Danny nodded wistfully. “Heh. Biotech…”
 “Yes,” said Jason. “Are you familiar with that technology space at all?”
 </p>
 <p>
-Danny shook his head, smiling distantly. The very word “biotechnology” conjured images he’d long forgotten. There was a time before the Internet boom when a young computer enthusiast wasn’t seen as a potential millionaire, but a pimple-pocked pariah suited solely for locker-stuffing and atomic wedgies. It was a time when his fellow Generation X nerds were all reading William Gibson’s <em>Neuromancer</em> and playing <em>Shadowrun</em> and dressing like <em>The Matrix</em>; when they said to each other with heady excitement, “The future is <em>digital</em>!” Growing up, they had made that future real &mdash; configuring ISDN lines, building websites, creating dot-coms. They were homesteaders and gold prospectors taming the West.
+Danny shook his head, smiling distantly. The very word “biotechnology” conjured images he’d long forgotten. Before the Internet boom, a young computer enthusiast wasn’t seen as a potential millionaire, but a pimple-pocked pariah suited solely for locker-stuffing and atomic wedgies. It was a time when his fellow Generation X nerds were all reading William Gibson’s <em>Neuromancer</em> and playing <em>Shadowrun</em> and dressing like <em>The Matrix</em>; when they said to each other with heady excitement, “The future is <em>digital</em>!” Growing up, they had made that future real &mdash; configuring ISDN lines, building websites, creating dot-coms. They were homesteaders and gold prospectors taming the West.
 </p>
 <p>
 Yet now, <em>because</em> they had made it real, by definition it wasn’t futuristic anymore.
 </p>
 <p>
-But <em>biotechnology</em> was still an uncharted frontier. Biotech still held unscaled vistas and unseen horizons &mdash; the next “virtual reality”, the next “information superhighway”, the next “cyberspace”. The future <em>used</em> to be digital. Now the <em>present</em> was digital. The future was squishy.
+But <em>biotechnology</em> was still an uncharted frontier. Biotech still held unscaled vistas and unseen horizons &mdash; the next “virtual reality,” the next “information superhighway,” the next “cyberspace.” The future <em>used</em> to be digital. Now the <em>present</em> was digital. The future was squishy.
 </p>
 <p>
 “Not at all,” Danny answered. “But I have friends who work at the Fred Hutchinson Cancer Research Center. And ZymoGenetics. And the Allen Institute for Brain Science. I’ve been hearing for decades that biotech is just around the corner. I guess it’s finally happening.”
@@ -129,13 +129,13 @@ Jason nodded. “Exactly. Biotechnology is getting big. But Tungsten isn’t.”
 “You don’t think so?” asked Danny.
 </p>
 <p>
-“They’re playing a very strange game over there right now. In the entire two years under Dr. Passinsky, they haven’t filed a single patent. They haven’t published any papers or presented at any conferences.”
+“In the entire two years under Dr. Passinsky, they haven’t filed a single patent, published any papers, or presented at any conferences.”
 </p>
 <p>
 Danny felt a little stupid. “And that’s unusual?”
 </p>
 <p>
-“Very. See, if Tungsten <em>really</em> wanted to join the pharmaceuticals race, they’d be building a reputation and soliciting a buyout,” Jason explained. “FDA approval is a long and painful process, and a tiny player like Tungsten should be trying to join some ‘mega-corporation’ to leverage their clinical trial pipeline. Take ICOS Biologics for example, over in Bothell. They used to be the biggest private biotechnology firm in the Pacific Northwest. They developed Cialis, the drug for erectile dysfunction. What did they do? Sold to Eli Lilly. Or take ID Biomedical &mdash; they created a flu vaccine mist that you spray up your nose. They sold to GlaxoSmithKline. That’s how this game goes. But Tungsten isn’t playing.”
+“Very. See, if Tungsten <em>really</em> wanted to join the pharmaceuticals race, they’d be building a reputation and soliciting a buyout,” Jason explained. “FDA approval is a long and painful process, and a tiny player like Tungsten should be trying to join some ‘mega-corporation’ to leverage their clinical trial pipeline. Take ICOS Biologics for example, over in Bothell. They used to be the biggest private biotechnology firm in the Pacific Northwest. They developed Cialis, the drug for erectile dysfunction. What did they do? Sold to Eli Lilly. Or take ID Biomedical &mdash; they created a flu vaccine mist that you spray up your nose. They sold to GlaxoSmithKline. That’s how this game goes. But Tungsten? Tungsten isn’t playing.”
 </p>
 <p>
 “Have you talked to them?” asked Danny. “You were their COO. You had a long history with them. Can’t you just call them?”
@@ -147,7 +147,7 @@ Danny felt a little stupid. “And that’s unusual?”
 “And what about the scientists? Those lab workers? I mean, Jason, you’re a rich guy. You could just bribe them to tell you what’s going on.”
 </p>
 <p>
-“I tried that, actually,” Jason confessed. “See, the company’s only about twenty heads, so talking to the workers without setting off alarm bells is tricky. I figured I’d go for someone low on the totem pole. They have a college intern, this twenty-year-old Asian-American girl named Julie Yen. I hired a private eye to check her out. She’d been acting really strangely for several weeks, so we figured she must be having personal problems. Drug problems, maybe. My guy approached her and offered her cold hard cash to tell us what she’s working on. She just got this big grin and said, ‘Wouldn’t <em>you</em> like to know!’ She started hanging out with some really shady characters after that. We didn’t follow her.”
+“I tried that, actually,” Jason confessed. “See, the company’s only about twenty heads, so talking to the workers without setting off alarm bells is tricky. I figured I’d go for someone low on the totem pole. They have a college intern, this twenty-year-old Asian-American girl named Julie Yen. I hired a private eye to check her out. She’d been acting really strangely for several weeks, so we figured she must be having personal problems. Drugs, maybe. My guy approached her and offered her cold hard cash to tell us what she’s working on. She just got this big grin and said, ‘Wouldn’t <em>you</em> like to know!’ She started hanging out with some really shady characters after that. We didn’t follow her.”
 </p>
 <p>
 “I see. What about their computers? Have you tried hacking in?” asked Danny.
@@ -177,31 +177,34 @@ Jason nodded. “I presume you’ve got expertise in the matter. I mean, you’r
 Danny flashed him a nervous grin. “Actually, I… well, kinda…”
 </p>
 <p>
-Danny thought back to his career as a hacker, long ago. It consisted of him finding a newsletter on his freshman homeroom teacher’s desk. In a section listing faculty phone numbers, they’d given the extension for a dial-in connection to a system that the teachers used for inputting grades. Danny had an 8086 IBM PC with a 1200-baud Hayes modem. After fiddling with the modem’s settings, he got it to connect to the school’s computer. He saw that he needed to enter a teacher’s username and password to change any grades, and was about to give up. 
+Danny thought back to his career as a hacker, long ago. It consisted of his finding a newsletter on his freshman homeroom teacher’s desk. In a section listing faculty phone numbers, they’d given the extension for a dial-in connection to a computer that the teachers used for inputting grades. Danny had an 8086 IBM PC with a 1200-baud Hayes modem. After fiddling with the modem’s settings, he’d managed to connect to the school’s server. When he tried to change any grades, though, the system challenged him with a prompt to enter a teacher’s username and password. He was about to give up.
 </p>
 <p>
-But then he noticed that the main screen displayed, “<span class="computer">NUMBER OF CURRENT USERS</span>,” and the number wasn’t going down. Danny discovered, through sheer luck, that the grades system’s connection-handling software had a flaw: if he simply hung up without logging out, the system would think his connection was still open. Danny guessed that the system could only handle so many connections at a time, so he started calling and disconnecting over and over again. He was right – it would accept no more than 255 simultaneous users, at which point it simply stopped answering incoming calls. Victory! The school’s teachers couldn’t enter their grades anymore! The school fixed it by rebooting the machine, but Danny jammed it again the next day. He kept this up for a few weeks until his parents got the phone bill.
+But then he’d noticed that the main screen displayed, “<span class="computer">NUMBER OF CURRENT USERS</span>,” and the number wasn’t falling. Danny had discovered, through sheer luck, that the grades system’s connection-handling software had a flaw: if he simply hung up without logging out, the system would think his connection was still open. Guessing that the system could only handle so many connections at a time, he started calling and disconnecting again and again. He was right &mdash; it would accept no more than 255 simultaneous users, at which point it simply stopped answering incoming calls. Victory! The school’s teachers couldn’t enter their grades anymore!
 </p>
 <p>
-“Uh, Jason, I’ll be honest,” said Danny. “My skills might be a little rusty.”
+The school fixed it by rebooting the machine, but Danny jammed it again the next day. He kept this up for a few weeks until his parents got the phone bill.
 </p>
 <p>
-“Don’t worry. I’ve already assembled a team,” said Jason. “I’ll introduce you tomorrow. Very skilled guys. I want you to lead them.”
+“Uh, Jason, I’ll be honest,” said Danny. “I might be a little rusty.”
 </p>
 <p>
-“<em>Me</em>? But… I don’t think I’m… Look, Jason, the skills for <em>building</em> data systems aren’t the same as the skills for <em>breaking</em> them. It’s a different mindset.”
+“Don’t worry. I’ve already assembled a team to assist you,” said Jason. “Very talented guys. But they don’t have any technical leadership experience. That’s where you come in.”
 </p>
 <p>
-“So you don’t think you’d be able to do the job?” Jason asked.
+“<em>Me</em>? But… I don’t think I’m… Look, Jason, the skills for <em>building</em> data systems aren’t the same as for <em>breaking</em> them. It’s a different mindset.”
 </p>
 <p>
-“I can <em>absolutely</em> do the job!” Danny replied. “I… I’ll have to think about it.”
+“Are you saying you don’t think you <em>can do</em> the job?”
+</p>
+<p>
+“I can <em>absolutely</em> do the job!” Danny snapped. “I… I’ll have to think about it.”
 </p>
 <p>
 Jason gave a crisp nod. “You think. I’ll go get a beer.”
 </p>
 <p>
-He left the table. For several moments Danny sat limply, listening to the atonal electronic background music, watching the space where Jason had been.
+He left the table. For several moments, Danny sat limply, listening to the atonal background electronica, watching the space where Jason had been.
 </p>
 <p>
 There would be no Claymore the following day. No 9:30 standup meeting, no bug triage, no competitive analysis reports. None of the ritual or rigmarole that had defined his life for the last six years. And in its place was… nothing. Nothing.
@@ -213,7 +216,7 @@ He pulled out his cellphone and launched the LinkedIn app. He typically used it 
 Six years at Claymore Communications, developing a new cellular multiplexing protocol. And before that, three years at a company that built network appliances. And before that, three years building custom FPGA-based digital radio systems. And before that… 
 </p>
 <p>
-Not a single company in his entire employment history still existed. He’d gotten in on the ground floor of each one, when they were still under a dozen employees, hoping to ride the wave to prominence. Instead, they all fizzled in the wake of new technologies. The relentless pace of the industry rendered every one of his projects obsolete and useless by the time it could be brought to market.
+Not a single company in his entire employment history still existed. He’d gotten in on the ground floor of each one, expecting to ride the wave to prominence. Instead, they all fizzled in the wake of new technologies. The relentless pace of the industry rendered every one of his projects obsolete by the time it could be brought to market.
 </p>
 <p>
 Jason returned to the table. “So…?”

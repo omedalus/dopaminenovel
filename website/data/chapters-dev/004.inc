@@ -6,13 +6,13 @@
 Several paces ahead, Zhan quickly chanted arcane syllables. With a hand that suddenly glowed white, the wizard grabbed a nearby orc. Arcs of lightning surged through its body as its vibrato screams echoed through the cavern. The air filled with the stench of ozone and burning hair. The monster fell, twitching but lifeless.
 </p>
 <p>
-A veritable army of the beasts surrounded Krongor. The warrior’s axe cleaved through another orc’s torso. Yet no sooner had the foe fallen than one of its comrades advanced to fill its place.
+A veritable army of the beasts surrounded Krongor. The warrior’s axe cleaved through another orc’s torso. Yet no sooner had the foe fallen than the next one filled its place.
 </p>
 <p>
-Zhan pointed toward the barbarian and shouted another incantation &mdash; and in an instant, Krongor was engulfed in an inferno. All he could see was flame. The very air around him set alight, singeing his hair and blistering his skin.
+Zhan pointed toward the barbarian and shouted another incantation &mdash; and in an instant, Krongor was engulfed in an inferno. All he could see was flame. The very air around him set alight, singeing his hair, blistering his skin.
 </p>
 <p>
-And just as quickly as the fire had appeared, it vanished. The cavern was silent, save for the sizzling from the burnt remains of the orcs. Amidst a circle of ashen bodies, Krongor collapsed to his knees in agony. “You idiot!” he growled.
+And just as quickly as the fire had appeared, it vanished. The cavern was silent, save for the sizzling orc remains. Amidst a circle of ashen bodies, Krongor collapsed to his knees in agony. “You idiot!” he growled.
 </p>
 <p>
 “I’m sorry!” cried Zhan. “They were all around you! It <em>did</em> kill them all, at least…”
@@ -21,16 +21,16 @@ And just as quickly as the fire had appeared, it vanished. The cavern was silent
 Smoke still rose from the barbarian’s flesh. He gritted his teeth, keeping himself conscious solely through strength of will. “Stupid wizards! Just use your damn hocus-pocus to patch me up, will you?”
 </p>
 <p>
-Zhan nodded apologetically. He sat beside Krongor in a meditative pose and began whispering prayers to Eir, Goddess of Healing. The deity’s love reached even down into these dark pits. As he prayed, Krongor’s wounds closed and vanished before his eyes.
+Zhan nodded apologetically. He sat beside Krongor in a meditative pose and began whispering prayers to Eir, Goddess of Healing. The deity’s love reached even down into these dark pits. As he prayed, Krongor’s wounds closed, vanishing before his eyes.
 </p>
 <p>
-There was some dispute over whether or not that actually happened.
+Some dispute remained over whether that actually happened.
 </p>
 
 <hr/>
 
 <p>
-“I don’t care what you think I said before!” insisted Moshen. “He has no healing spells!”
+“I don’t care what you think I said before!” insisted Moshen. “He has <em>no</em> healing spells!”
 </p>
 <p>
 Moshen, a scrawny Asian kid with thick glasses, sat at the head of a lacquered table, on a leather bench that wrapped along the walls of a yacht’s wood-paneled cabin. His face was mostly obscured by a laminated cardboard screen bearing pictures of knights and dragons. The table held a disorganized pile of books, dice, and Cheetos. At the center, atop a plastic sheet with a hexagonal grid, stood two-inch painted pewter figurines &mdash; one axe-wielding barbarian, one wizard, and several orc figures lying face-down.
@@ -45,7 +45,7 @@ Jason Tuttle sat next to Mike, chugging a soda and adding up experience points o
 “You talked me into helping you fight through these orc-infested caverns, and you can’t even cast any healing spells!?”
 </p>
 <p>
-“Mike, quit being such a munchkin!” Moshen insisted. “It doesn’t make any sense for wizards to heal! Wizards throw lightning bolts and fireballs. Priests manipulate life energies. They operate on completely incompatible principles.”
+“Mike, quit being such a munchkin!” Moshen insisted. “Wizards throw lightning bolts and fireballs. Priests manipulate life energies. They operate on completely incompatible principles.”
 </p>
 <p>
 Jason shrugged. “Wizards can’t cast healing spells, dude. Everybody knows that.”
@@ -66,7 +66,7 @@ Jason’s face was a mask of horror. “Don’t even think about it!”
 “Try and stop me!” Mike snatched at Zhan’s character sheet. Jason yanked it away and held it at arm’s length. Mike tried to reach around Jason, but he wouldn’t yield. The two grown men slapped at each other and wrestled on the cabin bench for control of the paper.
 </p>
 <p>
-Their bickering was interrupted by footsteps above. Through the portholes they could see jeans and hiking boots. The visitor knelt down to peer inside. Danny’s face appeared in a porthole. Jason pointed to the entrance.
+Footsteps from above pressed them to a truce. Through the portholes, they could see jeans and hiking boots. The visitor knelt down to peer inside. Danny’s face appeared in the round window. Jason pointed to the entrance.
 </p>
 <p>
 “Hey,” Danny said as he descended the steep stairs into the cabin. “Oh good, I got the right boat.”
@@ -75,16 +75,16 @@ Their bickering was interrupted by footsteps above. Through the portholes they c
 Jason waved hello. “Come on in, Danny. Meet the gang.”
 </p>
 <p>
-Danny looked around. On one end of the cabin was a large flatscreen TV. On the other end, he saw the table covered with rulebooks, figurines, and soda cans. He instantly recognized the scene. He’d walked into a <em>Dungeons & Dragons</em> campaign. 
+Danny looked around. On one end of the cabin was a large flat-screen TV. On the other end, he saw the table covered with rulebooks, figurines, and soda cans. He instantly recognized the scene. He’d walked into a <em>Dungeons & Dragons</em> campaign. 
 </p>
 <p>
 “Aww Christ,” he muttered. He felt the revulsion and regret of a recovered heroin addict entering an opium den. Danny’s days of chasing these particular dragons were long behind him. “Jason, can I talk to you?”
 </p>
 <p>
-Jason wiggled his way from the table and crossed the compartment. He and Danny turned away from the group and spoke in whispers.
+Jason wiggled his way from the table and crossed the compartment.
 </p>
 <p>
-“<em>This</em> is your hacker team?” asked Danny. “Where did you find these guys?”
+“<em>This</em> is your hacker team?” Danny whispered. “Where did you find these guys?”
 </p>
 <p>
 “They’re from my gaming group,” Jason said innocently. “We play every Thursday at the Wizards of the Coast store in Crossroads Mall.”
@@ -96,19 +96,19 @@ Jason wiggled his way from the table and crossed the compartment. He and Danny t
 Jason replied coldly, “My ex-wife is none of your business.”
 </p>
 <p>
-“Sorry, didn’t mean to hit a sore spot. But, I mean, look at these guys. Do they have any skills? Do they even have real jobs?”
+“Sorry, didn’t mean to hit a sore spot. But, I mean, look at these guys. Do they have any skills? Do they even have <em>jobs</em>?”
 </p>
 <p>
 “They have my complete trust,” said Jason. “They’re smart and capable. You should see the kind of shit we pull off together. Just last month, we destroyed the stronghold of a Dark Elven necromancer.”
 </p>
 <p>
-“Your <em>characters</em> did that. In your <em>head</em>. <em>You</em> sat around a table rolling dice and scarfing Cheetos.”
+“Your <em>characters</em> did that. In your <em>head</em>. <em>You</em> sat around rolling dice and scarfing Cheetos.”
 </p>
 <p>
 “Look, I know personnel management, alright?” Jason said. “What counts is whether you can work as a team. These guys are my comrades in arms. They’re in. Are you?”
 </p>
 <p>
-Danny sighed, and turned to face the group. The men were poking through rulebooks or scribbling on papers. They looked up and mumbled greetings as he approached. “Guys. Good to meet you all. My name’s Danny. I’m the lead engineer at… um… Let’s just say I’ve overseen the demise of many small companies.”
+Danny sighed and approached the table. Mike and Moshen paused poking through rulebooks and scribbling on papers long enough to mumble greetings. “Guys. Good to meet you. My name’s Danny. I’m the lead engineer at… um… Let’s just say I’ve overseen the demise of many small companies.”
 </p>
 <p>
 He shook hands with both of them.
@@ -123,10 +123,10 @@ He shook hands with both of them.
 “And thinks wizards can cast <em>Cure Light Wounds</em>,” Moshen interjected.
 </p>
 <p>
-“Oh shut up already!” Mike insisted.
+“Oh shut up already!” Mike wailed.
 </p>
 <p>
-“Isn’t <em>Cure Light Wounds</em> a priest spell?” said Danny before he could stop himself.
+“Isn’t <em>Cure Light Wounds</em> a priest spell?” Danny said before he could stop himself.
 </p>
 <p>
 “See!” said Moshen, sticking his finger in Mike’s face.
@@ -144,15 +144,18 @@ Danny shook his head. “Not since Second Edition.” That was a lie.
 Danny closed his eyes and sighed slowly. “Is there anything else I should know about you guys before we get started? Additional skills? Um… Attributes? Proficiencies? ”
 </p>
 <p>
-“I play hockey!” Mike said proudly. “I can be your muscle if things get physical!”
+“I play hockey!” Mike peacocked. “I can be your muscle if things get physical!”
 </p>
 <p>
 “Yeah!” Moshen chimed in. “And I know kung fu!”
 </p>
 <p>
-Danny eyed the men with a cocked eyebrow. “Hockey… and… kung fu…?” 
+Danny eyed the men with a cocked eyebrow. “Hockey… and… kung fu…?” From the hexagonal grid on the table, he picked up the two-inch pewter barbarian. It was painted with loving detail. “Guys, let me give you a reality check. This is a network penetration mission. In an ideal world this’ll be done from some Internet café and take less than ten minutes. The only way things can possibly ‘get physical’ is if we’re, like, unspeakably bad at our jobs. We’re <em>not</em> bad at our jobs, are we?” The faces in front of him may as well have been blobs of cold Play-Doh. “<em>Are we?</em>”
 </p>
 <p>
-From the hexagonal grid on the table, he picked up the two-inch pewter barbarian. It was painted with loving detail. He chuckled and shook his head. “Guys, let me give you all a reality check. This is a network penetration mission. In an ideal world this’ll be done from some Internet café and take less than ten minutes. If they have a poorly maintained firewall that crumbles under a script-kiddie attack, this whole thing will be completely anticlimactic. Now clear off this table, gentlemen. Keep the pencils and notebooks. We’ve got work to do.” 
+Meekly, Mike offered, “Nnn… <em>no?</em>”
+</p>
+<p>
+“That <em>is</em> the answer I was looking for,” said Danny. “Now clear off this table. Keep the pencils and notebooks. We’ve got work to do.” 
 </p>
 </div>

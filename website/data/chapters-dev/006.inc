@@ -39,19 +39,19 @@ Moshen asked, “All of Tungsten’s emails go to the same person?”
 Jason nodded. “Christina Giordano. Their all-purpose office admin.”
 </p>
 <p>
-“Does she like spam?” asked Moshen. “I just sent her some hot, juicy junkmail.”
+“Does she like spam?” asked Moshen. “I just sent her some hot, juicy junk mail.”
 </p>
 <p>
 Jason cocked an eyebrow.
 </p>
 <p>
-Danny explained, “About half an hour ago, Moshen and I hopped on GoDaddy and registered a website. We called it ‘Prismatic Creations’, and made it look like a web design company. Then, we sent a few fake business solicitations to Tungsten. Tt the top of these emails, we added an image.”
+Danny explained, “About half an hour ago, Moshen and I hopped on GoDaddy and registered a website. We called it ‘Prismatic Creations’, made it look like a web design company. Then, we sent a few fake business solicitations to Tungsten. At the top of these emails, we added an image.”
 </p>
 <p>
 “So what?” asked Jason.
 </p>
 <p>
-“You ever get an email with pictures in it?” Danny said. “And your browser gives you a warning that says, ‘Click here to see the images in this message.’? Well, those images aren’t actually part of the email itself. What the email contains are <em>references</em> to images somewhere else on the Internet. The image at the top of our junkmail comes from this website that we just built. And Moshen’s on the administrative back end right now, watching connections come in.”
+“You ever get an email with pictures in it? And your browser warns you, ‘Click here to see the images in this message.’? Well, those images aren’t actually part of the email itself. What the email contains are <em>references</em> to images somewhere else on the Internet. The image at the top of our junkmail comes from the website we just built. And Moshen’s on the administrative back end right now, watching connections come in.”
 </p>
 <p>
 “So… when the office admin opens that email… her computer will automatically connect to your new website?”
@@ -60,10 +60,10 @@ Danny explained, “About half an hour ago, Moshen and I hopped on GoDaddy and r
 “Right,” said Danny. “And her computer is at her desk, so the IP address that she’s connecting from will be Tungsten’s corporate headquarters. Now, mind you, she could be using a really good spam filter, which would block the messages. Or she might delete them without opening. So this isn’t guaranteed to work…”
 </p>
 <p>
-Moshen, with his eyes on his laptop screen, shot both thumbs excitedly up. “It just did!”
+Moshen, his eyes devouring his laptop screen, shot both thumbs up. “It just did!”
 </p>
 <p>
-Danny stuck his head over Moshen’s shoulder. The screen displayed:
+Danny leaned over Moshen’s shoulder. The screen displayed:
 </p>
 
 <pre class="computer">
@@ -74,12 +74,12 @@ Thunderbird/3.0.1"
 </pre>
 
 <p>
-“She’s using Mozilla Thunderbird mail reader on Windows 7,” Danny said. “Moshen, go cruise newsgroups and hacker forums; try to find exploits. I’ll check out Thunderbird’s source code and look for weaknesses. Mike, fire up Nessus and start probing their firewall.”
+“She’s using Mozilla Thunderbird mail reader on Windows 7,” Danny said. “Moshen, go cruise newsgroups and hacker forums, try to find exploits. I’ll check out Thunderbird’s source code and look for weaknesses. Mike, fire up Nessus and start probing their firewall.”
 </p>
 <p>
 Jason tried to keep up. “Is there anything I could be doing?” he asked.
 </p>
-<p>
+<p>9
 “Yes,” said Danny. “Get us more lattes.”
 </p>
 <p>
@@ -87,7 +87,7 @@ Jason tried to keep up. “Is there anything I could be doing?” he asked.
 
 <div class="chapsection">
 <p>
-<span class="caplead">“Nothing’s getting through!”</span> Moshen hissed. His body hunched over his laptop, fingers banging on the keyboard. “The packets are just disappearing!”
+<span class="caplead">“Nothing’s getting through!”</span> Moshen hissed. He hunched over his laptop, fingers banging the keyboard. “The packets are just disappearing!”
 </p>
 <p>
 “Did Tungsten go offline?” asked Danny, standing over his shoulder. “Or did we?”
@@ -99,7 +99,7 @@ Jason tried to keep up. “Is there anything I could be doing?” he asked.
 Mike saw their agitation. “What are you guys doing?”
 </p>
 <p>
-Danny looked up from Moshen’s laptop. “We found an app called SSHatter on a hacker forum. We’re trying to use it to crack our way in.”
+“We found an app called SSHatter on a hacker forum,” Danny answered. “We’re trying to use it to crack our way in.”
 </p>
 <p>
 Mike raised an eyebrow. “You own a botnet?”
@@ -108,10 +108,10 @@ Mike raised an eyebrow. “You own a botnet?”
 “No, we just ran it on Moshen’s laptop here.”
 </p>
 <p>
-Mike paused. “That’s… Um… Not how it’s designed to work…”
+Mike winced. “That’s… Um… Not how it’s designed to work…”
 </p>
 <p>
-Jason returned to the tables with several cups of coffee. “Hey, guys. Is everything alright?”
+Jason returned with several cups of coffee. “Hey, guys. Is everything alright?”
 </p>
 <p>
 Danny replied, “Have you ever heard of SSH?” Jason shook his head. “It stands for ‘Secure Shell’. It’s a remote login program. It’s a very common tool &mdash; system administrators use it to access their own systems from home, for example. Most corporate servers have it installed.”
@@ -150,10 +150,10 @@ Danny’s eyes flew open. He gasped as he realized that Mike was right.
 Jason prodded, “Their what? ‘DenyHosts IPS’?”
 </p>
 <p>
-Danny, his face buried in his hands, mumbled through his palms, “Their Intrusion Prevention System.”
+Danny mumbled through his palms, “Their Intrusion Prevention System.”
 </p>
 <p>
-Mike said to Jason, “It’s another program that corporate servers use alongside SSH. It watches incoming network connections to detect potential hacker activity. And you know what it considers a giant red flag? When it sees the same machine connecting over and over very fast, trying lots of different logins.”
+Mike explained, “It’s another program that corporate servers use alongside SSH. A watchdog, basically. It monitors incoming network connections to detect potential hacker activity. And you know what it considers a giant red flag? When it sees the same machine connecting over and over very fast, trying lots of different logins.”
 </p>
 <p>
 Danny looked down. “So when I ran SSHatter on Moshen’s computer…” 
@@ -168,22 +168,16 @@ Danny said nothing.
 Mike looked at him sidelong. “Danny, you… Um… You couldn’t seriously think it would be that easy, right? That you could just crack your way through SSH with some app you download from a website? If an SSH-cracking tool like that existed, do you have any idea what that would do to the entire Internet? Hell, system administrators have taken entire companies offline because of <em>rumors</em> about stuff like that! Don’t take this the wrong way, Danny, but… Are you sure you know what you’re doing?”
 </p>
 <p>
-Staring at the floor, his chest tight, Danny managed to squeeze out, “I have everything perfectly under control.”
+Staring at the floor, his chest tight, Danny managed to squeeze out, “I have everything perfectly under control.” He took a few deep breaths to steady his nerves. As he slowly lifted his head, he caught sight of the coffee shop’s waitstaff. He watched them for a few silent seconds as they scurried about the tables and counters. “Mike… Tell me that part again about how some system administrators took their companies offline because of rumors of an SSH-cracking tool?”
 </p>
 <p>
-He took a few deep breaths to steady his nerves. As he slowly lifted his head, he caught sight of the coffee shop’s waitstaff. He watched them for a few silent seconds as they scurried about the tables and counters.
-</p>
-<p>
-“Mike… Tell me that part again about how some system administrators took their companies offline because of rumors of an SSH-cracking tool?”
-</p>
-
-“Not much to tell,” Mike replied. “A couple years ago, somebody hacked a website called ImageShack. A hacker group called ‘anti-sec’ publicly announced that they were responsible for the break-in, and that they used a brand-new all-powerful hacker tool. System administrators all over the world freaked out. They completely disabled SSH on their networks &mdash; they figured it’s better to not let <em>anybody</em> connect, not even legitimate users, than to give a hacker a route of entry.”
+“Not much to tell,” Mike replied. “A couple years ago, somebody hacked a website called ImageShack. A hacker group called ‘anti-sec’ publicly announced that they were responsible for the break-in, and that they used a brand-new all-powerful hacker tool to do it. System administrators all over the world freaked out. They completely disabled SSH on their networks &mdash; they figured it’s better to not let <em>anybody</em> connect, not even legitimate users, than to give a hacker a route of entry.”
 </p>
 <p>
 “That sounds like more than just a rumor,” said Danny. “That’s a serious threat.”
 </p>
 <p>
-“It would have been, if it was real,” said Mike. “But it turned out that the hacker group lied. There was no such tool. It was all a giant hoax. It was all just a bunch of punks trying to make themselves look powerful, freak people out. Which, granted, it did. But so what? All it proves is how crazy everything would be <em>if</em> there was a vulnerability in SSH. But there isn’t.”
+“It would have been, if it was real,” said Mike. “But it turned out that the hacker group lied. There was no such tool. It was all a giant hoax. Just a bunch of punks trying to make themselves look powerful, freak people out. Which, granted, it did. But so what? All it proves is how crazy everything would be <em>if</em> there was a vulnerability in SSH. But there isn’t.”
 </p>
 <p>
 Danny thought for a moment. “Not even through its own system administrators?”
@@ -192,7 +186,7 @@ Danny thought for a moment. “Not even through its own system administrators?�
 Mike shook his head. “I don’t follow.”
 </p>
 <p>
-Danny paced as he talked. “These anti-sec guys <em>succeeded</em> in taking a bunch of companies offline &mdash; not by exploiting a flaw in the <em>machines</em>, but by tricking the sysadmins who run them. Hacking is making a system do something that it isn’t supposed to do. That system includes people. It’s built and maintained by people. Tungsten’s IT staff itself is a system component. Let’s look for vulnerabilities in it.” He turned toward Jason, who was fiddling on his cellphone. “How big is Tungsten’s Information Technology department?”
+Danny paced as he talked. “These anti-sec guys <em>succeeded</em> in taking a bunch of companies offline &mdash; not by exploiting a flaw in the <em>machines</em>, but by tricking the sysadmins who run them. Hacking is making a system do something that it isn’t supposed to do. That system includes people. It’s built and maintained by people. Tungsten’s IT staff itself is a system component. Let’s look for vulnerabilities in it.” He turned toward Jason, who was fiddling with his phone. “How big is Tungsten’s Information Technology department?”
 </p>
 <p>
 “Just one guy,” Jason answered. “They have a couple older technicians around to maintain the equipment, but they’re not in charge of the corporate network. Their system administrator is some hipster kid. I don’t know his name.”

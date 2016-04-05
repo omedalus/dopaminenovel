@@ -51,7 +51,7 @@ Unaided human eyes could see electromagnetic frequencies ranging from 430 to 790
 “No! <em>Sheesh!</em> It’ll take a few minutes. Right now, my computer’s tricking the machines on the Tungsten network into transmitting tons of data, and looking for patterns in those transmissions. See, Tungsten’s security cameras use an old encryption protocol called Wired-Equivalent Privacy, or WEP. WEP has a subtle mathematical flaw that was discovered in the early 2000s. Every WEP packet gives a small clue about its cryptographic key, so if you capture enough traffic over the air, you can deduce the network password. As we speak, Tungsten’s machines are beaming out sweet, juicy data packets. Just sit back and enjoy the show.”
 </p>
 <p>
-Danny studied the Tungsten building through the trees. If he could see into the microwave spectrum, his eyes would behold a dazzling symphony of light. The building’s walls would be mostly transparent, with the various computers inside crackling rapid flashes, like fireflies in a jar. As the flickering of each computer ceased, a certain designated device &mdash; an access point, or Wi-Fi hotspot in popular parlance &mdash; would light up in response to the darkness. The access point was the choreographer of this luminous dance, its pattern of flashes telling the other devices which one of them should transmit next. One after another, each would illuminate the night with pure, glowing data.
+Danny studied the Tungsten building through the trees. If he could see into the microwave spectrum, his eyes would behold a dazzling symphony of light. The building’s walls would be mostly transparent, with the various computers inside flashing to each other like fireflies in a jar. As the flickering of each computer ceased, a certain designated device &mdash; an access point, or Wi-Fi hotspot in popular parlance &mdash; would light up in response to the darkness. The access point was the choreographer of this luminous dance, its pattern of blinks telling the other devices which one of them should transmit next. One after another, each would illuminate the night with pure, glowing data.
 </p>
 <p>
 The light was suddenly obscured by Jason’s hand waving and snapping its fingers before his face. “Helllooooo, Earth to Danny?”
@@ -300,10 +300,10 @@ Jason walked up beside him and reached down to offer an arm. “Listen. I’m no
 Danny breathed slowly, as though the night’s cold air could quell the broth of self-pity boiling in his gut. “You’re right.” He took Jason’s hand and pulled himself to his feet. 
 </p>
 <p>
-A rolling of tires on moist pavement gently roused the nighttime stillness.
+The crackling roll of tires on moist pavement gently roused the nighttime stillness.
 </p>
 <p>
-The sound came, oddly, without the corresponding rumble of an engine.
+The sound came, oddly, without the corresponding undertone of an engine rumble.
 </p>
 <p>
 A gleaming white Tesla Roadster sauntered up the street adjoining the office complexes.

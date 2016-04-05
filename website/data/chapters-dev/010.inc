@@ -42,7 +42,7 @@ The man said something in Russian into his headset, his tone of annoyance crossi
 The man growled. 
 </p>
 <p>
-Focused on trying to dial Jason’s number, he couldn’t notice the green light pop on above the keycard reader behind him. Nor could he notice Mike tiptoe along the wall, spidering toward the entrance.
+Focused on trying to dial Jason’s number, he couldn’t notice the green light pop on above the keycard reader behind him. Nor could he notice Mike creep along the wall, tiptoeing toward the entrance.
 </p>
 <p>
 Until Mike finally ducked through the big glass door. As Mike’s body slid into the light pouring from the lobby, his shadow swept across the parking lot.

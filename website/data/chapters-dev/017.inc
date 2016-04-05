@@ -21,7 +21,7 @@ Julie Yen stood beside a naked mattress strewn with ragged blankets. She greeted
 “Right,” she scoffed.
 </p>
 <p>
-Danny gave her a cursory glance, then shifted his attention back to the equipment surrounding him. On a metal table sat an unmarked glass bottle of clear liquid, sealed with a stopper. He reached for it.
+Danny gave her a cursory glance, then shifted his attention back to the equipment surrounding him. On a metal table stood an unmarked glass bottle of clear liquid, sealed with a stopper. He reached for it.
 </p>
 <p>
 “I wouldn’t touch that if I were you,” Julie called out.
@@ -48,13 +48,13 @@ Julie’s lip trembled. “I want…” she looked up at the windows of the over
 Danny, largely ignoring the conversation, was jabbing at the bottle with his HERF gun, transfixed by the liquid jiggling back and forth. It looked like ordinary water, except for the fine white haze suspended above its surface.
 </p>
 <p>
-Julie shuffled toward him. Without a word, she picked up a nearby pair of gloves and goggles, put them on, and gently pulled out the stopper. A translucent trail of pale vapor wafted upward. She grabbed a scrap of cardboard from the floor and passed it over the bottle, through the finger of fog. Along the line of exposure, the cardboard blackened and charred. She gave the sheet a slight shake, and chunks crumbled to ash. She used the remains of the cardboard to wipe the stopper. Where it touched, the cardboard simply vanished. She re-sealed the bottle and removed her safety gear. “That’s why you don’t fuck with this stuff.”
+Julie shuffled toward him. Without a word, she picked up a nearby pair of gloves and goggles, put them on, and gently pulled out the stopper. A translucent trail of pale vapor wafted upward. She grabbed a scrap of cardboard from the floor and passed it over the bottle, through the finger of fog. Along the line of exposure, the cardboard blackened and charred. She gave the sheet a slight shake, and chunks crumbled to ash. She used the remains of the cardboard to wipe the stopper. Where it touched, the cardboard simply vanished. She re-sealed the bottle and removed her safety gear. “<em>That’s</em> why you don’t fuck with this stuff.”
 </p>
 <p>
 Jason reached into his pocket. “Julie, listen. We brought you something…” He drew out the Eppendorf vial and extended it toward her.
 </p>
 <p>
-Her head lifted high at the sight of it. “The mother strain!” She grabbed it and held it up to her face. “It’s biofilming. That’s good. It’s supposed to. This is…!” Her eyes darted up toward the office. Her expression quickly soured again. “You shouldn’t have brought it here.”
+Her head and eyebrows lifted high. “The mother strain!” She grabbed and held it, inspecting. “It’s biofilming. That’s good. It’s supposed to. This is&mdash;!” Her eyes darted up toward the office. Her expression quickly soured again. “You shouldn’t have brought it here.”
 </p>
 <p>
 “Can you incubate it?” asked Jason.
@@ -162,7 +162,7 @@ Julie glared at him. “I’m a key member of the research staff!”
 She balled her small fists and roared furiously through clenched teeth. “God, shut the fuck up! You don’t understand!” She stormed to her mattress and sat down in a huff. “Just leave me alone!”
 </p>
 <p>
-Jason took a deep breath, and calmly watched her for a few silent moments. Danny stepped toward her awkwardly, but Jason stopped him with a simple raise of his open palm. Finally, Jason slowly approached Julie’s mattress, sat down beside her, and asked her with a gentle, soothing voice, “Tell me what happened.”
+Jason took a deep breath, and calmly watched her for a few silent moments. Danny stepped toward her unsurely; Jason stopped him with a simple raise of his palm. Finally, Jason slowly approached Julie’s mattress, sat down beside her, and asked her with a gentle, soothing voice, “Tell me what happened.”
 </p>
 <p>
 She picked idly at a loose thread. “Creating cocaine-producing <em>E. coli</em> wasn’t just some side-project. It’s the whole point of Tungsten. This vial is everything they’ve been working for.”
@@ -210,7 +210,7 @@ Julie nodded. “They eventually realized that something was up. Damned if I kno
 Her lips curled into a grin that was equal parts cocky and wistful. “I was building my own empire, man! I hired dealers at redneck dives and biker bars. You should have seen me! There I was, in these flannel-and-jeans trash pits with peanuts all over the floor, and I’m in a thousand-dollar nightclub dress and gladiator stilletos, looking like goddamned Miami Beach royalty, with guys tripping over themselves to see what I’m all about. In just two weeks, I managed to take over the entire Valley Freeway corridor, from Renton to Puyallup. You would not believe how fast the money poured in! I could sell for cheaper than anything they’d ever seen, and there was no limit to my supply &mdash; so I was basically unstoppable.”
 </p>
 <p>
-Jason looked down at the uncovered mattress. “‘Unstoppable’. Right… I’m going to take a wild guess that those dealers and distribution channels belonged to Sergey.”
+Jason looked down at the uncovered mattress. “‘Unstoppable’. Right… I’ll take a wild guess that those dealers and distribution channels belonged to Sergey.”
 </p>
 <p>
 Her grin disappeared. “Yeah.”
@@ -243,13 +243,13 @@ Her sobs abated long enough for her to sit back up and focus her eyes back on hi
 “Dopamine?”
 </p>
 <p>
-“It’s a neurotransmitter,” said Julie. “It runs the nucleus accumbens, the ‘pleasure center’ of the brain. It controls motivation, excitement, attention, that kind of thing. There’s this class of drugs called DRIs &mdash; dopamine reuptake inhibitors. Wellbutrin, Ritalin, Adderall &mdash; they’re all DRIs. They jam the brain’s dopamine-draining machinery &mdash; they make dopaminergic pathways flood themselves, like running a sink with a clogged drain.”
+“It’s a neurotransmitter,” explained Julie. “It runs the nucleus accumbens, the ‘pleasure center’ of the brain. It controls motivation, excitement, attention, that kind of thing. There’s this class of drugs called DRIs &mdash; dopamine reuptake inhibitors. Wellbutrin, Ritalin, Adderall &mdash; they’re all DRIs. They jam the brain’s dopamine-draining machinery &mdash; they make dopaminergic pathways flood themselves, like running a sink with a clogged drain.”
 </p>
 <p>
 “What effect does that have?” Jason asked.
 </p>
 <p>
-“Well, it’s a rush. A thrill of victory, sort of. Like, if you ace a test at school, it’s how you feel at seeing that A+. Or you’re playing piano and nail an arpeggio you’ve been struggling with. Or you beat someone at a game. Or win a bet. Or score big in the stock market…”
+“Well, it’s a rush. A thrill of victory, sort of. Like, if you ace a test at school, it’s how you feel at seeing that A-plus. Or you’re playing piano and nail an arpeggio you’ve been struggling with. Or you beat someone at a game. Or win a bet. Or score big in the stock market…”
 </p>
 <p>
 Jason nodded knowingly. “A cocaine high.”
@@ -267,7 +267,7 @@ Jason chuckled. “I made my first million in my mid-twenties in 1981, Danny. Yo
 Julie curled into her pajamas and turned away from him.
 </p>
 <p>
-“The thing about cocaine is,” Jason continued, “it gives you a feeling of accomplishment. Just straight-up <em>gives</em> it to you &mdash; without you having to do anything to earn it. It’s great stuff, in a way. Who needs to actually pursue dreams or achieve goals, when you can just snort pure pride and satisfaction right up your nose?” He leaned into her and said quietly, “But you eventually learn it’s a fake feeling. You can’t outsmart your own mind. You yourself know perfectly well whether or not you’ve achieved your own goals, because you’re the one that defines those goals in the first place. And when that happens… When you reach that realization… After that point, no matter how much you do, it’s never, ever going to be enough. Julie… Isn’t that right?”
+“The thing about cocaine is,” Jason continued, “it gives you a feeling of accomplishment. Just straight-up <em>gives</em> it to you &mdash; without you having to do anything to earn it. It’s great stuff, in a way. Who needs to actually pursue dreams or achieve goals, when you can just snort pure pride and satisfaction right up your nose?” He leaned into her and said quietly, “But you eventually learn it’s a fake feeling. You can’t outsmart your own mind. You yourself know perfectly well whether or not you’ve achieved your own goals, because you’re the one who defines those goals in the first place. And when that happens… When you reach that realization… After that point, no matter how much you do, it’s never, ever going to be enough. Julie… Isn’t that right?”
 </p>
 <p>
 Julie jerked her head toward him and glared. “We had a deal…!”
@@ -321,10 +321,10 @@ Rex eyed Jason dubiously. “Numbers? You don’t want any?”
 “Well shit. I hope I never get <em>that</em> old,” Rex grunted, rising from his chair.
 </p>
 <p>
-He had barely lifted his rear from of the seat before Julie slid in and grabbed the rolled-up bill. She dove straight into the next line on the table, snorting it up as quickly as her nose would allow. She held her breath for several seconds, looking like she was about to sneeze. Tears built up in her eyes. Her accelerating pulse was visible in her ears. 
+He had barely lifted his rear from of the seat before Julie slid in and grabbed the rolled-up bill. She dove straight into the next line on the table, snorting it up as quickly as her nostril would allow. She held her breath for several seconds, looking like she was about to sneeze. Tears pooled in her eyes; her accelerating pulse throbbed visibly in her ears. 
 </p>
 <p>
-After several seconds of sitting motionless, she finally made a sound: a euphoric, delighted, childlike laugh.
+After several seconds of sitting motionless, she finally made a sound: a euphoric, childlike laugh.
 </p>
 <p>
 “I can’t feel my face!” she giggled, and traced her fingers sensuously across her mouth and cheeks.
@@ -378,10 +378,10 @@ The dreadlocked guard said something beyond the wall. His words weren’t clear,
 Someone answered in a Russian accent. “…Tonight is complete cluster of fucks!…”
 </p>
 <p>
-Danny recognized the voice. He had heard it on the stolen cellphone. It was the voice of Sergey Mukhayev.
+Danny recognized the voice. He’d heard it on the stolen cell &mdash; the voice of Sergey Mukhayev.
 </p>
 <p>
-Rex froze in place. “Oh… shit…”
+Rex froze. “Oh… shit…”
 </p>
 <p>
 A third person outside spoke. Danny recognized the voice of the man from the Tungsten hallway: Eugene Mukhayev. “That’s the car! That’s their fucking car!”
@@ -390,10 +390,10 @@ A third person outside spoke. Danny recognized the voice of the man from the Tun
 Jason gulped, and backed toward the rear wall, behind the steel drums.
 </p>
 <p>
-Rex sprang to life. “We’ve got to get rid of the coke! I wasn’t supposed to give you any! I’m not even supposed to have any. Fuck…”
+Rex sprang to life. “We’ve got to get rid of the coke! I wasn’t supposed to give you any! I’m not even supposed to <em>have</em> any. <em>Fuck</em>…”
 </p>
 <p>
-Julie, still fidgeting, grabbed clumsily at the open packet of white powder. While handing it to Rex, she carefully enunciated, “Whoops!”, and let its contents spill onto the floor in a conspicuous pile.
+Julie, still fidgeting, scrabbled at the open packet of white powder. While handing it to Rex, she carefully enunciated, “Whoops!”, and let its contents spill onto the floor in a conspicuous pile.
 </p>
 <p>
 “Oh fuck me!” Rex bent down next to Julie and tried to sweep the powder out of sight.

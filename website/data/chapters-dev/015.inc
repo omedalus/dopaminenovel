@@ -12,7 +12,7 @@
 “Yeah, but I… Uh… You seem pretty cool,” she said, blushing.
 </p>
 <p>
-Natalie’s attention was drawn away by a shadow on the other side of the privacy curtain. A few distressed voices approached. Mike recognized one of them as the girl from the Tungsten building. Tina. She was sobbing.
+A shadow on the other side of the privacy curtain stole Natalie’s attention. A few distressed voices approached. Mike recognized one of them as the girl from the Tungsten building: Tina. She was sobbing.
 </p>
 <p>
 “They know everything about me, Nat,” she was saying, her voice froggy. “They busted into my car. It was still sitting in the Tungsten parking lot. They got the registration and insurance papers and whatever else was in there. They know my address, my phone number, my Social Security Number…”
@@ -33,7 +33,7 @@ Tina said meekly, “They want me to help them incubate the stuff in the Eppendo
 “They think you can incubate it for them?” Jason asked.
 </p>
 <p>
-“Yes. Geez. It’s just <em>E. coli</em>. The incubation part is easy,” Tina said. “It’s figuring out what to do with them once they’re grown that’s the hard part. You incubate it, you get a warm tub of goo. Great. What do you do with <em>that</em>? The only person who knows that, is Julie.”
+“Yes. Geez. It’s just <em>E. coli</em>. The incubation part is easy,” Tina said. “It’s figuring out what to <em>do</em> with them once they’re grown that’s the hard part. You incubate it, you get a warm tub of goo. Great. What do you do with <em>that</em>? The only person who knows that, is Julie.”
 </p>
 <p>
 “Julie Yen?” Jason asked.
@@ -45,13 +45,13 @@ Tina eyed him suspiciously. “How do you know Julie?”
 “Christina, is Julie working for these Russians?” Jason asked.
 </p>
 <p>
-“I don’t know,” said Tina. “When that guy was holding me at gunpoint, he implied that she’s not exactly with them willingly.”
+“I don’t know. When that guy was holding me at gunpoint, he implied that she’s not exactly with them willingly.”
 </p>
 <p>
 “And they’re trying to threaten you into ending up like her?” Jason asked.
 </p>
 <p>
-Tina nodded meekly.
+Tina nodded weakly.
 </p>
 <p>
 Jason rolled his eyes. “Pffft. Amateurs.”
@@ -93,7 +93,7 @@ Jason nodded. “We’ve got them by the balls and they don’t even know it. Ch
 “I don’t have much choice, do I?” she replied.
 </p>
 <p>
-Jason extended a hand out to her with his palm up. “The vial, please.”
+Jason extended a hand, palm up. “The vial, please.”
 </p>
 <p>
 She shot him a look of suspicion so hot it could’ve ignited his gelled hair.
@@ -129,7 +129,7 @@ Jason nodded. “Exactly. Moshen, do they say where they’re keeping her?”
 Danny suggested, “You know, that phone has GPS…” He took the Pantech from Moshen and gave it a few quick pokes. “AT&amp;T Navigator… Recent Places… Done.” He passed the phone around for the team to examine.
 </p>
 <p>
-Jason looked at it. “Promising, but there’s over three dozen addresses in that history list. Can we narrow it down?”
+Jason studied it. “Promising, but there’s over three dozen addresses in that history list. Can we narrow it down?”
 </p>
 <p>
 “Moshen,” said Danny. “Hop on Google Maps. They said they’re going to make her work at a factory or warehouse. Use Satellite View to check which of these addresses are in industrial zones.” As Moshen got to work, Danny turned to Jason. “Assuming you do find this Julie girl, what’s your plan?”
@@ -171,7 +171,7 @@ Mike nodded. “The teacher gives us a couple of servers to play with.”
 Danny replied, “Can you configure it to bypass all authentication mechanisms and function as an open mail relay?”
 </p>
 <p>
-Mike furrowed his large brow. “Yeah, but we’re not supposed to do that. The very first thing we learn is how to <em>prevent</em> them from running as open mail relays.”
+Mike’s large brow furrowed. “Yeah, but we’re not supposed to do that. The very first thing we learn is how to <em>prevent</em> them from running as open mail relays.”
 </p>
 <p>
 Danny grinned. “And why exactly is that?” 
@@ -189,10 +189,7 @@ Danny grinned. “And why exactly is that?”
 “Exactly. So, if we wanted to forge a bunch of emails from the Russian mob guys to their foot-soldiers…”
 </p>
 <p>
-Mike widened his eyes. “…We’d need an open mail relay!”
-</p>
-<p>
-Eagerly, the large scruffy man grabbed a laptop. The computer seesawed on his lap as he punched on the keyboard.
+Mike’s eyes expanded. “…We’d need an open mail relay!” He grabbed a laptop hungrily. The computer seesawed on his lap as he punched on the keyboard.
 </p>
 
 <pre class="computer">

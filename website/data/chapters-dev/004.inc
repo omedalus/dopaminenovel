@@ -150,12 +150,12 @@ Danny closed his eyes and sighed slowly. “Is there anything else I should know
 “Yeah!” Moshen chimed in. “And I know kung fu!”
 </p>
 <p>
-Danny eyed the men with a cocked eyebrow. “Hockey… and… kung fu…?” From the hexagonal grid on the table, he picked up the two-inch pewter barbarian. It was painted with loving detail. “Guys, let me give you a reality check. This is a network penetration mission. In an ideal world this’ll be done from some Internet café and take less than ten minutes. The only way things can possibly ‘get physical’ is if we’re, like, unspeakably bad at our jobs. We’re <em>not</em> bad at our jobs, are we?” The faces in front of him may as well have been blobs of cold Play-Doh. “<em>Are we?</em>”
+Danny eyed the men with a cocked eyebrow. “Hockey… and… kung fu…? Guys, this is just a network penetration mission. The only way things can possibly ‘get physical’ is if we’re, like, unspeakably bad at our jobs. We’re <em>not</em> bad at our jobs, are we?” The faces in front of him may as well have been blobs of cold Play-Doh. “<em>Are we?</em>”
 </p>
 <p>
 Meekly, Mike offered, “Nnn… <em>no?</em>”
 </p>
 <p>
-“That <em>is</em> the answer I was looking for,” said Danny. “Now clear off this table. Keep the pencils and notebooks. We’ve got work to do.” 
+From the hexagonal grid on the table, Danny picked up the barbarian figurine. It was painted with loving detail. “Clear off this table. Keep the pencils and notebooks. We’ve got work to do.” 
 </p>
 </div>

@@ -9,13 +9,13 @@ Sergey Mukhayev sat in a wicker patio chair at a small round table at an outdoor
 The tea was hot, black, and strong. He wasn’t supposed to indulge, but this one cup of tea wouldn’t kill him. It was simply a nod to the truth &mdash; and the truth, like the tea, was bitter. It would be ten years before Rosie would graduate college. His chances of seeing that happen were fifty-fifty. In however many years remained for him, his sole purpose was to secure her future, to at least partially rectify the tragedy he had made of her innocent young life. His business, with its secrecy and violence, unfortunately happened to be incredibly lucrative. Through it he had caused his own damnation. And through it, he sought to earn some glimmer of redemption.
 </p>
 <p>
-He felt the caffeinated drink begin to take its effect. His heart quickened. Ironic stuff, tea was &mdash; so soothing to the mind, yet so stressing to the body.
+He felt the caffeine take effect. His heart quickened. Ironic stuff, tea was &mdash; so soothing to the mind, yet so stressing to the body.
 </p>
 <p>
 And with the quickening came the pain. A sharp pinch stabbed his chest, like heartburn after a meal of needles. He pressed his hand to his sternum and winced. His head felt as though he had stood up too quickly. He made himself cough several times to get the blood flowing back to his head.
 </p>
 <p>
-His fingers felt around in his pocket for his pills, searching for the beads of chewable aspirin mixed in among the hard round beta-blockers and the long oval statin tablets. He preferred to keep them jumbled in his pocket, outside their bottles. Bottles of pills made distinct rattling noises, and he’d be damned if he was going to walk around the city jingling with medication like a goddamned geriatric. He was only forty-seven years old and still strong as an ox &mdash; his muscles lacked the definition they’d once had in his youth, but he was still as powerful as ever. And if any lousy cretin dared to look at him like some kind of poor frail invalid, he’d sooner stab the son of a bitch’s eyes out than suffer a moment of pity. 
+His fingers felt around in his pocket for his pills, searching for the beads of chewable aspirin mixed in among the hard round beta-blockers and the long oval statin tablets. He preferred to keep them jumbled in his pocket, outside their bottles. Bottles of pills rattled, and he’d be damned if he was going to walk around the city jingling with medication like a goddamned geriatric. He was only forty-seven years old and still strong as an ox &mdash; his muscles lacked the definition they’d once had in his youth, but he was still as powerful as ever. And if any lousy cretin dared to look at him like some kind of poor frail invalid, he’d sooner stab the son of a bitch’s eyes out than suffer a moment of pity. 
 </p>
 <p>
 The aspirin worked quickly. The pain subsided, and Sergey resumed sipping his tea.
@@ -123,7 +123,7 @@ Passinsky grimaced. “Even an overgrown Leningrad street urchin should at least
 “Ah, but I know <em>you</em> want it very badly, and I’m quite certain you’d be willing to give me much more for it than…” Sergey waved at the envelope. “…<em>that</em>. No, good Doctor. I think I’ll keep what’s mine.”
 </p>
 <p>
-“It’s <em>not</em> yours,” said Passinsky.
+“It’s <em>not</em> yours,” snapped Passinsky.
 </p>
 <p>
 “It is now,” Sergey smirked. 
@@ -189,7 +189,7 @@ Passinsky shrugged innocently. “You were simply a part of my assignment, Serge
 Sergey’s fists clutched the sides of the table. “Why me? Why does your boss give a damn about me?”
 </p>
 <p>
-“Well, I don’t know the details,” Passinsky said nonchalantly. “but from what I understand, you two have a history. I hear you worked for him back in Saint Petersburg? Arranged some sales, apparently…”
+“Well, I don’t know the details,” Passinsky said nonchalantly. “But from what I understand, you two have a history. I hear you worked for him back in Saint Petersburg? Arranged some sales, apparently…”
 </p>
 <p>
 Sergey’s throat seized. His pulse throbbed in his neck. “No…”
@@ -231,7 +231,7 @@ Passinsky avoided eye contact. “I know what kind of man my boss is.”
 Sergey suddenly looked away and gasped, “Your boss…! Ivan is your boss…!”
 </p>
 <p>
-Passinsky nodded. “He’s the man that wires my paychecks. He created a fictitious investment consortium to move funds into the United States, but he’s the consortium’s sole member. Tungsten is his company.”
+Passinsky nodded. “He’s the man who wires my paychecks. He created a fictitious investment consortium to move funds into the United States, but he’s the consortium’s sole member. Tungsten is his company.”
 </p>
 <p>
 “Tungsten is his company…” Sergey repeated, his eyes wide with panic. 
@@ -273,13 +273,13 @@ He picked one hand at random from the many that held him. He grabbed its wrist a
 The sea of hands released him, and the crowd of vigilant citizens backed away in terror. A vacant ring surrounded him, none daring to come within his reach.
 </p>
 <p>
-His eyes darted around the pavilion, looking for an escape. The narrow crisscrossing walkways, the rolling street carts, the convoluted networks of stairs and ramps throughout Pike Place Market would serve him well. But he had to move fast. Not only because the police were surely on their way, but because…
+His eyes darted around the pavilion, seeking an escape. The narrow crisscrossing walkways, the rolling street carts, the convoluted networks of stairs and ramps throughout Pike Place Market would serve him well. But he had to move fast. Not only because the police were surely on their way, but because…
 </p>
 <p>
 “Rosie,” he gasped. “My Rosie…!” He reached for the pocket where he typically kept his cellphone. It wasn’t there. He had destroyed it the previous night. “They’ll… Oh God…!”
 </p>
 <p>
-He bolted from the pavilion. A few brave people tried to stop him. He swept them aside like curtains.
+He bolted from the pavilion. A few brave people tried stopping him. He swept them aside like curtains.
 </p>
 <p>
 Passinsky, straightening his shirt and gesturing graciously to the intervening bystanders, called out after him, “Sergey, don’t bother! I’m sure that he already has her.”

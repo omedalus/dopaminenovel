@@ -9,10 +9,10 @@ Danny vaguely recognized the music.
 His eyes opened slowly. The angle of the daylight hinted at an hour well past noon.
 </p>
 <p>
-His shoulder wound flared with pain as he stirred awake, and his hand still stung from the burn. His injuries served as unavoidable reminders of the horrors of the previous day.
+His shoulder wound flared as he stirred awake, and his hand still stung from the burn &mdash; unavoidable reminders of the horrors of the previous day.
 </p>
 <p>
-But a trail of thin claw-marks on his chest reminded him that yesterday hadn’t been <em>all</em> bad after all.
+But a trail of thin claw-marks on his chest reminded him that yesterday hadn’t been <em>all</em> bad.
 </p>
 <p>
 He stood up and donned pajamas, taking his time. He no longer had a job to show up late for. Most importantly, he had a brilliant and beautiful young woman playing <em>Dance Dance Revolution</em> in the next room.
@@ -60,7 +60,7 @@ Danny worked the math. “So after ten hours… That tiny speck you started with
 Danny chuckled. “Proud of yourself, are you?”
 </p>
 <p>
-“Well, I damn well should be! I’ve been stuck behind a reception desk for almost two years, when what I really should have been doing is <em>this</em>! Behold my awesome powers!” She lifted her head theatrically and splayed her black-nailed fingers.
+“Well, I damn well should be! I’ve been stuck behind a reception desk for almost two years, when I really should have been doing <em>this</em>! Behold my awesome powers!” She lifted her head theatrically and splayed her black-nailed fingers.
 </p>
 <p>
 Danny pulled her close. She wrapped her arms around his waist. “So, when will we know if it works?” he asked. “If it actually makes the… you know… the drug?”
@@ -153,7 +153,7 @@ Danny whimpered, and struggled to his feet. “How… How did you…”
 He grabbed Danny by the throat and pinned him against the wall. “You…” Sergey seethed. “It is all you! I am up in this ass because of you! You nearly killed my nephew. Twice. You tricked me into ordering lockdown. You blew up my factory, got one of my soldiers killed, got another badly wounded. And I am running out of cars!”
 </p>
 <p>
-“I… I’m sorry!” Danny squeezed out through his constrained larynx.
+“I… I’m sorry!” Danny squeezed through his constrained larynx.
 </p>
 <p>
 Sergey looked at him with an expression typically used for things stuck to the bottom of a shoe. “I have only one thing now. One thing I am left with.” Sergey shoved the muzzle of the gun against Danny’s chest. “You. I have you. And you do not look like much. But I know you are one clever little shit. And, God willing, maybe that will be enough.”
@@ -174,7 +174,7 @@ And as Sergey looked into his eyes, Danny noticed something beyond the rage, dee
 <span class="caplead">Danny dropped hard into the chair</span> at the computer desk in his bedroom.
 </p>
 <p>
-Sergey leaned down over his shoulder. “We will have no funny business, understand? I know you will find some sneaky way to use computer to call for help. Well, let me tell you something. If I hear anybody come to this house… Anybody! Police. Friend. Neighbor. Newspaper delivery boy. Even stray cat. …Then I shoot you dead that moment. I will not even think about it. And then I will use her…” He gestured to Tina behind him. “…as hostage for me to escape. I am being clear to you?”
+Sergey leaned down over his shoulder. “We will have no funny business, understand? I know you will find some sneaky way to use computer to call for help. Well, let me tell you something. If I hear anybody come to this house&mdash; <em>Anybody!</em> Police. Friend. Neighbor. Newspaper delivery boy. Even stray cat. &mdash;then I shoot you dead that moment. I will not even think about it. And then I will use her&mdash;” He gestured to Tina behind him. “&mdash;as hostage for me to escape. I am being clear to you?”
 </p>
 <p>
 “Crystal,” Danny squeaked.
@@ -225,7 +225,7 @@ Tina reluctantly replied, “Is he from Saint Petersburg? Super rich? Owns compa
 “Yes!” said Sergey. “You know this man?”
 </p>
 <p>
-Tina said, “He’s staying at the Medina Gallante, in the Presidential Suite.”
+“He’s staying at the Medina Gallante, in the Presidential Suite.”
 </p>
 <p>
 Danny asked, “The big fancy lakeside hotel between Mercer and the 520 bridge?”
@@ -237,10 +237,10 @@ Tina nodded.
 Danny turned back around to the computer and started typing.
 </p>
 <p>
-Sergey continued staring at her. “How do you know this!?”
+Sergey’s stare bore into her. “How do you know this?”
 </p>
 <p>
-“I’m the one that booked the reservation.”
+“I booked the reservation.”
 </p>
 <p>
 Sergey squinted in confusion for a few moments. “Oh! I know you now. You are office girl from Tungsten! We talked on telephone! Your name is Tina, yes?”
@@ -270,7 +270,7 @@ Danny struggled against his pull. “Jesus, no! Sergey, that’s suicide! Look, 
 “This does not scare me,” Sergey shrugged.
 </p>
 <p>
-“It should,” replied Danny. “Let me put it in perspective for you. This hotel is in Medina &mdash; one of the richest districts in the country, and all the money is from technology. Bill Gates’s house is there. Jeff Bezos &mdash; the guy who created Amazon &mdash; <em>his</em> house is there. They have marine radar systems watching the shoreline to call out the Coast Guard if so much as a floating beach ball gets within 500 feet of anyone’s deck. They have cameras on every street corner that use image recognition software to scan every car that drives through the neighborhood. And this is just what it’s like on <em>public</em> property. Inside that hotel, there’s going to be world-class physical security systems, full-time guards, hotlines to SWAT teams, you name it. If you go in with guns blazing, you’ll be mowed down before you make it through the lobby.”
+“It <em>should</em>,” urged Danny. “Let me put it in perspective for you. This hotel is in Medina &mdash; one of the richest districts in the country, and all the money is from technology. Bill Gates’s house is there. Jeff Bezos &mdash; the guy who created Amazon &mdash; <em>his</em> house is there. They have marine radar systems watching the shoreline to call out the Coast Guard if so much as a floating beach ball gets within 500 feet of anyone’s deck. They have cameras on every street corner that use image recognition software to scan every car that drives through the neighborhood. And this is just what it’s like on <em>public</em> property. Inside that hotel, there’s going to be world-class physical security systems, full-time guards, hotlines to SWAT teams, you name it. If you go in with guns blazing, you’ll be mowed down before you make it through the lobby.”
 </p>
 <p>
 “So what do you suggest?” asked Sergey.
@@ -428,7 +428,7 @@ Danny moved his mouse cursor over a block of text. It read, “<span class="comp
 Sergey asked, “And with this you can get me into hotel?”
 </p>
 <p>
-“With this, we can perform whitebox analysis of their integrated security framework,” Danny explained. “We can study how the engineers of this system went about building it, and read notes that they left for themselves in the comments of their code. By examining their unit tests, we’ll see which parts of the system they paid extra attention to &mdash; and which parts they didn’t. We can study the message-passing framework between different subsystems, and&mdash;”
+“With this, we can perform whitebox analysis of their integrated security framework,” Danny explained. “We can study how the engineers of this system went about building it, and read notes they left for themselves in the comments of their code. By examining their unit tests, we’ll see which parts of the system they paid extra attention to &mdash; and which parts they didn’t. We can study the message-passing framework between different subsystems, and&mdash;”
 </p>
 <p>
 Sergey wrung his hands in frustration. “What is any of this <em>mean</em>?”

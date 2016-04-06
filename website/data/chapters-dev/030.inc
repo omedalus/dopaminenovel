@@ -1,9 +1,9 @@
 <div class="chapsection">
 <p>
-<span class="caplead">With the watchful eyes of his team</span> and a few well-timed HERF pulses, Danny managed to stay out of sight of the police combing the Gallante. There were a few close calls, but he slipped out of the building unnoticed. 
+<span class="caplead">With the watchful eyes of his team</span> and some well-timed HERF pulses, Danny managed to evade the police combing the Gallante. After a few close calls, he slipped out of the building unnoticed. 
 </p>
 <p>
-The battery in his cellphone gave out after he left the hotel. In silence and moonlit darkness, Danny cut through the evergreen-fringed backyards of Medina billionaires. He looked out for security cameras and motion-detecting floodlights, zapping them when necessary. After slow, tentative progress across private property, he felt he had put a comfortable distance between himself and the hotel. He climbed over a retaining wall and arrived at a wide, well-lit road running through downtown Bellevue. There, he pulled off his overalls, leaving himself in a t-shirt and jeans. He stuffed his electrician disguise down a gutter grate. 
+The battery in his cellphone gave out after he left the hotel. In silence and moonlit darkness, Danny cut through the evergreen-fringed backyards of Medina billionaires. He looked out for security cameras and motion-detecting floodlights, zapping them when necessary. After slow, tentative progress across private property, he felt he’d put a comfortable distance between himself and the hotel. He climbed over a retaining wall and arrived at a wide, well-lit road running through downtown Bellevue. There, he pulled off his overalls, leaving himself in a T-shirt and jeans. He stuffed his electrician disguise down a gutter grate. 
 </p>
 <p>
 Then he figured out which direction led toward the Kirkland Marina, slung his HERF gun back over his shoulder, and began walking.
@@ -21,7 +21,7 @@ He had no idea how much time had passed. He wore no watch, and his dead cellphon
 Danny heard the hum of an engine slowing down behind him. He turned around.
 </p>
 <p>
-Tina waved at him through the windows of Natalie’s car. “Danny! There you are!” she said as she pulled up beside him. “God, I’m glad to see you! I’ve been looking everywhere. You’re going the wrong way!”
+Tina waved through the windows of Natalie’s car. “Danny!” she cried as she pulled up beside him. “God, I’ve been looking everywhere. You’re going the wrong way!”
 </p>
 <p>
 Danny climbed into the passenger seat. “My cellphone’s dead. I have no GPS.”
@@ -30,13 +30,13 @@ Danny climbed into the passenger seat. “My cellphone’s dead. I have no GPS.�
 
 <div class="chapsection">
 <p>
-<span class="caplead">In the cabin of Jason’s yacht,</span> Rosie and Moshen sat next to one another on the leather bench by the lacquered table. They had cleared out a space among the laptops and electronics, and filled it with markers and pencils and blank pieces of paper from Jason’s <em>Dungeons &amp; Dragons</em> kit. Moshen kept the girl distracted by flipping through the illustrated rulebooks and teaching her how to draw pictures of dragons, orcs, and fairies, of knights and priests and wizards. On the screen behind them, the conference call had stayed active, keeping Mike and Natalie telepresent. 
+<span class="caplead">In the cabin of Jason’s yacht,</span> Rosie and Moshen sat at the lacquered table. Moshen kept the girl distracted by flipping through Jason’s illustrated <em>Dungeons &amp; Dragons</em> rulebooks. On the screen behind them, the conference call had stayed active, keeping Mike and Natalie telepresent. 
 </p>
 <p>
 All eyes turned towards the cabin stairs as Danny, Tina, and Jason descended from the deck.
 </p>
 <p>
-Rosie erupted in a joyous, expectant smile. Once the three of them descended, her smile lingered briefly, then sank into a perplexed frown.
+Rosie erupted in a joyous, expectant smile. Once the trio had descended, her smile lingered briefly, then sank into a perplexed frown.
 </p>
 <p>
 “Where’s my Dad?” she asked nervously.
@@ -45,13 +45,13 @@ Rosie erupted in a joyous, expectant smile. Once the three of them descended, he
 Danny’s face went pale. 
 </p>
 <p>
-“Where’s my Dad!?” she repeated with fierce insistence.
+“Wh&mdash; where’s my Dad!?” she repeated with fierce insistence.
 </p>
 <p>
-Silent seconds drifted by. The child’s face slowly melted into a grimace of agonized horror. “<em>Where’s my Dad?</em>” she screamed, knowing the answer.
+Silent seconds ground by. The child’s face slowly melted into a grimace of agonized horror. “<em>Where’s my Dad?!</em>” she screamed, knowing the answer.
 </p>
 <p>
-Danny tried to say something, but only stammered. The young girl stifled tears with a wet gulp. She sprang from her seat, pushed past Danny, and bolted up the steps. Danny watched her helplessly, his mouth agape.
+Danny tried to say something, but only stammered. The young girl stifled tears with a wet gulp. She sprang up, pushed past Danny, and bolted up the steps. Danny watched her helplessly, his mouth agape.
 </p>
 <p>
 Jason clasped a hand on Danny’s shoulder and said, “I’ve raised children of my own,” before briskly ascending the steep cabin stairway after her.
@@ -66,7 +66,7 @@ The cabin responded with silence. On the deck above, the child’s hysterical so
 “What’s going to happen to her?” Danny asked, his stomach lurching.
 </p>
 <p>
-Several more moments of silence passed. Tina finally broke it. “She has no other family. We asked her while we were waiting for you. She has nowhere to go.”
+An eon of silence passed. Tina finally broke it. “She has no other family. We asked her while we were waiting for you. She has nowhere to go.”
 </p>
 <p>
 “Sergey was adamant that she doesn’t end up in foster care,” said Danny, his head spinning. “You remember, right? In my bedroom? He said a girl her age would never…”

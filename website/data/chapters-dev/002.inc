@@ -9,7 +9,7 @@ Unfortunately, that never actually happened.
 <span class="think">It should be louder than this</span>, thought Danny. <span class="think">I gave a great performance. They should be whistling and howling and throwing their underwear at me.</span>
 </p>
 <p>
-Danny looked around and decided it best that they didn’t.
+Danny looked around and decided it’s best if they didn’t.
 </p>
 <p>
 The smattering of polite, professional applause came from two dozen 50-something men. In place of tattoos and piercings were hair plugs and dental veneers. What should have been a stadium glittering with cellphone flashes was instead a bland conference room awash in the sickly light of fluorescent bulbs. Half of the audience were wearing gray suits, like Danny. The rest were in khakis and polos, doubtlessly planning to get back to their sailboats or golf courses after the meeting.
@@ -45,7 +45,7 @@ Brent beamed. “Yes, Danny’s been a great asset to the company. He’s been C
 “Would it be possible,” NIN man asked, “for Danny’s slides to be available after we finish?”
 </p>
 <p>
-Danny answered on his own behalf. “Sure thing. I can put this up on the Claymore website right now…” His hand moved inside his jacket toward his cellphone.
+Danny answered on his own behalf. “Sure thing. I can put this up on the Claymore website right now…” His hand moved inside his jacket toward his phone.
 </p>
 <p>
 The room erupted in murmurs of protest and clearing of throats. The one-percenters exchanged nervous glances and inched forward in their seats. Danny stood frozen with his hand halfway to his chest pocket as though caught drawing a gun. He blinked dumbly at Brent for help.
@@ -66,7 +66,7 @@ And just like that, Brent Thurston took the room. He launched his own set of Pow
 In some alternate universe Danny would have gotten an MBA after finishing his master’s degree. He’d have moved to New York and quickly climbed the ladder at a multinational holding company, eventually starting a tech-heavy hedge fund. He’d date models, dine at fine restaurants, and light cigars with burning hundred-dollar bills. By night he’d don a cape and cowl and prowl the rooftops fighting crime.
 </p>
 <p>
-In the real world, during his last trip to New York he’d dropped his cellphone onto a set of subway tracks. In reality, New York sucked.
+In the real world, during his last trip to New York he’d dropped his phone onto a set of subway tracks. In reality, New York sucked.
 </p>
 <p>
 Reality sucked.
@@ -102,7 +102,7 @@ Danny took the hint. As he fled the room, he heard Brent resume the presentation
 <span class="caplead">The coffee pot in the company kitchen</span> held Danny in rapt attention. It glowed with a shade of red slightly deeper than the visible spectrum: infrared. Every object in the universe emitted black-body radiation based on its temperature. Danny mentally computed the hot coffee pot’s emission spectrum, a relatively easy task using Planck’s Law: the power per unit area <em>I</em> of frequency <em>v</em> from a body at temperature <em>T</em> was equal to <em>v</em> cubed times…
 </p>
 <p>
-A vibration on his chest broke his trance. His cellphone signaled an incoming email. Judging by the time, Brent’s Q&amp;A had ended several minutes ago. The investors had probably cleared out and were already driving their Beamers and Lexi home.
+A vibration on his chest broke his trance. His phone signaled an incoming email. Judging by the time, Brent’s Q&amp;A had ended several minutes ago. The investors had probably cleared out and were already driving their Beamers and Lexi home.
 </p>
 
 <div class="computer email">
@@ -139,7 +139,7 @@ Verizon Communications
 The email continued with a chain of forwards and replies by random corporate people. The attachment was the PowerPoint presentation that Danny had delivered less than half an hour ago.
 </p>
 <p>
-“<span class="computer">Sure</span>,” Danny typed in reply. “<span class="computer">Put simply, the phase angle deltas are part of the encoding scheme. To solve the obvious physical reception problems, we’ve developed a polyradial antenna</span>&mdash;”
+“<span class="computer">Sure</span>,” Danny typed in reply. “<span class="computer">Put simply, the phase angle deltas are part of the encoding scheme. To solve the obvious physical reception problems, we’ve developed a polyradial antenna</span>”&mdash;
 </p>
 <p>
 His fingers froze. A surge of doubt swelled from the back of his mind, eclipsing NIN Man’s request. It dawned on him that there was a much more challenging conundrum before him. The email thread was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain. The conundrum, on the other hand, involved social cues and verbal subtexts &mdash; something far more complicated.
@@ -185,7 +185,7 @@ I got a green light from my director. Verizon will join the auction for the inte
 </div>
 
 <p>
-Danny stared at that email. More pooled below it, with other Verizon personnel and Claymore investors. But Danny’s eyes kept rereading that message, bouncing off the bottom of the screen back to the top like a program caught in an infinite loop.
+Danny stared at that email. More dangled below it, with other Verizon personnel and Claymore investors. But Danny’s eyes kept rereading that message, bouncing off the bottom of the screen back to the top like a program caught in an infinite loop.
 </p>
 <p>
 Eventually, he fought through his bewilderment to write one simple question.
@@ -245,7 +245,7 @@ Danny responded.
 <br/>
 
 <p>
-For a second Danny thought about explaining that Gödel’s Incompleteness Theorem makes it impossible for any data-processing system, including a human mind, to operate under the premise of not having a datum that it does in fact have. But there was a bigger issue to address.
+For a second Danny thought about explaining that Gödel’s Incompleteness Theorem made it impossible for any data-processing system, including a human mind, to operate under the premise of not having a datum that it did in fact have. But there was a bigger issue to address.
 </p>
 
 <br/>
@@ -311,7 +311,7 @@ Danny swallowed hard.
 <br/>
 
 <p>
-Danny found himself wrestling with his phone’s autocorrect as his fingers trembled.
+Danny found himself fumbling the phone’s on-screen keyboard as his fingers trembled.
 </p>
 
 <br/>

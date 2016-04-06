@@ -27,13 +27,13 @@ Jason gestured at Danny’s bag. “But you didn’t walk away empty-handed, I s
 “Yes, actually. We’re auctioning off Claymore’s assets. Everything’s up for appraisal. The software, the hardware, the furniture, the company van. It’s all for sale. Including whatever <em>that</em> is.”
 </p>
 <p>
-Danny gazed into the bag’s metal-strewn depths. “For <em>sale</em>? You&mdash; No. It’s not <em>yours</em>. <em>I</em> designed and built it &mdash;”
+Danny gazed into the bag’s metal-strewn depths. “For <em>sale</em>? You&mdash; No. It’s not <em>yours</em>. <em>I</em> designed and built it&mdash;”
 </p>
 <p>
 “<em>For</em> Claymore,” Jason insisted.
 </p>
 <p>
-Danny reached inside and fished out a foot-long, six-inch-wide flared metal tube. Attached was a rubber-coated handle with a plastic trigger near the top. Metal blocks extended from its back, connected to cables that dangled down into the bag. Danny held the assembly delicately by the pistol grip. His eyes traced the device’s contours like fingertips across a lover’s body.
+Danny reached inside and fished out a foot-long, six-inch-wide flared metal tube. Attached was a rubber-coated handle with a plastic trigger near the top. Metal blocks extended from its back, connecting to cables that dangled down into the bag. Danny held the assembly delicately by the pistol grip. His eyes traced the device’s contours like fingertips across a lover’s body.
 </p>
 <p>
 “What is it?” asked Jason.
@@ -117,7 +117,7 @@ Danny shook his head, smiling distantly. The very word “biotechnology” conju
 Yet now, <em>because</em> they had made it real, by definition it wasn’t futuristic anymore.
 </p>
 <p>
-But <em>biotechnology</em> was still an uncharted frontier. Biotech still held unscaled vistas and unseen horizons &mdash; the next “virtual reality,” the next “information superhighway,” the next “cyberspace.” The future <em>used</em> to be digital. Now the <em>present</em> was digital. The future was squishy.
+But <em>biotechnology</em> was still an uncharted frontier. Biotech still held unscaled vistas and unseen horizons &mdash; the next “virtual reality”, the next “information superhighway”, the next “cyberspace”. The future <em>used</em> to be digital. Now the <em>present</em> was digital. The future was squishy.
 </p>
 <p>
 “Not at all,” Danny answered. “But I have friends who work at the Fred Hutchinson Cancer Research Center. And ZymoGenetics. And the Allen Institute for Brain Science. I’ve been hearing for decades that biotech is just around the corner. I guess it’s finally happening.”
@@ -171,7 +171,7 @@ Jason didn’t reply. He just looked at Danny and grinned.
 “<em>That’s</em> your job offer?”
 </p>
 <p>
-Jason nodded. “I presume you’ve got expertise in the matter. I mean, you’re a talented engineer, so I figured…”
+Jason nodded. “I presume you’ve got expertise in the matter. I mean, you’re a talented engineer, so I figure…”
 </p>
 <p>
 Danny flashed him a nervous grin. “Actually, I… well, kinda…”
@@ -180,7 +180,7 @@ Danny flashed him a nervous grin. “Actually, I… well, kinda…”
 Danny thought back to his career as a hacker, long ago. It consisted of his finding a newsletter on his freshman homeroom teacher’s desk. In a section listing faculty phone numbers, they’d given the extension for a dial-in connection to a computer that the teachers used for inputting grades. Danny had an 8086 IBM PC with a 1200-baud Hayes modem. After fiddling with the modem’s settings, he’d managed to connect to the school’s server. When he tried to change any grades, though, the system challenged him with a prompt to enter a teacher’s username and password. He was about to give up.
 </p>
 <p>
-But then he’d noticed that the main screen displayed, “<span class="computer">NUMBER OF CURRENT USERS</span>,” and the number wasn’t falling. Danny had discovered, through sheer luck, that the grades system’s connection-handling software had a flaw: if he simply hung up without logging out, the system would think his connection was still open. Guessing that the system could only handle so many connections at a time, he started calling and disconnecting again and again. He was right &mdash; it would accept no more than 255 simultaneous users, at which point it simply stopped answering incoming calls. Victory! The school’s teachers couldn’t enter their grades anymore!
+But then he’d noticed that the main screen displayed, “<span class="computer">NUMBER OF CURRENT USERS</span>,” and the number wasn’t falling. Danny had discovered, through sheer luck, that the grades system’s connection-handling software had a flaw: if he simply hung up without logging out, the system would think his connection was still open. Guessing that the system could only handle so many connections at a time, he started calling and disconnecting again and again. He was right &mdash; it would accept no more than 255 simultaneous users, at which point it simply stopped answering incoming calls. Teachers couldn’t enter grades anymore! Victory! 
 </p>
 <p>
 The school fixed it by rebooting the machine, but Danny jammed it again the next day. He kept this up for a few weeks until his parents got the phone bill.
@@ -195,7 +195,7 @@ The school fixed it by rebooting the machine, but Danny jammed it again the next
 “<em>Me</em>? But… I don’t think I’m… Look, Jason, the skills for <em>building</em> data systems aren’t the same as for <em>breaking</em> them. It’s a different mindset.”
 </p>
 <p>
-“Are you saying you don’t think you <em>can do</em> the job?”
+“Are you saying you don’t think you can do the job?”
 </p>
 <p>
 “I can <em>absolutely</em> do the job!” Danny snapped. “I… I’ll have to think about it.”

@@ -19,7 +19,7 @@ Eugene clapped his shoulder. It might have passed for a gesture of friendship, b
 “It’s not just me!” trembled the fellow. “Jimmy jumped last week, and Martinez…”
 </p>
 <p>
-Eugene’s hand pythoned toward the man’s neck. “Do you think Sergey and I aren’t <em>painfully</em> aware, Francisco? How much is the street price for loyalty?”
+Eugene’s hand snaked toward the man’s neck. “Do you think Sergey and I aren’t <em>painfully</em> aware, Francisco? How much is the street price for loyalty?”
 </p>
 <p>
 “I… like selling for you, Eugene,” Francisco stammered. “You and Sergey, you always treat me good. It’s just…”
@@ -52,10 +52,10 @@ Eugene rolled his eyes. “Francisco, how did you get to be a salesman without k
 Eugene’s fingers closed around Francisco’s throat. Staring into his eyes, he hissed, “You betray us for utter <em>bullshit</em>?”
 </p>
 <p>
-“See for yourself!” honked Francisco’s squeezed larynx. He extended a wobbly arm toward the back of the bar.
+“See for yourself!” Francisco honked through his squeezed larynx, and extended a wobbly arm toward the back of the bar.
 </p>
 <p>
-Eugene’s gaze followed his trembling finger past silhouettes of drunks. Near a pool table, the crowd simply stopped, like a sea checked by an invisible dam. There, on a tall bar stool, sat a young Asian woman drinking a fluorescent cocktail. Eugene couldn’t make out details, but, amid all the denim vests and grease-stained jeans, her sleek white dress and gladiator stilettos stuck out like a Viagra in a bag of molly.
+Eugene’s gaze followed his trembling finger past silhouettes of drunks. Near a pool table, the crowd simply stopped, like a sea held back by an invisible dam. There, on a tall bar stool, sat a young Asian woman drinking a fluorescent cocktail. Eugene couldn’t make out details, but, amid all the denim vests and grease-stained jeans, her sleek white dress and gladiator stilettos stuck out like a Viagra in a bag of molly.
 </p>
 <p>
 “She’s <em>here</em>?” Eugene grunted. He released his choke, leaving Francisco wheezing. “<em>That’s</em> who’s muscling in on our area?”
@@ -88,7 +88,7 @@ Eugene carefully slipped his way through the crowd toward the back of the bar. H
 He waited for a response. None came.
 </p>
 <p>
-Before him, the girl sat and drank, texting furiously, saying nothing to her three large companions. Occasionally, she would reach into her Hello Kitty and withdraw carefully, one manicured fingernail upturned like a spoon, carrying a small scoop of fine white powder that promptly fled up her nose.
+Before him, the girl sat and drank, texting furiously, saying nothing to her three large companions. Occasionally, she would reach into her Hello Kitty purse and withdraw one manicured fingernail, upturned like a spoon, carrying a small scoop of fine white powder that promptly fled up her nose.
 </p>
 <p>
 Eugene glanced at his phone &mdash; still no word from Sergey. Grimacing, he rolled his shoulders, cracked his knuckles, and strode forward.
@@ -136,7 +136,7 @@ The bodyguard advanced. “You’re threatening my boss, buddy. Your conversatio
 “Where is your source?” Eugene barked over the guard’s shoulder. “Who is your cartel contact? How are you evading Coast Guard patrols?”
 </p>
 <p>
-Julie Yen laughed with cruel confidence. “Oh, Eugene! Dear obsolete, useless Eugene! What would be the point of explaining anything? You wouldn’t understand a word I told you.”
+Julie Yen laughed haughtily. “Oh, Eugene! Dear obsolete, useless Eugene! What would be the point of explaining anything? You wouldn’t understand a word I told you.”
 </p>
 <p>
 Eugene noticed that the click of billiard balls behind him had ceased. It could mean only one thing: the two men who had been playing pool must be standing right…
@@ -145,7 +145,7 @@ Eugene noticed that the click of billiard balls behind him had ceased. It could 
 He ducked into a squat, spinning and kicking out. His leg connected with an ankle. He crooked his knee, sweeping the foot of one of the men behind him. The would-be assailant fell backward, arms pinwheeling, and knocked his head against the pool table. Eugene rose to deliver a chest stomp, and heard the felled bodyguard’s ribs crack beneath his heel.
 </p>
 <p>
-He turned to the other pool player just in time to glance a cue swinging for his face. He leaned into the arc of the swing, grabbed the stick, and spun with its momentum, turning his back toward its wielder. An elbow jab made contact with the attacker’s gut hard enough to sink him to his knees, but the man’s grip on the stick remained firm. Eugene wrestled the cue downward against the floor and pushed until it cracked in two. Grabbing the thicker end, he rammed the butt against his attacker’s temple. The kneeling man reeled and collapsed.
+He turned to the other pool player just in time to see a cue swinging for his face. He leaned into the arc of the swing, grabbed the stick, and spun with its momentum, turning his back toward its wielder. An elbow jab made contact with the attacker’s gut hard enough to sink him to his knees, but the man’s grip on the stick remained firm. Eugene wrestled the cue downward against the floor and pushed until it cracked in two. Grabbing the thicker end, he rammed the butt against his attacker’s temple. The kneeling man reeled and collapsed.
 </p>
 <p>
 The bodyguard at Julie’s side approached the melee, reaching out to grapple Eugene with elephant-trunk arms. Eugene lightning-scanned the large man’s posture for weaknesses.
@@ -169,10 +169,10 @@ Sergey smirked warmly at him. “Where’s this princess that’s causing so muc
 The pair spotted Julie cowering by the back wall, crouching in her couture footwear. She held her barstool in both hands, jabbing it at them like a lion-tamer. She had nowhere to run.
 </p>
 <p>
-Sergey regarded her, frowning. “She’s very young.” 
+Sergey regarded her, frowning. “She’s very young.”
 </p>
 <p>
-“And high as the moon,” Eugene added. “Apparently she manufactures it herself. Somehow.” Her Hello Kitty purse lay near his feet &mdash; the girl had tossed it during the scuffle. Eugene squatted down and walked his fingers into its open top to peek inside. Amidst mascara, lipstick, and a sandwich bag full of powdered cocaine, there was a plain white keycard. It bore a stylized letter <em>W</em> and the inscription, <em>Tungsten Medical Technologies</em>.
+“And high as the moon,” Eugene added. “Apparently she manufactures it herself. Somehow.” Her Hello Kitty purse lay near his feet &mdash; the girl had tossed it during the scuffle. Eugene squatted down and walked his fingers into its open top to peek inside. Amidst mascara, lipstick, and a sandwich bag full of powdered cocaine, there was a plain white keycard. It bore a stylized letter <em>W</em> and the inscription “Tungsten Medical Technologies”.
 </p>
 <p>
 Sergey nodded. “I’ve heard these rumors. Think they have any truth?”

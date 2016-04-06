@@ -9,13 +9,13 @@ Several paces ahead, Zhan quickly chanted arcane syllables. With a hand that sud
 A veritable army of the beasts surrounded Krongor. The warrior’s axe cleaved through another orc’s torso. Yet no sooner had the foe fallen than the next one filled its place.
 </p>
 <p>
-Zhan pointed toward the barbarian and shouted another incantation &mdash; and in an instant, Krongor was engulfed in an inferno. All he could see was flame. The very air around him set alight, singeing his hair, blistering his skin.
+Zhan pointed toward the barbarian and shouted another incantation &mdash; and in an instant, Krongor was engulfed in an inferno. The very air around him set alight, singeing his hair, blistering his skin.
 </p>
 <p>
-And just as quickly as the fire had appeared, it vanished. The cavern was silent, save for the sizzling orc remains. Amidst a circle of ashen bodies, Krongor collapsed to his knees in agony. “You idiot!” he growled.
+Just as quickly as the fireball had appeared, it vanished. The cavern was silent, save for the sizzling orc remains. Amidst a circle of ashen bodies, Krongor collapsed to his knees in agony. “You idiot!” he growled.
 </p>
 <p>
-“I’m sorry!” cried Zhan. “They were all around you! It <em>did</em> kill them all, at least…”
+“I’m sorry!” cried Zhan. “They were all around you! It <em>did</em> kill them, at least…”
 </p>
 <p>
 Smoke still rose from the barbarian’s flesh. He gritted his teeth, keeping himself conscious solely through strength of will. “Stupid wizards! Just use your damn hocus-pocus to patch me up, will you?”
@@ -30,7 +30,7 @@ Some dispute remained over whether that actually happened.
 <hr/>
 
 <p>
-“I don’t care what you think I said before!” insisted Moshen. “He has <em>no</em> healing spells!”
+“I don’t care what you think I said before!” insisted Moshen. “He has no healing spells!”
 </p>
 <p>
 Moshen, a scrawny Asian kid with thick glasses, sat at the head of a lacquered table, on a leather bench that wrapped along the walls of a yacht’s wood-paneled cabin. His face was mostly obscured by a laminated cardboard screen bearing pictures of knights and dragons. The table held a disorganized pile of books, dice, and Cheetos. At the center, atop a plastic sheet with a hexagonal grid, stood two-inch painted pewter figurines &mdash; one axe-wielding barbarian, one wizard, and several orc figures lying face-down.
@@ -45,13 +45,13 @@ Jason Tuttle sat next to Mike, chugging a soda and adding up experience points o
 “You talked me into helping you fight through these orc-infested caverns, and you can’t even cast any healing spells!?”
 </p>
 <p>
-“Mike, quit being such a munchkin!” Moshen insisted. “Wizards throw lightning bolts and fireballs. Priests manipulate life energies. They operate on completely incompatible principles.”
+“Mike, quit being such a munchkin!” Moshen railed. “Wizards throw lightning bolts and fireballs. Priests manipulate life energies. They operate on completely incompatible principles.”
 </p>
 <p>
 Jason shrugged. “Wizards can’t cast healing spells, dude. Everybody knows that.”
 </p>
 <p>
-“Give me Zhan’s character sheet, Jason,” Mike demanded.
+“Give me Zhan’s character sheet,” Mike demanded.
 </p>
 <p>
 Jason put a hand over the paper. “Why…?”
@@ -66,7 +66,7 @@ Jason’s face was a mask of horror. “Don’t even think about it!”
 “Try and stop me!” Mike snatched at Zhan’s character sheet. Jason yanked it away and held it at arm’s length. Mike tried to reach around Jason, but he wouldn’t yield. The two grown men slapped at each other and wrestled on the cabin bench for control of the paper.
 </p>
 <p>
-Footsteps from above pressed them to a truce. Through the portholes, they could see jeans and hiking boots. The visitor knelt down to peer inside. Danny’s face appeared in the round window. Jason pointed to the entrance.
+Footsteps from above pressed them to a truce. Through the portholes, they could see jeans and hiking boots. The visitor knelt down to peer inside. Danny’s face appeared in the circle of glass. Jason pointed to the entrance.
 </p>
 <p>
 “Hey,” Danny said as he descended the steep stairs into the cabin. “Oh good, I got the right boat.”
@@ -132,7 +132,7 @@ He shook hands with both of them.
 “See!” said Moshen, sticking his finger in Mike’s face.
 </p>
 <p>
-“You play?” Jason asked Danny eagerly.
+“You play?” Jason asked eagerly.
 </p>
 <p>
 Danny shook his head. “Not since Second Edition.” That was a lie.
@@ -144,7 +144,7 @@ Danny shook his head. “Not since Second Edition.” That was a lie.
 Danny closed his eyes and sighed slowly. “Is there anything else I should know about you guys before we get started? Additional skills? Um… Attributes? Proficiencies? ”
 </p>
 <p>
-“I play hockey!” Mike peacocked. “I can be your muscle if things get physical!”
+“I play hockey!” Mike bragged. “I can be your muscle if things get physical!”
 </p>
 <p>
 “Yeah!” Moshen chimed in. “And I know kung fu!”

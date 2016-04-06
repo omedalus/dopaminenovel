@@ -175,11 +175,11 @@ EOL;
 $chapter_text
 
 </div>
+
 EOL;
 }
 
 echo <<<EOL
-</div>
 </body>
 </html>
 EOL;

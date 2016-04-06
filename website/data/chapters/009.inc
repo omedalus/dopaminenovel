@@ -105,7 +105,7 @@ Mike shook his head. “Let it ‘blow over’? But that girl in there is&mdash;
 “She’s not our problem,” Jason said, avoiding eye contact. “I hate to say it that bluntly, but we didn’t cause her situation, so it’s not our responsibility to get her out of it.”
 </p>
 <p>
-Danny stared at the live video of the dark-haired young woman held at gunpoint. “We <em>did</em>, though. We <em>did</em> cause this. This is all our fault.”
+Danny watched the live video of the dark-haired young woman held at gunpoint. “We <em>did</em>, though. We <em>did</em> cause this. This is all our fault.”
 </p>
 <p>
 “<em>Our</em> fault, Danny?” said Jason, incredulous. 
@@ -120,7 +120,7 @@ Danny nodded gravely. “We lured her away from her desk. We separated her from 
 “Don’t be silly, Danny,” Jason insisted. “Let’s just lay low and…”
 </p>
 <p>
-“<em>No!</em>” The sudden strength of Danny’s voice startled them all &mdash; particularly Danny himself. He took a deep breath. “Listen, we’re still here to do a job. I think maybe… Instead of bailing, we might be able to use this situation to our advantage. ”
+“<em>No!</em>” The sudden strength of Danny’s voice startled them all &mdash; particularly Danny himself. He took a deep breath. “Listen, we’re still here to do a job. I think maybe… Instead of bailing, we might be able to use this situation to our advantage.”
 </p>
 <p>
 Eyebrows cocked around him.
@@ -135,16 +135,10 @@ Jason shrugged. “And…?”
 “And so are we,” said Danny. “The difference is, <em>they</em> seem to know what they’re looking for. We’re here to steal Tungsten’s secrets, right? <em>Something</em> is in that freezer. Something valuable. I say we take it. We’re hackers, right? Let’s hack their theft and make it our own.”
 </p>
 <p>
-Jason regarded him, aghast. “Jesus. You’re serious. Danny, have you lost your mind? They’ll <em>kill you</em>.”
-</p>
-<p>
-Danny looked down, his brow furrowed. “Not necessarily. I think can outmaneuver them in there.”
-</p>
-<p>
 “How?” the financier asked. “<em>Look</em> at those guys! They’re not new at this. They have guns, training, experience&mdash;”
 </p>
 <p>
-“<em>We’ve</em> got a massive tactical advantage,” Danny tapped his laptop screen.
+“<em>We’ve</em> got a massive tactical advantage.” Danny tapped his laptop screen.
 </p>
 <p>
 Mike nodded. “The cameras. You’re talking about going all Splinter Cell on them, right? Covert ops?”
@@ -153,7 +147,13 @@ Mike nodded. “The cameras. You’re talking about going all Splinter Cell on t
 “Right,” said Danny. “We can see everything in there. They can’t. And that information asymmetry means that <em>we</em> have the upper hand. At Claymore, I built Navy communication grids. Modern battlefields are digital. During both Iraq wars, what’s the first thing the US Army did? Knocked out the enemy computer networks. During the riots in Iran and Libya and Syria, the rulers disabled civilian access to cellphones. Information is what the military refers to as a ‘force multiplier’. Those guys in there have guns. But information? That’s <em>our</em> game.”
 </p>
 <p>
-“I want in,” said Mike, hopping out of the car. “I said I’d be your muscle if things got physical. I keep my word.”
+Jason stared at him, aghast. “Jesus. You’re serious. Danny, have you lost your mind? They’ll <em>kill you</em>. Are you willing to literally bet your life on&mdash;”
+</p>
+<p>
+“On my own technical expertise?” Danny snapped. “Yes. Yes, I am.”
+</p>
+<p>
+Mike hopped out of the car. “I want in. I said I’d be your muscle if things got physical. I keep my word.”
 </p>
 <p>
 “Do you have a plan, Danny?” asked Jason.

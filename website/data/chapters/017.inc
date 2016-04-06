@@ -114,7 +114,7 @@ Julie rolled her eyes. “There is no ‘gene for cocaine’. Cocaine isn’t a 
 “Umm… no?” Danny replied.
 </p>
 <p>
-“Look, cellular machinery can’t create cocaine directly through gene expression. But it <em>can</em> create enzymes to catalyze precursors. That’s what happens in <em>Erythroxylon coca</em> &mdash; the coca plant. Unlike cocaine, enzymes <em>are</em> proteins. Enzymes <em>do</em> have genetic encodings. Which meeeeeans…” She paused, hoping that the implication would be obvious. The two men stared at her blankly. “…Which <em>means</em> that we can sequence those genes in the coca plant, and then splice them into <em>E. coli</em>. So the <em>E. coli</em> thinks they’re part of its own genome, and translates them into proteins. Got it?”
+“Look, cellular machinery can’t create cocaine directly through gene expression. But it <em>can</em> create enzymes to catalyze precursors. That’s what happens in <em>Erythroxylum coca</em> &mdash; the coca plant. Unlike cocaine, enzymes <em>are</em> proteins. Enzymes <em>do</em> have genetic encodings. Which meeeeeans…” She paused, hoping that the implication would be obvious. The two men stared at her blankly. “…Which <em>means</em> that we can sequence those genes in the coca plant, and then splice them into <em>E. coli</em>. So the <em>E. coli</em> thinks they’re part of its own genome, and translates them into proteins. Got it?”
 </p>
 <p>
 Danny nodded brightly. “Yeah!”

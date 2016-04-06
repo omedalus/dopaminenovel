@@ -82,7 +82,7 @@ Leffert rubbed her temples. “How long will it take?”
 “Fine, get to it,” Leffert replied. “Luke, take him to the POS.”
 </p>
 <p>
-Luke escorted the electrician to the window between the kitchen and the serving area. There, on a shelf jutting from the wall, sat the restaurant’s Point-Of-Sale computer. Its touch-sensitive screen showed multicolored blocks that the servers could press to enter orders. The electrician nudged the computer to access its rear workings.
+Luke escorted the electrician to the window between the kitchen and the serving area. On a shelf jutting from the wall sat the restaurant’s Point-Of-Sale computer. Its touch-sensitive screen showed multicolored blocks that waiters pressed to enter orders. The electrician nudged the computer to access its rear workings.
 </p>
 <p>
 Leffert had scarcely gotten halfway back to the kitchen before Luke came running. “Hey, Lynette! It’s asking for your password!”
@@ -123,7 +123,7 @@ He shook his head. “No, the fault’s not here. Your system’s fine.”
 <span class="caplead">Danny watched the old Claymore Communications van</span> roll through the gate toward a secluded corner of the hotel’s underground garage. He leaned against a concrete pillar, illuminated by jaundiced fluorescent lamps. “Did anyone see them enter?” he asked.
 </p>
 <p>
-“Negative,” Mike replied inside his earpiece. “Our virus went from the restaurant’s sale terminal to the hotel’s billing system, and from there to the security office. We control the cameras. And the garage gate, obviously.?” 
+“Negative,” Mike replied inside his earpiece. “Our virus went from the restaurant’s sale terminal to the hotel’s billing system, and from there to the security office. We control the cameras. And the garage gate, obviously.” 
 </p>
 <p>
 Danny watched the parking barrier’s arm drop back down after the van finished passing. “And the doors?”
@@ -135,7 +135,7 @@ Danny watched the parking barrier’s arm drop back down after the van finished 
 “Yay,” Tina said with a level of enthusiasm usually reserved for dental exams.
 </p>
 <p>
-Moshen cut the engine, hopped out, and came around to open the rear doors of the van. Danny was greeted by the familiar sight of Claymore’s field installation equipment and on-site troubleshooting tools. A spectrum analyzer, a portable power supply, and a short Yagi antenna jutted out from the disheveled pile of electronics. In the past six years, he’d taken this van to more trade shows and vendor demonstrations than he cared to remember. With Claymore now closed and its assets pending sell-off, this mission to the Medina Gallante was to be this van’s last expedition.
+Moshen cut the engine, hopped out, and came around to open the rear doors of the van. Danny was greeted by the familiar sight of Claymore’s field installation equipment and on-site troubleshooting tools. A spectrum analyzer, a portable power supply, and a short Yagi antenna jutted out from the heap of electronics. In the past six years, he’d taken this van to more trade shows and vendor demonstrations than he cared to remember. With Claymore now closed and its assets pending sell-off, this mission to the Medina Gallante was to be this van’s last expedition.
 </p>
 <p>
 The van rocked gently on its suspension as Sergey stepped out. The side door slid open, and Eugene and Leo emerged. They each fiddled with Bluetooth earbuds. On his own piece, Danny overheard the chatter as Tina joined them to the conference call.
@@ -147,37 +147,37 @@ Moshen walked away to stand watch. The three Russians came around to the back of
 Buried beneath the boxes lay a mobile armory.
 </p>
 <p>
-Sergey extracted a vest of grayish body armor, long and bulky with hard, blocky plates. He donned it over his clothes and fastened its buckles. Onto his head he pulled a heavy-looking full-faced helmet with a thick visor. He strapped a tall black rectangular shield to his left arm, large enough to cover his body from knees to face, with a wide transparent window embedded near the top to allow for vision. In his right hand he held a MAC-10, complete with suppressor, folding stock, laser sight, and extended magazine. He looked like a tank on two legs.
+Sergey extracted a vest of grayish body armor, long and bulky with hard, blocky plates. He donned it over his clothes and fastened its buckles. Onto his head he pulled a heavy-looking full-faced helmet with a thick visor. He strapped a tall black rectangular shield to his left arm, large enough to cover his body from knees to face, with a wide transparent window embedded near the top to allow for vision. In his right hand he held a MAC-10, complete with suppressor, folding stock, laser sight, and extended magazine. He looked like a two-legged tank.
 </p>
 <p>
-Leo, the gunman who had shot Danny in the shoulder twenty-four hours ago, wrapped himself in a ballistic vest and helmet like the ones on Sergey. Instead of the shield and MAC-10, though, Leo opted for a spiny black multi-component rifle with enough switches and levers to rival a church organ. A sophisticated scope ran along its top. A ridged hollow tube, about as big as a cardboard paper towel roll, hung beneath its barrel. The precision engineering of the many modular interlocking pieces astounded Danny; looking at it, it was clear to him that the people who developed that firearm knew as much about alloys and ballistics as he knew about computers and electronics.
+Leo, the gunman who’d shot Danny in the shoulder, wrapped himself in a ballistic vest and helmet like Sergey’s. Instead of the shield and MAC-10, though, Leo opted for a spiny black multi-component rifle with enough switches and levers to rival a church organ. A sophisticated scope ran along its top. A ridged hollow tube, about as big as a cardboard paper towel roll, hung beneath its barrel. The precision engineering of the many modular interlocking pieces astounded Danny; beholding it, he realized with a craftsman’s solidarity that whoever developed that firearm knew as much about alloys and ballistics as he did about computers and electronics.
 </p>
 <p>
 “What the hell is that?” Danny couldn’t help asking.
 </p>
 <p>
-“This?” said Leo with a grin as he checked the intricate parts of the weapons system. “This is standard-issue M4 carbine. It has suppressor and muzzle break, M68 CCO reflex sight and an M203 grenade launcher.” He held it up proudly. “I call her Matilda.”
+“This?” Leo checked the intricate parts of the weapons system. “This is standard-issue M4 carbine. It has suppressor and muzzle break, M68 CCO reflex sight and an M203 grenade launcher.” He held it up proudly. “I call her Matilda.”
 </p>
 <p>
-“A grenade launcher? Guys, that was not part of the plan!”
+“A grenade launcher? Guys, that was <em>not</em> part of the plan!”
 </p>
 <p>
-“You stay with computer stuff,” said Leo. “Leave the fighting stuff to us. You don’t tell us how to do our job, we won’t tell you how to do yours.”
+“You stay with computer stuff,” said Leo. “Leave fighting to us. You don’t tell us how to do our job, we won’t tell you how to do yours.”
 </p>
 <p>
-“Does your job involve picking out pieces of Sergey’s daughter from piles of gibs and putting her back together with duct tape?” said Danny.
+“Does your job involve picking out pieces of Sergey’s daughter from piles of gibs and putting her back together with duct tape?” warned Danny.
 </p>
 <p>
-Leo rolled his eyes and scoffed, “Idiot.” The Russian gunman reached into the van and pulled out a black rubber cylinder, rounded on one side. It was shaped like a bullet, but the size of a pill bottle. “We use this,” he said.
+Leo rolled his eyes and scoffed, “Idiot.” The Russian gunman reached into the van and pulled out a black rubber cylinder, rounded on one side, shaped like a bullet but the size of a pill bottle. “We use <em>this</em>.”
 </p>
 <p>
-“What is it?” Danny asked.
+“What’s that?” Danny asked.
 </p>
 <p>
 Sergey grinned. “It is how you make an entrance.”
 </p>
 <p>
-Leo laughed lightly. “It is forty-millimeter spin-stabilized flash grenade. You do not want to be looking at it when it goes off.”
+Leo laughed lightly. “Forty-millimeter spin-stabilized flash grenade. You do not want to be looking at it when it goes off.”
 </p>
 <p>
 Sergey smiled, shook his head, and said mirthfully, “Nooooo, you really, really don’t!” The two seemed to share an inside joke of some kind &mdash; a recollection, perhaps, of battles past.
@@ -189,10 +189,10 @@ A few feet away, Eugene practiced turning, twisting, and kicking in his gear. He
 Sergey passed him a bigger helmet, with side coverage and a faceplate like the kind he and Leo wore.
 </p>
 <p>
-Eugene scoffed at it. “Uncle, that thing is useless! You wear that, you have no idea what’s happening around you. Look…!” He reached his hands out on either side of Sergey’s fully encased head, and began snapping his fingers on alternate sides. “Over here! No, over here! Over here! …See? Nothing.”
+Eugene scoffed. “Uncle, that thing is useless! You wear that, you have no idea what’s happening around you. Look…!” He reached his hands out on either side of Sergey’s fully encased head, and began snapping his fingers on alternate sides. “Over here! No, over here! Over here! …See? Nothing.”
 </p>
 <p>
-Sergey mumbled, “Over here, smartass,” and swung his MAC-10 out at Eugene’s unprotected cheekbone, quick enough to startle him but softly enough to do no harm. Eugene ducked to avoid the pistol-whipping, and reached up to seize Sergey’s elbow and wrist. Sergey found his arm trapped in a limb-lock that would’ve sent the gun clattering to the floor if Eugene applied any more force. Sergey responded with a shield-bash, smacking the black polymer bubble against Eugene’s body and making him stumble several feet backwards.
+Sergey mumbled, “Over here, smartass,” and swung his MAC-10 out at Eugene’s unprotected cheekbone, quick enough to startle him but softly enough to do no harm. Eugene ducked to avoid the pistol-whipping, and reached up to seize Sergey’s elbow and wrist. Sergey found his arm trapped in a limb-lock that would’ve sent the gun clattering to the floor if Eugene applied any more force. Sergey responded with a shield-bash, smacking the black polymer bubble against Eugene’s body. Eugene stumbled several feet backwards.
 </p>
 <p>
 The two men laughed, and spoke in Russian with warm, familial tones.
@@ -240,7 +240,7 @@ Danny went to the back of the van to dig out a boxy old laptop. “Wireshark,”
 Danny shoved the laptop into his hands. “Learn. Fast.”
 </p>
 <p>
-From around the other side of the van, the deep voice of Sergey rumbled. “Can we get moving yet? It is getting hot in this suit.”
+From around the other side of the van, Sergey’s voice rumbled. “Can we get moving yet? It is getting hot in this suit.”
 </p>
 <p>
 “Let me check,” Danny replied. “Mike and Natalie! Have you found a path these guys can take through the building without being seen?”
@@ -249,7 +249,7 @@ From around the other side of the van, the deep voice of Sergey rumbled. “Can 
 Mike’s voice buzzed in the earpiece. “Yes. Up the back stairs &mdash; it connects to the hotel’s rear maintenance corridor.”
 </p>
 <p>
-Danny grabbed his HERF gun and his toolbox, and began walking toward the garage’s rear stairwell. “Guys. Let’s get moving.”
+Danny grabbed his HERF gun and toolbox, and began walking toward the garage’s rear stairwell. “Guys, let’s get moving.”
 </p>
 <p>
 Eugene called out, “Hey, hold on! Almost done here…” He knelt over a large spool of black nylon rope. He was in the process of cutting two- and three-foot lengths with a serrated blade.
@@ -264,7 +264,7 @@ Danny muttered, “Do I even want to know what that’s for?”
 
 <div class="chapsection">
 <p>
-<span class="caplead">Dominga Torres was a stout, brawny woman.</span> Under her uniform, her abdomen still bore a calligraphic “Chola 4 Life” tattoo, an embarrassing reminder of her teen years in East L.A.. Much of her early life was spent in and out of juvenile detention centers, cursing authority figures with vows of vengeance. But when she became a mother, she took stock of herself and the kind of world she wanted her babies to live in. Her dream now was to land a position with the LAPD, and then see the expressions on her old friends’ faces when she’d come back into her old hood on the other side of the thin blue line. But for now, she carried no gun, and her badge was simply a token brass shield printed with the words “Security Guard”, provided to her by the Medina Gallante.
+<span class="caplead">Dominga Torres was a stout, brawny woman.</span> Under her uniform, her abdomen still bore a calligraphic “Chola 4 Life” tattoo, an embarrassing reminder of her teen years in East L.A. Much of her early life was spent in and out of juvenile detention centers, cursing authority figures with vows of vengeance. But when she’d become a mother, she’d taken stock of herself and the kind of world she wanted for her babies. Her dream now was to land a position with the LAPD, and then see the expressions on her old friends’ faces when she’d come back into her old hood on the other side of the thin blue line. For now, though, she carried no gun, and her badge was simply a token brass shield printed with the words “Security Guard”, provided by the Medina Gallante.
 </p>
 <p>
 A female voice squawked from the walkie-talkie. “Attention all Gallante security staff. If any remaining personnel have not yet received their individual briefing on tonight’s training exercises, please respond.”
@@ -288,13 +288,13 @@ She reentered the building from the smoking balcony and marched through the wide
 Torres strode up to an unremarkable gray door with a black placard printed with “SECURITY” &mdash; her base of operations. She rapped her knuckles against it.
 </p>
 <p>
-The door opened inward, apparently under its own power. Whoever opened the door stood behind it rather than coming out to greet her.
+The door opened inward, apparently under its own power. Whoever had opened the door stood behind it rather than emerging to greet her.
 </p>
 <p>
 Through the doorway, she could see the main security console. It consisted of a large desk rigged with a radio dispatch board, a computer station, a 9-1-1 hotline, and a dozen display screens showing feeds from the hotel’s security cameras. It was normally occupied by Karl or Arnie, who would’ve been sitting in the swivel chair. But the chair was empty; the security console, against protocol, was unmanned.
 </p>
 <p>
-If there was one thing she learned in East L.A., it was how to spot a set-up.
+If there was one thing she’d learned in East L.A., it was how to spot a set-up.
 </p>
 <p>
 She backed away and reached down to grab her radio. Goosebumps on her arms brushed electrically against the inside of her uniform.
@@ -321,7 +321,7 @@ When she was finally inside the office, she saw Karl and Arnie and the rest of t
 And standing several feet from them, ensuring their silence, was a man with IOTV body armor, a full-faced helmet, and a highly accessorized M4 rifle.
 </p>
 <p>
-The intruder who had opened the door closed it behind her. He stepped into her view, and pointed a MAC-10 at her torso. He was a behemoth of a man. A black riot shield was strapped to his left arm. Through the visor of his helmet, she saw that his eyes were determined and professional.
+The intruder who’d opened the door closed it behind her. He stepped into her view, and pointed a MAC-10 at her torso. He was a behemoth of a man. A black riot shield was strapped to his left arm. Through the visor of his helmet, she saw that his eyes were determined and professional.
 </p>
 <p>
 This was not a mere robbery. This was some kind of full-scale military operation.
@@ -351,7 +351,7 @@ She lunged for the security console.
 On the desk was a 9-1-1 hotline &mdash; a bright yellow telephone that connected directly to the Bellevue PD automatically just by being picked up. The police department’s phone system would begin recording the call immediately, ensuring that somebody would hear her last words. She grabbed the corded handset and dove beneath the desk.
 </p>
 <p>
-“Medina Gallante hotel under foreign military attack!” she screamed. “Private security incapacitated! Attackers equipped with automatic rifles and combat armor…”
+“<em>Medina Gallante hotel under foreign military attack!</em>” she screamed. “Private security incapacitated! Attackers equipped with automatic rifles and combat armor…”
 </p>
 <p>
 Her voice trailed off. She hadn’t expected to survive long enough to say more than half a dozen words. There were no blasts of gunfire, no bullets flying.
@@ -378,7 +378,7 @@ The man who had snuck up behind her wore a light ballistic vest and a bowl-shape
 “We’re not here to hurt you,” he said. “We just need you out of the way.”
 </p>
 <p>
-The yellow handset vibrated in her hand. “Hey. Ms., um, Torres, was it?” It was a woman’s voice &mdash; the same voice as the one on her radio. Torres looked at the handset in bewilderment. “I’m… I’m really, really sorry.”
+The yellow handset vibrated in her hand. “Hey. Ms., um, Torres, was it?” It was a woman’s voice &mdash; matching the one on her radio. Torres looked at the handset in bewilderment. “I’m… I’m really, really sorry.”
 </p>
 <p>
 “Who the hell are you people?” Torres hissed.
@@ -396,7 +396,7 @@ The man in the light vest gestured with his revolver. “That was incredibly her
 In one of the small, steamy rooms, three muscular men sat naked on white towels laid across wooden benches, talking boisterously in Russian.
 </p>
 <p>
-“So, her husband’s still twitching on the ground, right?” one man regaled his two fellows. “And she’s, like, blank. You know how they go blank, right? And I just smile at her and go, ‘Cheer up, honey! You’re going to die tonight anyway, you might as well do it in a good mood!’”
+“So, her husband’s still twitching on the ground, right?” one man regaled his two fellows. “And she’s, like, blank. You know how they go blank, right? And I just smile at her and go, ‘Cheer up, honey! You’re going to die tonight anyway. You might as well do it in a good mood!’”
 </p>
 <p>
 The two other men burst out in raucous laughter. “You’re one cold bastard, man!”
@@ -405,7 +405,7 @@ The two other men burst out in raucous laughter. “You’re one cold bastard, m
 “So what did she do?”
 </p>
 <p>
-“Well, check this out,” he continued. “I had her tied up with rope, so I thought I could take my time. So I’m going through the apartment, looking for the merchandise, when I hear this, ‘Click! Click-click…!’ So I come back and take a peek…”
+“Well, check this out,” he continued. “I had her tied up with rope, so I thought I could take my time. I’m going through the apartment, looking for the merchandise, when I hear this, ‘Click! Click-click…!’ So I come back and take a peek…”
 </p>
 <p>
 “Was it a gun?” one man asked.
@@ -429,10 +429,10 @@ The storyteller pantomimed putting a cigarette in his mouth and cupping his hand
 “A lighter!”
 </p>
 <p>
-“Yes! She managed to dig it out of her pocket, and she sort of, like, twisted her hands around…” He mimicked. “…to get the flame onto the rope.”
+“Yes! She managed to dig it out of her pocket, and she twisted her hands around to get the flame onto the rope.”
 </p>
 <p>
-“Daaaaamn!” said one of the listeners. “Clever girl!”
+“Daaaaamn! Clever girl!”
 </p>
 <p>
 “I know, right? Must’ve hurt like the Devil, with the fire on her wrists, but it worked. By the time I noticed, she’d already got her hands free, and she made a run for it before I could stop her.”
@@ -450,13 +450,13 @@ The men laughed. Moisture condensed on their bodies and beaded with their sweat.
 One of them asked tentatively, “Hey, do you guys like it turned up this high?”
 </p>
 <p>
-They looked at the control board. A small black screen reported: <span class="computer"180°F (82°C)</span>.
+They looked at the control board. A small black screen reported: <span class="computer">212°F (100°C)</span>.
 </p>
 <p>
-“Yeah, that’s a little too high,” one conceded, and pressed a down-arrow button repeatedly until the screen displayed <span class="computer">120°F (49°C)</span>.
+“Yeah, that’s a little too high,” one conceded, and pressed a down-arrow button repeatedly until the screen displayed <span class="computer">158°F (70°C)</span>.
 </p>
 <p>
-They let a minute go by, but felt no improvement. All three began breathing a little bit more heavily.
+They let a minute go by, but felt no improvement. All three began breathing a little more heavily.
 </p>
 <p>
 “I thought you turned it down.”
@@ -465,16 +465,16 @@ They let a minute go by, but felt no improvement. All three began breathing a li
 “I did! Look!”
 </p>
 <p>
-The screen again showed <span class="computer">180°F (82°C)</span>.
+The screen again showed <span class="computer">212°F (100°C)</span>.
 </p>
 <p>
 “Idiot doesn’t know how to work the sauna.”
 </p>
 <p>
-“Shut up, asshole.” He punched it back down, watching the numbers descend until they again hit <span class="computer">120°F (49°C)</span>.
+“Shut up, asshole.” He punched it back down, watching the numbers descend until they again hit <span class="computer">158°F (70°C)</span>.
 </p>
 <p>
-The moment he took his finger away, the numbers immediately jumped back up to <span class="computer">180°F (82°C)</span>.
+The moment he took his finger away, the numbers immediately jumped back up to <span class="computer">212°F (100°C)</span>.
 </p>
 <p>
 “What the hell? Stupid piece of crap. I’ll go yell at someone about it.” He rose, wrapped his towel around his waist, and pushed on the door.
@@ -538,10 +538,10 @@ Tina’s voice politely responded, “We’re terribly sorry for the malfunction
 That was Danny’s cue.
 </p>
 <p>
-Danny stood in an undecorated emergency stairwell that ran down the full height of the building. His HERF gun was far away, stored safely in the security office where Sergey’s crew sat monitoring the captives. He picked up his toolbox, and with a deep breath that echoed off of the cinderblock walls, he opened an emergency exit door.
+Danny stood in an undecorated emergency stairwell that ran down the full height of the building. His HERF gun was far away, stored safely in the security office where Sergey’s crew sat monitoring the captives. He picked up his toolbox, and with a deep breath that echoed off the cinderblock walls, he opened an emergency exit door.
 </p>
 <p>
-He stepped out to a wide antechamber. One side of the room was a full plate window looking out at the nighttime skyline. The door to the penthouse elevator sat closed next to the emergency exit on one end of the passageway. On the other, a large cedarwood double door stood ominously before him.
+He stepped out to a wide antechamber. One side of the room was a full plate window overlooking the nighttime skyline. The door to the penthouse elevator sat closed next to the emergency exit on one end of the passageway. On the other, a large cedarwood double door stood ominously before him.
 </p>
 <p>
 Danny shook his head and arms limply to force himself to relax, and tapped his knuckles on the door. He stood patiently, toolbox in hand, waiting for a response.
@@ -550,19 +550,19 @@ Danny shook his head and arms limply to force himself to relax, and tapped his k
 There was shouting in Russian. After a few long moments, a lithe, aggressive man opened the door. He wordlessly bobbed his head to the side, motioning for Danny to come in.
 </p>
 <p>
-The air in the suite was irritatingly cold. A fierce draft blew strongly enough to make hair wave and clothes billow. The balcony’s French doors had been opened in an attempt to let out the cold. On the balcony, a few leather-jacketed men and barely-dressed women smoked and chatted in the outdoor air. Inside, a small group played <em>Call of Duty</em> on an enormous wall-mounted TV in a sunken living room. On the glass coffee table, somebody had thrown a hotel towel over a large crystalline bowl. He saw no weapons out in the open, but he had no doubt they were close at hand.
+The air in the suite was irritatingly cold. A fierce draft blew strongly enough to make hair wave and clothes billow. The balcony’s French doors had been opened in an attempt to let out the cold. On the balcony, a few leather-jacketed men and barely dressed women smoked and chatted. Inside, a small group played <em>Call of Duty</em> on an enormous wall-mounted TV in a sunken living room. On the glass coffee table, somebody had thrown a hotel towel over a large crystalline bowl. He saw no weapons out in the open, but he had no doubt they were close at hand.
 </p>
 <p>
 No twelve-year-old girl was anywhere to be seen. He did, however, see Ivan Zheleznov.
 </p>
 <p>
-The man descended the spiral staircase like a hawk swooping down on a field mouse. He wore a fine three-piece suit and slicked-back silver hair. Despite being the oldest and physically weakest man in the room, his presence imposed a greater sense of immediate peril than any of his bodyguards.
+The man descended the spiral staircase like a hawk swooping down on a field mouse. He sported a fine three-piece suit and slicked-back silver hair. Despite being the oldest and physically weakest man in the room, his presence imposed a greater sense of immediate peril than any of his bodyguards.
 </p>
 <p>
-“You come to fixing the air, yes?” he said in a gravelly, impatient voice.
+“You come to fixing the air, yes?” he verified in a gravelly, impatient voice.
 </p>
 <p>
-Danny found the thermostat on the wall, walked up to it, and pretended to fiddle for a few seconds. “The thermostat looks fine. I think there’s a loose heating element somewhere near the sensor,” Danny bluffed. “I’ll need to check your ducts.”
+Danny found the thermostat on the wall, walked up to it, and pretended to fiddle for a few seconds. “The thermostat looks fine. There must be a loose heating element somewhere near the sensor,” he bluffed. “I’ll need to check your ducts.”
 </p>
 <p>
 He scanned the walls, and found an air vent near the ceiling. He marched toward it with as much bravado as he could muster, and pulled a chair over so he could stand on it for a closer look. The vent was about two feet wide and a foot tall. The frosty air blasted him in the face as he looked inside the faceplate, blowing around his helmet and across his ears. Holding his head level with the opening, he turned to check the view of the room. He could see most of the open downstairs area of the penthouse. This vent would serve him well.
@@ -574,7 +574,7 @@ With the help of a screwdriver from his toolbelt, he removed the grating. He spe
 “It, uh, looks like the ventorical airfoil router is jammed,” he said. He turned to study the expressions of the Russians. They remained emotionless.
 </p>
 <p>
-The rest of his work would have to be done by sleight-of-hand.
+The rest of his work would require sleight of hand.
 </p>
 <p>
 Danny picked up his toolbox and brought it up to the vent. The opening was big enough for him to rest the toolbox partway in the air duct, obscuring his hands from the watchful eyes of Ivan and his men. Danny cracked the lid open and rummaged noisily through the box’s contents. Metallic echoes reflected back at him in the flowing air.
@@ -592,13 +592,13 @@ From his Bluetooth earpiece, Mike’s voice replied in tinny tones. “Right now
 Danny said under his breath, “Every second I’m here is a second too long. Mike, prepare to cut the air in five.” He gave the Sticky Tack one last gentle tug to make sure the camera was affixed securely, and took a deep breath. In one quick motion, he pulled his toolbox out of the vent and put the faceplate back over the opening, praying that he was fast enough to keep the Russians from seeing what he had installed behind it. He screwed the grate into place. His fingers shivered as he worked, but not from the cold. He couldn’t quite get the threads on the screws to align.
 </p>
 <p>
-As he fiddled with the cover, the wind blowing from the air vent abruptly died. A quiet stillness fell upon the room.
+As he fiddled with the cover, the air vent’s gale died, leaving a quiet stillness to the room.
 </p>
 <p>
-Danny climbed down from the chair. “Well, it appears my work here is done. Have a good day, gentlemen.” He gave Ivan a courteous nod. The balconyfolk began to file back inside.
+Danny climbed down from the chair. “Well, it appears my work here’s done. Have a good day, gentlemen.” He gave Ivan a courteous nod. The balconyfolk began filing back inside.
 </p>
 <p>
-Danny’s instincts urged him to sprint out of the room, but he forced himself to maintain a professional facade. With toolbox in hand, he walked calmly toward the large cedarwood doors that stood between him and the penthouse anteroom.
+He suppressed the urge to sprint from the room, policing his nervers in the name of professional façade, and survival. Toolbox in hand, he walked calmly toward the large cedarwood doors that stood between him and the penthouse anteroom.
 </p>
 <p>
 And he had almost reached it before he heard a sound behind him.

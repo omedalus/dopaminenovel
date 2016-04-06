@@ -3,13 +3,13 @@
 <span class="caplead">Beneath a star-filled sky, Jason’s yacht</span> rocked gently on wind-driven waves. “Can you make the boat hold still?” Danny insisted.
 </p>
 <p>
-“It’s on water. It’s as still as it’s going to get,” said Jason from the helm. “Can you even hit anything from all the way out here?”
+“It’s on water. It’s as still as it’s going to get,” Jason countered from the helm. “Can you even hit anything from all the way out here?”
 </p>
 <p>
 “Oh yeah,” Danny replied as he braced his HERF gun against the yacht’s handrail. “I can boost the gain up to thirty decibels. Those Coast Guard radar stations along the shore? I can knock them out from half a mile away. But boosting tightens the beam, so I need to line it up just right…”
 </p>
 <p>
-Out past the HERF gun’s nozzle, across the the moonlit water, there spread the steep tree-lined banks of the Medina waterfront. And over that waterfront, dwarfing the personal mansions of tech tycoons, rose the twelve-story edifice of the Medina Gallante. Its windows formed checkerboard patterns of iridescent green. Cobblestone pillars buttressed cedar balcony awnings. At the base of the hotel, a private wharf jutted out into the lake.
+Out past the HERF gun’s nozzle, across the moonlit water, spread the steep tree-lined banks of the Medina waterfront. And over that waterfront, dwarfing the personal mansions of tech tycoons, rose the twelve-story edifice of the Medina Gallante. Its windows formed checkerboard patterns of iridescent green. Cobblestone pillars buttressed cedar balcony awnings. At the base of the hotel, a private wharf jutted out into the lake.
 </p>
 <p>
 “This is exactly what this device is designed for,” Danny explained as he made adjustments. “I built it during Claymore’s contract with Naval Base Kitsap. I told the Navy they needed to harden their electronics against directed electromagnetic pulses. They laughed and said that EMPs are, um, ‘sci-fi hootenanny’, were their exact words. Well, I told them, ‘Give me a high-power magnetron, and I’ll show you hootenanny.’ They did, just to humor me. And when I came back and demonstrated this device to prove my point, they were surprisingly displeased…”
@@ -30,10 +30,10 @@ Danny nodded. “Fried to a crisp. They’ll no doubt send a repair crew in the 
 “Alright then. I’ll take her in. Slowly. You go update the team.” Jason tapped the controls of the cherrywood console. A vibration quaked across the yacht. Water burbled behind the vessel.
 </p>
 <p>
-Danny made his way across topside, and descended the stairs to the wood-paneled compartment where he had first met Mike and Moshen playing <em>Dungeons &amp; Dragons</em> the previous day. Upon the lacquered table sat several laptops, their screens showing floor plans, emails, and code. Freshly purchased cellphones and Bluetooth headsets lay on the leather bench seats.
+Danny made his way across topside, and descended the stairs to the wood-paneled compartment where he had first met Mike and Moshen playing <em>Dungeons &amp; Dragons</em> the previous day. Upon the lacquered table sat several laptops, their screens showing floor plans, emails, and code. Freshly purchased cellphones and Bluetooth headsets lay on the leather benches.
 </p>
 <p>
-A television on the room’s rear wall displayed the faces of Danny’s teammates in neatly tiled teleconference windows. In one corner, he could see Tina tending to glassware in his kitchen. Mike and Natalie shared a feed from the hospital room, and bantered in obnoxiously cute tones. A small icon represented Moshen, available only by voice.
+The television on the room’s rear wall displayed the faces of Danny’s teammates in neatly tiled teleconference windows. In one corner, he could see Tina tending to glassware in his kitchen. Mike and Natalie shared a feed from the hospital room, and bantered in obnoxiously cute tones. A small icon represented Moshen, available only by voice.
 </p>
 <p>
 “Guys,” Danny announced. “It’s happening.”
@@ -42,7 +42,7 @@ A television on the room’s rear wall displayed the faces of Danny’s teammate
 Mike responded, “I’m ready to probe their network as soon as you open a back door. Did you finish the trojan?”
 </p>
 <p>
-Danny held up a USB thumb drive, and nodded. “While poking through the RockBox source code, I found a weakness in the integration of their billing system. It was built by a different contractor than the security system. By themselves, both billing and security are pretty solid. But their connection is sloppy. I managed to write a rootkit that exploits the flaw. As soon as this program runs on a computer that accesses the Gallante’s billing system, we take complete control.”
+Danny held up a USB thumb drive, and nodded. “Poking through the RockBox source code, I found a weakness in the integration of their billing system. It was built by a different contractor than the security system. By themselves, both billing and security are pretty solid. But their connection is sloppy. I managed to write a rootkit that exploits the flaw. As soon as this program runs on a computer that accesses the Gallante’s billing system, we take complete control.”
 </p>
 <p>
 “But how do you plan to get that rootkit onto one of their computers in the first place?” asked Mike. “Remote access is not an option &mdash; you won’t be able to get it past their network firewall.”
@@ -54,10 +54,10 @@ Danny held up a USB thumb drive, and nodded. “While poking through the RockBox
 “In person? Danny, you’ll be on your own in there at first. We can’t help you until that trojan is deployed. You’ll have to stay out of sight.”
 </p>
 <p>
-“Don’t worry. I’ve got that covered. I went and got myself…” He held up a laundry bag. From its open top hung a brown shirtsleeve. “…an invisibility suit.”
+“Don’t worry. I’ve got that covered. I went and got myself&mdash;” He held up a laundry bag. A brown shirtsleeve dangled from its open top. “&mdash;an invisibility suit.”
 </p>
 <p>
-“Speaking of visibility,” said Mike. “I’ve taught Nat-Nat how to work the camera feeds. She’ll be your eyes and ears.”
+“Speaking of visibility,” Mike added. “I’ve taught Nat-Nat how to work the camera feeds. She’ll be your eyes and ears.”
 </p>
 <p>
 Moshen’s voice chimed in. “‘Nat-Nat’? You call her ‘Nat-Nat’? What does she call you? ‘Snugglewumpus’?”
@@ -105,7 +105,7 @@ She replied with a tired half-smile, “I’ve been Betty Crockering all day. I�
 “What does that mean?” she asked.
 </p>
 <p>
-“You know, like Uhura from Star Trek.”
+“You know, like Uhura from <em>Star Trek</em>.”
 </p>
 <p>
 “Which means…?” she repeated.
@@ -135,7 +135,7 @@ The rumble of the yacht’s engines cut out.
 “It’s go-time, guys,” said Danny.
 </p>
 <p>
-Behind him, Jason descended into the cabin. “The ship’s docked. Danny, try not get killed. Come back here when you’re ready for extraction. I’ll be waiting.”
+Behind him, Jason descended into the cabin. “The ship’s docked. Danny, try not to get killed. Come back here when you’re ready for extraction. I’ll be waiting.”
 </p>
 <p>
 “Actually, Jason, there’s a very important task that I need you to handle.”

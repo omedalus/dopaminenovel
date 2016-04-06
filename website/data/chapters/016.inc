@@ -30,7 +30,7 @@ Fortunately, the Byzantine General had downloaded a PDF of an article by Lamport
 “Wait, <em>what</em>?” said Jason.
 </p>
 <p>
-“I know, right? It sounds inefficent. But you can implement the recursion with a hierarchical distribution scheme!” Danny explained. “The runtime is just O-of-n-log-n. Pretty cool, huh?”
+“I know, right? It sounds inefficient. But you can implement the recursion with a hierarchical distribution scheme!” Danny explained. “The runtime is just O-of-n-log-n. Pretty cool, huh?”
 </p>
 <p>
 Jason shook his head. “I think you lost me somewhere between ‘trebuchet’ and ‘algorithm’.”
@@ -45,7 +45,7 @@ Jason shook his head. “I think you lost me somewhere between ‘trebuchet’ a
 “Of course,” said Danny. “And the hackers can inject messages into your network, or even take control of your servers.”
 </p>
 <p>
-“And what’s is the city supposed to be?” Jason asked.
+“And what’s <em>the city</em> supposed to be?” Jason asked.
 </p>
 <p>
 “It’s… um… Actually, I have no idea.”
@@ -57,7 +57,7 @@ Jason shook his head. “I think you lost me somewhere between ‘trebuchet’ a
 “The city’s not important,” said Danny. “The battle plan is. That’s the part with the math.”
 </p>
 <p>
-Jason laughed at him. “The city’s the whole point of the invasion! A fat lot of good a battle plan does you if you don’t know what you’re fighting for.”
+Jason laughed. “The city’s the whole point of the invasion! A fat lot of good a battle plan does you if you don’t know what you’re fighting for.”
 </p>
 <p>
 “I think you’re missing the point of the analogy.”
@@ -69,7 +69,7 @@ Jason laughed at him. “The city’s the whole point of the invasion! A fat lot
 They sat in Jason’s bullet-pocked Lincoln Navigator, parked behind a chain-link fence in a gravel-strewn lot along Seattle’s southward industrial expanse. Around them sprawled blocks of squat storage spaces known as “fulfillment houses”, the integral middlemen who ensured that every cardboard-boxed package from Amazon or Microsoft or Nordstrom would get to its delivery address. To the north loomed the immense steel cranes of the Port of Seattle. This sector of the city was alive even at this time of night; the cranes swung over cargo ships, the railroad rumbled, and trucks docked in loading zones like bees at a hive. Underlying the Emerald City’s success as a hub of technology was the geography of Elliott Bay. She was a port city, and every night ten million consumer goods had to roll out by sunrise.
 </p>
 <p>
-Danny sat in the passenger seat, looking at his cellphone and giggling. Moshen was sending him forwards of every email, keeping him in the loop. Danny had a front-row seat to the chaos that his teammates were sowing at that very moment.
+Danny sat in the passenger seat, watching his cellphone and giggling. Moshen was sending him forwards of every email, keeping him in the loop. Danny had a front-row seat to the chaos that his teammates were sowing at that very moment.
 </p>
 
 <div class="computer email">
@@ -79,7 +79,7 @@ Hey guys. Lost my phone. Sorry. Burn the number.
 </div>
 
 <p>
-That email had been real. Eugene had sent it a half hour prior. It was delivered to a long list of recipients, many with Spanish names, many just initials, and a few with monikers like “4 Shizzy” or “Wheel Bone” or “Booty Fresh”.
+That email had been real. Eugene had sent it a half hour prior to a long list of recipients. Many had Spanish names, many just initials, and a few had monikers such as “4 Shizzy” or “Wheel Bone” or “Booty Fresh”.
 </p>
 
 <div class="computer email">
@@ -285,7 +285,7 @@ Hey that’s a good point. How do we even know it was the real Sergey that calle
 As Danny read the emails coming in, he did his best to refrain from guffawing like a tickled hyena. He failed.
 </p>
 <p>
-“Things going according to plan?” Jason asked him.
+“Things going according to plan?” Jason asked.
 </p>
 <p>
 “I think we broke the mob!” Danny chortled.
@@ -297,7 +297,7 @@ Jason took a breath. “You feeling ready to go in?”
 Danny nodded. “Don’t get us killed, okay?”
 </p>
 <p>
-“Let me do all the talking,” said Jason, “and I think we’ll be alright. Now, you’re sure we got all my insurance papers and license info out of here back on Pill Hill?”
+“Let me do all the talking and I think we’ll be alright. Now, you’re sure we got all my insurance papers and license info out of here?”
 </p>
 <p>
 “Yep, I left everything with Natalie,” Danny said. “This car’s as clean as a hard drive inside a tokamak.”
@@ -312,7 +312,7 @@ Jason blinked at him.
 “Good. I don’t want a repeat of what happened to Tina. Maybe we should slap mud on my license plate or something, too?”
 </p>
 <p>
-“That won’t be necessary,” said Danny.
+“That won’t be necessary.”
 </p>
 <p>
 “Why not? Because you don’t think the Russian mob can hack into the Department of Motor Vehicles?”
@@ -324,13 +324,13 @@ Jason blinked at him.
 “Oh,” Jason said with a frown. “Alright. Well, then. Let’s get started.”
 </p>
 <p>
-Jason turned the Navigator’s ignition. But before driving, he ran his hands through his hair and ruffled up his gelled strands. He looked at himself in the Navigator’s rearview mirror, drew several long breaths, and stared deeply into his own eyes. He kept his gaze for almost a minute, and in that time his face changed subtly. 
+Jason turned the Navigator’s ignition. But before driving, he ran his hands through his hair and ruffled up his gelled strands. He found his reflection in the Navigator’s rearview mirror, drew several long breaths, and stared deeply into his own eyes. He kept his gaze for almost a minute, and in that time his face changed subtly. 
 </p>
 <p>
 Danny found the prolonged silence awkward. “We gonna go…?”
 </p>
 <p>
-Jason turned to Danny, and glared at him contemptuously. His wrinkle-framed eyes looked dark. Brooding. Strong. And <em>mean</em>. “I told you to keep your mouth shut!” he snarled with a voice half an octave lower than usual. “Don’t make me tell you again.” With that, he set his face forward and put the car into gear.
+Jason glared at him contemptuously. His wrinkle-framed eyes looked dark. Brooding. Strong. And <em>mean</em>. “I told you to keep your mouth shut!” he snarled with a voice half an octave lower than usual. “Don’t make me tell you again.” With that, he set his face forward and put the car into gear.
 </p>
 <p>
 They drove along a small gray road that served as a tributary for East Marginal Way. The road wound through the busy spaces between the fulfillment houses, abuzz with workmen loading boxes onto trucks. The car drove slowly, adhering carefully to the route on Jason’s GPS unit. The activity around them dwindled as they headed deeper into the industrial complex. 
@@ -345,7 +345,7 @@ The headlights of the SUV illuminated the dark figure far in the alley, sitting 
 Jason showed no apprehension. He pulled to a stop just a few yards short of the man, and turned on the car’s cabin lights.
 </p>
 <p>
-“Private property!” the guard said forcefully, his eyes glowing starkly in the SUV’s headlights. “Turn around.” Jason cut the engine and stepped out slowly, keeping his hands visible. 
+“Private property!” the guard warned, his eyes glowing starkly in the SUV’s headlights. “Turn around.” Jason cut the engine and stepped out slowly, keeping his hands visible. 
 </p>
 <p>
 The guard lifted the blocky gun. “You got ‘til the count of three. One…”
@@ -354,16 +354,16 @@ The guard lifted the blocky gun. “You got ‘til the count of three. One…”
 Jason stood beside the car and said, “Eugene’s been shot.”
 </p>
 <p>
-The man’s eyes widened. “What?”
+The man’s eyes expanded. “What?”
 </p>
 <p>
 “The lab had heavy night security,” said Jason, his voice gritty. “Things got ugly back there.” 
 </p>
 <p>
-“The bitch said they had nothing,” the man said tensely.
+“The bitch said they had nothing,” the man replied tensely.
 </p>
 <p>
-“The bitch lied,” said Jason. “Eugene’ll be alright. Sergey’s got someone patching him up. But we barely got out alive.”
+“The bitch lied,” Jason growled. “Eugene’ll be alright. Sergey’s got someone patching him up. But we barely got out alive.”
 </p>
 <p>
 “Who the fuck are you?” 
@@ -387,7 +387,7 @@ The guard lowered the gun. “She’s been crashing for like a week straight. Bu
 “Just Rex,” replied the guard. “Look, I gotta call the boss-man about you.”
 </p>
 <p>
-“Haven’t you been seeing the emails?” Jason said. “He burned his phone and called lockdown. No cellphone or email. He says the feds are monitoring our communications.”
+“Haven’t you been seeing the messages?” Jason said. “He burned his phone and called lockdown. No phones or emails. He says the feds are monitoring our communications.”
 </p>
 <p>
 The guard said nothing, weighing his options.
@@ -417,7 +417,7 @@ Danny froze. He stood facing the guard, carrying the HERF gun slung over one sho
 Jason cut him off. “Please cut Diggitty some slack. He’s a little… slow, if you know what I mean. Actually, slow’s not right. He’s great with machines and computers, but you make him talk to a human being and he practically pisses his pants.”
 </p>
 <p>
-Danny tried to say something. His feelings told him to protest but his brain told him to play into Jason’s improv role. He ended up just opening and closing his mouth a few times, which coincidentally made a believable display of mental deficiency.
+Danny tried to respond. His feelings demanded that he protest, but his brain implored him to play into Jason’s improv role. He ended up just opening and closing his mouth a few times, which coincidentally made a believable display of mental deficiency.
 </p>
 <p>
 The guard looked Danny up and down, and his hostile expression faded. “This one buddy of mine back in school, he had a kid brother like that. Autistic, right?”
@@ -444,10 +444,10 @@ The black metal stairs ran straight along the outside of the building’s brick 
 Jason ascended the long stairs and knocked. Locks clicked open, and the door swung inward.
 </p>
 <p>
-“Who the hell are you?” came a croaking, grizzled male voice from inside.
+“Who the hell are you?” a grizzled male voice croaked from inside.
 </p>
 <p>
-The door opened to a dim office room, illuminated solely by a monitor. The room was dominated by a desk, mostly empty save for the computer and some random papers. The wall along the desk was built of plate glass windows overlooking a large dark area. The adjacent wall abutted a tiny bathroom. Across from the entrance was a pale blue door, apparently the only other way out. 
+The door opened to a dim office room, illuminated solely by a monitor and dominated by a desk. It was mostly empty save for the computer and some random papers. The wall along the desk was built of plate glass windows overlooking a large dark area. The adjacent wall abutted a tiny bathroom. Across from the entrance was a pale blue door, apparently the only other way out. 
 </p>
 <p>
 “You’re Rex, right?” said Jason. “Sergey sent us. We’ve got stuff for the lab.”
@@ -465,13 +465,10 @@ Rex bolted forward excitedly.
 “It’s not doing too good,” said Jason as he entered. Danny followed, closing the front door behind him. “It’s been out of a freezer for a couple hours now. She needs to look at it fast.”
 </p>
 <p>
-“I’ll wake her up,” said Rex. 
+“I’ll wake her up.” Rex rolled his wheelie-chair to the far wall and flipped a switch. In the dark space beyond the wide windows, large gymnasium-style lighting fixtures hanging from the ceiling flickered to life. 
 </p>
 <p>
-Rex rolled in his wheelie-chair to the far wall and flipped a light switch. In the dark space beyond the wide windows, large gymnasium-style lighting fixtures hanging from the ceiling flickered to life. 
-</p>
-<p>
-They illuminated a concrete floor twenty feet below, between walls of cinder-block and brick. The industrial space was big enough for a warehouse or machine shop, and extended beneath the overhanging office. Packing peanuts and torn-open cardboard boxes lay strewn around the floor. Throughout the room was a widely spread, haphazardly arranged array of chemistry and biology equipment, including racks of beakers and tubes, warning-labeled canisters of liquids, and machinery that looked like dishwashers, ovens, refrigerators, and water coolers.
+They illuminated a concrete floor twenty feet below, between walls of cinder-block and brick. The industrial space, big enough for a warehouse or machine shop, extended beneath the overhanging office. Packing peanuts and torn-open cardboard boxes lay strewn around the floor. Throughout the room was a widely spread, haphazardly arranged array of chemistry and biology equipment, including racks of beakers and tubes, warning-labeled canisters of liquids, and machinery that looked like dishwashers, ovens, refrigerators, and water coolers.
 </p>
 <p>
 The blond man stomped loudly. The sharp pounding of his boot resounded through the industrial space.
@@ -480,16 +477,16 @@ The blond man stomped loudly. The sharp pounding of his boot resounded through t
 “Rise and shine, princess!” he called out. 
 </p>
 <p>
-A faint shuffling noise rose from somewhere beneath the floor. “Fuck off,” a young woman’s voice groaned from below.
+A faint shuffling noise rose from somewhere beneath the floor. “Fuck off,” a girl’s voice groaned from below.
 </p>
 <p>
 “Move it, bitch! You know the drill,” he commanded. “Out where I can see you.”
 </p>
 <p>
-There was movement below. Out from the space underneath the office room emerged a young Asian woman. She was dressed in an ill-fitting t-shirt, sweatpants, and bunny slippers. She had a bruised lip, but otherwise seemed unhurt. She walked to a corner of the factory clearly visible from the open windows of the office above. 
+There was movement below. Out from the space underneath the office room emerged a young Asian woman. She was dressed in an ill-fitting T-shirt, sweatpants, and bunny slippers. She had a bruised lip, but otherwise seemed unhurt. She walked to a corner of the factory clearly visible from the open windows of the office above. 
 </p>
 <p>
-“Good girl! Stay!” Rex shouted down to her. He put his earbuds back in, and muttered, “She’s all yours,” before resuming the video on his computer.
+“Good girl! Stay!” Rex shouted down to her. He put his earbuds back in, muttering, “She’s all yours,” before resuming the video on his computer.
 </p>
 <p>
 Jason opened the door on the other side of the room, revealing an interior stairwell. Danny followed Jason down to the factory floor below.

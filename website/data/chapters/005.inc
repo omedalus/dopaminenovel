@@ -3,7 +3,7 @@
 <span class="caplead">The pincer arm slid along the BioTek Microplate Stacker’s</span> sleek body, holding a clear rectangular plate. The plate’s surface was pitted with a grid of a hundred small round wells, each one filled with pale yellowish-brown fluid. The Stacker handed the plate off to a Synergy Microplate Reader, which drew it into a dark slot. Its payload deposited, the Stacker rose toward a vertical tower of identical plates, its pincers rotating to grab the next set of samples.
 </p>
 <p>
-Tina Giordano batted a lock of her unkempt dark hair out of her eyes and focused on a computer terminal beside the Reader. Laboratory robots whirred around her as she studied the console. Centrifuges spun. Pipettes trickled thin streams of fluid. Gantries and belts carried plates among devices that heated the samples; cooled them; titrated them; aspirated them; sealed them beneath plastic film; and affixed them with printed labels. With their smooth plastic contours and modular mechanical assembies, the machines reminded Tina of mutant Xerox office printers.
+Tina Giordano batted a lock of her unkempt dark hair out of her eyes and focused on a computer terminal beside the Reader. Laboratory robots whirred around her as she studied the console. Centrifuges spun. Pipettes trickled thin streams of fluid. Gantries and belts carried plates among devices that heated the samples; cooled them; titrated them; aspirated them; sealed them beneath plastic film; and affixed them with printed labels. With their smooth plastic contours and modular mechanical assemblies, they reminded Tina of mutant Xerox office printers.
 </p>
 <p>
 On the far side of the laboratory, two white-coated figures, a man and a woman, stood beside a whiteboard. Both were older than Tina by at least two decades. Over the gentle humming and clicking of the machinery, she could hear them talking in flustered tones.
@@ -21,13 +21,13 @@ On the far side of the laboratory, two white-coated figures, a man and a woman, 
 “Of what? Losing our funding?”
 </p>
 <p>
-“I think so,” he said. “He told the Consortium that we’d have results by now. They’re coming to see for themselves.”
+“Yeah. He told the Consortium that we’d have results by now. They’re coming to see for themselves.”
 </p>
 <p>
-“Yeah. We were supposed to have results a month ago. It doesn’t make sense. The Reader logs reported expression of the full pathway in one batch several weeks back.”
+“We were <em>supposed</em> to have results a month ago. It doesn’t make sense. The Reader logs reported expression of the full pathway in one batch several weeks back.”
 </p>
 <p>
-“The Reader’s spewing out false positives,” he said with a frown. “We’ve got over a week’s worth of backlog for manual testing.”
+“The Reader’s spewing out false positives,” the man said with a frown. “We’ve got over a week’s worth of backlog for manual testing.”
 </p>
 <p>
 “Isn’t that what the intern’s for? Where is she, anyway?”
@@ -39,25 +39,25 @@ On the far side of the laboratory, two white-coated figures, a man and a woman, 
 “Well… shit,” the woman sighed. “Just how high of an error rate are we dealing with here?”
 </p>
 <p>
-The man replied. “Too damn high…”
+The man replied, “Too damn high…” as they they both turned their heads toward the machinery.
 </p>
 <p>
-They both turned to look at the machinery. The woman exclaimed, “Tina!?”
+The woman exclaimed, “Tina!?”
 </p>
 <p>
 Tina jumped, and looked up apologetically from the console.
 </p>
 <p>
-The woman stared at her with suspicion. “What are you doing here?”
+“What are you <em>doing here</em>?”
 </p>
 <p>
-Her tone almost made Tina back away. But a final glance at the screen convinced her to stand her ground. “Your reporter. You’re using gfp, right? Why wouldn’t you just use a selectable marker? CAT is standard for <em>E. coli</em>, isn’t it?”
+Tina started to back away, but a final glance at the screen convinced her to stand her ground. “Your reporter. You’re using gfp, right? Why wouldn’t you just use a selectable marker? CAT is standard for <em>E. coli</em>, isn’t it?”
 </p>
 <p>
-The man mumbled, “The mother strain is already immune to chloramphenicol, Tina.”
+The man mumbled dismissively, “The mother strain is already immune to chloramphenicol, Tina.”
 </p>
 <p>
-Tina looked at the plastic plates being handled by the robotic arms. “I just… I have a question,” she said innocently. “If you’re using gfp as a reporter, then that means you’re testing these assays for fluorescence, right?”
+Tina watched the plastic plates being handled by the robotic arms. “I just… I have a question. If you’re using gfp as a reporter, then that means you’re testing these assays for fluorescence, right?”
 </p>
 <p>
 The woman rolled her eyes. “Yes, Tina. That’s what <em>green fluorescence protein</em> means.”
@@ -66,10 +66,10 @@ The woman rolled her eyes. “Yes, Tina. That’s what <em>green fluorescence pr
 “So this microplate reader… It shines a specific color of light on a plate of samples, and uses camera-type-things to check if each assay is, like, ‘reflecting’ some <em>different</em> color of light. Right?”
 </p>
 <p>
-“That <em>is</em> how fluorescence reading works,” the woman replied sardonically.
+“That <em>is</em> how fluorescence reading works.”
 </p>
 <p>
-“Thanks. So, then, can you explain to me…” She grabbed an empty plate off of one of the machines and waved it in front of her face, looking at the two scientists through the clear plastic. “…why the hell you guys would use <em>transparent microplates</em>?”
+“Thanks. So, then, can you explain to me…” She grabbed an empty plate from one of the machines and waved it before her face, looking at both scientists through the clear plastic. “…why the hell you guys would use <em>transparent microplates</em>?”
 </p>
 <p>
 The man shrugged. “The clear ones are cheap. We had a huge supply of them down in the stockroom.”
@@ -81,13 +81,13 @@ The man shrugged. “The clear ones are cheap. We had a huge supply of them down
 The man’s eyes widened. “Well-to-well crosstalk!”
 </p>
 <p>
-“Exactly!” Tina nodded. “Which would lead to…”
+“Exactly!” Tina declared. “Which would lead to &mdash;”
 </p>
 <p>
 The man facepalmed. “False positives. Of course. We didn’t even think of something so basic…”
 </p>
 <p>
-“Instead of reporting uptake in <em>one</em> sample,” said Tina, “the reader will report uptake in <em>nine</em> of them. So what you get is…”
+“Instead of reporting uptake in <em>one</em> sample,” said Tina, “the reader will report uptake in <em>nine</em> of them. So what you get is &mdash;”
 </p>
 <p>
 The woman interrupted her, “What you get is way above your pay grade, Tina. You’re not even authorized to be in this lab.”
@@ -96,10 +96,10 @@ The woman interrupted her, “What you get is way above your pay grade, Tina. Yo
 Tina’s jaw dropped. “Really?”
 </p>
 <p>
-The man said, “Tina, this <em>is</em> a restricted area. We work with scheduled substances here, not to mention volatile chemicals and potentially dangerous microorganisms…”
+The man said, “Tina, this <em>is</em> a restricted area. We work with scheduled substances here, not to mention volatile chemicals and potentially dangerous microorganisms &mdash;”
 </p>
 <p>
-Tina shot him a look. “I’m fully aware of what you work with here. I’m the one that mails out the OSHA forms, remember? And I know all your safety protocols because I’m the one that prints your memos…”
+Tina silenced him with her glare. “I’m fully aware of what you work with here. I’m the one that mails out the OSHA forms, remember? And I know all your safety protocols because I’m the one that prints your memos &mdash;”
 </p>
 <p>
 The woman sneered, “That’s great, but mailing forms and printing memos doesn’t make you a scientist.”
@@ -111,16 +111,16 @@ The man nodded. “You really should be back at the front desk.”
 Tina’s gaze traveled from the two microbiologists, to the console, to the laboratory equipment, and finally to the floor. Biting her lip, she shuffled out of the room.
 </p>
 <p>
-“Oh, and, Tina?” the man called as she reached the doorway. “Could you please put in a thousand-unit rush order for 96-well microplates in polystyrene carbon black? Thanks.”
+“Oh, and, Tina?” the man called as she reached the doorway. “Could you please put in a thousand-unit rush order for 96-well microplates in opaque polystyrene carbon black? Thanks.”
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">Tina’s desk occupied a brightly lit lobby</span> between two sets of glass doors, both frosted with a large letter “W”, the chemical symbol for the element tungsten. Her black cardigan hung draped over her armless swivel chair. Like a pithed laboratory animal, she dropped her body limply down onto the pneumatic-spring seat and got back to work.
+<span class="caplead">Tina’s desk occupied a brightly lit lobby</span> between two sets of glass doors, both frosted with a large letter “W”, the chemical symbol for the element tungsten. Her black cardigan hung draped over her armless swivel chair. Like a pithed laboratory animal, she crumpled into the pneumatic-spring seat and got back to work.
 </p>
 <p>
-Several new email messages greeted her in her Thunderbird inbox. Only one, however, was significant: a rare note of validation from her boss involving the imminent babysitting of some hotshot international gazillionaire. 
+Several emails had landed in her Thunderbird inbox. Only one, however, was significant: a rare note of validation from her boss involving the imminent babysitting of some hotshot international gazillionaire. 
 </p>
 
 <div class="computer email">
@@ -156,22 +156,19 @@ This is acceptable.<br/>
 </div>
 
 <p>
-It wasn’t exactly an Employee of the Year award, but Tina knew it was the closest thing to praise that she was likely to get.
+It wasn’t exactly an Employee of the Year award, but Tina knew it was the closest thing to praise she would ever get.
 </p>
 <p>
-The rest of the emails were pure spam. Solicitations from some web design company called Prismatic Creations cluttered her inbox, each with a colorful logo plastered across the top. They gave some spiel about updating Tungsten’s “corporate identity” to give the company a fresh look-and-feel to better resonate with today’s competitive blah blah blah. After reading one, she deleted them without a second thought.
+The rest of the emails were pure spam. Solicitations from some web design company called Prismatic Creations cluttered her inbox, each with a colorful logo plastered across the top. They gave some spiel about updating Tungsten’s “corporate identity” to give the company a fresh look-and-feel “to better resonate” with today’s competitive blah blah blah. After reading one, she deleted them without a second thought.
 </p>
 <p>
-With her inbox clear, she un-minimized her Facebook window. Her friend Natalie had posted some photos of a dreamcatcher that she’d woven from her own hair. Tina gave her scrollwheel a flick, and sank into a status-update-reading trance. Seconds or hours drifted mindlessly by.
+With her inbox clear, she un-minimized her Facebook window. Her friend Natalie had posted some photos of a dreamcatcher that she’d woven from her own hair. Tina flicked her scroll wheel and sank into a status-update-reading trance. Seconds or hours drifted mindlessly by.
 </p>
 <p>
 When duty called again, it took the form of a FedEx man carrying a cardboard box the size of a suitcase. A small green light above the front door card-reader lit up as she buzzed him in. The package was from Newegg.com. It was addressed to Roger Tanner.
 </p>
 <p>
-Tina cringed, and felt the taste of sour milk welling up in her throat.
-</p>
-<p>
-She picked up her iPhone and willed her fingers to type out, “<span class="computer">Roger. Package for u. Come get.</span>” 
+Tina cringed, and felt the taste of sour milk welling up in her throat. Taking her iPhone, she commanded her fingers to type, “<span class="computer">Roger. Package for u. Come get.</span>” 
 </p>
 <p>
 She spent the next several minutes staring at the box, trying to wish it away.
@@ -183,46 +180,46 @@ A raucous conversation from the hallway announced Roger’s arrival. Roger’s t
 “I didn’t say <em>a word</em>! That’s the whole point!” he said cheerfully.
 </p>
 <p>
-“What, not even ‘Hi?’” asked one of the men. He sported a neatly-trimmed beard and a lab coat. “You just walked up to her out of the blue and, <em>bam!</em>, start making out?”
+“What, not even ‘Hi’?” asked one of the men. He sported a well-trimmed beard and a lab coat. “You just walked up to her out of the blue and &mdash; <em>bam!</em> &mdash; started making out?”
 </p>
 <p>
-“It wasn’t out of the blue,” said Roger. “We’d been eyeing each other across the bonfire for like ten minutes. We both knew what was up.” His eyes landed on the package beside Tina’s desk. He pulled a jingling keychain out of his back pocket and squatted beside the box. “She was there at the beach with a bunch of her friends,” he continued as he carved the cardboard open with a key, “and we were all sitting around the fire. Alki Beach gets kinda cold at night, you know, and this little blonde was wearing, like, <em>nothing</em> &mdash; a bikini bottom and half of a white t-shirt, right? Anyway, some guy was playing Spanish guitar, and we were passing a joint around… I’m telling you, you guys have <em>got</em> to come out to Alki one of these nights.”
+“It wasn’t out of the blue,” Roger parried. “We’d been eyeing each other across the bonfire for like ten minutes. We both knew what was up.” His eyes landed on the package by Tina’s desk. He pulled a jingling keychain out of his back pocket and squatted beside it. “She was there at the beach with a bunch of her friends.” He carved the cardboard open with a key. “Alki Beach gets kinda cold at night, you know, and this little blonde was wearing, like, <em>nothing</em> &mdash; a bikini bottom and half of a white t-shirt, right? Some guy was playing Spanish guitar, and we were passing a joint around… I’m telling you, you guys have <em>got</em> to come out to Alki one of these nights.”
 </p>
 <p>
-The other man, heavy-set and sloppily dressed, smiled. “We’re both married men, Roger. But it’s nice to see you kids having fun.”
+The other man, heavyset and sloppily dressed, smiled. “We’re both married men, Roger. But it’s nice to see you kids having fun.”
 </p>
 <p>
-With the box’s tape finally undone, Roger flipped open the top and reached inside with both hands. In a flurry of Styrofoam packing peanuts, he withdrew a dense black cube, slightly larger than a desktop computer and lined with slots, lights, and sockets. 
+The box’s tape finally undone, Roger flipped open the top and reached inside with both hands. In a flurry of Styrofoam packing peanuts, he withdrew a black cube lined with slots, lights, and sockets. 
 </p>
 <p>
 The man in the white coat asked, “Is that the big fancy hard drive you’ve been promising us?”
 </p>
 <p>
-Roger nodded excitedly as he examined the equipment. “It’s a forty-terabyte RAID. Think this’ll be enough storage space for you lab monkeys?”
+Studying his catch, Roger nodded with preteenish glee. “It’s a forty-terabyte RAID. Think this’ll be enough storage space for you lab monkeys?”
 </p>
 <p>
-The trim-bearded biologist nodded. “How soon can you connect it to the network?” 
+The trim-bearded biologist grunted his approval. “How soon can you connect it to the network?” 
 </p>
 <p>
 Roger stood up, cradling the device. “I’ll set up the NAS this afternoon. But whether any of your weird-ass mad scientist toys can talk to it or not… Well, that’s up to Don here.”
 </p>
 <p>
-The heavy-set man saluted. “I’ll get my boys setting up NFS support on the robot controllers as soon as that thing’s ready.”
+The heavyset man saluted. “I’ll get my boys setting up NFS support on the robot controllers as soon as that thing’s ready.”
 </p>
 <p>
 The biologist chuckled, “Forty terabytes. Try not to fill it up with pictures of your girlfriends, Roger!”
 </p>
 <p>
-“Oh! Speaking of pictures…!” Roger set the RAID down on Tina’s desk, and pulled out his phone. “This is the little hottie from the beach last night.”
+“Oh! Speaking of pictures…!” Roger set the RAID down on Tina’s desk and pulled out his phone. “This is the little hottie from the beach last night.”
 </p>
 <p>
-The two men gathered around the small screen. “She’s a knockout, alright,” said the technician. “What’s her name?”
+The two men gathered around the small screen. “She’s a knockout, alright,” the technician granted. “What’s her name?”
 </p>
 <p>
 “Oh, fuck if I know, man! Carrie? Kelly? Carley? Something like that.” He flipped through more photos.
 </p>
 <p>
-“Check it out. She’s got that thing with her fingernails…” The tech wiggled his own nicotine-stained fingers. “What’s it called? Where just the tips are white? There’s a word for it…”
+“Check it out. She’s got that thing with her fingernails…” The tech wiggled his own nicotine-stained digits. “What’s it called? Where just the tips are white? There’s a word for it…”
 </p>
 <p>
 Tina’s gaze remained on her screen. While the men talked, she had shrunk progressively farther down in her chair, and now felt tiny enough to fit into a microplate well. “French manicure,” she murmured.
@@ -231,7 +228,7 @@ Tina’s gaze remained on her screen. While the men talked, she had shrunk progr
 “Yeah, that’s it!” the tech said.
 </p>
 <p>
-Roger glanced at her. His smirk waned slightly. “Hey, um, guys…” he said. “I’ll catch up with you later, ’kay?”
+Roger glanced at her. His smirk waned. “Hey, um, guys…” he said. “I’ll catch up with you later, ’kay?”
 </p>
 <p>
 The two men said their goodbyes and left. Roger and Tina were alone.
@@ -252,10 +249,10 @@ Tina scowled. “‘Buddy’?”
 “Yeah, <em>buddy</em>,” Roger pressed. “You <em>said</em> you wanted to stay friends, right?”
 </p>
 <p>
-Tina glared at him. “That doesn’t mean I want to listen to your stupid player conquests. I know you’re <em>real</em> proud of yourself, but you don’t have to rub it in my face.”
+Tina pointedly avoided looking at him. “That doesn’t mean I want to listen to your stupid player conquests. I know you’re <em>real</em> proud of yourself, but you don’t have to rub it in my face.”
 </p>
 <p>
-“Friends <em>do</em> talk about stuff like that, you know,” he said.
+“Friends <em>do</em> talk about stuff like that, you know.”
 </p>
 <p>
 Tina rolled her eyes. “Rog, you do realize it’s barely even been a week, right? Are you so inconsiderate that you can’t understand how your little pick-up tales affect me? Or do you just not care?”
@@ -264,22 +261,22 @@ Tina rolled her eyes. “Rog, you do realize it’s barely even been a week, rig
 Roger’s face puckered. “Not everything is about you, you know.”
 </p>
 <p>
-“Everything? More like, <em>nothing</em> is about me!” Tina said, her voice rising. “You just kept chatting with your boy’s club over there as though I wasn’t right here the whole time. That’s how it was for the whole six months we were together. The only time you act like I even exist is when it’s convenient for you. Think about where I’m coming from for just one goddamned second, okay? I sit at this desk every single day, banging out endless emails, answering phones like a fucking parrot… ‘Good afternoon! Tungsten Medical Technologies! How may I help you? May I take a message?’ I just feel so replaceable. So <em>insignificant</em>. And then you came along, and I thought we vibed, and maybe you could relate… But you end up treating me worse than anyone else here!”
+“Everything? More like, <em>nothing</em> is about me!” Tina said, her voice rising. “You just kept chatting with your boy’s club over there as though I wasn’t right here the whole time. That’s how it was for the <em>whole</em> six months we were together. The only time you act like I even exist is when it’s convenient for you. Think about where I’m coming from for just one goddamned second, okay? I sit at this desk every single day, banging out endless emails, answering phones like a fucking parrot… ‘Good afternoon! Tungsten Medical Technologies! How may I help you?’ I just feel so replaceable. So <em>insignificant</em>. And then you came along, and I thought we vibed, and maybe you could relate… But you end up treating me worse than anyone else here!”
 </p>
 <p>
 Roger’s brow furrowed above his glasses. “Really, T? You’re going to use me as a dumping-ground for all your bullshit frustrations about work and life and whatever? You realize you have, like, <em>zero</em> credibility for being mad, right? <em>You</em> broke up with <em>me</em>, remember?”
 </p>
 <p>
-“<em>I</em> broke up with <em>you</em>? <em>You</em> said you wanted to see other people!” Tina fired back. “As a matter of fact, it turned out you’d already <em>been</em> seeing other people!”
+“<em>I</em> broke up with <em>you</em>? <em>You</em> said you wanted to see other people! As a matter of fact, it turned out you’d already <em>been</em> seeing other people!”
 </p>
 <p>
-“I was just saying we should have an open relationship,” Roger said. “You’re the one that wasn’t down for it. So I really don’t see where you think you have the right to be upset.”
+“I was just saying we should have an open relationship. <em>You’re</em> the one that wasn’t down for it. So I really don’t see where you think you have the right to be upset.”
 </p>
 <p>
-Tina gulped down bile. “You… ‘really don’t see…’?” she repeated incredulously. “Seriously, Rog? Even you can’t be that obtuse.”
+Tina gulped down bile. “You… ‘really don’t see…’? Seriously, Rog? Even you can’t be that obtuse.”
 </p>
 <p>
-Roger said slowly, punctuating with his hands, “I am not a mind-reader. So when I say that I have no idea where you get off being so pissed about a relationship that <em>you</em> ended, it’s <em>not</em> because I’m being ‘obtuse’. It’s because <em>you</em> aren’t making any sense. It’s because <em>you</em> are failing to <em>communicate</em>. And like you said, your <em>whole job</em> is to sit here and talk to people on the phone all day, so you’d think you’d know how to at least do <em>that</em>.”
+“I am not a mind-reader.” Roger spoke slowly, punctuating with his hands. “So, when I say that I have no idea where you get off being so pissed about a relationship that <em>you</em> ended, it’s <em>not</em> because I’m being ‘obtuse’. It’s because <em>you</em> aren’t making any sense. It’s because <em>you</em> are failing to <em>communicate</em>. And like you said, your <em>whole job</em> is to sit here and talk to people on the phone all day, so you’d think you’d know how to at least do <em>that</em>.”
 </p>
 <p>
 Tina’s mind blanked with anger. She couldn’t begin to count the number of dimensions on which Roger’s comment hurt.
@@ -288,28 +285,28 @@ Tina’s mind blanked with anger. She couldn’t begin to count the number of di
 She grabbed her iPhone and flung it at his stupid asshole face. 
 </p>
 <p>
-A lens of his glasses cracked on impact. She turned away from him, her arms crossed tightly. She could feel her jagged breaths pounding against her ribcage.“Roger,” she said, struggling to keep her voice steady through the lump in her throat, “take your box and get the fuck out of my lobby.”
+A lens of his glasses cracked on impact. She wheeled away from him, her arms welded crossed. Jagged breaths pounded her ribcage. “Roger,” she started, struggling to keep her voice steady through the lump in her throat, “take your box and get the fuck out of my lobby.”
 </p>
 </div>
 
 <div class="chapsection">
 <p>
-<span class="caplead">The blinds on the windows to Dr. Passinsky’s office</span> were closed. Going to the boss’s office was never pleasant, and Roger’s presence made it that much worse. She knew he’d be there. In the email that Passinsky sent to summon her, she saw Roger’s email alias, “<span class="computer">rot13er</span>”, in the “<span class="computer">To:</span>” line alongside her own address.
+<span class="caplead">The blinds on the windows to Dr. Passinsky’s office</span> were closed. Going to the boss’s office was never pleasant, and Roger’s presence made it that much worse. She knew he’d be there. In the email Passinsky had sent to summon her, she’d seen Roger’s email alias, “<span class="computer">rot13er</span>”, in the “<span class="computer">To:</span>” line alongside her own.
 </p>
 <p>
-Passinsky, gaunt and gray, looked at her with an expressionless gaze as she walked through the door. His glassy blue eyes focused with detachment, as though the people in front of him were merely elements of some mildly interesting puzzle.
+Passinsky, gaunt and gray, met her with a soulless, wraithlike gaze. His glassy blue eyes focused with detachment, as though the people before him were merely elements of some mildly interesting puzzle.
 </p>
 <p>
 “You asked to see me, Doctor P.?”
 </p>
 <p>
-Roger sat in one of two small, narrow chairs in front of Passinsky’s desk, still wearing the glasses with the crack down the lens. Tina closed the door behind her and took the other seat. The two of them avoided looking at each other.
+Roger sat in one of two modest chairs in front of Passinsky’s desk, still wearing the glasses with the crack down the lens. Tina closed the door and took the other seat. The two of them avoided looking at each other.
 </p>
 <p>
 Passinsky spoke with flat intonations, his English coming to him solely through practice and force of will. “I have to deal with personnel problems,” he said gruffly. “It take time away from research. Research is interesting. Personnel problems are not.”
 </p>
 <p>
-Tina shrank in her seat, saying nothing.
+Tina shrank in her seat.
 </p>
 <p>
 “My biggest problem right now,” he continued, “is with Julie. Have you seen her come into office in a last few days?”
@@ -336,10 +333,10 @@ Roger looked bored. “She’s an intern. How important can she be?”
 “She was given very simple assignment,” said Passinsky. “Very tedious, but very critical. She ruined it. Now we need her to fix. Her timing is… unfortunate. As Christina can tell you, we have very important visitor coming. If this situation is not resolved, he will be very unhappy.” After a pause, Passinsky added, “And this is not a man who you want to make unhappy.”
 </p>
 <p>
-Tina offered, “Should I call Julie’s school and see if they’ve heard from her?”
+Tina offered, “Should I call Julie’s school, see if they’ve heard from her?”
 </p>
 <p>
-“Yes,” said Passinsky. “And her family and friends. If you find her, tell her she must come to work tomorrow, and I take care of everything else. If you <em>don’t</em> find her, there is lots of paperwork for you to do.”
+“Yes,” urged Passinsky. “And her family and friends. If you find her, tell her she must come to work tomorrow, and I take care of everything else. If you <em>don’t</em> find her, there is lots of paperwork for you to do.”
 </p>
 <p>
 Tina looked down. “What kind of paperwork?”
@@ -360,10 +357,10 @@ Passinsky shook his head. “No. I want them on my desk when I walk into office.
 Passinsky shrugged. “Either way, needs to be done.”
 </p>
 <p>
-Tina turned her face away, taking a moment to quietly grumble to herself.
+Tina turned away, taking a moment to grumble softly to herself.
 </p>
 <p>
-“I would do it myself,” Passinsky offered, “but I had to take time this afternoon to attend to another matter. Also is one I want to talk to the two of you about.”
+“I would do it myself,” Passinsky offered, “but I had to take time this afternoon to attend to another matter. Also is one I want to talk to two of you about.”
 </p>
 <p>
 Roger mumbled, “You mean you have us here for something besides the Julie thing?”
@@ -381,7 +378,7 @@ Tina knew the terms. They were hormones. She recalled that both had something to
 “Vasopressin drives sexual territoriality. It is hormone responsible for jealousy. Vasopressin is subject of some ongoing research, because in humans it can act on indirect triggers. Rats, for example, get angry by smell of another rat on their mate &mdash; this is easy to explain by pheromones. Humans, though, somehow have aggression responses wired to symbolic processing, such as sound of spoken words. This means that human can hear someone say something, and exhibit immediate hormonal response. Observe…”
 </p>
 <p>
-There was a monitor on his desk. He turned it around to face them. The screen showed a choppy-moving overhead view of Tina and Roger arguing in the reception area earlier that day. Their fight had been captured by the lobby’s security camera.
+He swiveled his desk monitor around to face them. The screen showed a choppy-moving overhead view of Tina and Roger arguing in the reception area earlier that day. Their fight had been captured by the lobby’s security camera.
 </p>
 <p>
 Tina flushed. She knew the security camera was there. There were probably dozens of them in the building. She never thought anybody actually looked at the footage.
@@ -411,7 +408,7 @@ Tina and Roger looked at him sheepishly.
 “So now, we have two ways to take this. We can treat this as science matter, or as paperwork matter. How do you want to handle?”
 </p>
 <p>
-Tina gave him a tiny shrug and shook her head uncertainly.
+Tina gave a tiny shrug.
 </p>
 <p>
 “As paperwork matter,” he explained, “I tell you that violence has no place in work environment. Then you sign this statement…” He passed her a pen and a printed page. “…saying that I spoke with you to ensure it won’t happen again, and that your action was as private matter between you and Roger and having no involvement with company.”

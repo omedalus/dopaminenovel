@@ -12,7 +12,7 @@ Danny felt ill. His own body was the logical result of slouching over a keyboard
 “What the fuck are you talking about?” the Russian grumbled.
 </p>
 <p>
-Danny held his microwave gun pointed at him with one hand and his cellphone up to his ear with the other. Despite the fact that the former was technically a weapon, Danny recognized that it was the latter that was actually keeping him at bay.
+Danny held his microwave gun pointed at him with one hand and his phone up to his ear with the other. Despite the former technically being a weapon, Danny recognized that it was the latter that was actually keeping him at bay.
 </p>
 <p>
 “I’m with the Federal Emergency Management Agency’s biological alert response team. This building is a registered Class Seven research facility, with instant alarms wired directly to Bellevue regional headquarters.” Danny knew he was a terrible actor. Jason and Moshen were feeding him lines through his cellphone. He was doing his best to deliver them as believably as he could.
@@ -24,10 +24,10 @@ The Russian eyed Danny warily. “You are some kind of cop? Do you have a badge?
 “I’m a FEMA contractor,” said Danny. “I’m patched in to the Bellevue Police Department on the radio right now. We have patrol units stationed around the building.” Noting the Russian’s look of incredulity, he added, “There’s a window in the conference room behind you. Go ahead. Take a look.”
 </p>
 <p>
-The man cautiously backed up several feet until he could see outside. In the dark of night, through the needles of the pine trees that lined the building, flashed the distinct red and blue strobe of a police light. “Fucking shit!” he spat.
+The man cautiously backed up several feet until he could see outside. In the dark of night, through the needles of the pine trees that lined the building, flashed the distinct red-and-blue strobe of a police light. “Fucking shit!” he spat.
 </p>
 <p>
-“Several minutes ago we received an alarm indicating a breach of containment of potentially infectious pathogenic microbiations. According to the readings on this interferometric biocontamination detector kit, you’ve been exposed to dangerous levels of organic couplings. Biohazard containment protocol requires that I get you to a decontamination facility immediately.” 
+“Several minutes ago, we received an alarm indicating a breach of containment of potentially infectious pathogenic microbiations. According to the readings on this interferometric biocontamination detector kit, you’ve been exposed to dangerous levels of organic couplings. Biohazard containment protocol requires that I get you to a decontamination facility immediately.” 
 </p>
 <p>
 “You got some kind of alarm?” the Russian asked tensely.
@@ -45,7 +45,10 @@ The man cautiously backed up several feet until he could see outside. In the dar
 “Yes,” said the Russian. “Yes, I am.”
 </p>
 <p>
-He immediately looked past Danny with an angry glare as a beam of light swept the hallway. Danny looked over his shoulder.
+He immediately looked past Danny with an angry glare as a beam of light swept the hallway.
+</p>
+<p>
+Danny looked over his shoulder.
 </p>
 <p>
 “No, he’s not,” said the girl.
@@ -72,7 +75,7 @@ She also saw something that the Russian apparently couldn’t: a large dark red 
 She went to stand by his side, so that he wouldn’t be at risk of revealing his injured shoulder. “They’re an <em>E. coli</em> strain with plasmid enhancements of indeterminate nature. They’re being transported in an Eppendorf vial.” That part, at least, was true.
 </p>
 <p>
-The man listened to his cellphone. Finally, he asked, “What is the location of this vial?”
+The man listened to his phone. Finally, he asked, “What is the location of this vial?”
 </p>
 <p>
 She thought for a second, and answered, “It’s enclosed in the port-side extremity.”
@@ -84,7 +87,7 @@ She stood close enough to hear several tinny voices in the man’s phone. “Oh!
 While the voices chattered, Tina spotted movement behind the Russian. A large scruffy man, overweight but agile, moved slowly through the darkness. He appeared to be holding a weapon of some kind. He saw her looking at him, and brought a finger to his lips.
 </p>
 <p>
-“Listen,” Tina said to the geeky guy in the lab coat. “I am aware of the present need for complex communication protocols, owing to the proximity of non-native personnel. And while I’m uncertain about the exact cause of your arrival at this facility, it’s clear to me that your relationship to law enforcement suffers from a complete lack of existence. Now, are you aware of the presence of clandestine personnel to the posterior of the non-native agent?”
+“Listen,” Tina told the geeky guy in the lab coat. “I am aware of the present need for complex communication protocols, owing to the proximity of non-native personnel. And while I’m uncertain about the exact cause of your arrival at this facility, it’s clear to me that your relationship to law enforcement suffers from a complete lack of existence. Now, are you aware of the presence of clandestine personnel to the posterior of the non-native agent?”
 </p>
 <p>
 “Affirmative,” the man responded. “That would be Agent Bravo. He’s on standby pending physical altercation. However, that would be a scenario best avoided.”
@@ -99,7 +102,7 @@ While the voices chattered, Tina spotted movement behind the Russian. A large sc
 Tina’s jaw dropped. “Have you lost all function in your cerebral cortex?”
 </p>
 <p>
-The Russian watched them talk with narrowing eyes.
+As the Russian watched them talk, his eyes narrowed.
 </p>
 <p>
 The geeky guy turned to the Russian and said, “Sir, are you currently carrying a vial of potentially infectious agents on your person?”
@@ -111,28 +114,28 @@ The Russian shot Tina a murderous glare. “Did she tell you that?”
 “No, sir. It’s simply the only way to explain the amplitude of these readings.” He waved his instrument at the Russian. Tina thought the strange device looked like a mad combination of high-tech art and parts scavenged from Radio Shack. She could clearly see, though, that he wasn’t getting any “readings” from the machine. It had no display.
 </p>
 <p>
-“The fuck are you doing with that thing?” asked the Russian.
+“The fuck are you doing with that thing?” demanded the Russian.
 </p>
 <p>
 “Sir, please show me what’s in your hands,” ordered the man.
 </p>
 <p>
-“There is nothing in my hands,” the Russian asserted.
+“There is nothing in my hands.”
 </p>
 <p>
-“These readings say otherwise,” the geek said emphatically.
+“These readings say otherwise,” the geek insisted.
 </p>
 <p>
-“I doubt that,” replied the Russian.
+“I doubt that.”
 </p>
 <p>
-“What do you mean?” said the man.
+The geek asked nervously, “Wh&mdash; What do you mean?”
 </p>
 <p>
 The Russian slowly said, “Let me see these readings.”
 </p>
 <p>
-The man nervously replied, “It takes a great deal of training to interpret the status of the indicator lamps on this interferometric biodetector.”
+“It&mdash; Um, it takes a great deal of training to interpret the status of the indicator lamps on this interferometric biodetector.”
 </p>
 <p>
 All signs of tension and apprehension left the Russian’s face. He stared at the geek with smoldering contempt. “As much training as it takes to engage in complex communication protocols to fool non-native personnel?”
@@ -147,7 +150,7 @@ The geek gulped.
 “Agent Bravo!” the geek shouted. “Prepare for engagement!” He pulled off his surgical mask. His face was focused, calculating.
 </p>
 <p>
-Tina saw the burly man in the hallway crouch, ready to pounce.
+Tina saw the burly man in the hallway crouching, ready to pounce.
 </p>
 <p>
 “Cut the crap already,” the Russian ordered. “I don’t know who you are talking to, and I don’t know why there is cop car outside that window. But I <em>do</em> know you are completely full of shit.” The Russian held out his left hand and, from his gloved fist, produced the vial. “I will not waste bullet on you. You want this? Come get it.”
@@ -162,7 +165,7 @@ The Russian laughed, turned his torso sideways, and drew his fist up near his hi
 
 <div class="chapsection">
 <p>
-<span class="caplead">With a mighty battle cry,</span> Danny rushed headlong at the Russian.
+<span class="caplead">Screaming a thunderous battle cry,</span> Danny rushed headlong at the Russian.
 </p>
 <p>
 The Russian kept his eye on him, evaluating his trajectory, judging his center of mass.
@@ -174,10 +177,10 @@ So he was caught completely off-guard when the lug wrench smashed against the ba
 “Yes!” Tina squealed.
 </p>
 <p>
-As the Russian reeled in pain, Danny swung his machine like a baseball bat at the man’s torso. The heavy pack of ultracapacitors hit the Russian in the chest, knocking the air out of his lungs and sending him stumbling sideways. The Eppendorf tube fell to the carpeted floor.
+As the Russian reeled in pain, Danny swung his machine like a baseball bat at the man’s torso. The heavy pack of ultracapacitors hit the Russian in the chest, knocking the air out of his lungs and sending him stumbling sideways. The Eppendorf tube fell to the carpet.
 </p>
 <p>
-Danny tried to scramble for the vial, but to his surprise he found himself hopelessly winded from the attack. He took a few breathless steps.
+Danny tried to scramble for the vial, only managed a few breathless steps. He found himself hopelessly winded from the attack.
 </p>
 <p>
 Tina dashed for it. She plucked the tube from the floor and put it in her pocket.
@@ -192,19 +195,19 @@ Danny then half-saw, half-felt her run up beside him. Oddly, she seemed taller t
 He shook his head and looked gravely at Mike and the Russian.
 </p>
 <p>
-The Russian, dizzy from the blows, swung blindly outward as he turned to face his attacker.
+Dazed, the Russian swung outward, blind with rage as he turned to face his attacker.
 </p>
 <p>
-Mike attempted to crash the lug wrench down on his head again.
+Mike attempted to bash the lug wrench down on his head again.
 </p>
 <p>
-The Russian parried Mike’s downward blow with an overhead block, the lug wrench hitting his forearm rather than his skull. He fluidly parlayed the block into a side kick; his rearward leg struck upward in a powerful snap against the bottom of Mike’s ribcage. Mike grunted in pain and curled his torso down around the point of impact, clutching his arms defensively near his chest. As the Russian brought his leg down from the kick, he stomped his heel squarely down onto Mike’s foot. Mike staggered backward. 
+The Russian parried with an overhead block, the lug wrench hitting his forearm instead. He fluidly parlayed the block into a side kick; his rearward leg struck upward in a powerful snap against the bottom of Mike’s ribcage. Mike grunted, his torso curling down around the point of impact, his arms folding defensively around his chest. As the Russian brought his leg down from the kick, he stomped his heel squarely onto Mike’s foot. Mike staggered backward. 
 </p>
 <p>
-The Russian shifted his weight to deliver another kick. Mike saw him and quickly took another step back to avoid the attack. He found himself with his back to a wall.
+The Russian shifted his weight to deliver another kick. Mike saw him and hopped another step back to dodge the attack. His back pressed against a wall.
 </p>
 <p>
-The Russian’s planned second kick was a feint. Mike, still protecting his aching rib, was unwittingly leaving his face open.
+The Russian’s planned second kick was a feint. Mike, still guarding his aching rib, was unwittingly leaving his face open.
 </p>
 <p>
 The delivery of the side kick had brought the Russian’s hand down near his hip. From there, with a turn of his waist and a cough-like shout, he lunged forward and fired his fist up and center. The strike drove straight into Mike’s nose.
@@ -219,25 +222,22 @@ The Russian paused for a moment to read his opponent.
 Mike withdrew his head from the drywall, revealing a crater. He swayed sideways and stood uneasily.
 </p>
 <p>
-“Mike!” Danny shouted.
+“<em>Mike!</em>” Danny shouted.
 </p>
 <p>
-Mike pulled himself up to his full height and looked down at the Russian with a completely uncomprehending face. His eyes were glazed and empty. 
+Mike pulled himself up to his full height and looked down at the Russian with a completely uncomprehending face, his eyes glazed and empty. The wrench slid from his grasp and tumbled to the floor. He took a step toward the Russian and began an uncontrolled lurch forward.
 </p>
 <p>
-Mike absentmindedly let go of the wrench. It dropped to the floor. He took a step toward the Russian and began an uncontrolled lurch forward.
-</p>
-<p>
-The Russian took advantage of Mike’s momentum. He reached up with both hands, grabbed Mike’s head, and prepared to pull down. He drew up his leg, ready to drive his knee into Mike’s face.
+The Russian took advantage of Mike’s momentum. Reaching up with both hands, he grabbed Mike’s head and drew up his leg, ready to drive his knee into Mike’s face.
 </p>
 <p>
 His Bluetooth headset exploded.
 </p>
 <p>
-Tina’s wide-eyed gaze turned from the combatants to Danny. Too weak to join the melee, Danny had aimed his machine at the men. Nothing seemed to happen when he had pulled the trigger except for a soft “<em>bonk!</em>” and a change in color of some lights.
+Tina’s wide-eyed gaze turned from the combatants to Danny. Too weak to join the melee, he had aimed his machine at the men. Save for a soft “<em>bonk!</em>” and a change in color of some lights, nothing visible had happened when he pulled the trigger.
 </p>
 <p>
-The man yelped in pain and surprise. The burst in his ear threw him off-balance. His hands still around Mike’s head, he stumbled in mid-kick, holding onto Mike to remain upright.
+The man yelped in pain and surprise. The burst in his ear threw him off-balance. His hands still around Mike’s head, the Russian stumbled in mid-kick, holding onto Mike to remain upright.
 </p>
 <p>
 With a wide, sloppy sweep, Mike kicked the man’s legs out from under him. As he fell, Mike let himself fall with him. They hit the ground together. Mike, weighing easily a hundred pounds more than his opponent, used the man’s body to break his fall. 
@@ -249,25 +249,25 @@ The man grunted, wriggled, and tried to push Mike off of him.
 Mike lay on top of the Russian like a bag of cement, refusing to yield. His broken face lay pressed against the ground next to the Russian’s. Mike slid his hands blindly toward the squirming man’s head, keeping his foe’s arms pinned with his bulk.
 </p>
 <p>
-As the man punched and struggled beneath him, Mike wrapped his fingers around his neck. He placed his thumbs across the Russian’s throat, stared down at him with eyes blank and empty, and squeezed.
+As the man punched and writhed beneath him, Mike wrapped his fingers around his neck. He placed his thumbs across the Russian’s throat, stared down at him with eyes blank, and squeezed.
 </p>
 <p>
-The Russian gasped and gulped for air, trying in vain to heave Mike away. He tried kicking, punching, pushing, twisting,  but nothing would make Mike move. Mike stared downward, as though he was looking through the Russian into some kind of empty space below the floor.
+The Russian gasped and gulped, trying in vain to heave Mike away. He tried kicking, punching, pushing, twisting; but nothing made Mike yield. Mike stared downward, as though he was looking through the Russian into some kind of empty space below the floor.
 </p>
 <p>
-The Russian’s eyes turned bloodshot and began to moisten and bulge out of his face. His tongue swelled and stuck out of his mouth, with spittle foaming at the corners. His skin turned a disturbing shade of purple. He tried to say something, but his voice came out as a wet guttural honk, barely discernible as human. His struggling degenerated into aimless twitches. After making a series of disgusting gurgling noises, he stopped moving.
+The Russian’s eyes turned bloodshot and began to moisten and bulge. His tongue swelled and stuck from his mouth, spittle foaming at the corners. His lips turned purple as his struggles degenerated into aimless twitches. With a series of gurgling noises, he stopped moving.
 </p>
 <p>
 “Mike…” said Danny.
 </p>
 <p>
-Mike looked up vaguely at Danny, his nose crushed, his hair caked with gypsum powder, his beard moist with blood. He lifted himself off of the Russian slowly and awkwardly and stood there, dazed, his imploded nose bleeding.
+Mike looked up vaguely at Danny, his nose crushed, his hair caked with gypsum powder, his beard moist with blood. He staggered up from the Russian and stood there, dazed, his imploded nose bleeding.
 </p>
 <p>
 Then he took a few stumbling steps toward the wall, leaned against it, and vomited.
 </p>
 <p>
-Danny’s cellphone squawked from his pocket, “Are you guys okay?”
+Danny’s phone squawked from his pocket, “Are you guys okay?”
 </p>
 <p>
 “Mike’s hurt,” Danny replied.
@@ -285,16 +285,16 @@ Danny’s cellphone squawked from his pocket, “Are you guys okay?”
 He raised a perplexed eyebrow.
 </p>
 <p>
-She turned around to show him her cardigan. The parts of it that had been in contact with the back of his left shoulder were soaked in blood. His blood.
+She turned to show him her cardigan. The parts that had been in contact with the back of his left shoulder were soaked in blood. <em>His</em> blood.
 </p>
 <p>
-“What the fuck?” He put down his machine, took off his lab coat, and stared at the red stain.
+“What the fuck?” He put down his machine, jostled off his lab coat, and stared at the red stain.
 </p>
 <p>
-A high-pitched wheezing sound emerged from the floor near them. The Russian stirred, the veins in his neck bulging.
+A high-pitched wheezing emerged from the floor near them. The Russian stirred, the veins in his neck bulging.
 </p>
 <p>
-Tina quickly left Danny’s side and ran towards the Russian. He was beginning to turn and lift his head, his still-unconscious body driven by reflexes to restore the flow of air.
+Tina darted towards the Russian. He was beginning to turn and lift his head, his still-unconscious body driven by reflexes to restore the flow of air.
 </p>
 <p>
 She darted a hand into his pocket and grabbed his revolver.
@@ -306,16 +306,16 @@ Danny said, “Get his phone.”
 Tina nodded. With a few quick pats, she felt the rectangular bulge. She grabbed it and sprung away.
 </p>
 <p>
-She headed straight for Mike. He stood leaning against the wall, staring down emptily as bodily fluids trickled out of his face and onto the carpet.
+She headed straight for Mike. He leaned against the wall, staring down emptily as bodily fluids trickled from his face onto the carpet.
 </p>
 <p>
-She laid her hand on his shoulder. “Hello. What’s your name?” she asked in a clear, clinical tone.
+She touched his shoulder. “Hello. What’s your name?”
 </p>
 <p>
-Mike turned his broken face toward her, and with a slurred voice, he answered, “I am called Krongor, Barbarian of the Lowland Plains.”
+Mike turned his broken face toward her. Slurring, he answered, “I am called Krongor, Barbarian of the Lowland Plains.”
 </p>
 <p>
-Tina turned on the cellphone and shined its light into Mike’s eyes.
+Tina turned on the phone and shined its light into Mike’s eyes.
 </p>
 <p>
 “We need to get him to a hospital right now,” she said.
@@ -336,28 +336,28 @@ From off to the side, Mike droned, “Are you a priestess of Eir? I need healing
 
 <div class="chapsection">
 <p>
-<span class="caplead">The escape back to the lobby</span> felt like a jerking montage, a miasmic swirl of wheezing and vomit and blood. The large concussed man took long, lumbering steps, too slow and sometimes in the wrong direction, and often stopping to yawn and trying to sit down in place. 
+<span class="caplead">The escape back to the lobby</span> felt like a jerking montage, a miasmic swirl of wheezing and vomit and blood. The large concussed man lumbered with long steps, too slow and sometimes in the wrong direction, often stopping to yawn and trying to sit down in place. 
 </p>
 <p>
-The geek, despite being wounded himself, handled most of the task of shepherding his scruffy friend. He yelled into his cellphone, “Rendezvous at the front! Jason, extract us!”
+The geek, despite being wounded himself, handled most of the task of shepherding his scruffy friend. He yelled into his phone, “Rendezvous at the front! Jason, extract us!”
 </p>
 <p>
-Tina divided her attention between them and the Russian, whom she watched with horror as he regained consciousness. With a fit of coughs he propped himself up on his elbows. As she and the two men hurried down the hallway, the Russian turned to them with primal fury in his watery eyes. Tina flinchingly waved the small silver revolver. The sight of his own gun pointed at him only enraged him further.
+Tina divided her attention between them and the Russian, whom she watched with horror as he regained consciousness. With a fit of coughs, he propped himself up on his elbows. As she and the two men hurried down the hallway, the Russian turned to them with primal fury in his watery eyes. Tina flinchingly waved the small silver revolver. The sight of his own gun pointed at him only enraged him further.
 </p>
 <p>
 He still wasn’t quite able to breathe. He tripped, fell to his hands and knees and rasped loudly. 
 </p>
 <p>
-They rounded a bend in the hallway and tried to rush down the corridor towards the brightly lit lobby. But with the injured man’s disoriented ambling, the straight hallway felt like a twisting labyrinth. The bright spot of light at the end seemed to draw nightmarishly farther with every step forward. And behind them, with a half-crawling gait, the Russian, rasping and coughing, dragged himself around the corner. His eyes burned with a lust for revenge. 
+They rounded a bend in the hallway and tried to rush down the corridor towards the brightly lit lobby. But with the injured man’s disoriented ambling, the straight hallway felt like a twisting labyrinth. The bright spot of light at the end seemed to draw nightmarishly farther with every step forward. And behind them, half crawling, the Russian, rasping and coughing, dragged himself around the corner.
 </p>
 <p>
-They crashed into the lobby with the Russian gaining rapidly, his breath and strength quickly returning. The geek wordlessly dropped his contraption to the floor and started pulling on Tina’s reception desk a few short feet from the lobby’s interior door. Tina understood, and rushed to the other side to lift and push. Everything on the desk &mdash; her computer, her purse, her paperwork &mdash; tumbled. They wedged it sideways against the wide glass door just as the Russian’s fast-moving form appeared on the other side. He shoved and kicked at the door, making the barricade slide with every impact. The two of them kept the desk braced against the door with their own strength, but without their active defense it wouldn’t hold for long.
+They crashed into the lobby with the Russian gaining rapidly, his breath and strength quickly returning. The geek wordlessly dropped his contraption to the floor and started pulling on Tina’s reception desk a few short feet from the lobby’s interior door. Tina understood, and rushed to the other side to lift and push. Everything on the desk &mdash; her computer, her purse, her paperwork &mdash; tumbled. They wedged it sideways against the wide glass door just as the Russian barreled into the other side. He shoved and kicked at the door, making the barricade slide with every impact. The pair kept the desk braced against the door with their own strength &mdash; but without their active defense, it wouldn’t hold for long.
 </p>
 <p>
-“Jason!” the geek shouted into his cellphone. “Car! Now!” Pushing against the desk, he turned to Tina. “I’ll hold this guy off. There’s friends coming with a car. Get Mike out of here. I’ll be right behind you.”
+“Jason!” the geek shouted into his phone. “Car! Now!” Pushing against the desk, he turned to Tina. “I’ll hold this guy off. There’s friends coming with a car. Get Mike out of here. I’ll be right behind you.”
 </p>
 <p>
-Tina looked out the glass front doors with the large frosted “W”. Outside, in the darkness of the parking lot, there flashed the distinct red and blue strobe pattern of a police car. A wave of relief washed over her. “Hey! Hey… you…”
+Tina looked out the glass front doors with the large frosted “W”. The red-and-blue strobe of the police car beaconed in the dark parking lot. A wave of relief washed over her. “Hey! Hey… you…”
 </p>
 <p>
 “My name’s Danny,” he said.
@@ -366,16 +366,16 @@ Tina looked out the glass front doors with the large frosted “W”. Outside, i
 “Look!” she said. “The cops are here! It’s all okay!”
 </p>
 <p>
-“That’s not the cops,” he replied. “That’s Moshen.”
+“That’s not the cops. That’s Moshen.”
 </p>
 <p>
 A black SUV screeched to a halt in front of the entrance. In the SUV’s headlights, she could see a young man standing in the parking lot. He looked small and scrawny with thick glasses, and carried an open laptop on his arm.
 </p>
 <p>
-The police car lights weren’t real. They were simply a video being played on the scrawny kid’s laptop.
+The police car lights weren’t real. They were simply a video playing on his screen.
 </p>
 <p>
-The SUV let out a honk.
+The SUV honked.
 </p>
 <p>
 She grabbed her purse and hurried over to the scruffy guy. He was staring at the Russian and mumbling incoherently. She hustled him outside. The side door to the Navigator was open.
@@ -402,10 +402,10 @@ Moshen answered, “What?”
 Danny came leaping into the SUV with his bulky gadget in hand. He slammed the car door shut behind him, clambered past Tina into the back seat, and yelled, “Drive!”
 </p>
 <p>
-Through the windshield, the SUV’s headlights illuminated a man rounding the corner of the building, carrying a handgun with a silencer. Jason hit the gas and cranked the wheel as the man raised his firearm. The SUV lurched heavily and pulled away in a sharp turn. A series of pops rang out across the parking lot.
+Through the windshield, the SUV’s headlights illuminated a man rounding the corner of the building, carrying a handgun with a silencer. Jason hit the gas and cranked the wheel as the man raised his firearm. The SUV lurched heavily and pulled away in a hairpin turn. A series of pops rang out across the parking lot.
 </p>
 <p>
-The middle passenger-side window shattered, sprinkling glass into the interior of the car.
+The middle passenger-side window shattered, showering glass shards inside.
 </p>
 <p>
 Mike’s head bounced between the window and the headrest as Jason dodged and weaved. “Owwwwwwwww,” Mike droned.
@@ -414,7 +414,7 @@ Mike’s head bounced between the window and the headrest as Jason dodged and we
 The gunfire stopped, but was replaced by the sound of car doors opening and slamming shut. The tires of the Tesla Roadster squealed against the pavement.
 </p>
 <p>
-The Navigator had barely made it a block down the street before the Roadster caught up, pulling up next to them on the driver’s side. The hum of the Roadster’s electric motor rose and dropped in pitch as its driver kept pace. Jason’s SUV was no match for the all-electric sports car’s speed and maneuverability.
+The Navigator had barely made it a block down the street before the Roadster caught up, drawing level with them on the driver’s side. The hum of the Roadster’s electric motor rose and dropped in pitch as its driver kept pace. Jason’s SUV was no match for the all-electric sports car’s speed and maneuverability.
 </p>
 <p>
 Jason saw the long silenced handgun pointing at him out of the passenger side of the Roadster.
@@ -426,10 +426,10 @@ Everybody in the car flew forward in their seats as Jason slammed on the brake. 
 The Roadster slowed down and pulled into a tight U-turn.
 </p>
 <p>
-The SUV’s passengers were thrown about as Jason rapidly reared the car up, maneuvering halfway through a three-point turn, pausing briefly in a position perpendicular across the road. The Roadster began to zip back towards them, ready to give chase in the opposite direction, back toward Tungsten.
+The SUV’s passengers were thrown about as Jason rapidly reared the car up, maneuvering halfway through a three-point turn, pausing perpendicular to the road. The Roadster began to zip back towards them, ready to give chase in the opposite direction, back toward Tungsten.
 </p>
 <p>
-Instead of completing the three-point turn, Jason turned the SUV in the same direction they had already been driving. The electric sports car whooshed past them. A series of “<em>pop-clack!</em>” sounds burst out as the SUV pulled away and the Roadster turned around again.
+Instead of completing the three-point turn, Jason turned the SUV in the same direction they had already been driving. The electric sports car whooshed past them. A series of gunshots burst out as the SUV pulled away and the Roadster turned around again.
 </p>
 <p>
 The small Asian guy in the passenger seat screamed at Tina, “Shoot back already!”
@@ -456,34 +456,34 @@ The rear window of the SUV collapsed in a shower of glass. Danny screamed and du
 “It’s a gun. How hard can it be? It’s a point-and-click interface.”
 </p>
 <p>
-A low “ploink!” sounded from the back of the car as a bullet chipped out a chunk of the rear bumper. 
+A low “<em>ploink!</em>” sounded from the back of the car as a bullet annihilated a chunk of the rear bumper. 
 </p>
 <p>
 Tina shoved the revolver into his hand, happy to get the evil little thing away from her. “Careful with it. It’s got a hell of a kick.”
 </p>
 <p>
-The Asian kid leaned out the passenger window, trying to point the gun at the Roadster behind them. Jason helped him by turning sharply to the right, onto another dark side street. Moshen pulled the trigger.
+The Asian kid leaned out the passenger window, trying to point the gun at the Roadster behind. Jason helped him by turning sharply to the right, onto another dark side street. Moshen pulled the trigger.
 </p>
 <p>
 Everybody in the car reflexively ducked at the overwhelming boom.
 </p>
 <p>
-The thundering sound was immediately followed by the clatter of an object skidding across the cracked windshield and falling away onto the road.
+The thundering sound was immediately followed by the clatter of an object skidding across the cracked windshield and falling to the road.
 </p>
 <p>
 Danny asked from the back, “What the fuck was that?”
 </p>
 <p>
-“Nothing!” said Moshen defensively. “That was nothing!”
+“<em>Nothing!</em>” Moshen insisted. “That was nothing!”
 </p>
 <p>
 Jason answered, “That… was the gun.” 
 </p>
 <p>
-The SUV tilted as Jason swerved around a car that had the misfortune of being on the same suburban road. The innocent bystander’s horn Dopplered behind them as Jason desperately sped down the street, the Russians in pursuit.
+The SUV tilted as Jason swerved around a car that had the misfortune of being on the same suburban road. The innocent bystander’s horn Dopplered behind them as Jason tore down the street, the Russians in pursuit.
 </p>
 <p>
-Jason shook his head. “I can’t out-drive them!” he said hoarsely. They watched helplessly as the Roadster drew closer. The SUV fell into tense silence amid the rush of air through broken windows.
+Jason shook his head. “I can’t out-drive them!” he said hoarsely. They watched helplessly as the Roadster drew closer. Their world fell into tense silence amid the rush of air through broken windows.
 </p>
 <p>
 “Hey. Wait a minute,” said Danny. “Guys. Do you hear that?”
@@ -501,13 +501,13 @@ They listened.
 “…No,” said Moshen. “It’s an all-electric drive train. They don’t <em>have</em> an engine.”
 </p>
 <p>
-“Exactly,” Danny said. “Jason. Get us closer.”
+“Exactly,” Danny said. “Jason! Get us closer.”
 </p>
 <p>
-Jason asked, “Closer?”
+“<em>Closer?</em>” asked Jason.
 </p>
 <p>
-“Yeah,” said Danny. He peeked carefully over the SUV’s rear door, through the blown-out window. The Tesla Roadster was barely a hundred feet away. “Their car is about two square meters in frontal cross-section. What’s the radius of a sphere for which a 24-decibel gain covers two square meters of surface area?”
+“Yeah.” Danny peeked over the SUV’s rear door, through the blown-out window. The Tesla Roadster was barely a hundred feet away. “Their car is about two square meters in frontal cross-section. What’s the radius of a sphere for which a 24-decibel gain covers two square meters of surface area?”
 </p>
 <p>
 “How should I know?” Jason yelled back.
@@ -525,7 +525,7 @@ Jason asked, “Closer?”
 “A Nerf gun?”
 </p>
 <p>
-“High-Energy Radio Frequency,” said Danny. “Specifically, a directional High Power Microwave emitter, but HERF more generally. It produces 3-megawatt bursts of S-band radiation in 50-nanosecond…”
+“High-Energy Radio Frequency,” said Danny. “A directional High Power Microwave emitter, but known as a HERF more generally. It produces 3-megawatt bursts of S-band radiation in 50-nanosecond…”
 </p>
 <p>
 Jason barked, “Dude! Some other time!”
@@ -567,7 +567,7 @@ The suddenly unpowered Roadster, rolling along by sheer momentum, quickly recede
 Once the Roadster disappeared in the rearview mirror, Jason finally released the gas pedal, dropping the SUV down to street-legal speeds. They drove calmly, heading toward downtown Bellevue. 
 </p>
 <p>
-“Moshen!” Mike drawled. “Can we tally up our experience points now?”
+“Moshen!” Mike drawled. “Can we tally… tally up our experience points now?”
 </p>
 <p>
 Tina said, “This man needs to get to a hospital. Go to Overlake. It’s close.”
@@ -585,13 +585,13 @@ Tina said, “This man needs to get to a hospital. Go to Overlake. It’s close.
 “Are you people serious?” screamed Tina. “He could slip into a coma!”
 </p>
 <p>
-Mike asked warily, “Moshen…? How many hit points am I down to…?”
+Mike asked warily, “M&mdash; Moshen…? How many hit points am I down to…?”
 </p>
 <p>
 “I think you’re in the negatives, man,” Moshen replied.
 </p>
 <p>
-Mike looked horrified. “I need Cure Light Wounds! Does anybody here know Cure Light Wounds?”
+Mike looked horrified. “Does anyb&mdash; anybody here know Cure Light Wounds?”
 </p>
 <p>
 Jason asked, “Christina… It’s Christina, right?”
@@ -603,7 +603,7 @@ Jason asked, “Christina… It’s Christina, right?”
 “Do you know anywhere we can take him without leaving any records?”
 </p>
 <p>
-Mike said, “Of course she does. She’s a priestess. She knows Cure Light Wounds. None of you guys do. You’re all wizards. Wizards throw lightning bolts and fireballs. Priests handle life energies and heal people.”
+Mike said, “Of course she does. She’s a p&mdash; a priestess. She knows Cure Light Wounds. None of you guys do. You’re all wizards. Wizards throw li&mdash; lightning bolts and fireballs. Priests handle life energies and heal people.”
 </p>
 <p>
 His senseless words gave Tina an idea. “I <em>do</em> know a priestess, actually.”

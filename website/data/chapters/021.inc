@@ -4,19 +4,19 @@
 Clanging and clattering came from the cookware cabinet</span> as Danny dug around. He produced a two-gallon pot with lid.
 </p>
 <p>
-“Here, wipe down the inside,” said Tina as she tossed him some alcohol wipes. She arranged a row of bottles and bowls on the kitchen counter. The sleeves of her simple white button-down shirt were rolled up to her elbows, and her hands were wrapped in rubber gloves. “Fill the pot with hot water, and pre-heat the oven.”
+“Here, wipe down the inside,” Tina instructed as she tossed him some alcohol wipes. She arranged a row of bottles and bowls on the kitchen counter. The sleeves of her simple white button-down shirt were rolled up to her elbows above her hands rubber-gloved hands. “Fill the pot with hot water, and pre-heat the oven.”
 </p>
 <p>
 Danny carried the pot to the sink, and watched the hot water rise against the steel. Tina glided in from behind him singing, “Incoming!” She brought a Pyrex bowl filled with a flour-like powder, which she poured into the pot. As she stirred the mixture, she stood close enough for him to see the smudges on her face from hastily applied makeup, smell her floral perfume. Her cheeks were rosy, and her lips were drawn up in a coquettish smile.
 </p>
 <p>
-The water neared the brim. Tina shut off the tap, and silence abruptly filled the house. She stood motionless for a moment, her hand frozen on the water knob.
+The water neared the brim; Tina shut off the tap. Silence held the house. She stood motionless for a moment, her hand frozen on the water knob.
 </p>
 <p>
-Danny looked down nervously at the pot.
+Danny peered nervously into the pot.
 </p>
 <p>
-Tina broke the stillness with a sharp inhale. “Okay, then.” She closed its lid, carried it to the stove, and loaded it into the oven.
+Tina broke the stillness with a sharp inhalation. “Okay, then.” She closed its lid, carried it to the stove, and loaded it into the oven.
 </p>
 <p>
 With the water busy heating, Danny grabbed a seat at the counter. “What happens now?” 
@@ -40,7 +40,7 @@ She shook her head. “Not by a long shot. ‘Sterile’ literally means there�
 Danny nodded. “And how warm is that?”
 </p>
 <p>
-Tina walked over to the bags and pulled out the digital thermometer. “Body temperature. Ninety-eight point six. But keeping it there will be tricky. An electric stove’s lowest setting is around 200. We’d have to keep the pot on your range, and take shifts checking the thermometer, turning the heat on and off every few minutes. Unless you’ve got any other suggestions.”
+Tina walked over to the bags and pulled out the digital thermometer. “Body temperature: ninety-eight point six. But keeping it there will be tricky. An electric stove’s lowest setting is around 200. We’d have to keep the pot on your range, and take shifts checking the thermometer, turning the heat on and off every few minutes. Unless you’ve got any other suggestions.”
 </p>
 <p>
 “Build a nest and sit on it?”
@@ -58,7 +58,7 @@ Tina laughed. “That would get the job done.”
 He walked mechanically to the door leading out to his garage. Circuit schematics materialized in his head. In his mind’s eye appeared fine gray rectilinear diagrams of transistors, power supplies, crossovers… It was child’s play.
 </p>
 <p>
-By the time Tina followed, he was already seated at his workbench. The thermometer was clamped into a vise beneath a table-mounted magnifying glass. He was slicing its translucent plastic shell with an X-ACTO knife.
+By the time Tina followed, he was already seated at his workbench, the thermometer vise-clamped beneath a table-mounted magnifying glass. He was slicing its translucent plastic shell with an X-ACTO knife.
 </p>
 <p>
 “Can I watch?” she asked, and leaned over his shoulder.
@@ -67,7 +67,7 @@ By the time Tina followed, he was already seated at his workbench. The thermomet
 He gently tapped the metal bulb at the tip of the thermometer with his blade. “See that? That’s the casing for a little thing called a ‘thermistor…’”
 </p>
 <p>
-The thermometer’s shell split in half beneath his knife. The narrow end dangled by two thin orange wires, barely as thick as a hair. Working carefully under the magnifying glass, he severed the two wires, worked on their naked tips with a soldering iron, and attached them to extensions several feet long.
+The thermometer’s shell split in half beneath his knife. The narrow end dangled by two thin orange wires, each barely as thick as a hair. Working deftly under the magnifying glass, he severed the two wires, worked on their naked tips with a soldering iron, and attached them to extensions several feet long.
 </p>
 <p>
 “Is that the temperature sensor?” asked Tina.
@@ -94,7 +94,7 @@ Tina said with a smile, “You know, it won’t reach body temperature in my han
 Their eyes still locked, she drew her hand away from his and turned the thermometer around in her fingers. Her lips parted. She slid it into her mouth, nestling the tip in the space beneath her tongue.
 </p>
 <p>
-Once he remembered to breathe again, Danny abruptly stood up from the workbench and turned away. He stepped to a case of narrow shelves, each bearing plastic bins filled with assorted electronic components. “So anyway… It won’t need much… One transistor… A switching power supply… MOSFET… Relay… A rheostat for calibration…” He returned to the workbench with a handful of black and silver objects. He selected a breadboard, an index-card-sized rectangle of white plastic dotted with a grid of hundreds of tiny holes. Into two of the countless sockets, he inserted the loose ends of the long wires soldered to the thermistor, still hanging from Tina’s mouth as she stood there blinking. He then began drawing pieces from his pile of components and adding them to the breadboard. “There!”
+Once he remembered to breathe again, Danny shot up from the workbench and turned away. He stepped to a case of narrow shelves, each bearing plastic bins filled with assorted electronic components. “So anyway… It won’t need much… One transistor… A switching power supply… MOSFET… Relay… A rheostat for calibration…” He returned to the workbench with a handful of black and silver objects. He selected a breadboard, an index-card-sized rectangle of white plastic dotted with a grid of hundreds of tiny holes. Into two of the countless sockets, he inserted the loose ends of the long wires soldered to the thermistor, still hanging from Tina’s mouth as she stood there blinking. He then began drawing pieces from his pile of components and adding them to the breadboard. “There!”
 </p>
 <p>
 Tina looked on. “Sho, umm… What’sh shish shing shupposhed to do?”
@@ -244,13 +244,13 @@ She ran her hand under his pajama shirt, her fingers tracing the contours of the
 Her last button undone, Danny stepped back to admire the sight of this lithe young lady against his fridge, her white shirt hanging open and exposing her tan bra and toned midsection. He took a moment to consume her curving feminine form with his eyes as she remained pressed with her back against the fridge. Tina smirked libidinously for a moment, wiggling teasingly against the fridge, happy to let him enjoy the view.
 </p>
 <p>
-She then kicked herself away from the fridge and reached out to grab him and yank him back to her by his pajama shirt, which she promptly pulled off of him. She flung it to the kitchen floor.
+She then kicked herself away from the fridge and reached out to grab him and yank him back to her by his pajama shirt, which she promptly pulled off him. She flung it to the kitchen floor.
 </p>
 <p>
 With both hands, he pulled her shirt off behind her, leaving the sleeves bunched at her wrists. She began to wriggle her hands to slide entirely free… but he didn’t want her to. Instead, he twisted the shirt tightly, trapping her hands behind her in its white fabric. Putting his other hand on her shoulder, he spun her around and pushed her against the fridge once more, pinning her face and chest against its door. While his one hand maintained the squeeze on the shirt bunched around her wrists to keep her hands immobile, his other deftly unhooked her bra, his agile fingers making quick work of the clasps. 
 </p>
 <p>
-At last he released her wrists, tossing her white shirt mindlessly aside and dropping her tan bra to the floor. With his body he kept her pinned against the refrigerator door, his naked torso pressing hungrily against the warm, supple skin of her back. She pressed one of her newly freed arms against the refrigerator, the palm flat against the door. The other reached up and back, her black-painted fingers clutching his head.  
+At last, he released her wrists, tossing her white shirt mindlessly aside and dropping her bra to the floor. With his body, he kept her pinned against the refrigerator door, his naked torso pressing hungrily against the warm, supple skin of her back. She pressed one of her newly freed arms against the refrigerator, the palm flat against the door. The other reached up and back, her black-painted fingers clutching his head.  
 </p>
 <p>
 His arms wrapped around to her front. One hand climbed upward to massage and caress her naked breast, molding around its soft round form. He gently pinched her nipple between two fingers, eliciting moans of delight from her parted lips.
@@ -259,22 +259,25 @@ His arms wrapped around to her front. One hand climbed upward to massage and car
 His other hand reached around the curve of her hip and climbed downward, past her abdomen, past her navel. He unthreaded her belt from its loops. Pulled it away from the buckle. Slid it open, letting its leather ends dangle aside. Nimbly unbuttoned her black slacks. Drew down the zipper. He took his time, enjoying hearing her gasp. 
 </p>
 <p>
-His fingers first stroked teasingly outside her panties, indulging in the slickness of her hot, moist passion. He kept his ministrations on the outside of the thin fabric until her face contorted in agony; then he finally granted her the relief of feeling him touch her with his bare fingers. He rubbed and stroked with a steady, pulse-like rhythm, matching his motions to the pace of her breathing. He keenly watched her face, relishing her pleasure.
+His fingers first stroked teasingly outside her panties, indulging in the slickness of her hot, moist passion. He kept his ministrations on the outside of the thin fabric until her face contorted in agony.
+</p>
+<p>
+Finally, he granted her the relief of feeling his bare fingers. He rubbed and stroked with a steady, pulse-like rhythm, matching the pace of her breathing. He monitored her face, relishing her pleasure.
 </p>
 <p>
 The subtle rocking of her hips progressively accelerated. Her panting breaths rose to gasps. Her moans began to crescendo into cries.
 </p>
 <p>
-Finally, when she seemed to approach the threshold of exploding, she suddenly pushed him violently away with both hands. She turned to face him, topless in her black slacks and low-heel pumps, and tilted her head slightly downward to look up at him with voracious eyes. Her face was flush, glowing with carnal cravings. She leaped to him like an untamed beast, a wildcat ready to devour a helpless prey. Her hand ran claw-like down his front, leaving a long trail in his skin from his chest to his abdomen. 
+She seemed mere micro-pulses away from climax when, suddenly, she shoved him away with both hands. She turned to face him, topless in her black slacks and low-heel pumps, and tilted her head slightly downward to look up at him with voracious eyes. Her face was flush, glowing with carnal cravings. She leaped to him like an untamed beast, a wildcat ready to devour a helpless prey. Her hand raked down his front, leaving a long trail in his skin from his chest to his abdomen. 
 </p>
 <p>
-He gave the kitchen a quick, determined scan. The counter looked like it was about the right height. With a sweep of his arm, groceries tumbled from the granite countertop and crashed onto the floor.
+He lightning-scanned the kitchen &mdash; the counter seemed about the right height. With a sweep of his arm, groceries tumbled from the granite countertop and crashed onto the floor.
 </p>
 <p>
-Tina hopped over to him, half-tripping, kicking off her shoes and pulling off her socks as she went. She gave him an eager kiss, then excitedly hopped up onto the counter. 
+Tina hopped over to him, half-tripping, kicking off her shoes and pulling off her socks. She kissed him maniacally, then leapt up onto the counter, awaiting sacrifice. 
 </p>
 <p>
-Danny pulled her slacks and panties down to her ankles, relishing the sight and sensation. 
+Danny drew her slacks and panties down to her ankles, relishing the sight and sensation. 
 </p>
 <p>
 With her rear on the countertop, in a flurry of leggy motion, she kicked the black slacks and panties away.
@@ -286,6 +289,6 @@ They landed on the kitchen floor, beside the bunched-up white shirt, beside the 
 Within the broth, the microscopic <em>E. coli</em> felt the warmth and moisture around them, and slowly awoke from their slumber. Mindless and hungry, they eagerly began partaking of the bountiful feast, ready to explore the vast new frontiers of this nutrient-filled vessel. 
 </p>
 <p>
-And on the countertop, the two lovers partook just as eagerly of one another. There was no boundary between the joys of their mutual intellectual achievement and their mutual physical pleasure. There was no separation between ecstasy of the mind, ecstasy of the body, and ecstasy of the soul. Their worlds &mdash; his of electronics and hers of biology, his of the mechanical and hers of the organic, his of the wizardly material and hers of the mystic divine &mdash; their passions, like their bodies, were made to be united. 
+And on the countertop, the two lovers partook just as eagerly of one another. No boundary separated the joys of their mutual intellectual achievement and their mutual physical pleasure. No walls stood between the ecstasies of the mind, the body, and the soul. Their worlds &mdash; his of electronics and hers of biology, his of the mechanical and hers of the organic, his of the wizardly material and hers of the mystic divine &mdash; their passions, like their bodies, were made to be united. 
 </p>
 </div>

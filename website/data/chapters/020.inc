@@ -69,7 +69,7 @@ Danny looked away. “She’s dead,” he said, just as the kettle whistled.
 Danny poured cups for the two of them and joined her at the counter. There, in the calm stillness of his house in the painfully late hour, he recounted the events of the factory. They sipped their tea, refilled their cups, and spoke.
 </p>
 <p>
-And as he talked, Tina noticed him relax. While initially his muscles were tight and his speech was halting, the more he told her the more he grew visibly at peace. As he finished his tale, he said quietly, “Thank you for coming over tonight, Tina.”
+And as he talked, Tina noticed him relax. While initially his muscles had been tight and his speech halting, the more he told her the more he grew visibly at peace. As he finished his tale, he said quietly, “Thank you for coming over tonight, Tina.”
 </p>
 <p>
 She leaned closer to him. “I’m glad I did.”
@@ -81,7 +81,7 @@ She leaned closer to him. “I’m glad I did.”
 “Oh really?” she coyly replied. She looked up at him with eager, expectant eyes.
 </p>
 <p>
-Danny reached out to touch her. She inched forward on her stool. His hand landed on her arm.
+Danny reached out to touch her. She inched forward on her stool. His fingertips alighted on her arm.
 </p>
 <p>
 He gave her a quick pat and said, “Yeah, my guest sheets are, like, a million thread count! Here, I’ll be right back…” He rushed off to his bedroom, came out a few moments later carrying blankets and a pillow, and zoomed off to the living room to dress the couch.

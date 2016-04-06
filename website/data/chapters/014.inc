@@ -1,12 +1,12 @@
 <div class="chapsection">
 <p>
-<span class="caplead">Tina watched the entire carton of Tropicana</span> Orange Juice disappear down Danny’s gullet. He grabbed it off the shelf and nursed it right there in the dairy section, taking multi-gulp swigs and pausing only to come up for air. 
+<span class="caplead">Tina watched the entire carton of Tropicana</span> Orange Juice disappear down Danny’s gullet. He’d grabbed it off the shelf and nursed it right there in the dairy section, taking multi-gulp swigs and pausing only to come up for air. 
 </p>
 <p>
-“You did not just chug that whole thing, did you?” she said.
+“You did <em>not</em> just chug that whole thing, did you?” she said.
 </p>
 <p>
-“Oh man, that hit the spot,” Danny said with a contented sigh. He wiped his mouth with the sleeve of Natalie’s oversized floral-print sweatshirt. He scanned the brightly-lit aisles of the Rite Aid, absent-mindedly handed the empty carton to Tina, and made a bee-line for a promotional display of Clif Bars near the checkout counters.
+“Oh man, that hit the spot,” Danny sighed. He wiped his mouth with the sleeve of Natalie’s oversized floral-print sweatshirt. He scanned the brightly-lit aisles of the Rite Aid, absent-mindedly handed the empty carton to Tina, and made a bee-line for a promotional display of Clif Bars near the checkout counters.
 </p>
 <p>
 “This thing is sixty ounces!” said Tina, reading the carton’s labeling as she followed.
@@ -24,7 +24,7 @@ Danny shrugged.
 “You do realize,” she pointed out, “that you’re going to piss your pants in five… four… three…”
 </p>
 <p>
-“Can’t pee right now,” he said with his mouth full. “Too busy eating.” He finished his snack in a second and grabbed two more bars from the display. He held them up in each hand in front of Tina. “Which one’s better for me? The Cool Mint Chocolate, or another Crunchy Peanut Butter?”
+“Can’t pee right now,” he said with his mouth full. “Too busy eating.” He finished his snack in a second, grabbed two more bars from the display, and held up one in each hand. “Which one’s better for me? The Cool Mint Chocolate, or another Crunchy Peanut Butter?”
 </p>
 <p>
 “How should I know?” said Tina.
@@ -33,7 +33,7 @@ Danny shrugged.
 Danny shrugged. “I don’t know. You seem to know what you’re doing when it comes to, like, medical…, you know, biological, organic… doohickeys. I know they just have you working at this biotech company as an office admin, but you seem good at this stuff.” 
 </p>
 <p>
-Tina was momentarily stunned into delighted silence. “Well,” she said with a smile, “I personally happen to be a fan of Cool Mint Chocolate…”
+Tina was momentarily, delightfully stunned. “Well,” she beamed, “I personally happen to be a fan of Cool Mint Chocolate…”
 </p>
 <p>
 With exaggerated graciousness, he extended the package to her. “Join me for dinner?”
@@ -54,7 +54,7 @@ Danny ripped the Peanut Butter Crunch package open with his teeth and immediatel
 She watched him scarf down his second Peanut Butter Crunch bar while she took her time with her Cool Mint Chocolate.
 </p>
 <p>
-“So. Danny…” she said between slow bites.
+“So… Danny…” she said between slow bites.
 </p>
 <p>
 “Hrmm?”
@@ -63,7 +63,7 @@ She watched him scarf down his second Peanut Butter Crunch bar while she took he
 “Who the hell are you?” 
 </p>
 <p>
-The question made him suddenly appear sullen. He slowed his chewing and stared at the floor. “I’m just a guy.”
+The question made him suddenly sullen. He slowed his chewing and stared at the floor. “I’m just a guy.”
 </p>
 <p>
 “A tech wizard guy?”
@@ -96,7 +96,7 @@ Tina nibbled on her Clif Bar. “Hmm. So you’re saying you believe the world s
 “It’s not that I believe it <em>should</em>,” he said with a self-deprecating smile, “It’s just that I certainly wouldn’t complain if it did.”
 </p>
 <p>
-Tina smiled back through another bite of her Clif Bar, her eyes twinkling. 
+Tina smiled through another bite, her eyes twinkling. 
 </p>
 <p>
 “All I mean,” Danny continued, “is that I want to be responsible for shaping the world I live in. Take something that’s inside me, in my mind, and use it to help define our reality. I feel like I was supposed to have done it a long time ago. I was in the right field at the right time. I had the right skills and the right talents. And now here I am, pushing forty, and I’m like, ‘What the fuck happened?’ Did I miss my exit on the highway or something? It’s like I’m off course. Like there’s this whole other life that I’m supposed to be living, right this minute, in some alternate reality… And instead I’m… here. Does that make any sense?”
@@ -108,13 +108,13 @@ Tina smiled back through another bite of her Clif Bar, her eyes twinkling.
 “So, what about you?” Danny asked. 
 </p>
 <p>
-“What about me?” she returned, with a wiggle.
+“What about me?” she returned, wiggling.
 </p>
 <p>
 “How did you learn biotechnology? Did you absorb it through osmosis at Tungsten?”
 </p>
 <p>
-Her cheeks turned slightly rosy. “I might have picked up a thing or two… The truth is, the only reason I went to work at Tungsten was because it’s such a small company I figured there’d be a chance they’d let the office admin migrate into a research position. It was a long shot, but it was worth taking.”
+Her cheeks went warm and rosy. “I might have picked up a thing or two… The truth is, I only started working at Tungsten because it’s such a small company. I figured there’d be a chance they’d let the office admin migrate into a research position. It was a long shot, but it was worth taking.”
 </p>
 <p>
 “So you intended to go into research from the start?”
@@ -132,7 +132,7 @@ Tina looked away. “I never finished. My junior year, my dad got really sick…
 Danny ventured, “Tuberculosis?”
 </p>
 <p>
-Tina shook her head. “That would be poetic, wouldn’t it? But no. Early-onset Parkinson’s. Very rapid progression. I moved back here to Seattle to help take care of him. And my mom had a really hard time coping, especially after he passed away… So, yeah, when you talk about life veering you down a track you hadn’t intended…”
+Tina shook her head. “That would be poetic, wouldn’t it? But, no. Early-onset Parkinson’s. Very rapid progression. I moved back here to Seattle to help take care of him. And my mom had a really hard time coping, especially after he passed away… So, yeah, when you talk about life veering you down a track you hadn’t intended…”
 </p>
 <p>
 “Especially when that track involves Russian hitmen,” Danny added.
@@ -144,19 +144,19 @@ Tina shuddered. “Yeah. God. The less of those I have to see from now on, the b
 Danny laughed. “<em>That’s</em> what upset you? Him texting while he was supposed to be giving you his undivided attention?”
 </p>
 <p>
-“Well, no, not really; I was, in fact, just a <em>little</em> more upset about the gun,” Tina said with a smile. “But still. How <em>rude</em>! Right?”
+“Well, no, not really; I was, in fact, just a <em>little</em> more upset about the gun,” Tina conceded, smiling. “But still. How <em>rude</em>! Right?”
 </p>
 <p>
-Danny suddenly lit up. “Oh! Speaking of that phone! Do you still have it?”
+Danny brightened. “Oh! Speaking of that phone! Do you still have it?”
 </p>
 <p>
 “Yeah, but it’s locked,” Tina said.
 </p>
 <p>
-Danny smirked. “Oh really?”
+Danny smirked. “Oh, really?”
 </p>
 <p>
-“I checked it on our way to Nat’s place. You need a password to get into it.”
+“I checked it on our way to Nat’s place. You need a password.”
 </p>
 <p>
 Danny laughed. “We’ll see about that.”
@@ -174,22 +174,22 @@ Tina shrugged.
 “Well it’s not. This is a Pantech. AT&amp;T sells them as part of a GoPhone package &mdash;where you pay cash up front and your name never shows up on any phone records. In other words, this is a disposable phone. And it’s a good one for the price, really. Supports MMS, BlueTooth, email, web browsing, GPS…”
 </p>
 <p>
-“So what can you do with it?” Tina said, skeptical but eager.
+“So what can you do with it?” Tina asked, skeptical but eager.
 </p>
 <p>
 Danny pressed the phone’s Power key. The screen greeted him with a tall rectangle with one clipped corner, with a gold square in the middle. A prompt read, “PIN Code”, with an empty box awaiting a number.
 </p>
 <p>
-“Plenty,” he said with a sinister grin. “See, there’s basically two different ways to lock a SmartPhone like this. The lock can apply either to the phone itself, or to the removable SIM card inside it. Locking the phone protects all of the data stored on it &mdash; emails, photos, contact lists, that kind of thing. Locking the SIM prevents charges to the phone number &mdash; like voice minutes, text messages, and data usage. Now, our Russian friend here chose to lock the SIM, which means we can’t use this phone for placing calls pretending to be him. What we <em>can</em> do, though, is this…”
+“Plenty,” he said with a sinister grin. “See, there’s basically two different ways to lock a smartphone like this. The lock can apply either to the phone itself, or to the removable SIM card inside it. Locking the <em>phone</em> protects all of the data stored on it &mdash; emails, photos, contact lists, that kind of thing. While locking the <em>SIM</em> prevents incurring charges to the phone <em>number</em> &mdash; like making calls, or sending text messages, or using the data plan. Now, our Russian friend here chose to lock the SIM, which means we can’t use this phone for placing calls pretending to be him. What we <em>can</em> do, though, is this…”
 </p>
 <p>
-He flipped the phone over, unlatched the rear cover, and pried out the battery. Behind the hollow space sat a small plastic card about the size of a thumbnail, rectangular with one clipped corner. The card was white with blue and orange markings reading, “AT&amp;T Go”. Danny pulled the small card out, revealing a gold square embedded in its underside. “He won’t be needing this anymore…”
+He flipped the phone over, unlatched the rear cover, and pried out the battery. Behind the hollow space sat a small plastic card about the size of a thumbnail, rectangular with one clipped corner. The card was white with blue and orange markings reading, “AT&amp;T Go”. Danny pulled the card out, revealing a gold square embedded in its underside. “He won’t be needing this anymore…”
 </p>
 <p>
 “That’s the SIM card, right?” Tina asked.
 </p>
 <p>
-“Yeah,” said Danny as he slid the small piece of plastic into his pocket. “It tells your phone who you are. It holds the Subscriber Identity Module &mdash; basically a tiny computer built right into the card. The microchip stores a secret code called your IMSI &mdash; your International Mobile Subscriber Identity. Your cellular service provider, like AT&amp;T, links your IMSI to your account information &mdash; what your balance is, how many minutes you have left this month, that kind of thing. It’s a clever little system that lets customers upgrade their phones while still keeping the same phone number &mdash; you just pop your SIM card out of one phone and into another, and your phone number and account info go where the SIM goes.”
+“Yeah,” said Danny as he slid the tiny piece of plastic into his pocket. “It tells your phone who you are. It holds the Subscriber Identity Module &mdash; basically an itty bitty computer built right into the card. The microchip stores a secret code called your IMSI &mdash; your International Mobile Subscriber Identity. Your cellular service provider, like AT&amp;T, links your IMSI to your account information &mdash; what your balance is, how many minutes you have left this month, that kind of thing. It’s a clever little system that lets customers upgrade their phones while still keeping the same phone number &mdash; you just pop your SIM card out of one phone and into another, and your phone number goes where the SIM goes.”
 </p>
 <p>
 “So, all cellphones have one?” Tina asked.
@@ -213,19 +213,19 @@ Danny scanned the Rite Aid. “Now, I just need…” Suddenly, still holding bo
 “Hey! Where are you going with my phone!” Tina demanded.
 </p>
 <p>
-Danny hopped back to the counter. “…this!” he said, and triumphantly held up a partially unbent paper clip.
+Danny hopped back to the counter. “…This!” he said, triumphantly twiddling a partially unbent paperclip.
 </p>
 <p>
 “I don’t think I like where this is going,” Tina said.
 </p>
 <p>
-“It’s okay,” Danny said, turning Tina’s phone around in his hand. “Everything will be juuuuust…” 
+“It’s okay,” Danny assured, turning Tina’s phone around in his hand. “Everything will be juuuuust…” 
 </p>
 <p>
-He found a tiny, almost invisible hole along the edge of the iPhone. Tina watched in fascinated horror as he took the unwound end of the paper clip, brought the tip to the small round opening, and thrust it deep inside. The paper clip hit a latch mechanism. With a click, a thin plastic cartridge slid out from a nearly invisible seam. 
+He found a nearly invisible hole along the edge of the iPhone. Tina watched in fascinated horror as he took the straightened paperclip, put its tip into the tiny opening, and thrust it deep inside. It hit a latch mechanism. With a click, a thin plastic cartridge slid out from a nearly invisible seam. 
 </p>
 <p>
-“…fine!” Danny said triumphantly.
+“…Fine!” Danny proclaimed.
 </p>
 <p>
 Tina felt violated by proxy.
@@ -237,10 +237,10 @@ Danny withdrew the cartridge from Tina’s iPhone. Clipped onto it was a SIM car
 Tina eyed him warily. “You’re going to put everything back together when you’re done, right?”
 </p>
 <p>
-Danny smirked, and inserted Tina’s SIM card into the Russian’s Pantech. He put the Pantech’s battery and rear cover back, and restarted the device. Its screen showed a status message indicating seven missed calls. “Booyah! Victory!” he announced, waving the phone in the air triumphantly.
+Danny smirked, and inserted Tina’s SIM card into the Russian’s Pantech. He put the Pantech’s battery and rear cover back, and restarted the device. Its screen showed a status message indicating seven missed calls. “Booyah! Victory!” he announced, waving the phone above his head.
 </p>
 <p>
-“Whoa. Not bad!” Tina said with a coy grin.
+“Whoa. Not bad!” Tina said, grinning coyly.
 </p>
 <p>
 “Oh, I’m just getting started,” said Danny. “Now comes the <em>really</em> fun part: figuring out as much about this dude as possible. Let’s start with these calls he missed… Hmm. They’re all from some guy who’s just listed as ‘Sergey’ in this dude’s address book. We have his number. Want to prank-call him?”
@@ -255,7 +255,7 @@ Tina giggled. “Let’s not.”
 Tina couldn’t see the screen. “You want to share?” she asked suggestively.
 </p>
 <p>
-“Uh, maybe some other time?” Danny replied with a blush.
+“Uh, maybe some other time?” Danny replied, his cheeks almost crimson.
 </p>
 <p>
 “What else can you find on there?” Tina asked.
@@ -279,13 +279,13 @@ Tina laughed incredulously. “No way! You can see his bank statements?”
 “A ‘life password’? What’s that?” Tina asked.
 </p>
 <p>
-“It’s the password that unlocks your entire life. People have a thousand online accounts. And they always use the same damn password for everything. All it takes is one website to mis-handle your password, and your whole life is wide open. Everybody does it. Take you, for example. Your Facebook password, your bank password, your password for your corporate email at work. Admit it. They’re all the same, aren’t they?”
+“It’s the password that unlocks your entire life. People have a thousand online accounts. And they always use the same damn password for everything. All it takes is one website to mishandle your password, and your whole life is wide open. Everybody does it. Take you, for example. Your Facebook password, your bank password, your password for your corporate email at work. Admit it. They’re all the same, aren’t they?”
 </p>
 <p>
-Tina stared at him in horror. “Not… necessarily…!” she squeaked. She felt as though she were standing completely naked in front of him.
+Tina stared at him, horrified. “Not… necessarily…!” she squeaked. She felt as though she were standing naked before him.
 </p>
 <p>
-Danny chuckled, and began thumbing the Pantech’s keyboard. “All I have to do is go through these websites that he gets these emails from, and request a password reset. They make it easy &mdash; a link to the website is the first thing in the email, and on most websites the ‘Forgot Password’ button is under the login prompt. Evite… Bam… Meetup… Bam… Groupon… Bam…” 
+Chuckling, Danny began thumbing the Pantech’s keyboard. “All I have to do is go through these websites that he gets these emails from, and request a password reset. They make it easy &mdash; a link to the website is the first thing in the email, and on most websites the ‘Forgot Password’ button is under the login prompt. Evite… Bam… Meetup… Bam… Groupon… Bam…” 
 </p>
 <p>
 As he continued digging through the email, the Pantech started emitting small blipping noises. “Ah, here we go,” said Danny. “The password reset emails are coming in… See, proper password handling protocols demand that a website never, ever send a password in plaintext. In fact, a website shouldn’t even store your password on their servers… But every now and then… you get a website that… Ah, here we go! …That does shit like this…” He turned the phone’s screen toward Tina. 
@@ -311,7 +311,7 @@ The eFITNESS Power Gym Team
 </pre>
 
 <p>
-“See that?” Danny said. “All it takes is one. Now, think those credentials will work on his Wells Fargo account? Copy… paste… and…” Danny again turned the screen toward Tina. 
+“See that?” Danny explained. “All it takes is one. Now, think those credentials will work on his Wells Fargo account? Copy… paste… and…” Danny again turned the screen toward Tina. 
 </p>
 <p>
 The screen showed a Wells Fargo account management web page. Below the title banner and greeting text was a list of several bank account numbers with summaries, each one showing a six-figure balance. Buttons on the page offered the ability to view transaction histories, pay bills, perform wire transfers, request loans, and generally wreak havoc.
@@ -323,16 +323,10 @@ The screen showed a Wells Fargo account management web page. Below the title ban
 “Dude,” Tina said slowly. “You did not!”
 </p>
 <p>
-“I did!” he said with an enormous, cocky smirk.
+His giant cocky smirk spoke on his behalf.
 </p>
 <p>
-“You just hacked the Russian mob,” she said, grinning in incredulity.
-</p>
-<p>
-“Uhhhhh, kinda sorta, yeah.”
-</p>
-<p>
-“Using nothing but the dude’s cell!”
+“You just hacked the Russian mob,” she said, grinning in incredulity. “Using nothing but the dude’s cell!”
 </p>
 <p>
 “Yup.”
@@ -353,16 +347,16 @@ Danny stepped toward her. He placed the Pantech into her hand, the skin of their
 
 <div class="chapsection">
 <p>
-<span class="caplead">Danny came back to find</span> Tina still at the register, with the empty OJ and the pile of Clif Bar wrappers in the basket beside her. She was holding the Eppendorf tube up to her eyes, scrutinizing it very closely.
+<span class="caplead">Danny came back to find</span> Tina still at the register. The empty OJ and the pile of Clif Bar wrappers lay in the basket beside her, still waiting to be brought to the lone dead-eyed checkout clerk at the official conclusion of their snack run. She was holding the Eppendorf tube up to her eyes, scrutinizing it very closely.
 </p>
 <p>
-“I know what you’re thinking,” said Danny, “and the answer is: Yes, I <em>can</em> use that to make a teeny tiny little lava lamp.”
+“I know what you’re thinking,” said Danny, “and the answer is: Yes, I <em>can</em> use that to make a teeny little lava lamp.”
 </p>
 <p>
 “Danny, look at this…” she said, fascinated.
 </p>
 <p>
-He moved his face next to hers. Together, they stared intently at the vial of brown slime. The smiley face sticker on the side of the vial stared back at them.
+He moved his face next to hers. Together, they stared intently at the vial of brown slime. The smiley face sticker on the side seemed to taunt them.
 </p>
 <p>
 “What am I supposed to be seeing?” he asked.
@@ -374,25 +368,22 @@ He moved his face next to hers. Together, they stared intently at the vial of br
 “So?”
 </p>
 <p>
-“Danny, do you still have that paper clip?”
-</p>
-<p>
-He handed it to her. She straightened the clip into a long metal wire. “We need to sterilize this,” she said. With vial and paper clip in hand, she marched back into the store, retrieving another shopping basket on the way.
+“Danny, do you still have that paperclip?” She took the long metal wire from him. “We need to sterilize this.” She marched back into the store, retrieving another shopping basket on the way.
 </p>
 <p>
 Danny followed her to the First Aid aisle. Her first move was to find a box of latex gloves. She tore the box and pulled one white glove onto her hand. 
 </p>
 <p>
-She grabbed a small bottle of rubbing alcohol and set it on an empty shelf nearby. She dipped the paper clip and held it there, letting it soak. Danny heard her counting time under her breath. She repeated the process with each finger of her latex-gloved hand, drying them off with a few brisk shakes. “Good enough,” she mumbled.
+She grabbed a small bottle of rubbing alcohol and set it on an empty shelf nearby. She dipped the paperclip and held it there to soak. Danny heard her counting time under her breath. She repeated the process with each finger of her latex-gloved hand, drying them off with a few brisk shakes. “Good enough,” she mumbled.
 </p>
 <p>
-With her tools and her fingers adequately cleaned, she popped the top of the Eppendorf tube and dipped the tip of the paper clip into the vial. It made a hard scratching sound. When she was done, she pulled the paperclip out of the tube and examined it closely. 
+With her tools and fingers adequately cleaned, she popped the top of the Eppendorf tube and dipped the tip of the clip into the vial. It made a hard scratching sound. When she was done, she pulled the paperclip from the tube and studied it closely. 
 </p>
 <p>
-The pale brown goo had congealed into a hard resin that clung to the paper clip in large crusty yellow flakes. Looking at it, Danny was reminded of something a dentist might scrape off of the back of someone’s teeth.
+The pale brown goo had congealed into a hard resin that clung to the paperclip in large crusty yellow flakes. Looking at it, Danny thought of something a dentist might scrape off of the back of someone’s teeth.
 </p>
 <p>
-“Is it supposed to do that?” Danny asked.
+“Is it supposed to do that?” he asked.
 </p>
 <p>
 “Only when they’re scared shitless,” Tina replied, closing the tube.
@@ -401,13 +392,13 @@ The pale brown goo had congealed into a hard resin that clung to the paper clip 
 “Who’s ‘they’?” Danny felt clueless.
 </p>
 <p>
-“The <em>E. coli</em> bacteria,” Tina answered, staring at the yellow-white crust on the tip of the paperclip. She gently transferred the flake to her latex-gloved index finger, and held it inches from her eye, holding her breath as she studied the substance.  
+“The <em>E. coli</em> bacteria,” Tina answered, staring at the yellow-white crust on the tip of the paperclip. She gently transferred the flake to her gloved index finger, and held it inches from her eye, holding her breath as she studied the substance.  
 </p>
 <p>
 “You can tell what mood they’re in?”
 </p>
 <p>
-Tina pinched the grain between the thumb and forefinger of her gloved hand. She used her other hand to roll off the glove, turning it inside out, holding the pinch the whole time. When it was finally off she gave the latex several twists and knotted it off near the base of the digits. The yellowish flake remained sealed in the glove’s inverted surface.
+Tina pinched the grain between her thumb and forefinger. She used her other hand to roll off the glove, turning it inside out, holding the pinch the whole time. When it was finally off, she gave the latex several twists and knotted it off near the base of the digits. The yellowish flake remained sealed in the glove’s inverted surface.
 </p>
 <p>
 “They’ve locked themselves into a biofilm,” Tina said. 
@@ -416,7 +407,7 @@ Tina pinched the grain between the thumb and forefinger of her gloved hand. She 
 Danny shrugged dumbly.
 </p>
 <p>
-“It’s like they’re circling their wagons,” she said. “It’s a cooperative emergency defense mechanism. A lot of strains of bacteria, when they feel like they’re in danger, they start to exude this thick mix of starches and proteins. A bacterium starts cranking this stuff out when it senses it’s dying. When nearby bacteria feel their neighbors spewing this stuff, they start to spew it too, so the entire colony hides inside a massive layer of sticky crust. It’s like they make a little fort. And once they’re inside, they go into a natural suspended animation. They basically shut down all their life processes except for the barest essentials, and sit there and wait for the threat to pass.”
+“It’s like they’re circling their wagons,” she said. “It’s a cooperative emergency defense mechanism. A lot of strains of bacteria, when they feel like they’re in danger, they start to exude this thick mix of starches and proteins. A bacterium starts cranking this stuff out when it senses it’s dying. When nearby bacteria feel their neighbors spewing this stuff, they start spewing too, so the entire colony hides inside a massive layer of sticky crust. It’s like they make a little fort. And once they’re inside, they go into a natural suspended animation. They basically shut down all their life processes except for the barest essentials, and sit there and wait for the threat to pass.”
 </p>
 <p>
 “That crusty stuff is a panic room for germs?” said Danny.
@@ -443,7 +434,7 @@ Danny shrugged dumbly.
 Tina looked around, taking stock of the drugstore. With a gleam in her eye, she said, “Let’s see what I can do!” She put the tied-off latex glove and the rubbing alcohol into the shopping basket, and scanned the shelves of the First Aid aisle. She found a digital oral thermometer and added it to her cache. “We’re going to make us some lysogeny broth. See if you can find a Pyrex bowl. At least a quart. With a lid. And grab a measuring cup. And an oven mitt. If we’re lucky, Nat might find us an autoclave at the hospital. If not, we’ll just take our chances with her stove. Lord knows it’s never been used for cooking.”
 </p>
 <p>
-“Uh… Sure! Yes! Okay!” Danny replied. He sensed that something technical was happening, but it was so far outside of his domain of expertise that he felt like a total layman. He hadn’t felt like that in a very, very long time. He found himself liking it. Or more specifically, liking being made to feel this way. Or more specifically still, being made to feel this way by her. He set out toward the kitchenware section and gathered Tina’s spell components.
+“Uh… Sure! Yes! Okay!” Danny replied. He sensed that something technical was happening &mdash; but, whatever it was, it was so far outside of his domain of expertise that he felt like a total layman. He hadn’t felt like that in a very, very long time. He found himself liking it. Or more specifically, liking being made to feel this way. Or more specifically still, being made to feel this way <em>by her</em>. He set out toward the kitchenware section and gathered Tina’s spell components.
 </p>
 <p>
 When he finished, he found her in a nearby aisle. He dropped his materials into her basket. “What else do we need for this soup recipe?”
@@ -458,7 +449,7 @@ When he finished, he found her in a nearby aisle. He dropped his materials into 
 Tina blushed. “It’s easier than it looks. The trick with biology is that these things <em>want</em> to work by themselves. Living things are self-correcting. It’s called homeostasis. If you have a biological process and something goes wrong, it usually breaks in a way that compensates for the damage.”
 </p>
 <p>
-“Yeah, in engineering we call that a robust failure mode,” said Danny. “It’s a form of fault tolerance. If a component fails, the other components of the system not only compensate but actually help get the failed component working again.”
+“In engineering we call that a robust failure mode,” said Danny. “It’s a form of fault tolerance. If a component fails, the other components of the system not only compensate but actually help get the failed component working again.”
 </p>
 <p>
 “Yeah. In nature, everything’s built that way,” said Tina. “Life’s a lot less fragile than most people think. Humans have been building machines for about five thousand years. Cellular life has been self-replicating for about three and a half billion. It’s probably doing something right.”
@@ -476,16 +467,16 @@ Danny felt both inspired and intimidated. “So, those other ingredients…” h
 “You’re looking at me like you want to say something,” she said.
 </p>
 <p>
-“Heh, it’s nothing. I’m just… impressed.” She met his gaze again with a look that cut his breath short &mdash; her hair falling around her face, her dark eyes looking mischievously at him. Her nose stud glinted in the fluorescent light. “So. Amino acids, right?” he said abruptly. 
+“Heh, it’s nothing. I’m just… impressed.” She met his gaze again with a look that cut his breath short &mdash; her hair falling around her face, her dark eyes looking mischievously at him. Her nose stud glinted in the fluorescent light. “So. Amino acids, right?”
 </p>
 <p>
 “Yeah…” she said.
 </p>
 <p>
-“I have an idea. Follow me.” He led Tina to the Diet Supplements aisle. Amidst white bottles filled with pills of calcium and zinc and vitamins were tubs of powdered bodybuilding formulas, with names like “Cyto Gainer”, “Muscle Milk”, and “Amino Fuel”.
+“I have an idea. Follow me.” He led Tina to the Diet Supplements aisle. Amidst white bottles filled with pills of calcium and zinc and vitamins were tubs of powdered bodybuilding formulas, with names such as “Cyto Gainer”, “Muscle Milk”, and “Amino Fuel”.
 </p>
 <p>
-Tina nodded gleefully. “Danny, you’re a freakin’ genius!” She picked up a tub labeled “Complete Casein”. “Ohhhhhhhh man, they are going to love this shit!” she said as she read the nutritional information on the back. She took the vial in one hand and wiggled it toward the tub, saying, “Right, little guys? You want some casein? Some nice tasty casein? Yes you do! Oh yes you do! And maybe some B-complex gel-caps? Yeah? Good little <em>E. coli</em>!”
+Tina nodded gleefully. “Danny, you’re a freakin’ genius!” She picked up a tub labeled “Complete Casein”. “Ohhhhhhhh man, they are going to love this shit!” she rejoiced as she read the nutritional information on the back. She took the vial and wiggled it toward the tub, softly assuring, “Right, little guys? You want some casein? Some nice tasty casein? Oh <em>yes</em> you do! And maybe some B-complex gel-caps? Yeah? Good little <em>E. coli</em>!”
 </p>
 <p>
 Danny smiled warmly at her antics.
@@ -503,7 +494,7 @@ She paused for a moment. “Hey Danny.”
 “What?”
 </p>
 <p>
-“You’re looking at me like that again,” she said with a tone that made it clear that she rather liked it.
+“You’re looking at me like that again.” Her tone strongly implied that she didn’t disapprove.
 </p>
 <p>
 His mind filled with a thousand possible responses. 
@@ -515,7 +506,7 @@ He mustered up his deepest reserves of confidence, leaned toward her, and said s
 “I was actually wondering,” she said as she took a step toward him and looked up into his eyes, “if <em>you’re</em> going to do something about it.”
 </p>
 <p>
-He laid his hand on her waist to pull her closer. She eagerly pressed her body against his. The feel of her toned midsection hit his veins like a shot of opium, sending his head spinning in blissful delirium. He drew his lips down toward hers. She reciprocated, reaching up to slide her hand across the back of his neck, and guided his face down to meet hers.
+He reached out, and pulled her closer by her waist. She eagerly pressed her body against his. The feel of her toned midsection hit his veins like a shot of opium, sending his head spinning in blissful delirium. He drew his lips down toward hers. She reciprocated, reaching up to slide her hand across the back of his neck, and guided his face down to meet hers.
 </p>
 <p>
 He watched himself kissing her in an out-of-body experience, the camera of his eye circling around them. The Rite Aid’s muzak became a punk-pop love ballad. Bystanders started applauding. The credits rolled, and they lived happily ever after.
@@ -524,10 +515,10 @@ He watched himself kissing her in an out-of-body experience, the camera of his e
 None of that happened.
 </p>
 <p>
-She had said, “You’re looking at me like that again,” with an inviting smile, her bright eyes looking expectantly at him. He knew he should act. He told himself to act. But he found himself merely standing idly like a dunce, feeling the moment slip away.
+She had said, “You’re looking at me like that again,” with an inviting smile, her bright eyes looking expectantly at him. He knew he should act. He told himself to act. But he found himself standing idly, duncelike, feeling the moment slip away.
 </p>
 <p>
-The awkward tension was broken by an explosion of noise from Tina’s purse. 
+An explosion of noise from Tina’s purse broke the awkward tension.
 </p>
 <p>
 They both looked in surprise at the bag. From the purse flowed music &mdash; a tinny pop song sung in a foreign language.
@@ -611,7 +602,7 @@ The voice interrupted her.
 The voice grumbled.
 </p>
 <p>
-“What? No! I can’t…” Tina insisted. The voice responded. As it talked, she began to cry. “No! Please, you don’t have to…”
+“What? No! I <em>can’t</em>…” Tina insisted. The voice responded. As it talked, she began to cry. “No! Please, you don’t have to…”
 </p>
 <p>
 The voice said something.

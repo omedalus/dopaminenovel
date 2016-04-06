@@ -311,7 +311,7 @@ Danny swallowed hard.
 <br/>
 
 <p>
-Danny found himself wrestling with his phone’s autocorrect as his fingers trembled.
+Danny found himself fumbling the phone’s on-screen keyboard as his fingers trembled.
 </p>
 
 <br/>

@@ -64,6 +64,10 @@ hr {
   page: blankpage;
 }
 
+.inspirationquotepage {
+  page: inspirationquotepage;
+}
+
 .titlepage {
   text-align: center;
   page: titlepage;
@@ -74,16 +78,16 @@ hr {
   font-variant: small-caps;
   font-weight: bold;
   line-height: 1em;
-  margin-bottom: .5em;
-  margin-top: 1.5em;
+  /*margin-bottom: .5em;*/
+  margin-top: .5em;
   xxx-text-shadow: 2px 2px 2px #102041, -1px -1px 1px #102041;
 }
 .titlepage .authorbyline {
   font-style: italic;
+  margin-top: 1em;
 }
 .titlepage .authorname {
   font-weight: bold;
-  margin-top: 1em;
 }
 
 /* Copyright */

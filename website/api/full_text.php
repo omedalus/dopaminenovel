@@ -14,9 +14,9 @@ $internalcss = $_GET['internalcss'] == 'true';
 
 $exportable = $_GET['exportable'] == 'true';
 if ($exportable) {
-  $showtitle = false;
-  $showcopyright = false;
-  $showtoc = false;
+  //$showtitle = false;
+  //$showcopyright = false;
+  //$showtoc = false;
   $includescripts = false;
   $internalcss = true;
 }
@@ -30,20 +30,20 @@ echo <<<EOL
 <html lang="en-us" xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <title>Dopamine</title>
-  <base href=".." target="_self" />
+  <base target="_self" />
 
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="favicons/favicon.ico?v=3" />
+  <link rel="shortcut icon" href="../favicons/favicon.ico?v=3" />
 EOL;
 
 if ($includescripts) {
   echo <<<EOL
-  <script src="thirdparty/jquery-1.10.2.min.js"></script>
-  <script src="thirdparty/underscore-min.js"></script>
+  <script src="../thirdparty/jquery-1.10.2.min.js"></script>
+  <script src="../thirdparty/underscore-min.js"></script>
 
-  <script src="api/script.js"></script>
+  <script src="../api/script.js"></script>
   $mturkscript
 EOL;
 }
@@ -59,7 +59,7 @@ EOL;
 EOL;
 } else {
   echo <<<EOL
-  <link rel="stylesheet" type="text/css" href="css/fulltext.css" />
+  <link rel="stylesheet" type="text/css" href="../css/fulltext.css" />
 EOL;
 }
 
@@ -70,15 +70,21 @@ EOL;
 
 if ($showtitle) {
   echo <<<EOL
-<div class="titlepage">
+<div class="titlepage" id="titlepage">
   <div class="booktitle">
-    Dopamine
+    <img src="../img/dopamine-title-text-filled.png"
+        alt="Dopamine" />
+  </div>
+  <div>
+    <img src="../img/smileyvial-round.png"/>
   </div>
   <div class="authorbyline">
-    A novel by
+    <img src="../img/ANovelBy.png"
+        alt="A Novel By" />
   </div>
   <div class="authorname">
-    Mikhail Voloshin
+    <img src="../img/MikhailVoloshin.png"
+        alt="Mikhail Voloshin" />
   </div>
 </div>
 EOL;
@@ -87,16 +93,20 @@ EOL;
 
 if ($showcopyright) {
   echo <<<EOL
-<div class="copyrightpage">
+<div class="copyrightpage" id="copyrightpage">
   <div class="booktitle-redux">
     Dopamine
   </div>
   <div class="fictionnotice">
-    This is a work of fiction. Names, characters, places, and incidents either are the product of the author’s imagination or are used fictitiously, and any resemblance to actual persons, living or dead, events, or locales is entirely coincidental.
+    <i>Dopamine</i> a work of fiction. Names, characters, places, and incidents either are the product of the author’s imagination or are used fictitiously. Any resemblance to actual persons, living or dead, events, or locales is entirely coincidental.
   </div>
 
+  <div class="publisher">
+    Published in the United States with Kindle Direct Publishing.
+  </div>
+  
   <div class="copyright">
-    Copyright 2014 &copy; Mikhail Voloshin<br/>
+    Copyright 2016 &copy; Mikhail Voloshin<br/>
     All rights reserved.
   </div>
 </div>
@@ -110,10 +120,12 @@ $chapter_files = array_values(preg_grep("/\d+\.inc/", $all_files));
 if ($showtoc) {
   echo <<<EOL
 <div class="tocpage">
-<a id="TOC"><h3>Table of contents</h3></a>
+<a id="tocitself"><h3>Table of contents</h3></a>
 
 <nav id="toc">
 <ol>
+  <li><i><a href="#titlepage">Title</a></i></li>
+  <li><i><a href="#copyrightpage">Copyright</a></i></li>
 EOL;
   $tocsection = '';
   foreach ($chapter_files as $chapter_file) {
@@ -130,7 +142,7 @@ EOL;
     }
 
     echo <<<EOL
-  <li><a href="/api/full_text.php#$chapter_anchor">$tocsection &mdash; Chapter $chapter_number</a></li>
+  <li><a href="#$chapter_anchor">$tocsection &mdash; Chapter $chapter_number</a></li>
 EOL;
   }
   echo <<<EOL
@@ -141,6 +153,17 @@ EOL;
 EOL;
 }
 
+
+echo <<<EOL
+<div class="inspirationquotepage">
+  <blockquote class="prechapter">
+    “The most lively thought is still inferior to the dullest sensation.”
+    <div class="attrib">
+      &mdash; David Hume (1711-1776)
+    </div>
+  </blockquote>
+</div>
+EOL;
 
 $cursection = '';
 foreach ($chapter_files as $chapter_file) {

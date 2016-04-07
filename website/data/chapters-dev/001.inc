@@ -1,10 +1,3 @@
-<blockquote class="prechapter">
-  “The most lively thought is still inferior to the dullest sensation.”
-  <div class="attrib">
-    &mdash; David Hume (1711-1776)
-  </div>
-</blockquote>
-
 <div class="chapsection">
 <p>
 <span class="caplead">Peanut shells crunched under</span> Eugene’s designer sneakers. He leaned against the carving-pocked bar, careful to avoid dipping the elbow of his custom-fit leather jacket into something sticky and unnameable. Around him, tattooed men with large bellies and larger beards swigged Jack Daniels and bragged about their horsepower beneath the blare of the jukebox.

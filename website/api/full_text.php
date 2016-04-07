@@ -9,8 +9,8 @@ $mturkscript = $mturk ? '<script src="api/mturk.js"></script>' : '';
 $showtitle = !($_GET['showtitle'] == 'false');
 $showcopyright = !($_GET['showcopyright'] == 'false');
 $showtoc = !($_GET['showtoc'] == 'false');
-$includescripts = !($_GET['includescripts'] == 'false');
-$internalcss = $_GET['internalcss'] == 'true';
+$includescripts = $_GET['includescripts'] == 'true';
+$internalcss = !($_GET['internalcss'] == 'false');
 
 $exportable = $_GET['exportable'] == 'true';
 if ($exportable) {
@@ -117,6 +117,17 @@ $chapter_dir = "../data/" . $dirname . "/";
 $all_files = scandir($chapter_dir);
 $chapter_files = array_values(preg_grep("/\d+\.inc/", $all_files));
 
+echo <<<EOL
+<div class="epigraphpage" id="epigraphpage">
+  <blockquote class="prechapter">
+    “The most lively thought is still inferior to the dullest sensation.”
+    <div class="attrib">
+      &mdash; David Hume (1711-1776)
+    </div>
+  </blockquote>
+</div>
+EOL;
+
 if ($showtoc) {
   echo <<<EOL
 <div class="tocpage">
@@ -126,6 +137,8 @@ if ($showtoc) {
 <ol>
   <li><i><a href="#titlepage">Title</a></i></li>
   <li><i><a href="#copyrightpage">Copyright</a></i></li>
+  <li><i><a href="#epigraphpage">Epigraph</a></i></li>
+  
 EOL;
   $tocsection = '';
   foreach ($chapter_files as $chapter_file) {
@@ -147,23 +160,15 @@ EOL;
   }
   echo <<<EOL
 
+  <li><i><a href="#acknowledgements">Acknowledgements</a></i></li>
+  
+  
 </ol>
 </nav>
 </div>
 EOL;
 }
 
-
-echo <<<EOL
-<div class="inspirationquotepage">
-  <blockquote class="prechapter">
-    “The most lively thought is still inferior to the dullest sensation.”
-    <div class="attrib">
-      &mdash; David Hume (1711-1776)
-    </div>
-  </blockquote>
-</div>
-EOL;
 
 $cursection = '';
 foreach ($chapter_files as $chapter_file) {
@@ -201,6 +206,18 @@ $chapter_text
 
 EOL;
 }
+
+$acknowledgements_text = file_get_contents('../data/acknowledgements.inc');
+echo <<<EOL
+<div class="chapter acknowledgementschapter">
+<div class="chapternumber">
+  <a id="acknowledgements" >
+    Acknowledgements
+  </a>
+</div>
+$acknowledgements_text
+</div>
+EOL;
 
 echo <<<EOL
 </body>

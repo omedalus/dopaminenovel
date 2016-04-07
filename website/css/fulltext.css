@@ -64,8 +64,9 @@ hr {
   page: blankpage;
 }
 
-.inspirationquotepage {
-  page: inspirationquotepage;
+.epigraphpage {
+  margin-top: 5em;
+  page: epigraphpage;
 }
 
 .titlepage {
@@ -223,6 +224,21 @@ hr {
 .printonly {
   display: none;
 }
+
+.acknowledgementschapter  {
+  font-size: 12px;
+  line-height: 24px;
+}
+
+.acknowledgementschapter .chapternumber {
+  font-size: 20px;
+  margin-bottom: 1em;
+  text-align: left;
+}
+.acknowledgementschapter  p:first-child {
+  text-indent: 0;
+}
+
 
 /* Drop cap. */
 .chapsection p:first-child:first-letter { 

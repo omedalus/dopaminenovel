@@ -135,10 +135,10 @@ Jason shrugged. “And…?”
 “And so are we,” said Danny. “The difference is, <em>they</em> seem to know what they’re looking for. We’re here to steal Tungsten’s secrets, right? <em>Something</em> is in that freezer. Something valuable. I say we take it. We’re hackers, right? Let’s hack their theft and make it our own.”
 </p>
 <p>
-“How?” the financier asked. “<em>Look</em> at those guys! They’re not new at this. They have guns, training, experience&mdash;”
+“How?” the financier asked. “<em>Look</em> at those guys! They’re not new at this. They have guns, they have training, they have experience&mdash;”
 </p>
 <p>
-“<em>We’ve</em> got a massive tactical advantage.” Danny tapped his laptop screen.
+“<em>We</em> have a massive tactical advantage.” Danny tapped his laptop screen.
 </p>
 <p>
 Mike nodded. “The cameras. You’re talking about going all Splinter Cell on them, right? Covert ops?”
@@ -150,7 +150,7 @@ Mike nodded. “The cameras. You’re talking about going all Splinter Cell on t
 Jason stared at him, aghast. “Jesus. You’re serious. Danny, have you lost your mind? They’ll <em>kill you</em>. Are you willing to literally bet your life on&mdash;”
 </p>
 <p>
-“On my own technical expertise?” Danny snapped. “Yes. Yes, I am.”
+Danny silenced him with eyes that crackled lighting into the air like Tesla coils. “On my own technical expertise? Yes. Yes, I am.”
 </p>
 <p>
 Mike hopped out of the car. “I want in. I said I’d be your muscle if things got physical. I keep my word.”

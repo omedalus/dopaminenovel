@@ -79,7 +79,7 @@ Thunderbird/3.0.1"
 <p>
 Jason tried to keep up. “Is there anything I could be doing?” he asked.
 </p>
-<p>9
+<p>
 “Yes,” said Danny. “Get us more lattes.”
 </p>
 <p>

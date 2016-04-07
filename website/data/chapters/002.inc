@@ -156,7 +156,7 @@ Wait, can you explain something to me please? You emailed my presentation to an 
 </div>
 
 <p>
-A reply came quickly.
+A reply shot back right away.
 </p>
 
 <div class="computer email">
@@ -551,7 +551,7 @@ It certainly wasn’t the first dot-com he’d seen die with a whimper. And, tho
     Give me details?
   </div>
   <div class="message messagein">
-    I can't discuss it over phone or email.
+    Not over phone or email.
   </div>
   <div class="message messagein">
     Do you know the Mercury club on Capitol Hill?

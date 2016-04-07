@@ -67,6 +67,7 @@ hr {
 .epigraphpage {
   margin-top: 5em;
   page: epigraphpage;
+  page-break-before: always;
 }
 
 .titlepage {

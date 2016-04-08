@@ -598,7 +598,7 @@ As he fiddled with the cover, the air vent’s gale died, leaving a quiet stilln
 Danny climbed down from the chair. “Well, it appears my work here’s done. Have a good day, gentlemen.” He gave Ivan a courteous nod. The balconyfolk began filing back inside.
 </p>
 <p>
-He suppressed the urge to sprint from the room, policing his nervers in the name of professional façade, and survival. Toolbox in hand, he walked calmly toward the large cedarwood doors that stood between him and the penthouse anteroom.
+He suppressed the urge to sprint from the room, policing his nerves to maintain a professional façade. Toolbox in hand, he walked calmly toward the large cedarwood doors that stood between him and the penthouse anteroom.
 </p>
 <p>
 And he had almost reached it before he heard a sound behind him.

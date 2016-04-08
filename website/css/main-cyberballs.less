@@ -195,6 +195,7 @@ strong {
 .main-pullquote {
   .satin;
   box-sizing: border-box;
+  color: #eee;
   float: left;
   font-style: italic;
   padding: 10px;
@@ -227,19 +228,17 @@ strong {
 
 .bookshot {
   .rounded(20px);
-  background-image: url('../img/CoverPhoto-II-1.png');
-  background-size: 100%;
+  background-color: white;
   box-shadow: 0 0 20px black inset, 0 0 10px rgba(0, 0, 0, .8);
   height: 500px;
   width: 380px;
 
- -webkit-transition: background-position 2s, background-size 2s;
-  transition: background-position 2s, background-size 2s;
-}
-
-.bookshot:hover {
-  background-position: -80px -160px;
-  background-size: 140%;
+  img {
+    height: 450px;
+    margin-top: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px #aaa;  
+  }
 }
 
 
@@ -293,9 +292,46 @@ strong {
   }
 }
 
-.readfullstory-leading-text {
+.readfullstory-holder-link {
+  color: inherit;
+  text-decoration: none;
+  text-shadow: inherit;
+  
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.readfullstory-holder {
+  box-sizing: border-box;
+  height: 300px;
+  margin: auto;
+  margin-top: 20px;
+  padding-top: 240px;
+  position: relative;
   text-align: center;
-  margin-top: 4em;
+}
+
+.readfullstory-smileyvial {
+  background-image: url('http://dopaminenovel.com/css/../img/CoverPhoto-II-1.png');
+  background-position: center -60px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border-radius: 130px;
+  box-sizing: border-box;
+  height: 260px;
+  left: 100px;
+  position: absolute;
+  width: 260px;
+  top: 0;
+
+  transition: background-position 2s, background-size 2s;
+  -webkit-transition: background-position 2s, background-size 2s;
+  
+  .readfullstory-holder-link:hover & {
+    background-position: center -130px;
+    background-size: 140%;
+  }  
 }
 
 .readfullstory {
@@ -305,22 +341,17 @@ strong {
   box-sizing: border-box;
   color: @color-action;
   font-size: 20px;
-  margin-bottom: 40px;
   padding: 8px;
+  position: relative;
   text-align: center;
   text-shadow: 1px 1px 1px black;
   transition: all 0.2s ease;
   width: 100%;
+  z-index: 1;
 
-  &:hover {
+  .readfullstory-holder-link:hover & {
     color: @color-action-hover;
     text-shadow: 1px 1px 1px @color-action-hover-shadow;
-  }
-
-  a {
-    color: inherit;
-    text-decoration: none;
-    text-shadow: inherit;
   }
 }
 

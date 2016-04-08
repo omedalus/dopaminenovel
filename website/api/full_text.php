@@ -8,7 +8,7 @@ $mturkscript = $mturk ? '<script src="api/mturk.js"></script>' : '';
 
 $showtitle = !($_GET['showtitle'] == 'false');
 $showcopyright = !($_GET['showcopyright'] == 'false');
-$showtoc = !($_GET['showtoc'] == 'false');
+$showtoc = $_GET['showtoc'] == 'true';
 $includescripts = $_GET['includescripts'] == 'true';
 $internalcss = !($_GET['internalcss'] == 'false');
 

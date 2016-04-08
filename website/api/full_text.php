@@ -236,7 +236,7 @@ $acknowledgements_text = file_get_contents('../data/acknowledgements.inc');
 echo <<<EOL
 <div class="blankpage">&nbsp;</div>
 
-<div class="chapter acknowledgementschapter">
+<div class="acknowledgementschapter">
 <div class="chapternumber">
   <a id="acknowledgements" >
     Acknowledgements

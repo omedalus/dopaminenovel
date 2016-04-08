@@ -54,7 +54,7 @@ The barrel did, however, begin leaking its clear, pungent contents all over Dann
 The <em>rat-tat-tat</em> of Julie’s firearm abated, and she bounded up the stairs. Eugene had stopped shooting. From the office room came the spinning clicks of a revolver cylinder and the ding of empty rounds upon the floor.
 </p>
 <p>
-Julie suddenly yelled, “Oh, you’re in trouble now!” She squeezed the trigger, and through the open doorway she sprayed the office wildly with aimless gunfire. Bullets tore into the floor, the walls, the desk, leaving gouges like clawmarks from a wild beast.
+Julie suddenly yelled, “Oh, you’re in trouble now!” She squeezed the trigger, and through the open doorway she sprayed the office wildly with aimless gunfire. Bullets tore into the floor, the walls, the desk, leaving gouges like claw marks from a wild beast.
 </p>
 <p>
 The office’s front door swung open. The two gangsters fled outside, crouching low to dodge the girl’s gunfire, and slammed the heavy outer door shut behind them.

@@ -102,7 +102,7 @@ if ($showcopyright) {
   </div>
 
   <div class="publisher">
-    Published in the United States with Kindle Direct Publishing.
+    Published in the United States with Amazon Kindle Direct Publishing.
   </div>
   
   <div class="copyright">
@@ -195,6 +195,9 @@ EOL;
 <div class="chapter">
 
 <div class="chapternumber">
+  <h2 class="chaptername">
+    $cursection &mdash; Chapter $chapter_number
+  </h2>
   <a id="$chapter_anchor" >
   $chapter_number
   </a>

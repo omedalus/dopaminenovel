@@ -294,7 +294,7 @@ Julie’s face lit up in an ecstatic grin. With her small body and oversized t-s
 Julie stared transfixed at the rails of coke with an expression not unlike Pavlov’s dogs upon hearing a bell.
 </p>
 <p>
-Rex rolled up a dollar bill into a tight tube. He sat up straight, tossed his long stringy blond hair behind his head, and exhaled fully. Then, in one continious motion, he brought the rolled-up bill to his nostril, bowed his head, and traced the end of the green tube along the bottom-most line. When all the granules had disappeared up his nose, he pitched his head back, closed his eyes, and emitted a satisfied sigh.
+Rex rolled up a dollar bill into a tight tube. He sat up straight, tossed his long stringy blond hair behind his head, and exhaled fully. Then, in one continuous motion, he brought the rolled-up bill to his nostril, bowed his head, and traced the end of the green tube along the bottom-most line. When all the granules had disappeared up his nose, he pitched his head back, closed his eyes, and emitted a satisfied sigh.
 </p>
 <p>
 Julie tried to body-check him off of the chair. “My turn!”

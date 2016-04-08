@@ -219,7 +219,7 @@ Danny vaguely registered a black form zip through the air, a ghost’s shadow. T
 But Danny didn’t actually see or hear them land. The thing that had struck the man’s chest exploded.
 </p>
 <p>
-It had come from the underslung M203 projectile launcher of Leo’s rifle. It was black with a rubbery surface, about the size of a pill bottle. Its pyrotechnic formula was designed to throw no shrapnel and spout no flame. Instead, for one infinitessimal instant, it burned twice as bright as the sun and boomed louder than a jet engine.
+It had come from the underslung M203 projectile launcher of Leo’s rifle. It was black with a rubbery surface, about the size of a pill bottle. Its pyrotechnic formula was designed to throw no shrapnel and spout no flame. Instead, for one infinitesimal instant, it burned twice as bright as the sun and boomed louder than a jet engine.
 </p>
 <p>
 It was a 40-millimeter spin-stabilized flash grenade. And when it went off, Danny was looking at it.

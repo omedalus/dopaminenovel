@@ -44,10 +44,12 @@ hr {
   text-align: center;
 }
 
+.chapsection {
+}
+
 .chapter {
   page: chapterpage;
 }
-
 .chapter .chaptername {
   font-size: 0px;
   opacity: 0;
@@ -59,9 +61,6 @@ hr {
   margin-right: 1.5em;
   margin-top: 1em;
   text-align: right;
-}
-.chapter p.first-child {
-  page-break-before: avoid;  
 }
 
 .blankpage {
@@ -114,10 +113,13 @@ hr {
   font-variant: small-caps;
 }
 
+#storystart {
+  page: storystartpage;
+}
+
 
 @page {
 }
-
 @page actbreak {
   page-break-before: right;
 }
@@ -130,8 +132,12 @@ hr {
 @page tocpage {
 }
 @page chapterpage {
-  page-break-before: always;
 }
+@page storystartpage {
+  counter-reset: page -2;
+}
+
+
 
 .blankpage {
   page-break-before: always;
@@ -157,8 +163,8 @@ hr {
   margin-top: 12px;
 }
 
-#start {
-  counter-reset: custompagecounter;
+#story {
+  page: storypage;
 }
 
 .actbreak {
@@ -166,7 +172,6 @@ hr {
 }
 
 .chapter {
-  page: chapterpage;
 }
 
 .printonly {
@@ -284,7 +289,6 @@ span.computer {
   }
 
   @page {
-    counter-increment: custompagecounter;
     margin-bottom: 0.5in;
     margin-top: 1in;
     margin-left: 0.5in;
@@ -305,7 +309,7 @@ span.computer {
       margin-top: 0.25in;
     }
     @top-left {
-      content: counter(custompagecounter);
+      content: counter(page);
       margin-top: 0.25in;
     }
   }
@@ -317,13 +321,9 @@ span.computer {
       margin-top: 0.25in;
     }
     @top-right {
-      content: counter(custompagecounter);
+      content: counter(page);
       margin-top: 0.25in;
     }
-  }
-
-  @page chapterpage:first {
-    margin-top: 5in;
   }
   
   body {
@@ -352,4 +352,4 @@ span.computer {
     padding-left: 10px;
     padding-right: 0;
   }
-}
+} 

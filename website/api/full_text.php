@@ -177,6 +177,8 @@ EOL;
 }
 
 echo <<<EOL
+
+<div id="storystart">&nbsp;</div>
 <div id="story">
 
 EOL;
@@ -223,6 +225,7 @@ EOL;
 }
 
 echo <<<EOL
+
 </div> <!-- story -->
 
 EOL;

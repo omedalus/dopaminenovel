@@ -30,7 +30,7 @@ echo <<<EOL
 <html lang="en-us" xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <title>Dopamine</title>
-  <base target="_self" />
+  <base target="_self" href="http://dopaminenovel.com/api/" />
 
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
 
@@ -76,7 +76,7 @@ if ($showtitle) {
         alt="Dopamine" />
   </div>
   <div>
-    <img src="../img/smileyvial-round.png"/>
+    <img src="../img/smileyvial-round.png" alt="'Such a small thing, yet a cause of so much fuss!'"/>
   </div>
   <div class="authorbyline">
     <img src="../img/ANovelBy.png"
@@ -172,8 +172,14 @@ EOL;
 </ol>
 </nav>
 </div>
+
 EOL;
 }
+
+echo <<<EOL
+<div id="story">
+
+EOL;
 
 
 $cursection = '';
@@ -216,9 +222,15 @@ $chapter_text
 EOL;
 }
 
+echo <<<EOL
+</div> <!-- story -->
+
+EOL;
+
+
+
 $acknowledgements_text = file_get_contents('../data/acknowledgements.inc');
 echo <<<EOL
-
 <div class="blankpage">&nbsp;</div>
 
 <div class="chapter acknowledgementschapter">

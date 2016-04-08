@@ -242,6 +242,7 @@ hr {
 
 
 /* Drop cap. */
+/*
 .chapsection p:first-child:first-letter { 
   color: #903; 
   float: left; 
@@ -251,6 +252,7 @@ hr {
   padding-right: 8px; 
   padding-left: 3px; 
 }
+*/
 
 /* Cap lead. */
 .caplead {

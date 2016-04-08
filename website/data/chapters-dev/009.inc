@@ -147,10 +147,10 @@ Mike nodded. “The cameras. You’re talking about going all Splinter Cell on t
 “Right,” said Danny. “We can see everything in there. They can’t. And that information asymmetry means that <em>we</em> have the upper hand. At Claymore, I built Navy communication grids. Modern battlefields are digital. During both Iraq wars, what’s the first thing the US Army did? Knocked out the enemy computer networks. During the riots in Iran and Libya and Syria, the rulers disabled civilian access to cellphones. Information is what the military refers to as a ‘force multiplier’. Those guys in there have guns. But information? That’s <em>our</em> game.”
 </p>
 <p>
-Jason stared at him, aghast. “Jesus. You’re serious. Danny, have you lost your mind? They’ll <em>kill you</em>. Are you willing to literally bet your life on&mdash;”
+Jason stared at him, aghast. “Jesus, Danny. You’re serious. Have you lost your mind? They’ll <em>kill you</em>. Are you willing to literally bet your life on&mdash;”
 </p>
 <p>
-Danny silenced him with eyes that crackled lighting into the air like Tesla coils. “On my own technical expertise? Yes. Yes, I am.”
+“On my own technical expertise?” His eyes crackled lighting into the air like Tesla coils. “Yes. Always.”
 </p>
 <p>
 Mike hopped out of the car. “I want in. I said I’d be your muscle if things got physical. I keep my word.”

@@ -332,6 +332,20 @@ span.computer {
 
 /* Media overrides. */
 @media print {
+  @page {
+    margin-bottom: 0.25in;
+    margin-top: 0.5in;
+  }
+  
+  @page:left {
+    margin-right: 1in;
+    margin-left: 0.25in;
+  }
+  @page:right {
+    margin-right: 0.25in;
+    margin-left: 1in;
+  }
+  
   body {
     margin: 0;
   }

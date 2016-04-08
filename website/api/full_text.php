@@ -98,11 +98,17 @@ if ($showcopyright) {
     Dopamine
   </div>
   <div class="fictionnotice">
-    <i>Dopamine</i> a work of fiction. Names, characters, places, and incidents either are the product of the author’s imagination or are used fictitiously. Any resemblance to actual persons, living or dead, events, or locales is entirely coincidental.
+    <i>Dopamine</i> a work of fiction. Names, characters, places, and incidents are either the product of the author’s imagination or are used fictitiously. Any resemblance to actual persons, living or dead, events, entities, or locales is entirely coincidental.
   </div>
 
   <div class="publisher">
-    Published in the United States with Amazon Kindle Direct Publishing.
+    Published electronically with Amazon Kindle Direct Publishing.<br/>
+    ISBN: 978-1-5323-0165-0
+  </div>
+
+  <div class="publisher">
+    Published in paperback by Lulu Publishing, Inc.<br/>
+    ISBN: 978-1-365-03222-6
   </div>
   
   <div class="copyright">
@@ -212,6 +218,9 @@ EOL;
 
 $acknowledgements_text = file_get_contents('../data/acknowledgements.inc');
 echo <<<EOL
+
+<div class="blankpage">&nbsp;</div>
+
 <div class="chapter acknowledgementschapter">
 <div class="chapternumber">
   <a id="acknowledgements" >

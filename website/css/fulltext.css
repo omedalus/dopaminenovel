@@ -40,16 +40,23 @@ hr {
   margin-bottom: 2em;
   margin-top: 1em;
   padding-top: 2em;
-  page: actbreak;
   text-align: center;
 }
 
 .chapsection {
 }
+@page chapterpage {
+  page-break-before: avoid;
+}
+@page {
+  page-break-before: avoid;
+  page-break-after: avoid;
+}
 
 .chapter {
   page: chapterpage;
 }
+
 .chapter .chaptername {
   font-size: 0px;
   opacity: 0;
@@ -61,21 +68,19 @@ hr {
   margin-right: 1.5em;
   margin-top: 1em;
   text-align: right;
+  page-break-before: always;
 }
 
 .blankpage {
-  page: blankpage;
 }
 
 .epigraphpage {
   margin-top: 5em;
-  page: epigraphpage;
   page-break-before: always;
 }
 
 .titlepage {
   text-align: center;
-  page: titlepage;
 }
 .titlepage  .booktitle {
   color: #7997df;
@@ -101,7 +106,6 @@ hr {
   font-size: 14px;
   margin-top: 6em;
   max-width: 40em;
-  page: copyrightpage;
   page-break-before: always;
   text-align: left;
   vertical-align: bottom;
@@ -116,27 +120,6 @@ hr {
 #storystart {
   page: storystartpage;
 }
-
-
-@page {
-}
-@page actbreak {
-  page-break-before: right;
-}
-@page titlepage {
-}
-@page copyrightpage {
-}
-@page blankpage {
-}
-@page tocpage {
-}
-@page chapterpage {
-}
-@page storystartpage {
-  counter-reset: page -2;
-}
-
 
 
 .blankpage {
@@ -292,10 +275,10 @@ span.computer {
   }
 
   @page {
-    margin-bottom: 0.5in;
-    margin-top: 1in;
-    margin-left: 0.5in;
-    margin-right: 0.5in;
+    margin-bottom: 0.25in;
+    margin-top: .75in;
+    margin-left: 0.25in;
+    margin-right: 0.25in;
     size: 6in 9in;
   }
   
@@ -322,16 +305,15 @@ span.computer {
     @top-center {
       content: "Dopamine";
       font-variant: small-caps;
-      margin-top: 0.25in;
     }
     @top-right {
       content: counter(page);
-      margin-top: 0.25in;
     }
   }
   
   body {
     margin: 0;
+    line-height: 140%;
   }
   pre.computer, .computer.email {
     padding-left: 10px;
@@ -356,4 +338,4 @@ span.computer {
     padding-left: 10px;
     padding-right: 0;
   }
-}
+}   

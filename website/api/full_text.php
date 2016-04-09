@@ -102,13 +102,23 @@ if ($showcopyright) {
   </div>
 
   <div class="publisher">
-    Published electronically with Amazon Kindle Direct Publishing.<br/>
+    Electronic edition:<br/>
     ISBN: 978-1-5323-0165-0
   </div>
 
   <div class="publisher">
-    Published in paperback by Lulu Publishing, Inc.<br/>
+    Paperback edition:<br/>
     ISBN: 978-1-365-03222-6
+  </div>
+  
+  <div class="artist">
+    Cover art by twinartdesign.
+  </div>
+  
+  <div class="online">
+    Online resources<br/>
+    Official website: <a href="http://dopaminenovel.com/">http://dopaminenovel.com/</a><br/>
+    Facebook fan page: <a href="https://www.facebook.com/dopaminenovel/">https://www.facebook.com/dopaminenovel/</a>
   </div>
   
   <div class="copyright">

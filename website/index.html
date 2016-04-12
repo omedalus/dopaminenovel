@@ -46,8 +46,6 @@
         type="text/javascript"></script>
 
     <script src="js/main.js"></script>
-    <script src="js/chapter-resource.js"></script>
-    <script src="js/story-controller.js"></script>
 
     <!-- Ambient animations -->
     <script type="text/javascript" src="js/background-cyberballs.js"></script>
@@ -174,101 +172,6 @@
           </article>
         </section>
 
-        <section class="storyreader" data-ng-show="storymode"
-              data-ng-controller="StoryController">
-          <div class="chapterlistsidebar">
-            <nav class="chapterlist">
-              <ul>
-                <li data-ng-repeat="chapternum in chapterList">
-                  <div data-ng-show="!!chapterActs[chapternum]">
-                    <div class="chapteract" data-ng-bind="chapterActs[chapternum]"></div>
-                  </div>
-                  <a class="chapterlink" href="#/story?chapter={{chapternum}}"
-                      data-ng-class="{currentchapter: chapter==chapternum}">
-                    Chapter {{chapternum}}
-                  </a>
-                </li>
-                
-                <li class="downloadfulltext">
-                  <div class="chapteract">
-                    Full Text
-                  </div>
-                  <a class="chapterlink" href="/api/full_text.php" id="fulltext_html">
-                    HTML
-                  </a>
-                </li>
-                <li class="downloadfulltext">
-                  <a class="chapterlink" href="/download/DOPAMINE.pdf" id="fulltext_pdf">
-                    PDF
-                  </a>
-                </li>
-                <li class="downloadfulltext">
-                  <a class="chapterlink" href="/download/DOPAMINE.epub" id="fulltext_epub">
-                    eBook
-                  </a>
-                </li>              
-                <li class="downloadfulltext">
-                  <a class="chapterlink" href="/download/DOPAMINE.mobi" id="fulltext_kindle">
-                    Kindle
-                  </a>
-                </li>
-              </ul>
-            </nav>
-
-            <div class="fblikechapterlistsidebar">
-              <div class="fb-like" 
-                  data-href="https://www.facebook.com/pages/Dopamine/239236939542709" 
-                  data-layout="button" data-action="like" data-show-faces="true" 
-                  data-share="true"></div>
-            </div>
-          </div>
-          
-          <div class="storyspaceholder">
-            <article class="storyspace">
-              <div class="copyrightpage" data-ng-show="chapter == 1">
-                <div class="booktitle-redux">
-                  Dopamine
-                </div>
-                <div class="fictionnotice">
-                  This is a work of fiction. Names, characters, places, and incidents either are the product of the author’s imagination or are used fictitiously, and any resemblance to actual persons, living or dead, events, or locales is entirely coincidental.
-                </div>
-
-                <div class="copyright">
-                  Copyright 2014 &copy; Mikhail Voloshin<br/>
-                  All rights reserved.
-                </div>
-              </div>
-            
-              <div class="storycontents textselect" data-ng-bind-html="chapterContents"></div>
-            </article>
-            <div class="prevnextchapter">
-              <a class="prevlink" data-ng-show="!!previousChapter()" 
-                  href="#/story?chapter={{previousChapter()}}">
-                &#8592; Return to chapter {{previousChapter()}}
-              </a>
-              
-              <a class="nextlink" data-ng-show="!!nextChapter()"
-                  href="#/story?chapter={{nextChapter()}}">
-                Proceed to chapter {{nextChapter()}} &#8594;
-              </a>
-              
-              <div class="thankyouforreading">
-                <div class="fblikechapterbottom">
-                  <div class="fb-like" 
-                      data-href="https://www.facebook.com/pages/Dopamine/239236939542709" 
-                      data-layout="button" data-action="like" data-show-faces="true" 
-                      data-share="true"></div>
-                </div>
-              </div>
-            </div>
-            
-            <div class="fbchaptercomments">
-              <div class="fb-comments" data-href="{{fbCommentFrameHref()}}" 
-                  data-width="700" data-numposts="20" data-colorscheme="dark"></div>
-            </div>
-          </div>
-
-        </section>
       </div>
 
     </div>

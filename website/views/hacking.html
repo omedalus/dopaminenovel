@@ -30,7 +30,7 @@
             Hacking, by definition, is the act of getting a system to do
             something that
             its legitimate users (or possibly even its own designers)
-            expect it <em>not</em> to do. At it's heart, it's a sophisticated
+            expect it <em>not</em> to do. At its heart, it's a sophisticated
             form of con artistry &mdash; and like any good con, it requires
             preparation
             and attention to detail to pull off well.
@@ -41,9 +41,9 @@
               a well-established industry-standard five-step pattern</a>. It
             looks like this:
           </p>
-          <ul>
+          <ol>
             <li>
-              <em>1. Reconnaissance.</em> The hacker will learn about the person
+              <em>Reconnaissance.</em> The hacker will learn about the person
               or organization they're going to attack. They'll study the
               personalities of a company's employees and try to discover
               their motivations, desires, and personal weaknesses. The
@@ -53,7 +53,7 @@
               made that leave a back door open somewhere.
             </li>
             <li>
-              <em>2. Scanning.</em> The hacker uses probing tools to examine the
+              <em>Scanning.</em> The hacker uses probing tools to examine the
               victim's machines. Of particular interest is the make and model
               of the equipment, and what software it's running. The hacker will
               research the equipment to look for esoteric details that its
@@ -63,7 +63,7 @@
               than the victims themselves know.
             </li>
             <li>
-              <em>3. Gaining access.</em> The hacker uses the knowledge gained
+              <em>Gaining access.</em> The hacker uses the knowledge gained
               from the previous steps to get a foothold in the victim's
               machines. "Access" can mean many things; it could just mean
               reading a private webpage that only the victim is allowed to see,
@@ -72,7 +72,7 @@
               hacker's trying to do.
             </li>
             <li>
-              <em>4. Maintaining access.</em> Having gained a foothold, the
+              <em>Maintaining access.</em> Having gained a foothold, the
               hacker will often install secret back doors to make it much
               easier to attack the system again later. This takes a lot of
               pressure off of the hacker. She might have gotten onto the
@@ -83,7 +83,7 @@
               scot-free.
             </li>
             <li>
-              <em>5. Cleanup.</em> Having completed the infiltration, a good
+              <em>Cleanup.</em> Having completed the infiltration, a good
               hacker will remove all trace of ever having been there. They'll
               scrub system logs, delete their own intrusion tools, reactivate
               any antivirus systems they might have disabled on their way in,
@@ -92,7 +92,7 @@
               it came from. A truly skilled hacker will leave the victim
               unaware that an attack even took place at all.
             </li>
-          </ul>
+          </ol>
           <p>
             This formula is so well-established that it's part of the syllabus
             for <a href="http://www.eccouncil.org/Certification/certified-ethical-hacker">
@@ -656,13 +656,51 @@
     </div>    
     
     <div class="infolistitem">
-      <a class="infolistitem-header notready">
+      <a class="infolistitem-header">
         Reverse shells
       </a>
       <div class="infolistitem-content">
         <div class="infolistitem-collapsed">
           <p>
-            <em>Coming soon!</em>
+            When Danny gets a screechy-voiced intern on the phone at RockBox Security, he has
+            the young man type a cryptic command into his Mac's Terminal window. The command,
+            unbeknownst to the intern, had the effect of opening a 
+            <a href="http://resources.infosecinstitute.com/icmp-reverse-shell/">reverse shell</a>
+            to the kid's console.
+          </p>
+          <p>
+            A "shell" is a command-line interface that allows a computer's user to
+            control the computer via text. Because it's much easier to send text over a
+            network than to send interactive graphics, shells are the preferred interface
+            among many computer professionals for operating a computer by remote.
+          </p>
+          <p>
+            Normally, a computer waits for incoming connections, challenges these connections
+            with a username/password prompt, and then permits the connecting user to enter
+            shell commands. This is the normal operating pattern of servers such as SSH,
+            rsh, or telnet.
+          </p>
+          <p>
+            However, it's possible to make a computer proactively connect to some server on
+            the internet and execute whatever commands the server gives it. This is what 
+            happens in a <em>reverse shell</em>. There are 
+            <a href="http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet">
+            many ways to make a computer do this</a>. When Danny tricks the intern into 
+            opening a reverse shell through his Mac's OSX command line, Danny first sets
+            up a shell server at Claymore's corporate IP address and then has the kid enter
+            that address and make his Mac invisibly start performing whatever commands Danny
+            types into it from there.
+          </p>
+          <p>
+            Reverse shells are attractive to hackers because they obviate the need for the
+            hacker to log into the target system. Instead of the hacker breaking in, the
+            reverse shell is essentially an "inside agent" within the victim's machine that
+            "breaks out". Instead of the hacker having to push commands to the target, the
+            target instead goes out to the hacker and asks for commands on its own. Many viruses
+            and malware work this way &mdash; not by creating a back door in the sense of a 
+            secret user account, but by installing a daemon that runs on the infected machine,
+            periodically reaching out to the hacker's servers and dutifully obeying whatever
+            orders they give it.
           </p>
         </div>
       </div>

@@ -269,29 +269,29 @@ span.computer {
   }
 
   @page {
-    margin-bottom: 0.25in;
-    margin-top: .75in;
-    margin-left: 0.25in;
-    margin-right: 0.25in;
+    margin-bottom: 0.75in;
+    margin-top: 1in;
+    margin-left: 0.5in;
+    margin-right: 0.5in;
     size: 6in 9in;
   }
   
   @page :left {
-    margin-right: 1in;
+    margin-right: .75in;
   }
   @page :right {
-    margin-left: 1in;
+    margin-left: .75in;
   }
 
   @page chapterpage:left {
     @top-center {
       content: "Mikhail Voloshin";
       font-style: italic;
-      margin-top: 0.25in;
+      margin-top: 0;
     }
     @top-left {
       content: counter(page);
-      margin-top: 0.25in;
+      margin-top: 0;
     }
   }
 
@@ -299,9 +299,11 @@ span.computer {
     @top-center {
       content: "Dopamine";
       font-variant: small-caps;
+      margin-top: 0;
     }
     @top-right {
       content: counter(page);
+      margin-top: 0;
     }
   }
   

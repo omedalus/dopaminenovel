@@ -29,15 +29,29 @@ sup, sub {
 
 /* Flourishes */
 hr {
-  margin-bottom: 2em;
-  margin-top: 2em;
-  max-width: 385px;
-  margin: 2em auto;
-  background: url('../img/500px-Dopamine2.svg_.png');
+  margin-top: 3em;
   border: none;
-  height: 30px;
-  background-size: contain;
+  border-top: medium double #333;
+  color: #333;
+  text-align: center;
   opacity: .25;
+  width: 75%;
+}
+hr:after {
+  content: "";
+  max-width: 385px;
+  background: white url('../img/500px-Dopamine2.svg_.png');
+  border: none;
+  height: 40px;
+  background-size: contain;
+  display: inline-block;
+  position: relative;
+  top: -0.7em;
+  font-size: 1.5em;
+  padding: 0 0.25em;
+  width: 100px;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .underlined {

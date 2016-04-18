@@ -6,8 +6,11 @@ body {
   page-break-before: right;
 }
 
-p {
+* {
   clear: both;
+}
+
+p {
   margin-bottom: 0;
   margin-top: 0;
   orphans: 3;
@@ -28,7 +31,13 @@ sup, sub {
 hr {
   margin-bottom: 2em;
   margin-top: 2em;
-  max-width: 50%;
+  max-width: 385px;
+  margin: 2em auto;
+  background: url('../img/500px-Dopamine2.svg_.png');
+  border: none;
+  height: 30px;
+  background-size: contain;
+  opacity: .25;
 }
 
 .underlined {
@@ -240,12 +249,10 @@ span.computer {
 }
 
 .cyberchat  .messagein {
-  clear: both;
   float: left;
 }
 
 .cyberchat  .messageout {
-  clear: both;
   float: right;
   text-align: right;
 }

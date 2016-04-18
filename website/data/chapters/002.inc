@@ -139,13 +139,13 @@ Verizon Communications
 The email continued with a chain of forwards and replies by random corporate people. The attachment was the PowerPoint presentation that Danny had delivered less than half an hour ago.
 </p>
 <p>
-“<span class="computer">Sure</span>,” Danny typed in reply. “<span class="computer">Put simply, the phase angle deltas are part of the encoding scheme. To solve the obvious physical reception problems, we’ve developed a polyradial antenna</span>”&mdash;
+“<span class="computer">Sure</span>,” Danny typed. “<span class="computer">Put simply, the phase angle deltas are part of the encoding scheme. To solve the obvious physical reception problems, we’ve developed a polyradial antenna design that</span>”&mdash;
 </p>
 <p>
 His fingers froze. A surge of doubt swelled from the back of his mind, eclipsing NIN Man’s request. It dawned on him that there was a much more challenging conundrum before him. The email thread was about dynamic self-calibrating quadrature amplitude modulation protocols in the ISM-band domain. The conundrum, on the other hand, involved social cues and verbal subtexts &mdash; something far more complicated.
 </p>
 <p>
-Danny deleted his reply-in-progress and replaced it with:
+Danny deleted his message-in-progress and replaced it with:
 </p>
 
 <div class="computer email">

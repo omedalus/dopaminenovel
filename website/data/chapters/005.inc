@@ -146,9 +146,9 @@ From: “Dr. Piotr Passinsky”<br/>
 > >   our rooftop helipad<br/>
 > > * Water taxi from any Lake Washington marina to our <br/>
 > >   private pier<br/>
-> > Please let us know if you wish to take advantage of these<br/>
-> > amenities, or if there is any other way we can improve<br/>
-> > your visit.<br/>
+> > Please let us know if you wish to take advantage of<br/>
+> > these amenities, or if there is any other way we can<br/>
+> > improve your visit.<br/>
 ><br/>
 > Will this do, Dr. P?<br/>
 <br/>

@@ -7,6 +7,7 @@ body {
 }
 
 p {
+  clear: both;
   margin-bottom: 0;
   margin-top: 0;
   orphans: 3;
@@ -210,6 +211,7 @@ hr {
 .computer {
   color: #040;
   font-family: "Courier New", Courier, monospace;
+  letter-spacing: -.1ex;
 }
 
 pre.computer, .computer.email {
@@ -233,15 +235,18 @@ span.computer {
   border-radius: 8px;
   box-sizing: border-box;
   margin-bottom: 1em;
+  max-width: 75%;
   padding: 8px;
 }
 
 .cyberchat  .messagein {
-  margin-right: 200px;
+  clear: both;
+  float: left;
 }
-  
+
 .cyberchat  .messageout {
-  margin-left: 200px;
+  clear: both;
+  float: right;
   text-align: right;
 }
 
@@ -268,9 +273,9 @@ span.computer {
   }
 
   @page {
-    margin: 0.625in;
+    margin: 0.75in;
     margin-top: 1in;
-    size: 5.5in 8in;
+    size: 5.833in 8.264in;
   }
   
   @page chapterpage:left {
@@ -291,6 +296,7 @@ span.computer {
     @top-center {
       content: "Dopamine";
       font-variant: small-caps;
+      letter-spacing: 1ex;
       margin-top: 0;
     }
     @top-right {
@@ -300,7 +306,7 @@ span.computer {
       margin-right: 20%;
     }
   }
-  
+
   body {
     color: #000;
     font-family: Palatino;

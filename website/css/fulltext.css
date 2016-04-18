@@ -169,20 +169,6 @@ hr {
   text-indent: 0;
 }
 
-
-/* Drop cap. */
-/*
-.chapsection p:first-child:first-letter { 
-  color: #903; 
-  float: left; 
-  font-size: 75px; 
-  line-height: 60px; 
-  padding-top: 4px; 
-  padding-right: 8px; 
-  padding-left: 3px; 
-}
-*/
-
 /* Cap lead. */
 .caplead {
   font-variant: small-caps;
@@ -210,7 +196,7 @@ hr {
 /* Blockquote. */
 .prechapter  {
   font-weight: bold;
-  margin-right: 0;
+  margin-right: 2em;
   padding-right: 0;
   text-align: right;
 }
@@ -262,27 +248,31 @@ span.computer {
 /* Media overrides. */
 @media print {
   p {
+    orphans: 2;
     text-align: justify;
+    text-indent: 3ex;
+    widows: 2;
   }
+
   img {
     width: 66%;
   }
 
-  @page {
-    margin-bottom: 0.75in;
-    margin-top: 1in;
-    margin-left: 0.5in;
-    margin-right: 0.5in;
-    size: 6in 9in;
-  }
-  
-  @page :left {
-    margin-right: .75in;
-  }
-  @page :right {
-    margin-left: .75in;
+  /* Drop cap. */
+  .chapsection p:first-child:first-letter { 
+    color: #903; 
+    float: left; 
+    margin-right: .25ex;
+    font-size: 300%; 
+    line-height: 100%;
   }
 
+  @page {
+    margin: 0.625in;
+    margin-top: 1in;
+    size: 5.5in 8in;
+  }
+  
   @page chapterpage:left {
     @top-center {
       content: "Mikhail Voloshin";
@@ -291,7 +281,9 @@ span.computer {
     }
     @top-left {
       content: counter(page);
+      font-style: italic;
       margin-top: 0;
+      margin-left: 20%;
     }
   }
 
@@ -303,19 +295,28 @@ span.computer {
     }
     @top-right {
       content: counter(page);
+      font-style: italic;
       margin-top: 0;
+      margin-right: 20%;
     }
   }
   
   body {
+    color: #000;
+    font-family: Palatino;
+    font-size: 11pt;
     margin: 0;
-    line-height: 140%;
+    line-height: 14pt;
   }
   pre.computer, .computer.email {
     padding-left: 10px;
     padding-right: 0;
   }
   
+  .computer {
+    font-size: 9pt;
+  }
+
   .printonly {
     display: initial;
   }
@@ -327,6 +328,19 @@ span.computer {
   .chaptername {
     display: none;
   }
+
+  .chapter .chapternumber {
+    margin-right: 0;
+  }
+
+  .cyberchat  .messagein {
+    margin-right: 100px;
+  }
+  
+  .cyberchat  .messageout {
+    margin-left: 100px;
+    text-align: right;
+  }
 }
 
 @media (max-width:799px) {
@@ -334,4 +348,4 @@ span.computer {
     padding-left: 10px;
     padding-right: 0;
   }
-}   
+}

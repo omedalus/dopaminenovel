@@ -29,13 +29,16 @@ sup, sub {
 
 /* Flourishes */
 hr {
+  margin: auto;
   margin-top: 3em;
   border: none;
-  border-top: medium double #333;
-  color: #333;
+  border-top: solid 1px #aaa;
+  border-bottom: solid 1px #aaa;
+  color: #aaa;
   text-align: center;
-  opacity: .25;
   width: 75%;
+  height: 1ex;
+  margin-bottom: 3em;
 }
 hr:after {
   content: "";
@@ -283,6 +286,13 @@ span.computer {
   img {
     width: 66%;
   }
+  
+  hr {
+    transform: scale(.66);
+    border-top: solid .25px #aaa;
+    border-bottom: solid .25px #aaa;
+    color: #aaa;
+  }
 
   /* Drop cap. */
   .chapsection p:first-child:first-letter { 
@@ -339,7 +349,7 @@ span.computer {
     padding-left: 10px;
     padding-right: 0;
   }
-  
+
   .computer {
     font-size: 9pt;
   }

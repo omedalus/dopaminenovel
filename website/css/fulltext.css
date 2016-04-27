@@ -311,11 +311,17 @@ span.computer {
   }
 
   @page {
-    margin: 0.75in;
+    margin: 0.5in;
     margin-top: 1in;
     size: 5.833in 8.264in;
   }
-  
+  @page:left {
+    margin-right: 1in;
+  }
+  @page:right {
+    margin-left: 1in;
+  }
+
   @page chapterpage:left {
     @top-center {
       content: "Mikhail Voloshin";
@@ -334,7 +340,6 @@ span.computer {
     @top-center {
       content: "Dopamine";
       font-variant: small-caps;
-      letter-spacing: 1ex;
       margin-top: 0;
     }
     @top-right {

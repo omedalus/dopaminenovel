@@ -17,7 +17,6 @@ p {
   text-indent: 0;
 }
 
-
 sup, sub {
   font-size: 10px;
   line-height: 0;
@@ -253,6 +252,12 @@ span.computer {
   margin-bottom: 1em;
 }
 
+.computer.cyberchat:after {
+  content: " ";
+  clear: both;
+  display: table;
+}
+
 .cyberchat .speaker {
   font-weight: bold;
 }
@@ -262,32 +267,34 @@ span.computer {
   border: 1px solid #9a9;
   border-radius: 8px;
   box-sizing: border-box;
-  display: table;
+  clear: both;
+  display: block;
   margin-top: 1em;
   max-width: 75%;
   padding: .5ex .75em;
 }
 
 .cyberchat  .messagein {
+  float: left;
 }
 
 .cyberchat  .messageout {
-  margin-left: auto;
+  float: right;
   text-align: right;
 }
 
 .messagein + .messagein, 
 .messageout + .messageout {
-    margin-top: 0.25em;
+  margin-top: 0.25em;
 }
 
 /* Media overrides. */
 @media print {
   p {
-    orphans: 2;
+    orphans: 1;
     text-align: justify;
     text-indent: 3ex;
-    widows: 2;
+    widows: 1;
   }
 
   img {

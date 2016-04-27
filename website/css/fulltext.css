@@ -291,10 +291,10 @@ span.computer {
 /* Media overrides. */
 @media print {
   p {
-    orphans: 1;
+    orphans: 2;
     text-align: justify;
     text-indent: 3ex;
-    widows: 1;
+    widows: 2;
   }
 
   img {

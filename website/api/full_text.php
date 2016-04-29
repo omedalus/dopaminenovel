@@ -108,7 +108,7 @@ if ($showcopyright) {
 
   <div class="publisher">
     Paperback edition:<br/>
-    ISBN: 978-1-365-03222-6
+    ISBN: 978-1533001733
   </div>
   
   <div class="artist">

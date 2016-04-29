@@ -320,13 +320,13 @@ span.computer {
   @page {
     margin: 0.5in;
     margin-top: 1in;
-    size: 5.833in 8.264in;
+    size: 5in 8in;
   }
   @page:left {
-    margin-right: 1in;
+    margin-right: .75in;
   }
   @page:right {
-    margin-left: 1in;
+    margin-left: .75in;
   }
 
   @page chapterpage:left {
